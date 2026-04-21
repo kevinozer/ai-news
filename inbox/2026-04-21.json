@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-04-21T12:55:46.224188+00:00",
+  "generated_at": "2026-04-21T23:18:58.263426+00:00",
   "date": "2026-04-21",
-  "article_count_unique": 142,
-  "article_count_raw": 142,
+  "article_count_unique": 152,
+  "article_count_raw": 152,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 15,
+      "raw_count": 15
     },
     {
       "source_id": "verge_ai",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 10,
+      "raw_count": 10
     },
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 13,
-      "raw_count": 13
+      "count": 20,
+      "raw_count": 20
     },
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 10,
+      "raw_count": 10
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "anthropic_news",
@@ -67,20 +67,20 @@
     {
       "source_id": "huggingface_blog",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "import_ai",
-      "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1240: not well-formed (invalid token)",
+      "count": 0
     },
     {
       "source_id": "tldr_ai",
       "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "bens_bites",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "latent_space",
@@ -114,9 +114,9 @@
     },
     {
       "source_id": "marcus_on_ai",
-      "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1240: not well-formed (invalid token)",
+      "count": 0
     },
     {
       "source_id": "dwarkesh",
@@ -126,15 +126,15 @@
     },
     {
       "source_id": "zvi_vase",
-      "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1240: not well-formed (invalid token)",
+      "count": 0
     },
     {
       "source_id": "interconnects",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "arxiv_cs_ai",
@@ -156,15 +156,15 @@
     },
     {
       "source_id": "reddit_ml",
-      "status": "ok",
-      "count": 15,
-      "raw_count": 15
+      "status": "error",
+      "error": "HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/r/MachineLearning+LocalLLaMA/top.json?t=day&limit=100",
+      "count": 0
     },
     {
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 4,
-      "raw_count": 14
+      "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,714 @@
     }
   ],
   "articles": [
+    {
+      "id": "b786c3c62797393e",
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "published_at": "2026-04-21T22:58:22+00:00",
+      "author": "Tim Fernholz",
+      "summary_raw": "Only Elon would do this before an IPO.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "e2c92c6dd5c61030",
+      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+      "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+      "published_at": "2026-04-21T22:45:37+00:00",
+      "author": "Richard Lawler",
+      "summary_raw": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools compete with market [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "5e9195c93771dfb2",
+      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+      "published_at": "2026-04-21T22:09:25+00:00",
+      "author": "MIT Technology Review",
+      "summary_raw": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful movements in AI that you need to know about&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "277bd762273b2c8b",
+      "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
+      "url": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
+      "published_at": "2026-04-21T21:57:54+00:00",
+      "author": "Jeremy Hsu",
+      "summary_raw": "The proposed Pentagon drone investment rivals Ukraine’s entire military budget.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/US-military-drone-1152x648.jpeg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "68d6d9a1d108a86f",
+      "title": "Mozilla: Anthropic's Mythos found 271 zero-day vulnerabilities in Firefox 150",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+      "published_at": "2026-04-21T21:40:41+00:00",
+      "author": "Kyle Orland",
+      "summary_raw": "CTO says new AI model is \"every bit as capable\" as world's best security researchers.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2235759925-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "93890a998d508094",
+      "title": "Supreme Court arguments make it clear that FCC fines are \"nonbinding\"",
+      "url": "https://arstechnica.com/tech-policy/2026/04/supreme-court-arguments-make-it-clear-that-fcc-fines-are-nonbinding/",
+      "published_at": "2026-04-21T21:28:27+00:00",
+      "author": "Jon Brodkin",
+      "summary_raw": "FCC tells Supreme Court its fines are nonbinding unless a jury upholds penalty.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "53b6fe69f83750be",
+      "title": "The new word in home construction could be “plastics”",
+      "url": "https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "author": "Jennifer Chu",
+      "summary_raw": "Single-use plastics are a persistent source of environmental pollution, and the need to house a growing global population puts increasing pressure on resources such as timber. MIT engineers have an idea that could make a dent in both problems at once. In a recent study, a team led by mechanical engineering professor David Hardt, SM&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "a7eb260d57279010",
+      "title": "A natural protein may protect the GI tract from infection",
+      "url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "author": "Anne Trafton",
+      "summary_raw": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bacteria found in the GI tract.&#160; Intelectin-2 binds to a sugar&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "254a0fb87a221034",
+      "title": "This tool could show how consciousness works",
+      "url": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "author": "Peter Dizikes",
+      "summary_raw": "How does the physical matter in our brains translate into thoughts, sensations, and emotions? It’s hard to explore that question without neurosurgery. But in a recent paper, MIT philosopher Matthias Michel, Lincoln Lab researcher Daniel Freeman, and colleagues outline a strategy for doing so with an emerging tool called transcranial focused ultrasound. This noninvasive technology&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "56441da468df01fe",
+      "title": "Early life may have breathed oxygen earlier than believed",
+      "url": "https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "author": "Jennifer Chu",
+      "summary_raw": "Around 2.3 billion years ago, a pivotal period known as the Great Oxidation Event set the evolutionary course for oxygen-breathing life on Earth. But MIT geobiologists and colleagues have found evidence that some early forms of life evolved the ability to use oxygen hundreds of millions of years before that. By mapping enzyme sequences from&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "dab68706d80c9491",
+      "title": "Analog computing from waste heat",
+      "url": "https://www.technologyreview.com/2026/04/21/1134870/analog-computing-from-waste-heat/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "author": "Adam Zewe",
+      "summary_raw": "Heat generated by electronic devices is usually a problem, but a team led by Giuseppe Romano, a research scientist at MIT’s Institute for Soldier Nanotechnologies, has found a way to use it for data processing that doesn’t rely on electricity. In this analog computing method, input data is encoded not as binary 1s and 0s&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "e5f63237a5d73cda",
+      "title": "Get ready for hotter, muggier, stormier summers",
+      "url": "https://www.technologyreview.com/2026/04/21/1134873/get-ready-for-hotter-muggier-stormier-summers/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "author": "Jennifer Chu",
+      "summary_raw": "A long stretch of humid heat followed by a powerful thunderstorm is a familiar weather pattern in the tropics, but it’s also becoming more common in midlatitude regions such as the US Midwest. A recent study by two MIT scientists identifies a key atmospheric condition that determines how hot, humid, and stormy such a region&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "e4f9bd3b6860bcd6",
+      "title": "Recent books from the MIT community",
+      "url": "https://www.technologyreview.com/2026/04/21/1134879/recent-books-from-the-mit-community-28/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "author": "MIT Alumni News Staff",
+      "summary_raw": "Priority Technologies: Ensuring US Security and Shared ProsperityEdited by Elisabeth B. Reynolds, professor of the practice of urban studies and planning and former executive director of the MIT Task Force on the Work of the Future MIT PRESS, 2026, $24.95 The Shape of Wonder: How Scientists Think, Work, and LiveBy Alan Lightman, professor of the practice&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "28a091838bc81429",
+      "title": "AI at MIT",
+      "url": "https://www.technologyreview.com/2026/04/21/1134938/ai-at-mit/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "author": "Ken Shulman",
+      "summary_raw": "At&#160;MIT, AI has become so pervasive that you can almost find your way into it without meaning to. Take Sili Deng, an associate professor of mechanical engineering. Deng says she still doesn’t know whether she’d have gone all in on artificial intelligence had it not been for the covid pandemic. She had joined the faculty&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MJ26-feature_ai2a.png?w=1428",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "70360550e388f4ad",
+      "title": "Inventor recalls eye imaging breakthrough",
+      "url": "https://www.technologyreview.com/2026/04/21/1134945/inventor-recalls-eye-imaging-breakthrough/",
+      "published_at": "2026-04-21T21:00:00+00:00",
+      "author": "Stephanie M. McPherson, SM ’11",
+      "summary_raw": "If you’ve been to an eye doctor and had an image taken of the inside of your eye, chances are good it was done with optical coherence tomography (OCT)—a technology invented by clinician-scientist David Huang ’85, SM ’89, PhD ’93, and now used in 40 million procedures per year.&#160; OCT is a noninvasive technique used&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "e19cf82f1254462c",
+      "title": "Silo S3 teaser hints at the wasteland's origins",
+      "url": "https://arstechnica.com/culture/2026/04/silo-s3-teaser-turns-back-the-clock-to-a-greener-past/",
+      "published_at": "2026-04-21T20:53:06+00:00",
+      "author": "Jennifer Ouellette",
+      "summary_raw": "\"Before we can know how it will all end, we need to understand how it all began.\"",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "a55fd93387c3a66b",
+      "title": "Google’s new Deep Research and Deep Research Max agents can search the web and your private data",
+      "url": "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data",
+      "published_at": "2026-04-21T20:43:18+00:00",
+      "author": "michael.nunez@venturebeat.com (Michael Nuñez)",
+      "summary_raw": "Google on Monday unveiled the most significant upgrade to its autonomous research agent capabilities since the product&#x27;s debut, launching two new agents — Deep Research and Deep Research Max — that for the first time allow developers to fuse open web data with proprietary enterprise information through a single API call , produce native charts and infographics inside research reports, and connect to arbitrary third-party data sources through the Model Context Protocol (MCP). The release, built on Google&#x27;s Gemini 3.1 Pro model , marks an inflection point in the rapidly intensifying race to build AI systems that can autonomously conduct the kind of exhaustive, multi-source research that has traditionally consumed hours or days of human analyst time. It also represents Google&#x27;s clearest bid yet to position its AI infrastructure as the backbone for enterprise research workflows in finance, life sciences, and market intelligence — industries where the stakes of getting information wrong are extraordinarily high. &quot;We are launching two powerful updates to Deep Research in the Gemini API , now with better quality, MCP support, and native chart/infographics generation,&quot; Google CEO Sundar Pichai wrote on X. &quot;Use Deep Research when you want speed and efficiency, and use Max when you want the highest quality context gathering &amp; synthesis using extended test-time compute — achieving 93.3% on DeepSearchQA and 54.6% on HLE.&quot; Both agents are available starting today in public preview via paid tiers of the Gemini API , accessible through the Interactions API that Google first introduced in December 2025. Why Google built two research agents instead of one The launch introduces a tiered architecture that reflects a fundamental tension in AI agent design: the tradeoff between speed and thoroughness. Deep Research , the standard tier, replaces the preview agent Google released in December and is optimized for low-latency, interactive use cases. It…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/XnHzMo0vBDWmcq26xBte3/4a3d68b62ae2c7ac004b7706cf2cebe5/nuneybits_Vector_art_of_Google_logo_morphing_into_research_grap_58bdb7e1-2ede-42c5-9881-d2674c2d9475.webp?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "f1d4a3e6821ffa0a",
+      "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+      "url": "https://simonwillison.net/2026/Apr/21/gpt-image-2/",
+      "published_at": "2026-04-21T20:32:24+00:00",
+      "author": "",
+      "summary_raw": "OpenAI released ChatGPT Images 2.0 today , their latest image generation model. On the livestream Sam Altman said that the leap from gpt-image-1 to gpt-image-2 was equivalent to jumping from GPT-3 to GPT-5. Here's how I put it to the test. My prompt: Do a where's Waldo style image but it's where is the raccoon holding a ham radio gpt-image-1 First as a baseline here's what I got from the older gpt-image-1 using ChatGPT directly: I wasn't able to spot the raccoon - I quickly realized that testing image generation models on Where's Waldo style images (Where's Wally in the UK) can be pretty frustrating! I tried getting Claude Opus 4.7 with its new higher resolution inputs to solve it but it was convinced there was a raccoon it couldn't find thanks to the instruction card at the top left of the image: Yes — there's at least one raccoon in the picture, but it's very well hidden . In my careful sweep through zoomed-in sections, honestly, I couldn't definitively spot a raccoon holding a ham radio. [...] Nano Banana 2 and Pro Next I tried Google's Nano Banana 2, via Gemini : That one was pretty obvious, the raccoon is in the \"Amateur Radio Club\" booth in the center of the image! Claude said: Honestly, this one wasn't really hiding — he's the star of the booth. Feels like the illustrator took pity on us after that last impossible scene. The little \"W6HAM\" callsign pun on the booth sign is a nice touch too. I also tried Nano Banana Pro in AI Studio and got this, by far the worst result from any model. Not sure what went wrong here! gpt-image-2 With the baseline established, let's try out the new model. I used an updated version of my openai_image.py script, which is a thin wrapper around the OpenAI Python client library. Their client library hasn't yet been updated to include gpt-image-2 but thankfully it doesn't validate the model ID so you can use it anyway. Here's how I ran that: OPENAI_API_KEY= \" $( llm keys get openai ) \" \\ uv run https://tools.simonwillison.net/python/o…",
+      "hero_image": "https://static.simonwillison.net/static/2026/image_crop_1402x1122_w1402_q0.3.jpg",
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "2707236611f0caf4",
+      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "published_at": "2026-04-21T20:23:24+00:00",
+      "author": "Connie Loizos",
+      "summary_raw": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "9994775e21345d21",
+      "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
+      "url": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
+      "published_at": "2026-04-21T20:22:20+00:00",
+      "author": "Andrew Cunningham",
+      "summary_raw": "\"We actually have slightly more Linux users than Windows users.\"",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/FW13-ProductFamily-4-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "fa4efa2a3116c61e",
+      "title": "Vercel breach exposes the OAuth gap most security teams cannot detect, scope or contain",
+      "url": "https://venturebeat.com/security/vercel-breach-exposes-the-oauth-gap-most-security-teams-cannot-detect-scope-or-contain",
+      "published_at": "2026-04-21T20:07:26+00:00",
+      "author": "louiswcolumbus@gmail.com (Louis Columbus)",
+      "summary_raw": "One employee at Vercel adopted an AI tool. One employee at that AI vendor got hit with an infostealer. That combination created a walk-in path to Vercel’s production environments through an OAuth grant that nobody had reviewed. Vercel, the cloud platform behind Next.js and its millions of weekly npm downloads, confirmed on Sunday that attackers gained unauthorized access to internal systems. Mandiant was brought in. Law enforcement was notified. Investigations remain active. An update on Monday confirmed that Vercel collaborated with GitHub, Microsoft, npm, and Socket to verify that no Vercel npm packages were compromised. Vercel also announced it is now defaulting environment variable creation to “sensitive.” Next.js, Turbopack, AI SDK, and all Vercel-published npm packages remain uncompromised after a coordinated audit with GitHub, Microsoft, npm, and Socket. Context.ai was the entry point. OX Security’s analysis found that a Vercel employee installed the Context.ai browser extension and signed into it using a corporate Google Workspace account, granting broad OAuth permissions. When Context.ai was breached, the attacker inherited that employee’s Workspace access, pivoted into Vercel environments, and escalated privileges by sifting through environment variables not marked as “sensitive.” Vercel’s bulletin states that variables marked sensitive are stored in a manner that prevents them from being read. Variables without that designation were accessible in plaintext through the dashboard and API, and the attacker used them as the escalation path. CEO Guillermo Rauch described the attacker as “highly sophisticated and, I strongly suspect, significantly accelerated by AI.” Jaime Blasco, CTO of Nudge Security, independently surfaced a second OAuth grant tied to Context.ai’s Chrome extension, matching the client ID from Vercel’s published IOC to Context.ai’s Google account before Rauch’s public statement. The Hacker News reported that Google removed Context.ai’s Chrome…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/6wgHVXn6N3biFNjGQrW3dM/05683cce2c54c5658a779c71e09887df/Vercel_breach.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "4c20b2294c3ac9b8",
+      "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
+      "url": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
+      "published_at": "2026-04-21T20:01:36+00:00",
+      "author": "Ashley Belanger",
+      "summary_raw": "Can ChatGPT be blamed for a mass shooting? Florida is investigating.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2244053447-1024x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "1c0f462ca0691247",
+      "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
+      "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+      "published_at": "2026-04-21T19:30:52+00:00",
+      "author": "Kyle Orland",
+      "summary_raw": "Move highlights the difficulty of finding high-quality interactive training data.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1788348389-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "0064da273e030cb9",
+      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+      "published_at": "2026-04-21T19:11:29+00:00",
+      "author": "Marina Temkin",
+      "summary_raw": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "3e63f7c868d9c2aa",
+      "title": "The AI governance mirage: Why 72% of enterprises don’t have the control and security they think they do",
+      "url": "https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do",
+      "published_at": "2026-04-21T19:04:56+00:00",
+      "author": "mmarshall@venturebeat.com (Matt Marshall)",
+      "summary_raw": "Decision makers at 72% of organizations claim to have two or more AI platforms that they identify as their &quot;primary&quot; layer, according to a survey of 40 enterprise companies conducted by VentureBeat last month, revealing real gaps in security and control. For enterprise management and technical leaders, and especially security leaders, these multiple AI platforms extend the attack surfaces of most enterprises at a time when AI-driven attacks have become increasingly potent. The multiple platforms — which include offerings from hyperscaler or AI labs like Microsoft Azure, Google, OpenAI or Anthropic, or big application companies like Epic, Workday or ServiceNow — reflect a state of sprawl that has emerged as these big software providers rush to offer their own AI to their enterprise customers. Those customers, in their own rush to scale AI, are finding they aren’t building a singular strategy — in fact they may be building a collection of contradictions. The strategic paradox: why leading enterprises are building around their vendors For example, take the strategic paradox faced by Mass General Brigham (MGB) hospital system, which has 90,000 employees and is the largest employer in Massachusetts. The hospital system last year had to shut down an uncontrolled number of internal proof of concepts that had sprouted up as employees had gotten carried away with AI projects, said CTO Nallan “Sri” Sriraman at the VentureBeat AI Impact event in Boston on March 26, which focused on the challenges of scaling AI. Instead, the company decided it was better to wait for the software giants it already uses to deliver on their AI roadmaps. Since these companies have so many resources, and were making AI a top priority themselves, it made no sense for MGB to try to build its own AI layer that would be duplicative, he said. &quot;Why are we building it ourselves?&quot; he asked. &quot;Leverage it.&quot; Yet, even then, Sriraman’s team has been forced to build workarounds, whe…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3WMHdvrskEj3HdPeIS9rrR/9af392294440928de19655b5f5e212a8/the_governance_mirage.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "27817bfbe34dd11c",
+      "title": "AI backlash is coming for elections",
+      "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+      "published_at": "2026-04-21T19:00:05+00:00",
+      "author": "Lauren Feiner",
+      "summary_raw": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues that most campaigns are focused [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "91d1a0aad2eb7f7a",
+      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+      "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "published_at": "2026-04-21T19:00:00+00:00",
+      "author": "Amanda Silberling",
+      "summary_raw": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "349ca15449327d4e",
+      "title": "OpenAI’s updated image generator can now pull information from the web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+      "published_at": "2026-04-21T19:00:00+00:00",
+      "author": "Emma Roth",
+      "summary_raw": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, preserve [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/chatgpt-images-2-magazine.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "f847890bf59b3150",
+      "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
+      "url": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+      "published_at": "2026-04-21T19:00:00+00:00",
+      "author": "Reece Rogers",
+      "summary_raw": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+      "hero_image": "https://media.wired.com/photos/69e7aa26e71e88c4e31ef5d8/master/pass/GettyImages-2271722472.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "631895fcdb1cfa73",
+      "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly",
+      "url": "https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly",
+      "published_at": "2026-04-21T19:00:00+00:00",
+      "author": "carl.franzen@venturebeat.com (Carl Franzen)",
+      "summary_raw": "It&#x27;s been only a few months since OpenAI released its last big improvement to AI image generations in ChatGPT and through its application programming interface (API) — namely, a new image generation model known as GPT-Image-1.5 , released in December 2025, which brought about improved instruction following, colors, and lighting. Now, after weeks of testing, the company that kicked off the generative AI boom is unveiling a far more dramatic and even more impressive update : ChatGPT Images 2.0 , which has been available not-so-secretly for several weeks on LM Arena AI , a third-party testing platform used by OpenAI and other major AI model providers to get early feedback, under the name &quot;duct tape.&quot; Throughout that time, it&#x27;s already blown early users&#x27; minds with its capacity to generate long blocks of text or disparate text panels within the same image, its insanely realistic generation of user interfaces and screenshots from popular websites and platforms, its reproduction of real life figures like OpenAI co-founder and CEO Sam Altman, and its ability to perform web research and put the results into the image itself. Now today, it&#x27;s officially rolling out to ChatGPT users on all tiers, and OpenAI confirms it can also produce floor plans, image grids and sets of many smaller images, and character models from multiple angles, and apply almost all of these features to user-uploaded imagery as well. The update, which encompasses the new gpt-image-2 model for API users and a suite of &quot;Thinking&quot; features for ChatGPT subscribers, represents a fundamental shift in how the company views visual media. As the official release notes state, &quot;Images are a language, not decoration. A good image does what a good sentence does—it selects, arranges, and reveals&quot;. OpenAI did not release benchmarks to us ahead of time on ChatGPT Images 2.0, but it is safe to say the model is performing at the &quot;state-of-the-art&quot; based on all th…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/1oLxFxfGFj9SctaWVV5dCq/4d7928375d881cfc6abc296dc0edfd8c/ChatGPT_Image_Apr_21__2026__02_55_37_PM.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "9aabd35410e7a619",
+      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+      "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+      "published_at": "2026-04-21T18:51:52+00:00",
+      "author": "Lucas Ropek",
+      "summary_raw": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "e90f632716927fd5",
+      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+      "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+      "published_at": "2026-04-21T18:30:00+00:00",
+      "author": "Lily Hay Newman",
+      "summary_raw": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+      "hero_image": "https://media.wired.com/photos/69e6df06b405035df7b7ce2e/master/pass/security_GettyImages-2214075816.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "ca8e4088381e37a9",
+      "title": "Microsoft removes Call of Duty from Game Pass, lowers subscription pricing",
+      "url": "https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/",
+      "published_at": "2026-04-21T18:18:27+00:00",
+      "author": "Kyle Orland",
+      "summary_raw": "New Xbox CEO says subscription \"has become too expensive for too many players.\"",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/codxbox-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "ffdbd7361d65ea33",
+      "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop",
+      "url": "https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/",
+      "published_at": "2026-04-21T18:15:15+00:00",
+      "author": "Andrew Cunningham",
+      "summary_raw": "Laptop includes Core Ultra Series 3 CPUs, a bigger battery, and a touchscreen.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/FW13-Pro-Teardown-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "51e5f7b53fc1502f",
+      "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype",
+      "url": "https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/",
+      "published_at": "2026-04-21T18:15:03+00:00",
+      "author": "Andrew Cunningham",
+      "summary_raw": "A lower-end Ryzen AI 340 CPU option will also bring the price down, for now.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/eGPU_Install_02-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "e1107a6759e61236",
+      "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
+      "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
+      "published_at": "2026-04-21T18:07:24+00:00",
+      "author": "Sean Hollister",
+      "summary_raw": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too. As promised last August, you'll be able to turn the Framework Laptop 16's GPU modules into external ones instead. Or, you can plug in a [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/eGPU_Install_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "552f107b2cb3eb41",
+      "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
+      "url": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
+      "published_at": "2026-04-21T18:06:06+00:00",
+      "author": "Ashley Belanger",
+      "summary_raw": "“It’s working!“: Amazon emails with vendors show pattern of disappearing deals.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2205524235-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "3aff89ba32e9427f",
+      "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
+      "url": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
+      "published_at": "2026-04-21T17:35:12+00:00",
+      "author": "Lauren Goode",
+      "summary_raw": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
+      "hero_image": "https://media.wired.com/photos/69e6b3bd8d2fd342f277fdb0/master/pass/Tim-Cook-Steps-Down-Business-2233926863.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "8e015c9fc6f249e8",
+      "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube",
+      "published_at": "2026-04-21T17:30:24+00:00",
+      "author": "Mia Sato",
+      "summary_raw": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches YouTube for AI deepfake content and flags it for public figures enrolled in the program. Public figures can use it to keep track of AI content on YouTube of themselves [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK419_DEEPFAKE_3_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "51176c1598f7c68e",
+      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+      "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+      "published_at": "2026-04-21T17:11:01+00:00",
+      "author": "Amanda Silberling",
+      "summary_raw": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "6702094229bdb5a1",
+      "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
+      "published_at": "2026-04-21T17:00:04+00:00",
+      "author": "Jeremy Hsu",
+      "summary_raw": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Amazon-AWS-trainium-3-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "9a20ba5c573f680d",
+      "title": "Kimi K2.6 runs agents for days — and exposes the limits of enterprise orchestration",
+      "url": "https://venturebeat.com/orchestration/kimi-k2-6-runs-agents-for-days-and-exposes-the-limits-of-enterprise-orchestration",
+      "published_at": "2026-04-21T16:55:30+00:00",
+      "author": "",
+      "summary_raw": "Most orchestration frameworks were built for agents that run for seconds or minutes. Now that agents are running for hour s — and in some cases days — those frameworks are starting to crack. Several model providers, such as Anthropic with Claude Code and OpenAI with Codex, introduced early support for long-horizon agents through multi-session tasks, subagents and background execution. However, these systems sometimes assume agents are still operating within bounded-time workflows even when they run for extended periods. Open-source model provider Moonshot AI wants to push beyond that with its new model, Kimi K2.6. Moonshot says the model is designed for continuous execution, with internal use cases including agents that ran for hours and, in one case, five straight days, handling monitoring and incident response autonomously. But this growing use of this type of agent is exposing a critical gap in orchestration: most orchestration frameworks were not designed for this type of continuous, stateful execution. Open-source models, such as Kimi K2.6, that rely on agent swarms are making the case that their orchestration approach comes close to managing stateful agents. The difficulties of orchestrating long-running agents While it is true that some enterprises would rather bring their own orchestration frameworks to their agentic ecosystem, model providers and agent platforms recognize that offering agent management remains a competitive advantage. Other model providers have begun exploring long-running agents, many through multi-session tasks and background execution. For example, Anthropic’s Claude Code orchestrates agents with a lead agent that directs other agents based on a set of user-instructed definitions. OpenAI’s Codex runs similarly . Kimi K2.6 approaches orchestration with an improved version of its Agent Swarms, capable of managing up to 300 sub-agents “executing across 4,000 coordinated steps simultaneously,” Moonshot AI wrote in a blog post . Compared to b…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/40fR9CpmE4uh4lmBKbjUoL/5b2fdc6ef487f98dffd012e7c463e2f2/crimedy7_illustration_of_robots_running_a_marathon_--ar_169_-_efc437bd-489e-444c-88e3-8cf58e91a063_3.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "111083aad8b4532c",
+      "title": "Quoting Andreas Påhlsson-Notini",
+      "url": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/",
+      "published_at": "2026-04-21T16:39:33+00:00",
+      "author": "",
+      "summary_raw": "AI agents are already too human. Not in the romantic sense, not because they love or fear or dream, but in the more banal and frustrating one. The current implementations keep showing their human origin again and again: lack of stringency, lack of patience, lack of focus. Faced with an awkward task, they drift towards the familiar. Faced with hard constraints, they start negotiating with reality. &mdash; Andreas Påhlsson-Notini , Less human AI agents, please. Tags: ai-agents , coding-agents , ai",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "2d4b92f6f9cbefcf",
+      "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
+      "published_at": "2026-04-21T16:19:40+00:00",
+      "author": "David Pierce",
+      "summary_raw": "Venti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I've been to Starbucks for as long as I can remember, other than a brief love affair with the caffe misto a few years ago. In person, my brain barely needs to activate [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Starbucks-App-in-ChatGPT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "f4966442306d83f9",
+      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+      "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+      "published_at": "2026-04-21T16:00:00+00:00",
+      "author": "Lauren Forristal",
+      "summary_raw": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "1a2c5a69ffc14318",
+      "title": "scosman/pelicans_riding_bicycles",
+      "url": "https://simonwillison.net/2026/Apr/21/scosman/",
+      "published_at": "2026-04-21T15:54:43+00:00",
+      "author": "",
+      "summary_raw": "scosman/pelicans_riding_bicycles I firmly approve of Steve Cosman's efforts to pollute the training set of pelicans riding bicycles. (To be fair, most of the examples I've published count as poisoning too.) Via Hacker News comment Tags: ai , generative-ai , llms , training-data , pelican-riding-a-bicycle",
+      "hero_image": "https://static.simonwillison.net/static/2026/pelican-poison-bear.jpg",
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "643b2fce1bd501dc",
+      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+      "url": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+      "published_at": "2026-04-21T15:24:29+00:00",
+      "author": "Lucas Ropek",
+      "summary_raw": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "8c5002e0685b9727",
+      "title": "YouTube expands its AI likeness detection technology to celebrities",
+      "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+      "published_at": "2026-04-21T15:02:06+00:00",
+      "author": "Sarah Perez",
+      "summary_raw": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "25aeeb49aa3b3f80",
+      "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
+      "url": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
+      "published_at": "2026-04-21T15:01:43+00:00",
+      "author": "Jonathan M. Gitlin",
+      "summary_raw": "The self-heating Shenxing battery still performs even in Arctic temperatures.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2255429919-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "6b197b47f32cbe85",
+      "title": "What AI model should you use for revenue intelligence? Von says all the big ones, and it will automate mixing and matching for you",
+      "url": "https://venturebeat.com/orchestration/what-ai-model-should-you-use-for-revenue-intelligence-von-says-all-the-big-ones-and-it-will-automate-mixing-and-matching-for-you",
+      "published_at": "2026-04-21T14:55:00+00:00",
+      "author": "carl.franzen@venturebeat.com (Carl Franzen)",
+      "summary_raw": "Looking at enterprise AI adoption, VentureBeat has anecdotally observed a fairly wide divergence when it comes to specific roles: For those who build—engineers and developers—the arrival of AI has been transformative, moving through the workflow with the speed of tools like Claude Code and Cursor to automate the heavy lifting of syntax and architecture. Yet, for those who sell, the &quot;revenue stack&quot; has remained a fragmented collection of data silos, manual CRM entries, and anecdotal reporting. Von , a new AI platform emerging from the team behind process automation startup Rattle , aims to bridge this gap. By positioning itself not as another &quot;point solution&quot; but as a foundational &quot;intelligence layer,&quot; Von seeks to do for Go-To-Market (GTM) teams what the modern IDE has done for the developer: provide a single, reasoning interface that understands the entire business context. “AI has revolutionized the workflow for people who build things, but there is nothing that has revolutionized the workflow for people who sell those things,&quot; Von CEO Sahil Aggarwal said in a recent video call interview with VentureBeat. &quot;That is what we are trying to build with Von”. Technology: The context graph and multi-model engine At the core of Von’s capability is a departure from the traditional &quot;search bar&quot; approach to enterprise AI. While standard LLMs often struggle with the sprawling, unstructured nature of sales data, Von begins its deployment by building a &quot;context graph&quot; of a company’s entire business. This process involves ingesting structured data from CRMs like Salesforce and HubSpot, alongside unstructured data from call recorders (Gong, Zoom, Chorus), email threads, and internal documentation. &quot;Once Von builds this context graph, it will understand your business better than anyone else in the company,&quot; Aggarwal said. This understanding is rooted in a company’s specific &quot;ontology&quot;—the unique languag…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/6cFi0TSIzUnGM9A9PX7piF/233191a2283cef60993c78ef5b537e0f/ChatGPT_Image_Apr_21__2026__10_21_56_AM.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "3e4cf5b6ac06cca2",
+      "title": "Three AI coding agents leaked secrets through a single prompt injection. One vendor's system card predicted it",
+      "url": "https://venturebeat.com/security/ai-agent-runtime-security-system-card-audit-comment-and-control-2026",
+      "published_at": "2026-04-21T14:51:17+00:00",
+      "author": "louiswcolumbus@gmail.com (Louis Columbus)",
+      "summary_raw": "A security researcher, working with colleagues at Johns Hopkins University , opened a GitHub pull request, typed a malicious instruction into the PR title, and watched Anthropic’s Claude Code Security Review action post its own API key as a comment . The same prompt injection worked on Google’s Gemini CLI Action and GitHub’s Copilot Agent (Microsoft). No external infrastructure required. Aonan Guan, the researcher who discovered the vulnerability, alongside Johns Hopkins colleagues Zhengyu Liu and Gavin Zhong, published the full technical disclosure last week, calling it “Comment and Control.” GitHub Actions does not expose secrets to fork pull requests by default when using the pull_request trigger, but workflows using pull_request_target, which most AI agent integrations require for secret access, do inject secrets into the runner environment. This limits the practical attack surface but does not eliminate it: collaborators, comment fields, and any repo using pull_request_target with an AI coding agent are exposed. Per Guan’s disclosure timeline: Anthropic classified it as CVSS 9.4 Critical ($100 bounty), Google paid a $1,337 bounty, and GitHub awarded $500 through the Copilot Bounty Program. The $100 amount is notably low relative to the CVSS 9.4 rating; Anthropic’s HackerOne program scopes agent-tooling findings separately from model-safety vulnerabilities. All three patched quietly, and none had issued CVEs in the NVD or published security advisories through GitHub Security Advisories as of Saturday. Comment and Control exploited a prompt injection vulnerability in Claude Code Security Review, a specific GitHub Action feature that Anthropic’s own system card acknowledged is “not hardened against prompt injection.” The feature is designed to process trusted first-party inputs by default; users who opt into processing untrusted external PRs and issues accept additional risk and are responsible for restricting agent permissions. Anthropic updated its documentation…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/338TKAZmGg0eamRggz05Kq/fdc8465b217fab704067d122300d6da7/hero_model_comparison.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "212b0fff0bcff109",
+      "title": "Jaký člověk, takový LinkedIn? Internet si zamiloval profil nového šéfa Applu, prý ho přesně vystihuje",
+      "url": "https://cc.cz/jaky-clovek-takovy-linkedin-internet-si-zamiloval-profil-noveho-sefa-applu-pry-ho-presne-vystihuje/",
+      "published_at": "2026-04-21T14:48:53+00:00",
+      "author": "David Zlomek",
+      "summary_raw": "Deset let u Steva Jobse ho naučilo, že na detailu záleží nejvíc. Teď tenhle inženýr přebírá Apple, aby ho provedl náročnou érou umělé inteligence. Článek Jaký člověk, takový LinkedIn? Internet si zamiloval profil nového šéfa Applu, prý ho přesně vystihuje se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/04/john_ternus-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "f865032114a240b2",
+      "title": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars",
+      "url": "https://arstechnica.com/gadgets/2026/04/amd-ryzen-9-9950x3d2-dual-edition-review-tons-of-cache-for-tons-of-dollars/",
+      "published_at": "2026-04-21T14:45:36+00:00",
+      "author": "Andrew Cunningham",
+      "summary_raw": "There are some practical benefits to this $899 chip, but not many.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_7697-1152x648.jpeg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "681f8390ce71731e",
+      "title": "What's the deal with spacesuits for the Moon? Will they be ready in time?",
+      "url": "https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/",
+      "published_at": "2026-04-21T14:24:09+00:00",
+      "author": "Eric Berger",
+      "summary_raw": "NASA is down to a single provider for a critical link in its lunar architecture.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "4c416039bc2e769c",
+      "title": "Loneliness in older adults can often lead to memory impairment",
+      "url": "https://arstechnica.com/health/2026/04/loneliness-in-older-adults-can-often-lead-to-memory-impairment/",
+      "published_at": "2026-04-21T14:23:24+00:00",
+      "author": "Jorge Garay, wired.com",
+      "summary_raw": "A longitudinal study finds links to lapses in immediate and delayed recall.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/loneliness-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "4c4d6a41cc81759f",
+      "title": "John Ternus’ first big problem is AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+      "published_at": "2026-04-21T13:37:55+00:00",
+      "author": "Hayden Field",
+      "summary_raw": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. Ternus, currently Apple's SVP of hardware [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/JohnTernus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "d609eefc5cab788c",
+      "title": "That's my designer - Claude",
+      "url": "https://www.bensbites.com/p/thats-my-designer-claude",
+      "published_at": "2026-04-21T13:31:45+00:00",
+      "author": "",
+      "summary_raw": "and it comes with a new model, Opus 4.7",
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/28703c2e-3454-4a49-bd38-3980d1094eaa_1664x932.png",
+      "source_id": "bens_bites",
+      "source_name": "Ben's Bites",
+      "category": "newsletter"
+    },
+    {
+      "id": "a07b6cbc149a3a05",
+      "title": "GRAI believes AI can make music more social, not replace artists",
+      "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+      "published_at": "2026-04-21T13:00:00+00:00",
+      "author": "Sarah Perez",
+      "summary_raw": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "84c02837470bf873",
+      "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+      "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/",
+      "published_at": "2026-04-21T12:35:20+00:00",
+      "author": "Dan Goodin",
+      "summary_raw": "A stubborn misconception is hampering the already hard work of quantum readiness.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/quantum-encryption-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
     {
       "id": "4ed9c3d7d7b630ae",
       "title": "Norton spouští ochranu před autonomními AI agenty, škodlivých kódů podle něj přibývá",
@@ -187,48 +895,12 @@
       "category": "cz"
     },
     {
-      "id": "7c3ec68e767ba6fe",
-      "title": "Please don’t trust your chatbot for medical advice",
-      "url": "https://garymarcus.substack.com/p/please-dont-trust-your-chatbot-for",
-      "published_at": "2026-04-21T12:15:09+00:00",
-      "author": "Gary Marcus",
-      "summary_raw": "Four separate studies all point in the same direction",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!6QOj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a5a379c-b687-46fa-a180-95b24496aa5b_2420x1326.png",
-      "source_id": "marcus_on_ai",
-      "source_name": "Marcus on AI",
-      "category": "commentary"
-    },
-    {
-      "id": "b6e3bba874c37c1a",
-      "title": "The Download: turning down human noise, and LA’s stunning subway upgrade",
-      "url": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
-      "published_at": "2026-04-21T12:10:00+00:00",
-      "author": "Thomas Macaulay",
-      "summary_raw": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The noise we make is hurting animals. Can we learn to shut up? As human society has expanded, animals have started struggling to hear one another. For many birds, the noise&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2024/08/SO24-feature_archives_Opener_thumb.jpg?w=2342",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "e308c319a479e9fe",
-      "title": "Adversaries hijacked AI security tools at 90+ organizations. The next wave has write access to the firewall",
-      "url": "https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall",
-      "published_at": "2026-04-21T12:05:00+00:00",
-      "author": "louiswcolumbus@gmail.com (Louis Columbus)",
-      "summary_raw": "Adversaries injected malicious prompts into legitimate AI tools at more than 90 organizations in 2025, stealing credentials and cryptocurrency. Every one of those compromised tools could read data, and none of them could rewrite a firewall rule. The autonomous SOC agents shipping now can. That escalation, from compromised tools that read data to autonomous agents that rewrite infrastructure, has not been exploited in production at scale yet. But the architectural conditions for it are shipping faster than the governance designed to prevent it. A compromised SOC agent can rewrite your firewall rules, modify IAM policies, and quarantine endpoints, all with its own privileged credentials, all through approved API calls that EDR classifies as authorized activity. The adversary never touches the network. The agent does it for them. Cisco announced AgenticOps for Security in February, with autonomous firewall remediation and PCI-DSS compliance capabilities. Ivanti launched Continuous Compliance and the Neurons AI self-service agent last week, with policy enforcement, approval gates and data context validation built into the platform at launch — a design distinction that matters because the OWASP Agentic Top 10 documents what happens when those controls are absent. &quot;Adversaries exploited legitimate AI tools by injecting malicious prompts that generated unauthorized commands. As innovation accelerates, exploitation follows,&quot; CrowdStrike CEO George Kurtz said when releasing the 2026 Global Threat Report. &quot;AI is compressing the time between intent and execution while turning enterprise AI systems into targets,&quot; added Adam Meyers, head of counter-adversary operations at CrowdStrike. State-sponsored use of AI in offensive operations surged 89% over the prior year. The broader attack surface is expanding in parallel. Malicious MCP server clones have already intercepted sensitive data in AI workflows by impersonating trusted services. The U.K. National Cyber S…",
-      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/46SzboB6NVjamCROg8pfcE/a20c84d337fb68ef55e801810cab5308/hero.png?w=300&q=30",
-      "source_id": "venturebeat_ai",
-      "source_name": "VentureBeat AI",
-      "category": "news"
-    },
-    {
       "id": "d1172a33bf87783f",
       "title": "Global growth in solar \"the largest ever observed for any source\"",
       "url": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
       "published_at": "2026-04-21T11:00:16+00:00",
       "author": "John Timmer",
-      "summary_raw": "The Energy Information Agency says we've entered the Age of Electricity.",
+      "summary_raw": "The International Energy Agency says we've entered the Age of Electricity.",
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-1152x648.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
@@ -283,54 +955,6 @@
       "category": "labs"
     },
     {
-      "id": "304251871f76e3d8",
-      "title": "Digging for clues about the North Pole’s past",
-      "url": "https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/",
-      "published_at": "2026-04-21T10:00:00+00:00",
-      "author": "Tim Kalvelage",
-      "summary_raw": "In the past, even with an icebreaker and during peak melt season, getting to the North Pole wasn’t a sure bet. It took favorable winds to crack the frozen ocean surface, and ships had to fight through ice that had grown many meters thick over several winters. In the summer of 2025, though, Jochen Knies&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/North_Pole_Expedition_MIT_Tech_Rev_TimK_004.jpg?w=2667",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "1d72154236298b9e",
-      "title": "Every time a new model comes out, the old one is obsolete of course",
-      "url": "https://i.redd.it/8z2ldj7ybiwg1.jpeg",
-      "published_at": "2026-04-21T08:51:10+00:00",
-      "author": "FullChampionship7564",
-      "summary_raw": "",
-      "hero_image": "https://preview.redd.it/8z2ldj7ybiwg1.jpeg?width=140&amp;height=94&amp;auto=webp&amp;s=3e6b67d319532d366e8ef5bd1ff3e76c7d4739e7",
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 141,
-        "num_comments": 43,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1srhzii/every_time_a_new_model_comes_out_the_old_one_is/"
-      }
-    },
-    {
-      "id": "230e4240be714cc8",
-      "title": "Open WebUI Desktop Released!",
-      "url": "https://github.com/open-webui/desktop",
-      "published_at": "2026-04-21T08:31:27+00:00",
-      "author": "My_Unbiased_Opinion",
-      "summary_raw": "Looks like this also includes llama.cpp. You can either run everything local or connect it to a remote server as well.",
-      "hero_image": "https://external-preview.redd.it/-SQMYLpZj_C17nkl7NWdusKhUlKckK2SprwtlFBann8.png?width=140&amp;height=70&amp;auto=webp&amp;s=e2de123710b2190bc60408e78ecd765db19ef21a",
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 136,
-        "num_comments": 49,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1srhnvn/open_webui_desktop_released/"
-      }
-    },
-    {
       "id": "6439dc4c582bb6a3",
       "title": "Evropa zpřístupní superpočítače a kvantové stroje skrze jednoduché rozhraní. Vyvinuli ho v Ostravě",
       "url": "https://www.lupa.cz/aktuality/evropa-zpristupni-superpocitace-a-kvantove-stroje-skrze-jednoduche-rozhrani-vyvinuli-ho-v-ostrave/",
@@ -343,24 +967,6 @@
       "category": "cz"
     },
     {
-      "id": "9e872c88810dda4c",
-      "title": "Which Gemma model do you want next?",
-      "url": "https://i.redd.it/v3qojtk5yhwg1.png",
-      "published_at": "2026-04-21T07:34:50+00:00",
-      "author": "jacek2023",
-      "summary_raw": "tell the Gemma team: [https://x.com/osanseviero/status/2046427241341698456](https://x.com/osanseviero/status/2046427241341698456)",
-      "hero_image": "https://preview.redd.it/v3qojtk5yhwg1.png?width=140&amp;height=26&amp;auto=webp&amp;s=d79f7d15f6680962cc90775192d38ed27ce64e66",
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 119,
-        "num_comments": 55,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1srgqk4/which_gemma_model_do_you_want_next/"
-      }
-    },
-    {
       "id": "3dbb5253c6093cf3",
       "title": "E-shopy jsou pod náporem AI botů. Obchody i proto aktivně řeší, jak proniknout do vašich konverzací",
       "url": "https://www.lupa.cz/clanky/e-shopy-jsou-pod-naporem-ai-botu-obchody-i-proto-aktivne-resi-jak-proniknout-do-vasich-konverzaci/",
@@ -371,24 +977,6 @@
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
       "category": "cz"
-    },
-    {
-      "id": "27ca8547f153ea23",
-      "title": "Opus 4.7 Max subscriber. Switching to Kimi 2.6",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1srd2cc/opus_47_max_subscriber_switching_to_kimi_26/",
-      "published_at": "2026-04-21T04:14:24+00:00",
-      "author": "meaningego",
-      "summary_raw": "I know people just like to throw shit at Anthropic. I'm not one of those. I have nothing against them as a company, and I actually dislike them less than the other big players. I had all my team switch over from Cursor because Opus felt so good. Since the Max plan is never enough, expenses are growing bigger by the day. So when we can we supplement with Qwen 3.6 plus keeping Opus as harness. It's good, but wasn't \"as\" good. Lots of mistakes and stubs. The feeling everyone is sharing is Opus 4.7 got suddenly so lazy, on top of expensive. Part of the problem might be in Claude Code CLI itself, who knows. And so today I switched over to kimi 2.6 and it's.. wow! So fast and pleasurable to use. Context is much smaller but keeping an eye on it it's still pretty reliable. Claude is happy going back and forth with questions and spammy tool outputs.. seems the Kimi team worked to manage their smaller context better perhaps? More testing is needed to say this for certain. But I immediately purchased a yearly subscription and will recommend to my colleagues as well. At the moment I'm using it with their cli, it feels smoother than it is when plugging it into CC via env vars. I'm just a bit sad it doesn't work out of the box with Forge. I submitted a PR to fix it ([https://github.com/tailcallhq/forgecode/pull/3098](https://github.com/tailcallhq/forgecode/pull/3098)).",
-      "hero_image": null,
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 145,
-        "num_comments": 48,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1srd2cc/opus_47_max_subscriber_switching_to_kimi_26/"
-      }
     },
     {
       "id": "a513bd693f2f822f",
@@ -763,60 +1351,6 @@
       "category": "news"
     },
     {
-      "id": "bfee7f9f47c39d00",
-      "title": "2x 512gb ram M3 Ultra mac studios",
-      "url": "https://i.redd.it/zcdxh4ht9gwg1.jpeg",
-      "published_at": "2026-04-21T01:58:25+00:00",
-      "author": "taylorhou",
-      "summary_raw": "$25k in hardware. tell me what you want me to load on them and i'll help test. i've done deepseek v3.2 Q8 so far with exo backend. currently running GLM 5.1 Q4 on each (troubleshooting why exo isn't loading the Q8 version) patiently awaiting kimi2.6 for when the community optimizes it for MLX/mmap",
-      "hero_image": "https://preview.redd.it/zcdxh4ht9gwg1.jpeg?width=140&amp;height=105&amp;auto=webp&amp;s=c78d654aac8db6dd68c452af532668d4edbd4246",
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 292,
-        "num_comments": 82,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1sra4sv/2x_512gb_ram_m3_ultra_mac_studios/"
-      }
-    },
-    {
-      "id": "423918604b9cdf1d",
-      "title": "PrismML — Introducing Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "url": "https://prismml.com/news/ternary-bonsai",
-      "published_at": "2026-04-21T00:58:47+00:00",
-      "author": "cafedude",
-      "summary_raw": "",
-      "hero_image": "https://external-preview.redd.it/OLvpP-gSQa58uq-CXUfnmxOtzd3My7-3lj1CQDS2Xys.png?width=140&amp;height=73&amp;auto=webp&amp;s=fd779d9ac15324d6c20665419b6b7fbee62c09c7",
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 105,
-        "num_comments": 26,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1sr8sfl/prismml_introducing_ternary_bonsai_top/"
-      }
-    },
-    {
-      "id": "bf437bfb25a9e323",
-      "title": "Kimi K2.6 is a legit Opus 4.7 replacement",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sr8p49/kimi_k26_is_a_legit_opus_47_replacement/",
-      "published_at": "2026-04-21T00:54:48+00:00",
-      "author": "bigboyparpa",
-      "summary_raw": "After testing it and getting some customer feedback too, its the first model I'd confidently recommend to our customers as an Opus 4.7 replacement. It's not really better than Opus 4.7 at anything, but, it can do about 85% of the tasks that Opus can at a reasonable quality, and, it has vision and very good browser use. I've been slowly replacing some of my personal workflows with Kimi K2.6 and it works surprisingly well, especially for long time horizon tasks. Sure the model is monstrously big, but I think it shows that frontier LLMs like Opus 4.7 are not necessarily bringing anything new to the table. People are complaining about usage limits as well, it looks like local is the way to go.",
-      "hero_image": null,
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 798,
-        "num_comments": 238,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1sr8p49/kimi_k26_is_a_legit_opus_47_replacement/"
-      }
-    },
-    {
       "id": "93fe57bd9c5c93e7",
       "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
       "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
@@ -839,6 +1373,42 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
+    },
+    {
+      "id": "6c5a0c48d6dc8242",
+      "title": "Scaling Codex to enterprises worldwide",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "published_at": "2026-04-21T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "e11f73d66c262ec5",
+      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "url": "https://huggingface.co/blog/cybersecurity-openness",
+      "published_at": "2026-04-21T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "a0b3d147c9c32c30",
+      "title": "Kimi K2.6 🚀, Codex Chronicle 🤖, Bezos’ $10B AI fundraise 💰",
+      "url": "https://tldr.tech/ai/2026-04-21",
+      "published_at": "2026-04-21T00:00:00+00:00",
+      "author": "TLDR",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "tldr_ai",
+      "source_name": "TLDR AI",
+      "category": "newsletter"
     },
     {
       "id": "42c4f0bf43b27ee5",
@@ -865,8 +1435,8 @@
       "category": "news"
     },
     {
-      "id": "9718fa163d25e5f9",
-      "title": "Google rolls out Gemini in Chrome in 7 new countries",
+      "id": "8f72d84da4bbb4ce",
+      "title": "Google rolls out Gemini in Chrome in APAC countries",
       "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
       "published_at": "2026-04-20T22:00:00+00:00",
       "author": "Ivan Mehta",
@@ -877,64 +1447,16 @@
       "category": "news"
     },
     {
-      "id": "c14e06e6dcbe15b7",
-      "title": "Gemma-4-E2B's safety filters make it unusable for emergencies",
-      "url": "https://www.reddit.com/gallery/1sr35pk",
-      "published_at": "2026-04-20T21:10:40+00:00",
-      "author": "Unfounded_898",
-      "summary_raw": "I’ve been testing Google’s Gemma-4-E2B-it as a local, offline resource for emergency preparedness. The idea was to have a lightweight model that could provide basic technical or medical info if the internet goes down. As the screenshots show, the safety filters are so aggressive that the model is functionally useless for these scenarios. It issues a \"hard refusal\" on almost everything: **- First Aid:** Refused to explain an emergency airway procedure, even when specified as a last resort. **- Water/Sanitation:** Refused to provide chemical ratios for purifying water. **- Maintenance:** Refused basic mechanical help with a self-defense tool. **- Food:** Refused instructions on how to process livestock. In a scenario like a war or a total grid collapse, \"Contact emergency services\" isn't a valid answer. It's disappointing that an offline model, designed for portability, is programmed to withhold basic survival information under the guise of safety.",
-      "hero_image": "https://preview.redd.it/m2nwph63vewg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=618208623910fe51cab14994e70a0fd4bd3db086",
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 375,
-        "num_comments": 253,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1sr35pk/gemma4e2bs_safety_filters_make_it_unusable_for/"
-      }
-    },
-    {
       "id": "3ee798d7d8bf3782",
       "title": "John Ternus will replace Tim Cook as Apple CEO",
       "url": "https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/",
       "published_at": "2026-04-20T21:05:35+00:00",
       "author": "Samuel Axon",
-      "summary_raw": "Cook will be executive chairman, but will no longer run the company day to day.",
+      "summary_raw": "Cook will be executive chairman but will no longer run the company day to day.",
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1388205526-1152x648.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
       "category": "news"
-    },
-    {
-      "id": "13b93929779bb9c8",
-      "title": "Absurd study suggests eating fruits and vegetables leads to cancer",
-      "url": "https://arstechnica.com/health/2026/04/absurdly-bad-study-spurs-headlines-linking-healthy-diet-to-lung-cancer/",
-      "published_at": "2026-04-20T20:53:04+00:00",
-      "author": "Beth Mole",
-      "summary_raw": "Experts point out a series of flaws, including small size and no control group.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2016/09/schooltoolkit_fv.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "a9ed036a7fca43bb",
-      "title": "ubergarm/Kimi-K2.6-GGUF Q4_X now available",
-      "url": "https://huggingface.co/ubergarm/Kimi-K2.6-GGUF/tree/main/Q4_X",
-      "published_at": "2026-04-20T20:38:28+00:00",
-      "author": "VoidAlchemy",
-      "summary_raw": "Big thanks to jukofyork and AesSedai today giving me some tips to patch and quantize the \"full size\" Kimi-K2.6 \"Q4\\_X\". It runs on both ik and mainline llama.cpp if you have over \\~584GB RAM+VRAM... I'll follow up with imatrix for anyone else making custom quants, and some smaller quants that run on ik\\_llama.cpp soon. AesSedai will likely have mainline MoE optimized recipes up soon too! Cheers and curious how this big one compares with GLM-5.1.",
-      "hero_image": "https://external-preview.redd.it/X--HaEmmZoEm26Bow8EiBrI9tsTjv2oRNHNUa096S3Y.png?width=140&amp;height=75&amp;auto=webp&amp;s=42cbcc3fba24e673e9be4bd0886f06f620914663",
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 113,
-        "num_comments": 36,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1sr28kr/ubergarmkimik26gguf_q4_x_now_available/"
-      }
     },
     {
       "id": "88ad4540dce393aa",
@@ -949,24 +1471,6 @@
       "category": "news"
     },
     {
-      "id": "d577246507f19032",
-      "title": "Why doesn't any OSS tool treat llama.cpp as a first class citizen?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sr140o/why_doesnt_any_oss_tool_treat_llamacpp_as_a_first/",
-      "published_at": "2026-04-20T20:02:27+00:00",
-      "author": "rm-rf-rm",
-      "summary_raw": "Be it opencode, VS code copilot extension or whatever \"open source\" AI tool, I rarely see llama.cpp treated as a first class provider? Every single one of them has ollama and sometimes LMStudio. Engineering wise there's literally 0 effort to have llama.cpp be listed the same as ollama. Or better yet, simply make it a label agnostic openai API compatible endpoint and let me fill in the port number/enpoint.. This is especially annoying as ollama is the scummy turncoat stealing from llama.cpp that still has the mindshare despite it being clear as day that they are not good members of the OSS ecosystem. llama.cpp is now very usable for the average dev (majority of userbase currently) and reasonably so for the average joe. I'm high key hoping that this post will reach devs who are making these tools..",
-      "hero_image": null,
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 279,
-        "num_comments": 99,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1sr140o/why_doesnt_any_oss_tool_treat_llamacpp_as_a_first/"
-      }
-    },
-    {
       "id": "92c569e19006ccd9",
       "title": "It’s not just one thing — it’s another thing",
       "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
@@ -976,18 +1480,6 @@
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "736ff3fb874bb220",
-      "title": "US opens refund portal to start paying back Trump's illegal tariffs",
-      "url": "https://arstechnica.com/tech-policy/2026/04/us-opens-refund-portal-to-start-paying-back-trumps-illegal-tariffs/",
-      "published_at": "2026-04-20T18:53:21+00:00",
-      "author": "Jon Brodkin",
-      "summary_raw": "Importers can now request refunds, two months after Trump's Supreme Court loss.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/getty-goodbye-money-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
       "category": "news"
     },
     {
@@ -1003,58 +1495,16 @@
       "category": "commentary"
     },
     {
-      "id": "556c0f25b6fe6e8b",
-      "title": "Here's how F1 is tweaking its hybrid systems to try to save the show",
-      "url": "https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/",
-      "published_at": "2026-04-20T18:15:50+00:00",
-      "author": "Jonathan M. Gitlin",
-      "summary_raw": "Energy management and speed differentials are the problems of the day.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2270518467-1152x648-1776708327.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "7187a6b00ce207e8",
-      "title": "Layman's comparison on Qwen3.6 35b-a3b and Gemma4 26b-a4b-it",
-      "url": "https://www.reddit.com/gallery/1sqxiz0",
-      "published_at": "2026-04-20T18:13:06+00:00",
-      "author": "LocalAI_Amateur",
-      "summary_raw": "Gemma 4 26b-a4b-it is basically a solid B student that gets the job done. Qwen3.6-35b-a3b is an A+ student that has plenty of energy after finishing the assignment to add flairs. On a my 16vram video card. Both models runs comparable speed. On Windows LM Studio using recommended inference settings. Model used: unsloth/gemma-4-26B-A4B-it-UD-Q4\\_K\\_S AesSedai/Qwen3.6-35B-A3B IQ4\\_XS Any strong disagreements? **Edit:** Apparently I've been using Gemma 4 wrong. [Sadman782's comment](https://www.reddit.com/r/LocalLLaMA/comments/1sqxiz0/comment/ohb09kp/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button) and his system prompt really help unlock some of Gemma 4's potential!",
-      "hero_image": "https://preview.redd.it/suomxb7xxdwg1.png?width=140&amp;height=66&amp;auto=webp&amp;s=100b57ef8be42fd1ef0b72322e17866851062b52",
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 219,
-        "num_comments": 61,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1sqxiz0/laymans_comparison_on_qwen36_35ba3b_and_gemma4/"
-      }
-    },
-    {
-      "id": "d55284195cdafe04",
-      "title": "Robot runner handily beats humans in half-marathon, setting new record",
-      "url": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
-      "published_at": "2026-04-20T17:56:27+00:00",
-      "author": "Jeremy Hsu",
-      "summary_raw": "A humanoid robot's record half-marathon run shows China's speed in robotics.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271508322-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "ec922840d2f747ad",
-      "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
-      "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
-      "published_at": "2026-04-20T17:15:51+00:00",
-      "author": "Ryan Whitwam",
-      "summary_raw": "AI tracks account for a small fraction of Deezer streams, and most are demonetized for fraud.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2148900484-1152x648-1775856309.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
+      "id": "73de33ab09fc2540",
+      "title": "llm-openrouter 0.6",
+      "url": "https://simonwillison.net/2026/Apr/20/llm-openrouter/",
+      "published_at": "2026-04-20T18:00:26+00:00",
+      "author": "",
+      "summary_raw": "Release: llm-openrouter 0.6 llm openrouter refresh command for refreshing the list of available models without waiting for the cache to expire. I added this feature so I could try Kimi 2.6 on OpenRouter as soon as it became available there . Here's its pelican - this time as an HTML page because Kimi chose to include an HTML and JavaScript UI to control the animation. Transcript here . Tags: openrouter , llm , llm-release , pelican-riding-a-bicycle , kimi , ai-in-china , llms , ai , generative-ai",
+      "hero_image": "https://static.simonwillison.net/static/2026/kimi-k2-pelican-64-colors.gif",
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
     },
     {
       "id": "ead3bdedd7a93138",
@@ -1067,30 +1517,6 @@
       "source_id": "verge_ai",
       "source_name": "The Verge AI",
       "category": "news"
-    },
-    {
-      "id": "854bddba9a0f9b61",
-      "title": "Rogue Trooper brings the Genetic Infantry to the silver screen",
-      "url": "https://arstechnica.com/culture/2026/04/rogue-trooper-brings-the-genetic-infantry-to-the-silver-screen/",
-      "published_at": "2026-04-20T16:58:28+00:00",
-      "author": "Jonathan M. Gitlin",
-      "summary_raw": "The future war film, from the director of Moon , is adapted from 2000 AD's comic series.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/RT_039_RNB_0110_Comicon_comp_v107_uhd_rec709_grade.0001004.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "2e99a0730f0c2359",
-      "title": "Opus 4.7 Part 1: The Model Card",
-      "url": "https://thezvi.substack.com/p/opus-47-part-1-the-model-card",
-      "published_at": "2026-04-20T16:44:24+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "Less than a week after completing coverage of Claude Mythos, here we are again as Anthropic gives us Claude Opus 4.7.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!MiKJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11432e3b-df84-43d8-9898-b00d266024af_1792x2400.jpeg",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
-      "category": "commentary"
     },
     {
       "id": "548c988eb46bf996",
@@ -1117,24 +1543,6 @@
       "category": "news"
     },
     {
-      "id": "1a35fbd724d325b6",
-      "title": "Kimi K2.6",
-      "url": "https://i.redd.it/1ptgthlt7dwg1.jpeg",
-      "published_at": "2026-04-20T15:38:30+00:00",
-      "author": "Fantastic-Emu-3819",
-      "summary_raw": "Benchmarks",
-      "hero_image": "https://preview.redd.it/1ptgthlt7dwg1.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=2df5cad89ce2e0a99fc1a62181a7b61eef10574b",
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 417,
-        "num_comments": 67,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1sqswq6/kimi_k26/"
-      }
-    },
-    {
       "id": "2af8e2e4f70d7091",
       "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
       "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
@@ -1145,84 +1553,6 @@
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
       "category": "news"
-    },
-    {
-      "id": "283c414c769b6693",
-      "title": "Kimi K2.6 Released (huggingface)",
-      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
-      "published_at": "2026-04-20T15:18:19+00:00",
-      "author": "BiggestBau5",
-      "summary_raw": "",
-      "hero_image": "https://external-preview.redd.it/0OEO6mJeyJy_9iA5gKxjMdrhKT0yLVdFry5R06GOlkI.png?width=140&amp;height=75&amp;auto=webp&amp;s=7d1fef3cdfa12b410b5c8c9ef417676014ed9886",
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 852,
-        "num_comments": 251,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1sqscao/kimi_k26_released_huggingface/"
-      }
-    },
-    {
-      "id": "bd548628c8a7ff8b",
-      "title": "Meet Bruce, the \"beak-jousting\" parrot",
-      "url": "https://arstechnica.com/science/2026/04/meet-bruce-the-beak-jousting-parrot/",
-      "published_at": "2026-04-20T15:00:22+00:00",
-      "author": "Jennifer Ouellette",
-      "summary_raw": "Kea parrot missing his upper beak \"has rewritten what disability means for behaviorally complex species.\"",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/bruce1-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "e8c4a7cf126b0405",
-      "title": "Gemma 4 26B-A4B GGUF Benchmarks",
-      "url": "https://i.redd.it/hlsgb1l7ycwg1.png",
-      "published_at": "2026-04-20T14:50:22+00:00",
-      "author": "danielhanchen",
-      "summary_raw": "Hey r/LocalLLaMA we conducted KL Divergence benchmarks for Gemma 4 26B-A4B GGUFs across providers to help you pick the best quant. * Mean KL Divergence puts nearly all **Unsloth GGUFs on the Pareto frontier** * KLD shows how well a quantized model matches the original BF16 output distribution, indicating retained accuracy. * This makes Unsloth the **top-performing in 21 of 22 sizes.** Similar trend for 99.9% KLD and others. * We also updated our Q6\\_K quants to be more dynamic. Previously, they were optimized, just now they're a bit better - no need to re-download though - it's up to you if you want a slightly better version. The previous quant was perfectly fine but this one is slightly bigger. The same was done for Qwen3.6. * We're also introducing a new UD-IQ4\\_NL\\_XL quant that fits in 16GB VRAM. UD-IQ4\\_NL\\_XL (14.6GB) sits between UD-IQ4\\_XS (13.4GB) and UD-Q4\\_K\\_S (16.4GB). The same was done for Qwen3.6. For HQ versions of the graphs as Reddit mobile compresses it. See: [Gemma 4 Benchmarks](https://unsloth.ai/docs/models/gemma-4#unsloth-gguf-benchmarks) and [Qwen3.6 Benchmarks](https://unsloth.ai/docs/models/qwen3.6#unsloth-gguf-benchmarks) We also updated our MLX quants to be more dynamic with better layering selection (there are limitations due to MLX): [See here](https://unsloth.ai/docs/models/qwen3.6#mlx-dynamic-quants) |MLX Metrics|**UD-4bit (Old)**|**UD-4bit (New)**|**MLX 4.4bit MSQ**| |:-|:-|:-|:-| |Perplexity|4.772|**4.766**|4.864| |Mean KLD|0.0177|**0.0163**|0.0878| |99.9% KLD|0.8901|**0.8398**|2.9597| |Disk Sze|21.4 GB|21.6 GB|21.2 GB| Gemma 4 GGUFs: [https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF](https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF) Qwen3.6 GGUFs: [https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF)",
-      "hero_image": "https://preview.redd.it/hlsgb1l7ycwg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=6fad65d7ccd37e8fae2082d0a72996592a4e876a",
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 217,
-        "num_comments": 100,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1sqrl1l/gemma_4_26ba4b_gguf_benchmarks/"
-      }
-    },
-    {
-      "id": "9265e2ce4eaa18c1",
-      "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
-      "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
-      "published_at": "2026-04-20T14:21:40+00:00",
-      "author": "Cristina Criddle, Financial Times",
-      "summary_raw": "Cyberdefenses could be exposed faster than fixes could be deployed.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/lock-anthropic-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "350c0a906cdbade3",
-      "title": "Hermes just mass emailed a bunch of accounts from 2020 with pairing requests.",
-      "url": "https://i.redd.it/gzpfozaxqcwg1.jpeg",
-      "published_at": "2026-04-20T14:03:45+00:00",
-      "author": "lickonmybbc",
-      "summary_raw": "Hermes email integration is a bidirectional chat channel, not an inbox reader. if you connect it expecting to solely read your emails, it could instead treat every email sender as a stranger trying to dm your bot and reply to them with a pairing code. I wanted Hermes to skim my inbox and surface job leads. I already had the python script ready and working fine. I figured hey I can have Hermes summarize this on Telegram easily. things it sent from my Gmail, to actual humans and automated senders: ``` Hi\\~ I don't recognize you yet! Here's your pairing code: \\_\\_\\_\\_\\_ Ask the bot owner to run: hermes pairing approve email \\_\\_\\_\\_\\_\\_\\_ Too many pairing requests right now\\~ Please try again later! Interrupting current task. I'll respond to your message shortly. ``` the third one was its response to me trying to stop it, which it then emailed to whoever it was mid-pairing with. beautiful.",
-      "hero_image": "https://preview.redd.it/gzpfozaxqcwg1.jpeg?width=140&amp;height=43&amp;auto=webp&amp;s=8a2e745fc49ffda820e1b38e30026b9a2ca953de",
-      "source_id": "reddit_ml",
-      "source_name": "Reddit (ML + LocalLLaMA) — r/LocalLLaMA",
-      "category": "community",
-      "extra": {
-        "score": 118,
-        "num_comments": 56,
-        "subreddit": "LocalLLaMA",
-        "permalink": "https://www.reddit.com/r/LocalLLaMA/comments/1sqqasu/hermes_just_mass_emailed_a_bunch_of_accounts_from/"
-      }
     },
     {
       "id": "055fb62ebc39fe8f",
@@ -1237,42 +1567,6 @@
       "category": "news"
     },
     {
-      "id": "09cf524813b800ec",
-      "title": "Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4",
-      "url": "https://importai.substack.com/p/import-ai-454-automating-alignment",
-      "published_at": "2026-04-20T12:30:19+00:00",
-      "author": "Jack Clark",
-      "summary_raw": "At what point do the financial markets price in the singularity?",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
-      "source_id": "import_ai",
-      "source_name": "Import AI (Jack Clark)",
-      "category": "newsletter"
-    },
-    {
-      "id": "1c1d37239b1161c8",
-      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
-      "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
-      "published_at": "2026-04-20T12:10:00+00:00",
-      "author": "Thomas Macaulay",
-      "summary_raw": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea that the National Science Foundation should&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2024/04/0700860orig.jpg?w=3000",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "821c1963c28c8f8b",
-      "title": "Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support",
-      "url": "https://arstechnica.com/gadgets/2026/04/lawsuits-licensing-and-royalties-are-complicating-4k-video-support-in-gadgets/",
-      "published_at": "2026-04-20T11:00:07+00:00",
-      "author": "Scharon Harding",
-      "summary_raw": "How does HEVC implementation really work these days?",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1396577576-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
       "id": "86a189e7f8eddfc7",
       "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
       "url": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
@@ -1282,42 +1576,6 @@
       "hero_image": "https://media.wired.com/photos/69e1401ea5e5befd53e0b86f/master/pass/Culture_TechCEOsThinkAIWillLetThemBeEverywhereatOnce.jpg",
       "source_id": "wired_ai",
       "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "ee35c7935c1bb8d0",
-      "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
-      "url": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
-      "published_at": "2026-04-20T10:00:00+00:00",
-      "author": "Boyce Upholt",
-      "summary_raw": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog. Forty miles to the west, the industrial sprawl of Houston spawned a golden glow. Tanner Broussard’s old Toyota Tacoma&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/2412_GW_2Month_2_1.jpg?w=1920",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "8872c86f0eb7c7f7",
-      "title": "Král je mrtev, ať žije Mark. Meta válcuje Google a zřejmě se stane vládcem internetové reklamy",
-      "url": "https://cc.cz/kral-je-mrtev-at-zije-mark-meta-valcuje-google-a-zrejme-se-stane-vladcem-internetove-reklamy/",
-      "published_at": "2026-04-20T09:35:31+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Metě pomáhá hlavně fenomén Reels. A také dravá umělá inteligence, kterou Zuckerbergova firma využívá jako silný nástroj pro inzerenty. Článek Král je mrtev, ať žije Mark. Meta válcuje Google a zřejmě se stane vládcem internetové reklamy se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2025/02/zucky-mvp-1-815x458.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "182c0685ae8869ad",
-      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-      "published_at": "2026-04-20T09:00:00+00:00",
-      "author": "Caiwei Chen",
-      "summary_raw": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
       "category": "news"
     },
     {
@@ -1369,90 +1627,6 @@
       "category": "newsletter"
     },
     {
-      "id": "d7d63ae2f877238d",
-      "title": "Headless everything for personal AI",
-      "url": "https://simonwillison.net/2026/Apr/19/headless-everything/",
-      "published_at": "2026-04-19T21:46:38+00:00",
-      "author": "",
-      "summary_raw": "Headless everything for personal AI Matt Webb thinks headless services are about to become much more common: Why? Because using personal AIs is a better experience for users than using services directly (honestly); and headless services are quicker and more dependable for the personal AIs than having them click round a GUI with a bot-controlled mouse. Evidently Marc Benioff thinks so too : Welcome Salesforce Headless 360: No Browser Required! Our API is the UI. Entire Salesforce &amp; Agentforce &amp; Slack platforms are now exposed as APIs, MCP, &amp; CLI. All AI agents can access data, workflows, and tasks directly in Slack, Voice, or anywhere else with Salesforce Headless. If this model does take off it's going to play havoc with existing per-head SaaS pricing schemes. I'm reminded of the early 2010s era when every online service was launching APIs. Brandur Leach reminisces about that time in The Second Wave of the API-first Economy , and predicts that APIs are ready to make a comeback: Suddenly, an API is no longer liability, but a major saleable vector to give users what they want: a way into the services they use and pay for so that an agent can carry out work on their behalf. Especially given a field of relatively undifferentiated products, in the near future the availability of an API might just be the crucial deciding factor that leads to one choice winning the field. Tags: apis , definitions , matt-webb , salesforce , saas , ai , brandur-leach",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "0f5b662943056512",
-      "title": "OpenAI’s existential questions",
-      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-      "published_at": "2026-04-19T21:24:06+00:00",
-      "author": "Anthony Ha",
-      "summary_raw": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "1b04b4a295529b06",
-      "title": "Cloud development platform Vercel was hacked",
-      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
-      "published_at": "2026-04-19T19:54:52+00:00",
-      "author": "Terrence O’Brien",
-      "summary_raw": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-19-at-3.53.46PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "b30fa692d399326e",
-      "title": "The 12-month window",
-      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-      "published_at": "2026-04-19T19:30:00+00:00",
-      "author": "Connie Loizos",
-      "summary_raw": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "d5cd515ad821d46d",
-      "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
-      "url": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
-      "published_at": "2026-04-19T18:19:19+00:00",
-      "author": "Stephen Clark",
-      "summary_raw": "Blue Origin's reused first stage hit its targets, but New Glenn's upper stage did not.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271539021-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "b9c156da48078acf",
-      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
-      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-      "published_at": "2026-04-19T16:30:00+00:00",
-      "author": "Anthony Ha",
-      "summary_raw": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "f3039e9b52eecdc3",
-      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-      "published_at": "2026-04-19T16:01:00+00:00",
-      "author": "Kirsten Korosec",
-      "summary_raw": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "52cb08fcbad81c1d",
       "title": "[AINews] The Two Sides of OpenClaw",
       "url": "https://www.latent.space/p/ainews-the-two-sides-of-openclaw",
@@ -1465,66 +1639,6 @@
       "category": "commentary"
     },
     {
-      "id": "bfc9bcd222eaff4a",
-      "title": "Train-to-Test scaling explained: How to optimize your end-to-end AI compute budget for inference",
-      "url": "https://venturebeat.com/orchestration/train-to-test-scaling-explained-how-to-optimize-your-end-to-end-ai-compute-budget-for-inference",
-      "published_at": "2026-04-17T17:34:02+00:00",
-      "author": "bendee983@gmail.com (Ben Dickson)",
-      "summary_raw": "The standard guidelines for building large language models (LLMs) optimize only for training costs and ignore inference costs. This poses a challenge for real-world applications that use inference-time scaling techniques to increase the accuracy of model responses, such as drawing multiple reasoning samples from a model at deployment. To bridge this gap, researchers at University of Wisconsin-Madison and Stanford University have introduced Train-to-Test (T 2 ) scaling laws, a framework that jointly optimizes a model’s parameter size, its training data volume, and the number of test-time inference samples. In practice, their approach proves that it is compute-optimal to train substantially smaller models on vastly more data than traditional rules prescribe, and then use the saved computational overhead to generate multiple repeated samples at inference. For enterprise AI application developers who are training their own models, this research provides a proven blueprint for maximizing return on investment. It shows that AI reasoning does not necessarily require spending huge amounts on frontier models. Instead, smaller models can yield stronger performance on complex tasks while keeping per-query inference costs manageable within real-world deployment budgets. Conflicting scaling laws Scaling laws are an important part of developing large language models. Pretraining scaling laws dictate the best way to allocate compute during the model&#x27;s creation, while test-time scaling laws guide how to allocate compute during deployment, such as letting the model “think longer” or generating multiple reasoning samples to solve complex problems. The problem is that these scaling laws have been developed completely independently of one another despite being fundamentally intertwined. A model&#x27;s parameter size and training duration directly dictate both the quality and the per-query cost of its inference samples. Currently, the industry gold standard for pretraining is the C…",
-      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/la95QpAj3bcZUcSLAy3X5/9df7300fd3887b42d53cc4457aff8d63/LLM_multi-response_sampling.jpg?w=300&q=30",
-      "source_id": "venturebeat_ai",
-      "source_name": "VentureBeat AI",
-      "category": "news"
-    },
-    {
-      "id": "32db21b1b6c9afe4",
-      "title": "Most enterprises can't stop stage-three AI agent threats, VentureBeat survey finds",
-      "url": "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds",
-      "published_at": "2026-04-17T17:07:29+00:00",
-      "author": "louiswcolumbus@gmail.com (Louis Columbus)",
-      "summary_raw": "A rogue AI agent at Meta passed every identity check and still exposed sensitive data to unauthorized employees in March. Two weeks later, Mercor , a $10 billion AI startup, confirmed a supply-chain breach through LiteLLM. Both are traced to the same structural gap. Monitoring without enforcement, enforcement without isolation. A VentureBeat three-wave survey of 108 qualified enterprises found that the gap is not an edge case. It is the most common security architecture in production today. Gravitee’s State of AI Agent Security 2026 survey of 919 executives and practitioners quantifies the disconnect. 82% of executives say their policies protect them from unauthorized agent actions. Eighty-eight percent reported AI agent security incidents in the last twelve months. Only 21% have runtime visibility into what their agents are doing. Arkose Labs’ 2026 Agentic AI Security Report found 97% of enterprise security leaders expect a material AI-agent-driven incident within 12 months. Only 6% of security budgets address the risk. VentureBeat&#x27;s survey results show that monitoring investment snapped back to 45% of security budgets in March after dropping to 24% in February, when early movers shifted dollars into runtime enforcement and sandboxing. The March wave (n=20) is directional, but the pattern is consistent with February’s larger sample (n=50): enterprises are stuck at observation while their agents already need isolation. CrowdStrike’s Falcon sensors detect more than 1,800 distinct AI applications across enterprise endpoints. The fastest recorded adversary breakout time has dropped to 27 seconds . Monitoring dashboards built for human-speed workflows cannot keep pace with machine-speed threats. The audit that follows maps three stages. Stage one is observe. Stage two is enforce, where IAM integration and cross-provider controls turn observation into action. Stage three is isolate, sandboxed execution that bounds blast radius when guardrails fail. VentureBeat Pulse…",
-      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/2oq4gxUSORHuJY6GKHVxQ1/1ff08d293fe4d0c43df9f5c7a1893344/hero_survey.png?w=300&q=30",
-      "source_id": "venturebeat_ai",
-      "source_name": "VentureBeat AI",
-      "category": "news"
-    },
-    {
-      "id": "75e2c8e2c671b97f",
-      "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma",
-      "url": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma",
-      "published_at": "2026-04-17T15:00:00+00:00",
-      "author": "michael.nunez@venturebeat.com (Michael Nuñez)",
-      "summary_raw": "Anthropic today launched Claude Design , a new product from its Anthropic Labs division that allows users to create polished visual work — designs, interactive prototypes, slide decks, one-pagers, and marketing collateral — through conversational prompts and fine-grained editing controls. The release, available immediately in research preview to all paid Claude subscribers , is the company&#x27;s most aggressive expansion beyond its core language model business and into the application layer that has historically belonged to companies like Figma , Adobe , and Canva . Claude Design is powered by Claude Opus 4.7, Anthropic&#x27;s most capable generally available vision model, which the company also released today. Anthropic says it is rolling access out gradually throughout the day to Claude Pro, Max, Team, and Enterprise subscribers. The simultaneous launches mark a watershed for Anthropic, whose ambitions now visibly extend from foundation model provider to full-stack product company — one that wants to own the arc from a rough idea to a shipped product. The timing is also significant: Anthropic hit roughly $20 billion in annualized revenue in early March 2026, according to Bloomberg, up from $9 billion at the end of 2025 — and surpassed $30 billion by early April 2026. The company is in early talks with Goldman Sachs, JPMorgan, and Morgan Stanley about a potential IPO that could come as early as October 2026. How Claude Design turns a text prompt into a working prototype The product follows a workflow that Anthropic has designed to feel like a natural creative conversation. Users describe what they need, and Claude generates a first version. From there, refinement happens through a combination of channels: chat-based conversation, inline comments on specific elements, direct text editing, and custom adjustment sliders that Claude itself generates to let users tweak spacing, color, and layout in real time. During onboarding, Claude reads a team&#x27;s codebase and d…",
-      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5DmzXzlni0pVWEsOQilzRl/7be8fdfb9d3f0d88f49cb8d3d8df28c7/nuneybits_Vector_art_of_a_retro_CRT_computer_displaying_color_s_d7afd7e6-cc20-434f-b18e-32f034a387ed-1.webp?w=300&q=30",
-      "source_id": "venturebeat_ai",
-      "source_name": "VentureBeat AI",
-      "category": "news"
-    },
-    {
-      "id": "e05e2f84ccddb5b9",
-      "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
-      "url": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps",
-      "published_at": "2026-04-17T14:06:00+00:00",
-      "author": "carl.franzen@venturebeat.com (Carl Franzen)",
-      "summary_raw": "For the past year, early adopters of autonomous AI agents have been forced to play a murky game of chance: keep the agent in a useless sandbox or give it the keys to the kingdom and hope it doesn&#x27;t hallucinate a catastrophic &quot;delete all&quot; command. To unlock the true utility of an agent—scheduling meetings, triaging emails, or managing cloud infrastructure—users have had to grant these models raw API keys and broad permissions, raising the risk of their systems being disrupted by an accidental agent mistake. That tradeoff ends today. The creators of the open source sandboxed NanoClaw agent framework — now known under their new private startup named NanoCo — have announced a landmark partnership with Vercel and OneCLI to introduce a standardized, infrastructure-level approval system. By integrating Vercel’s Chat SDK and OneCLI’s open source credentials vault, NanoClaw 2.0 ensures that no sensitive action occurs without explicit human consent, delivered natively through the messaging apps where users already live. The specific use cases that stand to benefit most are those involving high-consequence &quot;write&quot; actions. That is, in DevOps, an agent could propose a cloud infrastructure change that only goes live once a senior engineer taps &quot;Approve&quot; in Slack. For finance teams, an agent could prepare batch payments or invoice triaging, with the final disbursement requiring a human signature via a WhatsApp card. Technology: security by isolation The fundamental shift in NanoClaw 2.0 is the move away from &quot;application-level&quot; security to &quot;infrastructure-level&quot; enforcement. In traditional agent frameworks, the model itself is often responsible for asking for permission—a flow that Gavriel Cohen, co-founder of NanoCo, describes as inherently flawed. &quot;The agent could potentially be malicious or compromised,&quot; Cohen noted in a recent interview. &quot;If the agent is generating the UI for the approval request, it could …",
-      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TbIHt5VGnNz5GgWg0xUQf/dbf2d9a2c16fd6985c59325778edc9ce/Gemini_Generated_Image_89y0kh89y0kh89y0.png?w=300&q=30",
-      "source_id": "venturebeat_ai",
-      "source_name": "VentureBeat AI",
-      "category": "news"
-    },
-    {
-      "id": "373cb0c1356e0694",
-      "title": "AI #164: Pre Opus",
-      "url": "https://thezvi.substack.com/p/ai-164-pre-opus",
-      "published_at": "2026-04-17T13:01:09+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "This is a day late because, given the discourse around Dwarkesh Patel&#8217;s interview with Jensen Huang, I pushed the weekly to Friday.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!O2Cg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e89e2a4-34e2-4606-b455-c108973e1bc5_941x869.png",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
-      "category": "commentary"
-    },
-    {
       "id": "21e4b28bfb8e8e56",
       "title": "[AINews] Anthropic Claude Opus 4.7 - literally one step better than 4.6 in every dimension",
       "url": "https://www.latent.space/p/ainews-anthropic-claude-opus-47-literally",
@@ -1534,42 +1648,6 @@
       "hero_image": "https://substackcdn.com/image/fetch/$s_!iEJA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7242e5f5-6105-4489-bc8b-143002fe7da6_1344x756.png",
       "source_id": "latent_space",
       "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "6c8b7f6a60bea9e8",
-      "title": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
-      "url": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents",
-      "published_at": "2026-04-16T21:00:00+00:00",
-      "author": "michael.nunez@venturebeat.com (Michael Nuñez)",
-      "summary_raw": "Salesforce on Wednesday unveiled the most ambitious architectural transformation in its 27-year history, introducing &quot; Headless 360 &quot; — a sweeping initiative that exposes every capability in its platform as an API, MCP tool, or CLI command so AI agents can operate the entire system without ever opening a browser. The announcement, made at the company&#x27;s annual TDX developer conference in San Francisco, ships more than 100 new tools and skills immediately available to developers. It marks a decisive response to the existential question hanging over enterprise software: In a world where AI agents can reason, plan, and execute, does a company still need a CRM with a graphical interface? Salesforce&#x27;s answer: No — and that&#x27;s exactly the point. &quot;We made a decision two and a half years ago: Rebuild Salesforce for agents,&quot; the company said in its announcement. &quot;Instead of burying capabilities behind a UI, expose them so the entire platform will be programmable and accessible from anywhere.&quot; The timing is anything but coincidental. Salesforce finds itself navigating one of the most turbulent periods in enterprise software history — a sector-wide sell-off that has pushed the iShares Expanded Tech-Software Sector ETF down roughly 28% from its September peak. The fear driving the decline: that AI, particularly large language models from Anthropic, OpenAI, and others, could render traditional SaaS business models obsolete. Jayesh Govindarjan , EVP of Salesforce and one of the key architects behind the Headless 360 initiative, described the announcement as rooted not in marketing theory but in hard-won lessons from deploying agents with thousands of enterprise customers. &quot;The problem that emerged is the lifecycle of building an agentic system for every one of our customers on any stack, whether it&#x27;s ours or somebody else&#x27;s,&quot; Govindarjan told VentureBeat in an exclusive interview. &quot;The challenge that they face is…",
-      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/20o4KbpCNvhGDbjACvvc46/33584beeede6af5fbfc2d328076a0e64/nuneybits_Vector_art_of_Salesforce_Tower_bc4b6995-07bd-4746-97a9-9dfda2ab92d0.webp?w=300&q=30",
-      "source_id": "venturebeat_ai",
-      "source_name": "VentureBeat AI",
-      "category": "news"
-    },
-    {
-      "id": "ba2de02e96b9ba59",
-      "title": "Are we getting what we paid for? How to turn AI momentum into measurable value",
-      "url": "https://venturebeat.com/infrastructure/are-we-getting-what-we-paid-for-how-to-turn-ai-momentum-into-measurable-value",
-      "published_at": "2026-04-16T19:55:13+00:00",
-      "author": "",
-      "summary_raw": "Enterprise AI is entering a new phase — one where the central question is no longer what can be built, but how to make the most of our AI investment. At VentureBeat’s latest AI Impact Tour session, Brian Gracely, director of portfolio strategy at Red Hat, described the operational reality inside large organizations: AI sprawl, rising inference costs, and limited visibility into what those investments are actually returning. It’s the “Day 2” moment — when pilots give way to production, and cost, governance, and sustainability become harder than building the system in the first place. &quot;We&#x27;ve seen customers who say, &#x27;I have 50,000 licenses of Copilot. I don&#x27;t really know what people are getting out of that. But I do know that I&#x27;m paying for the most expensive computing in the world, because it&#x27;s GPUs,&#x27;&quot; Gracely said. &quot;&#x27;How am I going to get that under control?&#x27;&quot; Why enterprise AI costs are now a board-level problem For much of the past two years, cost was not the primary concern for organizations evaluating generative AI. The experimental phase gave teams cover to spend freely, and the promise of productivity gains justified aggressive investment, but that dynamic is shifting as enterprises enter their second and third budget cycles with AI. The focus has moved from &quot;can we build something?&quot; to &quot;are we getting what we paid for?&quot; Enterprises that made large, early bets on managed AI services are conducting hard reviews of whether those investments are delivering measurable value. The issue isn’t just that GPU computing is expensive. It is that many organizations lack the instrumentation to connect spending to outcomes, making it nearly impossible to justify renewals or scale responsibly. The strategic shift from token consumer to token producer The dominant AI procurement model of the past few years has been straightforward: pay a vendor per token, per seat, or per API call, and let someone …",
-      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/DqtVqZttXPsQQAic9qim9/7c71a0677fefeb40a57eb76b6067caee/184_VentureBeats_RedHat_AISummitBoston_032626.jpg?w=300&q=30",
-      "source_id": "venturebeat_ai",
-      "source_name": "VentureBeat AI",
-      "category": "news"
-    },
-    {
-      "id": "f084f2e369f3d1cd",
-      "title": "On Dwarkesh Patel's Podcast With Nvidia CEO Jensen Huang",
-      "url": "https://thezvi.substack.com/p/on-dwarkesh-patels-podcast-with-nvidia",
-      "published_at": "2026-04-16T17:19:52+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "Some podcasts are self-recommending on the &#8216;yep, I&#8217;m going to be breaking this one down&#8217; level.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!mbEh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69fcfbba-631a-4ca4-bdc4-f27ff51711c5_1853x933.png",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
       "category": "commentary"
     },
     {
@@ -1669,18 +1747,6 @@
       "category": "labs"
     },
     {
-      "id": "da931f0ba3029166",
-      "title": "Peak absurdity, Part II",
-      "url": "https://garymarcus.substack.com/p/peak-absurdity-part-ii",
-      "published_at": "2026-04-15T20:43:17+00:00",
-      "author": "Gary Marcus",
-      "summary_raw": "You can&#8217;t make this up",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!hv8b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24d91c74-95f6-4ecd-8995-cc7a2ddf1592_1504x1191.png",
-      "source_id": "marcus_on_ai",
-      "source_name": "Marcus on AI",
-      "category": "commentary"
-    },
-    {
       "id": "c649c69268858078",
       "title": "My bets on open models, mid-2026",
       "url": "https://www.interconnects.ai/p/my-bets-on-open-models-mid-2026",
@@ -1714,18 +1780,6 @@
       "hero_image": null,
       "source_id": "dwarkesh",
       "source_name": "Dwarkesh Patel",
-      "category": "commentary"
-    },
-    {
-      "id": "e35a9297b6f54d74",
-      "title": "Claude Code, Codex and Agentic Coding #7: Auto Mode",
-      "url": "https://thezvi.substack.com/p/claude-code-codex-and-agentic-coding",
-      "published_at": "2026-04-15T14:31:26+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "As we all try to figure out what Mythos means for us down the line, the world of practical agentic coding continues, with the latest array of upgrades.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!zzZ4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04482265-02da-41e3-b226-849ccc446495_1920x1920.webp",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
       "category": "commentary"
     },
     {
@@ -1799,30 +1853,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "d88daf6a1dcd531e",
-      "title": "What I’ve been building: ATOM Report, post-training course, finishing my book, and ongoing research",
-      "url": "https://www.interconnects.ai/p/what-ive-been-building-atom-report",
-      "published_at": "2026-04-14T20:41:12+00:00",
-      "author": "Nathan Lambert",
-      "summary_raw": "What I've been up to!",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!Bv0Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2d8ba64-922d-4000-9d57-12cb5524a238_1200x675.jpeg",
-      "source_id": "interconnects",
-      "source_name": "Interconnects (Nathan Lambert)",
-      "category": "commentary"
-    },
-    {
-      "id": "2418fbae7f8ad347",
-      "title": "Big lab leaks",
-      "url": "https://www.bensbites.com/p/big-lab-leaks",
-      "published_at": "2026-04-14T13:10:46+00:00",
-      "author": "",
-      "summary_raw": "Headless software",
-      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/fd140b11-ede6-49b4-b2bf-3c95c7e39f3b_1306x816.png",
-      "source_id": "bens_bites",
-      "source_name": "Ben's Bites",
-      "category": "newsletter"
     },
     {
       "id": "f5d78ed0d292a58f",
