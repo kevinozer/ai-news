@@ -1,0 +1,52 @@
+name: Daily fetch AI news
+
+on:
+  schedule:
+    # 02:00 UTC = 04:00 Europe/Prague (zima) / 04:00 CEST (léto je 04:00 → použij 02:00 UTC celoročně, pustíme 04:00 ~ toleranci pár minut)
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Fetch sources
+        working-directory: scripts
+        run: python fetch_sources.py
+
+      - name: Commit inbox changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add inbox/
+          if git diff --cached --quiet; then
+            echo "Žádná novinka, nic neukládám."
+          else
+            DATE=$(date -u +"%Y-%m-%d")
+            git commit -m "chore(inbox): nightly fetch $DATE"
+            git push
+          fi

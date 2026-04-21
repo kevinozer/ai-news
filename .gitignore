@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Cache (obrázky z Gemini – nechceme do gitu)
+assets/bg_cache/
+
+# Generated outputs (produkují se lokálně / v taskech)
+instagram/*/slide_*.png
+instagram/*/*.jpg
+linkedin/*/slide_*.png
+linkedin/*/*.pdf
+digest/news_*.pdf
+digest/*_selected.json
+
+# Archive (historické PDF/posty)
+archive/
+
+# Logs
+scripts/logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
