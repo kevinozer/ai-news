@@ -1134,6 +1134,43 @@ def build_linkedin_pdf(slide_images: list[Image.Image], out_path: Path) -> None:
 # ---------- main orchestration ----------
 
 
+def prewarm_single_bg(
+    selected: dict,
+    bg_index: int,
+    *,
+    use_gemini: bool,
+    api_key: str | None,
+) -> None:
+    """Vygeneruje (a zacachuje) jedno konkrétní pozadí a skončí.
+
+    bg_index:
+        0     → cover pozadí (cover_prompt)
+        1..7  → pozadí news článku i (theme_prompt_for_article(top7[i-1]))
+
+    Cílem je rozbít jeden velký Gemini batch do samostatných bash volání
+    tak, aby se každé vešlo pod 45s sandbox timeout. Finální volání skriptu
+    bez flagu pak jen skládá slidy — všechna pozadí jsou v cache.
+    """
+    articles = sorted(selected["articles"], key=lambda a: a.get("rank", 99))
+    top7 = articles[:7]
+    if bg_index < 0 or bg_index > 7:
+        raise SystemExit(f"--bg-only musí být 0..7, dostal {bg_index}")
+
+    if bg_index == 0:
+        prompt = cover_prompt()
+        label = "cover"
+    else:
+        art = top7[bg_index - 1]
+        prompt = theme_prompt_for_article(art)
+        label = f"news-{bg_index}"
+
+    # Sdílená pozadí držíme v 16:9 (IG si je pak center-cropne).
+    get_or_generate_bg(
+        prompt, api_key=api_key, use_gemini=use_gemini, aspect_ratio="16:9",
+    )
+    print(f"[bg-only {bg_index}] {label} OK")
+
+
 def process_articles_for_day(
     selected: dict,
     *,
@@ -1254,6 +1291,17 @@ def main() -> None:
         action="store_true",
         help="Wipe the Gemini image cache directory before generating.",
     )
+    ap.add_argument(
+        "--bg-only",
+        type=int,
+        default=None,
+        metavar="N",
+        help=(
+            "Pre-warm cache pro jedno pozadi a skonci. 0=cover, 1..7=news. "
+            "Pouzito scheduled taskem pro rozbiti Gemini batche na samostatna "
+            "bash volani (45s sandbox timeout)."
+        ),
+    )
     args = ap.parse_args()
 
     load_env()
@@ -1272,6 +1320,16 @@ def main() -> None:
         raise SystemExit(f"selected_json not found: {args.selected_json}")
 
     selected = json.loads(args.selected_json.read_text(encoding="utf-8"))
+
+    if args.bg_only is not None:
+        prewarm_single_bg(
+            selected,
+            args.bg_only,
+            use_gemini=use_gemini,
+            api_key=api_key,
+        )
+        return
+
     process_articles_for_day(
         selected,
         use_gemini=use_gemini,
