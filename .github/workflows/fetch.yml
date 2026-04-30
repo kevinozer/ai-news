@@ -3,7 +3,7 @@ name: Daily fetch AI news
 on:
   schedule:
     # 02:00 UTC = 04:00 Europe/Prague (zima) / 04:00 CEST (léto je 04:00 → použij 02:00 UTC celoročně, pustíme 04:00 ~ toleranci pár minut)
-    - cron: "0 2 * * *"
+    - cron: "17 4 * * *"
   workflow_dispatch:
 
 permissions:
