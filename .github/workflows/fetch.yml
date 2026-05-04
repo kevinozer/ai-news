@@ -1,8 +1,11 @@
-name: Daily fetch AI news
+﻿name: Daily fetch AI news
 
 on:
   schedule:
-    # 02:00 UTC = 04:00 Europe/Prague (zima) / 04:00 CEST (léto je 04:00 → použij 02:00 UTC celoročně, pustíme 04:00 ~ toleranci pár minut)
+    # 04:17 UTC = 06:17 CEST (léto) / 05:17 CET (zima)
+    # Lichá minuta + nekulatá hodina = mimo špičku → typicky < 5 min queue delay.
+    # Cíl: do 07:00 CEST mít inbox/${DATE}.json commitnutý a připravený
+    # pro scheduled cowork task v 10:37 CEST.
     - cron: "17 4 * * *"
   workflow_dispatch:
 
@@ -46,7 +49,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Žádná novinka, nic neukládám."
           else
-            DATE=$(date -u +"%Y-%m-%d")
+            DATE=$(TZ='Europe/Prague' date +"%Y-%m-%d")
             git commit -m "chore(inbox): nightly fetch $DATE"
             git push
           fi
