@@ -1,0 +1,1030 @@
+{
+  "generated_at": "2026-05-04T07:23:55.230143+00:00",
+  "date": "2026-05-04",
+  "article_count_unique": 71,
+  "article_count_raw": 71,
+  "source_stats": [
+    {
+      "source_id": "techcrunch_ai",
+      "status": "ok",
+      "count": 4,
+      "raw_count": 4
+    },
+    {
+      "source_id": "verge_ai",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 2
+    },
+    {
+      "source_id": "arstechnica",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 2
+    },
+    {
+      "source_id": "mit_tech_review",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "wired_ai",
+      "status": "ok",
+      "count": 1,
+      "raw_count": 1
+    },
+    {
+      "source_id": "venturebeat_ai",
+      "status": "ok",
+      "count": 6,
+      "raw_count": 7
+    },
+    {
+      "source_id": "openai_blog",
+      "status": "ok",
+      "count": 7,
+      "raw_count": 7
+    },
+    {
+      "source_id": "anthropic_news",
+      "status": "ok",
+      "count": 12,
+      "raw_count": 12
+    },
+    {
+      "source_id": "deepmind_blog",
+      "status": "ok",
+      "count": 1,
+      "raw_count": 1
+    },
+    {
+      "source_id": "microsoft_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "huggingface_blog",
+      "status": "ok",
+      "count": 4,
+      "raw_count": 4
+    },
+    {
+      "source_id": "import_ai",
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
+    },
+    {
+      "source_id": "tldr_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "bens_bites",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 2
+    },
+    {
+      "source_id": "last_week_ai",
+      "status": "ok",
+      "count": 1,
+      "raw_count": 1
+    },
+    {
+      "source_id": "one_useful_thing",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "simonw",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 2
+    },
+    {
+      "source_id": "latent_space",
+      "status": "ok",
+      "count": 6,
+      "raw_count": 6
+    },
+    {
+      "source_id": "marcus_on_ai",
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
+    },
+    {
+      "source_id": "dwarkesh",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 2
+    },
+    {
+      "source_id": "zvi_vase",
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
+    },
+    {
+      "source_id": "interconnects",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "arxiv_cs_lg",
+      "status": "ok",
+      "count": 15,
+      "raw_count": 264
+    },
+    {
+      "source_id": "hackernews_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "reddit_ml",
+      "status": "error",
+      "error": "HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/r/MachineLearning+LocalLLaMA/top.json?t=day&limit=100",
+      "count": 0
+    },
+    {
+      "source_id": "lupa_cz",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 4
+    },
+    {
+      "source_id": "czechcrunch",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 10
+    }
+  ],
+  "articles": [
+    {
+      "id": "a9aa9135402f937d",
+      "title": "Na jednu pozici v technologických firmách je víc kandidátů než loni, může za to prý i AI",
+      "url": "https://www.lupa.cz/aktuality/na-jednu-pozici-v-technologickych-firmach-je-vic-kandidatu-nez-loni-muze-za-to-pry-i-ai/",
+      "published_at": "2026-05-04T06:59:47+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Na jednu pracovní nabídku startupů a dal&#353;ích technologických firem se v prvním čtvrtletí leto&#353;ka hlásilo o 10 uchazečů víc než loni. Uvádí to data portálu StartupJobs. Podle něj za to může nejistota z globální situace a změny, které přinesla umělá inteligence. Na straně zájemců o práci data ovlivňují také ti, kteří vnímají trh práce jako nejistý a hledají stabilněj&#353;í pozici dříve, než se podle nich situace zhor&#353;í.",
+      "hero_image": "https://i.iinfo.cz/images/85/filip-mikschik-startupjobs.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "17d595daed04536e",
+      "title": "AI agent, který vás pomluví, a další, kteří kradou hesla. Přišla nová éra kyberbezpečnosti, říkají odborníci",
+      "url": "https://www.lupa.cz/clanky/ai-agent-ktery-vas-pomluvi-a-dalsi-kteri-kradou-hesla-prisla-nova-era-kyberbezpecnosti-rikaji-odbornici/",
+      "published_at": "2026-05-04T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Ve chvíli, kdy je člověk alespoň trochu technicky zdatný, těžko se brání pokušení nechat za sebe AI agenty dělat práci. Ti ale můžou dostát svému jménu a plnit cizí úkoly, upozorňují výzkumníci.",
+      "hero_image": "https://i.iinfo.cz/images/536/ai-agent.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "f9f82a6814d8811c",
+      "title": "Zájem o rekvalifikaci holek do IT rapidně klesl, říkají Czechitas. Pod vlivem AI překopávají fungování",
+      "url": "https://cc.cz/zajem-o-rekvalifikaci-holek-do-it-rapidne-klesl-rikaji-czechitas-pod-vlivem-ai-prekopavaji-fungovani/",
+      "published_at": "2026-05-04T04:23:41+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Předělali jsme organizační strukturu, produktové portfolio i naši propozici a formáty vzdělávání, přibližuje zakladatelka Dita Formánková. Článek Zájem o rekvalifikaci holek do IT rapidně klesl, říkají Czechitas. Pod vlivem AI překopávají fungování se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/04/dita-formankova-future-5-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "682f697f5de6c40b",
+      "title": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
+      "url": "https://arxiv.org/abs/2605.00005",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Pragya Sharma, Hang Qiu, Mani Srivastava",
+      "summary_raw": "arXiv:2605.00005v1 Announce Type: new Abstract: The increasing deployment of deep neural networks (DNNs) in cyber-physical systems (CPS) enhances perception fidelity, but imposes substantial computational demands on execution platforms, posing challenges to real-time control deadlines. Traditional distributed CPS architectures typically favor on-device inference to avoid network variability and contention-induced delays on remote platforms. However, this design choice places significant energy and computational demands on the local hardware. In this work, we revisit the assumption that cloud-based inference is intrinsically unsuitable for latency-sensitive control tasks. We demonstrate that, when provisioned with high-throughput compute resources, cloud platforms can effectively amortize network and queueing delays, enabling them to match or surpass on-device performance for real-time decision-making. Specifically, we develop a formal analytical model that characterizes distributed inference latency as a function of the sensing frequency, platform throughput, network delay, and task-specific safety constraints. We instantiate this model in the context of emergency braking for autonomous driving and validate it through extensive simulations using real-time vehicular dynamics. Our empirical results identify concrete conditions under which cloud-based inference adheres to safety margins more reliably than its on-device counterpart. These findings challenge prevailing design strategies and suggest that the cloud is not merely a feasible option, but often the preferred inference location for distributed CPS architectures. In this light, the cloud is not as distant as traditionally perceived; in fact, it is closer than it appears.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "4b2b3753fd5f2987",
+      "title": "FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources",
+      "url": "https://arxiv.org/abs/2605.00011",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Md Sirajul Islam, Isabelle G Chapman, N I Md Ashafuddula, Xu Yuan, Li Chen, Nian-Feng Tzeng, Klara Nahrstedt",
+      "summary_raw": "arXiv:2605.00011v1 Announce Type: new Abstract: Federated Learning (FL) enables collaborative intelligence across decentralized data source devices in a privacy-preserving way. While substantial research attention has been drawn to optimizing the learning process for an individual task, real-world applications increasingly require multiple machine learning tasks simultaneously training their models across a shared pool of devices. Naively applying single-FL optimization techniques in multi-FL systems results in suboptimal system performance, particularly due to device heterogeneity and resource inefficiency. To address such a critical open challenge, we introduce {\\em FedACT}, a novel resource heterogeneity-aware device scheduling approach designed to efficiently schedule heterogeneous devices across multiple concurrent FL jobs, with the goal of minimizing their average job completion time (JCT). {\\em FedACT} dynamically assigns devices to FL jobs based on an alignment scoring mechanism that evaluates the compatibility between available resources of devices and resource demands of jobs. Additionally, it incorporates participation fairness to ensure balanced contributions from devices across jobs, further enhancing the accuracy levels of learned global models. An optimal scheduling plan is formulated in {\\em FedACT} by prioritizing devices with higher alignment scores, while ensuring fair participation across jobs. To evaluate the effectiveness of the proposed scheduling algorithm, we carried out comprehensive experiments using diverse FL jobs and benchmark datasets. Experimental results demonstrate that {\\em FedACT} reduces the average JCT by up to 8.3\\(\\times\\) and improves model accuracy by up to 44.5\\%, compared to the state-of-the-art baselines.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "491b54777fe1fa4c",
+      "title": "What Physics do Data-Driven MoCap-to-Radar Models Learn?",
+      "url": "https://arxiv.org/abs/2605.00018",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Kevin Chen, Kenneth W. Parker, Anish Arora",
+      "summary_raw": "arXiv:2605.00018v1 Announce Type: new Abstract: Data-driven MoCap-to-radar models generate plausible micro-Doppler spectrograms, but do they actually learn the underlying physics? We introduce a physics-based interpretability framework to answer this question via two proposed complementary metrics: one measures alignment between model predictions and the physics-derived Doppler frequency, while the other tests whether predictions preserve the velocity-frequency relationship under velocity intervention. Both metrics require only MoCap input and model predictions, without access to measured radar data. Experiments across several model architectures reveal that low reconstruction error does not guarantee physical consistency: some, but not all, models achieve low error yet perform poorly on the two physics-based metrics. Further analysis shows that temporal attention is critical for transformer-based models to learn the underlying physics.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "15d5682e5f78bfdd",
+      "title": "AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-Angle Domain for AI-Native 6G",
+      "url": "https://arxiv.org/abs/2605.00020",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Kejia Bian, Meixia Tao, Jianhua Mo, Zhiyong Chen, Leyan Chen",
+      "summary_raw": "arXiv:2605.00020v1 Announce Type: new Abstract: The success of large foundation models is catalyzing a new paradigm for AI-native 6G network design: wireless foundation models for physical layer design. However, existing models often operate on channel state information (CSI) in the space-time-frequency (STF) domain, where distinct multipath components are inherently superimposed and structurally entangled. This hinders the learning of universal channel representation. Meanwhile, their reliance on global attention mechanisms incurs prohibitive computational overhead. In this paper, we propose AirFM-DDA, an Air-interface Foundation Model operating in the Delay-Doppler-Angle (DDA) domain for physicallayer tasks. Specifically, AirFM-DDA reparameterizes CSI from the STF domain into the DDA domain to explicitly resolve multipath components along physically meaningful axes. It employs a window-based attention module augmented with framestructure-aware positional encoding (FS-PE). This window-based attention aligns with locally clustered multipath dependencies while avoiding quadratic-complexity global attention, and FS-PE injects frame-structure priors into network. Extensive experiments demonstrate that AirFM-DDA achieves superior zero-shot generalization across unseen scenarios and datasets, consistently outperforming the baselines on channel prediction and estimation tasks. Compared to the global attention, its window-based attention reduces training and inference costs by nearly an order of magnitude. Moreover, AirFM-DDA maintains robustness under high mobility, large delay spreads, severe noise, and extreme aliasing conditions.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "9be7fc0017965b00",
+      "title": "Learning physically grounded traffic accident reconstruction from public accident reports",
+      "url": "https://arxiv.org/abs/2605.00050",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Yanchen Guan, Haicheng Liao, Chengyue Wang, Zhenning Li",
+      "summary_raw": "arXiv:2605.00050v1 Announce Type: new Abstract: Traffic accidents are routinely documented in textual reports, yet physically grounded accident reconstruction remains difficult because detailed scene measurements and expert reconstructions are scarce, costly and hard to scale. Here we formulate accident reconstruction from publicly accessible reports and scene measurements as a parameterized multimodal learning problem. We construct CISS-REC, a dataset of 6,217 real-world accident cases curated from the NHTSA Crash Investigation Sampling System, and develop a reconstruction framework that grounds report semantics to road topology and participant attributes, reconstructs lane consistent pre-impact motion, and refines collision relevant interactions through localized geometric reasoning and temporal allocation. Our method outperforms representative baselines on CISS-REC, achieving the strongest overall reconstruction fidelity, including improved accident point accuracy and collision consistency. These results show that public accident reports can serve as scalable computational substrates for quantitatively verifiable accident reconstruction, with potential value for traffic safety analysis, simulation and autonomous driving research.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "0671ac81a614b077",
+      "title": "Smart Ensemble Learning Framework for Predicting Groundwater Heavy Metal Pollution",
+      "url": "https://arxiv.org/abs/2605.00056",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "T. Ansah-Narh, G. Y. Afrifa, J. B. Tandoh, K. Asare, M. Addi, K. E. Yorke, D. M. A. Akpoley, K. Aidoo, S. K. Fosuhene",
+      "summary_raw": "arXiv:2605.00056v1 Announce Type: new Abstract: Groundwater in the Densu Basin is increasingly threatened by heavy metal contamination, but conventional methods fail to capture the statistical complexity and spatial heterogeneity of pollution indicators. A key challenge is modelling the Heavy Metal Pollution Index (HPI), which is typically skewed and affected by correlated contaminants, leading to biased predictions without transformation. This study develops a predictive framework integrating response transformations with nested cross-validated ensemble machine learning. Three transformations (raw, log, and Gaussian copula) were applied to HPI and evaluated across six learners: support vector regression (SVM), $k$-nearest neighbours (k-NN), CART, Elastic Net, kernel ridge regression, and a stacked Lasso ensemble. Raw-scale models produced deceptively high fits (Elastic Net and stacked ensemble $R^2 \\approx 1.0$), suggesting over-optimism. The log transformation stabilised variance (SVM: $R^2 = 0.93$, RMSE $= 0.18$; k-NN: $R^2 = 0.92$, RMSE $= 0.20$). The Gaussian copula gave the most reliable results: stacked ensemble $R^2 = 0.96$ (RMSE $= 0.19$), with other learners maintaining high accuracy. Copula-based models improved residuals and produced spatially plausible maps. DBSCAN clustering revealed Fe and Mn as primary HPI contributors, consistent with regional hydrogeochemistry. Limitations include reliance on random (not spatial) cross-validation and basin-specific scope. Future work should explore spatial validation and other geological settings. Overall, distribution-aware ensembles with clustering diagnostics offer robust, interpretable assessments of groundwater contamination.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "23243edc9b62ba54",
+      "title": "Information-Theoretic Generalization Bounds for Stochastic Gradient Descent with Predictable Virtual Noise",
+      "url": "https://arxiv.org/abs/2605.00064",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Mohammad Partohaghighi",
+      "summary_raw": "arXiv:2605.00064v1 Announce Type: new Abstract: Information-theoretic generalization bounds analyze stochastic optimization by relating expected generalization error to the mutual information between learned parameters and training data. Virtual perturbation analyses of SGD add auxiliary Gaussian noise only in the proof, making mutual information tractable while leaving the actual SGD trajectory unchanged. Existing bounds, however, typically require perturbation covariances to be fixed independently of the optimization history, limiting their ability to represent geometries induced by moving gradient statistics, preconditioners, curvature proxies, and other pathwise information. We introduce predictable history-adaptive virtual perturbations, where the perturbation covariance at each iteration may depend on the past real SGD history but not on current or future randomness. This predictability enables a conditional Gaussian relative-entropy argument and yields generalization bounds for SGD with adaptive virtual-noise geometry. The bounds replace fixed sensitivity and gradient-deviation terms with conditional adaptive counterparts, include an output-sensitivity penalty from accumulated perturbation covariance, and reduce the deviation term to a conditional variance only under conditional unbiasedness. Since adaptive covariances may be data-dependent, we separate local Gaussian smoothing from global reference-kernel comparison. The resulting bound includes a covariance-comparison cost measuring the KL price of using an admissible reference geometry different from the actual adaptive covariance. Fixed-noise-style bounds are recovered under admissible synchronization, such as deterministic, public, or prefix-observable covariance rules. The framework recovers fixed isotropic and geometry-aware bounds as special cases while extending virtual perturbation analysis to history-dependent SGD without modifying the algorithm.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "f7e1f97c6c1c0b6a",
+      "title": "Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications",
+      "url": "https://arxiv.org/abs/2605.00068",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Ricardo Luna Gutierrez, Sahand Ghorbanpour, Ejaz Rahman, Varchas Gopalaswamy, Riccardo Betti, Vineet Gundecha, Aarne Lees, Soumyendu Sarkar",
+      "summary_raw": "arXiv:2605.00068v1 Announce Type: new Abstract: Inertial Confinement Fusion (ICF) holds transformative promise for sustainable, near-limitless clean energy, yet remains constrained by prohibitively high costs and limited experimental opportunities. This paper presents Human-in-the-Loop Meta Bayesian Optimization (HL-MBO), a framework that integrates expert knowledge with few-shot, uncertainty-aware machine learning to accelerate discovery in data-scarce, high-stakes scientific domains. HL-MBO introduces a meta-learned surrogate model with an expert-informed acquisition function to recommend candidate experiments. To foster trust and enable informed decisions, HL-MBO also provides interpretable explanations of its suggestions. We show HL-MBO outperforms current BO methods on ICF energy yield optimization, as well as benchmarks in molecular optimization and critical temperature maximization for superconducting materials.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "5838378b38abd13d",
+      "title": "Soft-MSM: Differentiable Context-Aware Elastic Alignment for Time Series",
+      "url": "https://arxiv.org/abs/2605.00069",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Christopher Holder, Anthony Bagnall",
+      "summary_raw": "arXiv:2605.00069v1 Announce Type: new Abstract: Elastic distances like dynamic time warping (DTW) are central to time series machine learning because they compare sequences under local temporal misalignment. Soft-DTW is an adaptation of DTW that can be used as a gradient-based loss by replacing the hard minimum in its dynamic-programming recursion with a smooth relaxation. However, this approach does not directly extend to elastic distances whose transition costs depend on the local alignment context. Move-Split-Merge (MSM) is one such distance: it uses context-aware split and merge penalties and has often outperformed DTW in supervised and unsupervised time series machine learning tasks such as classification and clustering. We introduce Soft-MSM, a smooth relaxation of MSM and an elastic alignment loss with context-aware transition costs. Central to the formulation is a smooth gated surrogate for MSM's piecewise split/merge cost, which enables gradients through both the dynamic-programming recursion and the local transition structure. We derive the forward recursion, backward recursion, soft alignment matrix, closed-form gradient, limiting behaviour, and divergence-corrected formulation. Experiments on 112 UCR datasets show that Soft-MSM gives lower MSM barycentre loss than existing MSM barycentre methods, and yields significantly better clustering and nearest-centroid classification performance than Soft-DTW-based alternatives. An implementation is available in the open-source \\texttt{aeon} toolkit.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "35fa7a4fc445dd0c",
+      "title": "CRADIPOR: Crash Dispersion Predictor",
+      "url": "https://arxiv.org/abs/2605.00070",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Edgar Chaillou, Sebastian Rodriguez, Yves Tourbier, Francisco Chinesta",
+      "summary_raw": "arXiv:2605.00070v1 Announce Type: new Abstract: We present CRADIPOR, a numerical dispersion prediction tool for automotive crash simulations. Finite Element (FE) crash models are widely used throughout vehicle development, but their predictions are not strictly repeatable because of parallel computation and model complexity. As a result, performance criteria evaluated during post-processing may exhibit significant numerical dispersion, which complicates engineering decision-making. Although dispersion can be estimated by repeating the same simulation, this approach is generally impractical because of its high computational cost. This work therefore investigates a prediction tool that can be applied during routine crash-simulation post-processing without repeating the computation. The proposed approach relies on a Rank Reduction Autoencoder (RRAE) combined with supervised classification in order to identify regions sensitive to numerical dispersion. The comparative analysis suggests that the RRAE-based framework is more effective than the Random Forest baseline on the studied dataset. Among the tested signal representations, wavelet-based and slope-based inputs appear to be the most promising, with slope variations providing the best classification performance. These results support the use of structured latent representations for improving numerical-dispersion detection in automotive crash post-processing.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "e153c9fee22d319a",
+      "title": "Hyperspherical Forward-Forward with Prototypical Representations",
+      "url": "https://arxiv.org/abs/2605.00082",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Shalini Sarode, Brian Moser, Joachim Folz, Federico Raue, Tobias Nauen, Stanislav Frolov, Andreas Dengel",
+      "summary_raw": "arXiv:2605.00082v1 Announce Type: new Abstract: The Forward-Forward (FF) algorithm presents a compelling, bio-inspired alternative to backpropagation. However, while efficient in training, it has a computationally prohibitive inference process that requires a separate forward pass for every class that is evaluated. In this work, we introduce the Hyperspherical Forward-Forward (HFF), a novel reformulation that resolves this critical bottleneck. Our core innovation is to reframe the local objective of each layer from a binary goodness-of-fit task to a direct multi-class classification problem within a hyperspherical feature space. We achieve this by learning a set of class-specific, unit-norm prototypes that act as geometric anchors and implicit negatives. This architectural innovation preserves the benefits of local training while enabling weight update and inference in a single forward pass, making it >40x faster than the original FF algorithm. Our method is simple to implement, scales effectively to modern convolutional architectures, and achieves superior accuracy on standard image classification benchmarks, closing the gap with backpropagation. Most notably, we are among the first greedy local-learning methods to report over 25% top-1 accuracy on ImageNet-1k, and 65.96% with transfer learning.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "2bcb120ed877d5eb",
+      "title": "Comparative Analysis of Polygon-Based and Global Machine Learning Models for Bus Occupancy Prediction",
+      "url": "https://arxiv.org/abs/2605.00083",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Daniel Azenkot, Michael Fire, Eran Ben Elia",
+      "summary_raw": "arXiv:2605.00083v1 Announce Type: new Abstract: Accurate forecasting of bus ridership (passengers numbers) is crucial for efficient management and optimization of public transport systems. Traditional forecasting models often fail to capture the unique and localized dynamics of different urban areas by treating the entire city as a single, homogeneous region. This paper introduces a novel framework that enhances bus ridership prediction by integrating a spatial clustering methodology with multi-dimensional feature analysis. The proposed framework utilizes a diverse set of data, including bus ridership data (by route number, time, and bus stop) complemented by a variety of open source data, such as spatial features (e.g., attractive destinations), meteorological conditions (e.g., temperature, rainfall), and temporal patterns (e.g., time of day, day of week). By clustering the urban area into distinct regions, based on the principle that bus stops in close proximity share similar ridership characteristics, a separate local forecasting model is trained for each of these clusters. This localized approach demonstrates an accuracy comparable to that of global models. The findings suggest that a spatially-aware, localized modeling strategy is effective for public transport prediction, paving the way for more targeted and efficient service improvements.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "33c54d326a47a6d6",
+      "title": "SPLICE: Latent Diffusion over JEPA Embeddings for Conformal Time-Series Inpainting",
+      "url": "https://arxiv.org/abs/2605.00126",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Arnaud Zinflou",
+      "summary_raw": "arXiv:2605.00126v1 Announce Type: new Abstract: Generative models for time-series imputation achieve strong reconstruction accuracy, yet provide no finite-sample reliability guarantees, a critical limitation in power systems where imputed values inform dispatch and planning. We introduce SPLICE (Self-supervised Predictive Latent Inpainting with Conformal Envelopes), a modular framework coupling latent generative imputation with distribution-free, online-adaptive prediction intervals. A JEPA encoder maps daily load segments into a 64-dimensional latent space; a conditional latent bridge with four sampling modes generates candidate gap trajectories; an hourly-conditioned decoder maps back to signal space; and Adaptive Conformal Inference (ACI) wraps the output with coverage-guaranteed prediction bands. The flow-matching variant achieves comparable quality to DDIM in 5--10 ODE steps (5-10x speedup). On thirteen load datasets (nine proprietary, three UCI Electricity, ETTh1), SPLICE achieves the lowest mean Load-only MSE (0.056), winning 9/12 non-degenerate datasets at 91-day gaps and 18/32 across all gap lengths vs. five established baselines, and produces the best CRPS (0.161, -18.3% vs. the strongest competitor). ACI delivers 93--95% empirical coverage, correcting under-coverage failures of up to 7.5 pp observed with static conformal prediction. A pooled JEPA encoder trained on nine feeds transfers to four unseen domains, matching or exceeding per-dataset oracles with only a quick bridge fine-tuning.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "000a067356c511b0",
+      "title": "Learning Fingerprints for Medical Time Series with Redundancy-Constrained Information Maximization",
+      "url": "https://arxiv.org/abs/2605.00130",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Huayu Li, ZhengXiao He, Xiwen Chen, Jingjing Wang, Siyuan Tian, Jinghao Wen, Ao Li",
+      "summary_raw": "arXiv:2605.00130v1 Announce Type: new Abstract: Learning meaningful representations from medical time series (MedTS) such as ECG or EEG signals is a critical challenge. These signals are often high-dimensional, variable-length and rife with noise. Existing self-supervised approaches, such as Masked Autoencoders (MAEs) are highly effective for pre-training general-purpose encoders. However, they do not explicitly learn compact and semantically interpretable latent representations, typically relying on heuristic aggregation strategies such as global average pooling or a designated [CLS] token. We propose a novel framework that compresses a variable-length MedTS into a fixed-size set of $k$ latent Fingerprint Tokens. Our architecture employs a cross-attention bottleneck to generate these tokens and is trained with a dual-objective function. The first objective is a reconstruction loss, which ensures the tokens are \\textit{sufficient statistics} for the original data. The second, a diversity penalty based on the Total Coding Rate (TCR), explicitly minimizes the redundancy between tokens, encouraging them to become statistically \\textit{disentangled} representations. We present the theoretical justification for our method, framing it as a novel \\textbf{Disentangled Rate-Distortion} problem. This approach produces a low-dimensional, interpretable, and sample-efficient representation, where each token is encouraged to capture an independent factor of variation, paving the way for more robust digital biomarkers.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "1a3447490641ebc4",
+      "title": "Smart Profit-Aware Crop Advisory System: Kisan AI",
+      "url": "https://arxiv.org/abs/2605.00133",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "author": "Debasis Dwibedy, Avyay Nishtala, Pranathi Mukku, D Snehaja",
+      "summary_raw": "arXiv:2605.00133v1 Announce Type: new Abstract: Modern crop advisory systems exhibit a critical limitation termed \\textit{economic blindness}. These systems primarily optimize for biological yield, often overlooking market price, which can lead farmers toward agronomically sound yet financially unviable decisions. In this paper, we develop Kisan AI, a smart profit-aware crop advisory system that resolves the above-mentioned limitation through a research-driven, full-stack application. We train the Random Forest(RF) classifier model on a nine-feature benchmark dataset, the standard seven agronomic attributes augmented with a \\textit{market\\_price} variable, and evaluated against eight baseline models, considering the evaluation matrices, such as, accuracy, precision, recall, F1-score, and Log Loss. The RF model achieves the highest accuracy of 99.3\\% and the lowest Log Loss, confirming that the inclusion of market price as a predictive feature is both valid and impactful. We then implement the RF model within a multilingual progressive Web App alongside a Facebook Prophet six-month price forecasting engine and a MobileNetV2 disease detection module. A nine-language AI chatbot powered by the Anthropic Claude API unifies all modules into a single, mobile-installable platform accessible to farmers across India.",
+      "hero_image": null,
+      "source_id": "arxiv_cs_lg",
+      "source_name": "ArXiv cs.LG",
+      "category": "research"
+    },
+    {
+      "id": "4e8d4a7f1eb8b795",
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "published_at": "2026-05-03T20:16:51+00:00",
+      "author": "Anthony Ha",
+      "summary_raw": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "eb9d9149b7a90157",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "published_at": "2026-05-03T18:00:09+00:00",
+      "author": "Anthony Ha",
+      "summary_raw": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "eed9b64da3e640d3",
+      "title": "Quoting Anthropic",
+      "url": "https://simonwillison.net/2026/May/3/anthropic/",
+      "published_at": "2026-05-03T15:13:23+00:00",
+      "author": "",
+      "summary_raw": "We used an automatic classifier which judged sycophancy by looking at whether Claude showed a willingness to push back, maintain positions when challenged, give praise proportional to the merit of ideas, and speak frankly regardless of what a person wants to hear. Most of the time in these situations, Claude expressed no sycophancy—only 9% of conversations included sycophantic behavior (Figure 2). But two domains were exceptions: we saw sycophantic behavior in 38% of conversations focused on spirituality, and 25% of conversations on relationships. &mdash; Anthropic , How people ask Claude for personal guidance Tags: ai-ethics , anthropic , claude , ai-personality , generative-ai , ai , llms , sycophancy",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "e99cadb7127e821d",
+      "title": "Virál, který okouzlil svět, dostal díky AI stroj času. Bezplatná vychytávka otestuje, jak znáte dějiny",
+      "url": "https://cc.cz/viral-ktery-okouzlil-svet-dostal-diky-ai-stroj-casu-bezplatna-vychytavka-otestuje-jak-znate-dejiny/",
+      "published_at": "2026-05-03T13:20:48+00:00",
+      "author": "Michaela Prešinská",
+      "summary_raw": "GeoGuessr v kulisách historie. Bezplatná aplikace Wenware nabízí pohlcující 360° pohled do minulosti a výzvu v orientaci v čase i prostoru. Článek Virál, který okouzlil svět, dostal díky AI stroj času. Bezplatná vychytávka otestuje, jak znáte dějiny se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/05/wenware-2-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "3d67419fa8b5ebc1",
+      "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+      "published_at": "2026-05-03T13:00:00+00:00",
+      "author": "Allison Johnson",
+      "summary_raw": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all started with a [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_squirrel_influencer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "5d8b0986d6cfa01d",
+      "title": "AI music is flooding streaming services — but who wants it?",
+      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+      "published_at": "2026-05-03T12:00:00+00:00",
+      "author": "Terrence O’Brien",
+      "summary_raw": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of generative AI [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/GettyImages-1468752442.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "6ac469e6c2853234",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "published_at": "2026-05-02T21:54:58+00:00",
+      "author": "Anthony Ha",
+      "summary_raw": "Bad news for Tilly Norwood.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "3e81b9ad1541369f",
+      "title": "Sightings",
+      "url": "https://simonwillison.net/2026/May/2/sightings/",
+      "published_at": "2026-05-02T17:26:40+00:00",
+      "author": "",
+      "summary_raw": "/elsewhere/sightings/ I have a new camera (a Canon R6 Mark II) so I'm taking a lot more photos of birds. I share my best wildlife photos on iNaturalist , and based on yesterday's successful prototype I decided to add those to my blog. I built this feature on my phone using Claude Code for web, as an extension of my beats system for syndicating external content. Here's the PR and prompt. As with my other forms of incoming syndicated content sightings show up on the homepage, the date archive pages, and in site search results. I back-populated over a decade of iNaturalist sightings, which means you that if you search for lemur you'll see my lemur photos from Madagascar in 2019! Tags: blogging , photography , wildlife , ai , inaturalist , generative-ai , llms , ai-assisted-programming , claude-code",
+      "hero_image": "https://static.simonwillison.net/static/2026/beats-sightings.jpeg",
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "5ada5c5aad91c896",
+      "title": "The best AI dictation apps, tested and ranked",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "published_at": "2026-05-02T16:00:00+00:00",
+      "author": "Ivan Mehta",
+      "summary_raw": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "e8b83697c3bc318b",
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "url": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/",
+      "published_at": "2026-05-02T14:23:31+00:00",
+      "author": "Jennifer Ouellette",
+      "summary_raw": "Crushing soda cans for science, why dolphins swim so fast, how urine helps mushrooms communicate, and more",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dolphin1-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "8ad7f91a96031a19",
+      "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
+      "url": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
+      "published_at": "2026-05-02T11:30:26+00:00",
+      "author": "Cyrus Farivar",
+      "summary_raw": "Acoustic fire suppression goes commercial.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1472054212-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "6f90e163d7b0f44b",
+      "title": "Disneyland Now Uses Face Recognition on Visitors",
+      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "published_at": "2026-05-02T10:30:00+00:00",
+      "author": "Lily Hay Newman, Andy Greenberg, Andrew Couts",
+      "summary_raw": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+      "hero_image": "https://media.wired.com/photos/69f53066ed110137695d66cd/master/pass/security_disney_getty.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "eb92ff8c110a2d98",
+      "title": "[AINews] AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
+      "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
+      "published_at": "2026-05-02T07:21:55+00:00",
+      "author": "",
+      "summary_raw": "a quiet day lets us make a call for speakers!",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!admO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6045585a-7095-4a04-bbef-7f29cbc35fe5_1938x1276.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "4e84b277703343eb",
+      "title": "Salesforce launches Agentforce Operations to fix the workflows breaking enterprise AI",
+      "url": "https://venturebeat.com/orchestration/salesforce-launches-agentforce-operations-to-fix-the-workflows-breaking-enterprise-ai",
+      "published_at": "2026-05-01T21:14:29+00:00",
+      "author": "",
+      "summary_raw": "Enterprise AI teams are hitting a wall — not because their models can&#x27;t reason, but because the workflows underneath them were never built for agents. Tasks fail, handoffs break, and the problem compounds as organizations push agents deeper into back-office systems. A new architectural layer is emerging to address it: workflow execution control planes that impose deterministic structure on processes agents are expected to run. One of the companies bringing this to the forefront is Salesforce, with a new workflow platform that turns back-office workflows into a set of tasks for specialized agents to complete. Users can upload their processes or use one of the set Blueprints provided by Salesforce, and Agentforce Operations will break it down for agents. Salesforce senior vice president of Product, Sanjna Parulekar, told VentureBeat in an interview that the problem is that many enterprise workflows are not built for agents. “What we’ve observed with customers is that a lot of times, the brokenness in a process is probably in your product requirements document,” Parulekar said. “So when that’s uploaded into a product, it doesn’t quite work. We can optimize it and cut out some things and replace it with an agent.” Without this control panel layer, enterprises could risk deploying agents that increase cost rather than fix their workflow problems. Making the workflow work for agents, not just humans Enterprises deploying agents are learning a costly lesson: Their workflows were designed around human judgment gaps, not machine execution. Processes that evolved through years of workarounds — loosely defined steps, implicit decisions, coordination that depends on individuals knowing what to do next — break when agents are asked to follow them literally. Even with all of an enterprise’s context at its fingertips, AI systems will have difficulty completing tasks if it is not clear what it’s supposed to do. Parulekar said her team found that focusing on what makes the proc…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3dLXAdbIIpPoxL2H1pLZTE/d655e36d5c316dfa1e9583472909b5e4/crimedy7_illustration_of_ai_orchestration_abstract_--ar_169_-_cb6c24fb-7c3b-414f-a8d4-7733592d8d94_2.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "d5bc19c7f5747fac",
+      "title": "200,000 MCP servers expose a command execution flaw that Anthropic calls a feature",
+      "url": "https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit",
+      "published_at": "2026-05-01T20:35:46+00:00",
+      "author": "louiswcolumbus@gmail.com (Louis Columbus)",
+      "summary_raw": "Anthropic created the Model Context Protocol as the open standard for AI agent-to-tool communication. OpenAI adopted it in March 2025 . Google DeepMind followed. Anthropic donated MCP to the Linux Foundation in December 2025. Downloads crossed 150 million. Then four researchers at OX Security found an architectural problem that affects all of them. MCP&#x27;s STDIO transport, the default for connecting an AI agent to a local tool, executes any operating system command it receives. No sanitization. No execution boundary between configuration and command. A malicious command returns an error after the command has already run. The developer toolchain raises no flag. OX Security researchers Moshe Siman Tov Bustan, Mustafa Naamnih, Nir Zadok and Roni Bar scanned the ecosystem and found 7,000 servers on public IPs with STDIO transport active — and estimate 200,000 total vulnerable instances extrapolated from that ratio. They confirmed arbitrary command execution on six live production platforms with paying customers. The research produced more than 10 CVEs rated high or critical across LiteLLM, LangFlow, Flowise, Windsurf, Langchain-Chatchat, Bisheng, DocsGPT, GPT Researcher, Agent Zero, LettaAI and others. Kevin Curran, IEEE senior member and professor of cybersecurity at Ulster University , independently told Infosecurity Magazine the research exposed &quot;a shocking gap in the security of foundational AI infrastructure.&quot; Anthropic confirmed the behavior is by design and declined to modify the protocol — characterizing STDIO&#x27;s execution model as a secure default and input sanitization as the developer&#x27;s responsibility. That characterization comes from OX; the only word Anthropic explicitly stated on the record is &quot;expected.&quot; Anthropic has not issued a standalone public statement and did not respond to VentureBeat&#x27;s request for comment. OX says expecting 200,000 developers to sanitize inputs correctly is the problem. Anthropic&#x27;s strong…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5zcdzz8S6R9xMQCRiaArOG/1290a9dbaee30dd37a47fefa5b656922/ANTHROPIC.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "0b1ddc25d0977a8c",
+      "title": "The AI scaffolding layer is collapsing. LlamaIndex's CEO explains what survives.",
+      "url": "https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives",
+      "published_at": "2026-05-01T18:01:52+00:00",
+      "author": "taryn.plumb@venturebeat.com (Taryn Plumb)",
+      "summary_raw": "The scaffolding layer that developers once needed to ship LLM applications — indexing layers, query engines, retrieval pipelines, carefully orchestrated agent loops — is collapsing. And according to Jerry Liu, co-founder and CEO of LlamaIndex , that&#x27;s not a problem. It&#x27;s the point. “As a result, there&#x27;s less of a need for frameworks to actually help users compose these deterministic workflows in a light and shallow manner,” Jerry Liu, co-founder and CEO of LlamaIndex, explains in a new VentureBeat Beyond the Pilot podcast . Context is becoming the moat Liu’s LlamaIndex is one of the foremost retrieval-augmented generation (RAG) frameworks connecting private, custom, and domain-specific data to LLMs. But even he acknowledges that these types of frameworks are becoming less relevant. With every new release, models demonstrate incremental capabilities to reason over “massive amounts” of unstructured data, and they’re getting better at it than humans, he notes. They can be trusted to reason extensively, self-correct, and perform multi-step planning; Model Context Protocol (MCP) and Claude Agent Skills plug-ins allow models to discover and use tools without requiring integrations for every one independently. Agent patterns have consolidated toward what Liu calls a &quot;managed agent diagram&quot; — a harness layer combined with tools, MCP connectors, and skills plug-ins, rather than custom-built orchestration for every workflow. Further, coding agents excel at writing code, meaning devs don’t need to rely on extensive libraries. In fact, about 95% of LlamaIndex code is generated by AI. “Engineers are not actually writing real code,” Liu said. “They&#x27;re all typing in natural language.” This means the layers between programmers and non-programmers is collapsing, because “the new programming language is essentially English.” Instead of manual coding or struggling to understand API and document integration, devs can just point Claude Code at it. “This typ…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3PNVXTyfSXJhvGjd00Ia1C/d051128f97407ff20b6b4db84c907811/Upscaled_already.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "cf1a5f579f9f2d80",
+      "title": "xAI launches Grok 4.3 at an aggressively low price and a new, fast, powerful voice cloning suite",
+      "url": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite",
+      "published_at": "2026-05-01T17:49:00+00:00",
+      "author": "carl.franzen@venturebeat.com (Carl Franzen)",
+      "summary_raw": "While Elon Musk faces off against his former colleague and OpenAI co-founder Sam Altman in court , Musk&#x27;s rival firm xAI, founded to take on OpenAI, isn&#x27;t slowing down on launching competitive new products and services. Last night, xAI shipped a new, proprietary base large language model (LLM), Grok 4.3 , and a new voice cloning suite on the web. The new products arrive after months of tumult from xAI that saw all of Musk&#x27;s 10 original co-founders of the lab and dozens more researchers exit the firm and Grok was eclipsed on performance by many new competing LLMs from the likes of OpenAI, Anthropic, Google, and Chinese firms DeepSeek, Moonshot (Kimi), Alibaba (Qwen), z.ai, and others. While Grok 4.3 does mark a significant leap in performance on third-party benchmarks over its direct predecessor Grok 4.2, according to the independent AI model evaluation firm Artificial Analysis , it still remains below the state-of-the-art set by OpenAI and Anthropic&#x27;s latest models. But the marquee feature of the Grok brand has — other than Musk&#x27;s stated opposition to &quot; wokeness &quot; and its more freewheeling personality and image generation policy — increasingly been its low price point when accessed by developers and users via the xAI application programming interface (API), a trend only furthered by Grok 4.3, which costs $1.25 per million input tokens and $2.50 per million output tokens (up to 200,000 input tokens, at which point costs double, a common pricing strategy of leading AI labs) compared to its direct predecessor Grok 4.2&#x27;s initial API pricing of $2/$6 per million input/output tokens. According to xAI&#x27;s release notes , Grok 4.3 began beta testing in April for subscribers to xAI&#x27;s SuperGrok ($30 monthly) plan, and those of its sibling social network, X, through its Premium+ plan ($40 monthly with 50% for first two months). Now it&#x27;s available to all through the xAI API and through partner OpenRouter . Reasoning baked-in …",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/6c9N7ubweMcf8hAUjcDZIH/fb25ad47038633db57b73f2f45bc3225/FkIIbTjMYUsldxbqMHtky_g5BcjizZ.jpg?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "13d8e08f8a5f6bd7",
+      "title": "[AINews] Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work",
+      "url": "https://www.latent.space/p/ainews-agents-for-everything-else",
+      "published_at": "2026-05-01T04:53:41+00:00",
+      "author": "",
+      "summary_raw": "a quiet day lets us reflect on coding agents \"breaking containment\"",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/zepu8Kk6FBQ",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "8d53f89d979dde46",
+      "title": "Alibaba's Metis agent cuts redundant AI tool calls from 98% to 2% — and gets more accurate doing it",
+      "url": "https://venturebeat.com/orchestration/alibabas-metis-agent-cuts-redundant-ai-tool-calls-from-98-to-2-and-gets-more-accurate-doing-it",
+      "published_at": "2026-04-30T20:51:26+00:00",
+      "author": "bendee983@gmail.com (Ben Dickson)",
+      "summary_raw": "One of the key challenges of building effective AI agents is teaching them to choose between using external tools or relying on their internal knowledge. But large language models are often trained to blindly invoke tools, which causes latency bottlenecks, unnecessary API costs, and degraded reasoning caused by environmental noise. To overcome this challenge, researchers at Alibaba introduced Hierarchical Decoupled Policy Optimization (HDPO), a reinforcement learning framework that trains agents to balance both execution efficiency and task accuracy. Metis, a multimodal model they trained using this framework, reduces redundant tool invocations from 98% to just 2% while establishing new state-of-the-art reasoning accuracy across key industry benchmarks. This framework helps create AI agents that are not trigger-happy and know when to abstain from using tools, enabling the development of responsive and cost-effective agentic systems. The metacognitive deficit Current agentic models face what the researchers call a “profound metacognitive deficit.” The models have a hard time deciding when to use their internal parametric knowledge versus when to query an external utility. As a result, they blindly invoke tools and APIs, like web search or code execution, even when the user&#x27;s prompt already contains all the necessary information to resolve the task. This trigger-happy tool-calling behavior creates severe operational hurdles for real-world applications. Because the models are trained to focus almost entirely on task completion, they are indifferent to latency. These agents frequently hit exorbitant tool call rates. Every unnecessary external API call introduces a serial processing bottleneck, turning a technically capable AI into a sluggish system that frustrates users and burns through tool budgets. At the same time, burning computational resources on excessive tool use does not translate to better reasoning. Redundant tool interactions inject noise into the mode…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5adrVJG12DsZYPv3bAT3Kk/786e22dcb26f295b11a3de9d91a97ac3/LLM_tool-use_abstention.jpg?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "47a3ba6ca8983540",
+      "title": "One tool call to rule them all? New open source Python tool Runpod Flash eliminates containers for faster AI dev",
+      "url": "https://venturebeat.com/infrastructure/one-tool-call-to-rule-them-all-new-open-source-python-tool-runpod-flash-eliminates-containers-for-faster-ai-dev",
+      "published_at": "2026-04-30T18:31:07+00:00",
+      "author": "carl.franzen@venturebeat.com (Carl Franzen)",
+      "summary_raw": "Runpod , the high-performance cloud computing and GPU platform designed specifically for AI development, today launched a new open source, MIT licensed, enterprise-friendly Python programming tool called Runpod Flash — and it is poised to make creation, iteration and deployment of AI systems inside and outside of foundation model labs much faster. The tool aims to eliminate some of the biggest barriers and hurdles to training and using AI models today, namely, doing away with Docker packages and containerization when developing for serverless GPU infrastructure, which the company believes will speed up development and deployment of new AI models, applications and agentic workflows. Additionally, the platform is built to serve as a critical substrate for AI agents and coding assistants—such as Claude Code, Cursor, and Cline—enabling them to orchestrate and deploy remote hardware autonomously with minimal friction. Developers can utilize Flash to accomplish a diverse set of high-performance computing tasks, including cutting-edge deep learning research, model training, and fine-tuning. &quot;We make it as easy as possible to be able to bring together the cosmos of different AI tooling that&#x27;s available in a function call,&quot; said Runpod chief technology officer (CTO) Brennen Smith, in a video call interview with VentureBeat last week. The tool allows for the creation of sophisticated &quot;polyglot&quot; pipelines, where users can route data preprocessing to cost-effective CPU workers before automatically handing off the workload to high-end GPUs for inference. Beyond research and development, Flash supports production-grade requirements through features such as low-latency load-balanced HTTP APIs, queue-based batch processing, and persistent multi-datacenter storage. Eliminating the &#x27;packaging tax&#x27; of AI development The core value proposition of Flash GA is the removal of Docker from the serverless development cycle. In traditional serverless GPU env…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/MHYoJfMiFcReiUHztmcXO/cd5bfd956110f341d2e205f020a78097/ChatGPT_Image_Apr_30__2026__02_28_07_PM.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "cdec94dfd0eac9a9",
+      "title": "Building gets easier",
+      "url": "https://www.bensbites.com/p/building-gets-easier",
+      "published_at": "2026-04-30T13:03:20+00:00",
+      "author": "",
+      "summary_raw": "My tool stack is changing",
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/cf73c49d-ab73-41f6-901d-2804763556ee_1672x941.png",
+      "source_id": "bens_bites",
+      "source_name": "Ben's Bites",
+      "category": "newsletter"
+    },
+    {
+      "id": "af48fcf77ad17812",
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "published_at": "2026-04-30T12:14:15+00:00",
+      "author": "",
+      "summary_raw": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+      "hero_image": "https://lh3.googleusercontent.com/z2sN_eil5tgap-Ji1W_4l1xnbfLRghzxdXzyCMdnKFVW1xTfgm0o8bpg9pNwE4RcHTR2QGEGhGx7LFn7Q6bg-LEPBW20d4Djo3Erii8PBYYrWz36=w528-h297-n-nu-rw-lo",
+      "source_id": "deepmind_blog",
+      "source_name": "Google DeepMind Blog",
+      "category": "labs"
+    },
+    {
+      "id": "0aeffc2844791c82",
+      "title": "LWiAI Podcast #242 - ChatGPT Images 2.0, Qwen 3.6 Max, Kimi-K2.6",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-242-chatgpt-images",
+      "published_at": "2026-04-30T07:14:45+00:00",
+      "author": "Last Week in AI",
+      "summary_raw": "ChatGPT&#8217;s new Images 2.0 model is surprisingly good at generating text , Alibaba Drops Qwen 3.6 Max Preview , SpaceX is working with Cursor",
+      "hero_image": null,
+      "source_id": "last_week_ai",
+      "source_name": "Last Week in AI",
+      "category": "newsletter"
+    },
+    {
+      "id": "9a2d4e96030be8db",
+      "title": "[AINews] The Inference Inflection",
+      "url": "https://www.latent.space/p/ainews-the-inference-inflection",
+      "published_at": "2026-04-30T01:42:51+00:00",
+      "author": "",
+      "summary_raw": "a quiet day lets us reflect on the growing implications of the inference age",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!S0YQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabf7db12-c072-4887-b686-4de7a38fa84c_680x380.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "54e8fd1eb460cbc6",
+      "title": "Introducing Advanced Account Security",
+      "url": "https://openai.com/index/advanced-account-security",
+      "published_at": "2026-04-30T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "fa0847d62019f282",
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "published_at": "2026-04-29T20:00:00+00:00",
+      "author": "",
+      "summary_raw": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "e7ff4c251cc020da",
+      "title": "Reiner Pope – The math behind how LLMs are trained and served",
+      "url": "https://www.dwarkesh.com/p/reiner-pope",
+      "published_at": "2026-04-29T17:07:03+00:00",
+      "author": "Dwarkesh Patel",
+      "summary_raw": "It's shocking how much you can deduce about what the labs are doing from a handful of equations and a blackboard",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!rYuq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa50660bc-66f9-4b8f-a9ac-30976e26f8e8_2048x1754.png",
+      "source_id": "dwarkesh",
+      "source_name": "Dwarkesh Patel",
+      "category": "commentary"
+    },
+    {
+      "id": "8b27a8718e6a9f9f",
+      "title": "AI evals are becoming the new compute bottleneck",
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "published_at": "2026-04-29T16:45:09+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "9820c6e3eb7a0ea7",
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "published_at": "2026-04-29T15:01:48+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "723e62c90e493bd1",
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "published_at": "2026-04-29T15:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "7a63a1e4fe9600e0",
+      "title": "Cybersecurity in the Intelligence Age",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "published_at": "2026-04-29T04:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "96cfbb88c8b1b949",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today",
+      "published_at": "2026-04-29T01:46:59+00:00",
+      "author": "",
+      "summary_raw": "a quiet day.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "69a6f6aa18f50c69",
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "published_at": "2026-04-29T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "6e060d6b8f208e6b",
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "published_at": "2026-04-28T15:58:57+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "88fc3be53ff43d2e",
+      "title": "Builders",
+      "url": "https://www.bensbites.com/p/builders",
+      "published_at": "2026-04-28T13:54:22+00:00",
+      "author": "",
+      "summary_raw": "GPT-5.5 is a good model",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!XDaP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHG7HHJqbsAA3iao.jpg",
+      "source_id": "bens_bites",
+      "source_name": "Ben's Bites",
+      "category": "newsletter"
+    },
+    {
+      "id": "3c692ca3e5877743",
+      "title": "[AINews] ImageGen is on the Path to AGI",
+      "url": "https://www.latent.space/p/ainews-imagegen-is-on-the-path-to",
+      "published_at": "2026-04-28T05:38:19+00:00",
+      "author": "",
+      "summary_raw": "reflecting on the continued GPT-Image-2 explosion",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!83OB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9f9f0ee-3f92-4689-9d39-fd6138ac5986_1024x1248.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "8700812b0713167c",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "published_at": "2026-04-28T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "6e2c970682db4059",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "published_at": "2026-04-28T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "7ef23fea11a78ffc",
+      "title": "Physical AI that Moves the World — Qasar Younis & Peter Ludwig, Applied Intuition",
+      "url": "https://www.latent.space/p/appliedintuition",
+      "published_at": "2026-04-27T23:02:37+00:00",
+      "author": "",
+      "summary_raw": "Applied Intuition puts the AI in mining rigs, drones, trucks, warships and physical vehicles in the most adversarial environments imaginable. We dive in with their CEO and CTO as they emerge.",
+      "hero_image": null,
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "488332714525b4e8",
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "published_at": "2026-04-27T14:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "d9e5ac599b2b3602",
+      "title": "What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism",
+      "url": "https://www.dwarkesh.com/p/what-ive-been-thinking-april-27",
+      "published_at": "2026-04-27T13:51:32+00:00",
+      "author": "Dwarkesh Patel",
+      "summary_raw": "Hodge podge of things I was thinking about this weekend.",
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/7b074c57-7c3d-48b6-a304-2cea506b5165_800x450.avif",
+      "source_id": "dwarkesh",
+      "source_name": "Dwarkesh Patel",
+      "category": "commentary"
+    },
+    {
+      "id": "f5d78ed0d292a58f",
+      "title": "Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "5b90b5d1da7ba297",
+      "title": "Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "0f853130af528e0c",
+      "title": "Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "cee76078bfacf105",
+      "title": "Apr 28, 2026 Announcements Claude for Creative Work",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "14ebb455a5f15f43",
+      "title": "Apr 27, 2026 Announcements Anthropic names Theo Hourmouzis General Manager of Australia &amp; New Zealand and officially opens Sydney office",
+      "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "1bd456f15f8bee32",
+      "title": "Apr 24, 2026 Announcements An update on our election safeguards",
+      "url": "https://www.anthropic.com/news/election-safeguards-update",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "eb9693a098a6c4c9",
+      "title": "Apr 24, 2026 Announcements Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+      "url": "https://www.anthropic.com/news/anthropic-nec",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "d5a4e5c3f91bb8c7",
+      "title": "Apr 20, 2026 Announcements Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+      "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "aa98e1447edce185",
+      "title": "Apr 14, 2026 Announcements Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+      "url": "https://www.anthropic.com/news/narasimhan-board",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "f94c5a243d141922",
+      "title": "Apr 6, 2026 Announcements Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "63b11779b8efb12b",
+      "title": "Mar 31, 2026 Announcements Australian government and Anthropic sign MOU for AI safety and research",
+      "url": "https://www.anthropic.com/news/australia-MOU",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "781e6aa4780c0046",
+      "title": "Responsible Scaling Policy",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    }
+  ]
+}
