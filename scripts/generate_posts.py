@@ -703,7 +703,9 @@ class SlideSize:
 
 
 IG_SIZE = SlideSize(
-    width=1080, height=1080, margin=72,
+    # 4:5 portrait (1080x1350) — největší povolený IG feed formát.
+    # Zabírá ve feedu výrazně víc místa než 1:1 → vyšší dwell time / engagement.
+    width=1080, height=1350, margin=72,
     logo_h=72,
     title_start=54,  # velikost titulku
     title_max=120,
@@ -762,15 +764,22 @@ def compose_cover_slide(
     draw = ImageDraw.Draw(bg)
     margin = size.margin
 
+    # IG profile grid od 2024 ořezává čtvercový post na portrait (~3:4) crop,
+    # takže 12-13 % šířky na každé straně se v náhledu nezobrazí. Pro cover
+    # slide proto držíme veškerý obsah v užší bezpečné zóně. Pro landscape
+    # (LinkedIn 1920x1080) tohle neplatí — ten má vlastní použití bez gridu.
+    is_landscape = (W / H) > 1.3
+    safe_margin = margin if is_landscape else max(margin, int(W * 0.13))
+
     # malé logo vpravo nahoře (nad blur, ostré) — brand mark
     paste_logo(bg, LOGO_ZNAK, target_height=size.logo_h,
-               anchor="top-right", margin=margin)
+               anchor="top-right", margin=safe_margin)
 
     # UPPERCASE eyebrow vlevo nahoře
     eyebrow = "AI NEWS  ·  DENNÍ DIGEST"
     eb_font = pil_font(fonts, "body_bold", 20 if W <= 1200 else 24)
     eb_text = add_letter_spacing(eyebrow, 0.24)
-    draw.text((margin, margin + 10), eb_text, font=eb_font, fill=AMBER)
+    draw.text((safe_margin, margin + 10), eb_text, font=eb_font, fill=AMBER)
 
     # --- HERO TAGLINE (uprostřed, velký, přes rozmazanou fotku) ---
     # Brand pravidlo: zakazana em-dash "—" i en-dash "–" v textu.
@@ -779,7 +788,8 @@ def compose_cover_slide(
         "než kdy dřív.",
         "Swajpni pro aktuální novinky.",
     ]
-    tag_size = 100 if W > 1200 else 78
+    # IG cover má užší safe zónu, proto i menší tagline, aby se vešel.
+    tag_size = 100 if W > 1200 else 64
     tag_font = ImageFont.truetype(str(fonts["display_italic"]), size=tag_size)
     ta_asc, ta_desc = tag_font.getmetrics()
     tag_line_h = int((ta_asc + ta_desc) * 1.05)
@@ -814,19 +824,19 @@ def compose_cover_slide(
 
     # --- SPODNÍ BLOK: titul AI News + datum + teaser '7 věcí...' ---
     title = "AI News"
-    title_size = 160 if W > 1200 else 120
+    title_size = 160 if W > 1200 else 104
     title_font = ImageFont.truetype(str(fonts["display"]), size=title_size)
     t_asc, t_desc = title_font.getmetrics()
     title_line_h = t_asc + t_desc
 
     sub_text = cz_date(date_str)
-    sub_size = 30 if W > 1200 else 26
+    sub_size = 30 if W > 1200 else 24
     sub_font = pil_font(fonts, "body", sub_size)
     s_asc, s_desc = sub_font.getmetrics()
     sub_line_h = s_asc + s_desc
 
     teaser_text = "7 věcí, co se za posledních pár dní stalo v AI světě"
-    teas_size = 36 if W > 1200 else 30
+    teas_size = 36 if W > 1200 else 24
     teaser_font = ImageFont.truetype(str(fonts["display_italic"]), size=teas_size)
     te_asc, te_desc = teaser_font.getmetrics()
     teas_line_h = te_asc + te_desc
@@ -839,14 +849,14 @@ def compose_cover_slide(
     )
     y = H - margin - block_h
 
-    draw.line([(margin, y - 24), (margin + 120, y - 24)],
+    draw.line([(safe_margin, y - 24), (safe_margin + 120, y - 24)],
               fill=COPPER, width=3)
 
-    draw.text((margin, y), title, font=title_font, fill=IVORY)
+    draw.text((safe_margin, y), title, font=title_font, fill=IVORY)
     y += title_line_h + gap_title_sub
-    draw.text((margin, y), sub_text, font=sub_font, fill=INK_GHOST)
+    draw.text((safe_margin, y), sub_text, font=sub_font, fill=INK_GHOST)
     y += sub_line_h + gap_sub_teaser
-    draw.text((margin, y), teaser_text, font=teaser_font, fill=AMBER)
+    draw.text((safe_margin, y), teaser_text, font=teaser_font, fill=AMBER)
 
     # brand frame
     draw_brand_frame(bg)
@@ -861,10 +871,17 @@ def compose_news_slide(
     *,
     size: SlideSize,
     number: int,
+    is_first: bool = False,
+    date_str: str | None = None,
 ) -> Image.Image:
     """News slide — split layout:
         top ~55 % = clean hero image (malý darken u horního rohu pro eyebrow)
         bottom ~45 % = rozmazaný text panel (kopie stejného bg + tmavý overlay)
+
+    is_first=True režim — pro úvodní slide carouselu (top story dne):
+        - Žádné "NN / 07" číslo v eyebrow (působí jako otevírák, ne pokračování)
+        - Větší titulek (top story = vizuální váha)
+        - Footer: "Swajpni pro další ↓" + české datum (CTA pro carousel)
     """
     W, H = size.width, size.height
     # landscape = LinkedIn 16:9; square-ish = IG 1:1
@@ -912,17 +929,32 @@ def compose_news_slide(
                anchor="top-right", margin=margin)
 
     # ---- eyebrow (číslo + category) v horní části ----
-    num_text = f"{number:02d} / 07"
-    num_font = pil_font(fonts, "body", 24 if W > 1200 else 20)
-    draw.text((margin, margin + 12), add_letter_spacing(num_text, 0.20),
-              font=num_font, fill=INK_GHOST)
+    if is_first:
+        # úvodní slide: bez "01/07", místo toho "AI NEWS · TOP DNES" — působí
+        # jako otevírák carouselu (ne jako pokračování)
+        eyebrow = "AI NEWS  ·  TOP DNES"
+        eb_font = pil_font(fonts, "body_bold", 22 if W > 1200 else 20)
+        draw.text((margin, margin + 12),
+                  add_letter_spacing(eyebrow, 0.24),
+                  font=eb_font, fill=AMBER)
+        cat = (article.get("category") or "").upper()
+        if cat:
+            cat_font = pil_font(fonts, "body", 18 if W > 1200 else 16)
+            draw.text((margin, margin + 48),
+                      add_letter_spacing(cat, 0.28),
+                      font=cat_font, fill=INK_GHOST)
+    else:
+        num_text = f"{number:02d} / 07"
+        num_font = pil_font(fonts, "body", 24 if W > 1200 else 20)
+        draw.text((margin, margin + 12), add_letter_spacing(num_text, 0.20),
+                  font=num_font, fill=INK_GHOST)
 
-    cat = (article.get("category") or "").upper()
-    if cat:
-        cat_font = pil_font(fonts, "body_bold", 20 if W > 1200 else 18)
-        draw.text((margin, margin + 44),
-                  add_letter_spacing(cat, 0.28),
-                  font=cat_font, fill=AMBER)
+        cat = (article.get("category") or "").upper()
+        if cat:
+            cat_font = pil_font(fonts, "body_bold", 20 if W > 1200 else 18)
+            draw.text((margin, margin + 44),
+                      add_letter_spacing(cat, 0.28),
+                      font=cat_font, fill=AMBER)
 
     # ---- tenký copper divider mezi obrázkem a text panelem ----
     # U landscape (LinkedIn) je přechod řešen gradientem → divider by tam
@@ -940,16 +972,23 @@ def compose_news_slide(
         article.get("title_cs") or article.get("title_orig") or ""
     )
     title_max_width = W - 2 * margin
-    # titulu dáme zhruba 40 % výšky panelu (zbytek na bullets + mezery)
-    title_max_height = int((panel_bottom - panel_top) * 0.45)
-    # startovní velikost lehce menší než origo (panel je menší než celý slide)
-    start_size = 72 if W > 1200 else 56
+    # titulu dáme zhruba 40 % výšky panelu (zbytek na bullets + mezery).
+    # Pro top story (is_first) dáme víc prostoru i větší startovní font —
+    # má působit jako "headline magazínového cover".
+    title_max_height = int((panel_bottom - panel_top)
+                           * (0.55 if is_first else 0.45))
+    if is_first:
+        start_size = 84 if W > 1200 else 68
+        min_size = 44
+    else:
+        start_size = 72 if W > 1200 else 56
+        min_size = 36
     title_font, title_lines, title_lh = fit_text_by_font_size(
         draw, title, fonts["display"],
         max_width=title_max_width,
         max_height=title_max_height,
         start_size=start_size,
-        min_size=36,
+        min_size=min_size,
         line_height=1.08,
     )
 
@@ -983,35 +1022,55 @@ def compose_news_slide(
         if y > panel_bottom - 28:
             break
 
-    # ---- patička (zdroj vlevo + logo-napis uprostřed) ----
-    source = strip_brand_dashes(article.get("source_name") or "")
-    foot_font_size = 16 if W > 1200 else 14
-    foot_font = pil_font(fonts, "body", foot_font_size)
-    foot_y = H - margin - 22
-    if source:
-        draw.text((margin, foot_y),
-                  f"Zdroj: {source}", font=foot_font, fill=INK_GHOST)
+    # ---- patička ----
+    if is_first:
+        # úvodní slide: vlevo CTA "Swajpni pro další ↓", vpravo české datum.
+        # Záměrně bez zdroje a bez loga uprostřed — patička má fungovat jako
+        # carousel hint (kam dál) + časový marker. Logo je už vpravo nahoře.
+        cta_font = pil_font(fonts, "body_bold",
+                            20 if W > 1200 else 18)
+        cta_text_l = "SWAJPNI PRO DALŠÍ →"
+        date_font = pil_font(fonts, "body", 18 if W > 1200 else 16)
+        date_text = cz_date(date_str) if date_str else ""
+        foot_y = H - margin - 22
 
-    # logo-napis "ai na miru" uprostřed dole, mírně větší než zdroj
-    if LOGO_NAPIS.exists():
-        napis = Image.open(LOGO_NAPIS).convert("RGBA")
-        # Soubor má obrovský transparent padding + ghost alpha v rozích,
-        # kvůli kterému PIL getbbox() vrací plné plátno. Uděláme tight bbox
-        # přes threshold alpha > 30.
-        alpha = napis.split()[-1]
-        mask = alpha.point(lambda v: 255 if v > 30 else 0)
-        tight = mask.getbbox()
-        if tight:
-            napis = napis.crop(tight)
-        # 2.8× velikost zdrojového textu — viditelné, ale stále diskrétní
-        target_h = int(foot_font_size * 2.8)
-        ratio = napis.width / napis.height
-        target_w = int(target_h * ratio)
-        napis = napis.resize((target_w, target_h), Image.Resampling.LANCZOS)
-        nx = (W - target_w) // 2
-        # vertikálně mírně pod linkou zdroje (user feedback: níže)
-        ny = foot_y + (foot_font_size - target_h) // 2 + 14
-        bg.paste(napis, (nx, ny), napis)
+        draw.text((margin, foot_y),
+                  add_letter_spacing(cta_text_l, 0.20),
+                  font=cta_font, fill=AMBER)
+
+        if date_text:
+            dw = draw.textlength(date_text, font=date_font)
+            draw.text((W - margin - dw, foot_y + 2),
+                      date_text, font=date_font, fill=INK_GHOST)
+    else:
+        source = strip_brand_dashes(article.get("source_name") or "")
+        foot_font_size = 16 if W > 1200 else 14
+        foot_font = pil_font(fonts, "body", foot_font_size)
+        foot_y = H - margin - 22
+        if source:
+            draw.text((margin, foot_y),
+                      f"Zdroj: {source}", font=foot_font, fill=INK_GHOST)
+
+        # logo-napis "ai na miru" uprostřed dole, mírně větší než zdroj
+        if LOGO_NAPIS.exists():
+            napis = Image.open(LOGO_NAPIS).convert("RGBA")
+            # Soubor má obrovský transparent padding + ghost alpha v rozích,
+            # kvůli kterému PIL getbbox() vrací plné plátno. Uděláme tight bbox
+            # přes threshold alpha > 30.
+            alpha = napis.split()[-1]
+            mask = alpha.point(lambda v: 255 if v > 30 else 0)
+            tight = mask.getbbox()
+            if tight:
+                napis = napis.crop(tight)
+            # 2.8× velikost zdrojového textu — viditelné, ale stále diskrétní
+            target_h = int(foot_font_size * 2.8)
+            ratio = napis.width / napis.height
+            target_w = int(target_h * ratio)
+            napis = napis.resize((target_w, target_h), Image.Resampling.LANCZOS)
+            nx = (W - target_w) // 2
+            # vertikálně mírně pod linkou zdroje (user feedback: níže)
+            ny = foot_y + (foot_font_size - target_h) // 2 + 14
+            bg.paste(napis, (nx, ny), napis)
 
     # ---- brand frame (jemná copper linka kolem celého slidu) ----
     draw_brand_frame(bg)
@@ -1051,10 +1110,19 @@ def compose_outro_slide(
 
     draw = ImageDraw.Draw(bg)
 
-    # firma jméno pod logem (napis variant)
+    # firma jméno pod logem (napis variant) — výrazně zvětšeno
     if LOGO_NAPIS.exists():
         napis = Image.open(LOGO_NAPIS).convert("RGBA")
-        target_h = 80 if W > 1200 else 60
+        # Tight bbox přes alpha threshold (soubor má průhledný padding,
+        # který by jinak rozhodil centrování i target_h).
+        alpha = napis.split()[-1]
+        mask = alpha.point(lambda v: 255 if v > 30 else 0)
+        tight = mask.getbbox()
+        if tight:
+            napis = napis.crop(tight)
+        # 160 / 120 — předtím 80 / 60, tedy 2x větší. Je to brand statement
+        # outro slidu, má dominovat nad CTA.
+        target_h = 160 if W > 1200 else 120
         ratio = napis.width / napis.height
         napis = napis.resize((int(target_h * ratio), target_h),
                              Image.Resampling.LANCZOS)
@@ -1063,42 +1131,45 @@ def compose_outro_slide(
         bg.paste(napis, (nx, ny), napis)
         y_after_brand = ny + napis.height
     else:
-        name_font = pil_font(fonts, "display", 64 if W > 1200 else 48)
+        name_font = pil_font(fonts, "display", 96 if W > 1200 else 72)
         name = "AI NA MÍRU"
         nw = draw.textlength(name, font=name_font)
         nx = (W - nw) // 2
         ny = int(H * 0.22) + (360 if W > 1200 else 280) + 32
         draw.text((nx, ny), name, font=name_font, fill=INK)
-        y_after_brand = ny + 64
+        y_after_brand = ny + 96
 
-    # CTA blok
+    # CTA blok — nová tagline (převzata z předchozího cover slidu, upravená).
+    # 3 řádky, italic display, copper akcent na třetím řádku jako CTA hook.
+    cta_lines = [
+        ("AI se posouvá rychleji", INK),
+        ("než kdy dřív.", INK),
+        ("Sleduj nás pro aktuální novinky.", COPPER),
+    ]
+    cta_size = 48 if W > 1200 else 38
     cta_h_font = ImageFont.truetype(str(fonts["display_italic"]),
-                                    size=56 if W > 1200 else 44)
-    cta_text = "Denní digest v plné podobě"
-    cta_w = draw.textlength(cta_text, font=cta_h_font)
-    cta_y = y_after_brand + 64
-    draw.text(((W - cta_w) // 2, cta_y), cta_text,
-              font=cta_h_font, fill=COPPER)
+                                    size=cta_size)
+    c_asc, c_desc = cta_h_font.getmetrics()
+    cta_lh = int((c_asc + c_desc) * 1.05)
 
-    url_font = pil_font(fonts, "body", 32 if W > 1200 else 26)
+    cta_y = y_after_brand + 56
+    for ln, color in cta_lines:
+        cw = draw.textlength(ln, font=cta_h_font)
+        draw.text(((W - cw) // 2, cta_y), ln, font=cta_h_font, fill=color)
+        cta_y += cta_lh
+
+    url_font = pil_font(fonts, "body", 28 if W > 1200 else 22)
     url_text = "ainamiru.cz"
     url_w = draw.textlength(add_letter_spacing(url_text, 0.12), font=url_font)
-    draw.text(((W - url_w) // 2, cta_y + 80),
+    draw.text(((W - url_w) // 2, cta_y + 24),
               add_letter_spacing(url_text, 0.12),
               font=url_font, fill=INK_SOFT)
 
-    # copper rule pod CTA
+    # copper rule pod URL
     rule_w = 80
-    draw.line([((W - rule_w) // 2, cta_y + 140),
-               ((W + rule_w) // 2, cta_y + 140)],
+    draw.line([((W - rule_w) // 2, cta_y + 80),
+               ((W + rule_w) // 2, cta_y + 80)],
               fill=COPPER, width=3)
-
-    # footer info
-    foot_font = pil_font(fonts, "body", 18 if W > 1200 else 16)
-    foot_text = "AI News, kurátorovaný denní výběr novinek ze světa AI"
-    fw = draw.textlength(foot_text, font=foot_font)
-    draw.text(((W - fw) // 2, H - size.margin - 32),
-              foot_text, font=foot_font, fill=INK_DIM)
 
     # brand frame
     draw_brand_frame(bg)
@@ -1201,10 +1272,26 @@ def process_articles_for_day(
             aspect_ratio=SHARED_RATIO,
         ))
 
-    shared_cover_bg = get_or_generate_bg(
-        cover_prompt(), api_key=api_key, use_gemini=use_gemini,
-        aspect_ratio=SHARED_RATIO,
-    )
+    # --- Save clean BG copies pro article hero (sdílí web ainamiru komunita) ---
+    bg_clean_dir = ROOT / "instagram" / date_str / "bg-clean"
+    bg_clean_dir.mkdir(parents=True, exist_ok=True)
+    for i, bg in enumerate(shared_bgs, start=1):
+        out_path = bg_clean_dir / f"article-bg-{i:02d}.webp"
+        try:
+            bg.save(out_path, format="WEBP", quality=85, method=6)
+            print(f"[bg-clean] {out_path.relative_to(ROOT)}")
+        except Exception as e:
+            print(f"[bg-clean WARN] {e}", file=sys.stderr)
+
+    # Cover bg: generujeme jen pokud LinkedIn je zapnutý — IG carousel už
+    # samostatný cover slide nemá (slide_01 = top news), takže by to byla
+    # zbytečná Gemini hovor.
+    shared_cover_bg: Image.Image | None = None
+    if only in ("linkedin", "both") and os.environ.get("AINEWS_LINKEDIN_ENABLED"):
+        shared_cover_bg = get_or_generate_bg(
+            cover_prompt(), api_key=api_key, use_gemini=use_gemini,
+            aspect_ratio=SHARED_RATIO,
+        )
 
     IG_DIR.mkdir(parents=True, exist_ok=True)
     LI_DIR.mkdir(parents=True, exist_ok=True)
@@ -1215,15 +1302,20 @@ def process_articles_for_day(
 
     def do_ig():
         slides: list[Image.Image] = []
-        # 01 cover — stejný bg jako pro LinkedIn, center-crop na 1:1
-        slides.append(compose_cover_slide(
-            cover_article, shared_cover_bg, fonts,
-            size=IG_SIZE, date_str=date_str))
-        # 02-08 news
+        # IG layout (8 slidů, 4:5 = 1080×1350):
+        #   01      = top story (compose_news_slide is_first=True) — top7[0]
+        #             je už nejvýše-rankovaný článek dne (rank=1 z digestu),
+        #             takže "objektivně největší novinka" je vyřešená už
+        #             výběrem v generate_articles.py.
+        #   02..07  = zbylých 6 článků (top7[1..6])
+        #   08      = outro (CTA + nová tagline)
         for i, art in enumerate(top7, start=1):
             slides.append(compose_news_slide(
-                art, shared_bgs[i - 1], fonts, size=IG_SIZE, number=i))
-        # 09 outro
+                art, shared_bgs[i - 1], fonts,
+                size=IG_SIZE, number=i,
+                is_first=(i == 1),
+                date_str=(date_str if i == 1 else None),
+            ))
         slides.append(compose_outro_slide(fonts, size=IG_SIZE))
 
         for i, s in enumerate(slides, 1):
@@ -1265,7 +1357,9 @@ def process_articles_for_day(
 
     if only in ("ig", "both"):
         do_ig()
-    if only in ("linkedin", "both"):
+    if only == "linkedin" or (only == "both" and os.environ.get("AINEWS_LINKEDIN_ENABLED")):
+        # LinkedIn generování je default vypnuté — Kevin už LI nepoužívá.
+        # Pokud bys ho chtěl znovu, nastav AINEWS_LINKEDIN_ENABLED=1 nebo --only linkedin.
         do_linkedin()
 
 
@@ -1278,8 +1372,8 @@ def main() -> None:
     ap.add_argument(
         "--only",
         choices=["ig", "linkedin", "both"],
-        default="both",
-        help="Which channel to generate (default: both).",
+        default="ig",
+        help="Which channel to generate (default: ig — LinkedIn je vypnutý, použij linkedin/both pokud ho potřebuješ).",
     )
     ap.add_argument(
         "--no-gemini",
@@ -1305,37 +1399,28 @@ def main() -> None:
     args = ap.parse_args()
 
     load_env()
-    api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
-    use_gemini = (not args.no_gemini) and bool(api_key)
+    api_key = os.environ.get("GEMINI_API_KEY") or None
+    use_gemini = not args.no_gemini
 
-    if args.clear_cache and BG_CACHE_DIR.exists():
-        for f in BG_CACHE_DIR.iterdir():
-            try:
-                f.unlink()
-            except OSError:
-                pass
-        print(f"[cache] cleared {BG_CACHE_DIR}")
+    with open(args.selected_json, encoding="utf-8") as f:
+        selected = json.load(f)
 
-    if not args.selected_json.exists():
-        raise SystemExit(f"selected_json not found: {args.selected_json}")
-
-    selected = json.loads(args.selected_json.read_text(encoding="utf-8"))
+    if args.clear_cache:
+        import shutil as _shutil
+        cache_dir = ROOT / "cache" / "gemini_bg"
+        if cache_dir.exists():
+            _shutil.rmtree(cache_dir)
+            print(f"[cache] Cleared {cache_dir}")
 
     if args.bg_only is not None:
-        prewarm_single_bg(
+        prewarm_single_bg(selected, args.bg_only, use_gemini=use_gemini, api_key=api_key)
+    else:
+        process_articles_for_day(
             selected,
-            args.bg_only,
             use_gemini=use_gemini,
+            only=args.only,
             api_key=api_key,
         )
-        return
-
-    process_articles_for_day(
-        selected,
-        use_gemini=use_gemini,
-        only=args.only,
-        api_key=api_key,
-    )
 
 
 if __name__ == "__main__":
