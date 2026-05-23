@@ -1,0 +1,19 @@
+AI News | 23. května 2026
+
+Dnešní novinky:
+
+1. Gartner v 2026 Magic Quadrantu pro Enterprise AI Coding Agents zařadil OpenAI mezi lídry díky Codexu. Codex postavený na GPT-5.5 už běží jako review nástroj u Rampu, Virgin Atlantic i dalších, kde nahrazuje hodiny lidských PR reviews za minuty.
+
+2. Nvidia ukázala Nemotron Diffusion, kde modely generují text paralelně místo token po tokenu jako Llama nebo Qwen. Architektura slibuje řádově vyšší propustnost na stejném hardwaru a celá rodina jde rovnou pod Apache 2.0 na Hugging Face.
+
+3. Anthropic rozjíždí iniciativu, kde chce dostat víc politiků, novinářů a občanské společnosti do diskuze o regulaci frontier AI. V době, kdy Trump odložil exekutivní příkaz na AI bezpečnost, se Anthropic staví do role neutrálního mostu mezi lab a vládou.
+
+4. OpenAI spustil verifier, který v reálném čase pozná, jestli obraz nebo zvuk prošel jejich modely. Nástroj propojuje Content Credentials od Adobe a SynthID od DeepMindu, takže marketingy dostanou jediný standard, který poznají i právníci a audity.
+
+5. Skupina TeamPCP měsíce podstrkuje malware do npm, PyPI i přímo GitHub repozitářů, 19. května prošlo Sigstore ověřením 633 falešných balíčků. Microsoft potvrdil, že přes podvodný VS Code plugin si útočníci stáhli 3 800 interních repozitářů.
+
+6. Google DeepMind a OpenAI ve stejný den podepsaly partnerství se Singapurem o nasazení AI do zdravotnictví, vzdělávání a klimatu. Singapur se profiluje jako asijská brána pro frontier modely podobně, jako jsou Saúdská Arábie a SAE branou v Perském zálivu.
+
+7. Vyhledávač Exa, výpočetní platforma Modal a vektorová databáze TurboPuffer se přes noc staly miliardovými firmami. Investoři vsázejí, že každý agentický stack potřebuje samostatnou search, compute a storage vrstvu mimo OpenAI a Anthropic.
+
+#AINews #AI #OpenAI #Nvidia #Anthropic #DeepMind #Codex #AIRegulace #AInaMiru
