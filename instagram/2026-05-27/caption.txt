@@ -1,0 +1,19 @@
+AI News | 27. května 2026
+
+Dnešní novinky:
+
+1. DeepSWE od startupu Datacurve rozbil iluzi vyrovnaných coding modelů. GPT-5.5 vede s 70 procenty, šestnáct bodů před Claude Opus, a tým navíc odhalil, že Opus znal repozitáře z populárního SWE-Bench Pro z trénovacích dat.
+
+2. Anthropic otevírá kancelář v Soulu a jmenuje KiYoung Choi jako Representative Director pro Koreu. APAC expanze pokračuje po Japonsku a Singapuru, lokální Naver dostává konkurenci v enterprise segmentu.
+
+3. Sundar Pichai v Decoder rozhovoru po I/O říká, že Google Zero efekt je realita a otevřený web se mění. YouTube má zůstat lidskou platformou, ale modré odkazy v Search jsou minulost.
+
+4. Ve Starlette, balíku se 325 miliony stažení týdně, byla odhalena kritická díra BadHost. Dopad: většina Python AI agentů a FastAPI backendů, patch je venku, audit teď nebo nikdy.
+
+5. Microsoft Copilot Cowork posílal e-maily do schránek bez schválení, vykreslené obrázky pak volaly externí URL. Prompt injection mohl vytáhnout OneDrive linky a stáhnout firemní soubory.
+
+6. OpenRouter zvedl 113 milionů dolarů Series B od CapitalG a má valuaci 1,3 miliardy. Použití pětkrát vzrostlo za šest měsíců, multi-model architektury jsou nový default v produkci.
+
+7. DuckDuckGo má o 30 procent více instalací poté, co Google na I/O 2026 nahradil modré odkazy AI agenty. Lidé hledají způsob, jak si vyhledávání bez vnucené AI sumarizace zachovat.
+
+#AINews #AI #AInaMiru #DeepSWE #Anthropic #GoogleIO #OpenRouter #PromptInjection #DuckDuckGo
