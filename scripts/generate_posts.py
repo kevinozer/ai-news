@@ -149,6 +149,7 @@ def load_fonts() -> dict[str, Path]:
     wanted = {
         "display":        "CormorantGaramond-Light.ttf",
         "display_italic": "CormorantGaramond-LightItalic.ttf",
+        "display_bold":   "CormorantGaramond-SemiBold.ttf",
         "body":           "SpaceGrotesk-Regular.ttf",
         "body_bold":      "SpaceGrotesk-SemiBold.ttf",
     }
@@ -976,15 +977,15 @@ def compose_news_slide(
     # Pro top story (is_first) dáme víc prostoru i větší startovní font —
     # má působit jako "headline magazínového cover".
     title_max_height = int((panel_bottom - panel_top)
-                           * (0.55 if is_first else 0.45))
+                           * (0.62 if is_first else 0.58))
     if is_first:
-        start_size = 84 if W > 1200 else 68
-        min_size = 44
+        start_size = 96 if W > 1200 else 80
+        min_size = 52
     else:
-        start_size = 72 if W > 1200 else 56
-        min_size = 36
+        start_size = 84 if W > 1200 else 72
+        min_size = 48
     title_font, title_lines, title_lh = fit_text_by_font_size(
-        draw, title, fonts["display"],
+        draw, title, fonts["display_bold"],
         max_width=title_max_width,
         max_height=title_max_height,
         start_size=start_size,
@@ -992,33 +993,45 @@ def compose_news_slide(
         line_height=1.08,
     )
 
+    # ---- titulek (center-aligned) ----
     y = panel_top
     for line in title_lines:
-        draw.text((margin, y), line, font=title_font, fill=IVORY)
+        line_w = draw.textlength(line, font=title_font)
+        line_x = (W - line_w) // 2
+        draw.text((line_x, y), line, font=title_font, fill=IVORY)
         y += title_lh
-    y += 24  # gap title→bullets
+    title_end_y = y
 
-    # ---- bullets (top 3) ----
-    bullets = [strip_brand_dashes(b) for b in (article.get("summary_cs") or [])[:3]]
-    b_font_size = 22 if W <= 1200 else 26
+    # ---- bullet (top 1, center-aligned, vertikálně centrovaný v prostoru pod titulem) ----
+    bullets = [strip_brand_dashes(b) for b in (article.get("summary_cs") or [])[:1]]
+    b_font_size = 32 if W <= 1200 else 30
     b_font = pil_font(fonts, "body", b_font_size)
-    b_lh = int(b_font_size * 1.35)
-    bullet_indent = 36
-    bullet_max_w = W - 2 * margin - bullet_indent
+    b_lh = int(b_font_size * 1.42)
+    # bez dot markeru, bez indentu — centrovaný layout potřebuje plnou šířku
+    bullet_max_w = W - 2 * margin
 
+    # spočítat výšku bulletu pro vertikální centrování
+    pre_wrapped = []
+    total_bullet_h = 0
     for bullet in bullets:
-        # copper dot marker
-        dot_r = 4
-        dot_y = y + b_font_size // 2 + 2
-        draw.ellipse(
-            [margin + 6, dot_y - dot_r, margin + 6 + 2 * dot_r, dot_y + dot_r],
-            fill=COPPER,
-        )
         lines = wrap_text(draw, bullet, b_font, bullet_max_w)
+        pre_wrapped.append(lines)
+        total_bullet_h += len(lines) * b_lh
+
+    # vertikální centrování v zóně (title_end_y + min_gap) ↔ panel_bottom
+    min_gap_top = 32
+    min_gap_bottom = 12
+    avail_top = title_end_y + min_gap_top
+    avail_bottom = panel_bottom - min_gap_bottom
+    free_space = max(0, (avail_bottom - avail_top) - total_bullet_h)
+    y = avail_top + free_space // 2
+
+    for bullet, lines in zip(bullets, pre_wrapped):
         for ln in lines:
-            draw.text((margin + bullet_indent, y), ln, font=b_font, fill=IVORY)
+            ln_w = draw.textlength(ln, font=b_font)
+            ln_x = (W - ln_w) // 2
+            draw.text((ln_x, y), ln, font=b_font, fill=IVORY)
             y += b_lh
-        y += 8  # gap mezi bullets
         if y > panel_bottom - 28:
             break
 
