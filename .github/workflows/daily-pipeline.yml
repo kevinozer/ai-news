@@ -1,0 +1,117 @@
+name: AI News daily pipeline
+
+# Zatím jen ruční spuštění (workflow_dispatch). Cron se zapne po ověření.
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "30 8 * * *"   # 08:30 UTC = 10:30 CEST (léto)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-news-daily
+  cancel-in-progress: false
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      TZ: Europe/Prague
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_THINK_BUDGET: "2048"
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      AI_NEWS_PUSH_TOKEN: ${{ secrets.AI_NEWS_PUSH_TOKEN }}
+    steps:
+      - name: Checkout ai-news
+        uses: actions/checkout@v5
+
+      - name: Checkout ainamiru (pro dedup proti publikovaným)
+        uses: actions/checkout@v5
+        with:
+          repository: cruzmira/ainamiru
+          token: ${{ secrets.GH_PAT }}
+          path: _ainamiru
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install deps
+        run: pip install -r scripts/requirements.txt
+
+      - name: Compute date (CEST)
+        id: d
+        run: echo "date=$(TZ=Europe/Prague date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Fetch today's inbox
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          mkdir -p inbox
+          curl -fsSL "https://raw.githubusercontent.com/kevinozer/ai-news/main/inbox/${DATE}.json" -o "inbox/${DATE}.json"
+          echo "inbox řádků: $(wc -l < inbox/${DATE}.json)"
+
+      - name: Curate top 15 (Gemini)
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          python3 scripts/curate_selection.py --date "$DATE" --ai-news . --ainamiru _ainamiru
+
+      - name: Generate PDF digest
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          ( cd scripts && python3 generate_pdf.py "../digest/${DATE}_selected.json" )
+          ls -lh "digest/news_${DATE}.pdf"
+
+      - name: PDF sanity (<=100 stran)
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          P=$(python3 -c "from pypdf import PdfReader; print(len(PdfReader('digest/news_${DATE}.pdf').pages))")
+          echo "stran: $P"
+          if [ "$P" -gt 100 ]; then echo "::error::PDF má $P stran — rozbité schéma"; exit 1; fi
+
+      - name: Send PDF to Telegram
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          curl -sS -F document=@"digest/news_${DATE}.pdf" -F "caption=AI News - ${DATE}" \
+            "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendDocument?chat_id=${TELEGRAM_CHAT_ID}" \
+            | python3 -c "import sys,json; r=json.load(sys.stdin); print('Telegram OK' if r.get('ok') else f'FAIL {r}'); sys.exit(0 if r.get('ok') else 1)"
+
+      - name: Prewarm IG pozadí (Gemini)
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          for i in 0 1 2 3 4 5 6 7; do
+            python3 scripts/generate_posts.py "digest/${DATE}_selected.json" --bg-only $i || true
+          done
+
+      - name: IG žargon varianta (_selected_ig.json)
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          python3 scripts/make_ig_variant.py --date "$DATE" --ai-news . --mode ig
+
+      - name: Složit IG slidy
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          python3 scripts/generate_posts.py "digest/${DATE}_selected_ig.json" --only ig
+
+      - name: IG caption
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          python3 scripts/make_ig_variant.py --date "$DATE" --ai-news . --mode caption
+
+      - name: Push slidů na GitHub (pro Make.com)
+        run: python3 scripts/push_today_slides.py
+
+      - name: Shrnutí
+        if: always()
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          echo "### AI News pipeline — $DATE" >> "$GITHUB_STEP_SUMMARY"
+          echo "- selected: $([ -f digest/${DATE}_selected.json ] && echo OK || echo CHYBÍ)" >> "$GITHUB_STEP_SUMMARY"
+          echo "- PDF: $([ -f digest/news_${DATE}.pdf ] && echo OK || echo CHYBÍ)" >> "$GITHUB_STEP_SUMMARY"
+          echo "- IG slidy: $(ls instagram/${DATE}/slide_*.png 2>/dev/null | wc -l) ks" >> "$GITHUB_STEP_SUMMARY"
+          echo "- caption: $([ -f instagram/${DATE}/caption.txt ] && echo OK || echo CHYBÍ)" >> "$GITHUB_STEP_SUMMARY"
