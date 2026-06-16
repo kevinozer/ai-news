@@ -115,7 +115,7 @@ jobs:
           python3 scripts/make_ig_variant.py --date "$DATE" --ai-news . --mode caption
 
       - name: Push slidů na GitHub (pro Make.com)
-        run: python3 scripts/push_today_slides.py
+        run: python3 scripts/push_today_slides.py "${{ steps.d.outputs.date }}"
 
       - name: Shrnutí
         if: always()
