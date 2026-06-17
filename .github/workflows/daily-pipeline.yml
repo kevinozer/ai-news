@@ -233,6 +233,24 @@ jobs:
             echo "SC push OK"
           else echo "SC: bez změn"; fi
 
+      - name: Persist selected.json (historie pro dedup)
+        if: ${{ success() && inputs.dry_run != 'true' }}
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          git config user.email "kevin.ozer@seznam.cz"
+          git config user.name "Kevin Ozer (auto)"
+          git add -f "digest/${DATE}_selected.json" 2>/dev/null || true
+          [ -f "digest/${DATE}_selected_ig.json" ] && git add -f "digest/${DATE}_selected_ig.json"
+          if ! git diff --cached --quiet; then
+            git commit -m "digest: ${DATE} selekce (historie pro dedup)"
+            git fetch origin main -q
+            git rebase origin/main -q || git rebase --abort
+            git push origin HEAD:main
+            echo "selected.json persistován do main"
+          else
+            echo "selected.json beze změn"
+          fi
+
       - name: Verify (end-to-end audit)
         if: ${{ always() }}
         env:
