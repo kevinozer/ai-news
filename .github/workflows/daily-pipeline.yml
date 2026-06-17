@@ -8,6 +8,10 @@ on:
         description: "Datum YYYY-MM-DD (prázdné = dnes CEST)"
         required: false
         default: ""
+      dry_run:
+        description: "true = negeneruj žádný push na živé weby (jen test)"
+        required: false
+        default: "false"
   # schedule:
   #   - cron: "30 8 * * *"   # 08:30 UTC = 10:30 CEST (léto)
 
@@ -116,6 +120,46 @@ jobs:
 
       - name: Push slidů na GitHub (pro Make.com)
         run: python3 scripts/push_today_slides.py "${{ steps.d.outputs.date }}"
+
+      - name: ainamiru — generovat 7 článků
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          mkdir -p output/articles
+          # seed index z publikovaného (zachová historii napříč běhy)
+          cp _ainamiru/articles/index.json output/articles/ 2>/dev/null || true
+          cp _ainamiru/articles/index.js   output/articles/ 2>/dev/null || true
+          for i in 0 1 2 3 4 5 6; do
+            python3 scripts/_gen_one_idx.py $i || python3 scripts/_gen_one_idx.py $i || true
+          done
+          echo "článkových složek: $(ls -d output/articles/${DATE}-*/ 2>/dev/null | wc -l)"
+
+      - name: ainamiru — audit (output)
+        run: python3 scripts/check_articles.py --date "${{ steps.d.outputs.date }}"
+
+      - name: ainamiru — sync do repa + audit deploy
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          cp -r output/articles/${DATE}-*/ _ainamiru/articles/ 2>/dev/null || echo "no new dirs"
+          cp output/articles/index.json output/articles/index.js _ainamiru/articles/
+          python3 scripts/check_articles.py --date "$DATE" --root _ainamiru/articles
+
+      - name: ainamiru — commit + push
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          if [ "${{ inputs.dry_run }}" = "true" ]; then echo "DRY RUN — ainamiru push přeskočen"; exit 0; fi
+          cd _ainamiru
+          git config user.email "kevin.ozer@seznam.cz"
+          git config user.name "Kevin Ozer (auto)"
+          git add articles/
+          if git diff --cached --quiet; then
+            echo "ainamiru: žádné změny"
+          else
+            git commit -m "Articles: ${DATE}"
+            git fetch origin main -q
+            git rebase origin/main -q || git rebase --abort
+            git push origin HEAD:main
+            echo "ainamiru push OK"
+          fi
 
       - name: Shrnutí
         if: always()
