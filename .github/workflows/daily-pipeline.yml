@@ -175,17 +175,17 @@ jobs:
           git clone --depth=1 "https://x-access-token:${{ secrets.GH_PAT }}@github.com/kevinozer/cbre-marketplace.git" /tmp/cbre
           python3 scripts/cbre_sync.py --ainamiru _ainamiru --marketplace /tmp/cbre
           cd /tmp/cbre
-          COUNT=$(grep -c "^    slug:" src/data/aiNews.ts || echo 0)
+          COUNT=$(grep -c "^    slug:" src/data/aiNews.ts || true)
           echo "aiNews.ts slugů: $COUNT"
           if [ "$COUNT" -lt 50 ]; then echo "::error::CBRE regrese <50 článků"; exit 1; fi
           npm install --no-audit --no-fund >/dev/null 2>&1
           for i in 1 2 3 4 5; do
             timeout 120 node scripts/translate-new-articles.mjs ainews 2>&1 | tail -4
-            REM=$(grep -cE '^    title: "' src/data/aiNews.ts || echo 0)
+            REM=$(grep -cE '^    title: "' src/data/aiNews.ts || true)
             echo "překlad průchod $i: zbývá $REM"
             [ "$REM" = "0" ] && break
           done
-          FINAL=$(grep -cE '^    title: "' src/data/aiNews.ts || echo 0)
+          FINAL=$(grep -cE '^    title: "' src/data/aiNews.ts || true)
           if [ "$FINAL" != "0" ]; then echo "::error::CBRE $FINAL nepřeložených"; exit 1; fi
           npx tsc -b 2>&1 | tail -5
 
