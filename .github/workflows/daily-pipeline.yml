@@ -121,6 +121,12 @@ jobs:
       - name: Push slidů na GitHub (pro Make.com)
         run: python3 scripts/push_today_slides.py "${{ steps.d.outputs.date }}"
 
+      - name: ainamiru — připravit šablonu (sibling ai-na-miru)
+        run: |
+          mkdir -p ../ai-na-miru/articles
+          cp templates/article-template.html ../ai-na-miru/articles/article-template.html
+          echo "template na místě: $(ls -l ../ai-na-miru/articles/article-template.html)"
+
       - name: ainamiru — generovat 7 článků
         run: |
           DATE=${{ steps.d.outputs.date }}
@@ -160,6 +166,72 @@ jobs:
             git push origin HEAD:main
             echo "ainamiru push OK"
           fi
+
+      - name: CBRE — sync + překlad + build
+        env:
+          GEMINI_API_KEY: ${{ secrets.CBRE_GEMINI_KEY }}
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          git clone --depth=1 "https://x-access-token:${{ secrets.GH_PAT }}@github.com/kevinozer/cbre-marketplace.git" /tmp/cbre
+          python3 scripts/cbre_sync.py --ainamiru _ainamiru --marketplace /tmp/cbre
+          cd /tmp/cbre
+          COUNT=$(grep -c "^    slug:" src/data/aiNews.ts || echo 0)
+          echo "aiNews.ts slugů: $COUNT"
+          if [ "$COUNT" -lt 50 ]; then echo "::error::CBRE regrese <50 článků"; exit 1; fi
+          npm install --no-audit --no-fund >/dev/null 2>&1
+          for i in 1 2 3 4 5; do
+            timeout 120 node scripts/translate-new-articles.mjs ainews 2>&1 | tail -4
+            REM=$(grep -cE '^    title: "' src/data/aiNews.ts || echo 0)
+            echo "překlad průchod $i: zbývá $REM"
+            [ "$REM" = "0" ] && break
+          done
+          FINAL=$(grep -cE '^    title: "' src/data/aiNews.ts || echo 0)
+          if [ "$FINAL" != "0" ]; then echo "::error::CBRE $FINAL nepřeložených"; exit 1; fi
+          npx tsc -b 2>&1 | tail -5
+
+      - name: CBRE — commit + push
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          if [ "${{ inputs.dry_run }}" = "true" ]; then echo "DRY RUN — CBRE push přeskočen"; exit 0; fi
+          cd /tmp/cbre
+          git config user.email "kevin.ozer@seznam.cz"
+          git config user.name "Kevin Ozer (auto)"
+          git checkout package-lock.json 2>/dev/null || true
+          if git status --porcelain | grep -qE "(aiNews\.ts|public/ai-news)"; then
+            git add src/data/aiNews.ts public/ai-news/
+            git commit -m "chore(aiNews): daily sync ${DATE} (CZ+EN)"
+            git fetch origin main -q; git rebase origin/main -q || git rebase --abort
+            git push origin HEAD:main
+            echo "CBRE push OK"
+          else echo "CBRE: bez změn"; fi
+
+      - name: Stanton Chase — sync + build
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AINAMIRU_DIR: ${{ github.workspace }}/_ainamiru
+          SC_NEWS_DATE: ${{ steps.d.outputs.date }}
+        run: |
+          git clone --depth=1 "https://x-access-token:${{ secrets.SC_GITHUB_PAT }}@github.com/cruzmira/stanton-chase-ai-hub.git" /tmp/sc
+          cd /tmp/sc
+          npm ci >/dev/null 2>&1 || npm install --no-audit --no-fund >/dev/null 2>&1
+          node scripts/sc-news/select-for-sc.mjs --repo /tmp/sc
+          node scripts/sc-news/rewrite-for-sc.mjs --repo /tmp/sc
+          node scripts/sc-news/write-articles.mjs --repo /tmp/sc
+          npm run build 2>&1 | tail -8
+
+      - name: Stanton Chase — commit + push
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          if [ "${{ inputs.dry_run }}" = "true" ]; then echo "DRY RUN — SC push přeskočen"; exit 0; fi
+          cd /tmp/sc
+          if git status --porcelain | grep -qE "(aiNews\.ts|news/)"; then
+            git config user.email "kevin.ozer@seznam.cz"
+            git config user.name "Kevin Ozer (auto)"
+            git commit -am "news: SC AI-news sync ${DATE}"
+            git pull --rebase origin main -q || true
+            git push origin main
+            echo "SC push OK"
+          else echo "SC: bez změn"; fi
 
       - name: Shrnutí
         if: always()
