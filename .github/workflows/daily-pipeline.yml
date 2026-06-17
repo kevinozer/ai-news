@@ -1,6 +1,6 @@
 name: AI News daily pipeline
 
-# Zatím jen ruční spuštění (workflow_dispatch). Cron se zapne po ověření.
+# Denní automatika na GitHub Actions (nezávisle na PC). Ruční spuštění + backfill přes workflow_dispatch.
 on:
   schedule:
     - cron: "30 8 * * *"   # 08:30 UTC = 10:30 CEST (léto) / 09:30 CET (zima)
@@ -14,8 +14,6 @@ on:
         description: "true = negeneruj žádný push na živé weby (jen test)"
         required: false
         default: "false"
-  # schedule:
-  #   - cron: "30 8 * * *"   # 08:30 UTC = 10:30 CEST (léto)
 
 permissions:
   contents: write
