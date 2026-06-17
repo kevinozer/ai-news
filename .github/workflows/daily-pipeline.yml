@@ -233,12 +233,34 @@ jobs:
             echo "SC push OK"
           else echo "SC: bez změn"; fi
 
-      - name: Shrnutí
-        if: always()
+      - name: Verify (end-to-end audit)
+        if: ${{ always() }}
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          SC_GITHUB_PAT: ${{ secrets.SC_GITHUB_PAT }}
         run: |
           DATE=${{ steps.d.outputs.date }}
-          echo "### AI News pipeline — $DATE" >> "$GITHUB_STEP_SUMMARY"
-          echo "- selected: $([ -f digest/${DATE}_selected.json ] && echo OK || echo CHYBÍ)" >> "$GITHUB_STEP_SUMMARY"
-          echo "- PDF: $([ -f digest/news_${DATE}.pdf ] && echo OK || echo CHYBÍ)" >> "$GITHUB_STEP_SUMMARY"
-          echo "- IG slidy: $(ls instagram/${DATE}/slide_*.png 2>/dev/null | wc -l) ks" >> "$GITHUB_STEP_SUMMARY"
-          echo "- caption: $([ -f instagram/${DATE}/caption.txt ] && echo OK || echo CHYBÍ)" >> "$GITHUB_STEP_SUMMARY"
+          DRY="${{ inputs.dry_run }}"
+          S="$GITHUB_STEP_SUMMARY"
+          echo "## AI News pipeline — $DATE $([ "$DRY" = "true" ] && echo '(DRY RUN)')" >> "$S"
+          bad=0
+          chk(){ if [ "$2" = "OK" ]; then echo "- ✅ $1" >> "$S"; else echo "- ❌ $1: $2" >> "$S"; bad=$((bad+1)); fi; }
+          chk "selected.json" "$([ -f digest/${DATE}_selected.json ] && echo OK || echo chybí)"
+          chk "PDF digest" "$([ -f digest/news_${DATE}.pdf ] && echo OK || echo chybí)"
+          N=$(ls instagram/${DATE}/slide_*.png 2>/dev/null | wc -l); chk "IG slidy (8)" "$([ "$N" = "8" ] && echo OK || echo "jen $N")"
+          chk "caption" "$([ -f instagram/${DATE}/caption.txt ] && echo OK || echo chybí)"
+          A=$(ls -d output/articles/${DATE}-*/ 2>/dev/null | wc -l); chk "ainamiru články" "$([ "$A" -ge 1 ] && echo OK || echo "jen $A")"
+          if [ "$DRY" = "true" ]; then
+            echo "- ℹ️ pushe přeskočeny (dry-run)" >> "$S"
+          else
+            code=$(curl -s -o /dev/null -w "%{http_code}" "https://raw.githubusercontent.com/kevinozer/ai-news/main/instagram/${DATE}/caption.txt")
+            chk "slidy na raw (Make.com)" "$([ "$code" = "200" ] && echo OK || echo "HTTP $code")"
+            for repo in cruzmira/ainamiru kevinozer/cbre-marketplace; do
+              d=$(curl -s -H "Authorization: Bearer $GH_PAT" "https://api.github.com/repos/$repo/commits/main" | python3 -c "import sys,json;print(json.load(sys.stdin)['commit']['committer']['date'][:10])" 2>/dev/null)
+              chk "$repo commit $DATE" "$([ "$d" = "$DATE" ] && echo OK || echo "poslední $d")"
+            done
+            d=$(curl -s -H "Authorization: Bearer $SC_GITHUB_PAT" "https://api.github.com/repos/cruzmira/stanton-chase-ai-hub/commits/main" | python3 -c "import sys,json;print(json.load(sys.stdin)['commit']['committer']['date'][:10])" 2>/dev/null)
+            chk "stanton-chase commit $DATE" "$([ "$d" = "$DATE" ] && echo OK || echo "poslední $d")"
+          fi
+          echo "" >> "$S"
+          if [ "$bad" = "0" ]; then echo "**✅ Vše prošlo.**" >> "$S"; echo "VERIFY OK"; else echo "**❌ $bad problémů — viz výše.**" >> "$S"; echo "VERIFY: $bad problémů"; fi
