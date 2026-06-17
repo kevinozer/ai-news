@@ -121,6 +121,12 @@ jobs:
       - name: Push slidů na GitHub (pro Make.com)
         run: python3 scripts/push_today_slides.py "${{ steps.d.outputs.date }}"
 
+      - name: ainamiru — připravit šablonu (sibling ai-na-miru)
+        run: |
+          mkdir -p ../ai-na-miru/articles
+          cp templates/article-template.html ../ai-na-miru/articles/article-template.html
+          echo "template na místě: $(ls -l ../ai-na-miru/articles/article-template.html)"
+
       - name: ainamiru — generovat 7 článků
         run: |
           DATE=${{ steps.d.outputs.date }}
