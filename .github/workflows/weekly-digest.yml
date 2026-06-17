@@ -84,6 +84,9 @@ jobs:
           msg=EmailMessage()
           TO=os.environ.get("TO_OVERRIDE") or os.environ["BOSS_EMAIL"]
           msg["From"]=os.environ["GMAIL_USER"]; msg["To"]=TO
+          if not os.environ.get("TO_OVERRIDE"):
+              me=os.environ.get("GMAIL_USER")
+              if me and me!=TO: msg["Cc"]=me
           msg["Subject"]=f"AI News — týdenní přehled k {datum_cs}"
           msg.set_content(
               "Dobrý den,\n\nv příloze posílám týdenní přehled nejdůležitějších a "
