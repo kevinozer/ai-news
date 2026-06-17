@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-28",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "GPT-5.5 je tady: chytřejší model OpenAI s důrazem na kódování a analýzu dat",
+      "title_orig": "Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI uvedlo GPT-5.5 jako svůj zatím nejschopnější model, primárně cílený na kódování, výzkum a komplexní analýzu dat napříč nástroji.",
+        "Model přichází spolu s detailním System Card, kde OpenAI rozebírá bezpečnostní vyhodnocení včetně samostatného Bio Bug Bounty programu.",
+        "Vlna spuštění zahrnuje také Codex Superapp, agentické workflow přes WebSockets a integraci českého E2B sandboxu v Agents SDK."
+      ],
+      "why_matters": "Nový top model OpenAI nastavuje laťku pro Anthropic i Google a tlačí ceny i kvalitu agentických API."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Microsoft a OpenAI přepisují smlouvu, AGI klauzule padla a exkluzivita končí",
+      "title_orig": "Microsoft and OpenAI's famed AGI agreement is dead",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+      "source": "The Verge",
+      "category": "labs",
+      "summary_cs": [
+        "Microsoft a OpenAI oznámily zásadní úpravu vztahu: slavná klauzule o AGI, která řadu let určovala budoucnost dealu, byla oficiálně škrtnuta.",
+        "OpenAI nově smí prodávat své modely i přes konkurenční cloudy AWS a Google Cloud, Microsoft zůstává primárním partnerem a má první přístup k novinkám.",
+        "Změna otevírá cestu k plánovanému IPO OpenAI a uvolňuje napětí kolem 50 miliard USD investice Amazonu, kterou Microsoft mohl právně blokovat."
+      ],
+      "why_matters": "Konec exkluzivity je největší proměna AI ekosystému od založení OpenAI a přepisuje strategii všech velkých cloudů."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic Labs spouští Claude Design pro tvorbu vizuálů přímo s modelem",
+      "title_orig": "Introducing Claude Design by Anthropic Labs",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Claude Design je nový experimentální produkt od Anthropic Labs, který umožňuje uživatelům spolupracovat s Claudem na hotových vizuálních výstupech.",
+        "Nástroj kombinuje konverzační návrh, iterativní úpravy a export použitelný v marketingu, prezentacích nebo sociálních sítích.",
+        "Anthropic ho pozicuje jako protiváhu k samostatným AI design tools a navazuje na Claude Skills a agentický ekosystém."
+      ],
+      "why_matters": "Anthropic vstupuje do designové domény, kde dosud dominoval Adobe a Canva, a otevírá nové use case pro firmy."
+    },
+    {
+      "rank": 4,
+      "title_cs": "David Silver z DeepMindu získal 1,1 miliardy dolarů na AI, která se učí bez lidských dat",
+      "title_orig": "DeepMind's David Silver just raised $1.1B to build an AI that learns without human data",
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "source": "TechCrunch",
+      "category": "labs",
+      "summary_cs": [
+        "Britská laboratoř Ineffable Intelligence, kterou před pár měsíci založil bývalý researcher DeepMindu David Silver, získala 1,1 miliardy USD při valuaci 5,1 miliardy.",
+        "Silver, jeden z autorů AlphaGo a AlphaZero, sází na reinforcement learning bez lidských demonstrací jako cestu k tzv. superlearners.",
+        "V doprovodném rozhovoru pro WIRED tvrdí, že současné LLM přístupy jsou slepá ulička a budoucnost je v autonomním objevování."
+      ],
+      "why_matters": "Velký vstup nového hráče do agentického RL výzkumu naznačuje, že paradigma postavené na lidských datech naráží na strop."
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI uvolnilo Symphony, open-source spec pro orchestraci Codex agentů",
+      "title_orig": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Symphony je nová otevřená specifikace, která propojuje issue trackery jako GitHub Issues s Codex agenty a vytváří always-on engineering systémy.",
+        "OpenAI tvrdí, že přístup snižuje context switching pro vývojáře a zvyšuje propustnost týmů díky asynchronnímu zpracování úkolů.",
+        "Spec je publikován na GitHubu, podporuje vlastní providery a otevírá ekosystém integrací mimo prostředí ChatGPT."
+      ],
+      "why_matters": "Standard pro orchestraci agentů od OpenAI tlačí trh směrem k jednotnému rozhraní, podobně jako MCP od Anthropicu."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Xiaomi MiMo V2.5 a V2.5-Pro: open-source modely mezi nejefektivnějšími na agentických úlohách",
+      "title_orig": "Open source Xiaomi MiMo-V2.5 and V2.5-Pro are among the most efficient (and affordable) at agentic 'claw' tasks",
+      "url": "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks",
+      "source": "VentureBeat",
+      "category": "open-source",
+      "summary_cs": [
+        "Xiaomi vydalo MiMo V2.5 a V2.5-Pro pod permisivní licencí MIT, takže je lze nasadit i v komerčních produkčních aplikacích.",
+        "Modely podávají konkurenceschopný výkon na agentických benchmarcích typu CLAW při výrazně nižších provozních nákladech než zavedení rivalové.",
+        "Jsou ke stažení přímo z Hugging Face, což pokračuje v trendu kvalitních čínských open-source LLM po DeepSeeku a Qwenu."
+      ],
+      "why_matters": "Levné MIT-licencované modely od velkého OEM zvyšují tlak na uzavřené API a usnadňují nasazení v Evropě."
+    },
+    {
+      "rank": 7,
+      "title_cs": "ASI-EVOLVE: nový framework, který autonomně navrhuje data, architekturu i algoritmy",
+      "title_orig": "New AI framework autonomously optimizes training data, architectures and algorithms",
+      "url": "https://venturebeat.com/orchestration/new-ai-framework-autonomously-optimizes-training-data-architectures-and-algorithms-outperforming-human-baselines",
+      "source": "VentureBeat",
+      "category": "research",
+      "summary_cs": [
+        "Tým z laboratoře SII-GAIR představil ASI-EVOLVE, agentický systém pro AI-pro-AI výzkum, který běží v cyklu learn-design-experiment-analyze.",
+        "Framework pokrývá celou výzkumnou smyčku od přípravy trénovacích dat přes hledání architektur až po optimalizaci algoritmů.",
+        "V publikovaných benchmarcích překonává lidské baseline a snižuje manuální inženýrské úsilí potřebné na výzkumné cykly."
+      ],
+      "why_matters": "Pokud takové systémy zafungují i ve velkém, posunou rychlost AI výzkumu řádově a změní roli ML inženýrů."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Microsoft VibeVoice: open-source Whisper-style model pro přepis řeči s diarizací",
+      "title_orig": "microsoft/VibeVoice",
+      "url": "https://simonwillison.net/2026/Apr/27/vibevoice/",
+      "source": "Simon Willison",
+      "category": "open-source",
+      "summary_cs": [
+        "Microsoft v lednu 2026 uvolnil VibeVoice, model pro speech-to-text s vestavěnou speaker diarizací pod permisivní MIT licencí.",
+        "Komunita připravila 4-bitovou MLX verzi (5,71 GB), kterou lze rozjet na Macu jediným příkazem přes uv a mlx-audio.",
+        "Simon Willison ukazuje praktický one-liner pro lokální transkripci podcastu, což z modelu dělá zajímavou alternativu k Whisperu."
+      ],
+      "why_matters": "Lokální MIT model s diarizací zvládne zápisy schůzek či podcastů bez odesílání zvuku do cloudu, klíčové pro GDPR."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Pip 26.1 přidává lockfiles a dependency cooldowns",
+      "title_orig": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
+      "url": "https://simonwillison.net/2026/Apr/28/pip-261/",
+      "source": "Simon Willison",
+      "category": "tools",
+      "summary_cs": [
+        "Verze 26.1 nástroje pip konečně přináší nativní lockfiles a tzv. dependency cooldowns, které řeší jeden z dlouholetých nedostatků Pythonu.",
+        "Pip nadále nepodporuje Python 3.9, který je od loňského října EOL, takže macOS uživatelé musí sáhnout po novějším runtime.",
+        "Lockfile řeší reprodukovatelnost prostředí, cooldowns chrání před náhlými incompatibility úpravami v balíčcích."
+      ],
+      "why_matters": "Pro Python vývojáře je to dlouho očekávaný posun směrem k bezpečnější a předvídatelnější správě závislostí."
+    },
+    {
+      "rank": 10,
+      "title_cs": "České E2B se stalo oficiálním sandboxem v OpenAI Agents SDK",
+      "title_orig": "OpenAI přidala české E2B do svého Agents SDK, vývojáři v Pythonu ho mají po ruce",
+      "url": "https://www.lupa.cz/aktuality/openai-pridala-ceske-e2b-do-sveho-agents-sdk-vyvojari-v-pythonu-ho-maji-po-ruce/",
+      "source": "Lupa.cz",
+      "category": "tools",
+      "summary_cs": [
+        "Startup E2B od matfyzáků Václava Mlejnského a Tomáše Valenty se stal jedním z oficiálních poskytovatelů sandboxů v novém OpenAI Agents SDK.",
+        "Cloudová infrastruktura pro AI agenty je tak přímo dostupná všem vývojářům pracujícím v Pythonu s nástroji OpenAI.",
+        "E2B sídlí v San Franciscu, ale technicky a kapitálově zůstává jednou z nejviditelnějších českých AI firem na americkém trhu."
+      ],
+      "why_matters": "Český software je v páteřní infrastruktuře OpenAI, což je obrovská výkladní skříň pro českou AI scénu."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Google staví AI hyperpočítače s miliony vlastních TPU čipů",
+      "title_orig": "Podívejte se, co asi budí šéfa Nvidie ze spaní. Google nabízí hyperpočítače s miliony vlastních AI čipů",
+      "url": "https://www.lupa.cz/clanky/podivejte-se-co-asi-budi-sefa-nvidie-ze-spani-google-nabizi-hyperpocitace-miliony-vlastnich-ai-cipu/",
+      "source": "Lupa.cz",
+      "category": "business",
+      "summary_cs": [
+        "Google představil novou generaci čipů TPU rozdělenou na dvě verze, ze kterých skládá tzv. AI hyperpočítače dosahující milionů jednotek.",
+        "Nabídka cílí na největší zákazníky, kteří potřebují trénovat frontier modely a chtějí alternativu k Nvidia GPU.",
+        "Krok zvyšuje konkurenční tlak na Nvidii a zároveň posiluje pozici Google Cloud v souboji s AWS a Azure o AI workload."
+      ],
+      "why_matters": "Pokud Google reálně škáluje TPU farm, mění to ekonomiku frontier modelů a znamená to méně závislosti na Nvidii."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Musk versus Altman: soud rozhoduje o budoucnosti OpenAI před IPO",
+      "title_orig": "Elon Musk and Sam Altman are going to court over OpenAI's future",
+      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "source": "MIT Technology Review",
+      "category": "business",
+      "summary_cs": [
+        "Po letech sporů začal v severní Kalifornii proces, který má rozhodnout, zda OpenAI smí pokračovat jako for-profit firma.",
+        "Soud může mít sweeping consequences včetně potenciálního odvolání Sama Altmana z vedení společnosti.",
+        "Případ začíná těsně před plánovaným IPO OpenAI a porotci podle reportů z výběru projevili spíše chladný vztah k Muskovi."
+      ],
+      "why_matters": "Verdikt může zásadně ovlivnit corporate strukturu OpenAI a vyšle signál ostatním nonprofit-to-forprofit AI labům."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Čína zablokovala akvizici Manus Metou, americko-čínská AI rivalita se prohlubuje",
+      "title_orig": "China kills Meta's acquisition of Manus as US-China AI rivalry deepens",
+      "url": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
+      "source": "Ars Technica",
+      "category": "business",
+      "summary_cs": [
+        "Čínský regulátor po mnohaměsíčním šetření zablokoval převzetí čínského agentického startupu Manus americkou Metou za 2 miliardy USD.",
+        "Případ ukazuje, jak komplikované je pro tech zakladatele vystoupit z čínského ekosystému a najít exit směrem do USA.",
+        "Krok zapadá do širšího trendu, kdy Peking i Washington stále silněji blokují cross-border AI investice z národně-bezpečnostních důvodů."
+      ],
+      "why_matters": "Geopolitická bariéra v AI sílí a evropské firmy se mohou stát preferovanou neutrální půdou pro M&A."
+    },
+    {
+      "rank": 14,
+      "title_cs": "OpenAI údajně chystá telefon, kde místo aplikací vládnou AI agenti",
+      "title_orig": "OpenAI could be making a phone with AI agents replacing apps",
+      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "source": "TechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Analytik Ming-Chi Kuo tvrdí, že OpenAI vyvíjí vlastní telefon ve spolupráci s MediaTekem, Qualcommem a montážním partnerem Luxshare.",
+        "Zařízení by mělo postavit UX kolem AI agentů, kteří nahrazují tradiční aplikace, ne na kachlích jako iOS nebo Android.",
+        "Souvisí to s dřívějšími úniky o sluchátkách OpenAI a hardwarovém projektu Jonyho Iva, do kterého OpenAI loni investovalo."
+      ],
+      "why_matters": "Kdyby OpenAI dotáhlo hardware s agenty místo aplikací, mohlo by to nakousnout 20 let starý mobilní paradigmat."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Talkie: 13B jazykový model trénovaný výhradně na textech do roku 1931",
+      "title_orig": "Introducing talkie: a 13B vintage language model from 1930",
+      "url": "https://simonwillison.net/2026/Apr/28/talkie/",
+      "source": "Simon Willison",
+      "category": "wildcard",
+      "summary_cs": [
+        "Tým Nick Levine, David Duvenaud a Alec Radford vydali talkie, 13B model trénovaný na 260 miliardách tokenů anglického textu z období před rokem 1931.",
+        "Existuje ve dvou variantách: čistý base (53,1 GB) a instruct verze (26,6 GB) finetuněná na otázky a odpovědi z dobových referenčních příruček.",
+        "Trénovací data jsou zcela mimo copyright a model je k dispozici pod licencí Apache 2.0, takže si ho lze stáhnout a vyzkoušet."
+      ],
+      "why_matters": "Vintage model je experimentem na hraně archeologie a AI a důkazem, že čistá copyright-free data jsou stále realistická cesta."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-08",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Přichází 'Tokenpocalypsa'? Ceny za AI nejspíš porostou",
+      "title_orig": "Is this the dawn of the Tokenpocalypse?",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "TechCrunch upozorňuje, že velké AI firmy nejspíš čeká vlna zdražování přístupu ke svým modelům.",
+        "Důvodem je tlak na ziskovost před chystanými vstupy na burzu, kdy investoři chtějí zdravější marže.",
+        "Dosud nízké ceny za používání modelů byly silně konkurenční, do budoucna ale můžou výrazně růst."
+      ],
+      "why_matters": "Levný přístup k AI nemusí vydržet, vyšší ceny pocítí i čeští vývojáři a firmy."
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI dál pracuje na 'super aplikaci', samotný chat prý už nestačí",
+      "title_orig": "OpenAI is still working on that 'super app'",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Podle vyjádření jednoho z vysoce postavených lidí z OpenAI je samotný chat jako forma už překonaný.",
+        "Firma podle TechCrunche dál vyvíjí takzvanou super aplikaci, která by spojila víc funkcí na jednom místě.",
+        "Cílem je posunout ChatGPT od okna s konverzací k širší platformě pro každodenní úkoly."
+      ],
+      "why_matters": "Naznačuje, kam míří hlavní hráč v AI a jak se může změnit používání chatbotů."
+    },
+    {
+      "rank": 3,
+      "title_cs": "AI agenti vyřešili psaní kódu a odhalili všechny ostatní problémy ve vývoji",
+      "title_orig": "Agentic AI solved coding - and exposed every other problem in software engineering",
+      "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "AI agenti dnes generují víc kódu než kdy dřív, produkty se ale nezlepšují stejně rychlým tempem.",
+        "Autor připomíná, že samotné psaní kódu nikdy nebylo tím hlavním úzkým hrdlem vývoje.",
+        "Skutečně těžké zůstává definovat správné zadání, propojit složité systémy a software dlouhodobě udržovat."
+      ],
+      "why_matters": "Ukazuje, že zrychlení psaní kódu samo o sobě lepší produkty nepřinese."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Umělé 'tvůrce obsahu' jde rozpoznat čím dál hůř",
+      "title_orig": "AI 'content creators' are getting harder to spot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "source": "The Verge AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Umělé influencery a tvůrce obsahu šlo zpočátku celkem snadno odhalit, dnes už to tak jednoduché není.",
+        "Generovaná videa a profily působí stále věrohodněji a běžný divák je od skutečných lidí těžko odliší.",
+        "The Verge popisuje, jak se hranice mezi reálným a umělým obsahem na sítích postupně stírá."
+      ],
+      "why_matters": "Týká se každého, kdo sleduje sociální sítě a chce poznat, co je skutečné."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Wasmer postavil s pomocí Codexu běhové prostředí pro Node.js mnohem rychleji",
+      "title_orig": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "url": "https://openai.com/index/wasmer",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Firma Wasmer použila nástroj Codex s modelem GPT-5.5 k vývoji běhového prostředí Node.js pro edge zařízení.",
+        "Podle OpenAI se díky tomu vývoj zrychlil zhruba desetkrát až dvacetkrát.",
+        "Výsledek, který by jinak trval měsíce, byl podle firmy hotový během několika týdnů."
+      ],
+      "why_matters": "Konkrétní příklad, jak AI nástroje reálně zkracují vývoj softwaru z měsíců na týdny."
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenAI začíná v Michiganu stavět datacentrum o výkonu 1 GW v rámci projektu Stargate",
+      "title_orig": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zahájila v americkém Michiganu stavbu nového datacentra o výkonu jednoho gigawattu.",
+        "Projekt je součástí širší infrastruktury Stargate pro provoz a další rozvoj AI.",
+        "Firma slibuje rozšíření dostupnosti AI, nová pracovní místa a podporu místních komunit."
+      ],
+      "why_matters": "Ukazuje obří měřítko investic do energie a hardwaru, které dnešní AI pohánějí."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Přeživší školní střelby žaluje firmu, jejíž AI nerozpoznala zbraň",
+      "title_orig": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
+      "source": "Ars Technica",
+      "category": "wildcard",
+      "summary_cs": [
+        "Přeživší školní střelby podal žalobu na firmu, jejíž systém na detekci zbraní útočníka nezachytil.",
+        "Případ otevírá otázku, jak spolehlivá musí bezpečnostní AI být, než se na ni dá opravdu spolehnout.",
+        "Spor může ovlivnit, jakou odpovědnost ponesou dodavatelé podobných detekčních systémů."
+      ],
+      "why_matters": "Připomíná, že nasazení AI v bezpečnosti má reálné a vážné lidské důsledky."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Pojišťovna Travelers nasadila s OpenAI asistenta pro likvidaci pojistných událostí",
+      "title_orig": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Americká pojišťovna Travelers spustila s OpenAI asistenta, který provází klienty hlášením pojistných událostí.",
+        "Systém nabízí nepřetržitou podporu a má firmě pomoct zvládat nárazové špičky v počtu požadavků.",
+        "Nasazení míří na celostátní využití napříč zákazníky pojišťovny."
+      ],
+      "why_matters": "Příklad, jak velké firmy nasazují AI do zákaznických procesů v reálném provozu."
+    },
+    {
+      "rank": 9,
+      "title_cs": "OpenAI představila plán pro biologickou obranu ve věku umělé inteligence",
+      "title_orig": "Biodefense in the Intelligence Age",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zveřejnila akční plán, jak využít AI k posílení odolnosti proti biologickým hrozbám.",
+        "Materiál navazuje na dřívější závazky firmy omezovat zneužití modelů k vývoji nebezpečných látek.",
+        "Důraz klade na obranná opatření, sdílení informací a spolupráci s odborníky i státem."
+      ],
+      "why_matters": "Ukazuje, jak laboratoře řeší rizika AI v citlivé oblasti biologické bezpečnosti."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Když se změnil model Claude, změnilo se všechno: lekce o rizicích AI v provozu",
+      "title_orig": "When Claude changed, everything changed: Managing AI blast radius in production",
+      "url": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Tým postavil systém, který převádí běžné dotazy v přirozeném jazyce na volání aplikačního rozhraní.",
+        "Když poskytovatel aktualizoval model Claude, chování systému se nečekaně proměnilo a odhalilo skrytá rizika.",
+        "Článek radí, jak omezit dopad takových změn a stavět AI systémy odolnější vůči aktualizacím modelů."
+      ],
+      "why_matters": "Varování pro firmy, které staví produkty na cizích AI modelech, jež se mění."
+    },
+    {
+      "rank": 11,
+      "title_cs": "AI agenti se učí za pochodu, ale jen pro jednoho člověka, ne pro celý tým",
+      "title_orig": "AI agents are learning on the job - just not for your whole team",
+      "url": "https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Když jeden člen týmu vylepší práci AI agenta, kolegovi se stejný nástroj otevře zase od nuly.",
+        "Bez sdílené paměti si každý uživatel fakticky trénuje vlastní verzi téhož agenta.",
+        "Problém se násobí v týmových postupech, kde agenti mají naopak sdílet kontext mezi lidmi a úkoly."
+      ],
+      "why_matters": "Klíčová překážka, proč AI agenti zatím nepřinášejí týmům slibovaný plošný užitek."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Zakladatel Kiwi.com: nikdy jsme nepanikařili, firma je menší a prostupuje ji AI",
+      "title_orig": null,
+      "url": "https://cc.cz/v-kiwi-com-jsme-nikdy-nebyli-v-panice-ztratu-mame-pod-kontrolou-rika-oliver-dlouhy-a-pousti-se-do-piva/",
+      "source": "CzechCrunch",
+      "category": "news",
+      "summary_cs": [
+        "Oliver Dlouhý v podcastu Money Maker popisuje, jak se Kiwi.com v posledních letech výrazně proměnilo.",
+        "Firma je dnes podle něj menší a umělá inteligence prostupuje jejím fungováním.",
+        "Dlouhý zároveň oznámil, že se pouští do nového byznysu kolem piva."
+      ],
+      "why_matters": "Pohled na to, jak známá česká tech firma přestavuje provoz kolem AI."
+    },
+    {
+      "rank": 13,
+      "title_cs": "MacArena: nový test pro AI agenty ovládající počítač v prostředí macOS",
+      "title_orig": "MacArena: Benchmarking Computer Use Agents on an Online macOS Environment",
+      "url": "https://arxiv.org/abs/2606.06560",
+      "source": "ArXiv cs.LG",
+      "category": "research",
+      "summary_cs": [
+        "Vědci představili MacArenu, prostředí pro testování AI agentů, kteří ovládají grafické rozhraní počítače.",
+        "Zaměřuje se na macOS, který dosud zůstával oproti jiným systémům v testování opomíjený.",
+        "Stávající testy podle autorů pokrývaly jen úzkou část aplikací a běžely na nekompatibilním hardwaru."
+      ],
+      "why_matters": "Lepší testy agentů ovládajících počítač pomáhají měřit jejich skutečnou použitelnost."
+    },
+    {
+      "rank": 14,
+      "title_cs": "OpenSkill: AI agent, který se v otevřeném světě učí dovednosti sám od nuly",
+      "title_orig": "OpenSkill: Open-World Self-Evolution for LLM Agents",
+      "url": "https://arxiv.org/abs/2606.06741",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Studie řeší, jak se může AI agent zlepšovat i bez připravených dovedností a hotových příkladů úspěchu.",
+        "Navržený rámec OpenSkill si sám vytváří dovednosti i způsob, jak ověřit, že práci odvedl správně.",
+        "Vychází přitom jen ze zadání úkolu a běžně dostupných zdrojů, bez dohledu na konkrétní cíl."
+      ],
+      "why_matters": "Posouvá AI agenty blíž k samostatnému zlepšování v reálných, nepřipravených podmínkách."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Přeskočit vrstvu, nebo ji zopakovat? Pružnější běh velkých jazykových modelů",
+      "title_orig": "Skip a Layer or Loop It? Learning Program-of-Layers in LLMs",
+      "url": "https://arxiv.org/abs/2606.06574",
+      "source": "ArXiv cs.LG",
+      "category": "research",
+      "summary_cs": [
+        "Velké jazykové modely běžně procházejí všemi svými vrstvami ve stejném pořadí a hloubce.",
+        "Autoři ukazují, že vrstvy lze podle vstupu přeskakovat nebo opakovat, a to bez dalšího trénování.",
+        "U mnoha vstupů tak kratší průchod dosáhne stejné nebo i lepší přesnosti než původní model."
+      ],
+      "why_matters": "Naznačuje cestu, jak modely zrychlit a zlevnit bez ztráty kvality odpovědí."
+    }
+  ]
+}

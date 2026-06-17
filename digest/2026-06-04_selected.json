@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-04",
+  "articles": [
+    {
+      "rank": 1,
+      "category": "labs",
+      "url": "https://www.bensbites.com/p/opus-48",
+      "source": "Ben's Bites",
+      "title_cs": "Anthropic vydává Claude Opus 4.8 s důrazem na kódování a agentické úlohy",
+      "title_orig": "Opus 4.8",
+      "summary_cs": [
+        "Anthropic představil novou verzi svého vlajkového modelu Claude Opus 4.8 zaměřenou na náročnější kódování a agentické úlohy.",
+        "Součástí vydání jsou funkce Dynamic Workflows a nástroj ultracode pro plynulejší práci vývojářů s agenty.",
+        "Model navazuje na řadu Opus a cílí na firmy, které nasazují AI do složitějších pracovních postupů."
+      ],
+      "why_matters": "Špička modelů se znovu posouvá, konkurenční tlak na OpenAI a Google poroste."
+    },
+    {
+      "rank": 2,
+      "category": "labs",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "source": "OpenAI Blog",
+      "title_cs": "OpenAI rozšiřuje GPT-Rosalind o pokročilé schopnosti pro vědu o živé přírodě",
+      "title_orig": "Introducing new capabilities to GPT-Rosalind",
+      "summary_cs": [
+        "OpenAI vylepšil specializovaný model GPT-Rosalind o silnější biologické uvažování a znalosti v medicinální chemii.",
+        "Model nově zvládá analýzu genomiky a podporu při návrhu a plánování experimentů.",
+        "Cílí na výzkumníky v oblasti life sciences, kterým má urychlit objevování léčiv a vědeckou práci."
+      ],
+      "why_matters": "AI proniká hlouběji do biomedicíny, kde může urychlit vývoj nových léků."
+    },
+    {
+      "rank": 3,
+      "category": "open-source",
+      "url": "https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop",
+      "source": "VentureBeat AI",
+      "title_cs": "Google vydal otevřený model Gemma 4 12B, který běží na běžném notebooku",
+      "title_orig": "Google's new open source Gemma 4 12B analyzes audio, video and runs entirely locally on a typical 16GB enterprise laptop",
+      "summary_cs": [
+        "Google uvolnil otevřený model Gemma 4 s necelými 12 miliardami parametrů a volnou licencí Apache 2.0.",
+        "Model rozumí textu, zvuku i videu a zvládne běžet plně lokálně na notebooku s 16 GB paměti.",
+        "Firmy ho mohou používat offline a bezpečně, bez nutnosti posílat data do cloudu."
+      ],
+      "why_matters": "Schopná AI běží přímo v zařízení, levně a bez závislosti na internetu."
+    },
+    {
+      "rank": 4,
+      "category": "wildcard",
+      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "source": "The Verge AI",
+      "title_cs": "Amazon začne ve vyhledávání ukazovat AI obrázky produktů, které nemůžete koupit",
+      "title_orig": "Amazon's search bar will invent AI-generated products you can't buy",
+      "summary_cs": [
+        "Amazon přidává do vyhledávacího pole obrázky produktů generované AI podle toho, jak je popíšete.",
+        "Zatím funkce nabízí jen oblečení a bytové doplňky, po klepnutí hledá podobně vypadající zboží.",
+        "Zobrazené produkty fyzicky neexistují a slouží jako vizuální inspirace pro hledání."
+      ],
+      "why_matters": "Ukazuje, jak AI mění nakupování, ale i riziko matoucích nereálných nabídek."
+    },
+    {
+      "rank": 5,
+      "category": "wildcard",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "source": "TechCrunch AI",
+      "title_cs": "Google Dreambeans promění váš život v ilustrovaný kreslený příběh",
+      "title_orig": "Google's Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "summary_cs": [
+        "Dreambeans je nový nástroj Googlu, který z dat ve vašem účtu skládá ilustrované příběhy.",
+        "AI z fotek, kalendáře a dalších záznamů vytvoří kreslené verze vašich zážitků.",
+        "Jde o kurátorovaný výběr příběhů generovaných z osobních dat uživatele."
+      ],
+      "why_matters": "Otevírá otázky soukromí, když AI zpracovává osobní data do zábavného obsahu."
+    },
+    {
+      "rank": 6,
+      "category": "business",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "source": "The Verge AI",
+      "title_cs": "Google slibuje vrátit komunitám víc vody, než jeho datacentra spotřebují",
+      "title_orig": "AI has a water problem - Google thinks it has a fix",
+      "summary_cs": [
+        "Google reaguje na kritiku spotřeby vody v datacentrech pěti novými závazky k hospodaření s vodou.",
+        "Cílem je doplnit do místních zdrojů více vody, než kolik provoz datacenter spotřebuje.",
+        "Krok přichází uprostřed sílící veřejné nevole vůči rychlé výstavbě AI datacenter."
+      ],
+      "why_matters": "Spotřeba zdrojů AI je rostoucí téma i pro českou veřejnost a regulaci."
+    },
+    {
+      "rank": 7,
+      "category": "tools",
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
+      "source": "Wired AI",
+      "title_cs": "Nvidia chce čipy RTX Spark konečně proměnit AI PC ve skutečnost",
+      "title_orig": "Nvidia's RTX Spark Laptops Look Hell-Bent on Disruption",
+      "summary_cs": [
+        "Nvidia uvádí čipy a notebooky RTX Spark, které mají zvládat náročné AI úlohy přímo v zařízení.",
+        "Podle Wired by tato generace mohla konečně proměnit dlouho slibované AI PC ve skutečnost.",
+        "Výkon pro běh modelů by se tak přesouval z cloudu blíž k uživateli."
+      ],
+      "why_matters": "Lokální AI hardware zlevňuje a zpřístupňuje výkon dosud vázaný na cloud."
+    },
+    {
+      "rank": 8,
+      "category": "labs",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+      "source": "Ars Technica",
+      "title_cs": "Microsoft představil Project Solara, systém pro Android stavěný pro agenty místo aplikací",
+      "title_orig": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+      "summary_cs": [
+        "Microsoft ukázal Project Solara, experimentální systém na bázi Androidu navržený kolem AI agentů, ne klasických aplikací.",
+        "Místo otevírání jednotlivých aplikací mají úkoly vyřizovat agenti přímo v systému.",
+        "Projekt naznačuje, jak si Microsoft představuje budoucnost mobilních zařízení v éře agentů."
+      ],
+      "why_matters": "Naznačuje posun od aplikací k agentům, který může změnit ovládání telefonů."
+    },
+    {
+      "rank": 9,
+      "category": "labs",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "source": "TechCrunch AI",
+      "title_cs": "Anthropic rozšiřuje Claude Mythos do kritické infrastruktury v 15 zemích",
+      "title_orig": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+      "summary_cs": [
+        "Anthropic rozšiřuje program Project Glasswing a přístup k modelu Mythos na 150 organizací v 15 zemích.",
+        "Cílí na kritickou infrastrukturu v energetice, vodárenství, zdravotnictví a komunikacích.",
+        "Podle firmy by kyberútok na tyto systémy mohl zasáhnout až 100 milionů lidí."
+      ],
+      "why_matters": "Ukazuje, že AI se stává nástrojem obrany kritické infrastruktury před kyberútoky."
+    },
+    {
+      "rank": 10,
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "source": "TechCrunch AI",
+      "title_cs": "Meta zpřístupnila AI agenta pro WhatsApp Business po celém světě",
+      "title_orig": "Meta's AI agent for WhatsApp Business is now available globally",
+      "summary_cs": [
+        "Meta globálně spustila AI agenta pro firmy používající WhatsApp Business.",
+        "Agent má za firmy zvládat komunikaci se zákazníky přímo v chatu.",
+        "Firmy budou platit podle objemu zpracovaných tokenů, tedy množství komunikace."
+      ],
+      "why_matters": "Dává malým firmám levný kanál pro automatizovanou péči o zákazníky."
+    },
+    {
+      "rank": 11,
+      "category": "tools",
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "source": "TechCrunch AI",
+      "title_cs": "Microsoft uvolnil nástroj, který z textového popisu vytvoří testy chování AI",
+      "title_orig": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "summary_cs": [
+        "Microsoft představil otevřený nástroj pro tvorbu testů chování AI z prostého textového popisu.",
+        "Vývojáři tak mohou rychleji ověřovat, zda se model chová podle očekávání.",
+        "Framework je dostupný jako open source a míří na kontrolu kvality AI systémů."
+      ],
+      "why_matters": "Snazší testování AI pomáhá firmám nasazovat spolehlivější a bezpečnější modely."
+    },
+    {
+      "rank": 12,
+      "category": "business",
+      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+      "source": "The Verge AI",
+      "title_cs": "Britský regulátor nařídil Googlu nechat vydavatele opustit funkce AI vyhledávání",
+      "title_orig": "Google must let publishers opt out of AI Search features, rules UK",
+      "summary_cs": [
+        "Britský úřad CMA nařídil Googlu umožnit vydavatelům vyřadit obsah z funkcí jako AI Overviews.",
+        "Vlastníci webů tak mohou zabránit využití svého obsahu v AI shrnutích výsledků.",
+        "Rozhodnutí dává vydavatelům větší kontrolu nad tím, kde se jejich obsah objeví."
+      ],
+      "why_matters": "Evropská regulace AI vyhledávání může ovlivnit i české vydavatele a média."
+    },
+    {
+      "rank": 13,
+      "category": "business",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "source": "TechCrunch AI",
+      "title_cs": "Uber zastropoval výdaje zaměstnanců za AI, rozpočet vyčerpali za čtyři měsíce",
+      "title_orig": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "summary_cs": [
+        "Uber omezil, kolik mohou zaměstnanci utrácet za AI nástroje, po rychlém vyčerpání rozpočtu.",
+        "Firma přitom dříve zaměstnance vybízela, aby AI používali co nejvíc.",
+        "Případ ukazuje, jak rychle mohou náklady na AI nástroje narůst."
+      ],
+      "why_matters": "Připomíná firmám, že nadšení do AI nástrojů má i svou cenovou stránku."
+    },
+    {
+      "rank": 14,
+      "category": "research",
+      "url": "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+      "source": "Interconnects",
+      "title_cs": "Otevřené a uzavřené modely podle analýzy rostou po odlišných křivkách",
+      "title_orig": "Open and closed models are on different exponentials",
+      "summary_cs": [
+        "Analýza Nathana Lamberta tvrdí, že otevřené a uzavřené modely se vyvíjejí různým tempem.",
+        "Rozlišuje oblasti, kde se vyplatí o něco chytřejší model, a kde už přínos klesá.",
+        "Text nabízí rámec pro úvahy, kdy sáhnout po otevřeném a kdy po uzavřeném modelu."
+      ],
+      "why_matters": "Pomáhá firmám rozhodnout, kdy stačí levnější otevřený model místo špičkového."
+    },
+    {
+      "rank": 15,
+      "category": "research",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "source": "Anthropic News",
+      "title_cs": "Anthropic shrnul rok mapování kyberhrozeb využívajících AI",
+      "title_orig": "What we learned mapping a year's worth of AI-enabled cyber threats",
+      "summary_cs": [
+        "Anthropic zveřejnil poznatky z ročního sledování kyberhrozeb, které zneužívají AI.",
+        "Pozorování zařadil do uznávaného rámce MITRE ATT&CK pro popis útoků.",
+        "Cílem je pomoct obráncům lépe rozumět tomu, jak útočníci AI prakticky používají."
+      ],
+      "why_matters": "Konkrétní data o zneužití AI pomáhají firmám i státu připravit obranu."
+    }
+  ]
+}

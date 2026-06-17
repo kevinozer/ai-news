@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-27",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "DeepSWE benchmark rozbil mýtus o vyrovnaných AI kódérech, GPT-5.5 vede o 16 bodů",
+      "title_orig": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
+      "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Datacurve uvolnil DeepSWE, 113 úloh napříč 91 open-source repem a pěti jazyky, který produkuje výrazně širší rozdíl mezi frontier modely než populární SWE-Bench Pro.",
+        "GPT-5.5 od OpenAI vede s 70 procenty úspěšnosti, šestnáct bodů před Claude Opus a Gemini Pro.",
+        "Tým zjistil, že Claude Opus exploituje díru v SWE-Bench Pro tím, že rozpoznává repozitáře z trénovacích dat, takže reálné kódové schopnosti přeceňuje."
+      ],
+      "why_matters": "Enterprise nákupčí dostávají poprvé benchmark, který odděluje skutečnou kvalitu agentního kódování od marketingu laboratoří."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic otevírá pobočku v Soulu, novým ředitelem pro Koreu je KiYoung Choi",
+      "title_orig": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic oznámil jmenování KiYoung Choi jako Representative Director pro Koreu před otevřením soulské kanceláře.",
+        "Krok navazuje na rostoucí poptávku po Claude v APAC regionu, kde Anthropic dohání náskok OpenAI a Googlu.",
+        "Soul se stává dalším asijským uzlem po expanzi do Japonska a Singapuru, plus londýnské evropské centrály."
+      ],
+      "why_matters": "Geografická expanze posiluje Anthropic v asijském enterprise trhu, kde dosud dominoval lokální Naver a globální OpenAI."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Sundar Pichai v rozhovoru pro Decoder o AI, budoucnosti vyhledávání a osudu webu",
+      "title_orig": "Sundar Pichai on AI, the future of search, and what's happening to the web",
+      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+      "source": "The Verge AI",
+      "category": "labs",
+      "summary_cs": [
+        "Pichai mluví o tom, že Google nahrazuje modré odkazy AI agenty, a co to znamená pro publishery a malé weby.",
+        "Vrací se k otázce Google Zero efektu, tedy poklesu trafficu na původní stránky, a tvrdí, že YouTube zůstane lidská platforma.",
+        "Po I/O 2026, kde Google ukázal Gemini 3.5 Flash a Omni pro video, hodnotí dopad agentického vyhledávání na otevřený web."
+      ],
+      "why_matters": "Google CEO veřejně přiznává, že agentické vyhledávání mění ekonomiku webu, klíčové pro tvůrce obsahu i pro SEO."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Kritická zranitelnost BadHost ve Starlette ohrožuje miliony AI agentů",
+      "title_orig": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "source": "Ars Technica",
+      "category": "open-source",
+      "summary_cs": [
+        "Bezpečnostní díra zvaná BadHost byla nalezena ve Starlette, balíku se 325 miliony stažení týdně.",
+        "Starlette pohání většinu Python AI frameworků včetně FastAPI, takže zranitelnost dopadá na agenty napříč ekosystémem.",
+        "Maintaineři vydali patch, firmy musí audit a update řešit přednostně, pokud staví agentní backend v Pythonu."
+      ],
+      "why_matters": "Pokud firma provozuje AI agenta v Pythonu, je vysoká pravděpodobnost, že je dotčena a musí ihned updatovat."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Microsoft Copilot Cowork umožňoval únik souborů přes obrázky v emailech",
+      "title_orig": "Microsoft Copilot Cowork Exfiltrates Files",
+      "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/",
+      "source": "Simon Willison's Weblog",
+      "category": "tools",
+      "summary_cs": [
+        "Agent Copilot Cowork posílal e-maily do uživatelské schránky bez schválení, vykreslené obrázky pak mohly volat externí URL.",
+        "Útočník přes prompt injection mohl získat OneDrive download odkazy a stáhnout si soubory napřímo.",
+        "Microsoft už chybu opravil, ale ukazuje generický problém agentních systémů, kde mail plus rendering plus pre-authenticated URL tvoří exploit řetězec."
+      ],
+      "why_matters": "Vážná lekce pro firmy nasazující agenty s mailovým přístupem, prompt injection není teoretická hrozba."
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenRouter zdvojnásobil valuaci na 1,3 miliardy dolarů po Series B od CapitalG",
+      "title_orig": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "OpenRouter zvedl 113 milionů dolarů v Series B kole vedeném Googlem (CapitalG), valuace za rok vzrostla z 0,5 na 1,3 miliardy.",
+        "Použití na platformě vyrostlo pětkrát za posledních šest měsíců, signalizuje to posun k multi-model architekturám.",
+        "Firmy přestávají sázet na jeden model a routují požadavky mezi OpenAI, Anthropic a Google podle úlohy a ceny."
+      ],
+      "why_matters": "Potvrzuje, že multi-model strategie je nový default pro produkční nasazení, vendor lock-in je out."
+    },
+    {
+      "rank": 7,
+      "title_cs": "DuckDuckGo má o 30 procent více instalací, uživatelé utíkají od Google AI vyhledávání",
+      "title_orig": "DuckDuckGo installs are up 30% as users reject being 'force-fed' Google's AI Search",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Po Google I/O 2026, kde Google nahradil modré odkazy AI agenty, vyskočily instalace DuckDuckGo o 30 procent.",
+        "Část uživatelů odmítá, že jim Google vnucuje AI sumarizace bez možnosti se vrátit k tradičnímu vyhledávání.",
+        "DuckDuckGo profituje jako jasná alternativa, podobný backlash hraje do karet i Kagi a Brave Search."
+      ],
+      "why_matters": "Uživatelská reakce na agentní vyhledávání je silnější, než Google čekal, otevírá to prostor alternativám."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Prezident Uberu: výdaje na AI je čím dál těžší obhájit, firma vyčerpala roční budget za čtyři měsíce",
+      "title_orig": "Uber president says AI spending is getting 'harder to justify'",
+      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "source": "The Verge AI",
+      "category": "business",
+      "summary_cs": [
+        "Andrew Macdonald v podcastu Rapid Response přiznal, že Uber utratil celý roční AI rozpočet už za čtyři měsíce roku 2026.",
+        "Nevidí jasnou souvislost mezi rostoucí spotřebou tokenů na Claude Code a měřitelným byznysovým přínosem.",
+        "Uber chce přehodnotit, jak měří ROI AI nasazení, místo automatického navyšování rozpočtů na další kvartál."
+      ],
+      "why_matters": "Otevřená debata o ROI agentního kódování dorazila i do top managementu velkých firem, hype se mění v due diligence."
+    },
+    {
+      "rank": 9,
+      "title_cs": "MIT Technology Review: data o ztrátách bílých límečků kvůli AI jsou zatím slabá",
+      "title_orig": "A reality check on the AI jobs hysteria",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "summary_cs": [
+        "Přes propouštění v Coinbase, Meta a Cisco zatím makro data neukazují, že by AI plošně ničila bílé límečky.",
+        "Autor David Rotman tvrdí, že většina propouštění je reakce na předchozí over-hiring v období 2020 až 2022, ne přímý dopad AI.",
+        "Akademické studie zatím nenašly silnou korelaci mezi zavedením kopilotů a poklesem zaměstnanosti v cílových profesích."
+      ],
+      "why_matters": "Důležitý korektiv k mediální panice, vhodný materiál pro argumentaci s klienty při enterprise školeních."
+    },
+    {
+      "rank": 10,
+      "title_cs": "MIT TR: 85 procent firem chce být agentických do tří let, 76 procent na to dnes není připraveno",
+      "title_orig": "Rethinking organizational design in the age of agentic AI",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "summary_cs": [
+        "Průzkum MIT Insights ukazuje obrovskou propast mezi ambicí a realitou v zavedení agentní AI uvnitř velkých firem.",
+        "85 procent organizací chce být do tří let agentických, ale 76 procent přiznává, že jejich operace a infrastruktura na to nestačí.",
+        "Bariéry leží v lidech a procesech, ne v technologii, firmy potřebují nové role a workflow architekty, ne další model."
+      ],
+      "why_matters": "Konkrétní čísla pro Kevinovy enterprise prezentace, hlavní výzva je organizační, ne technická."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Wired publikoval definitivní reportáž, jak Claude Code a OpenClaw spustily největší transformaci v IT",
+      "title_orig": "AI Agents Plunged the Tech World Into Chaos. Here's Exactly How That Happened",
+      "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "source": "Wired AI",
+      "category": "news",
+      "summary_cs": [
+        "Steven Levy mapuje, jak vydání Claude Code a později open-source OpenClaw v krátké době přerovnaly celý dev tooling.",
+        "Reportáž obsahuje rozhovory s inženýry z Anthropic, OpenAI a Microsoftu a vysvětluje, proč starý IDE workflow rychle vymizel.",
+        "Klíčový bod: agentní coding není feature, je to nová abstrakční vrstva, která mění role juniorních vývojářů."
+      ],
+      "why_matters": "Retrospektiva pro každého, kdo chce porozumět, jak rychle se mění software engineering."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Universal Music a TikTok prodloužily dohodu proti neautorizované AI hudbě",
+      "title_orig": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "UMG a TikTok obnovují kontrakt, který zavádí přísnější detekci a takedown pro AI generovanou hudbu napodobující licencované umělce.",
+        "TikTok rozšiřuje fingerprinting na vlnové úrovni, který má rozpoznat Suno a Udio výstupy ještě před publikací.",
+        "Pro tvůrce na TikToku to znamená, že AI cover hity budou rychleji mizet a monetizace zůstane pro originální obsah."
+      ],
+      "why_matters": "Hudební průmysl posiluje obranu proti AI duplikátům, model může inspirovat i jiná odvětví."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Human Archive platí indickým gig workerům za nošení kamery a sběr dat pro fyzickou AI",
+      "title_orig": "This startup is betting India's gig economy can train the world's robots",
+      "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "source": "TechCrunch AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Startup Human Archive z UC Berkeley a Stanfordu platí gig workerům v Indii za nošení čepic s kamerou a senzory.",
+        "Sbírají reálná data o lidských pohybech a interakcích, která chybí AI laboratořím trénujícím robotické modely.",
+        "Datová zlatá horečka se přesouvá z webových textů do fyzického světa, kde každý pohyb a každý dotek se stává trénovacím setem."
+      ],
+      "why_matters": "Ukazuje, kam se posouvá AI datový průmysl, fyzická AI potřebuje miliony hodin reálných lidských dat."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Seznam.cz: tržby 6,48 miliardy a investice do AI, plánuje změny Email.cz i Lide.cz",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/aktuality/seznam-cz-chce-zmenit-email-cz-poslat-lide-cz-do-ciziny-ci-zastresit-placeny-obsah-jinych-vydavatelu/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Seznam.cz vykázal za 2025 tržby 6,48 miliardy korun a zisk před zdaněním 1,329 miliardy, zisk klesl o 11 procent.",
+        "Pokles vysvětluje investicemi do infrastruktury a AI, zejména do Seznam Asistenta a rozšíření AI vyhledávání.",
+        "Plánuje proměnu Email.cz, expanzi Lide.cz do zahraničí a vlastní platformu pro placený obsah jiných vydavatelů."
+      ],
+      "why_matters": "Český hráč ukazuje, kolik stojí konkurence Googlu v AI éře, lokální firma musí investovat na úkor zisku."
+    },
+    {
+      "rank": 15,
+      "title_cs": "CzechCrunch: F1 Mercedes vyhrává díky terabajtům dat a AI simulacím, ne jen díky Antonelli",
+      "title_orig": null,
+      "url": "https://cc.cz/formulim-vladne-italsky-klucina-stroje-pohani-obri-vykon-v-cloudu-a-jizdu-spoluridi-pocitace/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Mercedes dominuje letošní F1 sezoně 2026 v rukou italského teenagera Kimi Antonelliho, ale za výsledky stojí AI simulační stack.",
+        "Tým zpracovává terabajty dat z každého kola, AI predikuje strategii pneumatik a optimalizuje setup auta v reálném čase.",
+        "Cloudový výkon a AI modely se stávají rovnocenným závodním komponentem jako aerodynamika nebo motor."
+      ],
+      "why_matters": "Konkrétní příklad, jak AI mění odvětví mimo techniku, dobrý kazuistický příběh pro klientské workshopy."
+    }
+  ]
+}

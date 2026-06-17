@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-07",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic důvěrně podal koncept S-1 americké komisi SEC",
+      "title_orig": "Anthropic confidentially submits draft S-1 to the SEC",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "source": "Anthropic News",
+      "category": "business",
+      "summary_cs": [
+        "Anthropic potvrdil, že důvěrně předložil koncept registračního dokumentu S-1 americké Komisi pro cenné papíry.",
+        "Podání S-1 je standardní krok firem, které zvažují vstup na burzu, samotné IPO ale zatím není potvrzené.",
+        "Načasování i počet nabízených akcií budou záviset na schválení regulátora a podmínkách na trhu."
+      ],
+      "why_matters": "Možný vstup Anthropicu na burzu by byl jedním z největších AI IPO a měřítkem důvěry trhu."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Apple na WWDC 2026 chystá zásadní přepracování Siri a Apple Intelligence",
+      "title_orig": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Hlavní očekávanou novinkou konference WWDC je dlouho odkládaná modernizace hlasového asistenta Siri.",
+        "Apple má představit další vylepšení balíku funkcí Apple Intelligence napříč svými zařízeními.",
+        "Spekuluje se i o hlubší spolupráci s externími modely, detaily ale Apple potvrdí až na akci."
+      ],
+      "why_matters": "Apple v AI zaostává za konkurencí, povedená Siri rozhodne o jeho pozici u běžných uživatelů."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Trumpova administrativa zvažuje majetkový podíl v OpenAI",
+      "title_orig": "The Trump administration might take an equity stake in OpenAI",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Prezident Donald Trump uvedl, že jedná o dohodách, z nichž by mohli těžit i američtí občané.",
+        "Jednou z variant je podle něj majetkový podíl státu v úspěšných AI firmách včetně OpenAI.",
+        "Jde zatím o prohlášení bez konkrétních podmínek, OpenAI se k možné dohodě oficiálně nevyjádřila."
+      ],
+      "why_matters": "Státní podíl v OpenAI by propojil vládu s nejhodnotnější AI firmou a vyvolal otázky o vlivu."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Microsoft na konferenci Build ukázal modely MAI-Thinking-1 a rodinu MAI",
+      "title_orig": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
+      "url": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
+      "source": "Latent Space",
+      "category": "labs",
+      "summary_cs": [
+        "Microsoft na své vývojářské konferenci Build představil novou rodinu vlastních modelů MAI.",
+        "Mezi nimi je i model MAI-Thinking-1 zaměřený na složitější uvažování a řešení úloh.",
+        "Vlastní modely mají Microsoftu snížit závislost na technologiích od OpenAI."
+      ],
+      "why_matters": "Microsoft staví vlastní špičkové modely a snižuje závislost na OpenAI, mění se rovnováha mezi partnery."
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI rozšiřuje Codex z nástroje pro kód na pomocníka pro běžnou práci",
+      "title_orig": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI v reportu popisuje, jak se Codex mění z nástroje pro programátory na asistenta pro širší okruh profesí.",
+        "Mezi uváděné využití patří rešerše, analýza dat, automatizace pracovních postupů a tvorba obsahu.",
+        "Cílem je ukázat Codex jako produktivní pomůcku i pro lidi mimo vývoj softwaru."
+      ],
+      "why_matters": "Posun Codexu k běžné kancelářské práci rozšiřuje okruh lidí, kterým může AI ušetřit čas."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Meta spustila vlastní kanál s clickbaitovými články generovanými AI",
+      "title_orig": "Meta made its own AI-generated clickbait news feed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "source": "The Verge AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Samostatná aplikace Meta AI nově nabízí sekci Pro tebe se seznamem bulvárně laděných článků.",
+        "Témata, obrázky i texty těchto příspěvků generuje umělá inteligence, kvalita je podle The Verge sporná.",
+        "Meta tak sama vyrábí přesně ten typ obsahu, kterým je Facebook dlouhodobě kritizován."
+      ],
+      "why_matters": "Automaticky generovaný bulvár od velké platformy zhoršuje už tak vážný problém s kvalitou obsahu online."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Firmy řeší, jak zkrotit prudce rostoucí náklady na provoz AI",
+      "title_orig": "The token bill comes due: Inside the industry scramble to manage AI's runaway costs",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Podle TechCrunch se v oboru obrací pozornost od rychlého škálování k hlídání nákladů za tokeny.",
+        "Firmy zavádějí limity, monitoring a další pojistky, aby provoz AI nepřerostl rozpočty.",
+        "Diskuse se posunula od hesla jet naplno k otázce, jak spotřebu kontrolovat."
+      ],
+      "why_matters": "Náklady na provoz AI začínají rozhodovat o tom, které projekty firmám dávají ekonomický smysl."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Anthropic rozšiřuje program Glasswing na zhruba 150 nových organizací",
+      "title_orig": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic rozšiřuje iniciativu Project Glasswing na přibližně 150 nových organizací ve více než patnácti zemích.",
+        "Program míří na nasazení nástrojů Anthropicu u dalších institucí mimo dosavadní okruh.",
+        "Rozšíření navazuje na dřívější kroky firmy v oblasti veřejně prospěšného využití AI."
+      ],
+      "why_matters": "Anthropic rozšiřuje dosah svých nástrojů do dalších zemí a institucí, roste tím jeho vliv."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Endava přestavuje vývoj softwaru kolem AI agentů ve spolupráci s OpenAI",
+      "title_orig": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "source": "OpenAI Blog",
+      "category": "tools",
+      "summary_cs": [
+        "Technologická firma Endava popisuje, jak přebudovává dodávku softwaru kolem AI agentů.",
+        "Případová studie OpenAI ukazuje konkrétní zapojení agentů do vývojových procesů.",
+        "Cílem je zrychlit a zefektivnit jednotlivé kroky tvorby a údržby softwaru."
+      ],
+      "why_matters": "Konkrétní firemní nasazení agentů ukazuje, jak se reálně mění práce vývojových týmů."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Přicházíme kvůli AI chatbotům o kontrolu nad vlastním myšlením?",
+      "title_orig": "Are AI chatbots making us lose control of our brains?",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "source": "MIT Technology Review",
+      "category": "wildcard",
+      "summary_cs": [
+        "MIT Technology Review otevírá otázku, jak časté používání chatbotů ovlivňuje naši pozornost a myšlení.",
+        "Text vychází z rozhovoru s psycholožkou, která tři desetiletí zkoumá vztah lidí a digitálních technologií.",
+        "Téma rezonovalo i na konferenci SXSW v Londýně, kde se hodně mluvilo o dopadech AI."
+      ],
+      "why_matters": "Vliv AI na soustředění a samostatné myšlení se týká každého, kdo chatboty denně používá."
+    },
+    {
+      "rank": 11,
+      "title_cs": "OpenAI zveřejnila svůj program pro oblast veřejné politiky",
+      "title_orig": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI představila dokument shrnující své priority v oblasti veřejné politiky a regulace AI.",
+        "Firma v něm popisuje, jak by podle ní měly státy k rozvoji a dohledu nad AI přistupovat.",
+        "Materiál navazuje na dřívější vyjádření OpenAI k politice a vládní spolupráci."
+      ],
+      "why_matters": "Postoje největších AI firem k regulaci ovlivní pravidla, podle kterých se bude AI vyvíjet i v Evropě."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Metoda DPO se ukazuje jako užitečná i mimo trénink chatbotů",
+      "title_orig": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "source": "Hugging Face Blog",
+      "category": "research",
+      "summary_cs": [
+        "Článek na Hugging Face popisuje využití metody Direct Preference Optimization nad rámec ladění chatbotů.",
+        "DPO je technika, kterou se modely učí podle lidských preferencí bez složitějšího posilovaného učení.",
+        "Autoři ukazují, jak stejný přístup pomáhá i v jiných typech úloh."
+      ],
+      "why_matters": "Jednodušší ladění modelů podle preferencí může zrychlit vývoj v širší oblasti AI aplikací."
+    },
+    {
+      "rank": 13,
+      "title_cs": "IBM tvrdí, že firemní nasazení AI závisí na logice agentů, ne jen na modelech",
+      "title_orig": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "source": "Hugging Face Blog",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci IBM argumentují, že úspěšné firemní nasazení AI stojí na takzvané logice agentů, ne jen na samotných modelech.",
+        "Podle nich rozhoduje způsob, jakým agenti plánují kroky a propojují se s firemními systémy.",
+        "Text řadí jazykové modely jen jako jednu část většího celku."
+      ],
+      "why_matters": "Pohled posouvá pozornost firem od výběru modelu k tomu, jak agenty spolehlivě zapojit do provozu."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Simon Willison ukazuje bezpečné spouštění Pythonu přes MicroPython a WebAssembly",
+      "title_orig": "Running Python code in a sandbox with MicroPython and WASM",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+      "source": "Simon Willison's Weblog",
+      "category": "tools",
+      "summary_cs": [
+        "Vývojář Simon Willison vydal alfa verzi balíčku micropython-wasm pro bezpečné spouštění kódu v izolovaném prostředí.",
+        "Řešení staví na MicroPythonu běžícím ve WebAssembly, což omezuje rizika při spouštění cizího kódu.",
+        "Používá ho v zásuvném modulu pro spouštění kódu v nástroji Datasette Agent."
+      ],
+      "why_matters": "Bezpečné spouštění kódu je klíčové pro AI agenty, kteří mají sami psát a spouštět programy."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Návod ukazuje, jak přidat nástroje přes MCP malému robotovi Reachy Mini",
+      "title_orig": "Adding MCP Tools to Reachy Mini",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Návod na Hugging Face popisuje, jak malému open-source robotovi Reachy Mini přidat schopnosti přes protokol MCP.",
+        "Díky MCP může robot využívat externí nástroje a propojit se s dalšími službami.",
+        "Ukázka cílí na komunitu kutilů a vývojářů kolem dostupné robotiky."
+      ],
+      "why_matters": "Propojení levné robotiky s AI nástroji otevírá experimentování s fyzickými AI pomocníky širší veřejnosti."
+    }
+  ]
+}

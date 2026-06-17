@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-17",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "SpaceX kupuje kódovací platformu Cursor za 60 miliard dolarů",
+      "title_orig": "SpaceX to acquire AI coding platform Cursor for $60 billion",
+      "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+      "source": "Ars Technica",
+      "category": "business",
+      "summary_cs": [
+        "SpaceX pár dní po svém rekordním IPO oznámil akvizici populárního AI editoru kódu Cursor za 60 miliard dolarů v akciích.",
+        "Cílem je postavit se konkurenci od Anthropicu a OpenAI, samostatně by podle analytiků ani jedna firma nestačila.",
+        "Spojení rakety a vývojářského nástroje ukazuje, jak hluboko se AI kódování stává strategickou prioritou velkých hráčů."
+      ],
+      "why_matters": "Ukazuje, že AI nástroje pro vývojáře jsou dnes strategickým aktivem za desítky miliard dolarů."
+    },
+    {
+      "rank": 2,
+      "title_cs": "ChatGPT poprvé klesl pod 50 procent trhu AI asistentů",
+      "title_orig": "ChatGPT's market share slips below 50% for first time",
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "ChatGPT zůstává nejpoužívanějším asistentem s více než 1,1 miliardy uživatelů měsíčně, ale poprvé má méně než polovinu trhu.",
+        "Druhý Gemini hlásí 662 milionů uživatelů, třetí Claude 245 milionů, oba rychle dotahují náskok.",
+        "Trh AI asistentů se diverzifikuje a dominance jednoho hráče slábne."
+      ],
+      "why_matters": "Konec jasné dominance ChatGPT znamená větší výběr a tlak na ceny pro běžné uživatele."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Čínský GLM-5.2 s otevřenými vahami poráží GPT-5.5 v kódování za šestinu ceny",
+      "title_orig": "Z.ai's open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
+      "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
+      "source": "VentureBeat AI",
+      "category": "open-source",
+      "summary_cs": [
+        "Čínský Z.ai vydal model GLM-5.2 se 753 miliardami parametrů, laděný na dlouhé samostatné kódovací a inženýrské úlohy.",
+        "Model je hned dostupný na Hugging Face i přes API, má stabilní okno 1 milionu tokenů a předplatné od zhruba 12 dolarů měsíčně.",
+        "Klíčové váhy vyšly pod volnou licencí MIT, takže firmy je mohou nasadit i u sebe bez omezení."
+      ],
+      "why_matters": "Otevřený model za zlomek ceny tlačí dolů náklady na AI kódování i pro menší firmy."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Uniklé dokumenty ukazují, že OpenAI prodělává miliardy dolarů ročně",
+      "title_orig": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "source": "Ars Technica",
+      "category": "business",
+      "summary_cs": [
+        "Auditované účetnictví OpenAI ukazuje rostoucí tržby, které ale výrazně převyšují náklady na výzkum a provoz.",
+        "Firma tak i přes obří příjmy prodělává miliardy dolarů ročně.",
+        "Čísla otevírají otázku, jak dlouho udrží současné tempo investic bez návratu k ziskovosti."
+      ],
+      "why_matters": "Pokud nejvlivnější AI firma trvale prodělává, hrozí v budoucnu zdražení služeb pro všechny."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Anthropic pozastavil účtování podle tokenů u Claude Agent SDK",
+      "title_orig": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "source": "Ars Technica",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic na poslední chvíli zastavil přechod na účtování podle tokenů u svého Claude Agent SDK.",
+        "Změna měla původně začít v pondělí a výrazně by zdražila provoz nejaktivnějším vývojářům.",
+        "Firma couvla po negativní reakci komunity a hledá model, který nepotrestá náročné uživatele."
+      ],
+      "why_matters": "Ukazuje, jak citlivé je nacenění AI nástrojů pro vývojáře a sílu zpětné vazby komunity."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Muž s ALS je prvním zkušeným uživatelem mozkového implantátu, který mu vrací řeč",
+      "title_orig": "This man with ALS is \"the first power user\" of a brain implant that lets him speak",
+      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "source": "MIT Technology Review",
+      "category": "wildcard",
+      "summary_cs": [
+        "Casey Harrell, ochrnutý pacient s ALS, má v mozku elektrody už téměř tři roky a pomocí nich znovu mluví.",
+        "Od roku 2023 nastřádal tisíce hodin používání rozhraní mezi mozkem a počítačem.",
+        "Stává se tak prvním člověkem, který takový implantát používá dlouhodobě v každodenním životě."
+      ],
+      "why_matters": "Konkrétní důkaz, že AI a neurotechnologie už dnes vracejí lidem ztracené schopnosti."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Satya Nadella varuje, že AI může vysát celá odvětví",
+      "title_orig": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
+      "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Šéf Microsoftu Satya Nadella v eseji popsal hlavní ekonomické riziko éry AI.",
+        "Hrozí podle něj, že hrstka špičkových modelů pohltí znalosti celých odvětví a firmy ztratí svou konkurenční výhodu.",
+        "Nadella přirovnává možné dopady ke škodám, které způsobila globalizace."
+      ],
+      "why_matters": "Varování od jednoho z nejmocnějších lidí v oboru o tom, kdo na AI vydělá a kdo prodělá."
+    },
+    {
+      "rank": 8,
+      "title_cs": "OpenAI předpovídá chování modelu ještě před vydáním simulací nasazení",
+      "title_orig": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI představil metodu Deployment Simulation, která předpovídá chování modelu ještě před jeho vydáním.",
+        "Metoda využívá reálná data z konverzací, aby zpřesnila hodnocení bezpečnosti.",
+        "Cílem je odhalit problematické chování dřív, než se model dostane k uživatelům."
+      ],
+      "why_matters": "Lepší předběžné testování modelů znamená méně nepříjemných překvapení po jejich spuštění."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Facebook spustil režim AI vyhledávání, čerpá z veřejných příspěvků",
+      "title_orig": "Facebook's new AI Mode search gets its info from public posts",
+      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Meta přidává do vyhledávání na Facebooku nový režim AI Mode vedle běžných možností jako Lidé nebo Marketplace.",
+        "Odpovědi generuje mimo jiné z veřejných příspěvků uživatelů napříč platformami Mety.",
+        "Spolu s tím přichází i další funkce, třeba předlohy pro úpravu fotek."
+      ],
+      "why_matters": "Vaše veřejné příspěvky teď mohou živit AI odpovědi, což znovu otevírá otázku soukromí."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Sakana AI uvedla agenta na ultra hluboký výzkum, zvládne stostránkové zprávy",
+      "title_orig": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours",
+      "url": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Tokijská Sakana AI spustila svůj první komerční produkt Marlin, popisovaný jako virtuální šéf strategie.",
+        "Místo okamžité odpovědi běží agent v souvislých uvažovacích smyčkách až osm hodin v kuse.",
+        "Výstupem jsou důkladně ozdrojované strategické zprávy o sto a více stranách včetně prezentací."
+      ],
+      "why_matters": "Posouvá AI od rychlých odpovědí k samostatné dlouhé práci na úrovni celého analytického týmu."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Databricks tvrdí, že vyřešil letitý problém datových toků pro AI agenty",
+      "title_orig": "Databricks says it solved the decades-old data pipeline problem that's been slowing AI agents",
+      "url": "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Databricks na konferenci Data + AI Summit představil dva produkty, které spojují provozní a analytická data bez prodlevy.",
+        "Novinka Lakehouse//RT slibuje dotazy s odezvou v řádu milisekund přímo nad spravovanými tabulkami.",
+        "Odpadá tak samostatná vrstva pro práci s daty v reálném čase, kterou firmy musely udržovat."
+      ],
+      "why_matters": "AI agenti potřebují čerstvá data okamžitě, rychlejší přístup k nim je klíč k jejich nasazení."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Stanfordský DeLM sráží náklady na úlohy více agentů o polovinu bez centrálního dirigenta",
+      "title_orig": "Stanford's DeLM cuts multi-agent task costs 50% - without a central orchestrator",
+      "url": "https://venturebeat.com/orchestration/stanfords-delm-cuts-multi-agent-task-costs-50-without-a-central-orchestrator",
+      "source": "VentureBeat AI",
+      "category": "research",
+      "summary_cs": [
+        "Stanfordský rámec DeLM zpochybňuje předpoklad, že systémy agentů potřebují centrálního koordinátora.",
+        "Agenti se místo toho domlouvají přímo přes sdílenou znalostní bázi jako společný komunikační prostor.",
+        "Podle autorů to snižuje náklady na úlohy s více agenty zhruba o polovinu."
+      ],
+      "why_matters": "Levnější spolupráce agentů přibližuje nasazení složitých AI systémů i menším firmám."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Kritická chyba v Copilotu umožnila krást uživatelům ověřovací kódy",
+      "title_orig": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "source": "Ars Technica",
+      "category": "wildcard",
+      "summary_cs": [
+        "Zranitelnost nazvaná SearchLeak v asistentu Copilot dovolovala útočníkům získat ověřovací kódy z dvoufázového přihlášení.",
+        "Případ podle expertů ukazuje, proč současný přístup k zabezpečení jazykových modelů opakovaně selhává.",
+        "Útok zneužíval způsob, jakým model zpracovává a vyhledává informace."
+      ],
+      "why_matters": "Připomíná, že AI asistenti otevírají zcela nové cesty, jak se útočníci dostanou k vašim datům."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Český Sloneek získal přes sto milionů, jeho AI agenti pečují o 50 tisíc lidí v HR",
+      "title_orig": null,
+      "url": "https://cc.cz/nahrazuji-znacnou-cast-rutinni-agendy-v-hr-jejich-ai-agenti-ve-firmach-pecuji-uz-o-50-tisic-lidi/",
+      "source": "CzechCrunch",
+      "category": "business",
+      "summary_cs": [
+        "Český startup Sloneek zaměřený na personální agendu uzavřel další investiční kolo.",
+        "Od českého a slovenského fondu získal více než sto milionů korun.",
+        "Jeho AI agenti dnes ve firmách obstarávají rutinní HR agendu pro zhruba 50 tisíc lidí."
+      ],
+      "why_matters": "Ukázka, že i česká firma dokáže nasadit AI agenty ve velkém a získat na to velké peníze."
+    },
+    {
+      "rank": 15,
+      "title_cs": "OSGuard je nový test bezpečnosti AI agentů, kteří ovládají počítač",
+      "title_orig": "OSGuard: A Benchmark for Safety in Computer-Use Agents",
+      "url": "https://arxiv.org/abs/2606.15034",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili OSGuard, sadu testů pro hodnocení bezpečnosti agentů, kteří samostatně ovládají počítač.",
+        "Cílem je zachytit případy, kdy agent splní zadání nebezpečnou zkratkou, i když se zdánlivě chová správně.",
+        "Test posuzuje jednotlivá rozhodnutí i celé průběhy úloh u běžných, neškodných pokynů."
+      ],
+      "why_matters": "Jak agenti přebírají ovládání počítačů, roste potřeba ověřit, že to dělají bezpečně."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-22",
+  "articles": [
+    {
+      "rank": 1,
+      "title_orig": "OpenAI's updated image generator can now pull information from the web",
+      "title_cs": "ChatGPT Images 2.0: generuje obrazky z webu a zvladne i cely infografiku",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+      "category": "news",
+      "summary_cs": [
+        "1. OpenAI vydal ChatGPT Images 2.0 s moznosti vyhledavat na webu pred generovanim.",
+        "2. Model zvlada vicejazykovy text, slidy, infografiky a komplexni vizualy z jednoho promptu.",
+        "3. Schopnost zachovat podrobnosti a konzistenci postav se vyrazne zlepsila."
+      ],
+      "why_matters": "Obrazkovy AI model poprvne sahne na internet a precte si aktualni fakta pred vygenerovanim vizualu. Pro marketing, prezentace a obsah to meni pravidla hry."
+    },
+    {
+      "rank": 2,
+      "title_orig": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
+      "title_cs": "Mythos od Anthropic nasel 271 bezpecnostnich chyb ve Firefoxu drive nez lide",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+      "category": "news",
+      "summary_cs": [
+        "1. Anthropic Mythos prohledal zdrojovy kod Firefoxu a odhalil 271 zranitelnosti.",
+        "2. CTO Mozilly potvrdil, ze model pracuje na urovni nejlepsich bezpecnostnich vyzkumniku.",
+        "3. Vsechny chyby jsou opraveny a zahrnuty ve Firefoxu 150, ktery uz je venku."
+      ],
+      "why_matters": "Poprve AI model realne zachranil miliony uzivatelu pred zranitelnostmi, ktere by jinak trvaly mesice nalezt. Kyberneticka bezpecnost s AI prestava byt teorie a stava se praci."
+    },
+    {
+      "rank": 3,
+      "title_orig": "Meta will record employees' keystrokes and use it to train its AI models",
+      "title_cs": "Meta bude zaznamenavat klavesnici zamestnancum, aby trenovalo sve AI modely",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "category": "news",
+      "summary_cs": [
+        "1. Meta nasazuje interni nastroj, ktery snima pohyby mysi a stlacovani klaves zamestnancum.",
+        "2. Data z techto zaznamu poslouzi primo k treninku AI modelu firmy.",
+        "3. Zamestananci s tim museli souhlasit, ale rozsah snimania vyvolava etickou debatu."
+      ],
+      "why_matters": "Kde jsou hranice pouziti pracovnich dat pro trening AI? Meta tuto otazku resolutne posouva dal. Trend sledovani pracovniku pro AI trening muze brzy zasahnout dalsi velke firmy."
+    },
+    {
+      "rank": 4,
+      "title_orig": "John Ternus will replace Tim Cook as Apple CEO",
+      "title_cs": "Tim Cook konci jako CEO Apple, nahraduje ho John Ternus",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/",
+      "category": "news",
+      "summary_cs": [
+        "1. John Ternus, dosavadni sef hardwaru, prevezme roli CEO nejcennejsi firmy na svete.",
+        "2. Tim Cook zustava jako executive chairman, ale kazdenodni rizeni predava.",
+        "3. Ternusovym hlavnim ukolem bude dotahnout Applu zaostale AI ambice."
+      ],
+      "why_matters": "Apple pod Cookovou erou prozmeskal prvni vlnu AI. Novy CEO dostava mandat to napravit. Pro celou AI industrii to je signal, ze Apple bude konecne hrubou silou zasahovat do teto hry."
+    },
+    {
+      "rank": 5,
+      "title_orig": "A Humanoid Robot Set a Half-Marathon Record in China",
+      "title_cs": "Humanoiidni robot dobehl pulmaraton za 50 minut a porazil cloveka o 7 minut",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+      "category": "news",
+      "summary_cs": [
+        "1. Autonomni robot Honor z Ciny dokonci 21 km bez zastaveni za 50 minut a 26 sekund.",
+        "2. Lidsky rekord ve stejne kategorii je horsi, robot zvitezil o 7 minut.",
+        "3. Robot bezet zcela autonomne, bez dalkoveho ovladani ci pomoci operatora."
+      ],
+      "why_matters": "Humanoidi uz nejsou laboratorni exponaty. Robot, ktery fyzicky prekonava cloveka v vytrvalostnim vykonu, posouva debatu o fyzicke automatizaci na uplne jinou uroven."
+    },
+    {
+      "rank": 6,
+      "title_orig": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+      "title_cs": "Amazon investoval do Anthropic 5 miliard dolaru, Anthropic za ne nakoupi Trainium cipy",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
+      "category": "business",
+      "summary_cs": [
+        "1. Amazon vlozil do Anthropic dalsi rundu 5 miliard dolaru, celkova investice roste.",
+        "2. Anthropic za peize nakoupi 5 gigawattu Amazonovych Trainium cipu pro trening Claude.",
+        "3. Partnerstvo hlubsi propoji obe firmy: Claude pojede na AWS, AWS prodava Claude."
+      ],
+      "why_matters": "Toto neni jen investice, je to strategicka aliance. Amazon si pojistuje prisun AI a Anthropic infrastrukturu pro rust. Obchod vyvolava tlak na Microsoftovo partnerstvo s OpenAI."
+    },
+    {
+      "rank": 7,
+      "title_orig": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "title_cs": "SpaceX muze koupit Cursor za 60 miliard dolaru a uz s nim aktivne spolupracuje",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "category": "business",
+      "summary_cs": [
+        "1. SpaceX uzavrel smlouvu o spolupaci s Cursor a ziskal opci na koupi za 60 miliard USD.",
+        "2. Ani Cursor, ani xAI nemaji vlastni vedouci AI modely, oba se spolejli na Anthropic.",
+        "3. Transakce by vznikl rival pro GitHub Copilot s vesmirnymi ambicemi v pozadi."
+      ],
+      "why_matters": "Cursor se za kratkou dobu stal jednim z nejrychleji rostnouciho AI startupu. Pokud SpaceX opci vyuzije, vznikne kombinace kosmicke firmy, AI programovani a Muskovy orbity. AI koding bude uz brzy velky byznys."
+    },
+    {
+      "rank": 8,
+      "title_orig": "Scaling Codex to enterprises worldwide",
+      "title_cs": "OpenAI Codex ma 4 miliony uzivatelu tyydne aExpanduje do firem po celem svete",
+      "source": "OpenAI Blog",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "category": "business",
+      "summary_cs": [
+        "1. OpenAI spousti Codex Labs a partnership s Accenture, PwC a Infosys pro enterprise.",
+        "2. Codex prekonava 4 miliony tydennich aktivnich uzivatelu a rust nezastavuje.",
+        "3. Velke konzultacni firmy budou pomahate zakaznicum integrovat Codex do SDLC."
+      ],
+      "why_matters": "OpenAI si pojistuje enterprise trh pres znamacke konzultacni partnery. Firmy jako PwC a Accenture maji klice k tisicovkam korporatnich klientu. AI koding je uz seriozni business, ne jen developer hracka."
+    },
+    {
+      "rank": 9,
+      "title_orig": "AI scientists produce results without reasoning scientifically",
+      "title_cs": "LLM jako vedci: produkuji vysledky, ale nemysli vedecky, odhaluje nova studie",
+      "source": "ArXiv cs.AI",
+      "url": "https://arxiv.org/abs/2604.18805",
+      "category": "research",
+      "summary_cs": [
+        "1. Studie testovala LLM agenty ve 8 vedeck ych domenach, od experimentu po hypotezy.",
+        "2. Modely produkuji vystupy podobne vedeckym, ale nerespektuji epistemicke normy.",
+        "3. Riziko: AI vysledky mohou vypadat spolehlive, i kdyz jsou metodologicky krehke."
+      ],
+      "why_matters": "Kdyz AI \"dela vedu\", neznamena to nutne, ze mysli jako vedec. Pro firmy pouzivajici AI v analyticke a vyzkumne praci je to dulezita vyzva: overovat procesy, ne jen vystupy."
+    },
+    {
+      "rank": 10,
+      "title_orig": "Human-Guided Harm Recovery for Computer Use Agents",
+      "title_cs": "Jak opravit skodu po chybe AI agenta: vyzkumnici navrhli systematicke reseni",
+      "source": "ArXiv cs.AI",
+      "url": "https://arxiv.org/abs/2604.18847",
+      "category": "research",
+      "summary_cs": [
+        "1. Vyzkoumane ramec reseni \"recovery\" po skodlivych akcich AI agenta na pocitaci.",
+        "2. Pristup kombinuje lidske vedeni a automaticke planovani pro minimalizaci dopadu.",
+        "3. Formalizace problemu umoznuje srovnani a vylepsovani bezpecnosti agenticheho AI."
+      ],
+      "why_matters": "Jak AI agenti ziskavaji pristup k systemum a souboruvm, otazka co delat po chybe stava napalive. Tato prace je prvni systematicky pokus o reseni, ktere muze skoncit ve vyrobnim softwaru."
+    },
+    {
+      "rank": 11,
+      "title_orig": "Efficient Mixture-of-Experts LLM Inference with Apple Silicon NPUs",
+      "title_cs": "Velke MoE modely bezici efektivne na Apple Silicon: novy papir ukazuje cestu",
+      "source": "ArXiv cs.LG",
+      "url": "https://arxiv.org/abs/2604.18788",
+      "category": "research",
+      "summary_cs": [
+        "1. Vyzkumnici ukazali, jak spustit MoE LLM modely na Apple Silicon NPU s vysokou efektivitou.",
+        "2. Pristup optimalizuje predavani dat mezi CPU, GPU a NPU pro nizkou latenci.",
+        "3. Vysledkem je rycjlejsi a energeticky ucinnejsi inference na beznem hardware."
+      ],
+      "why_matters": "Beh velkych AI modelu lokalne na MacBooku nebo iPadu bez cloudu se blizi. Toto neni jen akademicka optimalizace, je to krokem k privatnimu, offline AI pro bezne uzivatele."
+    },
+    {
+      "rank": 12,
+      "title_orig": "Google's new Deep Research and Deep Research Max agents can search the web and your private data",
+      "title_cs": "Google Deep Research Max: AI agent zkouma web i vase firemni data najednou",
+      "source": "VentureBeat AI",
+      "url": "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data",
+      "category": "tooling",
+      "summary_cs": [
+        "1. Google vydal Deep Research a Deep Research Max, ktere kombinuji web a firemni data.",
+        "2. Agent vytvari nativni grafy a infografiky primo v reportu bez exportu.",
+        "3. Dostupne pres Google Cloud API pro integraci do firemniho workflow."
+      ],
+      "why_matters": "Analyza kombinujici verejny internet a vase interni dokumenty v jednom dotazu: to je prubojova vlastnost pro konzultanty, analytiky a manazery. Google to ted nabizi jako API."
+    },
+    {
+      "rank": 13,
+      "title_orig": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "title_cs": "Gemini 3.1 Flash TTS: AI hlas s presnym ovladanim emoci, pauz a intonace",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+      "category": "tooling",
+      "summary_cs": [
+        "1. Google DeepMind vydal novy TTS model s granularnimi audio znackami pro kontrolu hlasu.",
+        "2. Vyvijari mohou ridit emoci, rycjlost, pauzy a intonaci na urovni vety ci slova.",
+        "3. Model cilic na podcasty, audioknihy, call centra i interaktivni agenty."
+      ],
+      "why_matters": "Synteticky hlas, ktery umi zvedat hlas na spravnem miste a dramaticky se odmlcet, meni vyuzitelnost AI v obsahu. Pro tvurce podcastu, vzdelevacie firmy a zakaznicke sluzby je to prakticka novinka."
+    },
+    {
+      "rank": 14,
+      "title_orig": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
+      "title_cs": "YouTube rozsiril detekci AI deepfaku: celebrity mohou nachazet a mazat svuj obraz",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube",
+      "category": "tooling",
+      "summary_cs": [
+        "1. YouTube rozsiruje AI nastroj pro detekci deepfaku z muziku na Hollywood celebrity.",
+        "2. Verejna osobnost se zaregistruje a nastroj automaticky hlasi obsah s jejim podobiznou.",
+        "3. Mohou nasledne pozadat o stazeni videa, ktere neautorizovaly."
+      ],
+      "why_matters": "Platformy zacIInaji AI boji AI: deepfaky detekuje strojove uceni, ktere pak umozni jejich mazani. Pro bezne uzivatele i firmy s brandovymi tvari to naznacuje, kudy jde regulace obsahu."
+    },
+    {
+      "rank": 15,
+      "title_orig": "AI backlash is coming for elections",
+      "title_cs": "AI se stava tema voleb v USA: odpor volicuu i kampane zacInaji reflektovat technologii",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+      "category": "policy",
+      "summary_cs": [
+        "1. Vetsina Americanu vyjadruje obavy z AI, komunity brzdI datova centra a stavby.",
+        "2. Politicke kampane se zatim tema AI vyhybaji, presto ktery lide hostuji na socialnich sItIch.",
+        "3. Analyza ukazuje, ze AI odpor se muze stat klicovym volicskym tematem do roku 2026."
+      ],
+      "why_matters": "Technologie a politika se srazejI. Firmy zavadejici AI musi sledovat nejen regulaci, ale i naladeni volicU, ktere muze rychle pretavit sentiment v zakon. Pro AI byznys je to varovny signal."
+    }
+  ]
+}

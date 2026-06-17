@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-15",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "K modelu Mythos se podle zpráv mohla dostat Čína, proto přišel vládní zákaz",
+      "title_orig": "China may have accessed Mythos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "source": "The Verge AI",
+      "category": "labs",
+      "summary_cs": [
+        "Podle serveru Semafor stálo za americkým exportním omezením na model Mythos podezření, že k němu získala přístup skupina napojená na Čínu.",
+        "Pokud by čínská vláda měla přístup k Mythosu 5 nebo Fable 5, šlo by podle úřadů o vážné ohrožení národní bezpečnosti.",
+        "Vysvětluje to, proč vláda nařídila Anthropicu zablokovat oba modely plošně, včetně vlastních zaměstnanců."
+      ],
+      "why_matters": "Ukazuje, jak rychle se špičkové AI modely stávají předmětem geopolitiky a exportních kontrol."
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI spouští Partner Network a vloží do něj 150 milionů dolarů",
+      "title_orig": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zakládá partnerskou síť a investuje 150 milionů dolarů, aby firmám po celém světě pomohla zavádět AI do provozu.",
+        "Cílem je zrychlit nasazování a transformaci u velkých zákazníků přes ověřené implementační partnery.",
+        "Jde o jasný posun OpenAI směrem k firemnímu trhu, kde se odehrává hlavní souboj o tržby."
+      ],
+      "why_matters": "Firemní nasazení AI je dnes hlavní bojiště mezi OpenAI, Anthropicem a Googlem."
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI popsala čínské vlivové operace cílící na americké debaty o AI",
+      "title_orig": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Nová zpráva OpenAI popisuje operace napojené na Čínu, které pomocí AI ovlivňují americké debaty o technologiích.",
+        "Kampaně se zaměřují na narativy okolo datových center, cel a šíří nepravdivá tvrzení o ChatGPT.",
+        "OpenAI uvádí, že příslušné účty odhalila a zablokovala."
+      ],
+      "why_matters": "Ukazuje, že generativní AI se už běžně používá k cílené manipulaci veřejného mínění."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Banka BBVA staví byznys na AI od OpenAI, ChatGPT nasadila 100 tisícům zaměstnanců",
+      "title_orig": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Španělská banka BBVA rozšířila ChatGPT Enterprise na 100 tisíc zaměstnanců napříč pobočkami.",
+        "S OpenAI spolupracuje na zrychlení digitální proměny bankovnictví po celém světě.",
+        "Jde o jeden z největších firemních rolloutů ChatGPT v regulovaném odvětví."
+      ],
+      "why_matters": "Ukazuje, že i konzervativní banky berou plošné nasazení AI jako konkurenční nutnost."
+    },
+    {
+      "rank": 5,
+      "title_cs": "TCS a Anthropic spojily síly, Claude míří do regulovaných odvětví",
+      "title_orig": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Indický gigant TCS a Anthropic uzavřely partnerství, které má přivést Claude do firem v silně regulovaných oborech.",
+        "Spolupráce cílí na nasazení v prostředích s přísnými nároky na bezpečnost a dohled.",
+        "Pro Anthropic je to další krok k velkým firemním zákazníkům po boku poradenských a integračních partnerů."
+      ],
+      "why_matters": "Velcí systémoví integrátoři rozhodují o tom, čí AI se dostane do bank a pojišťoven."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Nová metoda rozbíhá difuzní jazykové modely přímo na NPU v telefonu",
+      "title_orig": "Efficient On-Device Diffusion LLM Inference with Mobile NPU",
+      "url": "https://arxiv.org/abs/2606.13740",
+      "source": "ArXiv cs.LG",
+      "category": "research",
+      "summary_cs": [
+        "Difuzní jazykové modely generují více tokenů naráz, což je lákavé pro rychlé odpovědi přímo v telefonu.",
+        "Opakované zpřesňování ale zatěžuje mobilní čip, autoři proto navrhli postup, jak efektivně využít mobilní NPU.",
+        "Řeší úzká místa kolem práce s pamětí a opětovného využití mezivýsledků."
+      ],
+      "why_matters": "Posouvá schopné jazykové modely blíž k běhu přímo v zařízení bez nutnosti cloudu."
+    },
+    {
+      "rank": 7,
+      "title_cs": "AllenAI uvolnil olmo-eval, otevřený nástroj na hodnocení modelů během vývoje",
+      "title_orig": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Tým kolem otevřených modelů OLMo zveřejnil nástroj olmo-eval pro hodnocení modelů v průběhu jejich vývoje.",
+        "Cílem je rychle a opakovatelně měřit kvalitu modelu mezi jednotlivými iteracemi tréninku.",
+        "Nástroj je otevřený a dostupný komunitě přes Hugging Face."
+      ],
+      "why_matters": "Otevřené hodnoticí nástroje zpřístupňují seriózní vývoj modelů i menším týmům."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Studie ukazuje, že úprava jednoho neuronu může zastavit zacyklení modelu",
+      "title_orig": "Can Editing 1 Neuron Fix Repetition Loops in LLMs?",
+      "url": "https://arxiv.org/abs/2606.13705",
+      "source": "ArXiv cs.LG",
+      "category": "research",
+      "summary_cs": [
+        "Instrukčně laděné modely Gemma 4 se na dlouhých výčtech často zaseknou do opakování, někdy až v 95 procentech případů.",
+        "Autoři zjistili, že zásah do jediného neuronu dokáže tyto smyčky výrazně potlačit.",
+        "Hlubší takzvané doom loops to ale samo o sobě nevyřeší."
+      ],
+      "why_matters": "Naznačuje, že některé otravné chyby modelů mají překvapivě jednoduchou příčinu."
+    },
+    {
+      "rank": 9,
+      "title_cs": "OpenAI Academy přidává tři kurzy, jak používat AI v běžné práci",
+      "title_orig": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "source": "OpenAI Blog",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI představuje tři nové kurzy, které učí praktické dovednosti s AI.",
+        "Zaměřují se na opakovatelné pracovní postupy a nasazení asistentů do každodenních úkolů.",
+        "Obsah cílí na běžné uživatele, ne jen na vývojáře."
+      ],
+      "why_matters": "Dostupné vzdělávání rozhoduje o tom, jak rychle lidé AI ve firmách skutečně využijí."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Agenti umí volat nástroje i spolupracovat, chybí ale standard pro přenos dat",
+      "title_orig": "MCP solved tool calling. A2A solved coordination. What solves transport?",
+      "url": "https://venturebeat.com/orchestration/mcp-solved-tool-calling-a2a-solved-coordination-what-solves-transport",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Protokol MCP vyřešil volání nástrojů a protokol A2A koordinaci mezi agenty.",
+        "Podle autora chybí poslední dílek, tedy společný standard pro samotný přenos dat mezi agenty.",
+        "Historie ukazuje, že po vlně konkurenčních protokolů obvykle přijde sjednocení kolem toho nejjednoduššího."
+      ],
+      "why_matters": "Standardy rozhodnou, jestli spolu budou agenti od různých firem umět spolehlivě mluvit."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Vlna propouštění kvůli AI se podle TechCrunche mění v sud se střelným prachem",
+      "title_orig": "The AI layoff wave is becoming a powder keg",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Ve chvíli, kdy přicházejí o práci desetitisíce lidí, bohatne úzká skupina lidí kolem AI nepředstavitelným tempem.",
+        "Tento kontrast vytváří podle autorů výbušné společenské napětí.",
+        "Text varuje, že rozpor mezi propouštěním a koncentrací bohatství může brzy přerůst v širší konflikt."
+      ],
+      "why_matters": "Sociální dopady automatizace se stávají politickým tématem, které se Česka také dotkne."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Nizozemský ASML je díky AI nejhodnotnější evropskou firmou historie",
+      "title_orig": "Čtyři písmena, která nenápadně vládnou",
+      "url": "https://cc.cz/ctyri-pismena-ktera-nenapadne-vladnou-nizozemsky-gigant-je-diky-ai-nejhodnotnejsi-evropskou-firmou-historie/",
+      "source": "CzechCrunch",
+      "category": "business",
+      "summary_cs": [
+        "Hodnota společnosti ASML překonala 674 miliard dolarů a vytvořila evropský rekord.",
+        "Firma těží z poptávky po strojích nutných k výrobě nejmodernějších čipů pro AI.",
+        "Proti jejímu postavení už ale zbrojí konkurenti po celém světě."
+      ],
+      "why_matters": "Připomíná, že na AI boomu nejvíc vydělávají dodavatelé klíčové výrobní techniky."
+    },
+    {
+      "rank": 13,
+      "title_cs": "První vakcína navržená počítačem prošla testy na lidech",
+      "title_orig": "Vsadili na AI dřív než ostatní",
+      "url": "https://cc.cz/vsadili-na-ai-driv-nez-ostatni-ted-maji-prvni-vakcinu-navrzenou-pocitacem-ktera-prosla-testy-na-lidech/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Chřipkový virus každý rok mutuje a běžná vakcína tak postupně ztrácí účinnost.",
+        "Přípravek navržený pomocí AI má tento problém vyřešit a úspěšně prošel testy na lidech.",
+        "Firma vsadila na AI v medicíně dřív než většina konkurence."
+      ],
+      "why_matters": "Konkrétní důkaz, že AI už pomáhá vyvíjet léky, které reálně procházejí klinickými testy."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Meta zapojila dodavatele Pentagonu do prototypu rozpoznávání tváří v brýlích",
+      "title_orig": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
+      "url": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Firma Rank One dodala Meta technologii rozpoznávání tváří pro interní vývoj aplikace do chytrých brýlí.",
+        "V jejím vedení sedí mimo jiné bývalý zástupce ředitele CIA a bývalý vědecký šéf FBI.",
+        "Zapojení dodavatele s vazbami na bezpečnostní složky vyvolává otázky o soukromí."
+      ],
+      "why_matters": "Rozpoznávání tváří v běžných brýlích by zásadně změnilo anonymitu ve veřejném prostoru."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Proč AI nenahradila programátory a podle autorů ani nenahradí",
+      "title_orig": "Why AI hasn't replaced software engineers, and won’t",
+      "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/",
+      "source": "Simon Willison's Weblog",
+      "category": "wildcard",
+      "summary_cs": [
+        "Arvind Narayanan a Sayash Kapoor argumentují, že data zatím nepotvrzují masové propouštění programátorů kvůli AI.",
+        "A to i v oboru, který má jen málo regulačních překážek a měl by být nejzranitelnější.",
+        "Z toho vyvozují, že většina ostatních profesí je proti AI ještě lépe chráněná."
+      ],
+      "why_matters": "Střízlivý protiklad k panice z hromadného rušení pracovních míst kvůli AI."
+    }
+  ]
+}

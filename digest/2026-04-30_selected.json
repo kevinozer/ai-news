@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-30",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic vyjednává kolo za 50 miliard dolarů, valuace by mohla atakovat 900 miliard",
+      "title_orig": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Tvůrce Claude dostává podle zdrojů preemptivní nabídky ve vilce 850 až 900 miliard dolarů, což by ho posunulo blíž k OpenAI.",
+        "Anthropic plánuje peníze nasypat do výpočetní kapacity, partnerství s Googlem, Amazonem a Broadcomem už avizují roky růstu výdajů na čipy.",
+        "Pokud kolo proběhne, bude to největší jednorázový raise v historii AI a další rok extrémních valuací u top labů."
+      ],
+      "why_matters": "Anthropic dotahuje OpenAI na valuaci, závody ve výpočtech zrychlí a tlak na cenu API pro firmy poroste."
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI modely, Codex a Managed Agents jsou nově dostupné v AWS",
+      "title_orig": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Den po pádu exkluzivity s Microsoftem představila OpenAI plný portfoliový balík přímo v AWS, včetně Codex CLI a Managed Agents služby.",
+        "Enterprise zákazníci si modely mohou nasadit do svého AWS účtu se stejnou bezpečnostní bránou, jakou používají na ostatní data, žádný traffic neopouští jejich VPC.",
+        "AWS současně přidává tarify s úsporou kreditů, pokud firmy běží na Tranium nebo Inferentia akcelerátorech."
+      ],
+      "why_matters": "Multi-cloud OpenAI je realita a české enterprise týmy konečně dostanou Codex i Managed Agents bez routování přes Azure."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Claude for Creative Work: Anthropic spustil produkt pro spisovatele, hudebníky a designéry",
+      "title_orig": "Claude for Creative Work",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic uvolnil sadu funkcí cílenou na kreativní profese, propojení s Photoshopem, Figmou, Logic Pro a Abletonem je nově nativní.",
+        "Claude umí pracovat se stylebooky, character bibles a verzemi rukopisu, výstupy se ukládají do projektových workspaců s kontrolou nad přepisem.",
+        "Funkce je dostupná v Claude Pro a Team plánech bez příplatku, pro Enterprise plán dorazí v květnu."
+      ],
+      "why_matters": "Anthropic míří mimo developery do kreativního trhu, kde zatím dominoval ChatGPT, a otevírá lokálním studiím novou volbu."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Satya Nadella: novou dohodu s OpenAI plánujeme tvrdě využít",
+      "title_orig": "Satya Nadella says he's ready to 'exploit' the new OpenAI deal",
+      "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Microsoft podle Nadelly dostává právo nabízet technologii OpenAI vlastním cloudovým zákazníkům, aniž by za ni platil licenci.",
+        "Slovo exploit Nadella pronesl na earnings callu zcela vážně, jako důkaz, že přepsaná smlouva Microsoftu nešlápla na nohu.",
+        "Azure a Copilot teď získávají největší exkluzivní zbroj proti AWS i Google Cloud na nadcházející rok."
+      ],
+      "why_matters": "Microsoft fakticky dotuje cenu OpenAI služeb pro firemní zákazníky, což zlevní nasazení i v evropském regionu."
+    },
+    {
+      "rank": 5,
+      "title_cs": "SenseTime spouští nový image model optimalizovaný pro čínské čipy",
+      "title_orig": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+      "url": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
+      "source": "Wired AI",
+      "category": "labs",
+      "summary_cs": [
+        "SenseTime, na americkém sankčním seznamu, vsází na open source a vydává obrazový model laděný pro běh na domácích akcelerátorech Cambricon a Huawei Ascend.",
+        "Firma cílí na firmy a vývojáře, kteří chtějí běžet generování i bez přístupu k Nvidia Hopper a Blackwell hardwaru.",
+        "Krok ukazuje, že čínská AI infrastruktura postupně dohání ekosystém Nvidie ve specifických úlohách a snižuje páku exportních kontrol."
+      ],
+      "why_matters": "Geopolitický posun: čínské open-source modely poběží na čínských čipech a začnou se objevovat ve výběru evropských firem."
+    },
+    {
+      "rank": 6,
+      "title_cs": "IBM Granite 4.1: jak je IBM staví a proč jsou v open-source unikátní",
+      "title_orig": "Granite 4.1 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "IBM zveřejnil podrobnosti o tréninkovém pipeline Granite 4.1, včetně rebuildu datasetu pro enterprise právní a finanční doménu.",
+        "Modely běží Apache 2.0, podporují 128k kontext a nově obsahují vestavěnou vrstvu pro citování zdrojů.",
+        "Granite zůstává jediným tier-1 open-source modelem od velkého enterprise vendora, IBM dotahuje Llamu na benchmarcích pro toolcall a SQL."
+      ],
+      "why_matters": "Pro evropské firmy s přísnými compliance požadavky je Granite reálnou Apache 2.0 alternativou ke Llama nebo Qwen."
+    },
+    {
+      "rank": 7,
+      "title_cs": "AI evals jsou nové úzké hrdlo, ne výpočet ani data",
+      "title_orig": "AI evals are becoming the new compute bottleneck",
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "source": "Hugging Face Blog",
+      "category": "research",
+      "summary_cs": [
+        "Hugging Face zveřejnil rozbor, že náklady a kapacita pro evaluaci LLM modelů rostou rychleji než tréninkové výpočty.",
+        "Pro top laby tvoří evaluace dnes jednotky procent z celkového compute budgetu, autoři predikují posun na desítky procent v roce 2027.",
+        "Otevírá se prostor pro startupy a benchmarkové standardy, které pomohou řídit kvalitu agentů a reasoning modelů."
+      ],
+      "why_matters": "Evaluace jsou strategická investice, kdo má eval pipeline, ten řídí kvalitu produktu i smluvních ujednání s laby."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Reiner Pope u Dwarkeshe: matematika za tréninkem a inferencí LLM v kostce",
+      "title_orig": "Reiner Pope - The math behind how LLMs are trained and served",
+      "url": "https://www.dwarkesh.com/p/reiner-pope",
+      "source": "Dwarkesh Patel",
+      "category": "research",
+      "summary_cs": [
+        "Reiner Pope vysvětluje, jak z několika rovnic odvodit, co dělají top laby s GPU clustery a kolik to bude stát.",
+        "Rozbor zahrnuje paměťovou propustnost, MoE routing a memory-bound vs compute-bound režim při serveru.",
+        "Pro inženýry je to jeden z nejlépe srozumitelných rozborů, jak laby plánují kapacitu a výrobní cenu tokenu."
+      ],
+      "why_matters": "Pomáhá pochopit, proč ceny tokenů klesají právě tam, kde to klesají, a kde naopak ne."
+    },
+    {
+      "rank": 9,
+      "title_cs": "IBM Bob: nový kódovací agent s multi-model routingem a lidskými kontrolními body",
+      "title_orig": "IBM launches Bob with multi-model routing and human checkpoints to turn AI coding into a secure production system",
+      "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Bob je IBM odpověď na Codex a Cursor, cílí na produkční nasazení v regulovaných odvětvích.",
+        "Klíčová odlišnost je multi-model router, který přepíná mezi Granite, Claude a OpenAI podle úkolu, a povinné human checkpointy před commit do mainu.",
+        "IBM ho dodává jako součást Watsonx Orchestrate platformy, integrace s GitHub Enterprise a GitLab Ultimate je out-of-the-box."
+      ],
+      "why_matters": "Pro banky a pojišťovny je multi-model routing s audit trailem konečně životaschopná cesta, jak agenty pustit do produkce."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Google Photos pouští AI try-on, šatník vyrobí z fotek z galerie",
+      "title_orig": "Google Photos launches an AI try-on feature for clothes you already have",
+      "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Google Photos vytvoří virtuální šatník z toho, co má uživatel ve vlastních fotkách, a model přes diffuse generuje, jak se kombinace bude tvářit na něm.",
+        "Funkce umí ukládat oblíbené outfity, sdílet s přáteli a porovnávat varianty před nákupem.",
+        "Spuštění míří na americký a britský trh, evropský region následuje po vyhodnocení GDPR a AI Act dotazů."
+      ],
+      "why_matters": "Spotřebitelská AI feature, kterou pochopí každý, a která zase posílí konverzní ekonomiku oblečení a e-commerce."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Shapes: chat aplikace, kde AI postavy sedí v group chatu spolu s lidmi",
+      "title_orig": "Meet Shapes, the app bringing humans and AI into the same group chats",
+      "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Shapes vznikl jako kombinace Discordu a postavového chatbota, AI charaktery moderují konverzaci, vrací odkazy a pamatují si kontext skupiny.",
+        "App umí přepínat mezi Claude, GPT a Llama jako runtime za postavou, uživatelé si mohou postavu vyladit pro konkrétní téma.",
+        "Cílí to na komunity okolo her, hudby a tvůrčího psaní, kde AI doplňuje absentující členy."
+      ],
+      "why_matters": "Sociální AI vstupuje do běžných skupinových chatů, ekosystém okolo Discordu a Telegramu se začne přepisovat."
+    },
+    {
+      "rank": 12,
+      "title_cs": "SoftBank zakládá robotickou firmu, která staví datacentra a chystá IPO za 100 miliard",
+      "title_orig": "SoftBank is creating a robotics company that builds data centers - and already eyeing a $100B IPO",
+      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Masayoshi Son spojuje Boston Dynamics, ARM a stavební divize Bechtelu do firmy, která má robotizovat výstavbu nových AI datacenter.",
+        "Plánovaný IPO je avizován na konec roku 2027 s cílovou valuací sto miliard dolarů, jen samotné memorandum už pohnulo akciemi SoftBanku.",
+        "Cílem je obejít nedostatek lidských stavebních kapacit, který právě teď zdržuje stavbu Stargate i evropských AI hubů."
+      ],
+      "why_matters": "Robotizace stavby datacenter může uvolnit kapacitní bottleneck, který právě teď zdržuje i evropské AI projekty."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Google Cloud poprvé překročil 20 miliard za kvartál, přesto brzdí kapacita",
+      "title_orig": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+      "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Google Cloud poprvé prolomil hranici 20 miliard dolarů ve čtvrtletních tržbách, AI poptávka byla hlavním motorem.",
+        "Vedení přiznává, že tržby mohly být ještě vyšší, ale chyběla výpočetní kapacita pro nové smlouvy.",
+        "Google urychluje výstavbu nových datacenter v USA, Evropě i Asii a předzásobuje TPU v7 generaci."
+      ],
+      "why_matters": "Capacity-constrained znamená, že čekací doby na enterprise GPU u všech tří velkých cloudů ještě poporostou."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Reid Hoffman: lékař, který se neptá AI na druhý názor, hraničí s malpraxí",
+      "title_orig": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
+      "url": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Spoluzakladatel LinkedInu Reid Hoffman, který nově řídí AI startup pro objevování léků, přitvrdil rétoriku ohledně AI v medicíně.",
+        "Pro Wired Health řekl, že nezeptat se chatbota je dnes na hraně malpraxe, protože screening alternativ a komplikací je rychlý a levný.",
+        "Hoffman naráží na rostoucí počet studií, kde GPT-5 dorovnává senior lékaře v diagnostické přesnosti u běžných případů."
+      ],
+      "why_matters": "Posun rétoriky vlivných investorů zrychlí adopci AI v evropských nemocnicích, kde už tak zápasíme s nedostatkem lékařů."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Český startup Dušana Brabce odmítl Jámu lvovou, AI mu pomáhá řešit šikanu ve školách",
+      "title_orig": "Investici z Jámy lvové nakonec odmítl a věří, že si vyjedná lepší. Ve školách pomáhá bojovat se šikanou",
+      "url": "https://cc.cz/investici-z-jamy-lvove-nakonec-odmitl-a-veri-ze-si-vyjedna-lepsi-ve-skolach-pomaha-bojovat-se-sikanou/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Český startup pod vedením Dušana Brabce skenuje a klasifikuje třídní klima a hledá rané signály šikany s pomocí jazykových modelů.",
+        "Zakladatel po vystoupení v Jámě lvové investici odmítl, věří, že podmínky vyjedná lépe na privátním trhu, kde už má první pilotní školy.",
+        "Produkt je dostupný v češtině a slovenštině, v plánu je integrace s rodičovskou aplikací a oznamovacím modulem pro pedagogy."
+      ],
+      "why_matters": "Praktický český case study, kde AI řeší konkrétní společenský problém a jeden z mála B2B EdTech projektů s reálným nasazením."
+    }
+  ]
+}

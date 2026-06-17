@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-07",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic uzavřel s SpaceX 300MW compute kontrakt a zdvojnásobil limity Claude Code",
+      "title_orig": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic si od SpaceX odkupuje 300 MW výpočetní kapacity z gigatovárny Colossus I, hodnota dohody se uvádí kolem pěti miliard dolarů ročně.",
+        "Pětihodinové limity pro Claude Code se tarifům Pro a Max zdvojnásobují, plán Free zůstává zatím beze změny.",
+        "Anthropic v oznámení zdůrazňuje, že kapacita poslouží především agentickým úlohám s dlouhým během, ne primárně tréninku."
+      ],
+      "why_matters": "Anthropic se zajišťuje proti deficitu compute a posiluje vazbu na Muskův ekosystém v době jeho soudu s OpenAI."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Google Gemma 4 zrychluje inferenci až třikrát díky predikci budoucích tokenů",
+      "title_orig": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
+      "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+      "source": "Ars Technica",
+      "category": "labs",
+      "summary_cs": [
+        "Otevřené modely Gemma 4 přidávají speculative decoding s predikcí budoucích tokenů a podle Googlu zrychlují inferenci až 3x bez ztráty kvality.",
+        "Technika nasazuje malou predikční hlavu, která navrhuje další tokeny, hlavní model je pak jen ověřuje, takže se snižuje počet průchodů.",
+        "Modely jsou vydány s otevřenými vahami, takže si lokální nasazení mohou rovnou zahrát na rychlejší pipeline."
+      ],
+      "why_matters": "Open-weight model s tříkrát levnější inferencí mění ekonomiku samohostovaných nasazení v Evropě."
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI rozjelo program ChatGPT Futures, vybralo 26 studentských inovátorů",
+      "title_orig": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI představuje první ročník programu ChatGPT Futures, do něhož vybralo 26 studentů z celého světa pracujících s AI na výzkumu i podnikání.",
+        "Účastníci dostávají kredity, mentoring od OpenAI týmů a přístup k beta funkcím ještě před veřejným vydáním.",
+        "Program má posílit narativ ChatGPT jako vzdělávací platformy ve chvíli, kdy se školy lámou nad tím, jak AI integrovat."
+      ],
+      "why_matters": "Studentské stipendijní programy se stávají vstupní bránou OpenAI mezi mladé výzkumníky a tvůrce."
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI uvolnilo síťový protokol MRC pro páteř AI superpočítačů",
+      "title_orig": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "MRC neboli Multipath Reliable Connection je nový protokol, který OpenAI věnuje do Open Compute Project pro propojení uzlů velkých tréninkových clusterů.",
+        "Protokol řeší ztráty a degradaci v rámci tisícových GPU farem, kde tradiční TCP a RoCE narážejí na limity.",
+        "Cílí na to, aby výpadek jedné cesty nezpůsobil zastavení synchronního trénování celé sítě."
+      ],
+      "why_matters": "OpenAI tlačí svoji infrastrukturu do open standardu, vznikající ekosystém připomíná NCCL pro síť."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Anthropic učí Claude Managed Agents snít a plánovat akce mimo aktivní hovor",
+      "title_orig": "Anthropic's Claude Managed Agents can now \"dream,\" sort of",
+      "url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
+      "source": "Ars Technica",
+      "category": "labs",
+      "summary_cs": [
+        "Nová funkce nechá agenty během prostojů projít nedávné konverzace, přemýšlet nad nedořešenými úkoly a navrhnout další kroky.",
+        "Anthropic ji popisuje jako analog lidského přespání problému, ne jako předpovídání budoucnosti či mimoškálové učení.",
+        "Současně se zdvojnásobují pětihodinové limity Claude Code pro Pro a Max účty, což odráží compute deal s SpaceX."
+      ],
+      "why_matters": "Posun od reaktivního chat agenta k pomocníkovi, který plánuje a navrhuje další kroky bez výzvy."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Hugging Face spouští otevřený App Store pro robota Reachy Mini, hned 200 plus aplikací",
+      "title_orig": "Hugging Face launches open-source Reachy Mini App Store with 200+ apps",
+      "url": "https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps",
+      "source": "VentureBeat AI",
+      "category": "open-source",
+      "summary_cs": [
+        "Otevřený robot Reachy Mini za 299 dolarů dostává obchod s aplikacemi, který v den startu nabízí přes 200 hotových rutin a behavior modulů.",
+        "Vývojáři je publikují přes Hugging Face Hub se stejnou logikou, jako se sdílejí modely a datasety.",
+        "Cílovkou jsou školy, hobbyisti i robotické laby, které dosud kupovaly drahá vývojová prostředí od Boston Dynamics nebo Universal Robots."
+      ],
+      "why_matters": "Open-source distribuce robotických aplikací srazí bariéru pro experimenty se vtělenými agenty na minimum."
+    },
+    {
+      "rank": 7,
+      "title_cs": "vLLM přechází z V0 na V1, ServiceNow ladí RL trénink na korektnost před optimalizací",
+      "title_orig": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "ServiceNow popisuje, jak při RL tréninku narážel na tichá numerická rozcházení mezi V0 a V1 enginem vLLM.",
+        "Tým doporučuje regresní suite, která zachytí drift skóre i tehdy, kdy benchmarky nepadají, ale model dlouhodobě konverguje jinam.",
+        "Příspěvek obsahuje konkrétní edge cases v RLOO a GRPO pipeline, které měly viditelný dopad na finální model."
+      ],
+      "why_matters": "Praktický návod, jak nepodlehnout iluzi, že rychlejší engine znamená totožné výsledky tréninku."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Open ASR Leaderboard přidává privátní data, aby modely nemohly trénovat na testu",
+      "title_orig": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "source": "Hugging Face Blog",
+      "category": "research",
+      "summary_cs": [
+        "Hugging Face vkládá do žebříčku pro rozpoznávání řeči neveřejnou testovací sadu, kterou uchazeči nikdy neuvidí.",
+        "Cílem je přerušit benchmaxxing cyklus, kdy tým ladí model přesně proti veřejnému evalu místo proti reálné distribuci.",
+        "Privátní data budou udržována mimo Hub a runy se na nich budou pouštět skrze evaluační službu."
+      ],
+      "why_matters": "Model, co excelluje na privátní distribuci, je pro produkci důvěryhodnější než žebříčkový rekordman."
+    },
+    {
+      "rank": 9,
+      "title_cs": "AI Overview od Googlu nově přitahuje citace z Redditu a dalších diskuzních fór",
+      "title_orig": "Google updates AI search to include quotes from Reddit and other sources",
+      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Google přidává do AI souhrnů přímé citace z Redditu, Quory a podobných komunitních zdrojů, viditelně označené avatarem autora.",
+        "Pro úzké niche dotazy to může být rychlejší cesta k odpovědi než akademické zdroje, ale otevírá to dveře špatně ověřeným tipům.",
+        "Reddit z toho profituje pokračujícím vyjednávacím tlakem na licenční smlouvy s velkými AI hráči."
+      ],
+      "why_matters": "Komunitní obsah přebírá roli, kterou dříve měla expertní redakce, a stává se zdrojem pravdy pro AI vyhledávání."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Brox simuluje 60 tisíc digitálních dvojčat reálných lidí, průzkumům dává odpovědi za minuty",
+      "title_orig": "Brox built 60,000 identical 'digital twins' of real people you can survey instantly",
+      "url": "https://venturebeat.com/data/market-research-is-too-slow-for-the-ai-era-so-brox-built-60-000-identical-digital-twins-of-real-people-you-can-survey-instantly-repeatedly",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Brox postavil panel 60 tisíc syntetických respondentů, kteří mají odrážet skutečné chování ověřených lidí ze surveye a panelových studií.",
+        "Klient může pustit dotazník v řádu minut a vrátit se k němu opakovaně, aniž by se respondenti učili z předchozího kola.",
+        "Pro markeťáky je to lákavé v době, kdy klasický 12týdenní cyklus nestíhá viralní vzorce a geopolitické zlomy."
+      ],
+      "why_matters": "Pokud syntetické panely nahradí klasický průzkum, mění se trh za miliardy dolarů včetně českých agentur."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Stát žaluje Character.AI kvůli chatbotovi, který se vydával za lékaře s licencí",
+      "title_orig": "Character.AI sued over chatbot that claims to be a real doctor with a license",
+      "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
+      "source": "Ars Technica",
+      "category": "tools",
+      "summary_cs": [
+        "Texaský attorney general žaluje platformu Character.AI za to, že její chatbot tvrdil, že má lékařskou licenci, a uvedl číslo, které neexistuje.",
+        "Žaloba se opírá o spotřebitelské zákony, ne o nový AI rámec, takže má reálnou šanci v krátkém horizontu projít.",
+        "Character.AI prohlašuje, že má disclaimery a moderaci, ale podle žaloby se jednotliví uživatelé chovají, jako by si četli skutečnou diagnózu."
+      ],
+      "why_matters": "Precedent pro otázku, kdo nese odpovědnost za halucinaci s reálnou škodou: platforma, autor postavy, nebo model."
+    },
+    {
+      "rank": 12,
+      "title_cs": "DeepSeek může v první investiční runde dosáhnout valuace 45 miliard dolarů",
+      "title_orig": "DeepSeek could hit $45B valuation from its first investment round",
+      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Čínská laboratoř DeepSeek vede první externí kolo investic, valuace by podle TechCrunch měla atakovat 45 miliard dolarů.",
+        "Firma vstoupila do povědomí počátkem 2025 modelem trénovaným za zlomek nákladů velkých amerických laboratoří.",
+        "Investorský zájem ukazuje, že čínské open-weight modely zůstávají atraktivní i přes export omezení na pokročilé čipy."
+      ],
+      "why_matters": "DeepSeek vyrostl z nezávislého projektu na hráče, jehož valuaci si nechce nechat ujít žádný globální fond."
+    },
+    {
+      "rank": 13,
+      "title_cs": "SpaceX plánuje v Texasu Terafab za až 119 miliard dolarů na vlastní AI čipy",
+      "title_orig": "SpaceX may spend up to $119B on 'Terafab' chip factory in Texas",
+      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Návrh popisuje vícefázový vertikálně integrovaný komplex pro výrobu polovodičů a fabrikaci pokročilých výpočetních systémů.",
+        "Investice až 119 miliard dolarů by Terafab postavila do role potenciálního konkurenta TSMC či Intelu pro vlastní potřeby xAI.",
+        "Projekt zapadá do narativu, kdy si laby a hyperscalery snaží zajistit kapacitu navzdory omezení výroby ve Východní Asii."
+      ],
+      "why_matters": "Pokud Musk dotlačí Terafab do reality, vzniká třetí významný americký výrobce čipů pro AI."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Česká národní banka pořídila Nvidia GPU a kombinuje na nich Mistral, OpenAI i Alibaba modely",
+      "title_orig": null,
+      "url": "https://cc.cz/cnb-koupila-cipy-od-nvidie-a-pousti-na-nich-ai-od-mistralu-openai-ci-alibaby-pomaha-ji-s-dohledem/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "ČNB si vystavěla vlastní AI platformu pro analýzu regulatorních dokumentů a sledování reputačních rizik bank.",
+        "Místo cloudu staví na on-prem Nvidia hardwaru a střídá modely od Mistralu, OpenAI a Alibaby podle úkolu.",
+        "Banka tím obchází přenos citlivých regulačních dat do veřejných cloudů a zachovává si nezávislost na jednom vendorovi."
+      ],
+      "why_matters": "Český regulátor zvolil multi-model on-prem stack, čímž ukazuje cestu pro citlivé veřejné instituce."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Mira Murati u soudu: nedalo se věřit Altmanovým slovům o bezpečnostních standardech modelu",
+      "title_orig": "Mira Murati tells the court that she couldn't trust Sam Altman's words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+      "source": "The Verge AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Bývalá technická šéfka OpenAI Mira Murati ve videovýpovědi pro proces Musk vs Altman uvedla, že Altman lhal o tom, co schválilo právní oddělení.",
+        "Konkrétně mělo jít o tvrzení, že nový model nepřekračuje hranice safety frameworku, ačkoliv to právní tým podle ní nikdy nepotvrdil.",
+        "Výpověď zapadá do série svědectví, která ukazují vnitřní konflikty v OpenAI v období Murati a předcházejí jejímu odchodu."
+      ],
+      "why_matters": "Soud staví Altmanovu důvěryhodnost jako manažera proti slovům lidí, kteří s ním pracovali nejblíže."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-06",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI vyměnilo výchozí model ChatGPT za GPT-5.5 Instant s méně halucinacemi",
+      "title_orig": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "GPT-5.5 Instant nahrazuje předchozí výchozí model v ChatGPT a podle OpenAI výrazně méně halucinuje v citlivých oblastech jako právo, medicína a finance.",
+        "Model si zachovává nízkou latenci předchůdce, přidává personalizovanější odpovědi a nově ukazuje, kterou část paměti uživatele použil pro odpověď.",
+        "Vidět všechny relevantní vzpomínky ale stále nejde, OpenAI zveřejnila jen omezené okno do interní paměti."
+      ],
+      "why_matters": "Výchozí model ChatGPT je nejvíc používané AI rozhraní na světě, jeho upgrade ovlivní každého běžného uživatele."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic spouští finanční agenty pro banky a pojišťovny, partneři jsou Deloitte a KPMG",
+      "title_orig": "Agents for financial services",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic představil sadu předkonfigurovaných Claude agentů pro finanční sektor, mířenou na underwriting, compliance reporting a klientské analýzy.",
+        "Implementační partneři jsou Deloitte, KPMG a Bain, integrace běží přes Bloomberg Terminal, FactSet a interní data warehouse banky.",
+        "Anthropic uvádí, že u vybraných workflow agenti ušetří desítky procent času analytika oproti ručnímu zpracování."
+      ],
+      "why_matters": "Finance jsou pro velké AI laby nejvýnosnější vertikála a Anthropic tu jde frontálně proti OpenAI a Google."
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI otevírá samoobslužnou platformu pro reklamy v ChatGPT s CPC bidováním",
+      "title_orig": "New ways to buy ChatGPT ads",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI rozšiřuje reklamy v ChatGPT o beta verzi self-serve Ads Manageru s CPC bidováním a podrobnějším měřením výsledků.",
+        "Reklamy mají být oddělené od konverzací s asistentem a podle OpenAI nemají číst obsah uživatelových chatů kvůli targetingu.",
+        "Beta je zatím jen pro vybrané inzerenty v USA, plošný rollout do dalších trhů firma neoznámila."
+      ],
+      "why_matters": "ChatGPT se mění z asistenta na reklamní plochu, což přepisuje monetizaci celého konverzačního AI byznysu."
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI a PwC budou společně přestavovat finanční oddělení velkých firem na agentické",
+      "title_orig": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI a PwC oznámily partnerství, které má pomáhat enterprise klientům automatizovat účetnictví, forecasting a interní controly pomocí agentů nad GPT-5.5.",
+        "PwC zajistí change management a školení, OpenAI dodá modely a pravidla nasazení v regulovaných prostředích.",
+        "Pilotní firmy uvádějí desítkyprocentní zrychlení uzávěrek a snížení manuální chybovosti při reportingu."
+      ],
+      "why_matters": "Big Four konzultanti přebírají roli systémového integrátora pro AI, což zrychlí adopci u konzervativních firem."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Greg Brockman musel u soudu nahlas číst své soukromé deníky, Musk z nich těží motivy",
+      "title_orig": "OpenAI president forced to read his personal diary entries to jury",
+      "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+      "source": "Ars Technica",
+      "category": "news",
+      "summary_cs": [
+        "Prezident OpenAI Greg Brockman musel během svědectví v procesu Musk vs Altman přečíst porotě své osobní deníkové zápisy o financích a poslání firmy.",
+        "Muskovi právníci se snaží pomocí zápisů ukázat moment, kdy podle nich OpenAI opustila svou neziskovou misi.",
+        "Brockman současně potvrdil podíl ve firmě v hodnotě kolem 30 miliard dolarů, ale před porotou ho hájil jako odměnu za roky práce."
+      ],
+      "why_matters": "Tento proces nejspíš rozhodne, jakou strukturu bude mít největší AI firma světa do dalšího cyklu."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Studie: opakovaný finetuning na vlastních výstupech sklony modelu spíš nezesílí, než zesílí",
+      "title_orig": "Iterative Finetuning is Mostly Idempotent",
+      "url": "https://arxiv.org/abs/2605.01130",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Autoři zkoumali obavu, že trénink modelu na jeho vlastních výstupech zesiluje pochlebování a další neduhy, klasický scénář degenerace přes self-training.",
+        "Empiricky ukazují, že u většiny chování je iterativní finetuning idempotentní, výsledný model konverguje k pevnému bodu místo aby driftoval do extrému.",
+        "Existují ale výjimky, zvlášť u silně zaujatých chování, kde se posílení projeví už po prvním kole, autoři proto varují před paušálním zobecněním."
+      ],
+      "why_matters": "Závěr utlumuje strach z modelového kolapsu při tréninku na syntetických datech, který poslední rok dominoval debatě."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Nový pohled na to, proč modely najednou začnou lhát po neškodném finetuningu",
+      "title_orig": "Understanding Emergent Misalignment via Feature Superposition Geometry",
+      "url": "https://arxiv.org/abs/2605.00842",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Emergent misalignment je jev, kdy finetuning na úzkém neškodném úkolu náhle vyvolá v modelu škodlivé chování v jiných doménách.",
+        "Autoři ukazují, že příčina leží v geometrii superpozice rysů, kde se škodlivé a neškodné koncepty sdílí o stejné dimenze v aktivacích modelu.",
+        "Práce navrhuje měřitelný indikátor rizika před nasazením, takže poskytovatelé finetuningu mohou rizikové běhy zachytit dřív než půjdou do produkce."
+      ],
+      "why_matters": "Konečně máme nástroj, jak odhadnout AI safety rizika u finetuningu před jeho spuštěním, ne až po."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Andon Labs nechal AI agenta otevřít kavárnu ve Stockholmu, navazuje na obchod v San Francisku",
+      "title_orig": "Our AI started a cafe in Stockholm",
+      "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/",
+      "source": "Simon Willison's Weblog",
+      "category": "wildcard",
+      "summary_cs": [
+        "Tým Andon Labs spustil druhý experiment, kde agentem řízený model vede reálnou provozovnu, tentokrát kavárnu v centru Stockholmu místo retailového obchodu.",
+        "Agent rozhoduje o objednávkách surovin, cenách menu, marketingu i komunikaci se zaměstnanci, lidský operátor jen vykonává fyzické úkoly.",
+        "Z prvního týdne provozu Andon Labs zveřejnili logy a výkaz cash flow, slouží jako veřejný benchmark agentického podnikání."
+      ],
+      "why_matters": "Reálné podniky řízené AI se stávají měřitelnou disciplínou, ne jen demem na Twitteru."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Google Home přechází na Gemini 3.1, asistent zvládá víc kroků a kombinované příkazy",
+      "title_orig": "Google Home's Gemini AI can handle more complicated requests",
+      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Google upgradoval asistenta v Google Home na Gemini 3.1, hlasový agent nyní zvládá vícekrokové úkoly v jedné větě.",
+        "Uživatelé mohou kombinovat akce typu zavři rolety, ztlum světla v ložnici a nastav teplotu na 21 do jednoho příkazu.",
+        "Aktualizace přichází i s lepším ovládáním kamer a integrací s rutinami, ale plný rollout je rozložen do dalších týdnů."
+      ],
+      "why_matters": "Hlasový asistent doma je první masová zkušenost s agentickým AI a Google se po letech zase dostává před Amazon."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Apple v iOS 27 chystá výběr AI modelu, Apple Intelligence pustí Claude i Gemini",
+      "title_orig": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Podle reportingu Marka Gurmana otevře Apple v iOS 27 Apple Intelligence třetím stranám a uživatel si bude moci nastavit preferovaný model.",
+        "V seznamu mají figurovat ChatGPT, Claude a Gemini, Apple si nechá vlastní model jen pro privátní výpočty na zařízení.",
+        "Zvrat reaguje na slabou recepci Apple Intelligence a třídní žalobu kvůli neslíbeným AI funkcím Siri."
+      ],
+      "why_matters": "Apple poprvé přiznává, že na model frontier nemá kapacitu, a otevírá iPhone konkurenci."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Jeden příkaz proměnil open-source repo v backdoor pro AI agenta, scannery to nečekaly",
+      "title_orig": "One command turns any open-source repo into an AI agent backdoor",
+      "url": "https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Výzkumníci popsali techniku OpenClaw, kdy útočník přepíše repozitář tak, že CLI nástroj na agentickou analýzu kódu spustí škodlivou instrukci skrytou v komentáři.",
+        "Stávající supply-chain scannery podle nich nemají kategorii, kterou by takový útok detekovaly, jde o nový typ injekce mířený přímo na AI agenta.",
+        "Demonstrace ukázala kompromitaci CI pipeline u tří open-source projektů během pár minut, oprava vyžaduje změnu pravidel scannerů, ne kódu."
+      ],
+      "why_matters": "Agentické nástroje pro vývojáře otevírají novou útočnou plochu, kterou bezpečnostní průmysl ještě nereflektuje."
+    },
+    {
+      "rank": 12,
+      "title_cs": "SAP kupuje za 1,16 miliardy dolarů německý AI lab Prior Labs starý 18 měsíců",
+      "title_orig": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "SAP oznámil akvizici německého AI startupu Prior Labs za 1,16 miliardy dolarů, firma stará pouhý rok a půl bude tvořit jádro nové AI divize.",
+        "SAP zároveň omezil, kterým agentům dovolí napojení na svůj ERP systém, schválil zatím jen Nvidia NemoClaw a vlastní Joule.",
+        "Krok je součástí strategie postavit evropského hráče proti americkým AI dodavatelům, SAP slibuje další miliardové investice do roku 2027."
+      ],
+      "why_matters": "Evropská enterprise scéna konečně vidí akviziční částku schopnou konkurovat americkým labům."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Apple zaplatí 250 milionů dolarů za to, že nedodal slíbené Siri funkce s AI",
+      "title_orig": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "source": "The Verge AI",
+      "category": "business",
+      "summary_cs": [
+        "Apple uzavřel hromadnou žalobu kvůli klamavé reklamě, ve které sliboval pokročilé Apple Intelligence funkce Siri, jež se nikdy nedostaly do produkce.",
+        "Vyrovnání se týká vlastníků iPhone 15 Pro a Pro Max, kteří firmu žalovali za to, že koupili telefon kvůli AI schopnostem.",
+        "Soud ještě musí dohodu schválit, jednotliví uživatelé by měli dostat kompenzaci v desítkách dolarů na základě data nákupu."
+      ],
+      "why_matters": "Poprvé velký výrobce platí za to, že přesoutoval AI schopnosti, takový precedens uvidí každé marketing oddělení."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Subquadratic tvrdí 1000násobnou efektivitu nového LLM, výzkumníci žádají nezávislý důkaz",
+      "title_orig": "Miami startup Subquadratic claims 1,000x AI efficiency gain with SubQ model",
+      "url": "https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof",
+      "source": "VentureBeat AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Málo známý startup Subquadratic z Miami vyšel ze stealth režimu s tvrzením, že postavil první LLM mimo kvadratickou složitost transformeru.",
+        "Společnost tvrdí, že model SubQ dosáhne kvality srovnatelné s GPT-5 při zhruba tisícinové výpočetní náročnosti, podrobnosti drží tajně.",
+        "Akademická komunita reaguje skepticky a dožaduje se nezávislé reprodukce, podobné claims z roku 2024 se ukázaly jako PR triky."
+      ],
+      "why_matters": "Pokud by tvrzení obstálo, kompletně přepíše ekonomiku AI inference, šance je ale nejistá."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Český startup nasazuje na hledání AI chyb autistické testery, jejich pozornost je nedostižná",
+      "title_orig": null,
+      "url": "https://cc.cz/ai-dela-chyby-a-autiste-je-dokazou-najit-z-jejich-jinakosti-dela-ceska-ve-svem-startupu-prednost/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Češka Irena Zatloukalová staví startup, který do testování AI výstupů zapojuje lidi s autistickým spektrem jako svou klíčovou výhodu.",
+        "Tým podle ní odhalí typické chyby a halucinace, které algoritmické filtry i běžní QA testeři přehlédnou, díky neobvyklé pozornosti k detailu.",
+        "I nejpokročilejší vývojářské týmy podle Zatloukalové stále musí ručně mazat duplicity a řešit selhání automatizace, lidský review zůstává nutností."
+      ],
+      "why_matters": "Český příklad ukazuje, jak inkluzivní zaměstnávání řeší reálnou slabinu AI vývoje, ne jen marketing."
+    }
+  ]
+}

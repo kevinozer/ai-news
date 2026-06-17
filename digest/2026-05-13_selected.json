@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-13",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Perceptron Mk1 nabízí video analýzu o 80-90 procent levněji než Anthropic, OpenAI a Google",
+      "title_orig": "Perceptron Mk1 shocks with highly performant video analysis AI model 80-90% cheaper than Anthropic, OpenAI & Google",
+      "url": "https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Dvouletý startup Perceptron Inc. vedený bývalým výzkumníkem z Meta FAIR Armenem Aghajanyanem uvolnil vlajkový video model Mk1 s cenou 0,15 USD za milion vstupních tokenů a 1,50 USD za milion výstupních.",
+        "Cena je o 80 až 90 procent nižší než u Claude Sonnet 4.5, GPT-5 a Gemini 3.1 Pro, model přitom dle zveřejněných benchmarků zvládá analýzu živého videa, detekci akcí a porozumění fyzickému světu.",
+        "Firma cílí na enterprise nasazení od dohledových kamer přes marketingové sestřihy až po HR a klinické studie, kde dosud nebyla cenově dostupná kontinuální vizuální analýza."
+      ],
+      "why_matters": "Spouští cenovou válku ve videu, do které velké laby budou muset reagovat snižováním marže."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic vstupuje na trh AI právních služeb, cílí na automatizaci kancelářské práce v advokacii",
+      "title_orig": "The AI legal services industry is heating up - Anthropic is getting in on the action",
+      "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic uvedl nástroje pro advokátní kanceláře zaměřené na vyhledávání v dokumentech, rešerši judikatury, přípravu výslechů a tvorbu konceptů podání.",
+        "Nabídka cílí na automatizaci rutinní klerikální práce, kterou v US advokacii dosud dělají juniorní právníci a paralegálové.",
+        "Anthropic tím vstupuje do segmentu, kde dlouhodobě působí Harvey, Spellbook nebo Casetext, a využívá enterprise pozici, kterou si vybudoval u firem."
+      ],
+      "why_matters": "Anthropic přechází z modelů na vertikální produkty, čímž se mění konkurenční dynamika v enterprise AI."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic varuje investory před druhotnými platformami, které prodávají přístup k jeho akciím",
+      "title_orig": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Firma na své support stránce explicitně prohlásila, že jakýkoli prodej či převod akcií Anthropicu nabízený externími platformami je neplatný a nebude uznán v jejích záznamech.",
+        "Varování míří na sekundární trhy a SPV vehikly, kde drobní investoři skupují pro-rata podíly v hot AI startupech bez vědomí emitenta.",
+        "Anthropic se po vyjednávání kola s valuací mířící k 900 miliardám dolarů snaží uzavřít cap table před plánovaným IPO nebo dalšími velkými koly."
+      ],
+      "why_matters": "Indikuje, jak vážně velká AI laba berou disciplínu vlastnické struktury před plánovaným exitem."
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI hlásí, jak ChatGPT prorazil mezi uživatele nad 35 let a vyrovnal poměr mužů a žen",
+      "title_orig": "How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "V prvním kvartálu 2026 ChatGPT zaznamenal nejrychlejší růst v generaci 35 plus a poměr mužů a žen v aktivní bázi se přiblížil vyrovnanému stavu.",
+        "OpenAI v reportu mluví o přechodu z early-adopter fáze do hlavního proudu, mezi důvody jmenuje zlepšení dlouhého kontextu, hlasový režim a integrace v Microsoft 365.",
+        "Zveřejněné metriky nezahrnují korporátní seaty, ChatGPT Business a Enterprise sledují podle OpenAI vlastní křivku adopce."
+      ],
+      "why_matters": "Mainstream základna mění ekonomiku produktu, prioritní teď jsou retention a defaulty pro běžné uživatele."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Google na Android Show ukázal Googlebooks, vibe coding widgetů a agentického Gemini napříč systémem",
+      "title_orig": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+      "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Google před I/O odhalil novou kategorii AI-first notebooků Googlebooks postavených na Androidu, nahrazují historickou linii Chromebooků.",
+        "Agentní Gemini získává hlubší ovládání telefonu, vibe-coded widgety umožňují každému uživateli stvořit aplikaci ve stylu Cursor pro Android.",
+        "Gemini přichází do Chrome jako vestavěný copilot, Android Auto dostává redesign a posíleného hlasového asistenta pro řidiče."
+      ],
+      "why_matters": "Google posouvá Android z reaktivní platformy na proaktivní AI prostředí, tlak na Apple Intelligence poroste."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Latent Space prohlašuje konec finetuningu, hlavní páka přechází na continual learning a tool use",
+      "title_orig": "The End of Finetuning",
+      "url": "https://www.latent.space/p/ainews-the-end-of-finetuning",
+      "source": "Latent Space",
+      "category": "research",
+      "summary_cs": [
+        "Newsletter argumentuje, že klasický supervised finetuning ztrácí roli jako primární cesta k doménovému modelu, protože RL na vlastních datech a continual learning dávají rychleji lepší výsledky.",
+        "Velké laby podle textu posouvají vrstvu adaptace ze static dataset tuningu na on-policy učení během inference a využití nástrojů.",
+        "Pro enterprise zákazníky to znamená posun investic z fine-tuning pipelines do data flywheel a evaluací místo do GPU hodin na tréninku."
+      ],
+      "why_matters": "Strategie firem stavějících na finetuningu jako konkurenční výhodě prochází zásadní revizí."
+    },
+    {
+      "rank": 7,
+      "title_cs": "MIT Technology Review zařadil world models mezi deset věcí, na kterých teď v AI záleží",
+      "title_orig": "World Models: 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "summary_cs": [
+        "Editor MIT Technology Review Niall Firth vysvětluje, proč modely simulující fyzikální realitu světa získávají v laboratořích i komerci pozornost.",
+        "World models slibují robustnější robotiku, pokročilejší video generaci a předvídatelnější agenty, kteří nemusí učení dělat jen z textu.",
+        "Pole má před sebou hluboký výzkumný spor o tom, zda lze model světa vytrénovat čistě z videa nebo zda potřebuje aktivní interakci s prostředím."
+      ],
+      "why_matters": "Po LLM se pozornost stočí na modely, které rozumí fyzice a kauzalitě, ne jen jazyku."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Wired ukazuje, že CUDA dělá z Nvidie softwarovou firmu, nejen výrobce čipů",
+      "title_orig": "CUDA Proves Nvidia Is a Software Company",
+      "url": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+      "source": "Wired AI",
+      "category": "research",
+      "summary_cs": [
+        "Článek argumentuje, že skutečný Nvidia moat není v hardwaru, ale v dvacet let budované softwarové vrstvě CUDA, kterou nelze rychle replikovat.",
+        "Konkurenční čipy AMD MI300X i custom akcelerátory hyperscalerů narážejí na to, že ekosystém knihoven, ovladačů a optimalizací leží na CUDA.",
+        "Pokud chce kdokoliv reálně Nvidii nahradit, musí investovat do desetileté softwarové infrastruktury, ne jen do silikonu."
+      ],
+      "why_matters": "Vysvětluje, proč jsou pokusy o anti-Nvidia strategii (AMD, vlastní křemík hyperscalerů) tak pomalé."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Vapi má valuaci 500 milionů dolarů poté, co Amazon Ring vybral jeho hlasovou AI ze 40 nabídek",
+      "title_orig": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Vapi staví platformu pro hlasové AI agenty zaměřené na zákaznický servis a outbound prodej, jeho enterprise byznys vzrostl od začátku 2025 desetinásobně.",
+        "Amazon Ring si Vapi vybral pro nasazení hlasových agentů ve své linii zabezpečení domácností, výběr proběhl mezi 40 dodavateli.",
+        "Kolo s valuací 500 milionů dolarů potvrzuje, že enterprise vrstva nad voice modely od OpenAI a Anthropicu se stává samostatnou kategorií trhu."
+      ],
+      "why_matters": "Ukazuje, kde se v AI hodnotě tvoří marže, a to není u modelů, ale u orchestrace nad nimi."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Slevomat jako jedna z prvních firem na světě má vlastní aplikaci přímo v ChatGPT",
+      "title_orig": "Slevomat má jako jedna z prvních firem vlastní aplikaci v ChatGPT, AI může doporučovat jeho nabídku",
+      "url": "https://www.lupa.cz/aktuality/slevomat-ma-jako-jedna-z-prvnich-firem-vlastni-aplikaci-v-chatgpt-ai-muze-doporucovat-jeho-nabidku/",
+      "source": "Lupa.cz",
+      "category": "tools",
+      "summary_cs": [
+        "Slevomat spustil aplikaci v ekosystému ChatGPT App SDK, díky níž může AI uživatelům přímo doporučovat zájezdy, restaurace a zážitky z jeho nabídky.",
+        "Firma reaguje na trend, kdy uživatelé místo Googlu hledají rovnou v AI chatbotech, a chce být fyzicky tam, kde tráví pozornost.",
+        "Z technické strany Slevomat využívá nový App SDK od OpenAI, který povoluje firmám prezentovat produkt přímo v konverzaci, ne jen jako externí link."
+      ],
+      "why_matters": "Český retail jako jeden z prvních ukazuje, jak vypadá distribuce produktů v post-search éře."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Google Gboard dostává Gemini diktování, výrobcům dedikovaných diktovacích aplikací hrozí konec",
+      "title_orig": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+      "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Google integruje hlasový přepis poháněný Gemini přímo do své systémové klávesnice Gboard, funkce nejprve dorazí na Galaxy a Pixel telefony.",
+        "Přepis běží lokálně i v cloudu podle kontextu, podporuje češtinu a vyšší přesnost než stávající Live Transcribe.",
+        "Pro startupy jako Wispr Flow, Superwhisper nebo Aqua Voice je to klasický Sherlock moment, jejich klíčová funkcionalita se stává OS defaultem."
+      ],
+      "why_matters": "Když platforma vestaví funkci, kterou vy prodáváte, máte rok na pivot nebo akvizici."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Česko-americká Exaforce získala 2,6 miliardy korun na agenty pro centra kybernetické bezpečnosti",
+      "title_orig": "Česko-americká Exaforce, která vyvíjí agenty pro bezpečnostní operace, získala 2,6 miliardy",
+      "url": "https://www.lupa.cz/aktuality/cesko-americka-exaforce-ktera-vyviji-agenty-pro-bezpecnostni-operace-ziskala-2-6-miliardy/",
+      "source": "Lupa.cz",
+      "category": "business",
+      "summary_cs": [
+        "Exaforce oznámil investici 125 milionů dolarů, tedy zhruba 2,6 miliardy korun, jde o jedno z největších kol v segmentu AI SOC.",
+        "Firma staví autonomní agenty pro detekci, vyšetřování a reakci na bezpečnostní incidenty v reálném čase, konkurenci jí dělá Push Security nebo Dropzone AI.",
+        "Investice přichází rok po Series A za 75 milionů dolarů, celkové financování firmy založené v roce 2023 přesahuje v přepočtu čtyři miliardy korun."
+      ],
+      "why_matters": "Český zakladatelský tým ukazuje, že globální trh kyberbezpečnosti je otevřený i pro CEE startupy."
+    },
+    {
+      "rank": 13,
+      "title_cs": "V Česku spustí regulatorní sandbox pro AI, firmy budou moci testovat technologie bez hrozby pokut",
+      "title_orig": "V Česku bude možné už letos testovat umělou inteligenci bez hrozby pokut a postihů",
+      "url": "https://www.lupa.cz/aktuality/v-cesku-bude-mozne-uz-letos-testovat-umelou-inteligenci-bez-hrozby-pokut-a-postihu/",
+      "source": "Lupa.cz",
+      "category": "business",
+      "summary_cs": [
+        "Český regulátor připravuje sandbox pro umělou inteligenci, firmy v něm budou moci letos testovat technologie v chráněném prostředí bez sankcí.",
+        "Sandbox naváže na obdobný model, který v únoru začal fungovat pro fintech, a má pomoci českým firmám připravit se na evropský AI Act.",
+        "Stát zatím nezveřejnil konkrétní pravidla, podle čeho se vybírají účastníci ani jak dlouho lze v sandboxu zůstat bez plné regulace."
+      ],
+      "why_matters": "Pro českou AI scénu znamená první institucionální nástroj, který snižuje právní třecí plochu při testování."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Altman u soudu řekl, že Musk uvažoval o předání OpenAI svým dětem, popisuje ho jako posedlého kontrolou",
+      "title_orig": "Elon Musk Had Hair-Raising Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+      "url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Sam Altman pod přísahou popsal, že Musk v rané fázi OpenAI navrhoval předat firmu svým dětem, čemuž ostatní zakladatelé oponovali.",
+        "Muskovi právníci se snažili zpochybnit Altmanovu věrohodnost odhalením jeho finančních investic, ale Altman převzal narativ a Muska vykreslil jako fixovaného na kontrolu.",
+        "Výpověď navazuje na týden, kdy svědčili Ilya Sutskever a Mira Murati, soud nyní vstupuje do své klíčové fáze."
+      ],
+      "why_matters": "Otevírá detaily zákulisí, které jsou normálně nedostupné, a mění obraz raných let OpenAI."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Hollywoodský scenárista popisuje, jak většina lidí z TV produkce teď v utajení trénuje AI",
+      "title_orig": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
+      "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Wired publikoval reportáž scenáristky, která za osm měsíců prošla dvaceti kontrakty na anotaci a trénink AI scénářů pro pět různých platforem.",
+        "Práce se dělá pod NDA, lidé z Hollywoodu ji berou jako náhradu za stávkami otřesený TV průmysl, mzdy jsou srovnatelné s gigem v gastronomii.",
+        "Reportáž odhaluje, že velká část trénovacích dat dnešních narativních modelů pochází přímo z labutí písně klasického scenáristického řemesla."
+      ],
+      "why_matters": "Ukazuje, kdo ve skutečnosti dodává know-how do generativních modelů a za jakou cenu."
+    }
+  ]
+}

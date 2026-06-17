@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-14",
+  "articles": [
+    {
+      "rank": 1,
+      "category": "labs",
+      "source": "The Verge AI",
+      "title_cs": "Za zákazem Anthropic modelů Fable a Mythos stál podle WSJ Amazon",
+      "title_orig": "Amazon security research reportedly led to the White House's Anthropic Fable ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "summary_cs": [
+        "Podle Wall Street Journal spustil vládní směrnici o exportní kontrole bezpečnostní výzkum Amazonu a rozhovory šéfa Andyho Jassyho s Bílým domem.",
+        "Amazonská studie tvrdí, že modely Fable 5 a Mythos 5 dokázaly v řetězci kroků provést rizikové úkoly, které vzbudily obavy o národní bezpečnost.",
+        "Anthropic minulý pátek na příkaz vlády odřízl celosvětový přístup k oběma modelům."
+      ],
+      "why_matters": "Ukazuje, jak konkurenční tlak a bezpečnostní obavy mohou vést k vládním zásahům do AI."
+    },
+    {
+      "rank": 2,
+      "category": "labs",
+      "source": "OpenAI Blog",
+      "title_cs": "OpenAI kupuje Ona a rozšiřuje Codex o trvalá cloudová prostředí",
+      "title_orig": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "summary_cs": [
+        "OpenAI plánuje akvizici firmy Ona, aby rozšířila nástroj Codex o zabezpečená a trvalá cloudová prostředí.",
+        "Cílem je umožnit dlouho běžící AI agenty napříč podnikovými pracovními postupy.",
+        "Krok posiluje sázku OpenAI na agenty schopné samostatně pracovat na úlohách delší dobu."
+      ],
+      "why_matters": "Boj o firemní AI agenty se vyostřuje, Codex se posouvá od psaní kódu k širší automatizaci."
+    },
+    {
+      "rank": 3,
+      "category": "labs",
+      "source": "TechCrunch AI",
+      "title_cs": "OpenAI čelí vyšetřování ze strany amerických státních návladních",
+      "title_orig": "OpenAI faces investigation from state attorneys general",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "summary_cs": [
+        "Skupina státních návladních zahájila vyšetřování OpenAI, není ale jasné, které státy se ho účastní.",
+        "Otázky míří na reklamní zásady firmy i na nakládání se zdravotními daty uživatelů.",
+        "Tlak regulátorů na OpenAI roste souběžně s jejím přechodem k širšímu komerčnímu modelu."
+      ],
+      "why_matters": "Regulační dohled nad AI sílí, dotýká se reklamy i citlivých zdravotních dat uživatelů."
+    },
+    {
+      "rank": 4,
+      "category": "labs",
+      "source": "Google DeepMind Blog",
+      "title_cs": "Google DeepMind vyčlenil 10 milionů dolarů na bezpečnost více agentů",
+      "title_orig": "Investing in multi-agent AI safety research",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "summary_cs": [
+        "Google DeepMind a partneři vyhlásili grantovou výzvu na 10 milionů dolarů pro výzkum bezpečnosti systémů s více AI agenty.",
+        "Cílem je porozumět rizikům, která vznikají, když spolu agenti interagují a soupeří.",
+        "Výzva reaguje na rychlý nástup nasazení, kde spolupracuje hned několik AI agentů najednou."
+      ],
+      "why_matters": "Více agentů pracujících společně přináší nová bezpečnostní rizika, na která zatím chybí výzkum."
+    },
+    {
+      "rank": 5,
+      "category": "labs",
+      "source": "Google DeepMind Blog",
+      "title_cs": "Studie potvrdila, že Gemini umí v Sieře Leone zrychlit učení",
+      "title_orig": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "summary_cs": [
+        "Randomizovaná kontrolovaná studie ukázala potenciál funkce Guided Learning v modelu Gemini zvýšit zapojení žáků.",
+        "Výsledky naznačují, že vedené učení s AI dokáže urychlit osvojování látky.",
+        "Pokus probíhal v Sieře Leone a podle Googlu má přesah i do dalších zemí."
+      ],
+      "why_matters": "Přináší tvrdá data, že AI ve výuce může reálně fungovat i v rozvojových zemích."
+    },
+    {
+      "rank": 6,
+      "category": "open-source",
+      "source": "VentureBeat AI",
+      "title_cs": "Moonshot vydal Kimi K2.7-Code, šetří 30 procent tokenů na uvažování",
+      "title_orig": "Kimi K2.7-Code cuts thinking tokens 30% but practitioners say the benchmarks don't check out",
+      "url": "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out",
+      "summary_cs": [
+        "Moonshot AI uvolnil open-source aktualizaci své kódovací rodiny K2, model staví na architektuře se směsí expertů a bilionu parametrů.",
+        "Firma slibuje úspornější uvažování a dvouciferný nárůst výkonu, model lze zapojit přes rozhraní kompatibilní s OpenAI.",
+        "Někteří praktici ale tvrdí, že uváděné výsledky testů jim v praxi nesedí."
+      ],
+      "why_matters": "Čínské open-source modely tlačí na cenu a otevřenost, ale jejich čísla je třeba brát s rezervou."
+    },
+    {
+      "rank": 7,
+      "category": "open-source",
+      "source": "VentureBeat AI",
+      "title_cs": "Microsoft uvolnil SkillOpt, vylepšuje dovednosti AI agentů bez zásahu do modelu",
+      "title_orig": "Microsoft's open-source SkillOpt automatically upgrades AI agent skills without touching model weights",
+      "url": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
+      "summary_cs": [
+        "SkillOpt automaticky optimalizuje dovednosti agentů, tedy instrukce uložené v textových souborech, bez nutnosti přetrénovat samotný model.",
+        "Řeší tak pomalý a chybový proces ručního ladění těchto dovedností.",
+        "Nástroj vychází jako open-source, takže si ho firmy mohou nasadit a upravit samy."
+      ],
+      "why_matters": "Zlepšování AI agentů bez drahého přetrénování modelu může urychlit jejich nasazení ve firmách."
+    },
+    {
+      "rank": 8,
+      "category": "research",
+      "source": "VentureBeat AI",
+      "title_cs": "PixelRAG překonává textové parsery a snižuje náklady na tokeny desetkrát",
+      "title_orig": "PixelRAG beats text parsers on accuracy and cuts AI agent token costs 10x",
+      "url": "https://venturebeat.com/data/pixelrag-beats-text-parsers-on-accuracy-and-cuts-ai-agent-token-costs-10x",
+      "summary_cs": [
+        "Výzkumníci z Berkeley, Princetonu, EPFL a Databricks ukázali, že běžný převod dokumentů na čistý text ničí signály důležité pro vyhledávání.",
+        "Metoda PixelRAG místo toho pracuje s obrazem stránky a podle studie zvyšuje přesnost odpovědí.",
+        "Zároveň snižuje spotřebu tokenů AI agenta až desetinásobně."
+      ],
+      "why_matters": "Levnější a přesnější vyhledávání v dokumentech může výrazně zlevnit firemní AI aplikace."
+    },
+    {
+      "rank": 9,
+      "category": "tools",
+      "source": "The Verge AI",
+      "title_cs": "Apple přidal do iOS 27 první vážné AI nástroje na úpravu fotek",
+      "title_orig": "Apple's new AI photo editing tools mostly work, for better and worse",
+      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "summary_cs": [
+        "Nejrozšířenější fotoaparát na světě dostal první sadu seriózních AI funkcí pro úpravu snímků.",
+        "Novinky v iOS 27 jsou podle recenze krotší než to, co umí třeba telefony Google Pixel.",
+        "Funkce většinou fungují, ale otevírají i otázky kolem důvěryhodnosti fotografií."
+      ],
+      "why_matters": "AI úpravy fotek se dostávají k miliardám uživatelů iPhonů a mění důvěru ve snímky."
+    },
+    {
+      "rank": 10,
+      "category": "tools",
+      "source": "The Verge AI",
+      "title_cs": "Nová Siri konečně funguje, tvrdí první recenze",
+      "title_orig": "Siri is good now??",
+      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "summary_cs": [
+        "Apple vydal novou verzi Siri a podle recenzentů jde poprvé za dlouhou dobu o skutečně použitelného hlasového asistenta.",
+        "Siri dlouhá léta balancovala mezi mírně užitečnou a naprosto nepoužitelnou.",
+        "Zlepšení je součástí širšího přepracování Apple Intelligence."
+      ],
+      "why_matters": "Po letech zklamání může opravená Siri vrátit hlasové asistenty do každodenního používání."
+    },
+    {
+      "rank": 11,
+      "category": "tools",
+      "source": "VentureBeat AI",
+      "title_cs": "NanoClaw a JFrog spustily imunitní systém proti škodlivému kódu pro AI agenty",
+      "title_orig": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
+      "url": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code",
+      "summary_cs": [
+        "Tvůrci open-source agenta NanoClaw se spojili s firmou JFrog na ochraně agentů před vpašováním škodlivého kódu.",
+        "Integrace má hlídat samostatné agenty, jejichž chování nelze plně předvídat ani natrénovat.",
+        "Řešení cílí hlavně na firemní nasazení, kde agenti sami stahují a spouštějí balíčky."
+      ],
+      "why_matters": "Jak agenti sami stahují kód, roste riziko útoků, na které firmy potřebují nové obrany."
+    },
+    {
+      "rank": 12,
+      "category": "business",
+      "source": "TechCrunch AI",
+      "title_cs": "Meta začíná rušit dvoumiliardovou akvizici Manusu na nátlak Pekingu",
+      "title_orig": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "summary_cs": [
+        "Meta podle zpráv začíná rozplétat akvizici startupu Manus za dvě miliardy dolarů.",
+        "Důvodem je příkaz Pekingu, aby firma celou transakci zvrátila.",
+        "Případ ukazuje, jak geopolitika zasahuje do velkých AI obchodů mezi USA a Čínou."
+      ],
+      "why_matters": "Geopolitické napětí mezi USA a Čínou rozbíjí i miliardové AI akvizice."
+    },
+    {
+      "rank": 13,
+      "category": "business",
+      "source": "TechCrunch AI",
+      "title_cs": "KPMG stáhla zprávu o využití AI kvůli zřejmým halucinacím",
+      "title_orig": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "summary_cs": [
+        "Poradenská firma KPMG stáhla vlastní report o používání AI poté, co se v něm objevily zřejmé halucinace.",
+        "AI se tak znovu ukázala jako nespolehlivý zdroj informací sama o sobě.",
+        "Případ připomíná rizika slepého spoléhání na generativní modely u profesionálních výstupů."
+      ],
+      "why_matters": "I velké poradenské firmy se spálí, když AI výstupy nekontrolují před zveřejněním."
+    },
+    {
+      "rank": 14,
+      "category": "wildcard",
+      "source": "Wired AI",
+      "title_cs": "Soud rozhodl, že Google odpovídá za nepravdivé výroky v AI přehledech",
+      "title_orig": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+      "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+      "summary_cs": [
+        "Soud rozhodl, že firma, která AI systém navrhuje, trénuje a provozuje, nese právní odpovědnost za škody způsobené jeho odpověďmi.",
+        "Rozsudek se týká nepravdivých tvrzení generovaných funkcí Google AI Overviews.",
+        "Jde o jeden z prvních případů, kdy soud takto jasně přiřkl odpovědnost provozovateli AI."
+      ],
+      "why_matters": "Precedent, že za chyby AI ručí její provozovatel, může změnit pravidla pro celý obor."
+    },
+    {
+      "rank": 15,
+      "category": "wildcard",
+      "source": "CzechCrunch",
+      "title_cs": "Lidé jsou na internetu poprvé menšinou, převahu mají stroje",
+      "title_orig": null,
+      "url": "https://cc.cz/lide-jsou-na-internetu-poprve-mensinou-nadvladu-prevzaly-stroje-online-byznysu-nastavaji-tezke-casy/",
+      "summary_cs": [
+        "Podle CzechCrunche AI a boti poprvé na webu přečíslili lidi.",
+        "Mění to pravidla pro každého, kdo chce online vydělávat nebo hledat autentické informace.",
+        "Online byznys čeká podle článku těžší období, protože publikum tvoří stále víc strojů."
+      ],
+      "why_matters": "Když na webu převáží boti, mění se ekonomika obsahu i důvěra v to, co čteme."
+    }
+  ]
+}

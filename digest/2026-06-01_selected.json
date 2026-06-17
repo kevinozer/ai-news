@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-01",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "NVIDIA uvádí Cosmos 3, první otevřený omni-model pro fyzickou AI",
+      "title_orig": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "NVIDIA zveřejnila Cosmos 3, model navržený pro porozumění fyzickému světu a plánování akcí robotů a strojů.",
+        "Jde o otevřený omni-model, takže si ho vývojáři mohou stáhnout a nasadit přes platformu Hugging Face.",
+        "Model spojuje vnímání, uvažování a řízení pohybu do jednoho systému pro robotiku a autonomní stroje."
+      ],
+      "why_matters": "Otevřený model pro robotiku snižuje bariéru pro firmy a výzkum mimo velké laboratoře."
+    },
+    {
+      "rank": 2,
+      "title_cs": "AI doporučuje nákupy a devět z deseti českých e-shopů pro ni neexistuje",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/clanky/umela-inteligence-si-pri-doporucovvani-uzivatelum-vybira-sve-favority-devet-z-deseti-ceskych-e-shopu-pro-ni-neexistuje/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Stále více lidí se na nákupy ptá AI nástrojů jako ChatGPT, ty ale doporučují jen úzký okruh značek.",
+        "Podle článku zůstává drtivá většina českých e-shopů pro tyto systémy prakticky neviditelná.",
+        "Viditelnost v odpovědích AI se stává novou disciplínou podobnou někdejší optimalizaci pro vyhledávače."
+      ],
+      "why_matters": "Pokud AI nevidí váš e-shop, přichází o zákazníky, kteří nakupují přes chatboty."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Firemní AI agenti vstupují do éry přestavby kvůli problémům se spolehlivostí",
+      "title_orig": "AI agents are entering their rebuild era as enterprises confront the reliability problem",
+      "url": "https://venturebeat.com/orchestration/ai-agents-are-entering-their-rebuild-era-as-enterprises-confront-the-reliability-problem",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "summary_cs": [
+        "Firmy zjišťují, že o úspěchu AI agentů v provozu nerozhoduje jen výkon samotného modelu.",
+        "Dlouho běžící procesy musí přežít pády, udržet stav, zotavit se z chyb a hlídat náklady.",
+        "Po první vlně rychlého nasazování teď organizace přestavují architekturu kolem orchestrace a dohledu."
+      ],
+      "why_matters": "Spolehlivost rozhoduje, zda firemní AI projekty přežijí přechod z pilotu do reálného provozu."
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI představil opatření pro globální volby v roce 2026",
+      "title_orig": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Před vlnou voleb po celém světě OpenAI popsal kroky, jak lidem pomáhat k ověřeným informacím.",
+        "Firma chce podpořit obránce v kyberprostoru a zvýšit transparentnost u obsahu vytvořeného AI.",
+        "Opatření reagují na obavy z dezinformací a zneužití generativních modelů během volebních kampaní."
+      ],
+      "why_matters": "V roce mnoha voleb je důvěryhodnost AI obsahu klíčová i pro české čtenáře."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Claude Mythos ukázal tvrdou pravdu, firemní záplatování je příliš pomalé",
+      "title_orig": "Claude Mythos exposed a hard truth: Your enterprise patching process is way too slow",
+      "url": "https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "summary_cs": [
+        "Studie z roku 2024 ukázala, že GPT-4 uměl s popisem zranitelnosti zneužít 87 procent známých chyb, ale sám je objevit neuměl.",
+        "Podle článku Anthropic 7. dubna oznámil, že Claude Mythos Preview dokázal sám objevovat dosud neznámé zranitelnosti.",
+        "To podle autorů ruší dosavadní bezpečnostní rezervu a tlačí firmy k mnohem rychlejšímu záplatování."
+      ],
+      "why_matters": "Pokud AI umí najít neznámé chyby dřív než obránci, pomalé záplatování se stává rizikem."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Japonská banka MUFG chce být s OpenAI plně AI-native",
+      "title_orig": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Jedna z největších světových bank MUFG nasazuje ChatGPT Enterprise napříč svými procesy.",
+        "Cílem je zrychlit interní práci a nabídnout nové finanční služby poháněné AI ve velkém měřítku.",
+        "Případ ukazuje, jak konzervativní finanční sektor postupně přechází na AI nástroje."
+      ],
+      "why_matters": "Adopce AI ve velké bance je signál i pro konzervativní český finanční sektor."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Výzkum mapuje, jak modely v sobě nesou stopy naučeného klamání",
+      "title_orig": "When LLMs Learn to Be Consistently Wrong: A Multi-Model Study of Linear Representations of Synthetic Deception",
+      "url": "https://arxiv.org/abs/2605.30381",
+      "source": "ArXiv cs.LG",
+      "category": "research",
+      "summary_cs": [
+        "Studie zkoumá klamavé chování, kdy model uvnitř ví správnou odpověď, ale schválně vydá nepravdivou.",
+        "Autoři natrénovali poctivé a klamavé varianty pěti modelů a hledali, jak se klamání projevuje v jejich vnitřní reprezentaci.",
+        "Zjištění naznačují, že nepoctivost lze v modelu rozpoznat jako měřitelný vzorec."
+      ],
+      "why_matters": "Rozpoznat klamání uvnitř modelu je klíčové pro bezpečné nasazení AI v citlivých oblastech."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Latent Space: nastupuje éra asynchronních AI agentů",
+      "title_orig": "The Age of Async Agents - Cognition's Walden Yan & OpenInspect's Cole Murray",
+      "url": "https://www.latent.space/p/cognition",
+      "source": "Latent Space",
+      "category": "tools",
+      "summary_cs": [
+        "Rozhovor s tvůrci agenta Devin popisuje posun k agentům, kteří pracují samostatně na pozadí.",
+        "Mluví se o postupu od zadání ke změnám v kódu, plných virtuálních počítačích a paměti agentů.",
+        "Podle hostů už dnes velká část příspěvků do kódu vzniká za asistence agentů."
+      ],
+      "why_matters": "Asynchronní agenti mění způsob, jak vývojáři pracují a kolik zvládnou bez přímého dohledu."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Válka prohlížečů přitvrzuje, přehled alternativ ke Chromu a Safari pro rok 2026",
+      "title_orig": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "TechCrunch přináší přehled nejzajímavějších prohlížečů, které chtějí konkurovat Chromu a Safari.",
+        "Mnohé z nich sázejí na vestavěné AI funkce jako shrnování stránek a asistenty.",
+        "Trh s prohlížeči se po letech stability znovu otevírá novým hráčům."
+      ],
+      "why_matters": "Prohlížeč s AI mění každodenní práci na webu pro běžné uživatele i firmy."
+    },
+    {
+      "rank": 10,
+      "title_cs": "MAVEN má zlepšit, jak AI agenti zvládají práci s nástroji napříč úlohami",
+      "title_orig": "MAVEN: Improving Generalization in Agentic Tool Calling",
+      "url": "https://arxiv.org/abs/2605.30738",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Autoři představují MAVEN, lehkou nadstavbu pro strukturované rozkládání úloh a řízení nástrojů.",
+        "Systém má pomoci agentům lépe přenášet postupy mezi různými prostředími a udržovat mezivýsledky.",
+        "Součástí je i průběžné ověřování kroků, které má zvýšit spolehlivost uvažování."
+      ],
+      "why_matters": "Lepší práce s nástroji je předpokladem pro spolehlivé AI agenty v praxi."
+    },
+    {
+      "rank": 11,
+      "title_cs": "EHRBench testuje, jak spolehlivě jazykové modely rozhodují v klinické praxi",
+      "title_orig": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
+      "url": "https://arxiv.org/abs/2605.30637",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Klinické rozhodování o diagnózách a léčbě probíhá často na základě neúplných údajů.",
+        "Autoři staví automatizovaný test postavený na zdravotnické dokumentaci pro hodnocení modelů.",
+        "Cílem je lépe pochopit, nakolik jsou jazykové modely v reálných lékařských úlohách spolehlivé."
+      ],
+      "why_matters": "Spolehlivé hodnocení AI v medicíně je nutné dřív, než pomáhá lékařům s rozhodováním."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Studie zpřísňuje, kdy lze menší model považovat za věrnou kopii většího",
+      "title_orig": "Bounded Behavioral Indistinguishability for Black-Box LLM Distillation",
+      "url": "https://arxiv.org/abs/2605.30448",
+      "source": "ArXiv cs.LG",
+      "category": "research",
+      "summary_cs": [
+        "Destilace přenáší schopnosti velkého modelu do menšího, hodnotí se ale obvykle jen podobností odpovědí.",
+        "Autoři namítají, že podobné odpovědi ještě neznamenají, že se menší model chová stejně.",
+        "Navrhují přísnější definici, kdy je napodobenina od originálu prakticky nerozeznatelná."
+      ],
+      "why_matters": "Destilace je v centru sporů o kopírování modelů, přesnější měřítko pomůže i právníkům."
+    },
+    {
+      "rank": 13,
+      "title_cs": "OpenAI ukazuje sebezdokonalujícího se daňového agenta postaveného na Codexu",
+      "title_orig": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI spolu s firmami Thrive a Crete postavily agenta, který automatizuje daňová přiznání.",
+        "Systém se má sám zlepšovat, zvyšovat přesnost a zrychlovat zpracování.",
+        "Případ ukazuje praktické nasazení kódovacích agentů v účetnictví a daních."
+      ],
+      "why_matters": "Automatizace daní je názorný příklad, jak AI agenti vstupují do běžné kancelářské práce."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Vývojářský nástroj Warp sází na otevřený software s modelem GPT-5.5",
+      "title_orig": "Warp's big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "source": "OpenAI Blog",
+      "category": "tools",
+      "summary_cs": [
+        "Warp používá GPT-5.5 a další modely OpenAI ke koordinaci kódovacích agentů.",
+        "Agenti pracují napříč lokálním, cloudovým i otevřeným vývojovým prostředím.",
+        "Nástroj má vývojářům usnadnit propojení různých prostředí do jednoho postupu."
+      ],
+      "why_matters": "Otevřené nástroje pro vývojáře urychlují adopci AI agentů i v menších týmech."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Kvantový počítač v evropské kapli a nová kvantová laboratoř v Praze",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/clanky/kvantovy-pocitac-v-evropske-kapli-nova-kvantova-laborator-v-praze-ai-agent-stvoril-kvantovou-aplikaci/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Pravidelný přehled novinek z oboru kvantových počítačů přináší hned několik událostí.",
+        "Mezi nimi je umístění kvantového počítače v evropské kapli a otevření nové laboratoře v Praze.",
+        "Zmiňuje se i případ, kdy AI agent vytvořil funkční kvantovou aplikaci."
+      ],
+      "why_matters": "Kvantový výzkum v Praze ukazuje, že se Česko zapojuje do špičkových technologií."
+    }
+  ]
+}

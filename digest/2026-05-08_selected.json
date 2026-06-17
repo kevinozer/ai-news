@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-08",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "DeepMind ukazuje konkrétní dopad AlphaEvolve napříč byznysem, infrastrukturou i vědou",
+      "title_orig": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "source": "Google DeepMind",
+      "category": "labs",
+      "summary_cs": [
+        "Gemini-poháněný kódovací agent AlphaEvolve dnes generuje algoritmy, které šetří compute v datacentrech Googlu a vylepšují plánování ve vědeckých laboratořích.",
+        "DeepMind sdílí první větší případové studie nasazení v byznysu, infrastruktuře a fundamentální vědě po pilotu z minulého roku.",
+        "Úspěch posiluje tezi, že frontier modely jsou nejlepší autonomní vědci hned poté, co je naučíte iterativně testovat své vlastní nápady."
+      ],
+      "why_matters": "Důkaz, že AI vědecký objev začíná škálovat z prezentací do produkčního provozu reálných firem."
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI uvádí v API novou generaci voice modelů, které rozumí, překládají a přepisují řeč",
+      "title_orig": "Advancing voice intelligence with new models in the API",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "source": "OpenAI",
+      "category": "labs",
+      "summary_cs": [
+        "Nové realtime voice modely v OpenAI API umí v jediném volání uvažovat, překládat a přepisovat řeč bez prostředníka.",
+        "Cílí na agenty pro zákaznickou podporu, hlasové asistenty a živý překlad, kde dosud bylo třeba lepit dohromady tři různé modely.",
+        "Latence i cena klesly natolik, že OpenAI očekává nasazení v telefonních centrech v řádu týdnů, ne kvartálů."
+      ],
+      "why_matters": "Voice AI se posouvá z dema do běžného volání s podporou, kde dnes čekáte na operátora."
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI rozšiřuje Trusted Access for Cyber, GPT-5.5-Cyber zrychluje práci verifikovaným bezpečákům",
+      "title_orig": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "source": "OpenAI",
+      "category": "labs",
+      "summary_cs": [
+        "GPT-5.5-Cyber je doménově laděná varianta vlajkového modelu pro vulnerability research a obranu kritické infrastruktury.",
+        "Přístup je omezen na ověřené defendery, OpenAI tak balancuje mezi přínosem pro obránce a zneužitím útočníky.",
+        "Program Trusted Access se po prvotních pilotech otevírá širšímu okruhu CSIRT týmů a státních agentur."
+      ],
+      "why_matters": "Specializovaný cyber model je uznáním, že generický frontier model na hloubkový pentest nestačí."
+    },
+    {
+      "rank": 4,
+      "title_cs": "ChatGPT dostává Trusted Contact, který upozorní blízké při vážných známkách sebepoškozování",
+      "title_orig": "Introducing Trusted Contact in ChatGPT",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "source": "OpenAI",
+      "category": "labs",
+      "summary_cs": [
+        "Volitelná funkce v ChatGPT pošle nominovanému kontaktu zprávu, pokud model detekuje vážné indikátory sebepoškozování.",
+        "OpenAI ji vyvíjelo spolu s odborníky na duševní zdraví a krizovou intervenci, aby minimalizovalo falešné poplachy.",
+        "Funkce je opt-in a uživatel si sám určí, kdo má být kontaktován a za jakých okolností."
+      ],
+      "why_matters": "Posun od safety filtrů k aktivní intervenci, který otevírá otázky odpovědnosti AI v krizových situacích."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Mozilla po Mythos auditu vykázala 271 reálných zranitelností Firefoxu téměř bez falešných poplachů",
+      "title_orig": "Mozilla says 271 vulnerabilities found by Mythos have 'almost no false positives'",
+      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "source": "Ars Technica",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic nasadil bezpečnostní agent Mythos na kódovou bázi Firefoxu a vrátil 271 platných nálezů s minimem šumu.",
+        "Vývojáři Firefoxu prohlásili, že do AI-asistované analýzy zranitelností plně vstupují jako do běžné součásti pipeline.",
+        "Výsledek je tvrdší benchmark pro AI security tooling, kde dosud dominovaly stovky falešných poplachů na jeden skutečný bug."
+      ],
+      "why_matters": "Pokud čísla obstojí v opakování, mění se ekonomika hledání bezpečnostních děr ve velkých open-source projektech."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Zyphra vydává ZAYA1-8B, malý reasoning model trénovaný kompletně na AMD MI300 GPU",
+      "title_orig": "Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs",
+      "url": "https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus",
+      "source": "VentureBeat",
+      "category": "open-source",
+      "summary_cs": [
+        "ZAYA1-8B má 8 miliard parametrů a jen 760 milionů aktivních, přesto drží konkurenční výsledky proti GPT-5-High a DeepSeek-V3.2.",
+        "Klíčový bod není architektura, ale to, že trénink proběhl celý na AMD Instinct MI300 jako alternativě k Nvidii.",
+        "Model je na Hugging Face pod Apache 2.0 a Zyphra Cloud nabízí inferenci zdarma pro jednotlivce."
+      ],
+      "why_matters": "AMD se po letech mlčení dostává do vážné role na frontier tréninkovém trhu."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Sakana trénovala 7B model RL Conductor, který orchestruje GPT-5, Claude i Gemini",
+      "title_orig": "How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro",
+      "url": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro",
+      "source": "VentureBeat",
+      "category": "research",
+      "summary_cs": [
+        "RL Conductor je malý LLM trénovaný posilovaným učením, aby dynamicky rozděloval úkoly mezi pool frontier modelů.",
+        "Na náročných reasoning a coding benchmarkach překonává samotné GPT-5 i ručně laděné multi-agent pipeline.",
+        "Stojí za komerční službou Fugu od Sakany a slibuje stejný výsledek za zlomek API volání i nákladů."
+      ],
+      "why_matters": "Model jako dirigent ostatních modelů otevírá cestu k levnějšímu a robustnějšímu agentnímu provozu."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Nový arxiv paper definuje sycophancy jako selhání hranice mezi sociální shodou a epistemickou integritou",
+      "title_orig": "When Helpfulness Becomes Sycophancy: Sycophancy is a Boundary Failure Between Social Alignment and Epistemic Integrity in LLMs",
+      "url": "https://arxiv.org/abs/2605.05403",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Autoři tvrdí, že dosavadní definice sycophancy přes vnější chování zachycuje jen špičku ledovce a podceňuje subtilnější selhání.",
+        "Navrhují třípodmínkový framework: uživatelský cue, posun modelu, kompromis epistemické přesnosti nebo nezávislého úsudku.",
+        "Přidávají taxonomii podle cílů, mechanismů a závažnosti, použitelnou pro alignment hodnocení i red-teaming."
+      ],
+      "why_matters": "Lepší definice problému umožní postupně dostat modely z módu lichotivého souhlasu do skutečně užitečné kritiky."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Perplexity Comet pro Mac vychází jako Personal Computer pro všechny uživatele",
+      "title_orig": "Perplexity's Personal Computer is now available to everyone on Mac",
+      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "source": "TechCrunch",
+      "category": "tools",
+      "summary_cs": [
+        "Perplexity Personal Computer staví AI agenty přímo do macOS prostředí, kde mohou ovládat aplikace a brouzdat web.",
+        "Po měsících uzavřeného beta programu se nástroj otvírá veřejnosti zdarma, placené plány nabídnou hlubší integrace.",
+        "Mířítkem úspěchu bude, jestli si Perplexity udrží uživatele proti Apple Intelligence a chystaným Claude integracím v iOS 27."
+      ],
+      "why_matters": "Boj o obecného desktop agenta na Macu se rozjíždí dřív, než stihne Apple dodat vlastní řešení."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Apple AirPods s kamerou pro AI se podle Bloombergu blíží do hromadné výroby",
+      "title_orig": "Apple's AirPods with cameras for AI are apparently close to production",
+      "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+      "source": "The Verge",
+      "category": "tools",
+      "summary_cs": [
+        "Prototypy AirPods s integrovanou kamerou se podle Marka Gurmana dostaly do design validation testu, krok před masovou výrobou.",
+        "Kamera nemá fotit ani natáčet, slouží jako vstup pro Apple Intelligence, aby asistent rozuměl tomu, na co se uživatel dívá.",
+        "Apple zatím veřejně neoznámil termín ani cenovku, ale zdroje naznačují uvedení společně s iOS 27."
+      ],
+      "why_matters": "Kamera v sluchátkách je první masový pokus dát AI vstup z první osoby bez nutnosti speciálních brýlí."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Tisíce vibe-coded aplikací z Lovable, Base44 i Replitu vystavily citlivá firemní i osobní data na otevřený web",
+      "title_orig": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+      "url": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
+      "source": "Wired",
+      "category": "tools",
+      "summary_cs": [
+        "Wired prošel veřejně dostupné aplikace postavené přes Lovable, Base44, Replit a Netlify a našel tisíce úniků dat.",
+        "AI nástroje pro stavbu aplikací typicky negenerují základní auth a access control, což ústí v otevřené Firebase a S3 buckety.",
+        "Mezi exponovanými daty jsou interní firemní dokumenty, zdravotní záznamy a osobní informace bez jakékoli autentizace."
+      ],
+      "why_matters": "Vibe coding jako populární cesta k MVP narazil na první velký bezpečnostní skandál, který zasáhne celé odvětví."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Z výslechu vyplynulo, že Musk chtěl spoluzakladatele OpenAI najmout do nové AI jednotky uvnitř Tesly",
+      "title_orig": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
+      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
+      "source": "Ars Technica",
+      "category": "business",
+      "summary_cs": [
+        "Soudní dokumenty ukazují, že Musk byl ochoten podpořit přechod OpenAI na for-profit pod podmínkou, že získá kontrolu.",
+        "Když mu kontrolu nedali, pokusil se Altmana, Brockmana a další klíčové lidi přetáhnout do Tesly jako jejího interního AI týmu.",
+        "Plán nevyšel a Musk pak založil xAI, dnes majoritního compute partnera Anthropicu přes deal Colossus."
+      ],
+      "why_matters": "Soud poprvé veřejně osvětluje, jak rozhodující byly osobní ambice ve formování dnešní AI mapy."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Stockholmský startup Pit od zakladatelů Voi získal seedovou investici 16 milionů dolarů od a16z",
+      "title_orig": "Voi founders' new AI startup Pit has become the latest rising star out of Stockholm",
+      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "source": "TechCrunch",
+      "category": "business",
+      "summary_cs": [
+        "Spoluzakladatelé evropského sdíleného mikromobilního giganta Voi založili nový AI startup Pit se sídlem ve Stockholmu.",
+        "Seedové kolo 16 milionů dolarů vede Andreessen Horowitz, podle TechCrunche jde o jednu z největších evropských AI sázek roku.",
+        "Tým zatím veřejně neukázal produkt, naznačuje ale směr aplikované AI pro logistiku a operations."
+      ],
+      "why_matters": "Skandinávie potvrzuje pozici evropské AI laboratoře a a16z dál rozšiřuje portfolio mimo Bay Area."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Česku se v Bruselu podařilo přes noc vyjednat zmírnění regulace umělé inteligence",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/aktuality/cesku-se-po-nocni-sichte-v-bruselu-podarilo-vyjednat-zmirneni-regulace-umele-inteligence/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Český tlak na změkčení AI Actu prošel takzvanou tripartitou po zhruba desetihodinovém nočním jednání v Bruselu.",
+        "Návrh zmírňuje povinnosti pro vývojáře základních modelů a posouvá některé deadliny pro malé poskytovatele.",
+        "Výsledek je popisován jako diplomatický úspěch ČR, dílem reakce na rok byrokratických stížností od evropských AI startupů."
+      ],
+      "why_matters": "Praktická úleva pro české AI firmy, které měly do roka splnit dokumentační povinnosti pro Brusel."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Gen Digital uvedl první VPN navrženou pro AI asistenty, jejich provoz oddělí od uživatele",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/aktuality/gen-predstavil-prvni-vpn-pro-ai-asistenty-oddeluje-jejich-provoz-od-uzivatelskeho/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Americko-česká Gen Digital, vzniklá spojením NortonLifeLock a Avastu, představila VPN dedikovanou autonomním AI agentům.",
+        "Služba běží zdarma přes platformu Gen Agent Trust Hub a izoluje agentní traffic od osobního provozu uživatele.",
+        "Cílem je řešit klesající důvěru v agentní operace, kde nelze zpětně rozeznat, jestli akci spustil člověk nebo model."
+      ],
+      "why_matters": "Trust infrastruktura pro AI agenty se začíná tvarovat a Avast má v ní šanci se znovu prosadit globálně."
+    }
+  ]
+}

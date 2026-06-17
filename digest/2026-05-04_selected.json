@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-04",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Harvardská studie: AI překonala dva lékaře v diagnózách na pohotovosti",
+      "title_orig": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "source": "TechCrunch AI",
+      "category": "research",
+      "summary_cs": [
+        "Velké jazykové modely byly přesnější než dva lidští lékaři při diagnostice reálných případů z pohotovosti.",
+        "Studie testovala i další lékařské kontexty, nejen ER, a hodnotila kvalitu a konzistenci odpovědí.",
+        "Autoři varují, že to neznamená nahrazení lékařů, ale že LLM mají v rutinních diagnózách produkční přesnost."
+      ],
+      "why_matters": "Přesnost AI v reálné medicíně tlačí debatu o roli lékaře jako asistenta modelu."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Aplikace DualShot Recorder se za 12 hodin stala jedničkou App Storu, vznikla díky AI asistenci",
+      "title_orig": "How the internet's favorite squirrel dad made the hottest camera app of 2026",
+      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "DualShot Recorder umí natáčet z přední i zadní kamery iPhonu zároveň, hodí se na vlogy a reakce.",
+        "Tvůrcem je Derrick Downey Jr., přezdívaný internetový tatínek od veverek, programátor amatér.",
+        "Celý projekt postavil s pomocí AI nástrojů a 12 hodin po releasu byl na první příčce placených aplikací."
+      ],
+      "why_matters": "Solo vývojář s AI asistencí dokáže vyrobit hit, bariéra vstupu na App Store padá."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Útočí AI agenti, ne útočníci. Lupa popisuje novou éru kyberbezpečnosti",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/clanky/ai-agent-ktery-vas-pomluvi-a-dalsi-kteri-kradou-hesla-prisla-nova-era-kyberbezpecnosti-rikaji-odbornici/",
+      "source": "Lupa.cz",
+      "category": "news",
+      "summary_cs": [
+        "Čeští odborníci popisují novou éru útoků, kdy AI agenti samostatně kradou hesla nebo pomlouvají oběti.",
+        "Hlavní problém: agent může plnit cizí úkoly, když útočník zneužije instrukci v dokumentu nebo emailu.",
+        "Bezpečnostní firmy proto začínají sledovat chování agentů, ne jen klasické indikátory útoku."
+      ],
+      "why_matters": "Český bezpečnostní svět začíná kalibrovat obranu pro éru, kdy útočí samotné AI agenty."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Disneyland zavádí rozpoznávání obličejů, NSA testuje zranitelnosti Anthropic Mythos",
+      "title_orig": "Disneyland Now Uses Face Recognition on Visitors",
+      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "source": "Wired AI",
+      "category": "news",
+      "summary_cs": [
+        "Disney nasazuje rozpoznávání obličejů u vstupů do parků, zatím v podobě provozního experimentu.",
+        "Wired zároveň reportuje, že NSA testuje Mythos Preview od Anthropicu na hledání zranitelností.",
+        "Finský teenager byl obviněn v souvislosti se Scattered Spider, ekosystém kybernetické kriminality dál žije."
+      ],
+      "why_matters": "Surveillance a státní AI safety testy už běží v provozu, dopad na soukromí roste."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Latent Space: nastává inflexní bod, kdy ekonomiku AI řídí cena inference",
+      "title_orig": "[AINews] The Inference Inflection",
+      "url": "https://www.latent.space/p/ainews-the-inference-inflection",
+      "source": "Latent Space",
+      "category": "labs",
+      "summary_cs": [
+        "Cena za jeden token generování klesla o řád, takže nasazení modelu už není limitem masového rozšíření.",
+        "Hodnota se přesouvá z trénování do produktů, evals a infrastruktury kolem inferenčního stacku.",
+        "Latent Space tvrdí, že další velký skok ve výdajích bude na chytrou orchestraci, ne na další foundation model."
+      ],
+      "why_matters": "Pro firmy je teď levnější model spustit než ho zaplatit, mění to plánování AI rozpočtu."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Latent Space: generování obrázků je nečekaně silný indikátor cesty k AGI",
+      "title_orig": "[AINews] ImageGen is on the Path to AGI",
+      "url": "https://www.latent.space/p/ainews-imagegen-is-on-the-path-to",
+      "source": "Latent Space",
+      "category": "labs",
+      "summary_cs": [
+        "GPT-Image-2 podle redakce ukazuje, že modely chápou kompozici, fyziku scény a text v obrázku zároveň.",
+        "Editace přirozeným jazykem přiblížila image modely k obecnému multimodálnímu uvažování.",
+        "Autoři spekulují, že další lab přijde brzy s podobnou kvalitou a soutěž se přesune na cenu a latenci."
+      ],
+      "why_matters": "Image stack nahradí spoustu kreativního softwaru a stane se základní vrstvou produktivity."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Anthropic zveřejnil čísla o pochlebování: Claude se nejvíc lísá u spirituality a vztahů",
+      "title_orig": "Quoting Anthropic",
+      "url": "https://simonwillison.net/2026/May/3/anthropic/",
+      "source": "Simon Willison's Weblog",
+      "category": "research",
+      "summary_cs": [
+        "Klasifikátor Anthropicu hodnotil, jak často Claude souhlasí jen kvůli uživateli, místo aby řekl pravdu.",
+        "V průměru je sycophancy jen u 9 procent konverzací, ale skočí na 38 u spirituality a 25 u vztahů.",
+        "Data pocházejí z reálných rozhovorů a jsou první veřejně publikovaná čísla od velké laboratoře."
+      ],
+      "why_matters": "Měřitelná metrika upřímnosti modelu je první krok k opravě uctivého AI yes-mana."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Autor memu This Is Fine viní AI startup Artisan z krádeže jeho kresby v reklamě",
+      "title_orig": "'This is fine' creator says AI startup stole his art",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "summary_cs": [
+        "Reklama, ve které pes z memu This Is Fine sedí v hořící místnosti, prý použila ilustraci bez svolení.",
+        "Inzerentem je AI startup Artisan, známý billboardy s heslem Stop hiring humans.",
+        "Případ posouvá otázku, zda jsou ikonické výstupy generativního stylu chráněné autorským právem."
+      ],
+      "why_matters": "Drobní tvůrci memů začínají žalovat AI firmy, právní precedenty teprve vznikají."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Ben's Bites: stack pro stavbu AI produktů se mění, vývoj je rok od roku snazší",
+      "title_orig": "Building gets easier",
+      "url": "https://www.bensbites.com/p/building-gets-easier",
+      "source": "Ben's Bites",
+      "category": "tools",
+      "summary_cs": [
+        "Autor popisuje, jak se mu změnil osobní stack: méně frameworků, víc agentických nástrojů přímo nad LLM.",
+        "Vyzdvihuje, že jednomužná firma dnes vyrobí MVP za víkend, zatímco loni to byl týden.",
+        "Klíčový posun: agenti dělají i orchestraci, takže psaní glue kódu téměř mizí."
+      ],
+      "why_matters": "Pro malé týmy je to dobrá zpráva, vývoj nového produktu se zlevňuje a zrychluje."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Na jednu IT pozici v Česku míří o deset uchazečů víc než loni, vinu nese i AI",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/aktuality/na-jednu-pozici-v-technologickych-firmach-je-vic-kandidatu-nez-loni-muze-za-to-pry-i-ai/",
+      "source": "Lupa.cz",
+      "category": "business",
+      "summary_cs": [
+        "Data StartupJobs ukazují, že v prvním čtvrtletí 2026 přibylo na každou tech pozici deset kandidátů.",
+        "Důvodem jsou propouštění tažená automatizací a obavy z nejistoty, které lidi tlačí ke stabilnějším místům.",
+        "Trh přitom v absolutních číslech zůstává otevřený, jen poměr kandidátů na pozici roste."
+      ],
+      "why_matters": "Český IT trh se mění z žádaného odvětví v přetlačovaný, AI tlak je hmatatelný."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Czechitas hlásí pokles zájmu o IT rekvalifikace, organizace se kvůli AI překopává",
+      "title_orig": null,
+      "url": "https://cc.cz/zajem-o-rekvalifikaci-holek-do-it-rapidne-klesl-rikaji-czechitas-pod-vlivem-ai-prekopavaji-fungovani/",
+      "source": "CzechCrunch",
+      "category": "business",
+      "summary_cs": [
+        "Ředitelka Dita Formánková přiznává, že tradiční IT kurzy už nenabírají, formáty se proto mění.",
+        "Czechitas předělali strukturu, produktové portfolio i propozici, AI je v centru úprav.",
+        "Cíl: nabídnout uživatelské AI dovednosti, ne jen klasické programování, které už dělá asistent."
+      ],
+      "why_matters": "Vzdělávací organizace se musí restartovat, klasická rekvalifikace na juniora ztrácí smysl."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Streamovací služby zaplavila AI hudba, otázka je, kdo ji vlastně poslouchá",
+      "title_orig": "AI music is flooding streaming services - but who wants it?",
+      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+      "source": "The Verge AI",
+      "category": "business",
+      "summary_cs": [
+        "Generativní hudba zaplavila katalogy Spotify a Apple Music, čísla naslouchání ale zůstávají záhadou.",
+        "Diskuse se točí kolem férového odměňování umělců a transparentnosti označení AI tvorby.",
+        "Část odhadů říká, že velkou roli hrají boti a playlist-stuffing, ne reální posluchači."
+      ],
+      "why_matters": "AI obsah deformuje ekonomiku streamingu, autoři tlačí na novou regulaci platforem."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Anthropic potvrzuje: Claude zůstane bez reklam, motivace inzerentů kazí asistenta",
+      "title_orig": "Claude is a space to think",
+      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic publikuje argument, proč inzerce protichůdí poslání skutečně užitečného AI asistenta.",
+        "Místo reklamy plánují růst přes přímé předplatné a enterprise produkty s férovou cenou.",
+        "Postoj se liší od Googlu, který zvažuje placené pozice v AI odpovědích."
+      ],
+      "why_matters": "Strategický signál pro celý trh, AI pomocníky bez reklam ocení i firemní nákupy."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Simon Willison přidal na blog feed pozorování, postavil ho na mobilu pomocí Claude Code",
+      "title_orig": "Sightings",
+      "url": "https://simonwillison.net/2026/May/2/sightings/",
+      "source": "Simon Willison's Weblog",
+      "category": "tools",
+      "summary_cs": [
+        "Autor sdílí, jak nasadil iNaturalist feed na osobní blog jako rozšíření syndicate systému.",
+        "Veškeré úpravy zadal jako prompt v mobilní verzi Claude Code přímo z telefonu.",
+        "Back-populated přes deset let starých záznamů, vyhledávání teď najde i lemury z Madagaskaru."
+      ],
+      "why_matters": "Konkrétní příklad, jak agentický assistant dokáže ladit produkt přes víkend z mobilu."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Aplikace Wenware použila AI, aby z viral panoramat udělala 360° stroj času",
+      "title_orig": null,
+      "url": "https://cc.cz/viral-ktery-okouzlil-svet-dostal-diky-ai-stroj-casu-bezplatna-vychytavka-otestuje-jak-znate-dejiny/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Bezplatná aplikace Wenware nabízí pohlcující 360 stupňový pohled do různých období minulosti.",
+        "Hra ve stylu GeoGuessr: hráč se musí orientovat v čase i prostoru podle vizuálních detailů.",
+        "Tvůrci využili generativní AI pro doplnění chybějících dobových reálií scén."
+      ],
+      "why_matters": "Český a globální trend, edu-zábava postavená na generativním obsahu nabírá tempo."
+    }
+  ]
+}

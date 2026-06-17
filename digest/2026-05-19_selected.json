@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-19",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic kupuje Stainless, posiluje vrstvu vývojářských nástrojů pro Claude",
+      "title_orig": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic kupuje newyorský startup Stainless, který automatizuje generování a údržbu SDK pro REST API a jeho nástroje používají OpenAI, Google i Cloudflare.",
+        "Tým Stainless přejde pod Anthropic a bude dál vyvíjet SDK platformu, akvizice má urychlit vývojářskou plochu kolem Claude a Claude Code.",
+        "Finanční podmínky nezveřejněny, deal navazuje na sérii akvizic infrastruktury a developer tooling firem, kterými Anthropic posiluje agentní vrstvu."
+      ],
+      "why_matters": "Anthropic skupuje páteř vývojářského ekosystému a tlačí Claude jako defaultní platformu pro agenty."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Porota dala Musk vs. OpenAI verdikt po dvou hodinách, OpenAI vyhrál na celé čáře",
+      "title_orig": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+      "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+      "source": "Wired AI",
+      "category": "news",
+      "summary_cs": [
+        "Devítičlenná porota se shodla za dvě hodiny ve prospěch OpenAI a soudkyně verdikt obratem přijala jako finální rozhodnutí.",
+        "Musk tvrdil, že Altman porušil zakládací dohodu při přechodu OpenAI na profitní strukturu, žaloval ale podle poroty pozdě, několik nároků padlo na promlčení.",
+        "Verdikt uzavírá tři týdny soudního dramatu v San Francisku a uvolňuje OpenAI ruce pro plánovanou kompletní restrukturalizaci na for-profit firmu."
+      ],
+      "why_matters": "Konec hlavního právního brzdy nad OpenAI, restrukturalizace a IPO se posouvají blíž realitě."
+    },
+    {
+      "rank": 3,
+      "title_cs": "SandboxAQ napojuje své modely pro objevování léků na Claude, chemii zpřístupňuje běžným výzkumníkům",
+      "title_orig": "SandboxAQ brings its drug discovery models to Claude - no PhD in computing required",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "SandboxAQ, spin-off z Alphabetu, nasadil svou rodinu modelů pro drug discovery jako nástroje volatelné přímo v Claude konverzaci.",
+        "Vědci tak místo psaní kódu zadávají úkoly přirozeným jazykem, model počítá vazebné afinity, generuje struktury a navrhuje úpravy molekul.",
+        "Konkurence Chai Discovery a Isomorphic Labs sází na lepší modely, SandboxAQ tvrdí, že hlavní bariérou je přístup, ne přesnost."
+      ],
+      "why_matters": "Posouvá farmaceutický výzkum k UI, kde chemik mluví na asistenta místo programuje pipeline."
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI s Dellem dovezou Codex do enterprise on-premise prostředí",
+      "title_orig": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI a Dell oznamují partnerství, které nasadí Codex coding agenty na Dell hardware v hybridních i čistě on-premise instalacích u zákazníků.",
+        "Cílí na regulované sektory jako banky, zdravotnictví a obranu, kde data nemohou opustit datové centrum, ale firma chce přesto agentní kódování.",
+        "Dell přidává hotové reference architektury postavené na svých serverech a PowerScale storage, OpenAI dodává model a runtime pro lokální běh."
+      ],
+      "why_matters": "OpenAI tlačí do enterprise on-prem segmentu, který dosud držely Anthropic a open-source modely."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Amazon učí Alexu Plus generovat AI podcasty na jakékoli téma",
+      "title_orig": "Amazon Alexa Plus can now create AI-generated podcasts",
+      "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
+      "source": "The Verge AI",
+      "category": "labs",
+      "summary_cs": [
+        "Alexa Plus po novém umí na zadané téma vygenerovat krátký podcast se dvěma AI hosty a uživatel může konverzaci řídit hlasem v reálném čase.",
+        "Funkce navazuje na trend AI audio formátů, který odstartoval Google s NotebookLM, ale Amazon míří na masového spotřebitele s reproduktorem doma.",
+        "Funkce je dostupná pro předplatitele Alexa Plus v USA, Amazon počítá s rozšířením témat a personalizace podle uživatelské historie."
+      ],
+      "why_matters": "AI audio přichází do obýváků na 600 milionech Echo zařízení, formát mainstreamuje."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Google jde do I/O jako třetí v závodě o foundation modely, na co se připravit",
+      "title_orig": "What to expect from Google this week",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "source": "MIT Technology Review",
+      "category": "labs",
+      "summary_cs": [
+        "MIT Technology Review předpovídá tříbodový program pro I/O 2026, novou generaci Gemini, hlubší integraci agentů do Workspace a hardware s on-device modely.",
+        "Google rok po předchozím I/O ztratil pozici v top dvojce, předbíhá ho Anthropic v enterprise a OpenAI v consumer adopci.",
+        "Sázka padá na multimodální agenty a vlastní TPU kapacitu jako diferenciátor proti cloudovým konkurentům, kteří jedou na NVIDII."
+      ],
+      "why_matters": "Strategický bod obratu pro Google, který musí I/O proměnit v comeback nebo přijmout třetí místo."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Open Agent Leaderboard od IBM Research srovnává agenty v reálných úlohách",
+      "title_orig": "The Open Agent Leaderboard",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "IBM Research na Hugging Face spouští otevřený leaderboard, který hodnotí AI agenty nikoli na akademických benchmarcích, ale v praktických multistepových úlohách.",
+        "Hodnocení pokrývá obecnou agentní práci, code, finance, právo a customer support, leaderboard přijímá příspěvky od komunity.",
+        "Cílem je dát enterprise a akademii referenční bod, který se víc blíží reálnému nasazení než dosavadní benchmarky jako MMLU nebo HumanEval."
+      ],
+      "why_matters": "Otevřený standard pro hodnocení agentů, který tlačí na transparentnost a komparovatelnost dodavatelů."
+    },
+    {
+      "rank": 8,
+      "title_cs": "PaddleOCR 3.5 přechází na Transformers backend, OCR a parsing dokumentů snadněji",
+      "title_orig": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Baidu vydává PaddleOCR 3.5, kde se OCR pipeline kompletně přepsala na Hugging Face Transformers a komunita ji může napojit do známých nástrojů.",
+        "Knihovna nově pokrývá vícejazyčné OCR, parsing tabulek, kvitancí a strukturovaných dokumentů jedním modelem, místo dříve potřebné kombinace.",
+        "Open weights pod permisivní licencí a integrace s Trainerem otevírá fine-tuning pro firemní use casy bez závislosti na proprietárních API."
+      ],
+      "why_matters": "Solidní open-source alternativa pro firemní extrakci textu z PDF a faktur bez závislosti na OpenAI nebo Google."
+    },
+    {
+      "rank": 9,
+      "title_cs": "AgentWall navrhuje runtime ochrannou vrstvu pro lokálně běžící AI agenty",
+      "title_orig": "AgentWall: A Runtime Safety Layer for Local AI Agents",
+      "url": "https://arxiv.org/abs/2605.16265",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Paper představuje AgentWall, vrstvu nad agentem, která v reálném čase hlídá shell příkazy, úpravy souborů, API volání a otevírání URL na podezřelé chování.",
+        "Autoři argumentují, že stávající alignment a input filtering selhávají, jakmile model začne v běhu provádět nevratné akce na uživatelově stroji.",
+        "Prototyp blokuje známé prompt injection vzorce s pětiprocentním overhead na latenci a otevírá cestu k policy enforcement pro desktopové agenty."
+      ],
+      "why_matters": "Bezpečnost agentů se přesouvá z modelu na runtime, podobně jako antivirus pro klasický software."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Context architecture nahrazuje RAG, agenti potřebují jinou retrievální vrstvu",
+      "title_orig": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
+      "url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Redis a další infra firmy tlačí termín context architecture, retrievální pipeline navržená pro řády vyšší objem dotazů, který generují agenti místo lidí.",
+        "Klasické RAG pipeline padají, protože data jsou roztroušená, zastaralá a strukturovaná pro lidské oči, ne pro autonomní procesy s vysokou frekvencí volání.",
+        "Nová vrstva kombinuje vektory, grafy, cache a live API, retriever se stává sám malou agenturou s rozhodováním a fallbacky."
+      ],
+      "why_matters": "Pokud stavíte enterprise agenty, klasický vector search vás brzdí, čeká vás přepis retrievální vrstvy."
+    },
+    {
+      "rank": 11,
+      "title_cs": "LangSmith Engine automatizuje debugging agentů, ale multi-model firmy chtějí neutrální vrstvu",
+      "title_orig": "LangSmith Engine closes the agent debugging loop automatically",
+      "url": "https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "LangSmith Engine od LangChain v public beta sám detekuje produkční selhání agenta, diagnostikuje příčinu proti živému codebase a navrhne opravu.",
+        "Funkce má zkrátit smyčku, kdy inženýři dlouho neví, že agent dělá chyby v produkci a problém se opakuje bez lidského zásahu.",
+        "Enterprise zákazníci s portfoliem modelů od různých laboratoří ale chtějí vendor-neutrální observability, ne nástroj pod jedním frameworkem."
+      ],
+      "why_matters": "Posouvá agent ops blíž normálnímu DevOps, ale otázka neutrality dodavatele zůstává otevřená."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Korejský LetinAR má optiku pro AI brýle, čočka velikosti nehtu by mohla převzít celou kategorii",
+      "title_orig": "South Korea's LetinAR is building optics behind AI glasses",
+      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Jihokorejský startup LetinAR navrhl pin-mirror čočku, která pasuje do běžné obrouby brýlí a promítá obraz jen do zorničky uživatele.",
+        "Optika je rozhodující úzké hrdlo AI brýlí, protože waveguide řešení velkých firem zatím ztrácí svit nebo zkresluje barvy.",
+        "Firma dodává prototypy několika lídrům spotřebních AI brýlí v Asii i v USA a hodlá pootevřít platformu i pro menší značky."
+      ],
+      "why_matters": "AI brýle budou hardwarový hit roku, výrobce optiky se stává klíčovou závislostí celého ekosystému."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Anduril a Meta navrhují bojové smart brýle, pilot ovládá drony pohledem a hlasem",
+      "title_orig": "Inside Anduril and Meta's quest to make smart glasses for warfare",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "source": "MIT Technology Review",
+      "category": "business",
+      "summary_cs": [
+        "Anduril a Meta prototypují AR headset pro americkou armádu, který má voják ovládat eye-trackingem a hlasem, vč. odpalu dronů a navigace v terénu.",
+        "Projekt vede bývalý důstojník Special Operations Quay Barnett a navazuje na desetiletou Pentagon zakázku, kterou Anduril převzal po Microsoftu.",
+        "Komerční AI brýle Meta Ray-Ban dodaly tým a softwarovou základnu, vojenská verze přidává senzory, šifrování a tactical UX vrstvu."
+      ],
+      "why_matters": "Defense tech a consumer hardware se přibližují, AI brýle budou platforma pro obranný komplex."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Robot Figure jede nekonečnou šichtu v živém přenosu a sklízí internetový posměch",
+      "title_orig": "Krade práci skladníkům i streamerům, směje se internet",
+      "url": "https://cc.cz/krade-praci-skladnikum-i-streamerum-smeje-se-internet-lide-hltaji-zivy-prenos-robota-na-nekonecne-sichte/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Americký Figure AI pustil 24/7 livestream svého humanoidního robota, který bez pauzy plní úkoly v simulovaném skladu před zraky diváků.",
+        "Stream slouží jako extrémní zátěžový test hardwaru i digitální paměti, robot se učí ze záznamu vlastních chyb a pádů.",
+        "Komunita na sítích z toho udělala memetický fenomén, video sleduje denně sta tisíce diváků a Figure tím zlevňuje marketing před další funding rundou."
+      ],
+      "why_matters": "Humanoidní roboti jdou ven z labu na obrazovky, hardware se začne komercionalizovat rychleji než čekal trh."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Bug bounty programy zaplavila AI slop, firmy řeší, jak filtrovat hluk",
+      "title_orig": "Bug bounty businesses bombarded with AI slop",
+      "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
+      "source": "Ars Technica",
+      "category": "wildcard",
+      "summary_cs": [
+        "Bezpečnostní platformy jako HackerOne a Bugcrowd hlásí lavinu reportů generovaných AI, které vypadají profesionálně, ale popisují neexistující nebo triviální zranitelnosti.",
+        "Hodnotitelé tráví dny tříděním pseudoreportů, což snižuje rychlost reakce na skutečné nálezy a podkopává ekonomiku odměn pro etické hackery.",
+        "Firmy nasazují vlastní AI klasifikátory na vstupní filtr, ale závody ve zbrojení s útočníky používajícími generativní modely pokračují."
+      ],
+      "why_matters": "Generativní AI ničí ekonomiku bug bounty programů a posouvá tíhu na samotné security týmy."
+    }
+  ]
+}

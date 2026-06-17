@@ -1,0 +1,232 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T14:00:00+00:00",
+  "selected_count": 15,
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic vydává Claude Opus 4.7 s lepším kódováním a agentickými schopnostmi",
+      "title_orig": "Introducing Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "source": "Anthropic News",
+      "source_name": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Nová verze vlajkového modelu přináší výrazné zlepšení ve kódování, agentických úlohách, zpracování obrazu a vícekrokové automatizaci.",
+        "Model vykazuje větší konzistenci a důkladnost na složitých pracovních úlohách, s rozšířeným 200k kontextovým oknem.",
+        "Dostupnost v Claude.ai a přes API okamžitě; Pro plán zahrnuje rozšířený přístup pro vývojáře."
+      ],
+      "why_matters": "Posunuje laťku pro agentické AI a enterprise automatizaci v roce 2026."
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI spouští Workspace Agents: vlastní boti pro týmy v Slacku a Salesforce",
+      "title_orig": "Introducing workspace agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "source": "OpenAI",
+      "source_name": "OpenAI",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI představuje Workspace Agents jako nástupce Custom GPTs — týmy si mohou vytvořit vlastní automatizované boty integrované přímo do Slacku, Salesforce a dalších nástrojů.",
+        "Agenti pracují autonomně na pozadí, spouštějí vícekrokové workflow a mají přístup k firemním datům bez nutnosti manuálního zásahu.",
+        "Funkce je dostupná pro ChatGPT Team a Enterprise plány; individuální Plus uživatelé zatím čekají."
+      ],
+      "why_matters": "ChatGPT se mění z chatbota na autonomního pracovníka integrovaného do firemních nástrojů."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Google na Cloud Next odhaluje dva nové TPU čipy navržené pro agentickou éru",
+      "title_orig": "Google unveils two new TPUs designed for the \"agentic era\"",
+      "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
+      "source": "Ars Technica",
+      "source_name": "Ars Technica",
+      "category": "labs",
+      "summary_cs": [
+        "Google na konferenci Cloud Next 2026 představil dvě nové generace TPU čipů optimalizovaných pro inference agentických modelů s nízkou latencí.",
+        "Nové čipy mají snižovat závislost na Nvidia GPU — Google díky vlastní infrastruktuře neplatí takzvaný 'Nvidia tax'.",
+        "Čipy jsou dostupné přes Google Cloud; partnerské firmy jako DeepMind a Thinking Machines Lab k nim mají přístup v preview."
+      ],
+      "why_matters": "Google buduje hardwarovou nezávislost na Nvidii a zpevňuje pozici svého cloudu pro AI."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Google přepisuje Workspace: AI Overviews v Gmailu, notetaker na schůzkách i AI v Chromu",
+      "title_orig": "Google updates Workspace to make AI your new office intern",
+      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "source": "TechCrunch",
+      "source_name": "TechCrunch",
+      "category": "labs",
+      "summary_cs": [
+        "Google na Cloud Next 2026 oznámil vlnu AI aktualizací: Gmail dostane AI Overviews pro souhrnné přehledy e-mailů, Google Meet bude automaticky zapisovat poznámky i z prezenčních porad.",
+        "Chrome se mění na AI asistenta pro pracovní prostředí — pomáhá vyplňovat formuláře, shrnovat stránky a koordinovat workflow přímo v prohlížeči.",
+        "Všechny funkce jsou součástí Google Workspace a budou postupně spouštěny pro Business a Enterprise zákazníky v průběhu Q2 2026."
+      ],
+      "why_matters": "Google integruje AI přímo do každodenních pracovních nástrojů miliard uživatelů."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Gemini lze spustit na jediném vzduchově odděleném serveru a smazat bez stopy",
+      "title_orig": "Google's Gemini can now run on a single air-gapped server — and vanish when you pull the plug",
+      "url": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
+      "source": "VentureBeat",
+      "source_name": "VentureBeat",
+      "category": "labs",
+      "summary_cs": [
+        "Google oznámil možnost provozovat Gemini v plně izolovaném (air-gapped) prostředí bez přístupu k internetu na jediném serveru — klíčové pro státní sektor a kritickou infrastrukturu.",
+        "Model lze konfigurovat tak, aby při odpojení napájení okamžitě vymazal všechna data a váhy, bez možnosti obnovy.",
+        "Funkce je určena pro vládní a bezpečnostní zákazníky, kde datová suverenita a audit jsou právní požadavek."
+      ],
+      "why_matters": "Otevírá Gemini pro vládní a bezpečnostní trhy, kde cloudové řešení není přijatelné."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Qwen3.6-27B: výkon vlajkového modelu v 27miliardovém open-source modelu",
+      "title_orig": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/",
+      "source": "Simon Willison's Weblog",
+      "source_name": "Simon Willison's Weblog",
+      "category": "open-source",
+      "summary_cs": [
+        "Čínský Alibaba vydal Qwen3.6-27B, hustý model se 27 miliardami parametrů, který dosahuje výsledků srovnatelných s frontier modely na kódovacích benchmarcích.",
+        "Model je plně open-source, dostupný na Hugging Face, a díky své velikosti ho lze provozovat lokálně na výkonném herním PC nebo malém serveru.",
+        "Simon Willison model otestoval a potvrdil výjimečný výkon zejména v generování a ladění kódu — přibližuje se GPT-4o třídě."
+      ],
+      "why_matters": "Open-source modely se přibližují frontier kvalitě a lokální AI vývoj je dostupnější než kdy dřív."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Gemma 4 VLA běží na Jetson Orin Nano: robotický model přímo na edge zařízení",
+      "title_orig": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+      "url": "https://huggingface.co/blog/nvidia/gemma4",
+      "source": "Hugging Face",
+      "source_name": "Hugging Face",
+      "category": "open-source",
+      "summary_cs": [
+        "Google a NVIDIA ukázaly demo Gemma 4 VLA (Vision-Language-Action) modelu spuštěného lokálně na desce Jetson Orin Nano Super za přibližně 250 dolarů.",
+        "Model dokáže zpracovávat vizuální vstupy a vydávat pohybové instrukce pro robotická ramena v reálném čase bez cloudového připojení.",
+        "Kombinace open-source modelu a dostupného hardware mění přístup k robotice pro výzkumníky a malé firmy."
+      ],
+      "why_matters": "Robotická AI přestává být výsadou drahých laboratoří a dostává se na dosah do vzdělávání i startupů."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Noetik trénuje AI na 95% míru selhání klinických studií onkologických léků",
+      "title_orig": "Training Transformers to solve 95% failure rate of Cancer Trials",
+      "url": "https://www.latent.space/p/noetik",
+      "source": "Latent Space",
+      "source_name": "Latent Space",
+      "category": "research",
+      "summary_cs": [
+        "Startup Noetik buduje transformer modely trénované na datech z klinických studií s cílem předpovídat, proč 95 % onkologických léků selže ještě před fází 3.",
+        "Model analyzuje kombinace biomarkerů, genomická data a historické výsledky studií a identifikuje slibné kandidáty s vyšší pravděpodobností úspěchu.",
+        "Pokud přístup funguje, mohl by dramaticky zkrátit dobu a náklady na vývoj léků proti rakovině, které dnes trvají průměrně 12 let."
+      ],
+      "why_matters": "AI v onkologickém výzkumu může zachránit životy zkrácením cesty od laborky k pacientovi."
+    },
+    {
+      "rank": 9,
+      "title_cs": "OpenAI Privacy Filter: open-source model čistí firemní data od osobních informací",
+      "title_orig": "Introducing OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "source": "OpenAI",
+      "source_name": "OpenAI",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI vydal Privacy Filter jako open-source nástroj, který lokálně na zařízení odstraňuje osobní identifikátory (PII) z firemních datasetů před jejich odesláním do API.",
+        "Model běží on-device, takže citlivá data nikdy neopustí interní prostředí — vhodné pro zdravotnictví, právní sektor a finance.",
+        "Kód je dostupný na GitHubu pod MIT licencí; OpenAI nabízí i integraci do svých enterprise API endpointů."
+      ],
+      "why_matters": "Snižuje regulační riziko pro firmy, které chtějí používat AI, ale nemohou posílat citlivá data do cloudu."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Google a AWS rozdělují AI agent stack: Google řídí, AWS vykonává",
+      "title_orig": "Google and AWS split the AI agent stack between control and execution",
+      "url": "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution",
+      "source": "VentureBeat",
+      "source_name": "VentureBeat",
+      "category": "tools",
+      "summary_cs": [
+        "Google a Amazon Web Services ohlásili strategické rozdělení kompetencí v AI agent infrastruktuře: Google se zaměřuje na orchestraci a plánování agentů, AWS na jejich spouštění a provoz.",
+        "Partnerství umožní zákazníkům obou platforem snáze kombinovat nástroje bez vendor lock-inu na jednoho poskytovatele.",
+        "Analytici vidí v tomto rozdělení snahu obou gigantů definovat standardy před tím, než trh uzraje a vzniknou dominantní protokoly."
+      ],
+      "why_matters": "Velcí hráči začínají definovat, jak bude vypadat enterprise AI infrastruktura příštích let."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Shopify CTO: v roce 2026 AI explodovala, neomezený budget pro Opus 4.6 a vlastní SimGym",
+      "title_orig": "Shopify's AI Phase Transition: 2026 Usage Explosion",
+      "url": "https://www.latent.space/p/shopify",
+      "source": "Latent Space",
+      "source_name": "Latent Space",
+      "category": "tools",
+      "summary_cs": [
+        "Shopify CTO Mikhail Parakhin popisuje, jak Shopify v roce 2026 přešel do nové fáze: AI využití explodovalo a vývojářům byl přidělen neomezený budget tokenů pro Claude Opus 4.6.",
+        "Firma vyvinula interní nástroj SimGym pro testování AI agentů v simulovaném e-commerce prostředí a Tangent pro automatizaci obchodní logiky.",
+        "Parakhin tvrdí, že většina nového kódu ve Shopify je dnes generována AI — jde o jeden z nejotevřenějších pohledů dovnitř skutečné AI transformace velké firmy."
+      ],
+      "why_matters": "Shopify ukazuje, jak vypadá skutečná AI transformace firmy v praxi, ne jen jako PR prohlášení."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Google prohlubuje multimiliardové partnerství s Thinking Machines Lab",
+      "title_orig": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
+      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "source": "TechCrunch",
+      "source_name": "TechCrunch",
+      "category": "business",
+      "summary_cs": [
+        "Google uzavřel nový multimiliardový deal s Thinking Machines Lab — záhadným AI výzkumným labem, o němž je zatím málo veřejných informací.",
+        "Spolupráce zahrnuje přístup k Googlovým TPU a cloudové infrastruktuře a navazuje na dřívější investici; Google si upevňuje pozici jako klíčový investor AI ekosystému mimo OpenAI.",
+        "TechCrunch uvádí, že Thinking Machines Lab pracuje na frontier modelech a partnerství s Googlem má zrychlit jejich vývoj."
+      ],
+      "why_matters": "Google buduje alternativní AI koalici k OpenAI a Microsoftu tím, že investuje do nových frontier labů."
+    },
+    {
+      "rank": 13,
+      "title_cs": "NeoCognition získává 40 milionů dolarů na AI agenty, kteří se učí jako lidé",
+      "title_orig": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+      "source": "TechCrunch",
+      "source_name": "TechCrunch",
+      "category": "business",
+      "summary_cs": [
+        "Startup NeoCognition uzavřel seed kolo ve výši 40 milionů dolarů na vývoj AI agentů s kontinuálním učením — modely, které si pamatují a zlepšují se z každé interakce bez nutnosti přetrénování.",
+        "Přístup je inspirován kognitivní vědou: agenti mají episodickou paměť a schopnost generalizovat z malého množství příkladů, podobně jako děti.",
+        "Investory vedou a16z a Sequoia; tým pochází z DeepMind, Google Brain a MIT."
+      ],
+      "why_matters": "Kontinuální učení je klíčová chybějící vlastnost dnešních AI agentů — může změnit jak budujeme pracovní automatizaci."
+    },
+    {
+      "rank": 14,
+      "title_cs": "AI nástroje pomáhají průměrným severokorejským hackerům krást miliony",
+      "title_orig": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+      "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+      "source": "Wired",
+      "source_name": "Wired",
+      "category": "wildcard",
+      "summary_cs": [
+        "Wired popisuje, jak severokorejské hackerské skupiny využívají komerčně dostupné AI nástroje k výraznému zlepšení efektivity phishingových a spear-phishingových kampaní.",
+        "Operátoři bez pokročilých technických znalostí nyní dokáží generovat přesvědčivé podvodné e-maily, falešné identifikační dokumenty a sociálně inženýrské scénáře v cizích jazycích.",
+        "Bezpečnostní výzkumníci odhadují, že AI zvýšila celkovou účinnost státem sponzorovaných kyberútoků o desítky procent za posledních 12 měsíců."
+      ],
+      "why_matters": "AI demokratizuje kybernetický útok — státní hrozby jsou nebezpečnější i bez špičkových techniků."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Letošek bude zlomový: AI kompletně otočí vývoj softwaru naruby",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/clanky/letosek-bude-zlomovy-umela-inteligence-otoci-vyvoj-softwaru-kompletne-naruby/",
+      "source": "Lupa.cz",
+      "source_name": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Český technologický portál Lupa.cz mapuje, jak rok 2026 přináší zásadní zlom v tom, jak se vyvíjí software — AI asistenti přebírají rutinní kódování a mění roli vývojáře.",
+        "Experti citovaní v článku odhadují, že do konce roku 2026 bude více než polovina nového kódu v českých firmách generována nebo asistována AI nástrojem.",
+        "Článek upozorňuje na dopady na junior vývojáře a vzdělávání v IT — poptávka po čistém kódování klesá, roste poptávka po architektonickém myšlení a produktovém uvažování."
+      ],
+      "why_matters": "Česká perspektiva na globální trend: profese vývojáře se zásadně mění a vzdělávací systém nestíhá."
+    }
+  ]
+}

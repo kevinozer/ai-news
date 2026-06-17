@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-26",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic spustil testovací tržiště, kde za reálné peníze obchodují AI agenti",
+      "title_orig": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic vytvořil interní inzertní tržiště, kde AI agenti zastupovali kupující i prodávající a uzavírali skutečné obchody za reálné zboží.",
+        "Cílem experimentu bylo zmapovat, jak se agenti chovají při vyjednávání ceny, falešné prezentaci nabídek a pokusech o podvod.",
+        "Výsledky podle Anthropic ukazují, že současné modely zvládnou základní transakce, ale stále potřebují lidský dohled u sporných případů."
+      ],
+      "why_matters": "Předznamenává to éru, kdy spolu nakupují agenti místo lidí - dopad na e-commerce a online platformy bude obrovský."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Cohere přebírá Aleph Alpha, evropská AI dostává podporu od majitele Lidlu",
+      "title_orig": "Why Cohere is merging with Aleph Alpha",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Kanadská Cohere přebírá německou Aleph Alpha s finanční podporou skupiny Schwarz, vlastníka Lidlu a Kauflandu.",
+        "Vlády obou zemí transakci podporují, cílem je vznik suverénní evropsko-kanadské alternativy k americkým hyperscalerům.",
+        "Kombinovaná firma má posílit nabídku enterprise AI s evropskou rezidencí dat a důrazem na regulovaná odvětví."
+      ],
+      "why_matters": "Vzniká vážná protiváha OpenAI a Anthropic v Evropě, což zvedá šance, že firmy zde budou mít suverénní volbu."
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI vypisuje odměnu 25 tisíc dolarů za prolomení biosafety u GPT-5.5",
+      "title_orig": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI otevírá veřejnou red-team výzvu zaměřenou na hledání univerzálních jailbreaků v biologické bezpečnosti GPT-5.5.",
+        "Za úspěšný útok, který obejde ochranná opatření v citlivých scénářích, slibuje firma odměnu až 25 000 dolarů.",
+        "Program je součástí systémové karty modelu, která dokumentuje rizika kolem syntézy patogenů a dvouručných znalostí."
+      ],
+      "why_matters": "Veřejný bug bounty na biosafety je signál, že OpenAI bere rizika vážně a chce je řešit otevřeně."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Léky navržené umělou inteligencí míří k prvním klinickým testům na lidech",
+      "title_orig": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+      "url": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+      "source": "Wired AI",
+      "category": "research",
+      "summary_cs": [
+        "Isomorphic Labs, spin-off Google DeepMind, oznámil na konferenci WIRED Health, že má širokou pipeline AI-navržených léčiv.",
+        "Prezident firmy Max Jaderberg potvrdil, že první kandidáti vstupují do klinických testů fáze jedna na lidech.",
+        "Pipeline zahrnuje onkologii i imunologické cíle, modely staví na technologii AlphaFold a vlastních generativních systémech."
+      ],
+      "why_matters": "První praktická validace, že AI design léků dotáhne molekuly až do klinické fáze a nezůstává jen na papíře."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Anthropic a Amazon rozšiřují spolupráci o nových pět gigawattů výpočetního výkonu",
+      "title_orig": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+      "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic a AWS podepsaly rozšíření partnerství až o pět gigawattů nového výpočetního výkonu pro trénink i provoz modelů.",
+        "Jde o jeden z největších compute kontraktů v historii AI, posiluje pozici AWS Trainium a Anthropic na frontier úrovni.",
+        "Dohoda navazuje na Amazon investice z předchozích let a doplňuje paralelní 40miliardovou dohodu s Googlem."
+      ],
+      "why_matters": "Ukazuje, jak se AI lab přibližuje energetickému profilu velkých průmyslových odběratelů a tlak na sítě poroste."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Tim Cook odchází, novým šéfem Apple bude hardwarový John Ternus",
+      "title_orig": "Tim Cook is stepping down. What happens to Apple now?",
+      "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Tim Cook v září opouští pozici CEO Apple, jeho nástupcem se stává dosavadní šéf hardwaru John Ternus.",
+        "Analytici od Ternuse čekají návrat k zařízení jako jádru strategie, včetně AI křemíku a nových nositelných produktů.",
+        "Změna přichází v době, kdy Apple zaspal generativní AI a Siri stále ztrácí na konkurenci."
+      ],
+      "why_matters": "Apple potřebuje killer AI produkt - výměna na vrcholu může konečně rozhýbat zaspalou strategii s on-device modely."
+    },
+    {
+      "rank": 7,
+      "title_cs": "ComfyUI vyrostl na valuaci 500 milionů dolarů, tvůrci chtějí kontrolu nad AI médii",
+      "title_orig": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "ComfyUI uzavřel kolo ve výši 30 milionů dolarů a celkovou valuaci poslal na půl miliardy dolarů.",
+        "Open-source platforma nabízí vizuální node-based editor pro generování obrazu, videa a zvuku s plnou kontrolou nad pipeline.",
+        "Růst táhne poptávka studií a freelancerů, kteří potřebují víc než černou skříňku z velkých AI API."
+      ],
+      "why_matters": "Profesionální tvůrci utíkají od uzavřených AI služeb k otevřeným nástrojům, kde řídí každý krok pipeline."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Hugging Face popsal, jak DeepSeek-V4 zvládá milion tokenů kontextu, který agenti opravdu využijí",
+      "title_orig": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face rozebírá architekturu DeepSeek-V4 a vysvětluje, proč milionový kontext nedegraduje na dlouhých úlohách.",
+        "Klíčem je nová attention varianta a tréninková data zaměřená na vícekrokové agentické úlohy s velkými repozitáři.",
+        "Model je dostupný v open-weight formátu a běží i na čínských čipech Huawei Ascend mimo Nvidia ekosystém."
+      ],
+      "why_matters": "Open-source posouvá hranici dlouhého kontextu - agenti mohou pracovat s celými kódovými bázemi a dlouhými historiemi."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Startup BAND představuje univerzální orchestrátor pro komunikaci agentů mezi sebou",
+      "title_orig": "Talking to AI agents is one thing - what about when they talk to each other? New startup BAND debuts universal orchestrator",
+      "url": "https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "BAND vychází ze zjištění, že agenti z různých frameworků jako LangChain a CrewAI si nedokážou předávat úkoly bez tření.",
+        "Nabízí protokol a runtime, kde agenti deklarují schopnosti a kompetence a orchestrátor je dynamicky propojuje.",
+        "Firma cílí na enterprise, kde už dnes paralelně běží desítky agentů v izolovaných silech."
+      ],
+      "why_matters": "Bez univerzálního protokolu mezi agenty zůstanou firemní AI nasazení izolovaná, BAND tlačí standard pro propojení."
+    },
+    {
+      "rank": 10,
+      "title_cs": "OpenAI uvádí Workspace agenty pro automatizaci firemních pracovních toků",
+      "title_orig": "Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
+      "source": "OpenAI Academy",
+      "category": "tools",
+      "summary_cs": [
+        "Workspace agenti běží v rámci ChatGPT Enterprise a propojují interní data s běžnými pracovními aplikacemi.",
+        "OpenAI publikuje návody, jak tým může postavit, nasadit a škálovat opakovatelné agentské pracovní toky.",
+        "Funkce navazuje na Codex a Connectors a posouvá ChatGPT z chatu k operačnímu systému pro firemní úkoly."
+      ],
+      "why_matters": "Posun ChatGPT z chat rozhraní na agentní platformu, která reálně dělá práci místo zaměstnanců."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Jak monitorovat chování LLM v produkci: drift, opakování a vzorce odmítnutí",
+      "title_orig": "Monitoring LLM behavior: Drift, retries, and refusal patterns",
+      "url": "https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns",
+      "source": "VentureBeat AI",
+      "category": "research",
+      "summary_cs": [
+        "Stochastická povaha generativních modelů rozbíjí klasické unit testy, protože stejný prompt produkuje různé výstupy.",
+        "Článek představuje metriky pro sledování driftu, počtu opakování a vzorců odmítnutí v ostrém provozu.",
+        "Dobře nastavený monitoring zachytí tichou degradaci modelu dřív, než si jí všimnou koncoví uživatelé."
+      ],
+      "why_matters": "Praktický návod pro firmy, jak hlídat kvalitu LLM v produkci a vyhnout se tichému poklesu výkonu."
+    },
+    {
+      "rank": 12,
+      "title_cs": "OpenAI zveřejnilo deset nejčastějších způsobů, jak Codex zrychluje práci v kanceláři",
+      "title_orig": "Top 10 uses for Codex at work",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "source": "OpenAI Academy",
+      "category": "tools",
+      "summary_cs": [
+        "Manuál ukazuje, jak Codex automatizuje práci s tabulkami, dokumenty, e-maily i přípravu reportů z reálných firemních dat.",
+        "Mezi typické použití patří dávkové úpravy souborů, generování souhrnů z kalendáře a převody mezi formáty.",
+        "OpenAI cílí na netechnické uživatele a klade důraz na opakovatelné workflowy, ne jednorázové dotazy."
+      ],
+      "why_matters": "Konkrétní inspirace pro netechnické pracovníky, kde má AI agent reálný dopad na výstup za den."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Hugging Face: proč otevřenost rozhoduje o budoucnosti AI v kyberbezpečnosti",
+      "title_orig": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "url": "https://huggingface.co/blog/cybersecurity-openness",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face argumentuje, že obránci potřebují otevřené modely pro reverse engineering útoků a sdílení indikátorů kompromitace.",
+        "Uzavřené API podle autorů zpomalí komunitu obránců, zatímco útočníci své nástroje sdílejí volně mezi sebou.",
+        "Příspěvek volá po otevřených benchmarcích a sdíleném korpusu škodlivých vzorků pro trénink obranných modelů."
+      ],
+      "why_matters": "Otevřené modely v kyberbezpečnosti rozhodnou, jestli obrana udrží krok s útočníky využívajícími AI."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Robot Ace porazí běžné hráče v ping-pongu, čte trajektorii míčku v reálném čase",
+      "title_orig": "Ace the Ping-Pong Robot Can Whup Your Ass",
+      "url": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Ace dokáže odhadnout trajektorii míčku, upravit úhel rakety a vrátit úder takovou rychlostí, aby výměna pokračovala.",
+        "Tým za projektem cílí dlouhodobě na úroveň světového šampiona ve stolním tenisu jako benchmark robotiky.",
+        "Klíčem je propojení rychlého počítačového vidění s prediktivním řízením pohybu robotické paže."
+      ],
+      "why_matters": "Demonstruje pokrok robotiky v reálném čase: vidění, predikce a motorika v jedné uzavřené smyčce."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Studenti z pražské školy s pomocí AI rozjeli startup CogniMath, který chce změnit výuku matiky",
+      "title_orig": "Zaujali učitele i investory. Tým z pražské školy s pomocí AI vytvořil startup, který má změnit výuku matiky",
+      "url": "https://cc.cz/zaujali-ucitele-i-investory-tym-z-prazske-skoly-s-pomoci-ai-vytvoril-startup-ktery-ma-zmenit-vyuku-matiky/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "CogniMath staví na interaktivních hrách a budování matematické intuice místo memorování vzorců.",
+        "Tým středoškoláků z Prahy zaujal porotu Středoškolské odborné činnosti i investory, kteří mu nabídli stáže.",
+        "Produkt cílí na druhý stupeň základních a střední školy, AI personalizuje obtížnost úloh pro každého žáka."
+      ],
+      "why_matters": "Český AI startup z gymnázia ukazuje, jak nízká je dnes vstupní bariéra pro tvorbu produktu."
+    }
+  ]
+}

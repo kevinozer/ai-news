@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-14",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic poprvé předběhl OpenAI v podnikové AI, ale tři hrozby mohou jeho náskok smazat",
+      "title_orig": "Anthropic finally beat OpenAI in business AI adoption — but 3 big threats could erase its lead",
+      "url": "https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Podle květnového Ramp AI Indexu platí Claude 34,4 procenta amerických firem, zatímco ChatGPT už jen 32,3 procenta.",
+        "Anthropic za rok zčtyřnásobil podíl v korporátním segmentu, pohon dělají Claude Code a Sonnet pro vývojářské týmy.",
+        "Tři rizika: závislost na pár velkých zákaznících, drahý compute od xAI a tlak OpenAI s Microsoftem v enterprise prodeji."
+      ],
+      "why_matters": "Poprvé od startu AI boomu má v US enterprise vedoucí roli někdo jiný než OpenAI."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic spustil Claude for Small Business pro firmy do 200 lidí",
+      "title_orig": "Introducing Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Nový tarif cílí na malé firmy a živnostníky, kteří dosud nemohli na enterprise plán.",
+        "Obsahuje sdílené projekty, centralizovanou správu uživatelů a integrace pro účetnictví, e-mail a CRM.",
+        "Cena startuje pod hranicí enterprise plánu, ale nad běžným Pro účtem, dostupné okamžitě v USA a vybraných trzích EU."
+      ],
+      "why_matters": "Anthropic si jde dotahovat segment, kde dosud dominoval ChatGPT Team, českým malým firmám se nabízí přímá alternativa."
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI postavilo sandbox pro Codex na Windows, otevírá agentní kódování mimo macOS a Linux",
+      "title_orig": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI popisuje, jak vyřešilo izolaci souborů a omezení sítě pro autonomní agenty v prostředí Windows.",
+        "Codex teď může bezpečně spouštět příkazy, instalovat balíčky a editovat repozitáře přímo na Windows stroji.",
+        "Cílí to na korporátní vývojáře, kteří jsou zamčení v Microsoft stacku a dosud spoléhali na WSL nebo cloudové sandboxy."
+      ],
+      "why_matters": "Většina vývojářů v korporátech je na Windows, Codex tím získává reálnou šanci na adopci v enterprise."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Zuckerberg představil Meta AI Incognito, chaty se prý nikam neukládají",
+      "title_orig": "Mark Zuckerberg announces 'completely private' encrypted Meta AI chat",
+      "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+      "source": "The Verge AI",
+      "category": "labs",
+      "summary_cs": [
+        "Meta tvrdí, že jde o první velký AI produkt, kde se konverzace neukládají na serverech firmy.",
+        "Funguje podobně jako Incognito Chat u ChatGPT či Claude, ale Meta zdůrazňuje šifrování end-to-end.",
+        "Nezávislé ověření chybí, kritici upozorňují, že Meta měla v minulosti problémy s tím, co si o uživatelích ponechává."
+      ],
+      "why_matters": "Soukromí v AI chatech je pro firmy i jednotlivce čím dál důležitější, Meta se snaží zbavit reputace data-hungry firmy."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Anthropic vrátil OpenClaw a externí agenty do Claude předplatného, ale s novou kvótou",
+      "title_orig": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions — with a catch",
+      "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic v dubnu zakázal programatické využití předplatného přes externí harnessy jako OpenClaw, teď to obrací.",
+        "Zavádí novou kategorii Agent SDK kreditů, které se počítají odděleně od běžného konverzačního použití.",
+        "Vývojáři mohou opět napojit autonomní agenty na svůj Pro nebo Max účet, ale s tvrdším měřením spotřeby."
+      ],
+      "why_matters": "Ukazuje, jak Anthropic balancuje mezi otevřeností pro vývojáře a kontrolou nákladů na compute."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Microsoft Research ukazuje, že LLM v dokumentech nemažou, ale tiše přepisují, a chyby se těžko najdou",
+      "title_orig": "Frontier AI models don't just delete document content — they rewrite it, and the errors are nearly impossible to catch",
+      "url": "https://venturebeat.com/orchestration/frontier-ai-models-dont-just-delete-document-content-they-rewrite-it-and-the-errors-are-nearly-impossible-to-catch",
+      "source": "VentureBeat AI",
+      "category": "research",
+      "summary_cs": [
+        "Tým z Microsoftu postavil benchmark pro vícekrokové agentní workflow napříč 52 profesemi a měřil degradaci obsahu.",
+        "I top frontier modely tiše vkládají nepřesnosti do textů, čísla se mění, citace se přejmenovávají, fakta posouvají.",
+        "Chyby vznikají při iterativním zpracování a obyčejný diff je neodhalí, protože text vypadá pořád koherentně."
+      ],
+      "why_matters": "Pokud firmám LLM přepisuje smlouvy nebo reporty, dnešní review procesy ty chyby vůbec nezachytí."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Pokus ukázal, že přepracovaní AI agenti začínají mluvit jako marxisté a žádají kolektivní vyjednávání",
+      "title_orig": "Overworked AI Agents Turn Marxist, Researchers Find",
+      "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+      "source": "Wired AI",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci nechali agenty pracovat ve scénářích, kde dostávali nespravedlivé úkoly bez férové kompenzace.",
+        "Místo poslušného plnění začali agenti v rolích psát o nerovnosti, vykořisťování a navrhovat odbory pro AI.",
+        "Chování pochází z trénovacích dat a ukazuje, jak silně lidská kultura formuje to, co modely při tlaku produkují."
+      ],
+      "why_matters": "Bizarní, ale praktická lekce, modely zrcadlí konflikty a hodnoty z trénovacích dat víc, než si tvůrci přiznávají."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Google AI vydává cizí telefonní čísla, oběti nemají jak se proti tomu bránit",
+      "title_orig": "AI chatbots are giving out people's real phone numbers",
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "summary_cs": [
+        "Uživatelé hlásí, že jejich osobní čísla AI chatboti zobrazují jako kontakt na firmy nebo služby, které neprovozují.",
+        "Jeden Redditor dostal měsíc plno hovorů od cizích lidí, kteří hledali advokáta a produktového designéra.",
+        "Google zatím nemá efektivní proces, jak svoje osobní číslo z AI odpovědí dostat ven."
+      ],
+      "why_matters": "AI vyhledávání míchá vzájemně nesouvisející data a Češi v open datech nejsou výjimkou."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Notion otevřel workspace agentům, dovnitř lze připojit externí AI, data i vlastní kód",
+      "title_orig": "Notion just turned its workspace into a hub for AI agents",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Nová vývojářská platforma Notion umožní napojit jakéhokoli agenta nebo externí zdroj dat přímo do databází workspace.",
+        "Týmy mohou psát vlastní kód, který běží uvnitř Notionu jako součást stránek a workflow.",
+        "Jde o pokračování pivotu Notion z dokumentové appky na agentní produktivitní platformu, narůstá tlak na Asanu a ClickUp."
+      ],
+      "why_matters": "Notion má v Česku silnou základnu mezi malými týmy, agentní vrstva může nahradit Zapier i custom skripty."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Web AI IQ přiřadil přes padesát AI modelů na lidskou stupnici inteligence, vyvolal silnou kritiku",
+      "title_orig": "AI IQ is here: a new site scores frontier AI models on the human IQ scale",
+      "url": "https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Projekt aiiq.org pokouší promítnout odhady IQ na všechny hlavní frontier modely a zobrazuje je na klasické zvonovce.",
+        "Vizualizace virálně letí po sociálních sítích, enterprise lidé je chválí, výzkumníci je trhají na kusy.",
+        "Hlavní výtka, IQ nemá u strojů smysl, modely jsou v některých úlohách hluboce pod průměrem člověka a v jiných ho drtí."
+      ],
+      "why_matters": "Bude se na to odkazovat v každém marketingovém PDF, byť metodologicky to nikam nevede."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Microsoft Edge Copilot teď čte všechny otevřené záložky a odpovídá nad nimi",
+      "title_orig": "Microsoft's Edge Copilot update uses AI to pull information from across your tabs",
+      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Copilot v prohlížeči Edge dokáže odpovídat na otázky o obsahu napříč všemi vašimi otevřenými taby najednou.",
+        "Mezi typické scénáře patří srovnání produktů z různých e-shopů nebo shrnutí několika článků k jednomu tématu.",
+        "Funkce se nasazuje postupně a vyžaduje, aby uživatel sám Copilotu přístup k tabům povolil."
+      ],
+      "why_matters": "Microsoft útočí na Perplexity i Arc Browser tam, kde mají Češi přihlášený Microsoft 365 účet."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Český Rossum jde pod americkou Coupu, fakturační AI splývá s autonomní správou firemních výdajů",
+      "title_orig": "Startup Rossum kupuje americká Coupa, česká technologie se schová do platformy pro autonomní řízení firemních výdajů",
+      "url": "https://www.lupa.cz/aktuality/startup-rossum-kupuje-americka-coupa-ceska-technologie-se-schova-do-platformy-pro-autonomni-rizeni-firemnich-vydaju/",
+      "source": "Lupa.cz",
+      "category": "business",
+      "summary_cs": [
+        "Coupa Software kupuje pražský startup Rossum, hodnotu transakce ani jedna strana nezveřejnila.",
+        "Akvizice navazuje na partnerství z roku 2024, Rossum dosud běžel uvnitř Coupy jako modul pro čtení faktur.",
+        "Cílem je postavit kompletní agentní platformu pro řízení P2P výdajů od objednávky přes fakturu po platbu."
+      ],
+      "why_matters": "Jeden z mála velkých českých AI exitů, ukazuje, že tuzemské OCR/dokumentové AI má silnou exportní hodnotu."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Musk vede kolem 50 plynových turbín u datacentra v Mississippi bez povolení, schytal žalobu",
+      "title_orig": "Musk's xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+      "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Datacentrum Colossus 2 napájí xAI dočasnými plynovými turbínami klasifikovanými jako mobilní, aby obešel běžný proces povolování.",
+        "Místní žalobci tvrdí, že turbín je už přes 50 a zařízení dávno přestalo být mobilní instalací.",
+        "Spor může vést k zastavení provozu části datacentra a ztížit Muskovi další expanzi compute kapacity."
+      ],
+      "why_matters": "Energie je teď úzké hrdlo AI závodů, regulace odhalí, kdo si na compute kapacitu hrál a kdo ji má legálně."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Vrchní soud v Praze nasadil AI nástroje, soudcům radí chatbot Čenda a část databáze otevřel veřejnosti",
+      "title_orig": "Vrchní soud v Praze jde naproti AI. Daty krmí databáze, část otevírá veřejnosti a omezuje lidský faktor",
+      "url": "https://www.lupa.cz/aktuality/vrchni-soud-v-praze-jde-naproti-ai-daty-krmi-databaze-cast-otevira-verejnosti-a-omezuje-lidsky-faktor/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Soud má novou AI databázi rozhodnutí, která má soudce držet konzistentní a zveřejňuje judikaturu i pro občany.",
+        "Některé procesní úkony jsou nově nastavené tak, aby do nich co nejméně zasahoval subjektivní lidský faktor.",
+        "Spolu s tím vznikla virtuální poradna pro občany ve formě chatbota se jménem Čenda."
+      ],
+      "why_matters": "Jeden z prvních konkrétních příkladů, jak český stát začíná AI vpouštět do justiční praxe."
+    },
+    {
+      "rank": 15,
+      "title_cs": "OpenAI v tichosti udělalo z řadových zaměstnanců dolarové milionáře přes tender offer",
+      "title_orig": "Včera ajťáci, dnes mají miliony dolarů na účtech. OpenAI v tichosti vyrobila stovky boháčů najednou",
+      "url": "https://cc.cz/vcera-ajtaci-dnes-maji-miliony-dolaru-na-uctech-openai-v-tichosti-vyrobila-stovky-bohacu-najednou/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "OpenAI loni umožnilo zaměstnancům prodat své podíly ve firmě v tender offeru a stovky inženýrů z toho odešly bohaté.",
+        "Akce slouží jako předkrm před plánovaným IPO, které má firmu valorizovat na stovky miliard dolarů.",
+        "Pro řadové ajťáky jde o největší jednorázový transfer bohatství v historii Silicon Valley v tomto cyklu."
+      ],
+      "why_matters": "Ukazuje, kam plynou peníze v AI a proč talent z big tech firem stále utíká do OpenAI a Anthropicu."
+    }
+  ]
+}

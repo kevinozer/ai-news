@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-24",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI vydává GPT-5.5 a krok blíže k AI superappce",
+      "title_orig": "OpenAI releases GPT-5.5, bringing company one step closer to an AI 'super app'",
+      "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI uvedlo GPT-5.5, novou verzi svého vlajkového modelu dostupnou v ChatGPT a skrze Codex; model nabízí zlepšení v kódování, logickém uvazování a multimodálních úlohách.",
+        "GPT-5.5 je srdcem nové vizí ChatGPT jako 'superappky', která combines chatem, agenty i pracovními toky v jedné platforme.",
+        "Model je zatím k dispozici placeným uživatelům a v API; OpenAI jej popsalo jako mezikrok ke GPT-6."
+      ],
+      "why_matters": "GPT-5.5 posouvá laťku pro kódovací agenty a zvysuje tlak na Anthropic i Google."
+    },
+    {
+      "rank": 2,
+      "title_cs": "ChatGPT Images 2.0: novy model pro generování obrázku s lepším textem",
+      "title_orig": "Introducing ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI spustilo Images 2.0, novou generaci obrazového modelu integrovanou přímo do ChatGPT; klíčové vylepšení je precizní renderování textu v obrázcích a vícejazyčná podpora.",
+        "Model zvládá komplexnejší kompozice a rozumí vizuálnímu kontextu lépe než předchůdce, takže lze generovat plakáty, prezentace nebo marketingové materiály přímo z chatu.",
+        "Images 2.0 postupně nahrazuje starší model DALL-E ve všech placených plánech ChatGPT."
+      ],
+      "why_matters": "Kvalitnější text v obrazcích otevírá ChatGPT pro marketing a design bez potřeby externích nástrojů."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic a NEC budují v Japonsku největší AI inženýrskou pracovní sílu",
+      "title_orig": null,
+      "url": "https://www.anthropic.com/news/anthropic-nec",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic a japonský technologický gigant NEC oznámili strategickou spolupráci zaměřenou na proškolení desetitisíců japonských inženýrů v práci s modely Claude.",
+        "Partnerství zahrnuje integraci Claudea do podnikových systémů NEC a společný vývoj AI nástrojů pro japonský trh, kde NEC obsluhuje velkou část veřejné správy.",
+        "Jde o součást širší expanze Anthropic do Asie – firma má výzkumná a obchodní centra v Tokiu i Soulu."
+      ],
+      "why_matters": "Skrze NEC vstupuje Claude do japonské verejné správy a podniků, což je strategicky klíčový trh."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Google DeepMind: Decoupled DiLoCo – nová hranice distribuovaného tréninku AI",
+      "title_orig": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+      "url": "https://deepmind.google/blog/decoupled-diloco/",
+      "source": "Google DeepMind Blog",
+      "category": "labs",
+      "summary_cs": [
+        "DeepMind prezentoval metodu Decoupled DiLoCo, která umozňuje trénovat velké jazykové modely přes fyzicky oddělené datové centrum bez nutnosti nepřetržitého vysokorychlostního spojení.",
+        "Metoda odděluje forward a backward pass do nezávislých bloků, čímž drasticky snižuje komunikační náklady a zvyšuje odolnost vůči výpadkům sítě.",
+        "V praxi to znamená, že organizace s omezenou síťovou infrastrukturou mohou trénovat modely srovnatelné s frontier LLM za podstatně nižší náklady."
+      ],
+      "why_matters": "Zlevnění distribuovaného tréninku může zpřístupnit vývoj špičkových modelů i mimo USA a Čínu."
+    },
+    {
+      "rank": 5,
+      "title_cs": "DeepSeek V4: téměř na frontier úrovni za zlomek ceny",
+      "title_orig": "DeepSeek V4 - almost on the frontier, a fraction of the price",
+      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+      "source": "Simon Willison's Weblog",
+      "category": "open-source",
+      "summary_cs": [
+        "Čínská laboratoř DeepSeek vydala první modely z řady V4 – DeepSeek-V4-Pro a V4-Flash – oba s kontextovým oknem 1 milion tokenů a architekturou Mixture of Experts.",
+        "Dle prvních testů se V4-Pro přiblizuje výkonu GPT-5.5 a Claudea Opus 4.6 v kódování a logice, přičemž nabízí volné API s cenami výrazně pod konkurencí.",
+        "Simon Willison zdůrazňuje, že V4-Pro s 671 miliardami parametrů pravděpodobně nelze provozovat lokálně, ale Flash varianta je dostatečně malá pro edge nasazení."
+      ],
+      "why_matters": "Levné frontier alternativy z Číny stlačují ceny API a komplikují business modely OpenAI i Anthropic."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Qwen3.6-27B: kódovací výkon flagship modelu v modelu s 27 miliardami parametrů",
+      "title_orig": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/",
+      "source": "Simon Willison's Weblog",
+      "category": "open-source",
+      "summary_cs": [
+        "Alibabův tým Qwen uvolnil Qwen3.6-27B, dense model s 27 miliardami parametrů, který na agentkých kódovacích benchmarcích překonává výkon staršího MoE modelu Qwen3.5-397B.",
+        "Model je dostupný pod otevřenou licencí a lze ho spustit lokálně na high-end spotřebitelském hardwaru, například na RTX 4090 nebo M2 Ultra.",
+        "Výsledky naznačují, ze dense architektura při dobré optimalizaci může předčit mnohem větší MoE modely, což mění kalkul pro lokální nasazení."
+      ],
+      "why_matters": "Výkonný open-source model na 27B parametrech je prakticky nasaditelný lokálně bez cloudu nebo nákladného serveru."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Claude se propojuje přímo s vašimi osobními aplikacemi – Spotify, Uber Eats i TurboTax",
+      "title_orig": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Anthropic rozšiřuje ekosystém konektorů Claude o desítky osobních aplikací – k dosavadním pracovním nástrojům přibyly Spotify, Uber Eats, Audible, AllTrails a daňová aplikace TurboTax.",
+        "Konektory umoňují Claudovi přímo ovládat a číst data z aplikací, takže uživatel může například říct 'objednej mi obvyklou pizzu' a Claude to provede skrze Uber Eats.",
+        "Integrace běží přes protokol MCP (Model Context Protocol) a jsou dostupné všem placeným uživatelům Claude.ai."
+      ],
+      "why_matters": "Claude se mění z chatbotu na osobního asistenta propojeného s reálnym životem uzivatele."
+    },
+    {
+      "rank": 8,
+      "title_cs": "OpenAI přidává WebSocket do Responses API pro rychlejší agentické pracovní toky",
+      "title_orig": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "source": "OpenAI Blog",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI publikovalo hloubkový popis smyčky Codex agenta a oznámilo podporu WebSocket spojení v Responses API, které eliminuje opakované navazování HTTP spojení při vícekolových agentních úlohách.",
+        "Connection-scoped caching snižuje latenci o desítky procent u scénářů, kde agent posílá desítky dotazů za sekundu – typicky IDE kódovací asistenti nebo autonomní testovací pipeline.",
+        "Podpora WebSocket je aktuálně v beta fázi a dostupná vybraným enterprise partnerům; obecná dostupnost se očekává v příštích týdnech."
+      ],
+      "why_matters": "Snizení latence agentů o desítky procent mení ekonomiku i uživatelský zažitek kódovacích asistentů."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Jak spustit Transformers.js přímo v Chrome extension",
+      "title_orig": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "HuggingFace vydal podrobný tutoriál ukazující, jak integrovat Transformers.js do Chrome rozšíření a spouštět malé AI modely přímo v prohlížeči bez serveru.",
+        "Modely jako Whisper pro přepis řeči nebo DistilBERT pro klasifikaci textu běží plně lokálně díky WebGPU akceleraci, takže uzivateli neodchází žádná data mimo zařízení.",
+        "Přístup otevírá novou kategorii privacy-first AI nástrojů – rozšíření pro přepis meetingů, sumarizaci webu nebo analýzu e-mailu bez cloudu."
+      ],
+      "why_matters": "On-device AI v prohlizeci je klíčová technologie pro soukromí – vývojáři ji mohou nasadit dnes."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Meta propouští 10 procent zaměstnanců, aby uvolnila kapacity pro AI investice",
+      "title_orig": "Meta is laying off 10 percent of its staff",
+      "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+      "source": "The Verge AI",
+      "category": "business",
+      "summary_cs": [
+        "Meta oznámila propouštění přibližně 8 000 zaměstnanců – tedy 10 % celkové pracovní síly – s účinností v květnu; zároveň ruší přes 6 000 otevřených pozic.",
+        "Zuckerberg opakovaně zdůraznil, ze firma přechází do 'AI fáze' a prepouštění umozní rekordní investice do čipů, infrastruktury a vývoje vlastních AI modelů řady Llama.",
+        "Jde o největší kolo propouštění v Metě od podzimu 2022, kdy firma propustila 11 000 lidí v rámci 'roku efektivity'."
+      ],
+      "why_matters": "Meta sacrifikuje celou desetinu firmy, aby mohla soupeřit s OpenAI a Google v AI závodě."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Bret Taylorova Sierra kupuje francouzský AI startup Fragment podporovaný YC",
+      "title_orig": "Bret Taylor's Sierra buys YC-backed AI startup Fragment",
+      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Sierra, AI platforma pro zákaznický servis co-founder Breta Taylora, akvizovala francouzský startup Fragment podporovaný Y Combinator.",
+        "Fragment se specializuje na orchestraci víceagentních systémů a jeho technologie má posílit Sierrine schopnosti pri řesení složitych zákaznických dotazů vyžadujících více kroků.",
+        "Podmínky transakce nebyly zveřejněny; Sierra má dosud přes 100 podnikových klientů a vyrůstá jako přímý rival Salesforce AI a Zendesk."
+      ],
+      "why_matters": "Konsolidace AI startupů pro zákaznický servis se zrychluje – menší hráci jsou pohlcováni rychle."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Záhadné zhoršení Claude odhaleno: na vině byly změny v harnessu a instrukcích",
+      "title_orig": "Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely caused degradation",
+      "url": "https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation",
+      "source": "VentureBeat AI",
+      "category": "news",
+      "summary_cs": [
+        "Anthropic potvrdil, ze stižnosti vývojářů na snižení kvality Claude Code z posledních tydnů mají racionální vysvětlení – změny v interních instrukcích a harnessu modelu neúmyslně omezily jeho výkon.",
+        "Firma problém opravila a publikovala post-mortem; jde o raritní případ, kdy AI lab otevřeně přizná regresi způsobenou vlastními provozními změnami, nikoliv updatem modelu.",
+        "Incident nastartoval debatu o transparentnosti AI lab a potřebě formálních change logů pro produkční modely."
+      ],
+      "why_matters": "Případ ukazuje, že AI výkon může klesat i bez změny vah modelu – a transparentnost se vyplácí."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nathan Lambert: jak skutecně měrit mezeru výkonu mezi open a closed modely",
+      "title_orig": "Reading today's open-closed performance gap",
+      "url": "https://www.interconnects.ai/p/reading-todays-open-closed-performance",
+      "source": "Interconnects (Nathan Lambert)",
+      "category": "research",
+      "summary_cs": [
+        "Nathan Lambert z Allen AI rozebírá, proč jedno číslo na benchmarku (např. MMLU, SWE-bench) spolehlivě nestačí k porovnání open a closed modelů a jak je výsledek citlivý na výběr evaluačního protokolu.",
+        "Klíčová teze: uzavřené modely mají reálný lead hlavně v instrukcích sledování, RLHF alignment a multimodálních schopnostech – nikoli nutně v surové znalosti nebo logice.",
+        "Autor předpovídá, že mezera se v horizontu 12-18 měsíců dále zúží, pokud komunita udrrží tempo s SFT a RL post-trainingem."
+      ],
+      "why_matters": "Pochopení reálné mezery open vs. closed modelů je klíčové pro firmy rozhodující se o AI strategii."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Pěchouček na ČVUT otevřel Národní centrum umělé inteligence",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/aktuality/pechoucek-na-cvut-otevrel-narodni-centrum-umele-inteligence-ma-ai-zabydlet-ve-firmach-i-verejne-sprave/",
+      "source": "Lupa.cz",
+      "category": "news",
+      "summary_cs": [
+        "Na Českém institutu informatiky, robotiky a kybernetiky ČVUT (CIIRC) bylo slavnostně zahájeno Národní centrum umělé inteligence (NCUI); centrum koordinuje přenos akademického výzkumu do podnikové praxe.",
+        "Michal Pěchouček, zakladatel Avast AI divize a nyní vládní poradce pro AI, centrum otevřel s cílem propojit firmy s výzkumníky a urychlovat nasazení AI ve verejné správě.",
+        "NCUI navazuje na projekt RICAIP financovaný EU a plánuje do dvou let otevřít pobočky v Brně a Ostravě."
+      ],
+      "why_matters": "Česko systematicky buduje AI infrastrukturu – NCUI může být klíčovym hráčem v propojení akademie a průmyslu."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Poprvé potvrzeno: rodina ransomwaru používá post-kvantovou kryptografii",
+      "title_orig": "In a first, a ransomware family is confirmed to be quantum-safe",
+      "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+      "source": "Ars Technica",
+      "category": "wildcard",
+      "summary_cs": [
+        "Bezpecnostní výzkumníci identifikovali první rodinu ransomwaru, která pro šifrování dat oběti používá post-kvantové kryptografické algoritmy – konkrétně CRYSTALS-Kyber standardizovaný NIST.",
+        "Technicky vzato nemá PQC pro ransomware žádnou praktickou výhodu – kvantové pocítače schopné prolomit RSA či ECC zatím neexistují – ale útočníci ji zjevně přidali jako 'future-proof' vrstvu nebo PR trik.",
+        "Incident je varováním pro bezpečnostní týmy: i kyberzlochinci sledují trendy v kryptografii a aktivně je testují v reálných útocích."
+      ],
+      "why_matters": "Kyberzlochinci adoptují post-kvantovou kryptografii drive nez mnoho legitimních firem – cesta k obraně se komplikuje."
+    }
+  ]
+}

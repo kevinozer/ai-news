@@ -1,0 +1,300 @@
+{
+  "date": "2026-04-21",
+  "selected_count": 15,
+  "source_inbox": "../inbox/2026-04-21.json",
+  "selection_method": "Claude orchestrator — Cowork session, medium-deep format",
+  "categories_summary": {
+    "news": 6,
+    "labs": 3,
+    "commentary": 3,
+    "research": 1,
+    "cz": 2
+  },
+  "articles": [
+    {
+      "id": "75e2c8e2c671b97f",
+      "rank": 1,
+      "title_cs": "Anthropic vypouští Claude Opus 4.7 a designový nástroj Claude Design — útočí na Figmu",
+      "title_orig": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma",
+      "url": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma",
+      "source_name": "VentureBeat AI",
+      "category": "news",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5DmzXzlni0pVWEsOQilzRl/7be8fdfb9d3f0d88f49cb8d3d8df28c7/nuneybits_Vector_art_of_a_retro_CRT_computer_displaying_color_s_d7afd7e6-cc20-434f-b18e-32f034a387ed-1.webp?w=1200&q=80",
+      "summary_cs": [
+        "Anthropic v jeden den uvolnil frontier model Opus 4.7 a produkt Claude Design — nástroj, který z promptu generuje designy, prototypy, slidy i one-pagery.",
+        "Claude Design je v research preview pro všechny platící uživatele (Pro, Max, Team, Enterprise) a běží nad Opus 4.7 s podporou obrazu až 2 576 px na delší straně (~3,75 MPx, trojnásobek předchozích modelů).",
+        "Při onboardingu Claude přečte codebase a design system týmu, takže výstupy drží brand identitu a dají se předat vývojářům.",
+        "Podle Bloombergu dosáhlo Anthropic zhruba 30 miliard USD ARR v dubnu 2026 a jedná o IPO v říjnu 2026 — přechod z poskytovatele modelů na full-stack product company.",
+        "Nový tokenizer Opus 4.7 generuje 1,0–1,35× více tokenů než 4.6 (Simon Willison naměřil až 1,46× na systémových promptech), takže efektivně +30–40 % na nákladech při stejné ceně za milion tokenů."
+      ],
+      "why_matters": "Tohle je největší krok Anthropicu do aplikační vrstvy — přímý útok na Figmu, Canvu a Adobe. Plus frontier model update, který ovlivní cenu i výkon všeho, co na Claudovi stavíš.",
+      "published_at": "2026-04-17T15:00:00+00:00"
+    },
+    {
+      "id": "1dc59d91d1de6fb9",
+      "rank": 2,
+      "title_cs": "Moonshot Kimi K2.6: open-source model dohání Opus 4.6, předbíhá DeepSeek v4",
+      "title_orig": "[AINews] Moonshot Kimi K2.6: the world's leading Open Model refreshes to catch up to Opus 4.6 (ahead of DeepSeek v4?)",
+      "url": "https://www.latent.space/p/ainews-moonshot-kimi-k26-the-worlds",
+      "source_name": "Latent Space",
+      "category": "commentary",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!t76W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba3bb8e1-94f7-4acd-a98b-e7d2ce0d577e_2886x1483.png",
+      "summary_cs": [
+        "Moonshot uvolnil Kimi K2.6 — podle Latent Space nejvýkonnější open-weight model současnosti, v benchmarcích úroveň Claude Opus 4.6.",
+        "Model má vidění i solidní browser use; uživatelé na Redditu hlásí, že zvládá ~85 % toho, co Opus 4.7, za zlomek ceny.",
+        "Komunita okolo llama.cpp už chrlí kvantizace — Q4_X běží na ~584 GB VRAM+RAM (např. 2× M3 Ultra Mac Studio s 512 GB RAM), menší varianty přijdou záhy.",
+        "r/LocalLLaMA exploduje: 852 upvotů na HF oznámení, 798 na „legit Opus 4.7 replacement\", řada lidí ruší Claude Max subscription.",
+        "Čínský open-weight frontier model s menším kontextovým oknem, ale efektivnějším zacházením s ním — rozdíl open ↔ closed se dál zmenšuje."
+      ],
+      "why_matters": "Kimi K2.6 je praktický důkaz, že open-weight modely drží tempo s frontier labs. Každý, kdo buduje produkt nad API, by měl zvážit, jestli má smysl platit frontier, když 85 % práce zvládne free alternativa.",
+      "published_at": "2026-04-21T00:19:33+00:00"
+    },
+    {
+      "id": "42c4f0bf43b27ee5",
+      "rank": 3,
+      "title_cs": "Anthropic bere od Amazonu dalších 5 miliard a slibuje 100 miliard za AWS",
+      "title_orig": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "source_name": "TechCrunch AI",
+      "category": "news",
+      "hero_image": null,
+      "summary_cs": [
+        "Amazon investuje dalších 5 mld. USD do Anthropicu, výměnou se Anthropic zavazuje utratit 100 mld. USD za AWS.",
+        "Další „kruhový\" AI deal — podobně jako OpenAI × Microsoft nebo OpenAI × Oracle: investice z jedné strany se vrací jako cloud revenue ze strany druhé.",
+        "Anthropic překročil 30 mld. USD ARR a jedná o IPO na podzim 2026.",
+        "Zapadá do rozšíření partnerství s Googlem a Broadcomem oznámeného 6. dubna (gigawatty nové compute kapacity).",
+        "Ukazuje kapitálovou dynamiku frontier AI: peníze netečou ven z ekosystému, jen krouží mezi hyperscalery a labs."
+      ],
+      "why_matters": "Cyklické finanční transakce nafukují vykazované tržby, ale zakládají systémové riziko — pokud jedna z pák (třeba Anthropic) oslabí, řetěz se rozpadne.",
+      "published_at": "2026-04-20T23:10:27+00:00"
+    },
+    {
+      "id": "6c8b7f6a60bea9e8",
+      "rank": 4,
+      "title_cs": "Salesforce vypouští Headless 360: celá platforma jako API pro AI agenty",
+      "title_orig": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
+      "url": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents",
+      "source_name": "VentureBeat AI",
+      "category": "news",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/20o4KbpCNvhGDbjACvvc46/33584beeede6af5fbfc2d328076a0e64/nuneybits_Vector_art_of_Salesforce_Tower_bc4b6995-07bd-4746-97a9-9dfda2ab92d0.webp?w=1200&q=80",
+      "summary_cs": [
+        "Salesforce vystavil celou funkcionalitu platformy (CRM, Slack, Agentforce) jako API, MCP tools a CLI — agent může celý stack ovládat bez otevření prohlížeče.",
+        "100+ nových toolů a skills okamžitě dostupných na TDX konferenci; Benioff: „Our API is the UI.\"",
+        "Pozadí: SaaS sektor spadl ~28 % od září 2025 kvůli obavám, že agenti nahradí tradiční UI-first aplikace.",
+        "„Headless\" přístup rozbíjí per-seat licensing — jedno API volání může obsloužit celou firmu, což mění ekonomiku SaaS.",
+        "Simon Willison komentuje paralelu s API boomem začátku 2010s — kdo nemá agent-friendly API, bude za pár let neviditelný."
+      ],
+      "why_matters": "Pokud se Headless model ujme, cena softwaru se odtrhne od počtu zaměstnanců a přejde na spotřebu tokenů/akcí. Pro klienty AI NA MÍRU to znamená nový typ ROI kalkulace.",
+      "published_at": "2026-04-16T21:00:00+00:00"
+    },
+    {
+      "id": "1079fec1c2c248f0",
+      "rank": 5,
+      "title_cs": "OpenAI představuje GPT-Rosalind — reasoning model pro life sciences a vývoj léků",
+      "title_orig": "Introducing GPT-Rosalind for life sciences research",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "source_name": "OpenAI Blog",
+      "category": "labs",
+      "hero_image": null,
+      "summary_cs": [
+        "OpenAI uvedlo GPT-Rosalind, specializovaný frontier reasoning model pro drug discovery, genomiku, proteinové reasoning a vědecká workflow.",
+        "Pojmenováno po Rosalind Franklin — rentgenové krystalografce, jejíž práce stála u objevu struktury DNA.",
+        "Součást strategie orientovat frontier modely na vertikální use cases (po Codexu pro vývoj a GPT-5.4-Cyber pro security).",
+        "Cílová skupina: farma, výzkumné instituce, biotech startupy s potřebou reasoning přes dlouhé vědecké dokumenty.",
+        "O dva dny později uzavřeli s Hyatt partnerství na ChatGPT Enterprise pro 150k zaměstnanců — OpenAI jde současně i do enterprise commercial vrstvy."
+      ],
+      "why_matters": "Specializované modely (GPT-Rosalind, GPT-5.4-Cyber) signalizují, že éra „jeden model pro všechno\" končí. Dává to legitimitu nabídkám AI NA MÍRU — custom model + skill pro konkrétní doménu.",
+      "published_at": "2026-04-16T01:00:00+00:00"
+    },
+    {
+      "id": "d55284195cdafe04",
+      "rank": 6,
+      "title_cs": "Humanoidní robot porazil lidi v půlmaratonu — 50:26, nový světový rekord v Číně",
+      "title_orig": "Robot runner handily beats humans in half-marathon, setting new record",
+      "url": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
+      "source_name": "Ars Technica",
+      "category": "news",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271508322-1152x648.jpg",
+      "summary_cs": [
+        "Autonomní humanoid od čínské firmy Honor uběhl půlmaraton za 50:26, o 7 minut rychleji než lidský světový rekord.",
+        "Běžel autonomně, bez dálkového ovládání — rozhodoval o tempu, zatáčkách i rovnováze v reálném čase.",
+        "Demonstrace čínské převahy v robotice: Honor, Unitree, Fourier a další masivně investují do humanoidů pro průmysl.",
+        "Honor plánuje v roce 2027 nasadit tisíce kusů do továren na výrobu elektroniky (Wired).",
+        "Pro srovnání: Tesla Optimus se stále potýká s rovnováhou při běhu, Figure 02 chodí maximálně ~5 km/h."
+      ],
+      "why_matters": "Autonomní humanoidi, co běhají rychleji než lidé, ukazují, jak daleko pokročila low-level motor control. Další milník v embodied AI — a upozornění pro každého, kdo plánuje automatizaci fyzických procesů.",
+      "published_at": "2026-04-20T17:56:27+00:00"
+    },
+    {
+      "id": "ec922840d2f747ad",
+      "rank": 7,
+      "title_cs": "Deezer: 44 % nových nahrávek je AI-generovaných, většina streamů jsou podvody",
+      "title_orig": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
+      "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
+      "source_name": "Ars Technica",
+      "category": "news",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2148900484-1152x648-1775856309.jpg",
+      "summary_cs": [
+        "Francouzský streamovací Deezer oznámil, že 44 % z nově nahrávaného hudebního obsahu tvoří AI-generovaná hudba.",
+        "AI skladby tvoří malé procento skutečných streamů, ale naprostá většina tohoto provozu pochází z botfarem a je demonetizována.",
+        "Platforma zpřísňuje detekci — rozhoduje nejen o výplatě, ale i o tom, zda se tracky zobrazí v doporučeních.",
+        "Trend zasahuje celou streaming ekonomiku: Spotify a YouTube Music hlásí podobné vzorce, roste tlak na povinný labeling AI obsahu.",
+        "Demonetizace podvodných streamů znamená, že AI hudba na Deezeru zatím není ekonomické ohrožení autorů — s lepšími generátory se to ale může změnit."
+      ],
+      "why_matters": "Pro tvůrce obsahu: generative audio už reálně zaplavuje distribuční kanály. Pro producenty platforem: detekce syntetické hudby se stává kritickou platformovou službou.",
+      "published_at": "2026-04-20T17:15:51+00:00"
+    },
+    {
+      "id": "182c0685ae8869ad",
+      "rank": 8,
+      "title_cs": "Čínští IT pracovníci cvičí vlastní AI nástupce — a začínají se bránit",
+      "title_orig": "Chinese tech workers are starting to train their AI doubles—and pushing back",
+      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+      "source_name": "MIT Technology Review",
+      "category": "news",
+      "hero_image": null,
+      "summary_cs": [
+        "Zaměstnanci čínských tech firem dostávají od šéfů příkaz trénovat AI agenty, kteří je mají nahradit.",
+        "GitHub projekt „Colleague Skill\" umožňuje destilovat dovednosti i osobnostní rysy kolegů a replikovat je modelem.",
+        "Reakce komunity je smíšená — dřívější nadšení se mění v zastrašení, sílí odpor k datasharing s firmou.",
+        "Fenomén je zatím hlavně čínský, ale západní firmy (zejména consulting a enterprise SaaS) experimentují s „digital twin\" programy.",
+        "Paradox: mnoho dotazovaných stejně věří, že AI agenta dělá lépe než kolegové — chtějí svou znalost kodifikovat, dokud je to výhodné."
+      ],
+      "why_matters": "Klienti AI NA MÍRU budou brzy tuhle dynamiku řešit. Otázka „jak rychle naši lidé půjdou pryč?\" se mění na „kdo koho učí a pod jakými podmínkami?\".",
+      "published_at": "2026-04-20T09:00:00+00:00"
+    },
+    {
+      "id": "7a4212ddf074f676",
+      "rank": 9,
+      "title_cs": "Dwarkesh × Jensen Huang: soutěž s TPU, proč prodávat čipy do Číny a supply-chain moat Nvidie",
+      "title_orig": "Jensen Huang – TPU competition, why we should sell chips to China, & Nvidia's supply chain moat",
+      "url": "https://www.dwarkesh.com/p/jensen-huang",
+      "source_name": "Dwarkesh Patel",
+      "category": "commentary",
+      "hero_image": null,
+      "summary_cs": [
+        "Dwarkesh Patel vyzpovídal Jensena Huanga — dvouhodinová diskuze o konkurenci TPU od Googlu, Číně a supply chain ekosystému Nvidie.",
+        "Huang přiznává, že Google TPU je reálným konkurentem: „Kdyby dnes někdo postavil hyperscaler from scratch, byl by to hard choice.\"",
+        "Argumentuje pro obnovení prodeje čipů do Číny — izolace podle něj pouze akceleruje čínský pokrok v domácí produkci (Huawei Ascend).",
+        "Supply chain moat: Nvidia drží logistický náskok pro „několik let na úrovni bilionů dolarů\" — závazek s partnery je nereplikovatelný.",
+        "Zvi Mowshowitz věnoval rozhovoru samostatný rozbor („On Dwarkesh Patel's Podcast With Nvidia CEO Jensen Huang\") — stojí za přečtení v páru."
+      ],
+      "why_matters": "Huang je nejinformovanější osoba v AI hardware. Jeho teze, že export controls zrychlují Čínu, je silný argument i pro evropskou debatu o technologické suverenitě.",
+      "published_at": "2026-04-15T15:45:23+00:00"
+    },
+    {
+      "id": "d7a4e82f6b772ada",
+      "rank": 10,
+      "title_cs": "OpenAI Codex: nová desktopová aplikace s computer use, browsingem, pamětí a pluginy",
+      "title_orig": "Codex for (almost) everything",
+      "url": "https://openai.com/index/codex-for-almost-everything",
+      "source_name": "OpenAI Blog",
+      "category": "labs",
+      "hero_image": null,
+      "summary_cs": [
+        "Aktualizovaný Codex app pro macOS a Windows přidává computer use, in-app browsing, generování obrázků, persistentní paměť a plugin systém.",
+        "Cíl: kompletní end-to-end developer workflow — od plánu přes psaní kódu a spouštění testů po screenshot diff.",
+        "Plugin systém otevírá Codex pro MCP servery a custom tooling — podobný přístup jako Claude Code, ale s nativní desktop UI.",
+        "Anthropic o den dříve odpověděla upgradem Claude Code („Auto Mode\" — viz Zvi Mowshowitzova analýza).",
+        "Sekvence Codex ↔ Claude Code ↔ Codex je nové normal: IDE-native agenti upgradují v rytmu měsíců, ne let."
+      ],
+      "why_matters": "U AI-assisted developmentu už neplatí „vyber jednoho vítěze\". Má smysl mít dvě licence (Codex + Claude Code) a pro každý úkol vybírat lepší nástroj — rozdíl 10–30 % produktivity se dnes ztratí, když nešlápneš na nové funkce ještě v týdnu vydání.",
+      "published_at": "2026-04-16T10:00:00+00:00"
+    },
+    {
+      "id": "2e99a0730f0c2359",
+      "rank": 11,
+      "title_cs": "Zvi Mowshowitz: detailní rozbor model cardu Claude Opus 4.7",
+      "title_orig": "Opus 4.7 Part 1: The Model Card",
+      "url": "https://thezvi.substack.com/p/opus-47-part-1-the-model-card",
+      "source_name": "Don't Worry About the Vase (Zvi)",
+      "category": "commentary",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!MiKJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11432e3b-df84-43d8-9898-b00d266024af_1792x2400.jpeg",
+      "summary_cs": [
+        "Zvi Mowshowitz rozebírá oficiální model card Anthropicu pro Opus 4.7 — evaluace, safety testy, degradace i nové capabilities.",
+        "Anthropic zvýšil frontier safety thresholds (ASL-4) — aktivovaná specifická restriktivní opatření kvůli bio a cyber rizikům.",
+        "Model výrazně posiluje agentic coding, vision až do 3,75 MPx a multi-step tasks — za cenu dražších tokenů (1,0–1,35×).",
+        "Red-teaming odhalil několik persistentních jailbreaků; Anthropic je vědomě publikuje i s mitigations — transparentnost na úrovni, co OpenAI neposkytuje.",
+        "Zvi ohlašuje Part 2 s behaviorálními pozorováními a praktickým porovnáním s Opus 4.6."
+      ],
+      "why_matters": "Zvi Mowshowitzovy rozbory model cards jsou nejkvalitnější technický AI journalism. Pokud chceš rozumět safety/capability tradeoffům, jeho články jsou efektivnější než originální dokumenty.",
+      "published_at": "2026-04-20T16:44:24+00:00"
+    },
+    {
+      "id": "e308c319a479e9fe",
+      "rank": 12,
+      "title_cs": "Útočníci ovládli AI security tooly u 90+ firem — příští vlna má write access k firewallu",
+      "title_orig": "Adversaries hijacked AI security tools at 90+ organizations. The next wave has write access to the firewall",
+      "url": "https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall",
+      "source_name": "VentureBeat AI",
+      "category": "news",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/46SzboB6NVjamCROg8pfcE/a20c84d337fb68ef55e801810cab5308/hero.png?w=1200&q=80",
+      "summary_cs": [
+        "V roce 2025 útočníci injektovali malicious prompty do legitimních AI security nástrojů u 90+ organizací — krádeže credentials a crypto.",
+        "Dosud mohly kompromitované tooly jen číst data. Nová generace autonomous SOC agentů má write access: přepsat firewall, změnit IAM policies, izolovat endpointy.",
+        "CrowdStrike Global Threat Report 2026: státní využití AI v ofenzivních operacích vzrostlo meziročně o 89 %.",
+        "Cisco (AgenticOps), Ivanti (Continuous Compliance) — produkty se shipují rychleji než governance frameworky.",
+        "OWASP Agentic Top 10 dokumentuje rizika prompt injection a supply chain útoků přes MCP servery — přesně to, co se reálně děje."
+      ],
+      "why_matters": "Agentic AI v bezpečnosti je nový attack surface. Pro klienty platí jednoduché pravidlo: nikdy nedávej agentovi práva, která nemohl mít zaměstnanec, a mezi prompt a akci vlož human-in-the-loop approval gate.",
+      "published_at": "2026-04-21T12:05:00+00:00"
+    },
+    {
+      "id": "4ed9c3d7d7b630ae",
+      "rank": 13,
+      "title_cs": "Norton spouští ochranu před autonomními AI agenty — česko-americká Gen reaguje na růst hrozeb",
+      "title_orig": "Norton spouští ochranu před autonomními AI agenty, škodlivých kódů podle něj přibývá",
+      "url": "https://www.lupa.cz/aktuality/norton-spousti-ochranu-pred-autonomnimi-ai-agenty-skodlivych-kodu-podle-nej-pribyva/",
+      "source_name": "Lupa.cz",
+      "category": "cz",
+      "hero_image": "https://i.iinfo.cz/images/84/kyberbezpecnost-norton-ai-agent-protection.jpg",
+      "summary_cs": [
+        "Česko-americká společnost Gen (dříve Avast) uvádí v beta režimu Norton AI Agent Protection — ochrana pro uživatele autonomních AI asistentů.",
+        "Produkt monitoruje chování AI agentů, detekuje prompt injection a úniky dat v reálném čase.",
+        "Reakce na fenomén popsaný ve VentureBeat článku v tomto digestu: rostoucí počet útoků na AI tooly (90+ organizací v 2025).",
+        "Gen cílí na domácí uživatele — zatímco enterprise (CrowdStrike, Cisco) jde po SOC agentech, Norton adresuje mainstream consumer AI.",
+        "Česká stopa: R&D zůstává v Praze, produkt má kořeny v původním týmu Avastu."
+      ],
+      "why_matters": "Consumer AI security je nová kategorie. Pokud klienti dávají AI asistentům přístup k e-mailu nebo prohlížeči, potřebují něco jako Norton AI Agent Protection nebo ekvivalent.",
+      "published_at": "2026-04-21T12:25:31+00:00"
+    },
+    {
+      "id": "6763807ea34a0051",
+      "rank": 14,
+      "title_cs": "ČTÚ hledá šéfa nového AI dozoru v Česku — přípravy na EU AI Act",
+      "title_orig": "Chcete šéfovat dohledu nad umělou inteligencí v Česku? ČTÚ hledá vedoucího nového týmu",
+      "url": "https://www.lupa.cz/aktuality/chcete-sefovat-dohledu-nad-umelou-inteligenci-v-cesku-ctu-hleda-vedouciho-noveho-tymu/",
+      "source_name": "Lupa.cz",
+      "category": "cz",
+      "hero_image": "https://i.iinfo.cz/images/510/cesky-telekomunikacni-urad-ctu.jpg",
+      "summary_cs": [
+        "Český telekomunikační úřad (ČTÚ) vypisuje výběrové řízení na Vedoucího samostatného oddělení dozoru AI.",
+        "Role navazuje na evropský AI Act a připravovaný český zákon o umělé inteligenci — ČTÚ bude dohlížet na část povinností v ČR.",
+        "Další nové kompetence ČTÚ: dohled nad DSA (Digital Services Act), plus tradiční telekomunikace.",
+        "Pozice se otevírá ještě před schválením finálního českého znění AI Act zákona — první sankce až po jeho přijetí.",
+        "Zapadá do trendu, kdy evropské regulační orgány urychleně budují kapacity pro AI dozor (italská AGCOM, španělský AESIA)."
+      ],
+      "why_matters": "Pro každého, kdo v ČR poskytuje AI služby, je ČTÚ budoucím regulátorem. Vyplatí se sledovat personální obsazení — styl vedení určí, jak tvrdě ČR bude vymáhat AI Act.",
+      "published_at": "2026-04-21T10:34:18+00:00"
+    },
+    {
+      "id": "0489fa76470f094f",
+      "rank": 15,
+      "title_cs": "Research: LLM Reasoning je latentní, ne chain-of-thought — Wenshuo Wang (position paper)",
+      "title_orig": "LLM Reasoning Is Latent, Not the Chain of Thought",
+      "url": "https://arxiv.org/abs/2604.15726",
+      "source_name": "ArXiv cs.AI",
+      "category": "research",
+      "hero_image": null,
+      "summary_cs": [
+        "Wenshuo Wang argumentuje, že reasoning velkých modelů je primárně zprostředkován latentními stavy (skrytá reprezentace), ne explicitním chain-of-thought textem.",
+        "Paper formuluje tři hypotézy: H1 (reasoning = latent trajectory), H2 (reasoning = explicit CoT), H0 (reasoning = jen víc compute bez privilegovaného reprezentačního objektu).",
+        "Review existujících empirických a mechanistických prací podle autora nejvíc podporuje H1 — chain-of-thought je spíš stopa než samotné myšlení.",
+        "Důsledek pro interpretovatelnost: zaměřit se na analýzu aktivací, ne textu. Stávající toolingy jako SHAP nebo LIME nezachytí skutečný reasoning process.",
+        "Důsledek pro safety: pokud reasoning probíhá latentně, inference-time intervence na textu (např. constitutional AI) jsou nutně limitované."
+      ],
+      "why_matters": "Rozbíjí premisu „CoT = reasoning\". Pokud Wang má pravdu, všechny evaluace postavené na čtení chain-of-thought mohou měřit něco jiného než skutečnou myšlenkovou kapacitu modelu.",
+      "published_at": "2026-04-21T04:00:00+00:00"
+    }
+  ]
+}

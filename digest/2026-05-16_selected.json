@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-16",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "ChatGPT spouští osobní finance, uživatelé v USA si mohou připojit bankovní účty",
+      "title_orig": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "ChatGPT Pro v USA nově propojí účty přes Plaid a ukazuje přehled portfolia, plateb, předplatných i nadcházejících účtů.",
+        "AI funguje jako finanční asistent, který radí v kontextu konkrétních dat, ne obecných tipů.",
+        "Funkce běží v preview, OpenAI slibuje šifrování a zákaz použití bankovních dat pro trénování modelů."
+      ],
+      "why_matters": "Klíčový vstup OpenAI do regulované finanční domény, tlak na klasické banky i fintech aplikace poroste."
+    },
+    {
+      "title_cs": "Databricks integruje GPT-5.5 do enterprise agentních workflow",
+      "summary_cs": [
+        "Databricks oznámil integraci modelu GPT-5.5 do svých řešení pro podnikové klienty.",
+        "Cílem je posílit schopnosti AI agentů a automatizovat komplexní firemní procesy.",
+        "To umožní firmám efektivněji využívat pokročilé generativní AI pro strategické úkoly a operace."
+      ],
+      "why_matters": "Posiluje nasazení velkých modelů přímo v datových platformách firem, kde dnes leží většina podnikových dat.",
+      "url": "https://openai.com/index/databricks",
+      "title_orig": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "rank": 2
+    },
+    {
+      "title_cs": "OpenAI je 'ošizena' špatnou integrací ChatGPT v Applu, tvrdí insideři",
+      "summary_cs": [
+        "Podle interních zdrojů je OpenAI nespokojeno s kvalitou a způsobem, jakým Apple integroval technologii ChatGPT do svých produktů.",
+        "Tato nespokojenost pramení z údajně nedostatečné implementace, která neodpovídá standardům OpenAI a potenciálně poškozuje reputaci jejich AI modelu.",
+        "Situace naznačuje napětí mezi technologickými giganty a klade otázky ohledně budoucí spolupráce v oblasti umělé inteligence."
+      ],
+      "why_matters": "Vztah dvou klíčových hráčů AI ekosystému se kazí, což ovlivní budoucí distribuci AI funkcí v iOS.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
+      "title_orig": "OpenAI feels 'burned' by Apple's crappy ChatGPT integration, insiders say",
+      "source": "ArsTechnica",
+      "category": "labs",
+      "rank": 3
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI reorganizuje, Greg Brockman přebírá vedení všech produktů včetně ChatGPT a Codexu",
+      "title_orig": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+      "source": "The Verge AI",
+      "category": "labs",
+      "summary_cs": [
+        "Prezident OpenAI Greg Brockman se stává oficiálním šéfem všech produktových linií napříč firmou.",
+        "Cílem je sjednotit ChatGPT a Codex do jedné konzistentní zkušenosti pod vlajkou agentní AI.",
+        "Jde o třetí velkou reorganizaci za rok, OpenAI evidentně hledá strukturu pro válku o enterprise agenty."
+      ],
+      "why_matters": "Brockmanův návrat do exekutivy ukazuje, že OpenAI bere boj o agentní platformu smrtelně vážně."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Thinking Machines uvedl model TML-Interaction-Small 276B pro realtime hlasovou interakci",
+      "title_orig": "Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice",
+      "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
+      "source": "Latent Space",
+      "category": "labs",
+      "summary_cs": [
+        "Laboratoř Miry Muratiové vypustila model s 276 miliardami parametrů a 12 miliardami aktivních v MoE architektuře.",
+        "Model míří na realtime hlasovou interakci, podle Latent Space posouvá výchozí stav v této kategorii.",
+        "Jde o první veřejně viditelný release Thinking Machines od založení laboratoře po Muratiové odchodu z OpenAI."
+      ],
+      "why_matters": "Voice AI dostává nového vážného hráče, kategorie speech-to-speech modelů středního pásma je pod tlakem."
+    },
+    {
+      "rank": 6,
+      "title_cs": "RecursiveMAS zrychluje multi-agentní inferenci 2,4x a snižuje spotřebu tokenů o 75 procent",
+      "title_orig": "How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%",
+      "url": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75",
+      "source": "VentureBeat AI",
+      "category": "research",
+      "summary_cs": [
+        "Nový framework řeší hlavní bolest multi-agentních systémů, kdy si agenti předávají úkoly textovými zprávami.",
+        "Místo generování celých textů se používá rekurzivní volání s nižší latencí a menšími náklady.",
+        "Test ukazuje 2,4násobné zrychlení a 75procentní úsporu tokenů oproti klasické komunikaci přes prompty."
+      ],
+      "why_matters": "Multi-agent stack se zlevňuje, větší agentní systémy v produkci se ekonomicky stávají reálnými."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Nathan Lambert: open model ekosystémy se vrší jako složený úrok, Čína na tom těží",
+      "title_orig": "How open model ecosystems compound",
+      "url": "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+      "source": "Interconnects (Nathan Lambert)",
+      "category": "research",
+      "summary_cs": [
+        "Autor argumentuje, že hodnota open ekosystému neroste lineárně, ale exponenciálně podle hustoty účastníků.",
+        "Čína má v open scéně dramaticky vyšší účast než USA, výhoda se začíná projevovat v rychlosti iterací.",
+        "Lambert vidí riziko v tom, že západní firmy reagují přes proprietární modely, ne přes komunitní stack."
+      ],
+      "why_matters": "Strategický důsledek pro Evropu i ČR, kde se open-source komunita teprve buduje a okno se zužuje."
+    },
+    {
+      "rank": 8,
+      "title_cs": "ArXiv začne banovat výzkumníky, kteří uploadují AI slop bez kontroly",
+      "title_orig": "ArXiv will ban researchers who upload papers full of AI slop",
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "source": "The Verge AI",
+      "category": "research",
+      "summary_cs": [
+        "ArXiv mění politiku, autoři článků se zjevně vygenerovaným AI obsahem dostanou rok zákazu příspěvků.",
+        "Trigger je nepopiratelný důkaz, že autoři neprošli textem před uploadem a nechali tam zjevné halucinace.",
+        "Moderátoři server prý dlouhodobě zaplavují nesmyslné papery, pravidlo má pomoci udržet kvalitu preprintu."
+      ],
+      "why_matters": "ArXiv jako klíčová infrastruktura výzkumu poprvé zavádí tvrdou linku proti generativní zaplaviči."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Intercom přejmenoval na Fin a spouští agenta, který řídí jiného AI agenta",
+      "title_orig": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
+      "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Firma Intercom se přejmenovala na Fin a uvedla agenta Fin Operator, který dohlíží na vrstevníka v zákaznickém servisu.",
+        "Druhý agent řeší dotazy, Fin Operator sleduje kvalitu, koriguje a předává tlumočníkovi nebo člověku.",
+        "Architektura agenta nad agentem je první veřejně nasazený příklad na úrovni velké customer support platformy."
+      ],
+      "why_matters": "Vzorec controller plus worker se může stát standardem pro agenty v produkci, ne jen v experimentech."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Osaurus přináší kombinaci lokálních a cloudových AI modelů přímo do Macu",
+      "title_orig": "Osaurus brings both local and cloud AI models to your Mac",
+      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Nová macOS aplikace umí běžet lokálně otevřené modely a zároveň volat cloudové, paměť a data zůstávají na hardware uživatele.",
+        "Cílovkou jsou profesionálové, kteří chtějí přepínat mezi citlivými lokálními úlohami a výkonnějším cloudem.",
+        "Konkuruje řešením jako LM Studio, ale s tighter integrací do macOS workflow přes vlastní agentní vrstvu."
+      ],
+      "why_matters": "Lokální AI vrstva na Macu dospívá, hybridní privacy přístup se stává běžným standardem."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Runway pivotuje, místo filmařů chce porazit Google v generování světových modelů",
+      "title_orig": "Runway started by helping filmmakers - now it wants to beat Google at AI",
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Runway přechází od video generátoru pro Hollywood k ambici postavit obecný world model pro simulace.",
+        "Firma argumentuje, že video generace je nejkratší cesta k modelům, které reálně rozumí fyzice světa.",
+        "Status outsidera vidí jako výhodu, není svázaný s prioritami velkých laboratoří jako DeepMind."
+      ],
+      "why_matters": "Závod o world models nabírá komerční nájezdníky, ne jen velké laboratoře."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Anthropicova 1,5miliardová dohoda v copyrightovém sporu houstne, soudce odložil schválení",
+      "title_orig": "Anthropic's $1.5B copyright settlement is getting messy as judge delays approval",
+      "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+      "source": "Ars Technica",
+      "category": "business",
+      "summary_cs": [
+        "Federální soudce odložil schválení dohody mezi Anthropicem a autory knih, řadě poškozených vadí výše plnění.",
+        "Část autorů napadla i právní zástupce, kteří si podle nich nárokují 320 milionů dolarů na honorářích.",
+        "Pokud dohoda padne, jde o riziko prejudikátu, který by mohl změnit tržní hodnotu trénovacích dat."
+      ],
+      "why_matters": "Historicky největší AI copyright settlement může zkolabovat, dopady pocítí všechny velké laboratoře."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Anthropic rozšířil partnerství s PwC, poradenská firma nasadí Claude na exekuci klientských projektů",
+      "title_orig": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions",
+      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "source": "Anthropic News",
+      "category": "business",
+      "summary_cs": [
+        "PwC oznámil, že Claude nasadí napříč týmy na stavbu technologií, řízení akvizic a transformaci enterprise procesů.",
+        "Anthropic dostává jednu z největších poradenských firem na světě jako preferenčního partnera v AI projektech.",
+        "Dohoda navazuje na předchozí spolupráci a uzavírá další kus enterprise distribučního kanálu pro Anthropic."
+      ],
+      "why_matters": "Velké poradenské firmy se stávají hlavním kanálem AI do korporací, Anthropic posiluje pozici proti Microsoftu."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Soudní bitva Musk versus Altman směřuje k verdiktu, advokáti útočili na věrohodnost obou",
+      "title_orig": "Musk v. Altman week 3: Musk and Altman traded blows over each other's credibility",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "source": "MIT Technology Review",
+      "category": "wildcard",
+      "summary_cs": [
+        "Závěrečný týden hlavního přelíčení se nesl ve znamení obvinění z opakovaného lhaní a samohaní u Altmana.",
+        "Advokáti Muska napadli i jeho vlastní motivy, žaloba má prokázat zradu zakladatelské mise OpenAI.",
+        "Porota nyní bude vážit, komu uvěří, verdikt může výrazně přepsat strukturu vlastnictví v OpenAI."
+      ],
+      "why_matters": "Verdikt může změnit governance největší AI laboratoře a vyslat signál o důvěře v zakladatele AI firem."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Evropa znovu zkouší vlastní AI čipy a servery, výsledek je ale stále nejistý",
+      "title_orig": "Další marný pokus? Evropa vyvíjí vlastní čipy a servery pro AI, vydání je ale nejasné",
+      "url": "https://www.lupa.cz/aktuality/dalsi-marny-pokus-evropa-vyviji-vlastni-cipy-a-servery-pro-ai-vydani-je-ale-nejasne/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Francouzsko-španělské duo SiPearl a Semidynamics pracuje na evropském AI hardware pro datacentra.",
+        "Cíl je snížit závislost na Nvidii a americkém dodavatelském řetězci, ale datum nasazení zůstává otevřené.",
+        "Projekt patří do širší snahy EU postavit suverénní AI stack, předchozí pokusy ale narážely na čas a kapitál."
+      ],
+      "why_matters": "Evropská technologická suverenita v AI hardware je dál spíš ambicí než realitou, ČR z toho profituje nepřímo."
+    }
+  ]
+}

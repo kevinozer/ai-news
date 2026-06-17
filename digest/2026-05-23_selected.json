@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-23",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI ovládl Gartner kvadrant pro enterprise AI coding agenty, Codex jako lídr inovace",
+      "title_orig": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Gartner v Magic Quadrantu 2026 pro Enterprise AI Coding Agents zařadil OpenAI mezi lídry, vyzdvihl inovaci Codexu i nasazení v enterprise měřítku.",
+        "Codex stojí na GPT-5.5, slouží jako review a vývojářský harness v Ramp, Virgin Atlantic a dalších klientech, kteří publikovali výsledky.",
+        "OpenAI tlačí Codex jako přímou alternativu Claude Code, Devinu i Cursor agentu pro velké firmy."
+      ],
+      "why_matters": "Gartner kvadrant ovlivňuje enterprise nákupy, OpenAI tím zatlačí na pozice Anthropicu i Cursoru u CIO."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Nvidia představila Nemotron Diffusion, generuje text paralelně místo token po tokenu",
+      "title_orig": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Nemotron Labs aplikuje difuzní techniky známé z obrazu na text, model generuje skupiny tokenů najednou místo sekvenčně.",
+        "Demo ukazuje až řádově vyšší propustnost na stejném hardwaru ve srovnání s autoregresními modely jako Llama nebo Qwen.",
+        "Modely a kód jdou pod Apache 2.0 na Hugging Face, otevírá to dveře open-source komunitě pro experimenty."
+      ],
+      "why_matters": "Difuzní text může zlomit cenu inference, modely typu Mercury a Inception dostávají vážnou konkurenci od Nvidie."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic rozšiřuje debatu o frontier AI, chce víc hlasů u toho jak modely regulovat",
+      "title_orig": "Widening the conversation on frontier AI",
+      "url": "https://www.anthropic.com/news/widening-conversation-ai",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic spouští sérii dialogů a workshopů, kde chce dostat víc lidí mimo vývojářský okruh do diskuze o regulaci AI.",
+        "Vznikla iniciativa, která má pomoci politikům, novinářům a občanské společnosti porozumět rizikům a kompromisům okolo frontier modelů.",
+        "Anthropic se tím staví do role politického partnera vlád v době, kdy Trump odložil exekutivní příkaz na AI bezpečnost."
+      ],
+      "why_matters": "Anthropic přebírá pozici neutrálního prostředníka regulace, což zvyšuje jeho vliv na EU AI Act i americké rámce."
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI spouští nástroj pro ověření AI obsahu, propojí Content Credentials i SynthID",
+      "title_orig": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Nový OpenAI verifier umí ukázat, jestli obraz nebo audio prošel jejich modely, propojuje Content Credentials od Adobe a SynthID od DeepMindu.",
+        "DeepMind paralelně rozšiřuje vlastní detekční nástroje, podporu přidává Adobe, Nvidia a další klíčoví hráči ekosystému.",
+        "Tlak na původ obsahu sílí před volbami 2026 i kvůli soudům s vydavateli a hudebními labely o autorská práva."
+      ],
+      "why_matters": "Pro firemní marketingy přichází standard, který poznají audity i právníci, ne jen tech tým."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Skupina TeamPCP otrávila open-source v nevídaném měřítku, npm i GitHub jen poslední oběti",
+      "title_orig": "A hacker group is poisoning open source code at an unprecedented scale",
+      "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+      "source": "Ars Technica",
+      "category": "open-source",
+      "summary_cs": [
+        "Bezpečnostní analytici dohledali kampaň TeamPCP, která dlouhodobě podstrkává malware do balíčků npm, PyPI i přímo do GitHub repozitářů.",
+        "Útoky kombinují krádeže přihlašovacích údajů, validní Sigstore certifikáty (633 falešných npm balíčků 19. května) i podvodné VS Code rozšíření.",
+        "Microsoft potvrdil, že přes nakažený plugin si útočníci stáhli 3 800 interních repozitářů, GitHub spustil interní review."
+      ],
+      "why_matters": "Dodavatelské řetězce kódu jsou ohrožené i u firem s plnou compliance, audit závislostí přestává být nice-to-have."
+    },
+    {
+      "rank": 6,
+      "title_cs": "DeepMind podepsal partnerství se Singapurem, AI nasadí na zdravotnictví, vzdělávání i klima",
+      "title_orig": "Strengthening Singapore's AI Future: A New National Partnership",
+      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "source": "Google DeepMind Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Google DeepMind podepsal s vládou Singapuru memorandum o pilotování frontier modelů v klíčových sektorech veřejné sféry.",
+        "Ve stejný den oznámil OpenAI vlastní spolupráci se Singapurem zaměřenou na nasazení ChatGPT pro firmy a státní služby.",
+        "Singapur se profiluje jako asijská brána pro AI labs, podobnou roli zastává Saúdská Arábie a SAE v Perském zálivu."
+      ],
+      "why_matters": "Asijský trh se rozjíždí, čeští dodavatelé enterprise AI budou narážet na globální aliance jako prvního soupeře."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Tři AI infra firmy přes noc se staly unicorny, Exa, Modal i TurboPuffer hlásí miliardová kola",
+      "title_orig": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
+      "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+      "source": "Latent Space",
+      "category": "business",
+      "summary_cs": [
+        "Vyhledávač pro agenty Exa, výpočetní platforma Modal a vektorová databáze TurboPuffer zveřejnily kola s valuací nad miliardu dolarů.",
+        "Investoři vsázejí, že každý agentický stack potřebuje samostatnou search, compute a storage vrstvu mimo OpenAI a Anthropic.",
+        "Tři nové unicorny během jednoho týdne ukazují, jak rychle se kapitalizuje AI infrastruktura mezi modelovou a aplikační vrstvou."
+      ],
+      "why_matters": "Trh kolem agentů se odděluje od modelových firem, ale enterprise musí vyhodnotit, který stack přežije konsolidaci."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Dun & Bradstreet přestavěl 180 let starou firemní databázi 642 milionů subjektů pro AI agenty",
+      "title_orig": "D&B's database of 642 million businesses was built for humans, not AI agents. So they rebuilt it.",
+      "url": "https://venturebeat.com/data/d-and-bs-database-of-642-million-businesses-was-built-for-humans-not-ai-agents-so-they-rebuilt-it",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "summary_cs": [
+        "D&B přepsal API i datový model svého Commercial Graph, místo HTML reportů vrací strukturovaná data připravená pro LLM input.",
+        "Cílem je dostat firemní intelligence (vlastnictví, hierarchie, rizikové signály) do MCP a agentických workflowů přímo.",
+        "Demo ukázalo, jak Claude nebo GPT-5 plně automaticky probere KYC kontrolu protistrany v reálném čase."
+      ],
+      "why_matters": "Hlavní data providery se předhánějí v AI agent ready API, B2B compliance pipeline se dramaticky přestavují."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Wired vyzkoušel Gemini avatar a vytvořil hyperrealistickou digitální kopii sebe sama",
+      "title_orig": "I Cloned Myself With Gemini's AI Avatar Tool. The Result Was Unnervingly Me",
+      "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
+      "source": "Wired AI",
+      "category": "tools",
+      "summary_cs": [
+        "Redaktor Wiredu nahrál do Gemini krátké video a tool z něj vyrobil klipy, ve kterých digitální dvojník mluví libovolný zadaný text.",
+        "Mimika i intonace jsou podle redaktora děsivě přesné, rozdíl od originálu je laikovi téměř nepoznatelný.",
+        "Google funkci posiluje jako součást nové Gemini Omni rodiny, kde jsou výstupy z obrazu, hlasu a videa propojené."
+      ],
+      "why_matters": "Deepfake přestává být kategorií pro pokročilé, identita a souhlas s podobou se musí ošetřit smluvně už dnes."
+    },
+    {
+      "rank": 10,
+      "title_cs": "TechCrunch otestoval Google XR brýle s Gemini, překlad i navigace fungují, baterie ne",
+      "title_orig": "We tried Google's AI glasses and they're almost there",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Brýle promítají do zorného pole překlad mluvené řeči, navigaci a kontextové informace o tom, co uživatel právě vidí.",
+        "Prototyp běží na Android XR a propojuje se s Gemini přes telefon, hardware má vzejít z partnerství s výrobci jako Samsung.",
+        "Recenzent chválí kvalitu zobrazení i odezvu Gemini, kritizuje slabou baterii a viditelný stigma fenomén při nošení na ulici."
+      ],
+      "why_matters": "AR brýle se konečně blíží spotřebě, časem otevřou nový kanál pro real-time AI služby ve firmách i v terénu."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Tony Robbins zakládá The Path, AI terapeut má skóre 95 v bezpečnostním testu Vera-MH",
+      "title_orig": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "The Path je nový AI nástroj na mentální zdraví, který chce řešit hlavní bolest stávajících botů, totiž že neumí poznat krizovou situaci.",
+        "Model dosáhl 95 bodů ve Vera-MH benchmarku pro bezpečnost mentálního zdraví, zatímco veřejní chatboti se pohybují kolem 65.",
+        "Za projektem stojí Tony Robbins, zakladatelé meditace Calm a tým bývalých klinických psychologů."
+      ],
+      "why_matters": "Bezpečnost AI v citlivých oblastech jako mental health začíná diferencovat, regulátoři po podobném pokukují."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Český Macaly umí stavět weby přes WhatsApp, agenta ovládáte hlasovkou nebo screenshotem",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/aktuality/cesti-vyvojari-umoznuji-stavet-weby-pres-whatsapp-agenta-lze-ovladat-hlasovkou-i-screenshotem/",
+      "source": "Lupa.cz",
+      "category": "tools",
+      "summary_cs": [
+        "Český projekt Macaly nabídl no-code stavbu webů přímo z WhatsApp chatu místo dashboardu.",
+        "Uživatel napíše zadání, pošle screenshot nebo hlasovku a AI agent vrátí hotovou stránku k nasazení.",
+        "Tým cílí na malé podnikatele a kreativce, kteří nechtějí zakládat účet a učit se nové prostředí."
+      ],
+      "why_matters": "Český startup ukazuje vážnou produktovou inovaci v UX agentů, který by mohl reálně konkurovat Wixu i Bubble."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Slovo disregard zlomilo Google vyhledávač, AI Overview ignoruje hledaný výraz",
+      "title_orig": "Google's AI search is so broken it can 'disregard' what you're looking for",
+      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "source": "The Verge AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Pokud uživatel hledal slovo disregard, AI Overview vyhodnotil instrukci doslova a začal odpovídat na úplně jiné dotazy.",
+        "Problém je školní příklad prompt injection na úrovni samotného searche, Google během dne přidal patche.",
+        "Příhoda ukazuje, jak křehká je vrstva mezi vstupem uživatele a modelovým promptem v produktech masového měřítka."
+      ],
+      "why_matters": "Pro firmy, které stavějí AI integrace, je to varování: jeden výraz může uvolnit kontrolu nad celým UX."
+    },
+    {
+      "rank": 14,
+      "title_cs": "AI rekonstruuje hlasy mrtvých pilotů z dokumentů NTSB, americký úřad blokuje přístup",
+      "title_orig": "US scrambles to stop Internet users re-creating dead pilots' voices",
+      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+      "source": "Ars Technica",
+      "category": "wildcard",
+      "summary_cs": [
+        "Internetoví dobrovolníci našli, že ze spektrogramu kabinového záznamu lze hlasy obnovit přes voice clone modely.",
+        "NTSB pozastavil přístup k veřejnému dokumentovému systému, aby zabránil dalším rekonstrukcím v rozporu se zákonem.",
+        "Případ otevírá debatu, jak chránit hlasy zemřelých a důstojnost rodin před komerčním i amatérským zneužitím."
+      ],
+      "why_matters": "Voice cloning už nepotřebuje vzorek nahrávky, právní rámec ochrany osobnosti zaostává za technikou."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Bývalý vědec OpenAI Aschenbrenner spustil fond, předpovídá masivní pokles ceny Nvidie",
+      "title_orig": null,
+      "url": "https://cc.cz/z-openai-ho-vyhodili-mlady-vedec-ale-pry-vidi-do-karet-ai-lepe-nez-jini-a-predvida-pokles-nvidie/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Leopold Aschenbrenner, vyhozený z OpenAI superalignment týmu, založil hedge fond Situational Awareness na vlastních AI tezích.",
+        "Fond podle vlastních dat shortuje Nvidii s tezí, že efektivnější modelové architektury zlomí GPU monopol.",
+        "Aschenbrenner se v komunitě stal kontroverzní hvězdou kvůli dlouhému eseji Situational Awareness o cestě k AGI."
+      ],
+      "why_matters": "Argumenty proti Nvidii sílí, českým investorům i fondům to dává jiný úhel než dominantní bull narrativ."
+    }
+  ]
+}

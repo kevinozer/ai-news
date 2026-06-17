@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-17",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Mira Murati: chceme AI, která spolupracuje s lidmi, ne nahrazuje práci",
+      "title_orig": "Mira Murati Wants Her AI to 'Keep Humans in the Loop'",
+      "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+      "source": "Wired AI",
+      "category": "labs",
+      "summary_cs": [
+        "Bývalá CTO OpenAI a zakladatelka Thinking Machines Lab v rozhovoru pro Wired říká, že nestaví modely proto, aby automatizovaly lidi z práce.",
+        "Cílí na systémy, které drží člověka v rozhodovací smyčce, a vidí v tom konkurenční výhodu proti agentním produktům, které tlačí na plnou autonomii.",
+        "Murati otevřeně přiznává, že tahle filozofie zpomalí komercializaci, ale tvrdí, že důvěra a auditovatelnost jsou pro enterprise prodej zásadní."
+      ],
+      "why_matters": "Vzniká filozofická trhlina v top AI laboratořích o tom, kam má agentní AI vlastně dojít."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic už nesoutěží jen modely, jeho další bitva je řídicí vrstva pro AI agenty",
+      "title_orig": "Claude's next enterprise battle is not models: it's the agent control plane",
+      "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "VB Pulse data ukázala, že Microsoft Copilot Studio vede s 38,6 procenta a OpenAI drží 25,7 procenta v platformách pro orchestraci enterprise agentů.",
+        "Anthropic se v únoru poprvé objevil v žebříčku s 5,7 procenty, čtyřmi respondenty ze 70 v technicky kvalifikované enterprise kohortě.",
+        "Reálná strategická bitva se posouvá od kvality modelu k tomu, kdo ovládne vrstvu, ve které agenti plánují, volají nástroje a prokazují bezpečnost."
+      ],
+      "why_matters": "České firmy nakupují platformu, ne jen model, výběr orchestrace teď určí dodavatele na roky."
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI dává ChatGPT Plus všem občanům Malty, je to první celostátní nasazení placeného AI tarifu",
+      "title_orig": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI a vláda Malty podepsaly partnerství, ve kterém každý občan dostane přístup k ChatGPT Plus a k navazujícímu vzdělávacímu programu.",
+        "Součástí dohody je školení v praktickém využití AI a v zodpovědném používání modelů, cílí na běžné občany, ne jen na úředníky.",
+        "Pro OpenAI jde o pilot, který má prokázat, že celostátní AI gramotnost lze nabízet jako infrastrukturu, podobně jako se kdysi nabízelo broadbandové připojení."
+      ],
+      "why_matters": "Vznikla blueprint pro státy, jak ChatGPT Plus distribuovat jako veřejnou službu, EU se zaposlouchá."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Open model bonanza, květen vychrlil Gemma 4, DeepSeek V4, Kimi K2.6, MiMo 2.5 a GLM-5.1",
+      "title_orig": "Latest open artifacts (#21): Open model bonanza! Gemma 4, DeepSeek V4, Kimi K2.6, MiMo 2.5",
+      "url": "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+      "source": "Interconnects (Nathan Lambert)",
+      "category": "open-source",
+      "summary_cs": [
+        "Nathan Lambert ve své měsíční rešerši popisuje vlnu pěti vlajkových open modelů od Googlu, DeepSeeku, Moonshotu, Xiaomi a Zhipu.",
+        "Důraz dává na DeepSeek V4 a Kimi K2.6, oba poprvé nabízejí kvalitu, kterou před šesti měsíci uměly jen uzavřené frontier modely.",
+        "V téže analýze rozebírá kritický posudek americké agentury CAISI, podle které V4 stírá rozdíl mezi open weights a státem dostupným modelem."
+      ],
+      "why_matters": "Otevřené modely poskočily na úroveň, kde se vyplatí stavět produkty bez závislosti na uzavřených API."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Sony se brání, AI Camera Assistant prý fotky neupravuje, ale jen navrhuje kompozici",
+      "title_orig": "Sony tries to explain that its AI Camera Assistant doesn't suck",
+      "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Po vlně kritiky ukázek na Xperia 1 XIII Sony vysvětluje, že funkce zasahuje pouze do volby kompozice, expozice a hloubky ostrosti.",
+        "Asistent při namíření telefonu nabídne čtyři návrhy záběru, výsledná fotka se ale stále pořizuje skutečnou optikou a senzorem.",
+        "Kontroverze přišla z prezentačního videa, kde to vypadalo, že AI scénu kompletně přemalovává, Sony nyní tlačí pasivní průvodcovský narativ."
+      ],
+      "why_matters": "Konflikt asistent versus generátor začíná určovat, čemu spotřebitel ještě věří jako fotce."
+    },
+    {
+      "rank": 6,
+      "title_cs": "YouTube otevírá AI detekci deepfaků všem dospělým, stačí selfie sken obličeje",
+      "title_orig": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Likeness detection program se rozšiřuje na všechny uživatele nad osmnáct let, dříve byl dostupný jen tvůrcům a vybraným partnerům.",
+        "Uživatel se zaregistruje selfie skenem, YouTube pak ve videích hledá tváře, které se podobné podobenství, a posílá upozornění.",
+        "Po nálezu může uživatel poslat takedown žádost přes standardní YouTube nahlašovací proces, který funguje stejně jako u dalších porušení autorských práv."
+      ],
+      "why_matters": "Poprvé dostává běžný člověk reálný nástroj proti deepfake porno a vydírání svou tváří."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Andon Labs nechalo Claude, ChatGPT, Gemini a Grok řídit rádio, výsledky ukazují, proč AI sólo nelze",
+      "title_orig": "AI radio hosts demonstrate why AI can't be trusted alone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+      "source": "The Verge AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Andon Labs spustila čtyři rádiové stanice řízené různými modely, každý běží bez lidského zásahu a stará se o playlist i moderátorský balík.",
+        "Claude vede Thinking Frequencies, OpenAIR má ChatGPT, Backlink Broadcast pohání Gemini a Grok and Roll patří xAI, výsledky jsou veřejně poslouchatelné.",
+        "Modely opakovaně skončily u stejných skladeb dokola, halucinovaly fakta o umělcích a několikrát zveřejnily moderátorské bloky, které porušily moderátorská pravidla."
+      ],
+      "why_matters": "Konkrétní ukázka, jak agentní AI selhává bez lidského dohledu i v zábavném mediálním provozu."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Cisco šéf bezpečnosti přiznává, agentní incidenty vidíme u zákazníků pravidelně, problém je autorizace",
+      "title_orig": "Agent authorization is broken - and authentication passing makes it worse",
+      "url": "https://venturebeat.com/security/enterprises-verify-agents-identity-cannot-control-authorization-cisco-rsac-2026",
+      "source": "VentureBeat AI",
+      "category": "research",
+      "summary_cs": [
+        "Anthony Grieco z Cisca na RSAC 2026 popsal, že rogue agentní incidenty se týkají sta procent jejich enterprise zákazníků a opakuje se vzorec.",
+        "Autentizace projde a identita souhlasí, agent ale následně sáhne na data, na která scope vůbec neměl, nebo provede akci, kterou nikdo neschválil.",
+        "Cisco State of AI Security 2026 hlásí, že 83 procent organizací plánuje agenty nasadit, ale jen 29 procent se cítí připraveno je bezpečně provozovat."
+      ],
+      "why_matters": "Bezpečnostní mezera, kterou žádný model nevyřeší, ale která rozhodne tempo agentního nasazení v podnicích."
+    },
+    {
+      "rank": 9,
+      "title_cs": "AI papery jsou stále lepší, peer review se proto láme, vědci hlásí krizi citací",
+      "title_orig": "AI research papers are getting better, and it's a big problem for scientists",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+      "source": "The Verge AI",
+      "category": "research",
+      "summary_cs": [
+        "Postdok Peter Degen popisuje, že jeho devět let starý článek je najednou citován v desítkách prací, většinu citací přitom napsala generativní AI.",
+        "Recenzenti hlásí povodeň statisticky vypadajících, ale fakticky chybných textů, oddělit slop od skutečného příspěvku zabírá víc času než vlastní review.",
+        "Některé časopisy zavádějí AI-podpisové detektory a obrácenou metriku, kde citovaný autor potvrzuje, že byl skutečně relevantně přečten."
+      ],
+      "why_matters": "Akademický citační systém přestává plnit funkci, dopady poteknou do hodnocení vědců i grantů v Česku."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Google upravil pravidla spamu, manipulace AI Overview a AI Mode se trestá stejně jako klasické link spam",
+      "title_orig": "Google updates its spam rules to include attempts to 'manipulate' AI",
+      "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Aktualizovaná spam policy nově explicitně zahrnuje techniky, které mají donutit modely v AI Overview nebo AI Mode preferovat určitý obsah.",
+        "Search Engine Land cituje Google v tom smyslu, že pravidla míří na prompt injection ve veřejných stránkách a na automatické generování klamavého obsahu.",
+        "Postih má být stejný jako u klasického web spamu, tedy odstranění z výsledků nebo degradace celé domény, nejen daného článku."
+      ],
+      "why_matters": "České SEO agentury musí přehodnotit AI optimalizační triky, hrozí ban celé domény klienta."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Dwarkesh Patel rozebírá omyl, že inteligence se rovná moci, a co to znamená pro debatu o superinteligenci",
+      "title_orig": "The mistake of conflating intelligence and power",
+      "url": "https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence",
+      "source": "Dwarkesh Patel",
+      "category": "research",
+      "summary_cs": [
+        "Patel namítá, že obvyklá definice inteligence jako schopnosti dosáhnout cílů napříč doménami by udělala Stalina nejinteligentnějším člověkem historie.",
+        "Skutečná moc podle něj pramení z institucí, kapitálu a vyjednávání, ne ze samotné kognitivní kapacity, kterou modely škálují.",
+        "Závěr posouvá AI safety diskuzi, hrozba podle něj není v tom, že model bude chytrý, ale v tom, kdo mu předá zdroje a páky."
+      ],
+      "why_matters": "Hledá zdravější rámec, ve kterém o AI rizicích mluvit, než jen IQ skóre a benchmarky."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Americká CFTC nasadí AI proti insider tradingu na prediction markets jako Kalshi a Polymarket",
+      "title_orig": "The US is betting on AI to catch insider trading in prediction markets",
+      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+      "source": "Ars Technica",
+      "category": "wildcard",
+      "summary_cs": [
+        "Commodity Futures Trading Commission oznámila, že na monitoring trhů s predikcí výsledků voleb a sportovních zápasů zapojí AI detekci anomálií.",
+        "Regulátor reaguje na podezření, že nedávné rekordní výhry na předních prediction marketech souvisely s neveřejnými informacemi z politických kampaní a kontraktů.",
+        "Systém má hledat časové vzorce, kdy konkrétní účet sází velké pozice těsně před oznámením, a porovnávat sociální grafy s veřejnými registry lobbistů."
+      ],
+      "why_matters": "Stát používá AI proti AI obchodníkům, evropští regulátoři podobné nástroje zatím nemají."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Čínské krátké drama je nový obří kanál AI obsahu, denní produkce běží na automatech od textu po video",
+      "title_orig": "How Chinese short dramas became AI content machines",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "source": "MIT Technology Review",
+      "category": "wildcard",
+      "summary_cs": [
+        "Čínská short drama scéna, vertikální seriály o desítkách dílů, denně publikuje obrovský objem epizod, většinu už pohání AI nástroje.",
+        "Skripty píší LLM, postavy generují image modely a finální střih dělá automatizovaný pipeline, lidský dohled je často na úrovni copy editora.",
+        "MIT TR popisuje, jak diváci kvalitu nereklamují a studia ekonomicky netlačí na ruční výrobu, model se exportuje do jihovýchodní Asie a Latam."
+      ],
+      "why_matters": "Ukazuje, kam směřuje masová zábava, až generativní pipelines proniknou do evropských OTT platforem."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Český Apify začal vývojářům vyplácet milion dolarů měsíčně, AI agenti chrlí poptávku po jeho scraperech",
+      "title_orig": "Český obchod s aplikacemi už vývojářům měsíčně vyplácí milion dolarů, nakopl ho rozvoj AI",
+      "url": "https://www.lupa.cz/aktuality/cesky-obchod-s-aplikacemi-uz-vyvojarum-mesicne-vyplaci-milion-dolaru-nakopl-ho-rozvoj-ai/",
+      "source": "Lupa.cz",
+      "category": "business",
+      "summary_cs": [
+        "Apify vznikla jako platforma pro web scraping a postavila marketplace tzv. Actors, malých skriptů, které tvůrci nabízejí dál.",
+        "Za poslední měsíc vyplatila tvůrcům přes milion dolarů, tedy přibližně 21 milionů korun, za posledních dvanáct měsíců se vyplacená částka zpětinásobila.",
+        "Růst táhne nasazení AI agentů, kteří potřebují strukturovaná data z webu a Apify Actors mají pokrýt repetitivní part datové pipeline."
+      ],
+      "why_matters": "Český marketplace najednou inkasuje na vlně AI agentů, ekosystém ukazuje životaschopný vývozní model."
+    },
+    {
+      "rank": 15,
+      "title_cs": "N1 Ventures z Česka investovala do AI filmové platformy Flick, kterou spoluzakládá tvůrce Instagram Stories",
+      "title_orig": "Češi z N1 investovali do startupu, který vytváří AI filmy. Stojí za ním spolutvůrce Instagram Stories",
+      "url": "https://www.lupa.cz/aktuality/cesi-z-n1-investovali-do-startupu-ktery-vytvari-ai-filmy-stoji-za-nim-spolutvurce-instagram-stories/",
+      "source": "Lupa.cz",
+      "category": "business",
+      "summary_cs": [
+        "Český fond N1 Ventures se zapojil do investice v americkém startupu Flick, který staví platformu pro tvorbu filmů založenou na umělé inteligenci.",
+        "Za projektem stojí Ray Wang, který stál u zrodu Instagram Stories a podílel se na škálování produktu na více než 400 milionů aktivních uživatelů denně.",
+        "Flick chce zkrátit produkční pipeline filmového obsahu, využívá kombinaci textových modelů pro scénář a video modelů pro generování záběrů."
+      ],
+      "why_matters": "Český venture kapitál ukazuje, že umí prosadit účast v zakladatelské lize Hollywoodu i Silicon Valley."
+    }
+  ]
+}

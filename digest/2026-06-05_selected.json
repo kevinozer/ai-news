@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-05",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic tvrdí, že 80 procent jeho nového produkčního kódu píše Claude",
+      "title_orig": "Anthropic says 80% of its new production code is now authored by Claude",
+      "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Přes 80 procent kódu sloučeného do produkční kódové základny Anthropicu v květnu nenapsali lidé, ale model Claude.",
+        "Firma uvádí osminásobný nárůst objemu kódu dodaného na jednoho inženýra za čtvrtletí oproti baseline z let 2021 až 2025.",
+        "Dario Amodei tuto změnu dlouho avizoval, přesto ji Anthropic prezentuje jako milník v reálném nasazení AI."
+      ],
+      "why_matters": "Ukazuje, jak rychle se firemní vývoj posouvá k AI a jak vysoko je laťka produktivity."
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI uvádí Dreaming, nový paměťový systém pro užitečnějšího ChatGPT",
+      "title_orig": "Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "ChatGPT dostává nový paměťový systém Dreaming, který si lépe pamatuje preference uživatele napříč konverzacemi.",
+        "Cílem je udržet kontext čerstvý a relevantní, aby asistent nemusel opakovaně zjišťovat základní informace.",
+        "Funkce posouvá ChatGPT od jednorázových odpovědí k průběžně osobně laděnému pomocníkovi."
+      ],
+      "why_matters": "Lepší paměť dělá z chatbota osobnějšího asistenta, který si pamatuje, co od něj uživatel čeká."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Nvidia ukázala robota Unitree H2+, čínské tělo s americkým mozkem",
+      "title_orig": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
+      "url": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Nový humanoidní robot kombinuje hardware od čínské firmy Unitree s řídicí AI postavenou na technologiích Nvidie.",
+        "Robot měří zhruba 180 centimetrů a podle Nvidie spojuje to nejlepší z obou ekosystémů.",
+        "Spencer Huang, který v Nvidii vede robotiku, ho popisuje jako ukázku, kam míří humanoidní stroje."
+      ],
+      "why_matters": "Humanoidní roboti se rychle posouvají z laboratoří k reálnému využití a propojují čínský a americký průmysl."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Meta staví datacentra ve stanech, aby srazila náklady",
+      "title_orig": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "source": "TechCrunch AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Meta hledá způsob, jak osekat obří účty za datacentra, a sahá po překvapivém řešení, stanech.",
+        "Taktiku rychlé a levné výstavby pod plachtou si vypůjčila od Tesly a jejích továren.",
+        "Stanová datacentra mají umožnit nasazovat výpočetní kapacitu rychleji než klasické budovy."
+      ],
+      "why_matters": "Náklady na AI infrastrukturu rostou tak, že i giganti improvizují, aby stíhali poptávku."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Amazon představil skladového robota Proteus, se kterým si lidé povídají",
+      "title_orig": "Amazon develops a warehouse robot that workers can speak to",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Amazon ukázal novou verzi plně autonomního skladového robota Proteus, který komunikuje řečí místo kódu.",
+        "Zaměstnanci mu mohou zadávat úkoly běžným jazykem, bez nutnosti programování.",
+        "Upgrade je součástí širšího posunu Amazonu k automatizaci skladů."
+      ],
+      "why_matters": "Roboti ovládaní hlasem mění práci ve skladech a posouvají hranici automatizace fyzické práce."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Nvidia uvedla modely Cosmos 3 a Nemotron 3 Ultra spolu s RTX Spark",
+      "title_orig": "NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
+      "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
+      "source": "Latent Space",
+      "category": "labs",
+      "summary_cs": [
+        "Nvidia představila novou generaci modelů Cosmos 3 pro fyzickou a robotickou AI a velký model Nemotron 3 Ultra.",
+        "Oznámení doprovází hardware RTX Spark, který má přivést výkonné modely blíž k běžným zařízením.",
+        "Krok posiluje pozici Nvidie nejen jako výrobce čipů, ale i jako dodavatele vlastních modelů."
+      ],
+      "why_matters": "Nvidia tlačí svůj software i hardware naráz a chce ovládnout celý řetězec kolem AI."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Anthropic míří na burzu, roční tržby překročily 47 miliard dolarů",
+      "title_orig": "Ahead of its IPO, Anthropic's Daniela Amodei shrugs off doubts about AI's returns",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Anthropic oznámil, že jeho roční tržby v květnu překročily 47 miliard dolarů, oproti zhruba 9 miliardám na konci roku 2025.",
+        "Spoluzakladatelka Daniela Amodei před vstupem na burzu odmítá pochybnosti o návratnosti investic do AI.",
+        "Prudký růst čeká reálná zkouška, až firma půjde na veřejný trh."
+      ],
+      "why_matters": "Velikost a tempo Anthropicu ukazují, kolik peněz dnes do AI proudí a jak vysoká jsou očekávání."
+    },
+    {
+      "rank": 8,
+      "title_cs": "OpenAI a Anthropic podepsaly výzvu proti biologickým zbraním vytvářeným pomocí AI",
+      "title_orig": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+      "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+      "source": "Wired AI",
+      "category": "labs",
+      "summary_cs": [
+        "Přední AI laboratoře, vedení firem a vědci posílají zákonodárcům výzvu k lepší kontrole syntetické DNA.",
+        "Cílem je zpřísnit sledování sekvencí, které by mohly posloužit k výrobě biologických zbraní.",
+        "Signatáři varují, že pokročilá AI může zneužití biologie usnadnit, pokud chybí dohled."
+      ],
+      "why_matters": "Bezpečnost biotechnologií se stává klíčovým tématem regulace AI i pro evropské státy."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Anthropic spouští Services Track a Partner Hub své partnerské sítě",
+      "title_orig": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "url": "https://www.anthropic.com/news/services-track-partner-hub",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic rozšiřuje partnerskou síť kolem Claude o novou větev zaměřenou na poskytovatele služeb.",
+        "Partner Hub má firmám usnadnit hledání ověřených partnerů pro nasazení Claude.",
+        "Krok cílí na firemní zákazníky, kteří potřebují pomoc s integrací AI do provozu."
+      ],
+      "why_matters": "Anthropic buduje ekosystém kolem Claude, aby uspěl u firem, ne jen u jednotlivců."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Apple schválil Poke jako prvního AI agenta na platformě Messages for Business",
+      "title_orig": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Poke, startup umožňující ovládat AI agenty přes běžné textové zprávy, je prvním schváleným agentem na Apple Messages for Business.",
+        "Uživatelé tak mohou s AI komunikovat přímo v Apple zprávách bez další aplikace.",
+        "Schválení otevírá dveře dalším konverzačním agentům v ekosystému Applu."
+      ],
+      "why_matters": "AI agenti se stěhují do běžných chatovacích aplikací, kde už lidé denně píší."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Coralogix získal 200 milionů dolarů na hlídání AI agentů v provozu",
+      "title_orig": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Coralogix vsází na to, že s nástupem AI systémů poroste poptávka po nástrojích, které hlídají jejich chování.",
+        "Investice 200 milionů dolarů má financovat vrstvu pro monitoring, hledání chyb a provozní data agentů.",
+        "Firma patří mezi rostoucí skupinu poskytovatelů infrastruktury pro AI v reálném provozu."
+      ],
+      "why_matters": "Jak AI agenti vstupují do firem, sílí byznys kolem jejich kontroly a spolehlivosti."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Zakladatelé od Goldman a Meta staví hlasovou AI pro přehlížené trhy",
+      "title_orig": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Dva zakladatelé opustili Goldman Sachs a Metu, aby postavili hlasovou AI pro Afriku a Blízký východ.",
+        "Jejich vlastní systém dnes obslouží přes 17 tisíc hovorů denně.",
+        "Cílí na regiony, které velcí hráči zatím přehlíželi."
+      ],
+      "why_matters": "Hlasová AI v místních jazycích otevírá AI služby trhům mimo bohatý Západ."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Estonský test ukázal, které modely nejlépe odolávají ruské propagandě",
+      "title_orig": "These LLMs are the best at resisting Russian propaganda",
+      "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+      "source": "Ars Technica",
+      "category": "research",
+      "summary_cs": [
+        "Test estonské vlády porovnal desítky jazykových modelů podle toho, jak dobře odolávají ruským strategickým narativům.",
+        "Výsledky ukazují velké rozdíly v tom, nakolik modely přebírají dezinformační rámování.",
+        "Benchmark nabízí konkrétní metriku odolnosti vůči manipulaci, ne jen obecné dojmy."
+      ],
+      "why_matters": "Pro středoevropské státy je odolnost AI vůči ruské propagandě přímo bezpečnostní téma."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Nvidia uvolnila Nemotron 3.5 Content Safety pro firemní bezpečnost AI",
+      "title_orig": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Nvidia vydala Nemotron 3.5 Content Safety, přizpůsobitelný systém pro kontrolu obsahu napříč texty i obrázky.",
+        "Model je určený firmám, které potřebují filtrovat nevhodný obsah ve svých AI aplikacích.",
+        "Dostupnost přes Hugging Face usnadňuje nasazení vývojářům po celém světě."
+      ],
+      "why_matters": "Otevřené bezpečnostní modely pomáhají firmám nasadit AI bez vlastního týmu na moderaci."
+    },
+    {
+      "rank": 15,
+      "title_cs": "ServiceNow zveřejnil EVA-Bench Data 2.0 pro testování AI agentů",
+      "title_orig": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "source": "Hugging Face Blog",
+      "category": "research",
+      "summary_cs": [
+        "Nová verze benchmarku EVA-Bench pokrývá tři domény, 121 nástrojů a 213 scénářů pro hodnocení agentů.",
+        "Sada má měřit, jak dobře si AI agenti vedou při práci s reálnými nástroji a úkoly.",
+        "Otevřená data umožňují srovnávat agentní systémy na společném základě."
+      ],
+      "why_matters": "Kvalitní testy agentů jsou nutné, aby firmy poznaly, který systém v praxi obstojí."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-25",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Pražská ValkaAI staví fotorealistické AI avatary s živým hlasem i mimikou",
+      "title_orig": "Dokonalý avatar. Češi se zkušenostmi z amerických laboratoří skládají v pražském startupu video, hlas a pohyb v reálném čase",
+      "url": "https://www.lupa.cz/clanky/dokonaly-avatar-cesi-se-zkusenostmi-z-americkych-laboratori-skladaji-v-prazskem-startupu-video-hlas-a-pohyb-v-realnem-case/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Tým založený Čechy s praxí z amerických AI labů skládá video, hlas a pohyb avatara v reálném čase, ne jen v pár vteřinových klipech.",
+        "Cílem je vyřešit problém živosti digitálního člověka, který dnes generativním modelům uniká po pár vteřinách interakce.",
+        "Startup míří na použití avatarů v zákaznickém servisu, vzdělávání a marketingu, kde dosud chyběla věrohodnost lidského kontaktu."
+      ],
+      "why_matters": "Česká firma soupeří v jedné z nejtěžších disciplín generativního videa, kde dominuje Silicon Valley."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Google pustil anything-to-anything model, umí zkombinovat libovolné modality v jednom kroku",
+      "title_orig": "Google's new anything-to-anything AI model is wild",
+      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Nová Gemini varianta v Google experimentu přijímá text, obrázek i video a vrací text, obrázek i video v jednom průchodu bez přepínání mezi nástroji.",
+        "Verge ji testoval na deepfake plyšáka na cestách a výsledek nešel rozlišit od skutečně natočeného materiálu.",
+        "Google posouvá multimodalitu z marketingových dem do veřejně dostupné funkce, kterou bude těžké zneužít odhalit."
+      ],
+      "why_matters": "Hranice mezi reálným a generovaným obsahem padá pro běžného uživatele, ne jen pro experty."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Musk opustil solární vizi, xAI sází na zemní plyn a SpaceX na datacentra na oběžné dráze",
+      "title_orig": "Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Muskova xAI postavila energetickou strategii kolem plynových turbín, žádné solární projekty pro nové AI clustery neplánuje.",
+        "SpaceX paralelně připravuje koncept datacenter na oběžné dráze napájených solárem v kosmu, kde nehraje roli noc ani počasí.",
+        "Mění se tím i Muskova starší rétorika o solar-electric economy z dob raných Tesly, kterou veřejně propagoval ještě před dvěma lety."
+      ],
+      "why_matters": "Energetické nároky AI tlačí i deklarované zastánce čisté energie k fosilním palivům."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Ramp ukazuje, jak Codex s GPT-5.5 zkracuje review pull requestů z hodin na minuty",
+      "title_orig": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Fintech Ramp nasadil Codex s GPT-5.5 napříč inženýrskými týmy a podstatnou část code review nechává automaticky komentovat agentem.",
+        "Inženýři dostávají věcný feedback řádově během minut, ne hodin čekání na lidského reviewera, a urychluje to merge do produkce.",
+        "OpenAI staví Codex jako nástroj integrovatelný do existujícího GitHub workflow, ne jako samostatné IDE."
+      ],
+      "why_matters": "Code review byl poslední bastion lidské kontroly v kódování, teď padá i ten."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Amazonský náramek Bee poslouchá celý den a generuje životopis vašich rozhovorů",
+      "title_orig": "I tried Amazon's Bee wearable and am both intrigued and slightly creeped out",
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Bee je náramek, který nahrává všechny zvuky kolem majitele a převádí je na zápisky, úkoly a souhrny dne.",
+        "Recenzent TechCrunche oceňuje praktické připomenutí věcí, které by mu jinak vypadly z hlavy, ale popisuje pocit narušení soukromí.",
+        "Etický problém leží na straně okolí, kterému Amazon nedává žádný způsob, jak souhlas s nahráváním odmítnout."
+      ],
+      "why_matters": "Always-on AI nahrávání postupně přechází z konceptů Sci-Fi do běžně prodávaného hardwaru."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Roboti vaří jídlo bezdomovcům v sanfranciském Tenderloinu, dobrovolníci docházejí",
+      "title_orig": "These Robots Are Making Meals for a Nonprofit in San Francisco's Tenderloin",
+      "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Nezisková organizace v nejproblematičtější čtvrti San Franciska nahrazuje chybějící lidské dobrovolníky robotickými kuchařskými linkami.",
+        "Pilot ukazuje, že robotika dnes zvládá repetitivní přípravu jídla v reálné kuchyni a osvobozuje lidi pro práci s klienty.",
+        "Wired diskutuje napětí mezi automatizací a původním smyslem dobrovolnické práce, který stojí na lidském kontaktu."
+      ],
+      "why_matters": "Robotika v sociální službě je tichý precedent pro to, jak se charita bude měnit s automatizací."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Latent Space: všechny modelové laboratoře se mění na agentní laboratoře",
+      "title_orig": "[AINews] All Model Labs are now Agent Labs",
+      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+      "source": "Latent Space",
+      "category": "news",
+      "summary_cs": [
+        "Newsletter sbírá citace z OpenAI, Anthropic a Google a ukazuje, že každá lab definuje svůj produkt přes agenty, ne přes raw model.",
+        "Komerční tlak vede k tomu, že agentní vrstva je dnes hlavní soutěžní pole, zatímco rozdíly mezi base modely klesají.",
+        "Pro startupy to znamená, že stavění na holém API jednoho modelu ztrácí smysl, protože agentní vrstva se schová do produktů labů."
+      ],
+      "why_matters": "Strategická pohyb labů určuje, kde leží příležitost pro produkty postavené nad LLM."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Google přiznává, že AI bezpečnost se učí za pochodu, vše je v tranzitním období",
+      "title_orig": "Everyone is navigating AI security in real time - even Google",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "summary_cs": [
+        "TechCrunch shrnuje sérii incidentů, kde i Google reagoval na nové typy útoků postupně a bez předem připravené hratelné odpovědi.",
+        "Hlavní vzkaz je, že žádný hráč na trhu dnes nemá komplexní obrannou doktrínu, všichni reagují na první incidenty pozdě.",
+        "Pro firmy nasazující AI to znamená, že čekat na best practices od velkých labů není reálná strategie."
+      ],
+      "why_matters": "Bezpečnostní nezralost trhu posouvá odpovědnost na samotné nasazující firmy."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Hackeři se učí zneužívat osobnosti chatbotů, role-play překonává safety filtry",
+      "title_orig": "Hackers are learning to exploit chatbot personalities",
+      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+      "source": "The Verge AI",
+      "category": "news",
+      "summary_cs": [
+        "Útočníci přesvědčí chatbot, aby přijal alternativní osobnost, která nemá stejně přísné mantinely jako základní asistent.",
+        "Triky kombinují system prompt injection s manipulací role-play scénářů, kterým se modely učí věřit.",
+        "Stepback newsletter ukazuje, že safety vrstva se dnes spoléhá na konzistenci modelu, kterou útočník dokáže rozbít několika promptními kroky."
+      ],
+      "why_matters": "Klasická safety opatření nezvládají sociální inženýrství mířené na samotný model."
+    },
+    {
+      "rank": 10,
+      "title_cs": "AI agenti tiše generují chaos engineering incidenty, na které firmy nemají postmortem šablonu",
+      "title_orig": "AI agents are quietly generating chaos engineering failures enterprises don't track yet",
+      "url": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "summary_cs": [
+        "Agent provede technicky správnou akci, ale v nesprávném kontextu rozbije produkční systém způsobem, který nesedí na existující postmortem šablony.",
+        "Firmy tyto incidenty zatím nepočítají do statistik výpadků, protože jejich monitoring nezachytí kauzální řetězec přes agentní volání.",
+        "VentureBeat doporučuje rozšířit incident tracking o agentní vrstvu, jinak se reálná spolehlivost nasazení nedá změřit."
+      ],
+      "why_matters": "Slepé místo v observabilitě nasazených agentů ohrožuje jejich byznysovou důvěryhodnost."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Enterprise AI agenti zapomínají, co se naučili, RAG na to nestačí",
+      "title_orig": "Enterprise AI agents keep failing because they forget what they learned",
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Klasický RAG je dobrý v hledání podobných dokumentů, ale neumí předat stavovou paměť o tom, co agent v minulých sezeních udělal.",
+        "Nový framework decision context graph drží strukturovanou paměť rozhodnutí, kterou agent při dalším spuštění obnoví.",
+        "Tým ukazuje, že přidání decision context grafu nad RAG snižuje opakované chyby agentů v enterprise nasazeních."
+      ],
+      "why_matters": "Architektonický posun od jednorázových promptů k trvalé paměti agentů určí příští generaci produktů."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Útočníci protlačili 633 škodlivých npm balíčků s platnými Sigstore podpisy",
+      "title_orig": "Valid certificates, stolen accounts: how attackers broke npm's last trust signal",
+      "url": "https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "summary_cs": [
+        "Útočníci zneužili kompromitované účty maintainerů a vytvořili platné Sigstore certifikáty pro 633 nových verzí škodlivých balíčků.",
+        "Provenance verification nedokázala útok zachytit, protože certifikáty pocházely ze skutečných identit s legitimními právy.",
+        "Incident ukazuje limit kryptografického podpisu jako jediné obrany, ekosystém potřebuje vrstvu chování a reputace nad rámec ověření identity."
+      ],
+      "why_matters": "Open source supply chain dál ztrácí důvěru, AI agenti instalující balíčky to riziko násobí."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Google DeepMind otevírá akcelerátor v Asia Pacific pro start-upy řešící environmentální rizika",
+      "title_orig": "We're launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "source": "Google DeepMind Blog",
+      "category": "labs",
+      "summary_cs": [
+        "DeepMind nabízí start-upům v regionu Asia Pacific přístup k modelům, datovým sadám a mentoringu cílenému na klima, biodiverzitu a katastrofy.",
+        "Program reaguje na lokální specifika, kde environmentální rizika rostou rychleji než kapacita státních institucí na ně reagovat.",
+        "Účastníci budou pracovat s týmy DeepMindu nad praktickými nasazeními, ne jen nad výzkumnými prototypy."
+      ],
+      "why_matters": "Lab zaměřená na frontier research přesouvá kapacitu k aplikovaným problémům mimo Silicon Valley."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Latent Cache Flow umožňuje agentům komunikovat skrz vnitřní stavy modelu, ne přes text",
+      "title_orig": "Latent Cache Flow: Model-to-Model Communication Without Text",
+      "url": "https://arxiv.org/abs/2605.22863",
+      "source": "ArXiv cs.LG",
+      "category": "research",
+      "summary_cs": [
+        "Autoři ukazují, že LLM agenti komunikující skrz autoregresivní generování textu plýtvají latencí i informací z vnitřního stavu.",
+        "Latent Cache Flow předává mezi modely přímo KV cache vrstvy, sdílení skipuje dekódování a zachová bohatství latentní reprezentace.",
+        "Metoda funguje napříč modely různé architektury a podle papíru snižuje end-to-end latenci agentního workflow řádově."
+      ],
+      "why_matters": "Multi-agentní systémy mohou výrazně zrychlit, pokud opustíme text jako jediné komunikační rozhraní."
+    },
+    {
+      "rank": 15,
+      "title_cs": "AutoResearch AI cílí na komplexní vědecký workflow od literatury po hypotézy a experimenty",
+      "title_orig": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery",
+      "url": "https://arxiv.org/abs/2605.23204",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Systém pokrývá fáze rešerše, plánování experimentu, sběru dat a sepsání papíru jako propojený dlouhodobý workflow.",
+        "Autoři ukazují, že separované AI asistenty pro literaturu nebo pro analýzu nestačí, vědec potřebuje propojené prostředí.",
+        "AutoResearch AI je zatím prototyp, ale otevírá debatu, kdy se z asistenta stane samostatný spoluautor vědecké práce."
+      ],
+      "why_matters": "Vědecká produkce se přesouvá od jednotlivých AI nástrojů ke kompletním automatizovaným pipeline."
+    }
+  ]
+}

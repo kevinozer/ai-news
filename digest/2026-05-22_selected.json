@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-22",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Alibaba ukázala Qwen3.7-Max, model jede autonomně 35 hodin a podporuje Claude Code",
+      "title_orig": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code",
+      "url": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code/",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Nový vlajkový model Alibaby Qwen3.7-Max zvládne podle benchmarků autonomní úlohy běžící 35 hodin v kuse bez lidského zásahu.",
+        "Model je proprietární, ale Alibaba mu otevřela kompatibilitu s externími harness vrstvami včetně Anthropic Claude Code.",
+        "Čínská firma posílá signál, že hraje v první lize agentických modelů spolu s OpenAI, Anthropicem a Googlem."
+      ],
+      "why_matters": "Čínský konkurent dohání západní laboratoře v dlouhých agentických úlohách, tlak na cenu agentů poroste."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Spotify a Universal Music pustí AI covery a remixy fanoušků, hudba se otevírá generativnímu obsahu",
+      "title_orig": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Spotify s Universal Music Group podepsalo licenční dohodu, která umožní fanouškům vytvářet AI covery a remixy oficiálních skladeb.",
+        "Tržiště generativní hudby tak získává první velký katalog nahrávek se schváleným použitím pro AI nástroje.",
+        "Příjmy se mají sdílet mezi platformou, vydavatelstvím i původními umělci, model jede zatím v pilotní fázi."
+      ],
+      "why_matters": "Velký vydavatel poprvé pouští katalog do AI ekosystému a normalizuje tím fanouškovský generativní obsah."
+    },
+    {
+      "rank": 3,
+      "title_cs": "KPMG nasadí Claude napříč 276 tisíci zaměstnanci, podepsalo strategickou alianci s Anthropicem",
+      "title_orig": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "url": "https://www.anthropic.com/news/anthropic-kpmg",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Audit a poradenský gigant KPMG integruje Claude do interních procesů i nabídek pro klienty.",
+        "Anthropic tím získává jednoho z největších enterprise referenčních zákazníků a hluboký vstup do regulovaných odvětví.",
+        "Aliance pokryje globálních 276 tisíc zaměstnanců KPMG, nasazení poběží napříč zeměmi i divizemi."
+      ],
+      "why_matters": "Velká čtyřka přijala Claude jako kanonický enterprise model, OpenAI a Microsoft cítí konkurenční tlak v auditu."
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI míří na zářijový IPO, klíčový kvartál pro celý AI sektor",
+      "title_orig": "OpenAI barrels toward IPO that may happen in September",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "OpenAI údajně připravuje IPO na září 2026 a koordinuje se s bankami i regulátory.",
+        "Společnost by se podle TechCrunche měla pohybovat v rozmezí trillion-dollar ocenění, převýší tak veškerou tržní hodnotu předchozích AI IPO.",
+        "Souběžně probíhá restrukturalizace neziskové části, která dohlíží na komerční dceru."
+      ],
+      "why_matters": "Největší AI IPO v historii nastaví laťku pro valuace celého sektoru a otevře nákup retailovým investorům."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Anthropic na Code with Claude ukázal, kam míří kódování s agenty",
+      "title_orig": "Anthropic's Code with Claude showed off coding's future-whether you like it or not",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "source": "MIT Technology Review",
+      "category": "labs",
+      "summary_cs": [
+        "Vývojářská konference Anthropicu prezentovala dlouho běžící agenty, plné IDE integrace a víc autonomie pro Claude.",
+        "Demos ukázala agenty, kteří samostatně řeší GitHub issues, debugují a otevírají pull requesty bez vývojářského dozoru.",
+        "MIT Tech Review píše, že to byl signál pro celé odvětví, jakou budoucnost programování si Anthropic představuje."
+      ],
+      "why_matters": "Definuje, jak budou vypadat vývojářské nástroje příští dva roky, ostatní laboratoře budou kopírovat."
+    },
+    {
+      "rank": 6,
+      "title_cs": "DeepMind WeatherNext pomohl předpovědět historický dopad hurikánu Melissa na Jamajku",
+      "title_orig": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa's historic landfall in Jamaica",
+      "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "source": "Google DeepMind Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Model WeatherNext od DeepMind poskytl Národnímu centru hurikánů přesnější dráhu a intenzitu Melissy.",
+        "Předpovědi vyšly o stovky kilometrů přesnější než tradiční numerické modely a dráha byla potvrzena s předstihem dnů.",
+        "Centrum tak mohlo včas eskalovat varování pro Jamajku a okolní oblasti, čímž zachránilo životy a urychlilo evakuaci."
+      ],
+      "why_matters": "AI modely pro počasí překonávají klasické supercomputery, klimatická rizika lze předvídat dřív a přesněji."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Spotify Studio chce sebrat scénu NotebookLM, generuje personalizované podcasty z vašich dokumentů",
+      "title_orig": "Spotify takes on Google's NotebookLM with its new app",
+      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Nová desktopová aplikace Spotify Studio promění poznámky a dokumenty v personalizované audio podcasty.",
+        "Funkčně cílí přímo na Google NotebookLM, ale využívá ElevenLabs hlasy a integraci s katalogem Spotify.",
+        "Součástí je i AI agent, který každý den sestaví krátký podcast podle uživatelských preferencí a sledovaných témat."
+      ],
+      "why_matters": "Spotify rozšiřuje sázku na AI audio, NotebookLM dostává prvního vážného konkurenta s velkou distribucí."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Nvidia hlásí další rekordní kvartál a odhalila podíly v AI startupech za 43 miliard dolarů",
+      "title_orig": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Nvidia oznámila rekordní tržby v Q1 fiskálního roku, datacentrový segment opět táhne výsledky vzhůru.",
+        "Firma poprvé veřejně otevřela svůj investiční portfej, hodnota podílů v AI startupech dosáhla 43 miliard dolarů.",
+        "Mezi pozicemi figurují CoreWeave, Wayve, Mistral, Cohere a další klíčoví hráči, kteří Nvidii zpětně kupují čipy."
+      ],
+      "why_matters": "Nvidia financuje vlastní zákazníky, prohlubuje závislost AI ekonomiky na jednom dodavateli a regulátoři zbystří."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Tajemný startup Hark dostal 700 milionů dolarů Series A na univerzální AI rozhraní",
+      "title_orig": "Hark raises $700M Series A for its secretive 'universal' AI interface",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "source": "TechCrunch AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Stealth startup Hark získal Series A ve výši 700 milionů dolarů, což je jedna z největších v historii kategorie.",
+        "Firma slibuje univerzální rozhraní mezi člověkem a AI, ale technické detaily i produkt drží pod pokličkou.",
+        "Mezi investory jsou tier-one VC fondy, valuace je nezveřejněná, ale podle TechCrunche přesahuje 5 miliard dolarů."
+      ],
+      "why_matters": "Investoři sázejí miliardy na nezveřejněné AI rozhraní, ukazuje to extrémní hlad po next-gen UX vrstvě."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Drobný add-on dává AI agentům pracovní paměť, kterou RAG neumí",
+      "title_orig": "A 0.12% parameter add-on gives AI agents the working memory RAG can't",
+      "url": "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant/",
+      "source": "VentureBeat AI",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili techniku, která agentům přidá pracovní paměť přes přílepek o velikosti 0,12 procenta parametrů modelu.",
+        "Liší se od RAG tím, že paměť funguje implicitně v latent prostoru a drží kontext mezi kroky agentního workflow.",
+        "Benchmarky ukazují zlepšení o desítky procent na úkolech, kde se agent musí vracet k dříve zjištěným faktům."
+      ],
+      "why_matters": "Pracovní paměť je hlavní brzda dlouhých agentních úloh, levný add-on může urychlit produkční nasazení."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Resolve AI varuje, že boom AI kódování láme produkční systémy, a slibuje opravu",
+      "title_orig": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
+      "url": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that/",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Resolve AI tvrdí, že kód generovaný AI agenty způsobuje vlnu produkčních incidentů a regresí.",
+        "Jejich platforma sleduje produkční telemetrii a propojuje incidenty zpět s konkrétními AI-generovanými commity.",
+        "Cílem je dát SRE a DevOps týmům nástroj, jak rychle dohledat, který agent přidal vadný kód, a vrátit ho."
+      ],
+      "why_matters": "Vysoká produktivita AI kódu zvyšuje technický dluh, observabilita pro agenty bude další velký trh."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Cosmos Predict 2.5 jde fine-tunovat na robotická videa pomocí LoRA a DoRA",
+      "title_orig": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face zveřejnil návod, jak fine-tunovat Nvidia Cosmos Predict 2.5 na vlastní robotická videa.",
+        "Postup používá LoRA a DoRA, čímž zásadně snižuje paměťové i výpočetní nároky proti plnému fine-tuningu.",
+        "Otevírá to cestu robotickým laboratořím, které si pak naladí video foundation model na vlastní hardware."
+      ],
+      "why_matters": "Open-source recept na fine-tuning video modelů na robotiku rozšiřuje hřiště mimo velké firmy."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Trump odložil exekutivní příkaz k AI bezpečnosti, formulace prý mohly být brzdou",
+      "title_orig": "Trump delays AI security executive order, saying language 'could have been a blocker'",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "source": "TechCrunch AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Bílý dům odložil podpis exekutivního příkazu o AI bezpečnosti, Trump uvedl, že některé pasáže by mohly bránit inovaci.",
+        "Návrh měl zavést povinné audity frontier modelů a reporting incidentů federální agentuře.",
+        "Lobby velkých laboratoří údajně tlačila na rozvolnění, finální verze se očekává během několika týdnů."
+      ],
+      "why_matters": "Posun ukazuje, že americká AI regulace bude měkčí než původní návrh, evropské firmy získávají chvíli."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Pražská Kaya se zapojila do investice, která má rozšířit AI pracovníky po firmách",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/aktuality/prazska-kaya-se-zapojila-do-investice-ktera-ma-pomoct-rozsirit-ai-pracovniky-po-firmach/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Pražský fond Kaya se zapojil do investice do startupu, který nasazuje AI agenty jako virtuální zaměstnance.",
+        "Firma cílí na repetitivní white-collar úkoly a slibuje měřitelnou návratnost už během prvních týdnů nasazení.",
+        "Investice ukazuje, že česká VC scéna sleduje agentic AI a má kapacitu vstoupit do globálních kol."
+      ],
+      "why_matters": "Český kapitál se podílí na vlně agentic AI, lokální firmy získají dřív přístup k novým produktům."
+    },
+    {
+      "rank": 15,
+      "title_cs": "OpenAI rozšiřuje program Education for Countries do další fáze",
+      "title_orig": "The next phase of OpenAI's Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI ohlásilo druhou fázi programu Education for Countries s rozšířením o nová vládní partnerství.",
+        "Cílem je dostat ChatGPT Edu zdarma do veřejného školství a vzdělávat učitele i studenty v práci s LLM.",
+        "Mezi nové partnery patří Singapur a další asijské země, fáze přidává certifikace učitelů i měření dopadu."
+      ],
+      "why_matters": "Vlády normalizují ChatGPT ve školách, OpenAI si tím buduje dlouhodobou národní závislost a regulatorní goodwill."
+    }
+  ]
+}

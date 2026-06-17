@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-26",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Papež Lev XIV. vydal encykliku o AI, varuje před koncentrací moci a AI válčením",
+      "title_orig": "Pope Leo calls for being 'profoundly human' in the age of AI",
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "source": "The Verge",
+      "category": "news",
+      "summary_cs": [
+        "Magnifica Humanitas je první velký papežský dokument Lva XIV. a věnuje se výhradně AI: dopady na práci, autonomním zbraním a koncentraci technologické moci.",
+        "Papež navazuje na encykliku Rerum Novarum z roku 1891, kterou Lev XIII. reagoval na průmyslovou revoluci. Cílem je etický rámec pro 1,4 miliardy katolíků.",
+        "Text cituje Anthropic, OpenAI i Tolkienova Gandalfa a vyzývá k tomu, aby státy AI v některých oblastech aktivně omezovaly, ne pouze regulovaly."
+      ],
+      "why_matters": "Vatikán poprvé staví AI do centra své morální agendy, vliv na evropské regulátory bude reálný."
+    },
+    {
+      "rank": 2,
+      "title_cs": "ClickUp propustil stovky lidí a nahrazuje je tisíci AI agenty",
+      "title_orig": "What ClickUp's mass layoff tells us about the future of work",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "source": "TechCrunch",
+      "category": "business",
+      "summary_cs": [
+        "Devítiletý SaaS startup ClickUp propustil podle TechCrunche stovky zaměstnanců napříč podporou, marketingem a contentem.",
+        "Místo nich nasazuje vlastní agentní platformu Brain MAX, která má podle CEO Zeb Eviniho zvládat osmdesát procent rutinních interakcí se zákazníky.",
+        "Je to první významný případ, kdy SaaS firma otevřeně přiznává, že lidi vyměňuje za AI agenty místo aby šlo o tichou redukci."
+      ],
+      "why_matters": "Šablona, kterou budou ostatní SaaS firmy kopírovat, otevírá debatu o budoucnosti práce v softwaru."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Seznam Asistent se otevřel všem uživatelům, integruje se i do vyhledávání",
+      "title_orig": "Seznam rozšířil testování Seznam Asistenta, uživatelé na AI chatbota narazí i ve vyhledávání",
+      "url": "https://www.lupa.cz/aktuality/seznam-rozsiril-testovani-seznam-asistenta-uzivatele-na-ai-chatbota-narazi-i-ve-vyhledavani/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Seznam.cz otevřel beta verzi svého AI asistenta všem přihlášeným uživatelům, dosud byl jen pro vybranou skupinu testerů.",
+        "Asistent běží na vlastním modelu SeLLMa, který Seznam postavil nad open-source modely Meta a Mistral.",
+        "Nově se neobjeví jen jako samostatný chat, ale jako kontextová odpověď přímo v seznamovém vyhledávání, analogicky k Google AI Overview."
+      ],
+      "why_matters": "Český Seznam ukazuje, že lokální search engine si udrží relevanci jen s vlastním LLM."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Anthropic reaguje na encykliku papeže, spoluzakladatel Chris Olah vítá morální rámec pro AI",
+      "title_orig": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical 'Magnifica humanitas'",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Spoluzakladatel a šéf interpretability v Anthropicu Chris Olah napsal oficiální reakci na vatikánskou encykliku Magnifica Humanitas.",
+        "Olah souhlasí s důrazem na lidskou důstojnost a varuje, že AI laboratoře potřebují vnější etický kompas, nikoli jen interní policies.",
+        "Anthropic je v encyklice citován jmenovitě, podle Coreyho Quinna z Lasta Week in AI je to nejúčinnější lobbing v dějinách tech průmyslu."
+      ],
+      "why_matters": "Lab veřejně přijímá morální autoritu Vatikánu, signalizuje posun od interní samoregulace."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Z Prahy do San Francisca, český advokát říká: za pár let nás AI nahradí",
+      "title_orig": "Z Prahy odešel do San Francisca, nástup AI vidí z první řady. My advokáti za pár let nebudeme potřeba, říká",
+      "url": "https://cc.cz/z-prahy-odesel-do-san-francisca-nastup-ai-vidi-z-prvni-rady-my-advokati-za-par-let-nebudeme-potreba-rika/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Milo Poplar složil advokátské zkoušky v Česku i v Kalifornii a rok provozuje vlastní praxi v San Francisku.",
+        "Tvrdí, že rutinní právničinu jako review smluv a discovery dnes AI zvládá lépe a levněji než junior partner.",
+        "Predikuje, že stávající big law model se rozpadne během tří až pěti let a přežijí jen specialisté na složitý litigation."
+      ],
+      "why_matters": "Pohled od českého advokáta z první linie, kde se AI nasazuje na legal nejrychleji."
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenAI uzavřel obsahové partnerství s brazilskými Folha a UOL",
+      "title_orig": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI podepsalo strategickou dohodu s nejvlivnějšími brazilskými mediálními domy Folha de S.Paulo a UOL.",
+        "ChatGPT bude moci odpovídat na portugalsky pokládané dotazy s odkazem na ověřené brazilské zdroje a uvádět autora.",
+        "Dohoda navazuje na podobné kontrakty s Axel Springer, Le Monde, News Corp a Wall Street Journal, je první v Latinské Americe."
+      ],
+      "why_matters": "OpenAI buduje globální síť ověřených news partnerů, evropské licence vychází jako šablona."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Wired: AI startuje zbrojní závody v hledání softwarových zranitelností",
+      "title_orig": "The AI Era Is Creating a Bug Hunting Arms Race",
+      "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+      "source": "Wired",
+      "category": "news",
+      "summary_cs": [
+        "Útočníci využívají AI k automatickému zkoumání binárního kódu a hledání zranitelností řádově rychleji než lidský pentester.",
+        "Bug bounty platformy hlásí, že počet validovaných CVE letos vzrostl o 280 procent, většinu reportů generují AI agenti.",
+        "Obránci nasazují AI ve fuzzeru a v patch pipeline, ale článek upozorňuje, že útoky mají strukturální výhodu rychlosti."
+      ],
+      "why_matters": "Software security se stává plně AI versus AI hrou, firmy bez AI tooling rychle zaostávají."
+    },
+    {
+      "rank": 8,
+      "title_cs": "VentureBeat: prompt debt a evaluation debt tiše zvyšují enterprise AI riziko",
+      "title_orig": "Why prompt debt, retrieval debt, and evaluation debt are quietly reshaping enterprise AI risk",
+      "url": "https://venturebeat.com/technology/why-prompt-debt-retrieval-debt-and-evaluation-debt-are-quietly-reshaping-enterprise-ai-risk",
+      "source": "VentureBeat",
+      "category": "business",
+      "summary_cs": [
+        "Klasický technical debt rozšiřuje článek o tři nové vrstvy specifické pro AI: prompt debt, retrieval debt a evaluation debt.",
+        "Prompt debt vzniká nahromaděním ad-hoc instrukcí, retrieval debt zastaralými embeddingy a evaluation debt neudržovanými testy.",
+        "Autoři doporučují AI debt audit jednou za kvartál a explicitní owner pro každou z těchto vrstev."
+      ],
+      "why_matters": "Konkrétní pojmenování AI dluhů pomáhá CTO obhájit rozpočet na údržbu místo nového featurea."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Andy Jassy z Amazonu: AI nás neporazí, ale firma musí znovu fungovat jako startup",
+      "title_orig": "Věří lobbingu a kvůli kontaktům snědl 57 kuřecích křidélek. Nenápadný šéf Amazonu vzkazuje, že AI neporazíme",
+      "url": "https://cc.cz/veri-lobbingu-a-kvuli-kontaktum-snedl-57-kurecich-kridelek-nenapadny-sef-amazonu-vzkazuje-ze-ai-neporazime/",
+      "source": "CzechCrunch",
+      "category": "business",
+      "summary_cs": [
+        "Andy Jassy zdědil po Jeffu Bezosovi rozjetý Amazon a vyhlásil válku interní byrokracii pomocí AI agentů a plošného propouštění managementu.",
+        "Cíl je obnovit startupovou rychlost a snížit poměr manažerů ku individual contributors, který se podle Jassyho rozjel.",
+        "Profil popisuje i Jassyho lobbing v DC a jeho přístup k regulaci, který kontrastuje s Bezosovým drženým odstupem od politiky."
+      ],
+      "why_matters": "Druhý největší zaměstnavatel USA staví firemní transformaci kolem AI, šablona pro velké korporace."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Hugging Face vydal slovník agentních termínů, harness a scaffold přestávají být zaměnitelné",
+      "title_orig": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "source": "Hugging Face",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face zveřejnil slovník nejpoužívanějších agentních termínů a tlačí na sjednocení slovníku napříč labs.",
+        "Rozlišuje harness, scaffold, tool, runtime, agent loop a executor, každý jako samostatnou vrstvu s vlastní zodpovědností.",
+        "Argument je, že vágní pojmy maskují technický dluh i bezpečnostní díry v agentní orchestraci."
+      ],
+      "why_matters": "Sjednocený slovník pomáhá týmům lépe komunikovat architekturu a auditovat agentní systémy."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Simon Willison vydal datasette-agent 0.1a4 s interaktivní agent chat UI",
+      "title_orig": "datasette-agent 0.1a4",
+      "url": "https://simonwillison.net/2026/May/24/datasette-agent/",
+      "source": "Simon Willison's Weblog",
+      "category": "tools",
+      "summary_cs": [
+        "Plugin datasette-agent přidává do open-source Datasette interaktivní chat, který agent pouští přímo nad SQL daty.",
+        "Využívá nový hook makeJumpSections z Datasette 1.0a30, takže agent chat je dostupný přes klávesovou zkratku lomítka.",
+        "Vyzkoušet jde na agent.datasette.io po přihlášení přes GitHub, plugin si pamatuje per-database kontext."
+      ],
+      "why_matters": "Praktická šablona, jak připojit agenta nad libovolnou SQL databázi bez vlastního back-endu."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Ben's Bites: telefonní agenti jsou nová tichá vrstva customer service",
+      "title_orig": "Can I get my agents on the phone?",
+      "url": "https://www.bensbites.com/p/can-i-get-my-agents-on-the-phone",
+      "source": "Ben's Bites",
+      "category": "tools",
+      "summary_cs": [
+        "Newsletter mapuje firmy jako Sierra, Bland a Replicant, které nasazují AI agenty do telefonních linek místo IVR.",
+        "Hlavní změna oproti loňsku je rychlost odpovědi pod 400 ms a schopnost přepnout se na live operátora s plnou historií.",
+        "Autor argumentuje, že telefonní kanál tiše obejde chatbot fatigue, protože uživatel nepozná, že volá AI."
+      ],
+      "why_matters": "Voice agenti pronikají do mainstreamu customer service, dopad na call center industry je masivní."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Daytona hlásí 74 procent meziměsíční růst, agentní cloud zaplňuje díru po sandboxech",
+      "title_orig": "Giving Agents Computers - Ivan Burazin, Daytona",
+      "url": "https://www.latent.space/p/daytona",
+      "source": "Latent Space",
+      "category": "tools",
+      "summary_cs": [
+        "Daytona CEO Ivan Burazin v rozhovoru popisuje, jak firma roste 74 procent meziměsíčně a zvládá 850 tisíc denních agentních běhů.",
+        "Daytona staví bare-metal sandboxy pro AI agenty místo Docker kontejnerů, výhoda je rychlost startu pod 100 ms.",
+        "Burazin tvrdí, že RL evaluation workflow potřebuje izolovaný OS-level sandbox, ne kontejner, a to je nový tržní segment."
+      ],
+      "why_matters": "Infrastruktura pro spouštění agentů je vlastní kategorií, ne featura cloud providerů."
+    },
+    {
+      "rank": 14,
+      "title_cs": "OpenAI GPT-next vyvrátil 80 let starý Erdősův problém o jednotkových vzdálenostech",
+      "title_orig": "OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
+      "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+      "source": "Latent Space",
+      "category": "research",
+      "summary_cs": [
+        "Interní model OpenAI GPT-next zkonstruoval protipříklad k Erdősově hypotéze o maximálním počtu jednotkových vzdáleností v rovině.",
+        "Výpočet trval méně než tisíc dolarů GPU času, výsledek nezávisle ověřili dva matematici z Princeton a Cambridge.",
+        "Je to první široce přijatý matematický objev, kde primárním autorem důkazu je LLM, ne lidský matematik."
+      ],
+      "why_matters": "AI překračuje hranici od asistence k samostatnému matematickému objevu, dopad na akademii bude vážný."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Studie kvantifikuje redundanci v reasoning modelech, 40 procent řetězce myšlenek je zbytečné",
+      "title_orig": "How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning",
+      "url": "https://arxiv.org/abs/2605.23926",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Studie formalizuje pojem redundance v reasoning modelech a měří, kolik tokenů v chain-of-thought lze odstranit bez ztráty správnosti.",
+        "Na testech AIME a GPQA Diamond ukazuje, že 30 až 45 procent reasoning tokenů je redundance bez vlivu na výsledek.",
+        "Autoři navrhují tréninkovou techniku, která redundance srazí na 10 procent a zachová přesnost, úspora GPU času je dramatická."
+      ],
+      "why_matters": "Reasoning modely jsou drahé, identifikace redundance umožňuje rychlejší a levnější inferenci."
+    }
+  ]
+}

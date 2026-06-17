@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-28",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Cognition získává 1 miliardu dolarů, valuace vyletěla na 26 miliard",
+      "title_orig": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Tvůrce kódovacího agenta Devin uzavřel Series D za 1 miliardu dolarů s pre-money valuací 25 miliard, post-money tedy zhruba 26 miliard.",
+        "Roční tempo tržeb (ARR) firmy dosáhlo 492 milionů dolarů a za posledních osm měsíců se hodnota Cognition více než zdvojnásobila.",
+        "Růst potvrzuje, že AI kódování je jeden z prvních segmentů, kde se nadšení investorů opírá o reálné výdaje firem."
+      ],
+      "why_matters": "Coding agenti se stávají největší peněženkou enterprise AI a tlačí valuace rivalů jako Cursor a Replit."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Nvidia investuje 150 miliard ročně do Taiwanu, Trumpův plán na americký AI hub couvá",
+      "title_orig": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
+      "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
+      "source": "Ars Technica",
+      "category": "labs",
+      "summary_cs": [
+        "Jensen Huang oznámil roční investice Nvidie do Taiwanu ve výši 150 miliard dolarů s cílem udělat z ostrova epicentrum AI revoluce.",
+        "Krok je přímou odpovědí na nepředvídatelnou celní politiku Bílého domu, která měla čipovou výrobu přitáhnout zpět do USA.",
+        "Nvidia tím dál upevňuje pouto na TSMC a posiluje pozici Taiwanu jako geopoliticky nejcitlivějšího uzlu světové AI ekonomiky."
+      ],
+      "why_matters": "Pokud Taiwan zůstane středem výroby AI čipů, evropská a česká AI strategie se nemůže spoléhat na US dodavatele."
+    },
+    {
+      "rank": 3,
+      "title_cs": "MiniMax ukazuje model M3 se sparse attention a 15násobně rychlejší odezvou na dlouhý kontext",
+      "title_orig": "MiniMax teases upcoming M3 model with new sparse attention mechanism and 15.6X long-context response speed boost",
+      "url": "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Čínský MiniMax představil chystaný frontier model M3 s novým sparse attention mechanismem optimalizovaným pro dlouhé kontextové okno.",
+        "Společnost slibuje 15,6krát rychlejší odezvu u dlouhých vstupů, což z modelu dělá vážného kandidáta pro agentní úlohy s rozsáhlou pamětí.",
+        "MiniMax pokračuje ve strategii vydávat výkonné modely pod permissivní open-source licencí, čímž tlačí západní laboratoře k cenovým ústupkům."
+      ],
+      "why_matters": "Open-source frontier model z Číny dál stírá rozdíl mezi proprietárními a otevřenými modely v reálných nasazeních."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Cisco a OpenAI spojily síly, Codex automatizuje vývoj i opravy chyb",
+      "title_orig": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Cisco nasazuje OpenAI Codex jako jádro svého AI-native vývoje, od bezpečnostní platformy AI Defense po automatizovanou nápravu defektů.",
+        "Partnerství je dalším důkazem, že velké podniky přecházejí od izolovaných pilotů k celofiremnímu nasazení kódovacích agentů.",
+        "OpenAI tím staví Codex do role páteře enterprise vývoje a konkuruje GitHub Copilotu i Anthropic Claude Code přímo v korporátní vrstvě."
+      ],
+      "why_matters": "České korporace, které dlouho váhaly s GenAI v kódu, dostávají referenční use case od jednoho z nejkonzervativnějších gigantů."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Anthropic prý zamíří k prvnímu ziskovému kvartálu, enterprise účty za AI raketově rostou",
+      "title_orig": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "source": "Simon Willison's Weblog",
+      "category": "labs",
+      "summary_cs": [
+        "Simon Willison podle silných zákulisních informací očekává, že Anthropic v tomto kvartále poprvé skončí v zisku.",
+        "Firmy si stěžují, jak vysoké účty za API od OpenAI a Anthropic se hromadí na základě interního používání jejich zaměstnanci.",
+        "Willison to čte jako důkaz product-market fitu velkých laboratoří, na který trh dlouho čekal a který mění debatu o udržitelnosti AI."
+      ],
+      "why_matters": "Pokud AI laboratoře přestávají být peněžní bezednou jámou, posiluje to vyjednávací pozici dodavatelů vůči odběratelům."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Benchmark ITBench-AA ukázal, že frontier modely zvládnou méně než polovinu agentních enterprise IT úloh",
+      "title_orig": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "source": "Hugging Face Blog",
+      "category": "research",
+      "summary_cs": [
+        "Artificial Analysis a IBM Research představili první benchmark pro agentní úlohy v enterprise IT, jako jsou troubleshooting, deployment a incident response.",
+        "Žádný frontier model nepřekonal 50 procent úspěšnosti, což ostře kontrastuje s téměř saturovanými coding benchmarky typu SWE-bench.",
+        "Výsledky potvrzují, že generická inteligence modelů zatím nestačí na typický enterprise IT chaos s legacy systémy a nedotaženými runbooky."
+      ],
+      "why_matters": "Pro CIO je to varování: AI agent nenahradí seniorního ops inženýra, dokud nemá řádný kontext a procesy."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Reachy Mini se odpojuje od cloudu a běží plně lokálně",
+      "title_orig": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face představil novou verzi open-source robota Reachy Mini, který si konverzaci, rozpoznávání řeči i syntézu zvládne v offline režimu.",
+        "Celý hlasový stack běží na malém edge zařízení bez nutnosti připojení k cloudovým API, čímž odpadají i nájemné cloud poplatky.",
+        "Projekt ukazuje, kam směřuje vývoj open-source robotiky: laciný hardware plus on-device modely výrazně snižují bariéru vstupu."
+      ],
+      "why_matters": "Lokální robotika otevírá cestu citlivějším nasazením v domácnostech a veřejné správě, kde data nesmí opustit zařízení."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Ethan Mollick varuje: sociální sítě se mění v moře AI textů, které znějí stejně",
+      "title_orig": "Choosing to Stay Human",
+      "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+      "source": "One Useful Thing (Mollick)",
+      "category": "news",
+      "summary_cs": [
+        "Ethan Mollick popisuje, jak se feedy LinkedInu a X zaplňují příspěvky s podezřele identickým rytmem, hookem a strukturou.",
+        "Argumentuje, že hromadné použití AI generátorů homogenizuje veřejnou debatu a zabíjí osobitý styl, který odlišuje skutečné autory.",
+        "Mollick vyzývá tvůrce, aby vědomě nechávali ve svém obsahu lidské nedokonalosti, opakování a osobní hlas, jinak se ztratí v šumu."
+      ],
+      "why_matters": "Diferenciace značky se brzy stane otázkou autentičnosti, ne objemu, a důležitější bude kvalita než kvantita obsahu."
+    },
+    {
+      "rank": 9,
+      "title_cs": "ElevenLabs vydává hudební model, který umí měnit žánr uprostřed skladby",
+      "title_orig": "ElevenLabs' new music-generation model can switch genres mid-track",
+      "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Nový model od ElevenLabs umožňuje plynulý přechod mezi žánry v rámci jedné skladby, například z lo-fi do drum and bass.",
+        "Uživatelé mohou regenerovat pouze vybranou sekci songu, aniž by se změnily ostatní části, což výrazně zrychluje iteraci.",
+        "Funkce přibližuje hudební AI nástroje produkčnímu workflow tradičních DAW a oslabuje pozici konkurentů jako Suno a Udio."
+      ],
+      "why_matters": "Pro tvůrce reklamních spotů a podcastů to znamená vlastní soundtrack za zlomek ceny i času oproti licencovaným balíčkům."
+    },
+    {
+      "rank": 10,
+      "title_cs": "YouTube začne automaticky označovat AI videa, dosavadní samodisciplina tvůrců nestačila",
+      "title_orig": "YouTube to begin automatically labeling AI videos",
+      "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
+      "source": "Ars Technica",
+      "category": "tools",
+      "summary_cs": [
+        "YouTube nasazuje automatickou detekci a označování fotorealistických AI videí napříč běžným feedem i Shorts.",
+        "Štítky budou viditelnější než dosud, kdy záleželo na ochotě tvůrce přiznat, že video vzniklo s pomocí umělé inteligence.",
+        "Animované, nerealistické nebo jen mírně upravené AI klipy ale stále mohou své AI pozadí zatajit, takže detekce není kompletní."
+      ],
+      "why_matters": "Důvěryhodnost vizuálního obsahu na největší video platformě bude víc dělená do dvou viditelných košů."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Robinhood povolí AI agentům obchodovat akcie na samostatném účtu",
+      "title_orig": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Robinhood spustil funkci, ve které si trader může vytvořit samostatný účet, nahrát na něj limitovaný kapitál a předat ho AI agentovi.",
+        "Agent může číst a analyzovat portfolio, navrhovat strategie a fyzicky provádět nákupy a prodeje v rámci přidělené hotovosti.",
+        "Brokeři tím legalizují agentní trading pro retail, dosud doménu hedge fondů a vlastních quant desků."
+      ],
+      "why_matters": "Pro retailové investory v Česku to mění debatu o tom, kdy je nasazení autonomního AI v penězích regulatorně OK."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Illinois schválil nejtvrdší americký zákon o bezpečnosti AI, OpenAI a Anthropic musí na audit",
+      "title_orig": "Illinois Lawmakers Just Passed America's Strongest AI Safety Bill",
+      "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "source": "Wired AI",
+      "category": "business",
+      "summary_cs": [
+        "Stát Illinois schválil zákon, který OpenAI, Anthropic a Googlu nařizuje doložit prostřednictvím nezávislé třetí strany dodržování bezpečnostních standardů.",
+        "Guvernér JB Pritzker oznámil, že zákon podepíše, a Illinois se tím stává nejpřísnějším AI safety státem v USA.",
+        "Norma kopíruje principy z evropského AI Actu a otevírá precedens pro další americké státy, které řeší federální legislativní pat."
+      ],
+      "why_matters": "Pokud se model rozšíří, povinné audity AI poskytovatelů dorazí i k evropským firmám napojeným na US dodavatele."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Snowflake uzavřel s AWS pětiletou dohodu za 6 miliard dolarů na vlastní AI čipy",
+      "title_orig": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Snowflake si od Amazonu zajistil dodávky AI CPU čipů v hodnotě 6 miliard dolarů na pět let, primárně pro vlastní AI workload.",
+        "Smlouva výrazně posiluje pozici AWS Trainium a Graviton portfolia jako reálné alternativy k Nvidia GPU pro inferenci.",
+        "Nvidia je nepřímo upozorněna, že hyperscaleři budou tlačit na ceny tím, že hyperscale zákazníky přetahují na vlastní křemík."
+      ],
+      "why_matters": "Diverzifikace AI křemíku znamená nižší ceny pro nás všechny, kdo nakupujeme inferenci přes cloud."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Čína si stále silněji drží svůj nejlepší AI talent doma",
+      "title_orig": "China is increasingly keeping its best AI talent to itself",
+      "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "source": "TechCrunch AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Čínský AI boom produkuje špičkové výzkumníky, ale Peking je čím dál méně ochotný nechat je odejít do USA nebo Evropy.",
+        "Vláda kombinuje regulatorní tlak, vízová omezení i lukrativní domácí nabídky, aby udržela know-how doma.",
+        "Trend zužuje globální pool talentů, na který se laboratoře typu OpenAI, Anthropic a Google během posledních deseti let mohly spoléhat."
+      ],
+      "why_matters": "Tvrdší konkurence o seniorní AI inženýry se promítne i do mezd a fluktuace v Evropě a v Česku."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Vertu nabízí CEO AI foldable za 6 880 dolarů postavený na open-source projektu Hermes",
+      "title_orig": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "source": "TechCrunch AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Britská luxusní značka Vertu představila skládací telefon s integrovaným AI asistentem na open-source projektu Hermes a startovní cenou 6 880 dolarů.",
+        "Zařízení cílí na CEO a top management, kombinuje agentní workflow, enterprise integrace a ručně vyráběný design z luxusních materiálů.",
+        "Vertu sází na to, že vrcholný management bude ochoten zaplatit prémii za telefon, který nahradí asistentku, kalendář i schvalovací nástroje."
+      ],
+      "why_matters": "Luxusní AI hardware ukazuje, že agenti se stávají statusovým symbolem, ne jen produktivitní vychytávkou."
+    }
+  ]
+}

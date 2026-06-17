@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-24",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Google I/O 2026: Gemini 3.5 Flash, Omni pro video, Spark agenti a Antigravity 2.0",
+      "title_orig": "[AINews] Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
+      "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
+      "source": "Latent Space",
+      "category": "labs",
+      "summary_cs": [
+        "Google na I/O odhalil rychlejší Gemini 3.5 Flash, multimodální Omni model umějící generovat video stejně jako NanoBanana generuje obrázky, a sadu background agentů Spark.",
+        "Antigravity 2.0 přepisuje agentický IDE produkt na hlubší integraci s Geminim a kompletní orchestraci úloh přes terminál i prohlížeč.",
+        "Vývojářská konkurence proti OpenAI a Anthropicu se zostřuje, Google sází na vertikální integraci od TPU přes model až po nástroje."
+      ],
+      "why_matters": "Google urychluje agentickou éru a tlačí ceny i tempo iterací u všech velkých modelů dolů."
+    },
+    {
+      "rank": 2,
+      "title_cs": "DeepMind rozšiřuje SynthID a Content Credentials, chce udělat původ AI obsahu čitelným",
+      "title_orig": "Making it easier to understand how content was created and edited",
+      "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "source": "Google DeepMind Blog",
+      "category": "labs",
+      "summary_cs": [
+        "DeepMind propojuje SynthID watermark se standardem Content Credentials (C2PA), uživatelé v Google produktech uvidí, čím byl obsah upraven.",
+        "Detektor SynthID nově běží i na audiu a videu, integrace dorazí do Search, YouTube a Pixel kamerové aplikace.",
+        "Pohyb navazuje na páteční oznámení OpenAI o stejné iniciativě, hlavní laby konvergují k jedinému standardu pro proveniencii."
+      ],
+      "why_matters": "Standardizovaný proof of origin pomůže firmám i médiím odlišit AI obsah a snižuje právní riziko deepfake reklamy."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Virgin Atlantic přepsal mobilní aplikaci s pomocí Codexu, deadline a nula P1 chyb",
+      "title_orig": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Aerolinka přepsala mobilní aplikaci na pevný předvánoční deadline a do produkce ji dostala bez jediné kritické chyby.",
+        "Tým Codexem vygeneroval téměř kompletní pokrytí unit testy a refaktoring, který by jinak zabral celé kvartály.",
+        "OpenAI publikuje case study jako důkaz, že agent na kódování je už zralý pro safety-critical enterprise prostředí."
+      ],
+      "why_matters": "Aviation IT je konzervativní obor, úspěch potvrzuje, že Codex obstojí i v regulovaných prostředích."
+    },
+    {
+      "rank": 4,
+      "title_cs": "AdventHealth nasazuje ChatGPT for Healthcare napříč nemocnicemi a ulehčuje doktorům administrativu",
+      "title_orig": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Americký řetězec 50 nemocnic AdventHealth integruje ChatGPT for Healthcare do klinických workflow, vrací doktorům čas na pacienta.",
+        "Cíl je redukce dokumentační zátěže, kterou američtí lékaři uvádějí jako hlavní příčinu vyhoření.",
+        "OpenAI plánuje stejný produkt vertikalizovat i pro evropský trh, pilotní partneři ve Velké Británii startují příští kvartál."
+      ],
+      "why_matters": "Zdravotnictví je největší nevyřešený trh pro AI agenty, výsledky budou benchmark pro evropské poskytovatele."
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI for Singapore: multiletá AI aliance s vládou na talent, infrastrukturu i veřejné služby",
+      "title_orig": "Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI a singapurská vláda podepsaly multiletou alianci na nasazení AI ve veřejné správě, zdravotnictví a školství.",
+        "Součástí je budování lokálních datových center, sponzorovaný přístup k API pro malé firmy a stipendia pro studenty.",
+        "Včera Singapur oznámil podobnou dohodu s DeepMindem, město-stát se profiluje jako globální AI hub pro východní polokouli."
+      ],
+      "why_matters": "Vlády soutěží o frontier laby jako kdysi o investice automobilek, Česko zatím chybí na seznamu partnerů."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Reiner Pope o čipech od základu: proč GPU, TPU, FPGA a mozek vypadají jinak",
+      "title_orig": "Reiner Pope – Chip design from the bottom up",
+      "url": "https://www.dwarkesh.com/p/reiner-pope-2",
+      "source": "Dwarkesh Patel",
+      "category": "research",
+      "summary_cs": [
+        "Bývalý šéfinženýr MatX vysvětluje, proč jsou GPU, TPU, FPGA a lidský mozek architektonicky tak odlišné, jak se rozhoduje od logických hradel nahoru.",
+        "Interview pokrývá ekonomiku waferů, energetické rozpočty datacenter a proč specializace porazí škálování univerzálních čipů.",
+        "Vhodný background pro pochopení proč Cerebras, Groq nebo SambaNova rostou tak rychle a co bude další skok hardwaru."
+      ],
+      "why_matters": "Bez znalosti silicia se enterprise rozhodování o AI infrastruktuře dělá poslepu, tohle je nejlepší úvod letošního roku."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Hugging Face: specializace porazí škálování, firmy přeplácí za generalisty",
+      "title_orig": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "source": "Hugging Face Blog",
+      "category": "research",
+      "summary_cs": [
+        "Analytici z Hugging Face ukazují, že specializované 8B modely v doménách jako právo nebo medicína běžně porážejí GPT-5 a Claude Opus 4.7.",
+        "Procurement decision makers podle nich přehlížejí variabilní specializace a kupují drahé generalisty z reflexe značky.",
+        "Doporučují přístup model portfolio místo single vendor a publikují benchmarky pro pět vertikál včetně finanční analýzy."
+      ],
+      "why_matters": "Pro českou firmu může znamenat 10× nižší účet za API při lepší přesnosti, pokud zvolí správný open-source model."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Memory shortage začíná zdražovat spotřební elektroniku, HBM pro AI vytlačuje DDR i LPDDR",
+      "title_orig": "The memory shortage is causing a repricing of consumer electronics",
+      "url": "https://simonwillison.net/2026/May/22/memory-shortage/",
+      "source": "Simon Willison's Weblog",
+      "category": "research",
+      "summary_cs": [
+        "Tři výrobci pamětí dělí pevnou kapacitu waferů mezi DDR, LPDDR a HBM, podíl HBM letos vyletěl ze dvou na dvacet procent.",
+        "Jeden gigabyte HBM ukrojí třikrát víc kapacity než gigabyte DDR, AI hyperscalers vykupují všechno, na čem se dá vyrobit zisk.",
+        "Telefony, notebooky a herní konzole pod tisíc dolarů budou v příštích kvartálech znatelně dražší."
+      ],
+      "why_matters": "AI boom poprvé citelně promlouvá do nákupů koncových uživatelů, je čas plánovat IT obnovu s rezervou."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Studie: AI agenti potřebují terminál, ne vektorovou databázi, RAG selhává na přesných dotazech",
+      "title_orig": "Your AI agents need a terminal, not just a vector database",
+      "url": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
+      "source": "VentureBeat AI",
+      "category": "research",
+      "summary_cs": [
+        "Vědci z více univerzit představili Direct Corpus Interaction, agent obchází embedding vrstvu a hledá přímo přes shell nástroje.",
+        "Na benchmarcích s přesnými stringy, error kódy a verzemi DCI poráží klasický RAG s vyšší rekall a třikrát nižší latencí.",
+        "Implementace stojí na grep, ripgrep a SQL, takže běží lokálně bez vendor lock-in u vektorové databáze."
+      ],
+      "why_matters": "Mnoho enterprise RAG nasazení skončilo zklamáním, terminálový přístup nabízí cestu jak agenty oživit s minimem nákladů."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Railway: agent-native cloud, 100 tisíc signupů týdně a 200 tisíc dolarů měsíčně do AI kódování",
+      "title_orig": "Railway: The Agent-Native Cloud - Jake Cooper",
+      "url": "https://www.latent.space/p/railway",
+      "source": "Latent Space",
+      "category": "tools",
+      "summary_cs": [
+        "Jake Cooper popisuje, jak Railway přerostl 3 miliony uživatelů a 100 tisíc signupů týdně, hostí teď infrastrukturu pro AI agenty na vlastním železe.",
+        "Firma platí přes 200 tisíc dolarů měsíčně za vlastní AI coding tooling a interně už nepoužívá pull requesty.",
+        "Strategie vsadit na agent-friendly infrastrukturu místo lidských admin konzolí ukazuje, kam se posouvá dev experience."
+      ],
+      "why_matters": "Šablona, jak má vypadat moderní cloud pro agentické workflows, aplikovatelná i na české startupy a SaaS firmy."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Ferrari používá IBM Watson na výrobu superfanoušků Formule 1",
+      "title_orig": "Ferrari is using IBM's AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Scuderia Ferrari HP a IBM personalizují prožitek fanoušků pomocí Watsonx, generují live komentáře v deseti jazycích a doporučují merchandise.",
+        "Sportovní marketing testuje AI hlasy závodních legend, fan engagement metriky vzrostly podle Ferrari dvojnásobně.",
+        "IBM se vrací do AI hry přes vertikální partnerství v sportu, financích a healthcare, kde je důvěra značky důležitější než frontier modely."
+      ],
+      "why_matters": "Šablona AI fan engagementu, kterou české sportovní organizace jako Sparta nebo Slavia mohou kopírovat s lokální značkou."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Jak VC fondy nafukují ARR a korunují AI startupy, otevřená výzva metrikám",
+      "title_orig": "How VCs and founders use inflated 'ARR' to crown AI startups",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "AI startupy reportují ARR založené na jednorázových pilotních projektech a marketingových kreditech, investoři o tom ví.",
+        "Nafukování metriky pomáhá zvýšit valuaci v sekundárních prodejích a tlačí konkurenty do FOMO investic.",
+        "Některé fondy začínají zavádět vlastní normalizovanou ARR definici pro due diligence, transparentnost se zlepšuje pomalu."
+      ],
+      "why_matters": "České fondy a corporate VC by měly metodiku přejmout, jinak budou platit AI prémii za hype místo trakce."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Samsung dohodl s odbory pamětí roční bonusy 340 tisíc dolarů, stávka odvrácena",
+      "title_orig": "Samsung's memory chip employees negotiated $340,000 bonuses this year",
+      "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
+      "source": "The Verge AI",
+      "category": "business",
+      "summary_cs": [
+        "Samsung a jeho semiconductor odbory uzavřely tentative deal s průměrným ročním bonusem 340 tisíc dolarů pro klíčové zaměstnance.",
+        "18denní stávka byla odvolaná po tlaku vlády, výroba HBM pamětí pro Nvidii nebude přerušena.",
+        "Bonusy zhruba odpovídají roční mzdě, ukazují, jak moc závisí AI dodavatelský řetězec na malé skupině pracovníků fabů."
+      ],
+      "why_matters": "Talent v chip industry zdražuje rychleji než platy AI inženýrů, dopady poteku do cen GPU i memory."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Záliv má AI boom, ale jeho podmořské kabely AI provoz neunesou",
+      "title_orig": "The Gulf's AI Boom Has an Undersea Cable Problem",
+      "url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Hyperscalers tlačí státy Perského zálivu, aby přestavěly svou podmořskou kabelovou síť, AI provoz přepisuje kapacitní plánování o roky dopředu.",
+        "Geopolitické riziko sabotáže kabelů v napjatém regionu se násobí, jeden výpadek může vyřadit tréninkový kluster za miliardy.",
+        "OpenAI, Microsoft a G42 financují nové trasy přes Rudé moře a Indický oceán, aby diverzifikovaly závislost na jednom koridoru."
+      ],
+      "why_matters": "Geopolitika a AI se proplétají i v infrastruktuře, Evropa včetně Česka by měla řešit vlastní redundanci."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Literární svět není připraven na AI, prestižní cena Commonwealth dostala povídku napsanou modelem",
+      "title_orig": "The literary world isn't prepared for AI",
+      "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+      "source": "The Verge AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Magazín Granta publikoval povídku Jamira Nazira, která má všechny znaky AI generovaného textu, ocenění Commonwealth Short Story Prize tím dostalo trhlinu.",
+        "Editor Granta přiznal, že nemá nástroj na detekci AI prózy, soutěž zvažuje povinnou deklaraci modelu při přihlášce.",
+        "Případ otevírá širší debatu, zda jsou literární porotci schopni rozeznat lidský styl od stylu napodobujícího modely typu Claude nebo GPT."
+      ],
+      "why_matters": "Stejné dilema brzy zasáhne i české literární soutěže a redakce, detekce ani standardy zatím neexistují."
+    }
+  ]
+}

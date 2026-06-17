@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-29",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic vydává Claude Opus 4.8, 3x levnější fast mode a důraz na poctivost",
+      "title_orig": "Introducing Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Upgrade vlajkové třídy Opus s vyšším výkonem v kódování, agentických úlohách a profesní práci, cena v API zůstává stejná jako u 4.7.",
+        "Nový fast mode je třikrát levnější pro organizace s vyšší propustností a model je explicitně trénovaný přiznat, když si není jistý nebo když selhal.",
+        "Součástí vydání je nástroj Dynamic Workflows pro koordinaci rojů subagentů na dlouho běžících úlohách."
+      ],
+      "why_matters": "Posun v kvalitě i ceně tlačí na OpenAI a Google, agentické scaffoldy z Opus 4.7 by měly fungovat bez úprav."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic uzavřel Series H za 65 miliard dolarů, valuace 965 miliard se blíží bilionu",
+      "title_orig": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Series H za 65 miliard dolarů při post-money valuaci 965 miliard, podle TechCrunch zřejmě poslední privátní kolo před IPO.",
+        "Run-rate revenue od února vzrostl ze 4 na 47 miliard dolarů, tempo adopce ve firmách Anthropic označuje za ridiculous.",
+        "Anthropic se valuací prakticky srovnává s OpenAI a stává se největším private fundraisingem v historii."
+      ],
+      "why_matters": "Hotovost financuje compute deals a Opus 4.8, závodu o frontier modely Anthropic přestává chybět palivo."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Mistral spouští asistent Vibe, vstupuje do průmyslové AI a staví datacentrum u Paříže",
+      "title_orig": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
+      "url": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Na konferenci AI NOW Summit v Paříži Mistral oznámil expanzi do průmyslové výroby, nové inference datacentrum jižně od Paříže a rebranding asistenta na Vibe.",
+        "Firma má 1 000 zaměstnanců a cílí pro rok 2026 na 1 miliardu eur tržeb, tři roky po startu se 15 lidmi.",
+        "Strategie cílí na evropské firmy, které nechtějí citlivá data svěřovat americkým hyperscalerům, a kombinuje vlastní GPU clustery se simulacemi fyziky pro průmysl."
+      ],
+      "why_matters": "Pro evropské podniky včetně českých je Mistral první vážná on-shore alternativa k OpenAI a Anthropic."
+    },
+    {
+      "rank": 4,
+      "title_cs": "DeepSeek udělal 75% slevu V4 Pro trvalou, Silicon Valley pod cenovým tlakem",
+      "title_orig": "How DeepSeek's radical architecture is shattering Silicon Valley's token moat",
+      "url": "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat",
+      "source": "VentureBeat AI",
+      "category": "open-source",
+      "summary_cs": [
+        "DeepSeek V4 Pro je o víkendu napevno 7x levnější na vstupy a 17x levnější na výstupy než Claude Sonnet nebo GPT 5.5-Med, lehčí Flash podráží Claude Haiku 10 až 25x.",
+        "Výkon V4 Pro je srovnatelný s frontier modely Západu, 80,6 % na SWE-bench Verified a 87,5 na MMLU-Pro.",
+        "Cenu táhne dolů radikální cache architektura, hostovaná v Číně je cache-read 87x levnější než u západních cloudů, Xiaomi MiMo už ceny dorovnal."
+      ],
+      "why_matters": "Otevřená čínská alternativa tlačí marže labs dolů, pro nasazení v produkci přestává být cena bariéra."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Apple chce destilovat Gemini do iPhonu pro novou Siri",
+      "title_orig": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+      "source": "Ars Technica",
+      "category": "wildcard",
+      "summary_cs": [
+        "Apple pracuje na zmenšení Googlu Gemini s biliony parametrů tak, aby běžel přímo v iPhonu a poháněl přepracovanou Siri.",
+        "Plně lokální běh tak velkého modelu je nereálný, část výpočtu pravděpodobně poběží v cloudu.",
+        "Nová renderování iOS 27 ukazují Siri vizuálně blízkou ChatGPT s prvky Liquid Glass a samostatnou aplikaci Siri."
+      ],
+      "why_matters": "Apple poprvé veřejně přiznává, že vlastní modely nestačí, partnerství s Googlem mění mapu mobilní AI."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Figma Make získává obousměrnou integraci s GitHubem, designéři tlačí pull requesty",
+      "title_orig": "Figma Make's new two-way GitHub integration turns designs into live, production code",
+      "url": "https://venturebeat.com/technology/are-designers-the-new-swes-figma-makes-new-two-way-github-integration-turns-designs-into-live-production-code-with-built-in-governance",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Figma Make se mění z prototyping sandboxu na vizuální editor produkčního kódu napojený přímo na Git repozitáře.",
+        "Designéři a product manažeři importují repo, vizuálně editují kód na canvasu a změny odesílají standardním pull requestem.",
+        "Integrace nezhasuje firemní governance, změny prochází stejnou CI pipeline, code review a security checks jako commity inženýrů."
+      ],
+      "why_matters": "Boural se další zeď mezi designem a vývojem, méně handoffů znamená kratší cyklus od nápadu do produkce."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Microsoft 365 Copilot přepracován, dvakrát rychlejší a s čistším designem",
+      "title_orig": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Microsoft uvolňuje redesign Microsoft 365 Copilot s tvrzením, že prostředí se načítá dvakrát rychleji než dosud.",
+        "Odpovědi mají být spolehlivější a strukturovanější tak, aby šly snadno prolétnout očima.",
+        "Aktualizace se rolluje na desktopu i mobilu, dotýká se všech zákazníků platících za 365 Copilot."
+      ],
+      "why_matters": "Copilot je nejrozšířenější enterprise AI nástroj v Česku, rychlejší UX zvedne adopci u nerozhodnutých uživatelů."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Visa investuje do Replitu, chce pohánět agentické platby pro vývojáře",
+      "title_orig": "Visa invests in Replit to power agentic payments for developers",
+      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Visa se finančně účastní Replitu a chystá společnou vrstvu pro agentické platby, kdy nákupy iniciuje a potvrzuje AI agent jménem uživatele.",
+        "Vice než 1 000 zaměstnanců Visa už Replit používá pro prototypování a interní vývoj.",
+        "Pro vývojáře to znamená nativní volání platebních API z agentického workflow bez ručního lepení Stripe nebo Adyen."
+      ],
+      "why_matters": "Platební giganti se připravují na svět, kde nakupují agenti, ne lidé, a chtějí být u toho už při vzniku rails."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Glean překročil 300 milionů dolarů tržeb, hlavním tahákem je úspora AI rozpočtu",
+      "title_orig": "Glean's top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Enterprise AI search startup Glean ztrojnásobil roční tržby a překročil 300 milionů dolarů ARR.",
+        "Růst přichází navzdory tomu, že do kategorie vstoupili tech giganti s vlastními řešeními.",
+        "Hlavním argumentem prodejců je dnes konsolidace nákladů a snížení AI rozpočtu, ne nové funkce."
+      ],
+      "why_matters": "AI vendoři pivotují z fáze nadšení do fáze úspor, kupní rozhodování se přesouvá od CTO k CFO."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Sesame od zakladatelů Oculusu spouští iOS aplikaci, sází na přirozený hovor",
+      "title_orig": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Sesame, založený lidmi z Oculusu, vydal veřejnou iOS aplikaci s konverzačními AI agenty.",
+        "Rozhovor má být méně robotický a víc připomínat povídání s člověkem, s plynulým střídáním replik.",
+        "Aplikace je první veřejný produkt firmy po měsících uzavřeného testování s vybranými uživateli."
+      ],
+      "why_matters": "Voice AI vstupuje do mainstreamu, hlasoví asistenti od tech gigantů dostávají reálnou konkurenci."
+    },
+    {
+      "rank": 11,
+      "title_cs": "CNN žaluje Perplexity za doslovné kopírování článků",
+      "title_orig": "CNN sues Perplexity over verbatim copycat articles",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+      "source": "The Verge AI",
+      "category": "news",
+      "summary_cs": [
+        "CNN podal žalobu u newyorského soudu, tvrdí, že AI engine Perplexity generuje doslovné kopie jeho zpravodajských článků.",
+        "Žaloba dále tvrdí, že Perplexity zpřístupňuje obsah, který je za placeným paywallem CNN.",
+        "Žaloba navazuje na podobné kroky New York Times a Forbes proti jiným AI firmám a posiluje právní tlak na search-style AI nástroje."
+      ],
+      "why_matters": "Soudní rozhodnutí může předefinovat, co je fair use pro vyhledávací AI, dopad pocítí všichni AI assistantní."
+    },
+    {
+      "rank": 12,
+      "title_cs": "AutoTTS od Meta a Google ušetří 69,5 procenta tokenů bez ztráty přesnosti",
+      "title_orig": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5%",
+      "url": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5",
+      "source": "VentureBeat AI",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci z Meta, Google a několika univerzit představili framework AutoTTS, který automaticky objevuje optimální strategie test-time scalingu.",
+        "Místo ručně laděných heuristik AutoTTS dynamicky alokuje výpočet a v experimentech snížil spotřebu tokenů až o 69,5 procenta při zachované přesnosti.",
+        "Firmy mohou metodu nasadit přímo do produkce a srazit provozní náklady reasoning modelů bez výměny modelu samotného."
+      ],
+      "why_matters": "Konkrétní cesta, jak srazit účet za reasoning modely v produkci, aniž by se snížila kvalita výstupu."
+    },
+    {
+      "rank": 13,
+      "title_cs": "OpenAI publikoval Frontier Governance Framework pro soulad s regulacemi v EU a Kalifornii",
+      "title_orig": "OpenAI's Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zveřejnil dokument popisující své interní procesy pro bezpečnost, security a řízení rizik frontier modelů.",
+        "Framework je explicitně laděný na vznikající regulaci EU AI Act a kalifornský SB 53 a má sloužit jako šablona compliance reportingu.",
+        "Dokument navazuje na Anthropic Responsible Scaling Policy a Google DeepMind Frontier Safety Framework, vzniká faktický průmyslový standard."
+      ],
+      "why_matters": "EU AI Act se přibližuje plné účinnosti, frontier labs ukazují, jak chtějí být compliant bez zpomalení vývoje."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Anthropic otevírá pobočku v Miláně, cílí na italský enterprise trh",
+      "title_orig": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "url": "https://www.anthropic.com/news/milan-office-opening",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic otevřel kancelář v Miláně, která má podporovat italské firmy, výzkumníky a vývojáře.",
+        "Jde o druhou novou evropskou lokalitu v krátké době, po nedávných otevřeních v Soulu a dalších městech.",
+        "Pobočka má pomoci s lokálním enterprise sales, partnery a regulátory v rámci EU."
+      ],
+      "why_matters": "Anthropic přesouvá enterprise sales blíž k evropským zákazníkům, vlna lokalizace AI labs pokračuje."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Košík se napojuje do ChatGPT, čeká 15 procent objednávek od AI do roku 2030",
+      "title_orig": "Nákup na Košíku uděláte přímo v ChatGPT",
+      "url": "https://www.lupa.cz/aktuality/nakup-na-kosiku-udelate-primo-v-chatgpt-do-roku-2030-firma-ocekava-15-objednavek-od-ai/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Košík.cz je nově plně integrován do OpenAI Marketplace, zákazníci nakupují přímo v rozhraní ChatGPT bez opuštění chatu.",
+        "Integrace pokrývá login, vyhledávání produktů, manipulaci s košíkem, předvyplnění doručovacích údajů i odeslání objednávky.",
+        "Košík je první retailer z Česka a střední Evropy v ChatGPT a do roku 2030 očekává, že tudy poteče 15 procent objednávek."
+      ],
+      "why_matters": "Český e-commerce se učí prodávat AI agentům, ne jen lidem, Košík je prvním tuzemským případem."
+    }
+  ]
+}

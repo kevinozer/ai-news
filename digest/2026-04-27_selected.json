@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-27",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Sam Altman zveřejnil pět principů, které mají vést OpenAI cestou k AGI",
+      "title_orig": "Our principles",
+      "url": "https://openai.com/index/our-principles",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI publikuje pět zásad rámujících misi: technologická excelence, široký přínos, bezpečnost, svoboda uživatele a vědecký étos.",
+        "Sam Altman tím reaguje na rostoucí kritiku tempa nasazování modelů a snaží se zafixovat dlouhodobou strategii navenek i dovnitř firmy.",
+        "Dokument funguje jako ideologický rámec pro další uvolňování modelů řady GPT-5 i pro chystané strukturální změny v governance."
+      ],
+      "why_matters": "Manifest udává směr nejvlivnější AI laboratoře a nastavuje očekávání pro regulátory i konkurenci."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic rozšiřuje partnerství s Googlem a Broadcomem o gigawatty výpočetního výkonu",
+      "title_orig": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic si zajistil nové gigawatty výpočetní kapacity na čipech Googlu (TPU) a Broadcomu, čímž doplňuje stávající Trainium dohodu s Amazonem.",
+        "Diverzifikace dodavatelů snižuje závislost na Nvidii a posiluje vyjednávací pozici proti OpenAI a Microsoftu.",
+        "Náběh kapacity je rozložený do několika let a má pokrýt trénink i inference Claude Opus 5 a navazujících modelů."
+      ],
+      "why_matters": "Compute je nový petrolej AI éry; tato dohoda potvrzuje, že Anthropic hraje v té samé lize jako OpenAI."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Google DeepMind uzavřel partnerství s Korejskou republikou pro vědecký výzkum",
+      "title_orig": "Announcing our partnership with the Republic of Korea",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "source": "Google DeepMind Blog",
+      "category": "labs",
+      "summary_cs": [
+        "DeepMind a jihokorejská vláda spojují síly při urychlování vědeckých objevů s pomocí frontier AI modelů jako Gemini a AlphaFold.",
+        "Spolupráce zahrnuje sdílený výpočetní program pro univerzity, datové sety v oblasti biologie a polovodičů a stipendia pro doktorandy.",
+        "Korea se tak po Velké Británii a Spojených státech stává třetí klíčovou jurisdikcí, kde DeepMind staví dlouhodobé výzkumné zázemí."
+      ],
+      "why_matters": "Geopolitika AI se přesouvá k bilaterálním paktům mezi labs a státy; Evropa zatím chybí na seznamu."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Anthropic spouští Anthropic Institute pro výzkum dopadů AI na společnost",
+      "title_orig": "Introducing The Anthropic Institute",
+      "url": "https://www.anthropic.com/news/the-anthropic-institute",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Nový institut bude financovat externí akademický výzkum společenských, ekonomických a politických dopadů pokročilé AI.",
+        "Vznik koresponduje s expanzí Anthropicu mimo čisté modelování; institut bude operovat poloautonomně s vlastním boardem.",
+        "Mezi prvními projekty figuruje studium dopadů AI na trh práce, pracovní zátěž a odpovědnost firem za chování agentů."
+      ],
+      "why_matters": "Po létech, kdy AI labs odsouvaly společenský dopad, jdou peníze na nezávislý výzkum mimo komerční tlak."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Google DeepMind se spojuje s globálními poradenskými firmami pro nasazení AI v podnicích",
+      "title_orig": "Partnering with industry leaders to accelerate AI transformation",
+      "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+      "source": "Google DeepMind Blog",
+      "category": "labs",
+      "summary_cs": [
+        "DeepMind navazuje formální spolupráci s předními konzultantskými domy, aby integroval Gemini Enterprise do transformačních projektů u velkých klientů.",
+        "Partneři dostanou přednostní přístup k modelům, ladění a privátní inference v Google Cloudu výměnou za případové studie a feedback z reálných nasazení.",
+        "Krok přímo konkuruje strategii OpenAI, která spoléhá na Microsoft Azure a vlastní Workspace agenty, i Anthropicu s programem Claude Partner Network."
+      ],
+      "why_matters": "Frontier modely se stěhují z labs do enterprise stacku; vyhraje ten, kdo má nejlepší partnerský kanál."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Memanto: typovaná sémantická paměť pro agenty s dlouhým horizontem",
+      "title_orig": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2604.22085",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Autoři zavádějí explicitně typovanou paměťovou strukturu, kde agent nezapisuje volný text ale strukturované záznamy s rolí a kontextem.",
+        "Pro výběr relevantních paměťových položek používají kritérium z teorie informace, čímž omezují halucinace a prokluzy mezi sezeními.",
+        "V benchmarku víceseancových úloh model porazil baseline RAG i čistý kontextový buffer a zlepšil úspěšnost agentů o desítky procentních bodů."
+      ],
+      "why_matters": "Praktický recept pro paměť agentů, kteří mají žít týdny a měsíce, ne jen jeden chat."
+    },
+    {
+      "rank": 7,
+      "title_cs": "AgentSearchBench: nový benchmark měří, jak dobře AI agenti hledají na webu",
+      "title_orig": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+      "url": "https://arxiv.org/abs/2604.22436",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Benchmark měří agenty napříč reálnými úkoly typu rešerše, srovnání produktů a hledání odborných zdrojů, kde se hodnotí kvalita i náklady.",
+        "Test odhalil, že žádný současný agent nezvládá více než 60 procent úloh bez halucinací nebo nesmyslného procházení odkazů.",
+        "Autoři uvolnili kompletní harness a hodnotící protokoly tak, aby další modely byly přímo porovnatelné."
+      ],
+      "why_matters": "Web agenti začínají nahrazovat tradiční vyhledávání a teď máme nástroj, jak je tvrdě měřit."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Nový řídicí software učí roboty rozpoznat hranice vlastních kloubů",
+      "title_orig": "New robotic control software avoids jamming their joints",
+      "url": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
+      "source": "Ars Technica",
+      "category": "research",
+      "summary_cs": [
+        "Algoritmus z laboratoře Cornell University umožňuje robotům učit se kinematická omezení svého těla bez závislosti na konkrétním hardware.",
+        "Roboti si tak mohou předávat dovednosti i mezi modely od různých výrobců, aniž by se zaseknuli nebo poškodili kloubové mechanismy.",
+        "Pilotní testy proběhly na tříprstých rukou a robotických pažích, kdy systém významně snížil výskyt mechanických chyb."
+      ],
+      "why_matters": "Sdílené učení napříč hardwarovými platformami může urychlit nástup robotů z laboratoří do skladů a domácností."
+    },
+    {
+      "rank": 9,
+      "title_cs": "OpenAI vydává návod, jak Codex automaticky spouští reporty a opakované workflow",
+      "title_orig": "Automations",
+      "url": "https://openai.com/academy/codex-automations",
+      "source": "OpenAI Blog",
+      "category": "tools",
+      "summary_cs": [
+        "Codex teď podporuje plánované úlohy a triggery, takže může každé ráno připravit shrnutí, dashboard nebo report bez zásahu uživatele.",
+        "Ve workflow lze řetězit volání nástrojů, plug-iny a soubory; OpenAI ukazuje recept na denní news brief i kontrolu finančních dat.",
+        "Funkce běží na účtech ChatGPT Plus a Business a postupně se rozšíří i do Enterprise tarifu."
+      ],
+      "why_matters": "Z chatu se stává plnohodnotná pracovní automatizace; konkurence pro Zapier a custom skripty."
+    },
+    {
+      "rank": 10,
+      "title_cs": "OpenAI Codex umí pluginy a skilly: rozšiřitelná knihovna pro repeatabilní úlohy",
+      "title_orig": "Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "source": "OpenAI Blog",
+      "category": "tools",
+      "summary_cs": [
+        "Codex přebírá architekturu pluginů a skillů, pomocí níž připojí externí nástroje, datové zdroje nebo firemní aplikace.",
+        "Skilly jsou znovupoužitelné mikropostupy; OpenAI nabízí připravené šablony pro psaní mailů, generování dokumentace i tvorbu reportů.",
+        "Vývojáři mohou vlastní skilly publikovat v interní knihovně organizace a sdílet je napříč týmem."
+      ],
+      "why_matters": "Stejný koncept zná Anthropic Skills i Cowork; standard se rýsuje, kdo na něm postaví ekosystém získá miliony uživatelů."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Syntetická publika nahrazují průzkumy trhu a vyhrožují konzultačnímu byznysu",
+      "title_orig": "AI synthetic audiences are already here and poised to upend the consulting industry",
+      "url": "https://venturebeat.com/technology/ai-synthetic-audiences-are-already-here-and-poised-to-upend-the-consulting-industry",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "summary_cs": [
+        "Startupy budují digitální dvojníky cílových skupin, které lze dotazovat během minut místo týdnů kvalitativního výzkumu.",
+        "Přesnost zatím nedosahuje klasických metod, ale cena a rychlost jsou natolik atraktivní, že firmy jako Unilever je už zařazují do mixu.",
+        "Konzultanti z McKinsey, Nielsen a Gartner reagují vlastními syntetickými nástroji, aby si udrželi pozici v marketingovém výzkumu."
+      ],
+      "why_matters": "Když se průzkumy trhu udělají AI nástrojem za zlomek ceny, zatřese to s celým výzkumným odvětvím."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Tichá selhání AI v provozu: kontextové vyšumění a ztráta orchestrace",
+      "title_orig": "Context decay, orchestration drift, and the rise of silent failures in AI systems",
+      "url": "https://venturebeat.com/infrastructure/context-decay-orchestration-drift-and-the-rise-of-silent-failures-in-ai-systems",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "summary_cs": [
+        "Autoři ukazují, že nejdražší produkční selhání AI nehlásí žádný alarm; systém běží, ale dává konzistentně špatné odpovědi.",
+        "Příčinou jsou postupně se rozpadající kontext, drift v orchestraci a chybějící monitoring na úrovni dat a integrací.",
+        "Doporučují přidat trasování průchodu zprávy, kontrolu kontextové ucelenosti a denní audit poměru správně dokončených úloh."
+      ],
+      "why_matters": "Spolehlivost je hlavní brzda pro nasazení agentů ve výrobě; bez měření drifty firmy nikdy do produkce nepustí."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Guvernér Maine vetoval moratorium na výstavbu datových center",
+      "title_orig": "Maine's governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "summary_cs": [
+        "Návrh L.D. 307 by byl prvním celostátním zákazem nových datacenter v USA, platným do listopadu 2027.",
+        "Guvernér zákon vetoval s odůvodněním, že stát potřebuje investice a daňové příjmy, které datacentra přinesou.",
+        "Zákonodárci mohou veto přehlasovat, ale chybí jim většina; debata o dopadu AI infrastruktury na vodu a sítě však pokračuje."
+      ],
+      "why_matters": "Datacentra pro AI začínají narážet na lokální politické odpory; podobné spory čekají i Evropu a ČR."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Meta uzavřela smlouvu na vesmírnou solární energii pro datacentra",
+      "title_orig": "Meta inks deal for solar power at night, beamed from space",
+      "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "source": "TechCrunch AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Meta se zavázala odebrat budoucí kapacitu od startupu Overview Energy, který chce vyzařovat solární energii z orbity i v noci.",
+        "Jde zatím o malou pilotní smlouvu, ale jasně signalizuje hlad hyperscalerů po nestandardních zdrojích nepřetržité energie.",
+        "Komerční dostupnost vesmírné solární energie je v horizontu druhé poloviny dekády a vyžaduje nové frekvence i regulaci."
+      ],
+      "why_matters": "Spotřeba AI roste rychleji než výkon sítě; Big Tech sahá po zdrojích, které ještě před pěti lety patřily do sci-fi."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Český e-shop Ovečkárna se proměňuje s AI: zakladatel staví novou značku OlaOla",
+      "title_orig": "Stvořil stamilionový e-shop a chtěl to zopakovat s dalším, ale narazil. S nástupem AI se hodně změnilo, říká",
+      "url": "https://cc.cz/prvni-e-shop-prodal-za-stamiliony-a-chtel-to-zopakovat-ale-narazil-s-nastupem-ai-se-vsechno-zmenilo-rika/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Martin Bernátek, otec stamilionového e-shopu Ovečkárna, popisuje, jak se prostředí pro online retail úplně změnilo s nástupem generativní AI.",
+        "Druhá vlna projektu OlaOla má těžit z personalizace, automatizovaného obsahu a logistiky řízené modely jazyka.",
+        "Bernátek varuje, že českým e-shopům ujíždí vlak, pokud nezačnou AI brát jako samozřejmost a ne jako nadstavbu."
+      ],
+      "why_matters": "Konkrétní český příběh ukazuje, že AI tlak na e-commerce už není teorie z USA; dotýká se každého obchodu."
+    }
+  ]
+}

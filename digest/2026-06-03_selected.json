@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-03",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Microsoft uvedl svůj první pokročilý uvažovací model MAI-Thinking-1",
+      "title_orig": "Microsoft's first advanced reasoning AI is here",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "source": "The Verge AI",
+      "category": "labs",
+      "summary_cs": [
+        "Na konferenci Build 2026 Microsoft představil vlastní vlajkový model MAI-Thinking-1 a další modely z rodiny MAI.",
+        "Je to zásadní krok k nezávislosti na OpenAI, na jehož modelech Microsoft dlouho stavěl většinu svých produktů.",
+        "Obě firmy nedávno přejednaly svou dohodu a uvolnily vzájemné vazby, Microsoft tak zrychluje vlastní vývoj modelů."
+      ],
+      "why_matters": "Microsoft přestává být závislý na OpenAI, což přeskupuje síly mezi největšími hráči v AI."
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI rozšiřuje Codex o nástroje pro kancelářské profese",
+      "title_orig": "OpenAI launches new Codex tools for white-collar work",
+      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI vydalo šest rozšíření Codexu mířených na konkrétní profese, od datové analytiky po investiční bankovnictví.",
+        "Každé rozšíření spojuje integrace, instrukce a kontext tak, aby Codex zvládl roli daného pracovníka.",
+        "Mezi pokrytými obory jsou i kreativní produkce, prodej, návrh produktů a kapitálové investice."
+      ],
+      "why_matters": "AI agenti se posouvají z vývojářského terminálu do běžné kancelářské práce napříč obory."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Alibaba vydala levný multimodální model Qwen3.7-Plus",
+      "title_orig": "Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost",
+      "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Nový model zvládá vstupy textu, videa i obrázků a stojí kolem 0,4 a 1,6 dolaru za milion tokenů.",
+        "Oproti předchozímu modelu Qwen3.7-Max jen pro text je provoz zhruba o 60 procent levnější.",
+        "Na rozdíl od dřívějších otevřených modelů Qwenu je tato verze dostupná jen pod uzavřenou komerční licencí."
+      ],
+      "why_matters": "Čínský model tlačí ceny multimodální AI dolů a zostřuje konkurenci západním laboratořím."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Microsoft Scout je nový AI asistent postavený na OpenClaw",
+      "title_orig": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+      "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Scout je nepřetržitě běžící asistent, který se napojuje na aplikace Microsoft 365 jako Outlook, OneDrive a Teams.",
+        "Firmy mohou každému zaměstnanci přidělit virtuálního pomocníka pro správu kalendáře, výkazy nákladů i koncepty e-mailů.",
+        "Na rozdíl od Copilota, který žije uvnitř aplikací, funguje Scout jako samostatný agent vedle uživatele."
+      ],
+      "why_matters": "Microsoft i Google staví agenty, kteří mají nahradit rutinní kancelářskou práci, ne jen radit."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Google nasazuje detekci podvodných hovorů proti AI deepfake podvodům",
+      "title_orig": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Podvodníci stále častěji podvrhují důvěryhodná telefonní čísla a pomocí AI napodobují hlasy autorit nebo příbuzných.",
+        "Nová funkce v telefonu od Googlu má tyto falešné hovory rozpoznat a uživatele před nimi varovat.",
+        "Spouští se jako součást červnové aktualizace Androidu spolu s dalšími prvky proti podvodům."
+      ],
+      "why_matters": "Hlasové deepfake podvody rostou a obrana se přesouvá přímo do telefonů běžných uživatelů."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Trump podepsal mírnější nařízení o dohledu nad AI po námitkách firem",
+      "title_orig": "Trump signs narrower executive order on AI oversight after industry objections",
+      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Po námitkách technologického průmyslu podepsal prezident Trump zmírněnou verzi nařízení o dohledu nad AI.",
+        "Nová podoba vyžaduje pouze dobrovolné předběžné vládní kontroly nejpokročilejších modelů před jejich vydáním.",
+        "Původně širší návrh narazil na odpor firem, které se obávaly přísnější regulace vývoje."
+      ],
+      "why_matters": "Americká regulace AI se vyjasňuje a ovlivní pravidla i pro firmy mimo USA."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Fanoušci na Redditu používají AI, aby zlomili předražené ceny lístků na MS",
+      "title_orig": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
+      "url": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Fotbaloví fanoušci na komunitě r/WorldCup2026Tickets si pomocí Claude staví vlastní software na nákup lístků.",
+        "Domlouvají se přes vedlejší kanály a překupníkům tím komplikují jejich obchody.",
+        "Ukazuje to, jak běžní lidé bez programátorského zázemí dnes nasazují AI proti firmám i spekulantům."
+      ],
+      "why_matters": "AI dává obyčejným lidem nástroje, kterými mohou čelit překupníkům a předraženým službám."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Microsoft uvedl MXC, sandbox na úrovni systému pro AI agenty",
+      "title_orig": "Microsoft launches MXC, an OS-level sandbox for AI agents",
+      "url": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "MXC je bezpečnostní vrstva přímo v operačním systému, která má hlídat, co smí AI agenti na počítači dělat.",
+        "Microsoft tím reaguje na obavy bezpečnostních šéfů z toho, co se stane, když agent jedná příliš samostatně.",
+        "Na platformu se podle Microsoftu hned zapojily i OpenAI a Nvidia."
+      ],
+      "why_matters": "Bezpečné ohraničení agentů je podmínkou, aby je firmy vůbec mohly nasadit do provozu."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Perplexity ukázalo hybridní systém běhu AI mezi zařízením a cloudem",
+      "title_orig": "Perplexity AI unveils hybrid local-cloud inference system at Computex 2026",
+      "url": "https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Na veletrhu Computex 2026 představil vyhledávací startup Perplexity software, který sám rozhoduje, kde AI poběží.",
+        "V reálném čase a uprostřed úkolu volí, co zůstane na zařízení uživatele a co se pošle do cloudu.",
+        "Firma, oceněná na 20 miliard dolarů, to popisuje jako první orchestrátor svého druhu."
+      ],
+      "why_matters": "Chytré dělení práce mezi zařízení a cloud může zlevnit a zrychlit běžné používání AI."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Kyberbezpečnostní firma Cyera míří na ocenění 12 miliard dolarů",
+      "title_orig": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Cyera se blíží k získání zhruba 300 milionů dolarů v kole vedeném fondem Evolution Equity Partners.",
+        "Ocenění odpovídá osmdesátinásobku ročních tržeb, a to navzdory provozní ztrátě firmy.",
+        "Vysoký násobek ukazuje, jak velké sázky investoři dělají na AI v oblasti datové bezpečnosti."
+      ],
+      "why_matters": "Extrémní ocenění napovídají, kam míří investoři a kde se nafukují očekávání kolem AI."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Holo3.1 přináší rychlé agenty pro ovládání počítače běžící lokálně",
+      "title_orig": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Holo3.1 je sada modelů, které dokážou ovládat počítač a běžet rychle přímo na zařízení uživatele.",
+        "Cílí na agenty, kteří klikají, vyplňují formuláře a obsluhují aplikace bez nutnosti posílat data do cloudu.",
+        "Jako otevřený projekt na Hugging Face je dostupný vývojářům k vlastnímu nasazení a úpravám."
+      ],
+      "why_matters": "Lokální agenti pro ovládání počítače znamenají nižší náklady a lepší soukromí dat."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Studie zkoumá, kdy delší uvažování modelům spíš škodí",
+      "title_orig": "Thinking Past the Answer: Evaluating Harmful Overthinking in Large Reasoning Models",
+      "url": "https://arxiv.org/abs/2606.02835",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Uvažovací modely zlepšují výsledky tím, že generují delší řetězce mezikroků, ale delší úvaha není vždy lepší.",
+        "Autoři zkoumají takzvané přemýšlení navíc, kdy model po nalezení správné odpovědi pokračuje a zhorší ji.",
+        "Práce navrhuje, jak tento škodlivý jev měřit a odlišit užitečné uvažování od zbytečného."
+      ],
+      "why_matters": "Delší uvažování modelů stojí výpočetní výkon i peníze, a ne vždy se vyplatí."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Martin Scorsese se nečekaně stal hollywoodským hlasem pro AI",
+      "title_orig": "Martin Scorsese becomes the latest and most unlikely Hollywood voice for AI",
+      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "source": "TechCrunch AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Jeden z nejslavnějších žijících režisérů se překvapivě vyjádřil ve prospěch využití AI při tvorbě filmů.",
+        "Zásadní výhradou je, že technologii podle svých slov používá výhradně na přípravu storyboardů.",
+        "Jeho postoj kontrastuje s častou nedůvěrou Hollywoodu vůči generativní AI."
+      ],
+      "why_matters": "Postoj uznávaného tvůrce může zmírnit odpor k AI v kreativních oborech."
+    },
+    {
+      "rank": 14,
+      "title_cs": "DuckDuckGo zpřístupnil vyhledávání bez AI, jeho návštěvnost roste",
+      "title_orig": "DuckDuckGo makes its no-AI search engine easier to access as its traffic booms",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Vyhledávač DuckDuckGo spustil rozšíření pro Chrome a Firefox, která usnadňují přepnutí do režimu bez AI.",
+        "Reaguje tím na rostoucí skupinu uživatelů, kteří nechtějí ve výsledcích vyhledávání AI shrnutí.",
+        "Firma uvádí, že její návštěvnost díky tomuto přístupu výrazně roste."
+      ],
+      "why_matters": "Část uživatelů AI ve vyhledávání odmítá, což otevírá prostor pro alternativy."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Výzkum měří skryté náklady, když kódovací agent přebírá rozdělanou práci",
+      "title_orig": "Handoff Debt: The Rediscovery Cost When Coding Agents Take Over Interrupted Tasks",
+      "url": "https://arxiv.org/abs/2606.02875",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Běžné testy kódovacích agentů předpokládají, že jeden agent vyřeší úkol bez přerušení od začátku do konce.",
+        "Reálná práce je ale roztříštěná, úkoly se přerušují, předávají a navazují na rozdělaný stav od jiného.",
+        "Autoři zavádějí pojem náklad předání, tedy cenu za to, že agent musí znovu pochopit, co už bylo uděláno."
+      ],
+      "why_matters": "Ukazuje slabinu agentů v týmové práci, kterou běžné testy zcela přehlížejí."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-20",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Google vydává Gemini 3.5, model je postavený na akce a agentické workflows",
+      "title_orig": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+      "source": "Google DeepMind Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Nová vlajková rodina Gemini 3.5 má zvládat dlouhé agentické workflows, ne jen odpovídat na otázky, varianta Flash cílí na náklady a Pro na složitější reasoning.",
+        "Google tvrdí, že enterprise zákazníci ušetří díky Flash modelu více než miliardu dolarů ročně oproti starým instancím GPT.",
+        "Model je dostupný v Gemini aplikaci, AI Studiu a Vertexu okamžitě, na ChromeOS a Android přijde přes Spark agent v následujících týdnech."
+      ],
+      "why_matters": "Závod o agenty se přesouvá z chatbotů na akci a Google chce být první, kdo to dostane do produkce."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Karpathy odchází z OpenAI do Anthropicu, posiluje pre-training tým za Claude",
+      "title_orig": "OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Spoluzakladatel OpenAI a bývalý šéf AI v Tesle Andrej Karpathy přestupuje do Anthropicu, kde bude pracovat na pre-trainingu Claude modelů.",
+        "Pre-training je nejdražší a výpočetně nejnáročnější fáze stavby foundation modelu, dává modelu základní znalosti a schopnosti.",
+        "Karpathy v posledních dvou letech provozoval vzdělávací projekt Eureka Labs a publikoval kurzy o tvorbě LLM od nuly."
+      ],
+      "why_matters": "Tahle akvizice talentu posouvá rovnováhu sil v top lize a říká, že pre-training je stále otevřená výzkumná fronta."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Gemini Omni dělá any-to-any, vstup i výstup kombinuje text, obraz, video a zvuk",
+      "title_orig": "Introducing Gemini Omni",
+      "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "source": "Google DeepMind Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Gemini Omni je nový multimodální model, který zpracovává a generuje kombinace textu, obrázků, zvuku a videa v jednom kroku.",
+        "Funguje na podobné architektuře jako NanoBanana, ale rozšiřuje výstupy o krátké video sekvence a synchronizovaný zvuk.",
+        "Dostupný je přes API a v AI Studiu, Google ho propaguje jako základ pro generativní marketing, e-learning a kreativní nástroje."
+      ],
+      "why_matters": "Hranice mezi textovým, obrazovým a video modelem mizí, marketing a tvůrci budou pracovat s jedním rozhraním."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Gemini Spark je 24/7 agentický asistent, propojuje Gmail, kalendář a externí služby",
+      "title_orig": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
+      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Spark je nový osobní agent postavený na Gemini modelech a agentickém harnessu z Google Antigravity, běží na pozadí a sleduje vaši inbox i kalendář.",
+        "Umí navrhovat odpovědi, plánovat schůzky, hlídat objednávky a později má i autonomně utrácet z napojené karty přes Universal Cart.",
+        "Google ho pozicionuje proti ChatGPT Pulse, Claude Computer Use a chystaným agentům z Microsoft Copilot rodiny."
+      ],
+      "why_matters": "Boj o background agenty začíná, ten kdo bude mít přístup k inboxu uživatele, vyhraje další éru asistentů."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Claude agenti se konečně bezpečně připojí k firemním API, Anthropic řeší úniky tokenů",
+      "title_orig": "Claude agents can finally connect to enterprise APIs without leaking credentials",
+      "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic přidává do Claude Managed Agents dvě nové schopnosti, self-hosted sandboxy a MCP tunely, které řeší hlavní brzdu agentů v enterprise.",
+        "Dosud agenti při volání nástrojů přenášeli autentizační tokeny s sebou, což znamená, že kompromitovaný agent uniknul i s klíči k interním systémům.",
+        "Nově běží tool execution uvnitř firemního perimetru a agenti se k privátním MCP serverům připojují bez expozice credentialů."
+      ],
+      "why_matters": "Bez tohohle by firmy nedostaly agenty přes bezpečnostní audit, Anthropic odblokoval jeden z hlavních enterprise bloků."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Antigravity 2.0 přidává desktop aplikaci a CLI nástroj pro agentické kódování",
+      "title_orig": "Introducing Google Antigravity 2.0",
+      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "source": "Google DeepMind Blog",
+      "category": "tools",
+      "summary_cs": [
+        "Antigravity je Googlí prostředí pro agentické kódování postavené nad Gemini 3.5, druhá verze přidává nativní desktop aplikaci a CLI nástroj.",
+        "Spark agent i Gemini Code Assist sdílejí stejný agentický harness, takže workflow z webu lze pustit lokálně bez přepisu.",
+        "Google takhle míří přímo proti Claude Code, Cursor Composer a Codex pipeline z OpenAI."
+      ],
+      "why_matters": "Agentické kódování je nejostřejší vývojářský trh roku a Google chce vytlačit Cursor i Claude Code z denního workflow."
+    },
+    {
+      "rank": 7,
+      "title_cs": "SynthID se stává průmyslovým standardem, vodoznak přijímá OpenAI, Nvidia i Adobe",
+      "title_orig": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
+      "url": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+      "source": "Ars Technica",
+      "category": "labs",
+      "summary_cs": [
+        "Google otevírá SynthID, neviditelný vodoznak pro AI obsah, ostatním labům a OpenAI s Nvidií ho nasadí do svých obrazových a video modelů.",
+        "Současně OpenAI zveřejnil vlastní detekční nástroj, který umí ověřit, zda obrázek pochází z DALL-E nebo Sora pipeline.",
+        "Vodoznak má fungovat na úrovni pixelu, přežít kompresi, ořez i mírnou úpravu a nezviditelňovat se lidskému oku."
+      ],
+      "why_matters": "Provenance AI obsahu se posouvá z marketingu k reálné technologii, novináři a fact-checkeři dostanou nástroj proti slop."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Projekt Genie nově simuluje skutečná místa, vstupní obrazem je Street View",
+      "title_orig": "Simulate real-world places with Project Genie and Street View",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "source": "Google DeepMind Blog",
+      "category": "research",
+      "summary_cs": [
+        "Genie 3 z DeepMind umí z jediné fotky postavit interaktivní 3D simulaci, nově přijímá jako vstup snímky ze Street View.",
+        "Uživatel si může z procházky po Praze otevřít stejnou ulici v interaktivní simulaci, kde po ní jezdí auto nebo lze testovat robotické scénáře.",
+        "Funkce je dostupná globálně v plánu Google AI Ultra a primárně cílí na vývojáře robotiky, herního designu a urbanismus."
+      ],
+      "why_matters": "World models opouštějí výzkumné laboratoře a stávají se nástrojem pro trénink robotů a simulaci měst."
+    },
+    {
+      "rank": 9,
+      "title_cs": "AWS kupuje fal, generativní mediální startup se stává preferovaným AWS partnerem",
+      "title_orig": "AWS nabs white hot gen AI media creation startup fal, becoming its preferred cloud provider",
+      "url": "https://venturebeat.com/infrastructure/aws-nabs-white-hot-gen-ai-media-creation-startup-fal-becoming-its-preferred-cloud-provider",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "summary_cs": [
+        "Fal provozuje platformu pro běh stovek obrazových, video a audio modelů a má 2,5 milionu vývojářů, AWS si ho zajistil za nezveřejněnou částku.",
+        "Pro AWS to je vlajka pro multimedia inference, dosud zaostával za Google Vertex AI a Azure AI Foundry, fal mu dává okamžitě široký katalog.",
+        "Fal zůstává multi-cloud, ale primární běh přesouvá na AWS, kde má speciální GPU kapacitu pro real-time renderování pixelů."
+      ],
+      "why_matters": "Cloudoví hyperscaleři si rozebírají mediální gen AI vrstvu, příští velký souboj se odehraje mimo text."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Google AI Studio umí vibe-codovat nativní Android aplikaci za pár minut",
+      "title_orig": "Google's AI Studio now lets anyone build Android apps in minutes",
+      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "AI Studio přibyly webové nástroje, které z textového zadání vygenerují plnohodnotnou Android aplikaci včetně UI, navigace a napojení na API.",
+        "Aplikace se rovnou exportuje jako Android Studio projekt, takže ji vývojář může převzít a doladit, Google souběžně vydává Android CLI.",
+        "Cílovkou je nová vlna no-code i citizen developerů, kteří chtějí mobilní aplikaci bez znalosti Kotlinu nebo Jetpack Compose."
+      ],
+      "why_matters": "Vibe coding přechází z webu na mobil, kde dosud žádný velký AI hráč nedominoval a Apple zatím mlčí."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Ettin Reranker je nová open-source rodina rerank modelů od ColBERT týmu",
+      "title_orig": "Introducing the Ettin Reranker Family",
+      "url": "https://huggingface.co/blog/ettin-reranker",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Ettin Reranker je open-source rodina cross-encoder modelů pro rerank kroky v retrieval pipeline, velikost od 100M do 1B parametrů.",
+        "Modely cílí na latency a nasazení v RAG a context architecture, kde po vektorovém vyhledávání následuje přesnější skórování.",
+        "Autorský tým slibuje konkurenceschopnou kvalitu s proprietárními rerankery od Cohere a Voyage AI při zlomku ceny."
+      ],
+      "why_matters": "Otevřené rerankery srážejí cenu RAG a context pipeline, malé i střední firmy konečně mohou nasadit kvalitu enterprise-grade."
+    },
+    {
+      "rank": 12,
+      "title_cs": "OlmoEarth v1.1 přichází jako efektivnější rodina modelů pro pozorování Země",
+      "title_orig": "OlmoEarth v1.1: A more efficient family of models",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "AllenAI vydává OlmoEarth v1.1, rodinu open-source foundation modelů pro satelitní data, monitoring zemědělství a klimatu.",
+        "Nová verze snižuje paměťové nároky a běží na běžných GPU, dříve potřebovala vyhrazené HPC kapacity.",
+        "Modely jsou na Hugging Face s plnou licencí pro komerční použití, integrace s Hugging Face Geospatial Datasets je out-of-the-box."
+      ],
+      "why_matters": "Otevřené geo-AI modely jsou pro evropské agritech a klima startupy zásadní, Olmo srovnává hru s uzavřenými konkurenty."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Rohlík pustil platby přímo do AI chatu, košík i kartu vyřídíte v konverzaci",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/aktuality/rohlik-integruje-platby-do-ai-asistenta-umoznuje-v-chatu-odbavit-nakup-az-po-platbu/",
+      "source": "Lupa.cz",
+      "category": "business",
+      "summary_cs": [
+        "Online supermarket Rohlík nasadil AI asistentku Maia, která v rámci jednoho chatu poskládá košík, vybere doručovací slot a autorizuje platbu.",
+        "Pokud transakce nevyžaduje 3D Secure ověření, celý nákup proběhne bez přesměrování na bankovní bránu nebo externí systém.",
+        "Maia běží na uložené platební kartě zákazníka, Rohlík tím obchází standardní limit AI agentů, kteří dosud končili u checkout krok."
+      ],
+      "why_matters": "Český e-commerce ukazuje, jak vypadá end-to-end agentický nákup v praxi a předbíhá většinu evropské konkurence."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Češi do 24 let už chatbota staví před vyhledávač, ChatGPT vede nad Googlem",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/aktuality/mladi-v-cesku-uz-nejcasteji-vyhledavaji-informace-v-chatbotech-nejpouzivanejsi-je-chatgpt/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Mezi mladými Čechy ve věku 15 až 24 let je AI chatbot nejčastějším výchozím bodem pro vyhledávání informací podle reportu Deloitte.",
+        "Na druhém místě jsou sociální sítě, klasické vyhledávače jako Google a Seznam jsou až třetí volbou.",
+        "Nejpoužívanějším chatbotem v Česku zůstává ChatGPT, ale Gemini díky integraci v Androidu uzavírá náskok."
+      ],
+      "why_matters": "Demografická vlna mění SEO, brand a obsahový marketing, klasický web traffic od mladých rychle vysychá."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Hassabis říká, že propouštět kvůli AI je hloupé, firmy mají dělat víc, ne mít méně lidí",
+      "title_orig": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+      "url": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Šéf Google DeepMind v rozhovoru pro Wired říká, že firmy by měly produktivitu z AI investovat do růstu a nových projektů, ne do propouštění.",
+        "Argumentuje, že historie technologických revolucí ukazuje, že úspory na lidech dlouhodobě prohrávají s expanzí kapacit.",
+        "Současně připustil, že některé profese se zmenší, ale upozornil, že talent na pre-trainingu a aplikované AI je dramaticky nedostatkový."
+      ],
+      "why_matters": "Komentář od šéfa nejmocnější labky dává managementům argument držet lidi i v éře aggressivního AI nasazení."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-25",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Google investuje až 40 miliard dolarů v Anthropic v hotovosti i compute",
+      "title_orig": "Google will invest as much as $40 billion in Anthropic",
+      "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
+      "source": "Ars Technica",
+      "category": "labs",
+      "summary_cs": [
+        "Investice navazuje na pět miliard dolarů od Amazonu, oznámených před několika dny.",
+        "Část kapitálu přijde formou Google Cloud kreditů a přístupu ke chystaným TPU čipům, zbytek v hotovosti.",
+        "Anthropic tím získává druhého velkého hyperscaler-partnera a snižuje závislost na jediném dodavateli compute."
+      ],
+      "why_matters": "Závody o frontier modely se přesouvají z laboratoří k tomu, kdo má víc compute a kapitálu."
+    },
+    {
+      "rank": 2,
+      "title_cs": "DeepSeek V4 Pro a Flash běží na čínských čipech Huawei Ascend, ne jen Nvidia",
+      "title_orig": "DeepSeek V4 Pro (1.6T-A49B) and Flash (284B-A13B), runnable on Huawei Ascend chips",
+      "url": "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
+      "source": "Latent Space",
+      "category": "labs",
+      "summary_cs": [
+        "Plná rodina V4 dorazila ve dvou velikostech: Pro (1.6T parametrů, 49B aktivních) a Flash (284B parametrů, 13B aktivních).",
+        "Obě varianty existují v Base i Instruct verzích a běží nativně na Huawei Ascend čipech bez Nvidia GPU.",
+        "Benchmarky V4 Pro lehce zaostávají za GPT-5.5 a Opus 4.7, ale za zlomek ceny a s plnou nezávislostí na západním hardware."
+      ],
+      "why_matters": "Geopolitický signál: Čína má frontier model i čip pro jeho běh, sankce na Nvidia ztrácejí páku."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Tři důvody, proč na novém DeepSeek V4 záleží",
+      "title_orig": "Three reasons why DeepSeek's new model matters",
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "summary_cs": [
+        "Model umí pracovat s podstatně delšími prompty než předchozí verze, milionový kontext je pro agentické úlohy hratelný v praxi.",
+        "Cenová struktura tlačí americké poskytovatele dolů, podobně jako V3 minulý rok rozpoutal cenovou válku.",
+        "Architektura rozkládá sparse mixture-of-experts agresivněji než konkurence, což snižuje cenu za inference token."
+      ],
+      "why_matters": "Open-source čínský model znovu mění ekonomiku celého trhu, ne jen ten otevřený segment."
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI: ChatGPT pro lékaře nyní zdarma pro ověřené americké zdravotníky",
+      "title_orig": "Making ChatGPT better for clinicians",
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "ChatGPT for Clinicians dostává ověření přes US lékařské licence a roli ošetřovatele, lékárníka nebo nurse practitionera.",
+        "Pro ověřený personál je nástroj zdarma a obsahuje jiné dokumenty s pokyny, klinické šablony a propojení na vybrané zdravotnické databáze.",
+        "OpenAI zdůrazňuje, že nástroj nenahrazuje úsudek lékaře, ale šetří čas na dokumentaci a koordinaci péče."
+      ],
+      "why_matters": "Vstup OpenAI do US zdravotnictví zdarma vytváří tlak na české distributory profesionálních lékařských AI nástrojů."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Anthropic aktualizuje volební bezpečnostní opatření před volbami v USA",
+      "title_orig": "An update on our election safeguards",
+      "url": "https://www.anthropic.com/news/election-safeguards-update",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic zveřejnil přehled aktualizovaných pravidel pro Claude v souvislosti s americkými volbami a kandidátskými dotazy.",
+        "Model bude odmítat generování klamavých kampaňových materiálů a aktivně směrovat uživatele k oficiálním zdrojům informací o hlasování.",
+        "Anthropic spustil partnerskou síť s neziskovkami pro reporting AI-generovaného volebního obsahu."
+      ],
+      "why_matters": "Nastavuje standard, který Evropská komise pravděpodobně bude vyžadovat i pro evropské volby v rámci AI Actu."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Anthropic Mythos: ponižující prolomení bezpečnosti vlajkového modelu",
+      "title_orig": "Anthropic's Mythos breach was humiliating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "source": "The Verge AI",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic několik týdnů zdůrazňoval, jak je nový model Mythos bezpečný proti zneužití pro kybernetické útoky.",
+        "Externí výzkumníci ho prolomili během 48 hodin po veřejném releasu standardním jailbreakem se cizím skriptováním.",
+        "Anthropic přiznal, že interní red-teaming se zaměřoval na přímé útoky a podcenil složené prompty s cílem obejít politiku."
+      ],
+      "why_matters": "Otevřený test ukazuje, že interní safety eval velkých laboratoří stále nezachytí to, co najde komunita za den."
+    },
+    {
+      "rank": 7,
+      "title_cs": "GPT-5.5 prompting guide: triky, které doporučuje samotné OpenAI",
+      "title_orig": "GPT-5.5 prompting guide",
+      "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/",
+      "source": "Simon Willison's Weblog",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI doporučuje při dlouho běžících tool-call sekvencích posílat krátké uživatelské updaty mezi voláními.",
+        "Model lépe drží kontext, pokud instrukce o stylu výstupu zopakujete těsně před požadavkem, ne jen v systémovém promptu.",
+        "Pro reasoning úlohy stačí explicitně říct nepiš dlouhý chain-of-thought - model dnes vede latentní reasoning sám."
+      ],
+      "why_matters": "Praktické triky, které pro běžné případy zlepší kvalitu výstupu bez nutnosti měnit aplikaci."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Nothing představuje on-device AI diktování ve více než 100 jazycích",
+      "title_orig": "Nothing introduces an AI-powered dictation tool",
+      "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Nový diktovací nástroj výrobce Nothing běží přímo na telefonu bez nutnosti odesílat audio do cloudu.",
+        "Podpora přesahuje 100 jazyků, včetně češtiny, a využívá lokální menší model pro nízkou latenci.",
+        "Funkce je integrována systémově, lze ji použít v jakékoli textové aplikaci na zařízení."
+      ],
+      "why_matters": "On-device AI šetří baterii, soukromí i mobilní data - směr, kterým půjde i další generace telefonů."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Era získává 11 milionů dolarů na softwarovou platformu pro AI gadgety",
+      "title_orig": "Era raises $11M to build a software platform for AI gadgets",
+      "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadget",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Era staví univerzální softwarovou vrstvu pro nové formáty AI hardware - brýle, prsteny i přívěsky.",
+        "Platforma má řešit společné problémy malých výrobců, jako jsou aktualizace, telemetrie a integrace s asistenty.",
+        "Investici vede a16z, Era počítá s otevřeným SDK pro nezávislé výrobce gadgetů."
+      ],
+      "why_matters": "Zatímco big tech řeší softphone, infrastruktura pro nové AI hardware kategorie hledá svého Androida."
+    },
+    {
+      "rank": 10,
+      "title_cs": "QIMMA: nový kvalitativně-orientovaný arabský LLM leaderboard od Hugging Face",
+      "title_orig": "QIMMA: A Quality-First Arabic LLM Leaderboard",
+      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "TII vypouští otevřený leaderboard, který porovnává arabské LLM podle kvality výstupu, ne jen technických metrik.",
+        "Hodnocení obsahuje úlohy v moderní spisovné arabštině i pěti hlavních dialektech.",
+        "QIMMA má sloužit jako reference pro arabsky mluvící trh, kde dosud vládla anglocentrická hodnocení."
+      ],
+      "why_matters": "Připomíná, že globální AI ekosystém potřebuje regionální měřítka kvality - inspirace pro středoevropské jazyky."
+    },
+    {
+      "rank": 11,
+      "title_cs": "AI ve zdravotnictví je tady, ale stále nevíme, jestli pacientům pomáhá",
+      "title_orig": "Health-care AI is here. We don't know if it actually helps patients.",
+      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "summary_cs": [
+        "Nemocnice po celém světě nasazují AI nástroje na dokumentaci, triáž i podporu rozhodování, často bez kvalitní evaluace.",
+        "Většina studií měří přesnost na uzavřených datech, ne reálný dopad na pacienta nebo přežití.",
+        "Autoři volají po standardizovaném clinical-trial přístupu k AI, podobně jako u nových léků a přístrojů."
+      ],
+      "why_matters": "Bez tvrdých dat o pacientském benefitu nasazení AI v medicíně přebírá rizika bez doložené hodnoty."
+    },
+    {
+      "rank": 12,
+      "title_cs": "85 procent firem testuje AI agenty, jen 5 procent jim věří natolik, aby je nasadily",
+      "title_orig": "85% of enterprises are running AI agents. Only 5% trust them enough to ship.",
+      "url": "https://venturebeat.com/security/85-of-enterprises-are-running-ai-agents-only-5-trust-them-enough-to",
+      "source": "VentureBeat AI",
+      "category": "business",
+      "summary_cs": [
+        "Průzkum z konference RSA ukazuje obří mezeru mezi pilotními projekty s AI agenty a jejich produkčním nasazením.",
+        "Hlavními blokátory jsou bezpečnost, auditovatelnost a chybějící způsob, jak měřit kvalitu agentových rozhodnutí.",
+        "Nejdál jsou firmy, které agenty nasazují na úzce vymezené úlohy s lidskou kontrolou na konci."
+      ],
+      "why_matters": "Reálný stav agentů ve firmách je víc o procesech a důvěře než o modelu - šance pro českého integrátora."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nová generace Nvidia AI grafik nepůjde chladit vzduchem a opět zdraží",
+      "title_orig": "Takto vypadá nová generace AI grafik Nvidia",
+      "url": "https://www.lupa.cz/aktuality/takto-vypada-nova-generace-ai-grafik-nvidia-nepujde-chladit-vzduchem-v",
+      "source": "Lupa.cz",
+      "category": "business",
+      "summary_cs": [
+        "Nástupce čipu Blackwell, generace Rubin, dorazí ve druhé polovině roku a vyžaduje výhradně kapalinové chlazení.",
+        "Spotřeba paměti i ceny opět rostou, datacentra musí přepracovat infrastrukturu i napájení.",
+        "Pro menší cloudy a hostingy to znamená velký kapitálový vstup nebo se musí zaměřit na inference s předchozí generací."
+      ],
+      "why_matters": "Pro české datacentrové operátory je to definitivní signál, že vlastní AI cloud bez nového CapExu nepostavíte."
+    },
+    {
+      "rank": 14,
+      "title_cs": "AI lovci galaxií zhoršují globální nedostatek GPU",
+      "title_orig": "AI galaxy hunters are adding to the global GPU crunch",
+      "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+      "source": "TechCrunch AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Astronomové masivně přecházejí na GPU pro hledání vzácných objektů v petabytech snímků z nových teleskopů.",
+        "Vědecké projekty soutěží o stejné karty jako AI startupy, dodavatelské lhůty se i pro univerzity protáhly na rok.",
+        "Část výzkumných týmů začíná stavět specializované klastry s předchozí generací GPU, jen aby vůbec dostala compute."
+      ],
+      "why_matters": "AI boom dnes vytlačuje i jiné vědní obory z přístupu k hardwaru - dopad sahá daleko za tech firmy."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Muž v USA dostal pět let vězení za AI deepfake utíkajícího vlka",
+      "title_orig": "Man faces 5 years in prison for using AI to fake sighting of runaway wolf",
+      "url": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai",
+      "source": "Ars Technica",
+      "category": "wildcard",
+      "summary_cs": [
+        "Po útěku populárního vlka ze zoo se po internetu šířily AI vygenerované fotky údajného pozorování.",
+        "Obviněný je tvůrcem několika fake snímků, které vyvolaly zbytečné pátrací akce a panické reakce obyvatel.",
+        "Případ se stal precedentem pro stíhání AI deepfaků v kontextu veřejné bezpečnosti, ne jen pomluv osob."
+      ],
+      "why_matters": "První tvrdý trest za AI deepfake mimo politiku - dává obrysy, jak budou soudy řešit obyčejné digitální falzifikáty."
+    }
+  ]
+}

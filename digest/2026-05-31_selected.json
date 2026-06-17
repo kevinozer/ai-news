@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-31",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic popsal, jak izoluje Claude napříč svými produkty",
+      "title_orig": "How we contain Claude across products",
+      "url": "https://www.anthropic.com/news/how-we-contain-claude",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic zveřejnil podrobný přehled, jak v jednotlivých produktech omezuje a izoluje model Claude, aby nemohl jednat mimo povolené hranice.",
+        "Dokument popisuje vrstvy sandboxingu a oprávnění, které mají zabránit zneužití nebo úniku dat při agentických úlohách.",
+        "Jde o reakci na opakovanou kritiku, že firmy své bezpečnostní mechanismy nedokumentují dostatečně transparentně."
+      ],
+      "why_matters": "Transparentní popis bezpečnostních hranic zvyšuje důvěru firem nasazujících AI agenty do citlivých provozů."
+    },
+    {
+      "rank": 2,
+      "title_cs": "SoftBank chce nalít až 75 miliard eur do francouzských datacenter",
+      "title_orig": "SoftBank says it will invest up to EUR 75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Japonská SoftBank oznámila investici až 75 miliard eur do výstavby datacenter ve Francii.",
+        "Cílem je vybudovat a provozovat až 5 gigawattů nové výpočetní kapacity pro AI.",
+        "Evropa se tak stává dalším bojištěm v závodě o infrastrukturu potřebnou pro provoz velkých modelů."
+      ],
+      "why_matters": "Obří investice do evropské AI infrastruktury může zlevnit a přiblížit výpočetní výkon i firmám v regionu."
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI spouští Rosalind Biodefense pro obranu proti pandemiím",
+      "title_orig": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zakládá iniciativu Rosalind Biodefense a rozšiřuje přístup k modelu GPT-Rosalind pro prověřené vývojáře.",
+        "Mezi partnery patří i americké vládní instituce zaměřené na biologickou obranu a připravenost na pandemie.",
+        "Přístup k modelu zůstává omezený a podmíněný ověřením, aby se snížilo riziko zneužití."
+      ],
+      "why_matters": "Specializovaná AI pro biologickou obranu může urychlit reakci na nové nákazy, ale otevírá i otázky zneužití."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Vyzkoušel jsem nepřetržitého asistenta Google Gemini Spark",
+      "title_orig": "I put Google's 24/7 AI assistant Gemini Spark to work",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Google uvedl Gemini Spark, AI asistenta, který běží nepřetržitě a sám automatizuje běžné úkoly.",
+        "Zvládne shrnout e-mailovou schránku nebo naplánovat akce v okolí podle kontextu uživatele.",
+        "Recenzent ho hodnotí jako překvapivě užitečného, ale nechápe, proč ho Google udělal jako samostatný produkt."
+      ],
+      "why_matters": "Trvale běžící asistent posouvá AI od dotazů k samostatnému jednání za uživatele v každodenním životě."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Čipový startup XCENA získal 135 milionů na sázku, že brzdou AI je paměť",
+      "title_orig": "This chip startup just raised $135M on a bet that AI's biggest bottleneck isn't compute, it's memory",
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Jihokorejský čipový startup XCENA získal 135 milionů dolarů při ocenění kolem 570 milionů.",
+        "Firma tvrdí, že skutečným omezením AI není výpočetní výkon, ale propustnost a kapacita paměti.",
+        "Sází na specializované čipy, které mají odstranit úzké hrdlo mezi pamětí a procesory."
+      ],
+      "why_matters": "Pokud je brzdou AI paměť a ne výkon, mění se priority celého hardwarového a investičního závodu."
+    },
+    {
+      "rank": 6,
+      "title_cs": "BioHub představuje proteinový světový model ESM",
+      "title_orig": "ESM: The Bitter Lesson is Coming for Proteins",
+      "url": "https://www.latent.space/p/esmfold2",
+      "source": "Latent Space",
+      "category": "research",
+      "summary_cs": [
+        "Tým kolem Alexe Rivese v BioHubu ukázal proteinový světový model ESM s modely ESMC-6B a ESMFold2.",
+        "Model se učil na miliardách proteinů a struktur a míří k návrhu protilátek a programovatelné biologii.",
+        "Autoři tvrdí, že stejně jako u jazyka začíná i u proteinů vítězit prostá síla velkých dat a výpočtu."
+      ],
+      "why_matters": "Velké modely pro proteiny mohou urychlit vývoj léků a otevřít éru navrhované biologie."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Nové platby GitHub Copilotu podle tokenů rozčílily vývojáře",
+      "title_orig": "GitHub Copilot's new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Microsoft přešel u GitHub Copilotu na účtování podle spotřebovaných tokenů místo pevného paušálu.",
+        "Část vývojářů to vnímá jako konec dosavadní výhodné éry a obává se nepředvídatelných nákladů.",
+        "Změna zapadá do širšího trendu, kdy AI nástroje přecházejí na platby podle reálné spotřeby."
+      ],
+      "why_matters": "Účtování podle spotřeby může výrazně zdražit AI nástroje pro firmy i jednotlivce a změnit jejich rozpočty."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Meta podle zpráv vyvíjí AI přívěsek na krk",
+      "title_orig": "Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Meta podle zpráv pracuje na nositelném AI přívěsku, kterým chce rozšířit svou nabídku hardwaru.",
+        "Zařízení by mělo přinést AI funkce přímo do každodenního nošení mimo telefon a brýle.",
+        "Krok potvrzuje, že velcí hráči vidí budoucnost AI i ve fyzických nositelných doplňcích."
+      ],
+      "why_matters": "Nositelná AI mimo telefon naznačuje, kam míří další generace osobních zařízení."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Vatikánův člověk uvnitř Anthropicu",
+      "title_orig": "The Vatican's Man Inside Anthropic",
+      "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Wired popisuje, jak má papež Lev XIV. prostřednictvím svého člověka vliv přímo uvnitř Anthropicu.",
+        "Vatikán se snaží vstoupit do debaty o etice AI a získat pozornost celého odvětví.",
+        "Náboženská autorita tak vstupuje do diskuse o směřování nejmodernějších AI laboratoří."
+      ],
+      "why_matters": "Zapojení Vatikánu ukazuje, že etika AI se stává tématem i mimo technologický a politický svět."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Komentář: přichází americká vlna otevřených modelů",
+      "title_orig": "Some ideas for what comes next, May 2026",
+      "url": "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+      "source": "Interconnects",
+      "category": "open-source",
+      "summary_cs": [
+        "Analytik Nathan Lambert popisuje sílící vlnu amerických otevřených modelů a posun v rovnováze mezi otevřeným a uzavřeným vývojem.",
+        "Zmiňuje nové modely jako Gemini Flash 3.5 a Mythos a rostoucí mocenské napětí mezi hráči.",
+        "Text shrnuje, kam by se mohl vývoj AI posunout v nejbližších měsících."
+      ],
+      "why_matters": "Posílení otevřených modelů z USA může zlevnit a zpřístupnit špičkovou AI i mimo velké korporace."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Konverzační AI agent od Adobe je jen průměrný designér praktikant",
+      "title_orig": "Adobe's conversational AI agent is a mediocre design intern",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Adobe představilo konverzačního AI agenta, který má pomáhat s tvorbou a úpravou obrázků.",
+        "Recenzent ocenil, že na rozdíl od běžných nástrojů vtahuje uživatele více do tvůrčího procesu.",
+        "Výsledky ale označuje za průměrné, srovnatelné s nepříliš zkušeným designérem na stáži."
+      ],
+      "why_matters": "Ukazuje, jak daleko a kam ještě ne dosáhly AI nástroje pro běžnou kreativní práci."
+    },
+    {
+      "rank": 12,
+      "title_cs": "AI podvodníci vytvářejí falešné lidi, aby prodávali zboží ze Sheinu",
+      "title_orig": "AI grifters are creating fake Black people to sell Shein junk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+      "source": "The Verge AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Podvodníci používají AI ke generování falešných postav, které na TikToku prodávají levné zboží.",
+        "Vymyšlené příběhy mají vzbudit soucit a přimět diváky k nákupu přeprodávaného zboží ze Sheinu.",
+        "Jde o nový druh manipulace, kdy uměle vytvořené identity těží z emocí publika."
+      ],
+      "why_matters": "Generování falešných lidí ukazuje, jak snadno lze AI zneužít k manipulaci spotřebitelů."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Synchronizace bilionu parametrů přes sdílené úložiště",
+      "title_orig": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "url": "https://huggingface.co/blog/delta-weight-sync",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face popsal metodu Delta Weight Sync v knihovně TRL pro trénink modelů o bilionu parametrů.",
+        "Místo přenosu celých vah se synchronizují jen jejich změny přes sdílené úložiště, což šetří přenosy.",
+        "Postup je otevřený a má usnadnit trénink obřích modelů i menším týmům."
+      ],
+      "why_matters": "Levnější trénink obřích modelů otevírá špičkový výzkum i mimo nejbohatší laboratoře."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Aaron Levie: většina šéfů firem trpí AI psychózou",
+      "title_orig": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+      "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+      "source": "TechCrunch AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Zakladatel Boxu Aaron Levie tvrdí, že o nahrazení lidí AI rozhodují ti, kdo dané práci nejméně rozumí.",
+        "Tento odtržený pohled nazývá AI psychózou vedení firem.",
+        "Jako příklad zmiňuje firmu ClickUp, která propustila 22 procent zaměstnanců kvůli AI."
+      ],
+      "why_matters": "Varuje, že unáhlené propouštění kvůli AI může firmám uškodit víc, než si vedení připouští."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Jak Anthropic počítá své tržby a blíží se ke ziskovosti",
+      "title_orig": "Quoting Karen Kwok for Reuters Breakingviews",
+      "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate/",
+      "source": "Simon Willison's Weblog",
+      "category": "labs",
+      "summary_cs": [
+        "Reuters popsal, jak Anthropic počítá takzvané run-rate tržby, tedy odhad ročního obratu z aktuálních dat.",
+        "Spotřební část se počítá z posledních 28 dnů krát třináct, předplatné z měsíčního příjmu krát dvanáct.",
+        "Metodika ukazuje, jak rychle podle firmy roste příjem, ale i jak snadno lze čísla nafouknout."
+      ],
+      "why_matters": "Pochopení, jak AI firmy počítají tržby, pomáhá střízlivě číst miliardové odhady jejich růstu."
+    }
+  ]
+}

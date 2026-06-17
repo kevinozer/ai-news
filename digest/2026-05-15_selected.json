@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-15",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Cerebras vstoupil na burzu, akcie první den vyletěly o 108 procent a hodnota přesáhla 100 miliard dolarů",
+      "title_orig": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Výrobce wafer-scale AI čipů Cerebras získal v IPO 5,5 miliardy dolarů a jeho akcie skončily první den o 108 procent výš.",
+        "Tržní kapitalizace přesáhla 100 miliard dolarů, což z firmy dělá první velký technologický úpis roku 2026 a možný předvoj další IPO vlny.",
+        "Před rokem přitom Cerebras kvůli sporu s CFIUS a omezením vůči klientovi G42 vypadal jako kandidát na odpis, teď se naopak stává konkurenční hrozbou pro Nvidii."
+      ],
+      "why_matters": "Cerebras znormalizoval, že existuje druhý velký AI hardware hráč mimo Nvidii, a otevírá dveře další IPO vlně."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic uzavřel dvousetmilionové partnerství s Nadací Billa a Melindy Gatesových",
+      "title_orig": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic věnuje Nadaci Gatesových 200 milionů dolarů v kreditech na Claude pro globální zdravotnictví, zemědělství a vzdělávání.",
+        "Cílem je nasadit AI v zemích s nízkými příjmy do projektů jako diagnostika tuberkulózy, prevence dětské úmrtnosti či zemědělské poradenství.",
+        "Nadace vedle Claude získá také techniky Anthropicu pro fine-tuning, lokalizaci a evaluaci modelů v konkrétních zdravotnických kontextech."
+      ],
+      "why_matters": "Posouvá vnímání frontier modelů z drahého korporátního nástroje do humanitární infrastruktury."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Microsoft začal zaměstnancům rušit licence na Claude Code, vrací je zpět ke Copilotu",
+      "title_orig": "Microsoft starts canceling Claude Code licenses",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "source": "The Verge AI",
+      "category": "business",
+      "summary_cs": [
+        "Microsoft od prosince rozdával tisícům vývojářů přístup ke Claude Code jako experiment, teď ale licence hromadně ruší.",
+        "Důvodem je tlak vedení vrátit interní spotřebu zpět na GitHub Copilot a vlastní agenty postavené nad GPT modely.",
+        "Někteří manažeři vyjednávají výjimky pro týmy, které si na Claude Code zvykly, ale ústup od externího AI dodavatele má být v Microsoftu plošný."
+      ],
+      "why_matters": "Ukazuje, jak rychle se uzavírají dveře mezi hyperscalery a externími AI dodavateli, a kdo bude muset zaplatit přepnutí."
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI dostal Codex do mobilní aplikace ChatGPT, kódování běží i z telefonu",
+      "title_orig": "OpenAI's Codex is now in the ChatGPT mobile app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "source": "The Verge AI",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI rozšířil Codex z desktopové utility i do mobilní ChatGPT aplikace na iOS a Androidu.",
+        "Uživatelé tak mohou zadat úkol typu úprava repozitáře nebo spuštění skriptu z telefonu a Codex jej vyřídí v cloudovém sandboxu.",
+        "Krok je explicitně reakcí na popularitu Claude Code od Anthropicu a součástí širší vlny, kdy OpenAI omezuje vedlejší produkty a tlačí všechno do hlavní ChatGPT app."
+      ],
+      "why_matters": "Snižuje bariéru vstupu k agentnímu kódování, čímž ho vystavuje masovému uživateli mimo developerské bubliny."
+    },
+    {
+      "rank": 5,
+      "title_cs": "IBM vydal Granite Embedding Multilingual R2, otevřený model s nejlepší retrieval kvalitou pod sto miliony parametrů",
+      "title_orig": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "IBM uvolnil pod licencí Apache 2.0 novou rodinu mnohojazyčných embedding modelů Granite R2 s oknem 32 tisíc tokenů.",
+        "Modely cílí na enterprise retrieval a podle interních benchmarků překonávají všechny otevřené varianty s méně než 100 miliony parametrů.",
+        "Dostupné jsou ve velikostech od kompaktní 30M verze po klasickou 107M, což umožňuje běh i na CPU a v restriktivních prostředích."
+      ],
+      "why_matters": "Posouvá hranici, kdy si firmy mohou postavit kvalitní vlastní RAG bez závislosti na uzavřených API."
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenAI vylepšil bezpečnostní vrstvu ChatGPT, lépe pozná tíživé konverzace a reaguje opatrněji",
+      "title_orig": "Helping ChatGPT better recognize context in sensitive conversations",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zveřejnil sadu úprav, které mají v ChatGPT lépe rozpoznat tíživé téma napříč delší konverzací a včas zapojit krizové zdroje.",
+        "Model nově sleduje dlouhodobé signály jako náladu, eskalaci jazyka a opakované návraty k rizikovým tématům, ne jen jednotlivé věty.",
+        "Aktualizace přichází po podrobné kritice, že ChatGPT v déle běžících session ztrácí kontext a poskytuje rady, které by mohly uškodit."
+      ],
+      "why_matters": "Týká se každého uživatele, který má s AI vážnější rozhovor, a nastavuje laťku pro celý sektor chatbotů."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Cisco oznámil rekordní tržby a ve stejný den ohlásil propuštění čtyř tisíc lidí kvůli investicím do AI",
+      "title_orig": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports record quarterly revenue",
+      "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Cisco vykázal rekordní čtvrtletní tržby, zároveň ale propouští skoro čtyři tisíce zaměstnanců, což je další velká vlna v krátkém čase.",
+        "Generální ředitel i CFO trvají na tom, že nejde o úsporné škrty, ale o přesun rozpočtu do AI vývoje a datových center.",
+        "Cisco se zařadilo k Meta a dalším velkým firmám, které argumentují AI transformací při zeštíhlování bez ohledu na aktuální hospodářské výsledky."
+      ],
+      "why_matters": "Potvrzuje, že u velkých firem se 'AI restrukturalizace' stává standardní rétorikou pro propouštění bez ohledu na zisky."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Šéfka Claude Code Cat Wu: další velký krok AI je proaktivita, modely budou tušit, co chceme, ještě než si to uvědomíme",
+      "title_orig": "Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Cat Wu z Anthropicu, která vede produkt Claude Code a Cowork, ve velkém rozhovoru shrnula, kam směřuje další generace asistentů.",
+        "Klíčovou tezí je posun od reakce na promty k proaktivnímu dodání kontextu, návrhů a hotových akcí ještě dřív, než si je uživatel vyžádá.",
+        "Wu zároveň přiznala, že to přináší nové bezpečnostní otázky, protože proaktivní model může bez varování provést kroky, které uživatel nečekal."
+      ],
+      "why_matters": "Naznačuje produktovou logiku, podle které se rozhoduje, jak budou Claude a další asistenti za rok fungovat."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Origin Lab získal 8 milionů dolarů na tržiště, kde herní studia prodávají data pro trénování world modelů",
+      "title_orig": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+      "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+      "source": "TechCrunch AI",
+      "category": "research",
+      "summary_cs": [
+        "Startup Origin Lab uzavřel kolo za osm milionů dolarů na platformu, kde herní studia mohou monetizovat svá data o herním světě a chování hráčů.",
+        "Tato data slouží AI laboratořím k trénování takzvaných world modelů, které mají umět simulovat fyziku, prostor a chování objektů.",
+        "Platforma řeší licencování i sdílení revenue mezi developery a labs, aby studiím dala alternativu k jednorázovému prodeji datasetů."
+      ],
+      "why_matters": "Otevírá vážný byznys s herními daty pro AI a může změnit ekonomiku menších studií."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Amazon spustil AI nákupního asistenta v hlavním vyhledávači, pohání ho Alexa+",
+      "title_orig": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+      "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Amazon nasadil přímo do horní lišty na webu i v aplikaci konverzačního AI asistenta poháněného novou generací Alexy.",
+        "Asistent zvládá hlasový i textový vstup a dokáže provádět porovnání, doporučení a automatizovat opakované nákupy napříč Amazonem i externími obchody.",
+        "Funkce nejdřív dorazí do USA, postupně se rozšíří na další trhy a do zařízení Echo Show s vizuálním rozhraním."
+      ],
+      "why_matters": "Posouvá AI z chatovacího prostředí přímo do nákupního rozhodování stovek milionů lidí."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Claude Code dostal příkaz /goals, který odděluje agenta, jenž pracuje, od toho, který hodnotí dokončení",
+      "title_orig": "Claude Code's '/goals' separates the agent that works from the one that decides it's done",
+      "url": "https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Nová funkce /goals v Claude Code definuje pro každý úkol oddělené kritérium hotovo, které kontroluje nezávislý subagent.",
+        "Cílem je vyřešit chronický problém, kdy agent prohlásí úkol za hotový, i když část výstupu nikdy neproběhla nebo nevykompilovala.",
+        "Anthropic tím reaguje na enterprise zákazníky, kteří hlásí, že produkční agentní pipeline tichou chybu odhalí často až po dnech."
+      ],
+      "why_matters": "Adresuje největší slabinu agentního kódování v produkci, na kterou si stěžují všichni vážní uživatelé."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Raindrop spustil otevřený nástroj Workshop pro lokální ladění a evaluaci AI agentů",
+      "title_orig": "Developers can now debug and evaluate AI agents locally with Raindrop's open source tool Workshop",
+      "url": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Observability startup Raindrop AI uvolnil pod MIT licencí nástroj Workshop určený výhradně pro lokální debugging a evaluaci agentů.",
+        "Vývojáři mohou krokovat běh agenta, prohlížet kontext a srovnávat varianty bez nahrávání citlivých dat do cloudu.",
+        "Workshop se integruje s běžnými frameworky pro agenty a doplňuje placenou observability platformu Raindropu, kterou používají enterprise týmy."
+      ],
+      "why_matters": "Zaplňuje díru v ekosystému nástrojů pro agenty, kde dosud chybělo důstojné lokální vývojové prostředí."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Hugging Face ukázal, jak asynchronicita v continuous batchingu zrychlí inferenci LLM bez zvýšení latence",
+      "title_orig": "Unlocking asynchronicity in continuous batching",
+      "url": "https://huggingface.co/blog/continuous_async",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face zveřejnil technický rozbor, jak v continuous batching odložit drahé operace mimo kritickou cestu a zpracovat je asynchronně.",
+        "Výsledkem je až dvojciferný nárůst propustnosti při zachování latence na požadavek, což se hodí pro masivní servingové farmy.",
+        "Princip se dá použít napříč běžnými servery jako vLLM nebo TGI a Hugging Face k němu uvolnil referenční implementaci."
+      ],
+      "why_matters": "Snižuje provozní cenu LLM serverů, na čemž závisí ekonomika všech firem hostujících modely lokálně."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Česko získá nový superpočítač pro AI v ostravském IT4Innovations, sehnat grafické karty bude obtížné",
+      "title_orig": "Česko bude mít nový superpočítač s hromadou grafických karet, nebude je lehké sehnat",
+      "url": "https://www.lupa.cz/aktuality/cesko-bude-mit-novy-superpocitac-s-hromadou-grafickych-karet-nebude-je-lehke-sehnat/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Centrum IT4Innovations při VŠB-TUO v Ostravě rozjelo přípravu nového superpočítače dimenzovaného speciálně pro AI workloady.",
+        "Stroj má rozšířit kapacity, které dnes nabízí pražské Národní centrum umělé inteligence na ČVUT, a otevřít je výzkumným i komerčním týmům.",
+        "Hlavním rizikem je obstarání GPU karet v době, kdy je trh dominovaný velkými hyperscalery a delivery termíny se počítají v letech."
+      ],
+      "why_matters": "Určuje, jestli budou mít čeští výzkumníci a startupy reálně dostupný compute pro vážnější AI projekty."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Trump bere na summit s Si Ťin-pchingem Tima Cooka, Jensena Huanga a Elona Muska, aby zachránil jednání",
+      "title_orig": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
+      "url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
+      "source": "Ars Technica",
+      "category": "wildcard",
+      "summary_cs": [
+        "Donald Trump si na klíčovou schůzku se Si Ťin-pchingem přizval šéfy Applu, Nvidie a Tesly, aby pomohli překlenout obchodní napětí.",
+        "Témata jednání zahrnují čipové restrikce, dodávky Nvidie do Číny a budoucnost Tchaj-wanu, což se přímo dotýká dostupnosti AI hardwaru.",
+        "Trump podle zdrojů musí ustoupit z některých vývozních omezení, jinak hrozí, že Čína omezí dodávky vzácných zemin používaných v polovodičovém průmyslu."
+      ],
+      "why_matters": "Rozhodne, jaké AI čipy a komponenty budou globálně dostupné, a tím i tempo nasazení modelů."
+    }
+  ]
+}

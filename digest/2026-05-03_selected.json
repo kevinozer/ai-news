@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-03",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI a Microsoft podepsaly další fázi partnerství, dohoda dostává jasnější rámec",
+      "title_orig": "The next phase of the Microsoft OpenAI partnership",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Obě firmy podepsaly upravenou smlouvu, která zjednodušuje vztah a přidává dlouhodobou jistotu pro pokračující rozvoj modelů.",
+        "Dohoda navazuje na minulý týden, kdy Satya Nadella veřejně řekl, že nové podmínky chce naplno využít pro Azure i Copilot.",
+        "Detaily o pravidlech sdílení modelů, exkluzivitě a výnosech zůstávají neveřejné, partneři ale tvrdí, že kontroverze kolem AGI klauzule jsou vyřešeny."
+      ],
+      "why_matters": "Stabilizace klíčového vztahu v AI určí, kdo a za jakých podmínek dostane přístup k modelům OpenAI."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Šéf Replitu Amjad Masad odmítá prodej, Cursor jde podle něj jinou cestou",
+      "title_orig": "Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell",
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Šéf Replitu na StrictlyVC řekl, že raději postaví nezávislou firmu, než aby ji prodal velkému hráči, na rozdíl od Cursoru, který jedná se SpaceX o 60 miliard dolarů.",
+        "Masad vidí kódovací nástroje jako kategorii, kde dnes vznikají miliardové trhy a kde si nechce nechat vzít autonomii produktové vize.",
+        "Veřejně přitvrdil i vůči Apple, kterému vyčítá, že brzdí web-first dev workflow na iPadu a iPhonu, a chystá další právní kroky."
+      ],
+      "why_matters": "Replit ukazuje druhou cestu pro coding startupy: zůstat nezávislý a tlačit konsolidaci pomalou cestou."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Konec AI mánie? Akcie už neletí jen nahoru, sektor tento týden srazil Google",
+      "title_orig": "Konec AI mánie? To ani náhodou, akcie už ale nerostou jen do nebes. Teď všechny zdemoloval Google",
+      "url": "https://cc.cz/konec-ai-manie-to-ani-nahodou-akcie-uz-ale-nerostou-jen-do-nebes-ted-vsechny-zdemoloval-google/",
+      "source": "CzechCrunch",
+      "category": "business",
+      "summary_cs": [
+        "Trh se začíná ptát na reálné přínosy AI investic, akcie hyperscalerů poprvé za rok výrazněji korigovaly po slabších očekáváních pro další kvartály.",
+        "Google podle CzechCrunche svým výhledem na CapEx srazil sentiment v celém AI sektoru, dotklo se to i Nvidie a Microsoftu.",
+        "Analytici nemluví o splasknutí bubliny, ale o normalizaci, ve které investoři budou tvrději tlačit na monetizaci AI produktů."
+      ],
+      "why_matters": "Pro české firmy a fondy je to první vážný signál, že AI hype přestává platit jako bezpečná sázka."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Vrstva nástrojů pro stavbu LLM aplikací se hroutí, vysvětluje šéf LlamaIndexu",
+      "title_orig": "The AI scaffolding layer is collapsing. LlamaIndex's CEO explains what survives.",
+      "url": "https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives",
+      "source": "VentureBeat AI",
+      "category": "research",
+      "summary_cs": [
+        "Indexovací vrstvy, query engines, retrieval pipelines a ručně skládané agentní smyčky podle Jerryho Liu rychle mizí, modely si je řeší samy.",
+        "LlamaIndex přesouvá svůj produkt směrem k orchestraci dokumentových workflow, kde rozhodování modelu o nástrojích už dnes funguje s vysokou přesností.",
+        "Liu varuje startupy, které prodávají jen tenkou vrstvu okolo OpenAI nebo Anthropic API, že brzy ztratí důvod existovat."
+      ],
+      "why_matters": "Mění se mapa toho, co má smysl programovat ručně a co nechat na modelu, a to ovlivní volbu stacku."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Anthropic a NEC vybudují v Japonsku největší AI inženýrskou základnu země",
+      "title_orig": "Anthropic and NEC collaborate to build Japan's largest AI engineering workforce",
+      "url": "https://www.anthropic.com/news/anthropic-nec",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic a NEC ohlásily dlouhodobou spolupráci na výchově japonských AI inženýrů, cílem jsou tisícovky proškolených lidí v horizontu několika let.",
+        "Společný program bude kombinovat tréninky na práci s Claudem a doménové projekty pro japonský průmysl, energetiku a veřejnou správu.",
+        "Krok navazuje na předchozí MOU s japonskými ministerstvy a posiluje pozici Anthropicu na trhu, který OpenAI zatím nedokáže obsadit napřímo."
+      ],
+      "why_matters": "Japonsko ukazuje, jak může vláda a velký integrátor společně dotlačit AI do reálné ekonomiky bez Big Tech závislosti."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Filmová akademie nepřipustí k Oscarům filmy s AI herci a scénáři",
+      "title_orig": "AI-generated actors and scripts are now ineligible for Oscars",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "source": "TechCrunch AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Akademie přijala pravidlo, podle kterého filmy s plně AI generovanými herci nebo s primárně AI psaným scénářem nebudou připuštěny do hlavních kategorií.",
+        "Mezi prvními, koho rozhodnutí přímo zasáhne, je projekt s digitální herečkou Tilly Norwood, který studio plánovalo nasadit do oscarového závodu.",
+        "AI smí nadále pomáhat v postprodukci, dabingu nebo střihu, posuzuje se ale, kde je hranice mezi nástrojem a samotným autorem."
+      ],
+      "why_matters": "Hollywood poprvé jasně řekl, že lidský autor je v kreativní soutěži stále nutná podmínka."
+    },
+    {
+      "rank": 7,
+      "title_cs": "OpenAI získalo certifikaci FedRAMP Moderate, ChatGPT Enterprise smí do amerických úřadů",
+      "title_orig": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "ChatGPT Enterprise a OpenAI API dostaly autorizaci FedRAMP Moderate, což otevírá dveře federálním agenturám USA pro práci s citlivými daty.",
+        "Certifikace je předpokladem pro nasazení v ministerstvech, která dnes pracují přes prostředníky typu Microsoft Azure Government.",
+        "OpenAI navazuje na nedávné Pentagon dohody a posouvá se z dodavatele cloudových modelů blíž ke statusu schváleného federálního partnera."
+      ],
+      "why_matters": "Compliance je dnes klíčová zbraň v boji o veřejný sektor, FedRAMP Moderate dává OpenAI náskok před menšími labs."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Anthropic aktualizoval ochrany kolem voleb, přidává monitoring a zúžené use-cases",
+      "title_orig": "An update on our election safeguards",
+      "url": "https://www.anthropic.com/news/election-safeguards-update",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic shrnul, jak v posledním roce rozšířil pravidla pro použití Claude v politické komunikaci, kampaních a generování voličských materiálů.",
+        "Nově jsou jasněji popsané zakázané use-cases jako personalizovaný microtargeting nebo tvorba materiálů vydávajících se za reálné kandidáty.",
+        "Firma zveřejnila i případové studie, ve kterých interní red-teaming odhalil pokusy o zneužití před volbami v několika zemích."
+      ],
+      "why_matters": "S volbami v EU i v USA na obzoru určují labs nepsaný standard, jaké AI nástroje smí kampaně reálně použít."
+    },
+    {
+      "rank": 9,
+      "title_cs": "OpenAI publikovalo závazky ke komunitní bezpečnosti, popisuje detaily moderace ChatGPT",
+      "title_orig": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Firma popisuje, jak v ChatGPT chrání komunitu kombinací modelových safeguards, detekce zneužití a vymáhání policy.",
+        "Součástí je spolupráce s externími experty na bezpečnost dětí, sebepoškozování a duševní zdraví, výstupy z auditů jdou zpět do trénování.",
+        "Příspěvek zveřejňuje i základní metriky, kolik konverzací bylo zachyceno automatickou moderací a kolik účtů bylo zablokováno."
+      ],
+      "why_matters": "Tlak regulátorů na transparentnost moderace LLM roste, OpenAI nastavuje formát výroční zprávy pro celý obor."
+    },
+    {
+      "rank": 10,
+      "title_cs": "AI Engineer World's Fair: agentický commerce, world models a tokenmaxxing táhnou další vlnu",
+      "title_orig": "[AINews] AI Engineer World's Fair - Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI",
+      "url": "https://news.smol.ai/issues/ai-engineer-worlds-fair-recap",
+      "source": "Latent Space",
+      "category": "research",
+      "summary_cs": [
+        "Latent Space shrnul nejdůležitější trendy z AI Engineer World's Fair, kde dominují témata jako autoresearch, dlouhodobá paměť a vertikální AI produkty.",
+        "Z prezentací vyplývá, že agentický commerce a world models opouštějí výzkumnou fázi a začínají se objevovat v reálných produktech.",
+        "Diskuze o tokenmaxxing ukázala, že efektivita per token je nový bottleneck, na kterém se infrastruktura teď nejvíc zlepšuje."
+      ],
+      "why_matters": "Konference pro AI inženýry ukazuje, kam míří priority týmů, které dnes staví produkty pro příští sezónu."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Latent Space: Codex přebírá znalostní práci, Claude dominuje té kreativní",
+      "title_orig": "[AINews] Agents for Everything Else: Codex for Knowledge Work, Claude for Creative Work",
+      "url": "https://news.smol.ai/issues/agents-codex-claude-knowledge-creative",
+      "source": "Latent Space",
+      "category": "tools",
+      "summary_cs": [
+        "Newsletter na základě posledních releasů ukazuje rozdělení trhu agentů: OpenAI Codex tlačí na knowledge work, Anthropic Claude na kreativu.",
+        "Codex se silným tooling kolem souborů a webu míří na analytiky, právníky a interní firemní knowledge bases.",
+        "Claude for Creative Work cílí na designéry, copywritery a hudebníky, které OpenAI svým Codexem zatím přímo neoslovuje."
+      ],
+      "why_matters": "Volba mezi Codexem a Claudem pro firmy přestává být náboženská a začíná se odvíjet od typu práce týmu."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Applied Intuition v Latent Space: fyzická AI v náklaďácích, dronech a válečných lodích",
+      "title_orig": "Physical AI that Moves the World - Qasar Younis & Peter Ludwig, Applied Intuition",
+      "url": "https://www.latent.space/p/appliedintuition",
+      "source": "Latent Space",
+      "category": "tools",
+      "summary_cs": [
+        "CEO a CTO Applied Intuition popisují, jak nasazují AI do těžební techniky, dronů, kamionů i obranných platforem v adversariálním prostředí.",
+        "Firma vyvíjí simulační stack a runtime, ve kterém modely jezdí v reálných vozidlech bez síťové latence, lokálně a s tvrdými bezpečnostními limity.",
+        "Diskuze ukazuje, jaká data, jaké senzory a jakou architekturu fyzická AI potřebuje, aby se neopakovaly chyby autonomního řízení ve městě."
+      ],
+      "why_matters": "Fyzická AI je segment, kde se rozhoduje o příští dekádě průmyslové automatizace, často mimo pozornost spotřebitelského trhu."
+    },
+    {
+      "rank": 13,
+      "title_cs": "TechCrunch otestoval AI nástroje pro diktování, jednoznačný vítěz tu není",
+      "title_orig": "The best AI dictation apps, tested and ranked",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-dictation-apps-tested-and-ranked/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Recenze srovnává nejpoužívanější AI diktování pro psaní e-mailů, poznámek a dokumentů na desktopu i mobilu.",
+        "Vítěz se mění podle scénáře: pro rychlé poznámky vede jeden nástroj, pro dlouhé dokumenty se silným formátováním zase jiný.",
+        "Test ukazuje, že přesnost ve specializované slovní zásobě a kvalita interpunkce jsou dnes hlavní kritéria, ne základní word error rate."
+      ],
+      "why_matters": "Diktování se stává prvním denně používaným AI workflow pro netechnické uživatele, výběr nástroje má hmatatelný dopad."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Hugging Face ukazuje, jak postavit škálovatelné webové aplikace na OpenAI Privacy Filter",
+      "title_orig": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Tutoriál vede vývojáře, jak nasadit OpenAI Privacy Filter jako vrstvu mezi front-end a model, aby z proudu chatu mizely citlivé údaje.",
+        "Ukázky pokrývají odstranění PII, rodných čísel a finančních dat ještě předtím, než logy odejdou do interní analytiky.",
+        "Autor navrhuje konkrétní architekturu pro multi-tenant SaaS, kde každá organizace dostane vlastní šablonu redakčních pravidel."
+      ],
+      "why_matters": "Privacy Filter je dnes jedna z nejjednodušších cest, jak dostat LLM aplikaci přes audit GDPR a HIPAA."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Křesťanští tvůrci na Fiverru zadávají AI slop ve velkém, dělají hlavně biblická videa",
+      "title_orig": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
+      "source": "The Verge AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Verge popisuje rostoucí ekosystém freelancerů na Fiverru, kteří pro křesťanské tvůrce vyrábějí AI generovaná videa s biblickými výjevy.",
+        "Cena za balík desítek krátkých klipů se pohybuje v desítkách dolarů, kvalita variuje od přijatelné kompozice po obvyklý AI slop.",
+        "Autor článku upozorňuje, že tato vlna sytí YouTube Shorts a TikTok, kde algoritmus křesťanské obsahy odměňuje nadprůměrným dosahem."
+      ],
+      "why_matters": "Náboženské komunity se stávají nejviditelnějším testem toho, kde končí kreativita a začíná masová produkce AI obsahu."
+    }
+  ]
+}

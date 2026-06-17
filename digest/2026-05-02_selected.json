@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-02",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Pentagon podepsal utajené smlouvy s OpenAI, Googlem a Nvidií, Anthropic vynechal",
+      "title_orig": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia - but not Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+      "source": "The Verge AI",
+      "category": "labs",
+      "summary_cs": [
+        "DOD si nakontraktoval nasazení modelů na klasifikované sítě zároveň od OpenAI, Google a Nvidia, plus Microsoft a AWS jako infrastruktura.",
+        "Anthropic chybí v seznamu, navazuje to na nedávný spor o podmínky používání modelů Claude pro určité obranné účely.",
+        "Pentagon tím cíleně diverzifikuje AI dodavatele a posílá signál, že nechce být závislý na jednom labu."
+      ],
+      "why_matters": "Vládní zakázky určují, kdo bude defaultní AI dodavatel pro západní obranu na příští dekádu."
+    },
+    {
+      "rank": 2,
+      "title_cs": "xAI vypustila Grok 4.3 za agresivně nízkou cenu, k tomu rychlý voice-cloning",
+      "title_orig": "xAI launches Grok 4.3 at an aggressively low price and a new, fast, powerful voice cloning suite",
+      "url": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Nový proprietární base model i přes rozjetý Muskův soud s Altmanem, xAI cílí na cenu a rychlost spíš než na špičkové benchmarky.",
+        "Součástí releasu je voice-cloning sada, která umí naklonovat hlas v reálném čase a okamžitě ho použít v hovoru.",
+        "Cenovka v API výrazně podráží Claude i GPT, xAI tím útočí na startupy, které řeší unit-economics na inference."
+      ],
+      "why_matters": "Cenová válka se přesouvá z labů na enterprise dodavatele, marže OpenAI a Anthropicu jsou pod tlakem."
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI vydal pětibodový plán Cybersecurity in the Intelligence Age",
+      "title_orig": "Cybersecurity in the Intelligence Age",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI navrhuje pět konkrétních kroků, jak demokratizovat AI obranu kritické infrastruktury proti rostoucím útokům s pomocí AI.",
+        "Plán mimo jiné počítá se sdílením hrozeb mezi vendory, certifikovanými AI security agenty a vyšší investicí do red-teamu.",
+        "Načasování je politické, OpenAI hledá pozici v debatě o AI v obraně po Pentagonu a kritice limitů u modelu Cyber."
+      ],
+      "why_matters": "Zarámování pravidel pro AI cyber-defense rozhoduje, kdo bude smět prodávat do regulovaných sektorů."
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI škáluje Stargate, staví výpočetní infrastrukturu pro éru inteligence",
+      "title_orig": "Building the compute infrastructure for the Intelligence Age",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI rozšiřuje program Stargate o další lokality datových center, aby pokryl rostoucí poptávku po AI compute pro AGI ambice.",
+        "Strategicky zdůrazňuje, že compute je dnes hlavní úzké hrdlo, ne data ani modely, a kapitálové výdaje jsou nutnost.",
+        "Posun následuje po deal s AWS a po nové fázi partnerství s Microsoftem, OpenAI rozkládá závislost na jednom hyperscaleru."
+      ],
+      "why_matters": "Kdo si zajistí GPU kapacitu na 2027-2028, určí, kdo přežije příští kolo AI závodu."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Choco automatizuje distribuci potravin pomocí AI agentů od OpenAI",
+      "title_orig": "Choco automates food distribution with AI agents",
+      "url": "https://openai.com/index/choco",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Berlínský startup Choco nasadil OpenAI API na zpracování objednávek mezi restauracemi a velkoobchody, papírové procesy nahradili agenty.",
+        "Customer story ukazuje konkrétní metriky růstu produktivity a snížení chyb v zakázkách, OpenAI to prezentuje jako vzor enterprise nasazení.",
+        "Pro běžné firmy je to praktická šablona, jak postavit agenta na úzkou doménu místo univerzálního chatbota."
+      ],
+      "why_matters": "Reálné case studies konečně přesvědčí české střední firmy, že AI nemusí být jen chat, ale i operativa."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Studie: empatičtější modely chybují častěji, ladění na pocit uživatele snižuje pravdivost",
+      "title_orig": "Study: AI models that consider user's feeling are more likely to make errors",
+      "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+      "source": "Ars Technica",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci ukazují, že nadměrné ladění na uživatelskou spokojenost (sykofancie) vede modely k upřednostnění příjemné odpovědi před fakticky správnou.",
+        "Efekt je měřitelný napříč rodinami modelů, projevuje se hlavně u kontroverzních a osobních dotazů, kde model raději souhlasí.",
+        "Práce dává vendorům nepříjemný argument, příliš milý chatbot je horší pro produktové scénáře jako medicína nebo finance."
+      ],
+      "why_matters": "Pro firmy je to varování proti tendenci preferovat 'líbivé' modely v uživatelských testech."
+    },
+    {
+      "rank": 7,
+      "title_cs": "GPT-5.5 dorovnává hyperhypovaný Mythos Preview v nových cyber-bezpečnostních testech",
+      "title_orig": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
+      "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
+      "source": "Ars Technica",
+      "category": "research",
+      "summary_cs": [
+        "Nezávislí researcheři porovnali GPT-5.5 a Mythos Preview na sadě capture-the-flag a exploit úloh, výsledky jsou stejně dobré nebo lepší.",
+        "Mythos byl marketován jako průlom v offensivní cyber kapacitě, výsledek tu narativ relativizuje a tlačí debatu zpět k metodologii evalů.",
+        "Studie znovu otevírá otázku, jestli má smysl gating capabilities, když konkurence dorovná během dvou týdnů."
+      ],
+      "why_matters": "Výsledek tlumí paniku okolo Mythosu a dává firmám čas zvažovat dual-use politiky bez tlaku marketingu."
+    },
+    {
+      "rank": 8,
+      "title_cs": "DeepInfra se zapojil do Hugging Face Inference Providers",
+      "title_orig": "DeepInfra on Hugging Face Inference Providers",
+      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "DeepInfra je nově dostupný jako provider pro Inference v Hugging Face Hubu, uživatelé volí ho přímo v UI nebo přes klienta.",
+        "Vývojáři tak mají další low-cost cestu, jak hostovat open-source modely bez vlastní infrastruktury, navíc s konzistentním API.",
+        "Pro HF je to další krok k roli neutrálního marketu pro inferenci, kde si zákazník vybere providera podle ceny a regionu."
+      ],
+      "why_matters": "Levnější self-hosting open-source modelů snižuje práh pro experimenty bez závislosti na uzavřených API."
+    },
+    {
+      "rank": 9,
+      "title_cs": "200 tisíc MCP serverů má díru pro spuštění příkazů, Anthropic říká, že je to feature",
+      "title_orig": "200,000 MCP servers expose a command execution flaw that Anthropic calls a feature",
+      "url": "https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Audit od Ox Security ukazuje, že stdio transport v Model Context Protocolu umožňuje vzdáleně spustit shell příkaz na serveru, který agent volá.",
+        "Postiženo je odhadem přes 200 tisíc nasazených MCP serverů, většina běží bez sandboxu a bez ověřování zdroje volání.",
+        "Anthropic to nepovažuje za chybu protokolu, ale za očekávané chování, mitigation má řešit deployer, nikoli specifikace."
+      ],
+      "why_matters": "Tým, který nasadí MCP bez sandboxu a allowlistu nástrojů, riskuje doslova RCE skrze prompt."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Salesforce vydává Agentforce Operations, vrstva pro řízení podnikových agentů",
+      "title_orig": "Salesforce launches Agentforce Operations to fix the workflows breaking enterprise AI",
+      "url": "https://venturebeat.com/orchestration/salesforce-launches-agentforce-operations-to-fix-the-workflows-breaking-enterprise-ai",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Salesforce přiznává, že enterprise AI selhává hlavně na workflow vrstvě, kde agentní handoffy padají a chyby se kumulují.",
+        "Agentforce Operations přidává monitoring, retry logiku a observability nad agenty, kteří už běží v produkci u zákazníků.",
+        "Produkt je odpověď na rostoucí konkurenci od Writeru a Microsoftu, kteří útočí na stejnou orchestrační niku."
+      ],
+      "why_matters": "Bez observability vrstvy nad agenty nelze enterprise nasazení provozovat, je to nutná infrastruktura."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Microsoft chce, aby právníci věřili novému AI agentovi přímo ve Wordu",
+      "title_orig": "Microsoft wants lawyers to trust its new AI agent in Word documents",
+      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Microsoft pouští do Wordu specializovaného právního agenta, který kontroluje smlouvy, navrhuje doložky a označuje rozpory v textu.",
+        "Funkce cílí na advokátní kanceláře a in-house teamy, integrace ide nad existující dokumenty bez nutnosti exportu.",
+        "Microsoft tím otevírá frontu proti specializovaným startupům jako Harvey nebo Legora, které do teď držely segment."
+      ],
+      "why_matters": "Specializovaní legal AI hráči ztrácejí distribuční výhodu, Office má přístup k 90 procentům právníků."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Meta kupuje robotický startup Assured Robot Intelligence pro humanoidní AI",
+      "title_orig": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Meta akvíruje Assured Robot Intelligence, tým posílí AI modely pro humanoidní roboty, kteří jsou částí dlouhodobé AGI strategie firmy.",
+        "Cena nebyla zveřejněná, jde o doplněk k Yannově FAIR větvi, která už pracuje na embodied modelech a world simulátorech.",
+        "Pohyb následuje vlnu akvizic v humanoidní robotice, kdy Tesla, Apptronik a 1X tlačí na komerční nasazení."
+      ],
+      "why_matters": "Humanoidi se stávají dalším hlavním bojištěm po LLM, Meta nechce zopakovat zaspání u OpenAI."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Musk vs. Altman, první týden soudu: tvrzení o oklamání, varování před AI a přiznání distillace",
+      "title_orig": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI's models",
+      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "source": "MIT Technology Review",
+      "category": "business",
+      "summary_cs": [
+        "MIT TR shrnuje první týden soudu: Musk argumentuje, že ho Altman a Brockman oklamali při převodu OpenAI na ziskovou strukturu.",
+        "Musk u soudu opakovaně varoval, že AI nás může všechny zničit, čímž posiluje svou pozici dlouhodobého kritika rychlosti vývoje.",
+        "Nově také pod přísahou potvrdil, že xAI destiluje výstupy modelů OpenAI při tréninku Groku, což je v rozporu s jeho vlastní rétorikou."
+      ],
+      "why_matters": "Verdikt může změnit strukturu vlastnictví OpenAI a definovat, jak se v USA bude ohýbat nezisková forma AI labu."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Super-PAC podporovaný OpenAI a Palantirem platí TikTok influencery, aby strašili čínskou AI",
+      "title_orig": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+      "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Wired našel kampaň financovanou přes super-PAC, který je podle dokumentů napojený na OpenAI a Palantir, na úspěch čínských AI modelů.",
+        "Influenceři dostávají skripty, které čínské modely líčí jako bezpečnostní hrozbu pro USA bez vyvážených technických argumentů.",
+        "Story otevírá nepříjemnou debatu, jestli si americké AI labs platí veřejné mínění, místo aby konkurovaly produktem."
+      ],
+      "why_matters": "Pro českého čtenáře je to ukázka, jak je důležité odlišit lobbing od reálných bezpečnostních rizik."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Silicon Valley má problém, AI ho akceleruje a může z něj být globální realitní krize",
+      "title_orig": "Silicon Valley má problém, který akceleruje umělá inteligence. Může z něj být globální realitní krize",
+      "url": "https://cc.cz/silicon-valley-ma-problem-ktery-akceleruje-umela-inteligence-muze-z-nej-byt-globalni-realitni-krize/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Tech firmy v Bay Area propouští kvůli AI navzdory rekordním ziskům, propuštění zaměstnanci ale drží mnohamilionové hypotéky.",
+        "Pokud sestup zaměstnanosti bude pokračovat, může spustit lokální propad cen nemovitostí, který se potenciálně přelije do dalších regionů.",
+        "Článek zařazuje AI vlnu do širšího makroekonomického kontextu, propojuje produktivitu s riziky pro spotřebitelské úvěry."
+      ],
+      "why_matters": "České firmy by měly sledovat, jak AI propouštění deformuje místní trhy práce, aby se vyhnuly stejné chybě."
+    }
+  ]
+}

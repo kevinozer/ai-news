@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-21",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI model vyvrátil 80 let starou geometrickou domněnku za méně než tisíc dolarů",
+      "title_orig": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Reasoning model OpenAI vyřešil tzv. unit distance problem v rovině, otevřený od roku 1946, a vyvrátil centrální domněnku v diskrétní geometrii.",
+        "Stálo to přes API méně než 1 000 dolarů a matematici, kteří OpenAI nedávno přistihli při dřívějším falešném tvrzení, výsledek tentokrát potvrdili.",
+        "Je to první vážná ukázka, že LLM mohou samostatně přijít s netriviálním matematickým objevem, ne jen reprodukovat známé důkazy."
+      ],
+      "why_matters": "Posouvá hranici toho, co AI umí v původním výzkumu, a zvedá tlak na akademii i konkurenční laby."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic se chystá na první ziskový kvartál, tržby zdvojnásobí na 10,9 miliardy",
+      "title_orig": "Anthropic says it's about to have its first profitable quarter",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Anthropic řekl investorům, že ve druhém kvartálu více než zdvojnásobí tržby na zhruba 10,9 miliardy dolarů.",
+        "Bude to první kvartál v ziskové zóně, hlavním motorem jsou enterprise kontrakty na Claude a API traffic od Codexu a agentických nástrojů.",
+        "Posun do zisku přichází ve chvíli, kdy konkurenti OpenAI a xAI stále spalují miliardy na výstavbu compute kapacit."
+      ],
+      "why_matters": "Vyvrací mýtus, že frontier laby nemůžou být ziskové, a mění tón debaty o AI bublině."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic bude platit xAI 1,25 miliardy dolarů měsíčně za výpočetní kapacitu",
+      "title_orig": "Anthropic will pay xAI $1.25B per month for compute",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic uzavřel s Muskovým xAI smlouvu na pronájem výpočetní kapacity za 1,25 miliardy dolarů měsíčně, údaj se objevil v SpaceX IPO filingu.",
+        "Pro xAI je to zásadní zdroj cashflow z infrastruktury Colossus, pro Anthropic další podlaha pod scaling kapacit po dohodách s Google a AWS.",
+        "Vznikl zvláštní paradox, kdy dvě veřejně rivalitní laby jsou si vzájemně klíčovým dodavatelem a zákazníkem."
+      ],
+      "why_matters": "Compute je nová ropa, a kdo má elektřinu a GPU, kupuje si vliv napříč celým AI trhem."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Cerebras spustil bilionový model Kimi K2.6 sedmkrát rychleji než GPU cloudy",
+      "title_orig": "Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds",
+      "url": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds",
+      "source": "VentureBeat AI",
+      "category": "research",
+      "summary_cs": [
+        "Cerebras běží čínský open-weight model Kimi K2.6 s 1 bilionem parametrů na rychlosti 981 tokenů za sekundu, nezávisle ověřeno firmou Artificial Analysis.",
+        "Žádný GPU provider se k tomuto výkonu zatím nepřiblížil, Cerebras tím útočí na inference market dominovaný NVIDIA Blackwellem.",
+        "Týden po největším tech IPO roku 2026 je to jasný signál, že wafer-scale architektura je konkurenceschopná i pro největší modely."
+      ],
+      "why_matters": "Nová generace inference hardwaru může zlevnit a zrychlit reálné nasazení agentů."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Cohere vydal Command A+ pod Apache 2.0, řeší lossless kvantizaci a nativní citace",
+      "title_orig": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
+      "url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a",
+      "source": "VentureBeat AI",
+      "category": "open-source",
+      "summary_cs": [
+        "Command A+ je 218miliardový model laděný na reasoning, multimodální dokumenty a agentické workflows, Cohere ho vydal jako svůj první plně Apache 2.0 model.",
+        "Klíčové novinky jsou lossless kvantizace bez ztráty kvality a nativní citace přímo v odpovědi, oboje cílí na enterprise nasazení.",
+        "Přichází krátce po oznámení fúze s německou Aleph Alpha a posiluje pozici Cohere jako evropsko-kanadské alternativy k OpenAI."
+      ],
+      "why_matters": "Plně otevřená licence Apache 2.0 znamená, že firmy mohou model nasadit i komerčně bez vendor lock-inu."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Stability AI vydal audio model, který generuje šestiminutové skladby",
+      "title_orig": "Stability AI releases a new audio model that can create 6-minute songs",
+      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Stability Audio 3.0 zvládne generovat skladby dlouhé až šest minut, model má i menší variantu pro běh přímo na zařízení s dvouminutovým limitem.",
+        "Stability se snaží konkurovat Suno a Udio v komerčním AI hudebním tržním podílu po sérii právních sporů kolem autorských práv.",
+        "Cílí na tvůrce, kteří potřebují podkresovou hudbu pro videa a podcasty bez nutnosti licencovat skladby od labelů."
+      ],
+      "why_matters": "AI hudba se posouvá z 30sekundových demo klipů na plnohodnotné skladby použitelné v produkci."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Google spustil Managed Agents API, nasazení agenta zvládne jediný API call",
+      "title_orig": "Google's Managed Agents API promises one-call deployment at the cost of execution layer control",
+      "url": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Managed Agents v Gemini API přesouvají sandboxy, tool-calling infrastrukturu a execution environment z firmy na Google, vývojář spustí agenta jediným voláním.",
+        "Cena za rychlost je menší kontrola nad execution layer, což některé enterprise týmy řeší jako kompromis mezi velocity a observability.",
+        "Spolu s Antigravity CLI tvoří uzavřený stack, kterým Google láká vývojáře pryč od Anthropic AgentKit a OpenAI Assistants API."
+      ],
+      "why_matters": "Pokud Google získá execution vrstvu, model providers ztratí kontakt s tím, co agenti reálně dělají u zákazníka."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Figma přidává AI asistenta přímo na svůj kolaborativní canvas",
+      "title_orig": "Figma adds an AI assistant to its collaborative canvas",
+      "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Nový AI agent ve Figmě umí na základě textového promptu generovat nové designy, upravovat existující a automatizovat opakující se úkoly jako iterování variant.",
+        "Asistent běží přímo v multiplayer canvas, kde návrhář a AI pracují vedle sebe, podobně jako u GitHub Copilotu v IDE.",
+        "Figma se tím staví do role design-native platformy pro vibe-coding, konkurující Canvy a novějším AI-first nástrojům."
+      ],
+      "why_matters": "Designerské workflow se z ručního pixel pushingu posouvá k prompt-driven iteracím."
+    },
+    {
+      "rank": 9,
+      "title_cs": "DeepMind: Gemini for Science nabízí AI nástroje pro chemii, biologii a fyziku",
+      "title_orig": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "source": "Google DeepMind Blog",
+      "category": "labs",
+      "summary_cs": [
+        "DeepMind sjednotil své vědecké AI nástroje pod značku Gemini for Science, navazuje na AlphaFold, AlphaProteo a další úspěchy v computational biology.",
+        "Sada experimentů sahá od materiálového designu přes analýzu satelitních dat po vědecký reasoning ve smíšených domain-specific modelech.",
+        "Cílí na akademiky a R&D týmy ve farmacii, energetice a klimatickém výzkumu, kteří potřebují AI vrstvu nad svými datovými soubory."
+      ],
+      "why_matters": "Vědecký workflow je další velký trh pro frontier laby, kde rozhoduje doménová specifikace dat a modelů."
+    },
+    {
+      "rank": 10,
+      "title_cs": "DeepMind Co-Scientist objevil nové cesty, jak omladit lidské buňky",
+      "title_orig": "Fast-tracking genetic leads to reverse cellular aging",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "source": "Google DeepMind Blog",
+      "category": "research",
+      "summary_cs": [
+        "Biologové ve spolupráci s DeepMind Co-Scientist agentem našli nové genetické faktory, které úspěšně rejuvenují stárnoucí lidské buňky.",
+        "Co-Scientist je AI agent, který umí navrhovat hypotézy, číst literaturu a doporučit experimenty, čímž zkracuje cyklus výzkum-validace.",
+        "Výsledek je další ukázka, že agentic AI se posouvá z chatu do laboratoře a má reálný dopad na životní vědy."
+      ],
+      "why_matters": "Pokud AI agenti zrychlují biomedicínský výzkum, terapie pro stárnutí se mohou objevit dřív, než se čeká."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Tvůrce NanoClaw odmítl 20milionový buyout, vybral si 12milionový seed",
+      "title_orig": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "NanoClaw je open-source AI agent harness, který běží sandboxovaný v kontejneru, alternativa k OpenClaw bez přímého přístupu k hostiteli.",
+        "Tvůrce odmítl 20milionovou akvizici a vybral si 12milionové seed kolo, aby si udržel kontrolu nad směrem produktu a enterprise vrstvou.",
+        "Projekt si rychle získává trakci u firem, které potřebují agenty bez bezpečnostních kompromisů typu native code execution na desktopu."
+      ],
+      "why_matters": "Sandboxované agentic harnessy jsou bezpečnostní standard, který OpenClaw poprvé nezvládl."
+    },
+    {
+      "rank": 12,
+      "title_cs": "SpaceX poprvé otevřel účetní knihy, IPO podáno na červen",
+      "title_orig": "Famously secret about its finances, SpaceX opens its books for the first time",
+      "url": "https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/",
+      "source": "Ars Technica",
+      "category": "business",
+      "summary_cs": [
+        "SpaceX podal detailní S-1 filing před červnovým IPO, dlouho tajná čísla o tržbách, ztrátách i závislosti na Starlinku jsou poprvé veřejná.",
+        "Filing odhalil i Anthropic-xAI compute deal za 1,25 miliardy měsíčně, ztráty xAI 6,4 miliardy za rok a Grok Spicy mode jako rizikový faktor pro investory.",
+        "TAM SpaceX firma popsala jako největší v historii lidstva, což analytici komentují jako klasický Musk nadnesený marketing."
+      ],
+      "why_matters": "Otevřené finance ukazují, jak hluboko Muskova AI a space impérium souvisejí a křižují se s celým AI trhem."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Jensen Huang slíbil další 200miliardový trh: CPU pro AI agenty",
+      "title_orig": "Jensen Huang says he's found a 'brand new' $200B market for Nvidia",
+      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Nvidia CEO Jensen Huang prohlásil, že další velkou kapitolou pro firmu budou CPU specializované na agentické workflows, trh v hodnotě 200 miliard dolarů.",
+        "Vyhlášení přišlo s rekordním kvartálem Nvidia a oznámením, že firma drží podíly v AI startupech v hodnotě 43 miliard dolarů.",
+        "Huang argumentuje, že AI agenti tráví víc času orchestrací a méně inference, což si vyžaduje jiný typ čipu, ne další GPU."
+      ],
+      "why_matters": "Nvidia se nechce nechat zaškatulkovat jen jako GPU firma a kupuje si vliv napříč celým agent stackem."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Lupa.cz: superschopný Claude, MCP zranitelnost a proč nesahat na VPN",
+      "title_orig": "Superschopný Claude Mythos, zranitelnost v MCP a proč nesahat na VPN",
+      "url": "https://www.lupa.cz/clanky/superschopny-claude-mythos-zranitelnost-v-mcp-a-proc-nesahat-na-vpn/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Lupa.cz shrnuje aktuální týden v AI z české perspektivy, hlavní téma je nový Claude a Anthropic strategie pre-trainingu pod Karpathym.",
+        "Druhým tématem je nedávno zveřejněná zranitelnost v Model Context Protocolu, která může vést k tichému exfiltrování dat přes nakažený MCP server.",
+        "Autoři varují i před módními tipy na obcházení omezení přes VPN, které u AI služeb často znamenají porušení ToS a ban účtu."
+      ],
+      "why_matters": "Domácí čtenář dostává českou interpretaci dění, kterou globální zdroje neřeší."
+    },
+    {
+      "rank": 15,
+      "title_cs": "GitHub potvrdil krádež 3 800 interních repozitářů přes nakaženou VS Code extension",
+      "title_orig": "GitHub confirms 3,800 internal repos stolen through poisoned VS Code extension",
+      "url": "https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk",
+      "source": "VentureBeat AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Skupina TeamPCP, sledovaná Google TIG jako UNC6780, získala přístup k 3 800 interním GitHub repozitářům přes nakaženou VS Code extension na zařízení zaměstnance.",
+        "Repozitáře jsou nabízeny v podzemí od 50 000 dolarů, GitHub potvrdil, že tvrzení útočníka je směrově konzistentní s vyšetřováním.",
+        "Stejnou cestou prošel i supply chain worm v Microsoft Python SDK, varování zveřejnily firmy Trend Micro, StepSecurity a Snyk."
+      ],
+      "why_matters": "Vývojářské nástroje jsou nový privilegovaný vstupní bod, který obrana ve firmách stále podceňuje."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-29",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Microsoft a OpenAI ukončují exkluzivitu, OpenAI poputuje i na AWS a Google Cloud",
+      "title_orig": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud",
+      "url": "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Obě firmy přepsaly podmínky partnerství: padá výhradní cloudová exkluzivita i původní share-of-revenue klauzule, dohoda je nově časově omezená.",
+        "OpenAI může okamžitě prodávat své modely a Codex na AWS a v dohledné době i na Google Cloud, Microsoft za to dostává vyšší podíl z příjmů.",
+        "Dohoda zároveň zahrnuje konec slavné AGI klauzule, která Microsoftu rušila IP práva v okamžiku, kdy by OpenAI dosáhla obecné inteligence."
+      ],
+      "why_matters": "Největší přestavba mocenských vztahů v komerčním AI od roku 2019, dopadne na cenotvorbu i partnerství enterprise."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Claude se umí připojit do Photoshopu, Blenderu i Abletonu",
+      "title_orig": "Claude can now plug directly into Photoshop, Blender, and Ableton",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
+      "source": "The Verge AI",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic spustil sadu konektorů, díky kterým Claude umí ovládat aplikace Adobe Creative Cloud, Affinity, Blender, Ableton i Autodesk.",
+        "Cílem je vstoupit do kreativního průmyslu a navázat na předchozí počiny typu Claude for Education a Claude for Enterprise.",
+        "Konektory poběží přes Anthropic účet a tvoří přemostění mezi promptem v Claude a konkrétní akcí v softwaru."
+      ],
+      "why_matters": "Z chatbota se stává reálný pomocník pro grafiky, hudebníky a 3D designéry, ne jen psací nástroj."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Musk versus Altman: první den soudu, OpenAI v sázce",
+      "title_orig": "Musk and Altman face off in trial that will determine OpenAI's future",
+      "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
+      "source": "Ars Technica",
+      "category": "business",
+      "summary_cs": [
+        "Elon Musk ve federálním soudu v Oaklandu poprvé pod přísahou popisuje vznik OpenAI a tvrdí, že Altman a Brockman zradili původní neziskovou misi.",
+        "Sporné body jsou Muskem investovaných 38 milionů dolarů, posun OpenAI na for-profit model a vlastnictví ChatGPT.",
+        "Soudce už oba tábory napomenul, ať si přestanou dělat naschvály na sociálních sítích, výsledek může změnit budoucí strukturu OpenAI."
+      ],
+      "why_matters": "Verdikt může ovlivnit, kdo bude mít kontrolu nad jednou z nejvlivnějších AI firem světa."
+    },
+    {
+      "rank": 4,
+      "title_cs": "GitHub Copilot začne účtovat podle skutečné spotřeby AI",
+      "title_orig": "GitHub will start charging Copilot users based on their actual AI usage",
+      "url": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
+      "source": "Ars Technica",
+      "category": "tools",
+      "summary_cs": [
+        "GitHub končí s plochým paušálem pro Copilot a přechází na model usage-based, kde se účtují reálné inferenční tokeny.",
+        "Důvodem je rostoucí náklad na nejtěžší uživatele, který už Microsoft a GitHub odmítají dotovat ze stávajících tarifů.",
+        "Změna se nejvíc dotkne agentických scénářů a velkých kontextových oken, kdy Copilot generuje stovky tisíc tokenů denně na uživatele."
+      ],
+      "why_matters": "Nastavuje nový precedens cenotvorby u AI nástrojů, éra fixních cen za neomezenou inferenci končí."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Poolside vydává Laguna XS.2, výkonný open-source model pro lokální agentické kódování",
+      "title_orig": "American AI startup Poolside launches free, high-performing open model Laguna XS.2 for local agentic coding",
+      "url": "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding",
+      "source": "VentureBeat AI",
+      "category": "open-source",
+      "summary_cs": [
+        "Americký startup Poolside vypustil zdarma svůj nový kódovací model Laguna XS.2 určený pro běh lokálně, bez závislosti na cloudových API.",
+        "Cílí na vývojáře, kteří chtějí agentické workflow přímo na vlastním železe, s důrazem na latenci, soukromí a offline provoz.",
+        "Vychází mezi Claude Opus 4.7 a GPT-5.5 a doplňuje rostoucí vlnu výkonných open-weight kódovacích modelů včetně čínských."
+      ],
+      "why_matters": "Lokální agentické modely srovnatelné s frontier API znamenají, že kódovací AI přestává být jen cloudová služba."
+    },
+    {
+      "rank": 6,
+      "title_cs": "DeepSeek pouští náhled svého nového vlajkového modelu V4",
+      "title_orig": "Three reasons why DeepSeek's new model matters",
+      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+      "source": "MIT Technology Review",
+      "category": "open-source",
+      "summary_cs": [
+        "Čínská laboratoř DeepSeek zveřejnila preview verzi DeepSeek V4, dlouho očekávaného nástupce řad V3 a R1.",
+        "MIT Tech Review uvádí tři důvody, proč model rozjíždí nové debaty: efektivita tréninku, geopolitický tlak a pokrok ve world models.",
+        "DeepSeek V4 zapadá do trendu, kdy čínští hráči nabízejí frontier kvalitu za zlomek nákladů západních laboratoří."
+      ],
+      "why_matters": "Tlačí cenu i kvalitu evropských a amerických modelů, čínský open-source ekosystém roste rychleji než se čekalo."
+    },
+    {
+      "rank": 7,
+      "title_cs": "NVIDIA Nemotron 3 Nano Omni: multimodální model pro dokumenty, zvuk a video",
+      "title_orig": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "source": "Hugging Face Blog",
+      "category": "labs",
+      "summary_cs": [
+        "NVIDIA představila open-weight multimodální model Nemotron 3 Nano Omni s dlouhým kontextovým oknem a podporou textu, audia i videa.",
+        "Vznikl s důrazem na agentické workflow nad PDF, schůzkami a video archivy, tedy use cases, které firmy nejvíc potřebují.",
+        "Kompaktní velikost a otevřené váhy umožňují běh na jedné GPU stanici nebo enterprise edge serveru."
+      ],
+      "why_matters": "Open-weight multimodální modely jsou klíčové pro firemní agenty, kteří pracují s reálnými dokumenty a nahrávkami."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Ethan Mollick: GPT-5.5 je další jasný krok na exponenciále schopností",
+      "title_orig": "Sign of the future: GPT-5.5",
+      "url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+      "source": "One Useful Thing (Mollick)",
+      "category": "research",
+      "summary_cs": [
+        "Profesor Ethan Mollick popisuje GPT-5.5 jako tichý, ale podstatný posun: lepší plánování, méně halucinací, mnohem lepší práce s nástroji.",
+        "Kvalitativně oceňuje, že model je výrazně užitečnější v dlouhých agentických úlohách a v ekonomickém modelování.",
+        "Dochází k závěru, že rozdíl mezi GPT-5 a GPT-5.5 je menší než mezi GPT-4 a GPT-5, ale za to konzistentnější napříč oblastmi."
+      ],
+      "why_matters": "Jeden z mála hlasů, kterému tech komunita věří v hodnocení modelů z pohledu reálného použití."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Mistral spouští Workflows, orchestraci AI postavenou na Temporalu",
+      "title_orig": "Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions",
+      "url": "https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Pařížský Mistral, oceněný na 13,8 miliardy dolarů, dal do veřejného preview Workflows, vrstvu pro produkční AI orchestraci postavenou na Temporalu.",
+        "Cílí na firmy, kterým končí éra POC a potřebují přenést AI agenty do reálných business procesů s SLA, retry a auditovatelností.",
+        "Podle Mistralu už služba zvládá miliony spuštění denně u prvních enterprise zákazníků."
+      ],
+      "why_matters": "Evropská odpověď na agent frameworky od OpenAI a AWS, konkurenční tlak v enterprise orchestraci roste."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Čína zablokovala dvoumiliardovou akvizici Manus od Mety",
+      "title_orig": "China blocks Meta's $2B Manus deal after months-long probe",
+      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Čínské úřady po několikaměsíčním řízení odmítly převzetí AI startupu Manus, který Meta plánovala koupit za 2 miliardy dolarů.",
+        "Manus patří k nejvýraznějším čínským agentickým laboratořím, přesun do Singapuru měl podle Pekingu obejít bezpečnostní kontroly.",
+        "Případ je signál: Čína bude blokovat odliv AI talentu i přes přemístění firem do třetích jurisdikcí."
+      ],
+      "why_matters": "Geopolitické bariéry kolem AI talentu rostou, americké firmy budou hůř kupovat čínské know-how."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Otec AlphaGo David Silver staví firmu za 100 miliard, věří na superlearners",
+      "title_orig": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
+      "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Bývalý šéf RL výzkumu Google DeepMind David Silver odešel a postavil v Londýně startup, který už po pár měsících atakuje valuaci přes 100 miliard.",
+        "Silver tvrdí, že současná cesta přes velké language modely není správná, chce stavět agenty, kteří se učí výhradně z vlastní zkušenosti.",
+        "Filozofie navazuje na úspěch AlphaGo a AlphaZero a naráží na dnešní dominantní paradigma škálování LLM."
+      ],
+      "why_matters": "Pokud má pravdu, další skok ve schopnostech přijde z reinforcement learningu, ne z dalšího GPT."
+    },
+    {
+      "rank": 12,
+      "title_cs": "YouTube testuje AI vyhledávání s vedeným odpovídáním",
+      "title_orig": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "YouTube spouští u amerických Premium předplatitelů AI vyhledávání, které místo seznamu videí vrátí strukturovanou odpověď s odkazy na konkrétní pasáže.",
+        "Funkce je opt-in a zatím jen na vybraných dotazech, typicky how-to a recenze produktů.",
+        "Krok navazuje na Google AI Overviews ve vyhledávači a posouvá YouTube blíž k tomu být hlavní AI knowledge engine."
+      ],
+      "why_matters": "Pro tvůrce kanálů to znamená, že traffic přes vyhledávání se může zásadně přerozdělit."
+    },
+    {
+      "rank": 13,
+      "title_cs": "General Motors přidá Gemini do čtyř milionů aut",
+      "title_orig": "General Motors is adding Gemini to four million cars",
+      "url": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+      "source": "The Verge AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "GM rozšíří asistenta Google Gemini do zhruba čtyř milionů vozů Cadillac, Chevrolet, Buick a GMC ročníku 2022 a novějších s Google built-in.",
+        "Aktualizace se rozjede přes několik měsíců formou OTA updatu infotainment systému.",
+        "Hlasový asistent v autě se konečně posune od příkazů ke konverzaci, řidič může plánovat trasu, hledat informace nebo skládat e-maily."
+      ],
+      "why_matters": "Frontier AI poprvé masově přichází do běžných aut, ne jen jako prémiová funkce."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Humanoidní roboti začali třídit kufry na tokijském letišti",
+      "title_orig": "Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage",
+      "url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
+      "source": "Ars Technica",
+      "category": "wildcard",
+      "summary_cs": [
+        "Japan Airlines testuje na Hanedě humanoidní roboty pro nakládání zavazadel a úklid kabin letadel.",
+        "Důvodem je akutní nedostatek pracovní síly, kterou Japonsko v letecké logistice nedokáže pokrýt.",
+        "Pilot je jeden z prvních masivních provozních testů obecných humanoidů mimo továrny."
+      ],
+      "why_matters": "Pokud se osvědčí, otevře se cesta humanoidním robotům do běžné služby, od letišť po logistiku."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Lupa: AI agenti začínají nakupovat za nás, e-shopy je už blokují",
+      "title_orig": "Zakázali mi v e-shopu agenta. Jak začínají pracovat AI boti, kteří nakoupí místo nás",
+      "url": "https://www.lupa.cz/clanky/zakazali-mi-v-e-shopu-agenta-jak-zacinaji-pracovat-ai-boti-kteri-nakoupi-misto-nas/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Lupa popisuje druhou vlnu e-commerce, kde nákupy nedělá člověk, ale AI agent jeho jménem, a už narazil na bariéry.",
+        "Některé velké e-shopy začaly automatizované klienty detekovat a blokovat, brání se ztrátě konverzního trychtýře.",
+        "V hospitalitě a u retailových značek se rozjíždí debata, jak transparentně rozlišovat lidský a agentský traffic."
+      ],
+      "why_matters": "Český pohled na nový front e-commerce: weby přestávají být psané pro lidi a začínají se přizpůsobovat AI."
+    }
+  ]
+}

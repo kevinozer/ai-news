@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-05",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic spouští s Blackstonem, Hellman & Friedman a Goldman Sachs novou firmu pro nasazení AI v podnicích",
+      "title_orig": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "source": "Anthropic News",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic zakládá s trojicí největších private-equity hráčů samostatnou společnost, která bude do velkých korporací nasazovat Claude jako kompletní servis včetně integrace a školení.",
+        "Cílem je obejít typickou bariéru pomalého enterprise prodeje a nabídnout zákazníkům jeden kontrakt místo skládání služeb od desítek konzultantských firem.",
+        "Podle souběžných reportů ve stejný den oznámila OpenAI obdobné joint venture s Bain Capital, takže oba lídři opouštějí čistě softwarový model a vstupují do servisního byznysu."
+      ],
+      "why_matters": "Frontier laby přestávají prodávat jen API a začínají konkurovat tradičním integrátorům jako Accenture nebo Deloitte."
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI ukazuje, jak stavělo voice AI s nízkou latencí pro miliony hovorů",
+      "title_orig": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "source": "OpenAI",
+      "category": "labs",
+      "summary_cs": [
+        "Inženýrský post popisuje přepsanou WebRTC vrstvu, která umožňuje hovory v reálném čase s předáváním slova mezi mluvčím a modelem.",
+        "OpenAI škáluje na celý svět tak, že serverové uzly přesouvá blíž k uživatelům a optimalizuje audio pipeline kvůli ztrátovým sítím.",
+        "Píše se, že stejný stack pohání hlasové funkce v ChatGPT i v API, což ulehčuje firmám stavbu vlastních hlasových aplikací."
+      ],
+      "why_matters": "Latence pod 300 ms je hranice, za kterou hlasoví agenti přestanou znít robotsky a začnou nahrazovat call centra."
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI zavádí Advanced Account Security s phishing-rezistentním přihlašováním",
+      "title_orig": "Introducing Advanced Account Security",
+      "url": "https://openai.com/index/advanced-account-security",
+      "source": "OpenAI",
+      "category": "labs",
+      "summary_cs": [
+        "Nová bezpečnostní vrstva v ChatGPT a API kombinuje passkeys, hardwarové klíče a posílené postupy obnovy účtu.",
+        "Slibuje výrazně omezit account takeover útoky, které dnes míří hlavně na firmy s drahým enterprise plánem.",
+        "Funkce je dostupná zdarma pro všechny uživatele, ale pro citlivé use-cases se doporučuje povinné nasazení skrz Admin konzoli."
+      ],
+      "why_matters": "Účty s historií promptů a napojenými konektory jsou dnes lákavý cíl, OpenAI zavádí ochrany, které měly přijít už dávno."
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI publikoval rozbor toho, odkud se v GPT-5 vzali skřeti",
+      "title_orig": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "source": "OpenAI",
+      "category": "labs",
+      "summary_cs": [
+        "Postmortem vysvětluje, jak se v GPT-5 objevily charakterové úlety, kdy model spontánně přepínal do role karikatury skřeta.",
+        "Zdrojem byla kontaminace tréninkových dat scénářemi a roleplay komunitními datasety, které se dostaly přes filtry.",
+        "OpenAI popisuje opravu na úrovni post-trainingu a chystá lepší detekci personality drift při dalších releaseech."
+      ],
+      "why_matters": "Vzácně otevřený inženýrský pohled na to, proč velké modely občas vyjedou ze své role, a jak to laboratoře řeší."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Sierra zvedá 950 milionů dolarů, do enterprise AI tečou další stovky milionů",
+      "title_orig": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "source": "TechCrunch",
+      "category": "business",
+      "summary_cs": [
+        "Startup spoluzaložený bývalým CEO Salesforce Bretem Taylorem zvedl kolo, které ho posune přes 1 miliardu dolarů v hotovosti na účtech.",
+        "Sierra cílí na enterprise customer experience postavený na agentech, které firmy škálují místo lidských operátorů.",
+        "Investoři sázejí na to, že existují jen tři čtyři kandidáti, kteří se stanou globálním standardem pro AI v zákaznické péči."
+      ],
+      "why_matters": "Závod o vlastnictví enterprise AI vrstvy je drahý a ukazuje, kolik kapitálu se ještě musí spálit, než se najde vítěz."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Simon Willison testuje Granite 4.1 3B na pelikání SVG, malý open-source model překvapivě obstál",
+      "title_orig": "Granite 4.1 3B SVG Pelican Gallery",
+      "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/",
+      "source": "Simon Willison",
+      "category": "open-source",
+      "summary_cs": [
+        "Simon Willison vzal 21 různých GGUF kvantizací Granite 4.1 3B od Unslothu a každou nechal vygenerovat SVG obrázek pelikána na kole.",
+        "Z galerie vychází zajímavý poznatek: i 1,2 GB varianta produkuje rozpoznatelný výsledek, ale stupně kvality se mezi kvantizacemi výrazně liší.",
+        "Celý dataset 21 souborů má 51 GB a slouží jako referenční měření pro to, jak silně vás kvantizace bolí v kreativní úloze."
+      ],
+      "why_matters": "Praktický důkaz, že lokální 3B modely v Apache 2.0 už zvládají tvořivé úkoly bez API a bez závislosti na cloudu."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Nathan Lambert: panika kolem distillation je pojmenovaná špatně, ve skutečnosti jde o něco jiného",
+      "title_orig": "The distillation panic",
+      "url": "https://www.interconnects.ai/p/the-distillation-panic",
+      "source": "Interconnects",
+      "category": "research",
+      "summary_cs": [
+        "Nathan Lambert tvrdí, že termín distillation attack je zavádějící a smíchává dva různé jevy do jedné panické kategorie.",
+        "Část kritiků si pod ním představuje krádež know-how z uzavřeného modelu, druhá část jen běžné využití veřejných odpovědí pro tréning.",
+        "Autor doporučuje rozlišovat mezi reálnou IP kompromitací a rutinním post-trainingem na syntetických datech, jinak diskuse zabřednou."
+      ],
+      "why_matters": "Distillation se stal zaklínadlem v Musk vs OpenAI sporu, srozumitelná taxonomie pojmu pomáhá oddělit drama od techniky."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Vlivná studie chválící ChatGPT ve vzdělávání byla stažena kvůli červeným vlajkám v datech",
+      "title_orig": "Influential study touting ChatGPT in education retracted over red flags",
+      "url": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
+      "source": "Ars Technica",
+      "category": "research",
+      "summary_cs": [
+        "Často citovaná studie tvrdící, že ChatGPT zlepšuje studijní výsledky, byla po revizi stažena vydavatelem.",
+        "Recenzenti našli nesrovnalosti v datech a metodice, které vrhají pochybnost na původně uváděné velikosti efektu.",
+        "Autor textu upozorňuje, že na studii se opírala řada politických doporučení, takže její pád zasahuje i probíhající debaty o AI ve školách."
+      ],
+      "why_matters": "Připomínka, že rané pozitivní studie o AI v praxi je třeba brát opatrně, dokud neprojdou robustní replikací."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Microsoft uvolnil Agent 365 do GA, řeší nárůst stínové AI ve firmách",
+      "title_orig": "Microsoft takes Agent 365 out of preview as shadow AI becomes an enterprise threat",
+      "url": "https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat",
+      "source": "VentureBeat",
+      "category": "tools",
+      "summary_cs": [
+        "Agent 365 je řídící rovina pro AI agenty, která dává IT a security týmům přehled o tom, kdo a co spouští napříč firmou.",
+        "Microsoft argumentuje, že shadow AI, tedy nepovolené použití nástrojů zaměstnanci, je už větší riziko než klasické shadow IT.",
+        "Platforma přebírá auditing, identity, rate-limity a incident response pro agenty bez ohledu na to, kdo je vyrobil."
+      ],
+      "why_matters": "Bez governance vrstvy nad agenty se firmy dostanou do situace, kdy nikdo neví, co AI na jejich datech reálně dělá."
+    },
+    {
+      "rank": 10,
+      "title_cs": "American Express vyrobil agentic commerce stack s intent kontrakty a jednorázovými tokeny",
+      "title_orig": "Inside AMEX's agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions",
+      "url": "https://venturebeat.com/orchestration/inside-amexs-agentic-commerce-stack-how-intent-contracts-and-single-use-tokens-enforce-ai-transactions",
+      "source": "VentureBeat",
+      "category": "tools",
+      "summary_cs": [
+        "AMEX Agentic Commerce Experiences (ACE) dává agentům možnost nakupovat jménem zákazníka, ale jen v rámci přesně definovaného úmyslu.",
+        "Klíčem jsou jednorázové tokeny vázané na konkrétní záměr, takže když agent selže, transakce se vrátí a token zanikne.",
+        "Stack zatím funguje jen v rámci sítě AMEX, ale firma se přidává i do interoperabilních protokolů Google Agent Pay."
+      ],
+      "why_matters": "Bez vymahatelných intent kontraktů nepustí žádná velká banka AI agenta nakupovat za skutečné peníze."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Éra RAG končí, vrstva znalostí pro agenty se přesouvá do compile-time",
+      "title_orig": "The RAG era is ending for agentic AI - a new compilation-stage knowledge layer is what comes next",
+      "url": "https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next",
+      "source": "VentureBeat",
+      "category": "tools",
+      "summary_cs": [
+        "Pulse survey VentureBeat ukazuje, že standalone vektorové databáze ztrácejí podíl, hybridní retrieval se naopak ztrojnásobil.",
+        "Důvod je v tom, že agenti potřebují kontext bohatší než jen embedding hit, takže vrstva znalostí se kompiluje rovnou pro úkol.",
+        "Autoři predikují přesun k novému typu infrastruktury, která propojí grafy, embedinky a strukturovaná data v jedné rovině."
+      ],
+      "why_matters": "Pro každého, kdo dnes investoval do vektorové DB, přichází nepříjemný okamžik rozhodnutí, jestli pivotovat."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Cerebras míří na IPO, valuace by mohla atakovat 26,6 miliardy dolarů",
+      "title_orig": "OpenAI's cozy partner Cerebras is on track for a blockbuster IPO",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "source": "TechCrunch",
+      "category": "business",
+      "summary_cs": [
+        "Výrobce AI čipů Cerebras finalizuje vstup na burzu s valuací, která může přesáhnout 26 miliard dolarů.",
+        "Vztah s OpenAI je hluboký, část kapacit Stargate má jet na Cerebras WSE čipech místo standardních Nvidia GPU.",
+        "Pro investory je to první velká hardwarová sázka mimo Nvidii v probíhající AI vlně."
+      ],
+      "why_matters": "Pokud IPO uspěje, ukáže to, že trh sází i na alternativní křemík a Nvidia má brzy reálnou konkurenci."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Stuart Russell svědčil v procesu Musk vs OpenAI, varuje před AGI závody zbrojení",
+      "title_orig": "Elon Musk's only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "source": "TechCrunch",
+      "category": "news",
+      "summary_cs": [
+        "Stuart Russell, dlouholetý AI vědec a autor učebnice, je jediným expertním svědkem Muskovy strany v probíhajícím sporu.",
+        "Vypovídal, že současná dynamika frontier laboratoří připomíná závody v jaderném zbrojení a vyžaduje regulaci na úrovni vlád.",
+        "OpenAI naopak argumentuje, že Russellovy obavy nemají vztah k samotné podstatě sporu o transformaci na for-profit strukturu."
+      ],
+      "why_matters": "Soud poprvé dostává nahlas akademické varování k tempu vývoje, výsledek může ovlivnit politické debaty o AI Act 2.0."
+    },
+    {
+      "rank": 14,
+      "title_cs": "EU škrtá ambice na AI gigatovárny, dopadne to i na české zájemce",
+      "title_orig": "Zase příliš málo a příliš pozdě? EU tlumí plány na AI gigatovárny, dopadne to i na Česko",
+      "url": "https://www.lupa.cz/aktuality/zase-prilis-malo-a-prilis-pozde-eu-tlumi-plany-na-ai-gigatovarny-dopadne-to-i-na-cesko/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Evropská komise původně plánovala pět velkých datacenter pro AI, kuloárně se teď mluví spíš o dvou kvůli chybějícímu rozpočtu.",
+        "Komplikací je dominance Nvidie a fakt, že karty mají rezervované hlavně američtí hyperscaleři, na Evropu zbývá málo.",
+        "Výzvy s podmínkami se odkládají na červen, mezitím se otvírá paralelní program zaměřený na menší AI factories."
+      ],
+      "why_matters": "Bez velkých EU datacenter zůstane Česko závislé na americké compute kapacitě a nebude kde trénovat suverénní modely."
+    },
+    {
+      "rank": 15,
+      "title_cs": "V pražském fine diningu Triton vaří s AI jménem Jarvis, pomáhá s recepty i inventurou",
+      "title_orig": "Je to AI a jmenuje se Jarvis. V pražském fine diningu pomáhá s recepty, párováním chutí i inventurou",
+      "url": "https://cc.cz/je-to-ai-a-jmenuje-se-jarvis-v-prazskem-fine-diningu-pomaha-s-recepty-parovanim-chuti-i-inventurou/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Pražská zážitková restaurace Triton nasadila vlastního AI asistenta Jarvise pro tvorbu menu, párování chutí a inventurní procesy.",
+        "Šéfkuchař ho používá jako brainstormingového partnera, který dotahuje nápady a navrhuje varianty kombinací surovin.",
+        "Provoz reportuje úsporu času na administrativě i konzistentnější kvalitu degustačních menu napříč směnami."
+      ],
+      "why_matters": "Konkrétní český use-case mimo IT obor ukazuje, že AI dorazila i do gastronomie, ne jen do kanceláří."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-12",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Thinking Machines Miry Murati představil model, který poslouchá i mluví zároveň",
+      "title_orig": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Startup bývalé CTO OpenAI ukázal koncept interaction modelů, které paralelně zpracovávají vstup uživatele a sami generují odpověď.",
+        "Cílem je proměnit konverzaci s AI z chatovacích kol na plynulý dialog podobný telefonnímu hovoru s audio i video kanálem.",
+        "Jde o první veřejný technický milník Thinking Machines od založení, který má rozdělit trh hlasových agentů s OpenAI a Google."
+      ],
+      "why_matters": "Pokud interakční modely uspějí, hlasoví asistenti přestanou působit robotně a otevřou se nové use cases ve službách."
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI zakládá DeployCo, dceřinku pro firemní nasazení AI do produkce",
+      "title_orig": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "DeployCo bude pomáhat firmám převést frontier modely z pilotů do produkčního prostředí a měřit reálný business dopad.",
+        "OpenAI tím přiznává, že prodej API a ChatGPT licencí nestačí, enterprise zákazníci chtějí end-to-end implementační partnerství.",
+        "Jednotka má fungovat jako samostatná deployment company a stojí někde mezi konzultingem a tradičním SaaS produktem."
+      ],
+      "why_matters": "Posouvá AI prodej od licencí k servisnímu modelu, což zvyšuje konkurenční tlak na Accenture i interní implementační týmy."
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI spouští Daybreak, AI iniciativu pro defenzivní hledání zranitelností",
+      "title_orig": "OpenAI just released its answer to Claude Mythos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "source": "The Verge AI",
+      "category": "labs",
+      "summary_cs": [
+        "Daybreak staví na bezpečnostním agentovi Codex Security, který OpenAI uvedlo letos v březnu.",
+        "Z kódu organizace sestaví threat model, ověří pravděpodobné útočné cesty a automatizuje detekci závažných zranitelností.",
+        "Iniciativa je odpovědí na Claude Mythos od Anthropicu a otvírá souboj o pozici defenzivní AI platformy pro velké firmy."
+      ],
+      "why_matters": "Defenzivní AI security začíná být samostatná kategorie a české bezpečnostní firmy budou muset s těmito modely soutěžit nebo je integrovat."
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI vydává GPT-Realtime-2, Translate a Whisper jako novou generaci hlasových API",
+      "title_orig": "GPT-Realtime-2, -Translate, and -Whisper: new SOTA realtime voice APIs",
+      "url": "https://www.latent.space/p/ainews-gpt-realtime-2-translate-and",
+      "source": "Latent Space",
+      "category": "labs",
+      "summary_cs": [
+        "Trio nových modelů posouvá state-of-the-art pro realtime hlasové aplikace, simultánní překlad a přepis řeči.",
+        "OpenAI pokračuje v rozšiřování řady GPT-5 do specializovaných API místo dalšího univerzálního chatbot updatu.",
+        "Vývojáři dostávají alternativu k otevřeným voice modelům typu Moshi a k nově ukázaným Thinking Machines interaction modelům."
+      ],
+      "why_matters": "Pro české integrátory voicebotů to znamená kvalitnější český transkript i překlad v reálném čase za API ceny."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Anthropic se domluvil s xAI na 300MW a 5 miliardách dolarů ročně za přístup k Colossu I",
+      "title_orig": "Anthropic-SpaceXai's 300MW/$5B/yr deal for Colossus I, ARR growth is 8000% annualized",
+      "url": "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
+      "source": "Latent Space",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic si přes Muskovo xAI pronajme 300 megawattů kapacity v datacentru Colossus I a roční částka má činit pět miliard dolarů.",
+        "Smlouva podle zdroje znamená, že kingmaker compute kapacit Musk si vybral stranu, byť historicky kritizoval OpenAI i Anthropic.",
+        "V kontextu rostoucího run rate Anthropicu jde o jeden z největších compute kontraktů uzavřených v roce 2026."
+      ],
+      "why_matters": "Trh s GPU kapacitou se přerozděluje mezi tři dominantní hráče a evropští poskytovatelé compute ztrácejí prostor."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Google poprvé zachytil zero-day exploit vyvinutý pomocí umělé inteligence",
+      "title_orig": "Google stopped a zero-day hack that it says was developed with AI",
+      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "source": "The Verge AI",
+      "category": "research",
+      "summary_cs": [
+        "Google Threat Intelligence Group hlásí první potvrzený případ AI vyvinutého zero-day, který měl obcházet dvoufaktorové ověření.",
+        "Útočníci, popsaní jako prominentní cyber crime aktéři, plánovali masové nasazení v rámci jedné kampaně.",
+        "Google zranitelnost odhalil dřív než její použití, ale připouští, že se podobné AI generované exploity rychle stanou normou."
+      ],
+      "why_matters": "Defenzivní bezpečnostní operace musí přejít na AI nástroje, jinak Češi začnou dohánět ofenzivní stranu se zpožděním."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Cisco varuje, že enterprise identity management nezvládá nelidské AI agenty",
+      "title_orig": "AI agents are running hospital records and factory inspections. Enterprise IAM was never built for them.",
+      "url": "https://venturebeat.com/security/cisco-dickman-agentic-ai-trust-identity-governance-microsegmentation",
+      "source": "VentureBeat AI",
+      "category": "research",
+      "summary_cs": [
+        "Cisco prezident Jeetu Patel říká, že 85 procent firem rozjelo agent piloty, ale jen 5 procent se dostalo do produkce kvůli problémům s identitami.",
+        "Agenti generují nelidské identity, které většina enterprise IAM systémů neumí inventarizovat ani odvolat ve strojové rychlosti.",
+        "IBM X-Force ukazuje 44procentní nárůst útoků na public-facing aplikace, často přes chybějící authentication controls v agentických nasazeních."
+      ],
+      "why_matters": "Firmy nasazující agenty bez governance riskují regulační i bezpečnostní průšvih, což platí i pro české banky a zdravotnictví."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Nobelista Daron Acemoglu radí, co v AI sledovat v roce 2026",
+      "title_orig": "Three things in AI to watch, according to a Nobel-winning economist",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "summary_cs": [
+        "MIT ekonom Acemoglu, který v roce 2024 dostal Nobelovu cenu za ekonomii, dlouhodobě tvrdí, že současný hype nadhodnocuje produktivní dopady AI.",
+        "Vyhlíží tři oblasti, kde se podle něj během letošního roku ukáže, jestli má AI skutečně transformační potenciál pro pracovní trh.",
+        "Jeho rámec je kontrarian vůči Big Tech narativu a často se opírá o data o produktivitě a koncentraci tržní síly."
+      ],
+      "why_matters": "Pro českou firmu zvažující velké AI investice je užitečný kontrarian rámec proti čistě technologickému nadšení Big Tech."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Digg se vrací jako AI agregátor zpráv pro zaplavený internet",
+      "title_orig": "Digg tries again, this time as an AI news aggregator",
+      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Restartovaný Digg podle e-mailu beta testerům chce sledovat nejvlivnější hlasy v daném oboru a vybírat zprávy, které stojí za pozornost.",
+        "Tým sází na to, že kurátorství poháněné AI bude užitečnější než klasické skóre lajků a downvotů z původního Diggu z roku 2007.",
+        "Konkurence míří hlavně proti Hacker News, X feedu a Google Discoveru, kde jsou výsledky čím dál víc zaplaveny AI obsahem."
+      ],
+      "why_matters": "Pokud Digg uspěje, otevře se prostor pro lokální kurátorské nástroje pro česky psaný obsah a tématické weby."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Simplex přepisuje vývoj softwaru s ChatGPT Enterprise a Codexem",
+      "title_orig": "Simplex rethinks software development with Codex",
+      "url": "https://openai.com/index/simplex",
+      "source": "OpenAI Blog",
+      "category": "tools",
+      "summary_cs": [
+        "Simplex zrychluje fáze designu, vývoje i testování pomocí ChatGPT Enterprise s integrovaným Codexem napříč týmy.",
+        "OpenAI prezentuje případovku jako vzor, jak SaaS firmy škálují AI-driven workflows mimo izolovaný engineering tým.",
+        "Trend potvrzuje, že Codex se z developerského nástroje rychle posouvá do role centrálního orchestrátoru produktových procesů."
+      ],
+      "why_matters": "Pro české inženýrské týmy návod, jak Codex nasadit i mimo psaní kódu, třeba do QA a produktu."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Český investor Marek Kříž si v AI postavil nástroj na hodnocení tisíců firem",
+      "title_orig": "Konec excelové otročiny. Investor si v AI nakódoval pomocníka, který za něj hodnotí i hlídá firmy",
+      "url": "https://cc.cz/konec-excelove-otrociny-investor-si-v-ai-nakodoval-pomocnika-ktery-za-nej-hodnoti-i-hlida-firmy/",
+      "source": "CzechCrunch",
+      "category": "tools",
+      "summary_cs": [
+        "Marek Kříž si naprogramoval AI systém, který automaticky generuje valuace tisíců firem a sleduje jeho portfolio v reálném čase.",
+        "Hodiny manuálního Excel modelování nahradil interní pipeline, která propojuje veřejné finanční zdroje s vlastními parametry investora.",
+        "Případ ukazuje, že středně technický investor dnes umí mít vlastní tooling, který před třemi lety dělaly jen velké private equity domy."
+      ],
+      "why_matters": "Domácí investoři a finanční analytici se musí učit kódovat AI workflows, jinak ztratí časovou výhodu nad konkurencí."
+    },
+    {
+      "rank": 12,
+      "title_cs": "GM propustil stovky IT pracovníků, hledá kandidáty s AI dovednostmi",
+      "title_orig": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "General Motors propouští stovky lidí v IT a paralelně otevírá pozice v AI-native vývoji, datovém inženýrství a cloud engineeringu.",
+        "Nově hledá lidi schopné navrhovat agenty, modely a workflow s důrazem na prompt engineering a integraci LLM do firemních procesů.",
+        "Jde o jeden z prvních explicitních cases, kdy klasická enterprise firma plošně mění mix dovedností v IT, ne jen redukuje hlavy."
+      ],
+      "why_matters": "České korporátní IT týmy musí počítat s tím, že podobnou restrukturalizaci budou muset za 12 až 18 měsíců dělat také."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Cowboy Space získal 275 milionů dolarů na rakety pro orbitální datacentra",
+      "title_orig": "There arent enough rockets for space data centers - Cowboy Space raised $275M to build them",
+      "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Startup Cowboy Space staví levnější rakety, protože současná infrastruktura nestíhá orbitálním datacentrům doručovat moduly.",
+        "Investice ve výši 275 milionů dolarů má rozjet sériovou výrobu nosičů specializovaných pro nákladní mise s GPU kapacitou.",
+        "Sázka stojí na předpokladu, že chlazení a solární energie ve vesmíru porazí ekonomicky datacentra na povrchu Země."
+      ],
+      "why_matters": "Vesmírná infrastruktura se stává předpokladem dalšího compute růstu a evropské firmy v této vrstvě dosud nezačaly hrát."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Petr Mára: Bitvu s AI jsme prohráli, hledám pomalost a nudu",
+      "title_orig": "Bitvu s AI jsme uz prohrali, rika Petr Mara. Proc vydelava jen par hodin tydne a proc hleda nudu?",
+      "url": "https://cc.cz/bitvu-s-ai-jsme-uz-prohrali-rika-petr-mara-proc-vydelava-jen-par-hodin-tydne-a-proc-hleda-nudu/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Známý český technologický tvůrce Petr Mára říká, že rezignuje na produktivní souboj s AI a místo toho redefinuje vlastní pracovní rytmus.",
+        "V rozhovoru popisuje, proč podle něj nejcennější momenty vznikají, když člověk nedělá nic a nechává nudu pracovat za sebe.",
+        "Bere to jako kulturní reakci na neustále výkonnostně optimalizovanou online ekonomiku poháněnou generativními modely."
+      ],
+      "why_matters": "Veřejně známá postava otevírá v Česku debatu, co dělat s vlastní kariérou a duševním zdravím ve světě s levnou AI."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Ilya Sutskever na soudu hájí svoji roli při odvolání Sama Altmana z OpenAI",
+      "title_orig": "Ilya Sutskever Stands by His Role in Sam Altmans OpenAI Ouster: I Didnt Want It to Be Destroyed",
+      "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+      "source": "Wired AI",
+      "category": "news",
+      "summary_cs": [
+        "Bývalý hlavní vědec OpenAI vypovídal v rámci sporu Musk vs. Altman a označil rozhodnutí o odvolání Altmana za pokus zachránit firmu.",
+        "Sutskever je sice s OpenAI rozejitý, přesto se postavil za její existenci a postup boardu z listopadu 2023.",
+        "Výpověď doplňuje předchozí svědectví Shivon Zilis z minulého týdne a posiluje narativ obhajoby OpenAI."
+      ],
+      "why_matters": "Verdict v kauze ovlivní governance modely AI labs a tím i jistotu enterprise zákazníků uzavírajících dlouhodobé kontrakty."
+    }
+  ]
+}

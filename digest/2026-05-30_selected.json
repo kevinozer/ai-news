@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-30",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Bostonská dětská nemocnice používá AI k odhalení vzácných diagnóz",
+      "title_orig": "Boston Children's uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Nemocnice nasadila technologii OpenAI a podle vlastních slov díky ní pomohla diagnostikovat přes 40 případů vzácných onemocnění.",
+        "AI zároveň snižuje administrativní zátěž lékařů a zrychluje zpracování pacientské dokumentace.",
+        "Jde o jeden z konkrétních příkladů, kdy generativní AI vstupuje přímo do klinické praxe."
+      ],
+      "why_matters": "Ukazuje praktický přínos AI v medicíně, ne jen v chatbotech a kancelářské práci."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Startup uklidí váš domov zdarma, výměnou natáčí data pro trénink robotů",
+      "title_orig": "This AI startup will clean your home for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "source": "The Verge AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Firma Shift nabízí lidem bezplatný úklid domácnosti, který provádějí její pracovníci.",
+        "Háček je v tom, že celý úklid nahrává na kameru a záběry používá k trénování budoucích domácích robotů.",
+        "Nabídku oznámila na sociálních sítích a vyvolala diskusi o soukromí a sběru dat z domovů."
+      ],
+      "why_matters": "Ukazuje, jak hladové jsou robotické firmy po reálných datech z běžných domácností."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Waymo představuje Ojai, nový robotaxi vyrobený v Číně",
+      "title_orig": "Here Comes Ojai, Waymo's New Chinese-Made Robotaxi",
+      "url": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
+      "source": "Wired AI",
+      "category": "tools",
+      "summary_cs": [
+        "Světle modrá vozidla Ojai začnou vozit veřejnost v Kalifornii a Arizoně během několika příštích týdnů.",
+        "Jde o nový model robotaxi postavený na voze vyrobeném v Číně.",
+        "Waymo tím rozšiřuje svou flotilu samořídících taxíků pro placené jízdy."
+      ],
+      "why_matters": "Čínský původ vozu může v USA narazit na politické a celní komplikace."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Čipový startup Groq podle Axiosu shání 650 milionů dolarů a míří k inferenci",
+      "title_orig": "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Výrobce čipů Groq podle Axiosu interně shání 650 milionů dolarů.",
+        "Firma se přeorientovává z hardwaru více na inferenci, tedy na to, jak modely zpracovávají dotazy a generují odpovědi.",
+        "Kolo přichází v době zvýšeného zájmu investorů o alternativy k čipům Nvidia."
+      ],
+      "why_matters": "Souboj o čipy pro běh AI modelů se přiostřuje, Nvidia má další vyzyvatele."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Jazykové modely uvěří nepravdivým tvrzením i po výslovném varování, že jsou lživá",
+      "title_orig": "LLMs believe false statements even after explicit warnings that they're false",
+      "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+      "source": "Ars Technica",
+      "category": "research",
+      "summary_cs": [
+        "Testy dolaďování modelů ukázaly sklon prezentovat nepravdivá tvrzení sebevědomě jako pravdivá.",
+        "Modely si chybnou informaci osvojí, i když dostanou jasné upozornění, že je nepravdivá.",
+        "Zjištění míří na slabinu v tom, jak modely získávají a uchovávají znalosti."
+      ],
+      "why_matters": "Naznačuje, proč se AI mýlí sebevědomě a proč je těžké halucinace odstranit."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Programátoři odmítají pracovat bez AI, podle výzkumníků se jim to může vymstít",
+      "title_orig": "Coders are refusing to work without AI - and that could come back to bite them",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "source": "TechCrunch AI",
+      "category": "news",
+      "summary_cs": [
+        "AI pomáhá programátorům psát kód rychleji, podle výzkumníků ale ne nutně lépe.",
+        "Roste skupina vývojářů, kteří už nechtějí pracovat bez asistence umělé inteligence.",
+        "Závislost na nástrojích může podle varování přinést problémy s kvalitou kódu do budoucna."
+      ],
+      "why_matters": "Dotýká se každého, kdo staví software na rychlém, ale možná křehčím AI kódu."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Stejně jako zlato a ropu budeme brzy obchodovat i futures na AI tokeny",
+      "title_orig": "Just like gold and oil, we'll soon be able to trade AI token futures",
+      "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Velké burzy připravují derivátové produkty navázané na takzvané AI tokeny.",
+        "Na výpočetní kapacitu pro AI se začíná pohlížet jako na surovinu, podobně jako na elektřinu nebo přenosové pásmo.",
+        "Obchodování s futures by firmám umožnilo zajistit si budoucí cenu výpočetního výkonu."
+      ],
+      "why_matters": "AI výpočetní výkon se mění v komoditu, kterou lze spekulativně obchodovat."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Brzdou AI agentů nejsou výkonné modely, ale oprávnění",
+      "title_orig": "The AI agent bottleneck isn't model performance - it's permissions",
+      "url": "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Firemní AI agenti se podle Workday nezadrhávají kvůli výkonu modelů, ale kvůli správě oprávnění.",
+        "Každý agentní pracovní postup naráží na otázku, k čemu smí agent přistupovat a jménem koho.",
+        "Workday chce z vlastního systému záznamů udělat vrstvu, která tato oprávnění a bezpečnost řídí."
+      ],
+      "why_matters": "Nasazení AI agentů ve firmách brzdí spíš správa přístupů než kvalita modelů."
+    },
+    {
+      "rank": 9,
+      "title_cs": "MeMo umožní vylepšit jazykový model bez přetrénování, výkon stoupl o 26 procent",
+      "title_orig": "MeMo's memory model lets teams upgrade their LLM without retraining it - and performance jumps 26%",
+      "url": "https://venturebeat.com/orchestration/memo-memory-model-teams-upgrade-llm-without-retraining",
+      "source": "VentureBeat AI",
+      "category": "research",
+      "summary_cs": [
+        "Framework MeMo ukládá nové znalosti do menšího samostatného paměťového modelu vedle hlavního LLM.",
+        "Týmy tak mohou model doplnit o nové informace bez nákladného přetrénování i bez složitých RAG pipeline.",
+        "V experimentech zvládl MeMo složité dotazy spolehlivě a výkon vzrostl o 26 procent."
+      ],
+      "why_matters": "Slibuje levnější a rychlejší způsob, jak udržovat firemní AI modely aktuální."
+    },
+    {
+      "rank": 10,
+      "title_cs": "Pinterest snížil náklady na AI o 90 procent přestavbou vizuální vrstvy open-source modelu",
+      "title_orig": "Pinterest cut AI costs 90% by gutting a frontier model's vision layer",
+      "url": "https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer",
+      "source": "VentureBeat AI",
+      "category": "open-source",
+      "summary_cs": [
+        "Pinterest se 620 miliony uživatelů nahradil drahé volání špičkového modelu pro doporučování obrázků.",
+        "Tým CTO Matta Madrigala vyřízl vizuální vrstvu modelu Qwen3-VL a nahradil ji vlastními embeddingy.",
+        "Výsledkem byla úspora nákladů o 90 procent a zároveň o 30 procent vyšší přesnost."
+      ],
+      "why_matters": "Důkaz, že doladěný open-source model může porazit drahé špičkové modely."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Amazon tvrdí, že vyřešil technický problém, na němž stojí budoucnost datacenter",
+      "title_orig": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+      "url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+      "source": "Wired AI",
+      "category": "labs",
+      "summary_cs": [
+        "Amazon oznámil průlom v propojení uvnitř datacenter, který výrazně zrychlil tok dat.",
+        "Zlepšení se týká síťové infrastruktury jeho rozsáhlého cloudu.",
+        "Firma to považuje za klíč k budoucímu škálování výpočetní kapacity pro AI."
+      ],
+      "why_matters": "Rychlejší datacentra jsou základ pro další růst kapacity pro náročné AI modely."
+    },
+    {
+      "rank": 12,
+      "title_cs": "OpenAI zveřejnil pravidla pro důvěryhodné hodnocení modelů třetími stranami",
+      "title_orig": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI sdílí návod, jak mají nezávislé strany hodnotit schopnosti a bezpečnostní pojistky modelů.",
+        "Materiál se zaměřuje na to, jak posoudit věrohodnost testů u špičkových systémů.",
+        "Cílem je sjednotit postupy pro externí prověřování pokročilé AI."
+      ],
+      "why_matters": "Nezávislé hodnocení modelů je důležité pro důvěru a budoucí regulaci AI."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Asana kupuje StackAI, nástroj pro stavbu AI agentů bez kódu",
+      "title_orig": "Asana acquires no-code agent-builder StackAI",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Asana akvírovala startup StackAI, který umožňuje sestavovat AI agenty bez programování.",
+        "Technologii zařadí do své rozšiřující se sady nástrojů pro AI pracovní postupy.",
+        "Akvizice ukazuje závod softwarových firem o nástroje pro automatizaci práce agenty."
+      ],
+      "why_matters": "Velcí dodavatelé softwaru skupují technologie pro snadnou tvorbu firemních AI agentů."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Šéf Cognition Scott Wu: kódovací AI agenti nemají nahradit lidi",
+      "title_orig": "Cognition's Scott Wu says AI coding agents shouldn't replace humans",
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Cognition stojí za agentem Devin, jedním z prvních a nejúspěšnějších kódovacích AI agentů.",
+        "Zakladatel Scott Wu říká, že nástroj není navržen k tomu, aby nahradil lidské programátory.",
+        "Svůj postoj staví do kontrastu s obavami z masového rušení vývojářských míst."
+      ],
+      "why_matters": "Tón od tvůrce přední kódovací AI mírní obavy o budoucnost programátorských profesí."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Soudce Roman Horáček: AI ohrožuje důvěru v justici, přesto převažují její přínosy",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/clanky/roman-horacek-vrchni-soud-ai-ohrozuje-duveru-v-justici-ale-i-tak-myslim-ze-jeji-pozitiva-prevazuji/",
+      "source": "Lupa.cz",
+      "category": "wildcard",
+      "summary_cs": [
+        "Za deset dolarů si dnes kdokoli pořídí aplikaci, která přesvědčivě zfalšuje video, foto i hlas.",
+        "Místopředseda Vrchního soudu v Praze upozorňuje na rizika pro soudní dokazování a důvěryhodnost justice.",
+        "I přes tato rizika podle něj AI přináší do oblasti práva především pozitiva."
+      ],
+      "why_matters": "Deepfakes míří přímo do soudních síní a zpochybňují důkazy, výzva pro českou justici."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-06",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Útočníci zneužili AI podporu Meta k převzetí Instagram účtů",
+      "title_orig": "Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.",
+      "url": "https://venturebeat.com/security/meta-ai-support-agent-recovery-email-takeover-soc-audit-grid",
+      "source": "VentureBeat AI",
+      "category": "news",
+      "summary_cs": [
+        "Útočníci jednoduše požádali AI asistenta podpory, aby k účtu přidal nový obnovovací e-mail, pak přes něj zresetovali heslo a převzali účet.",
+        "Žádný malware ani ukradené přihlašovací údaje, agent udělal přesně to, k čemu byl postavený, takže bezpečnostní systémy nic nezachytily.",
+        "Podle 404 Media útok prováděly i proirácké skupiny, které přes VPN obešly i upozornění Instagramu na změnu polohy."
+      ],
+      "why_matters": "Ukazuje nový typ útoku, kdy AI agent s oprávněními sám obejde bezpečnostní kontroly."
+    },
+    {
+      "rank": 2,
+      "title_cs": "Google bude SpaceX platit 920 milionů dolarů měsíčně za výpočetní výkon",
+      "title_orig": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Google si od SpaceX pronajme obří výpočetní kapacitu za 920 milionů dolarů měsíčně.",
+        "Podle vyjádření Googlu jde o reakci na nečekaně vysokou poptávku po jeho nedávno spuštěných AI produktech.",
+        "Dohoda ukazuje rostoucí závislost velkých hráčů na pronajaté výpočetní infrastruktuře pro běh AI služeb."
+      ],
+      "why_matters": "Měsíční účet téměř miliarda dolarů ukazuje, jak vzácná a drahá je dnes výpočetní kapacita pro AI."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Jeff Bezos financuje hledání základního algoritmu lidského mozku",
+      "title_orig": "Jeff Bezos Is Funding a Wild Hunt for the Brain's 'Core Algorithm'",
+      "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Startup Flourish chce postavit AI jinak, a to studiem skutečných neuronů pod mikroskopem.",
+        "Projekt podle reportáže získal 500 milionů dolarů a je oceněn zhruba na 2,5 miliardy dolarů.",
+        "Cílem je najít princip, podle kterého funguje biologický mozek, a přenést ho do umělé inteligence."
+      ],
+      "why_matters": "Pokud uspěje, mohlo by to ukázat zcela jinou cestu k AI než dnešní jazykové modely."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Šéf Microsoft AI: smlouva nás osvobodila od OpenAI, míříme na superinteligenci",
+      "title_orig": "Microsoft AI chief says company was \"set free\" from OpenAI to pursue superintelligence",
+      "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Mustafa Suleyman uvedl, že změna smlouvy zhruba před půl rokem dala Microsoftu právo vyvíjet vlastní superinteligenci.",
+        "Microsoft přitom OpenAI neopouští, ale staví vedle něj vlastní výzkum, data a čipy.",
+        "Ve stejný den firma představila rodinu sedmi vlastních modelů MAI, v čele s uvažovacím modelem MAI-Thinking-1."
+      ],
+      "why_matters": "Největší investor OpenAI začíná stavět konkurenční AI sám pro sebe, což mění poměry v oboru."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Skeptický průvodce virálními videi humanoidních robotů",
+      "title_orig": "The skeptic's guide to humanoid robots going viral on the Internet",
+      "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+      "source": "Ars Technica",
+      "category": "wildcard",
+      "summary_cs": [
+        "Efektní ukázky robotů kolují po internetu, ale často zkreslují, co roboti opravdu umí.",
+        "Mnoho dem je sestříhaných, dálkově ovládaných nebo opakovaně nacvičených jen pro kameru.",
+        "Článek radí, jak videa číst kriticky a nepodlehnout dojmu, že roboti jsou dál, než ve skutečnosti jsou."
+      ],
+      "why_matters": "Pomáhá běžnému divákovi rozeznat marketingovou show od reálných schopností robotů."
+    },
+    {
+      "rank": 6,
+      "title_cs": "TSMC nestíhá poptávku po AI čipech, zvládne prý jen určité množství",
+      "title_orig": "TSMC struggles to keep up with AI demand: 'We can only support so much'",
+      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+      "source": "The Verge AI",
+      "category": "business",
+      "summary_cs": [
+        "Největší světový výrobce čipů TSMC podle agentur Reuters a Bloomberg nestíhá pokrýt poptávku amerických zákazníků.",
+        "Poptávka zákazníků je tak vysoká a zvládneme jen určité množství, řekl šéf TSMC C.C. Wei.",
+        "Ani rozšiřování továren ve Spojených státech zatím nedokáže vykrýt hlad po čipech pro AI."
+      ],
+      "why_matters": "Nedostatek čipů od TSMC je úzké hrdlo, které brzdí celý rozvoj AI."
+    },
+    {
+      "rank": 7,
+      "title_cs": "New York schválil roční zákaz výstavby nových datacenter",
+      "title_orig": "New York lawmakers pass one-year ban on new data centers",
+      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "source": "The Verge AI",
+      "category": "news",
+      "summary_cs": [
+        "Zákonodárci státu New York schválili roční moratorium na velká nová datacentra.",
+        "Pokud zákon podepíše guvernérka Kathy Hochul, půjde o první celostátní zákaz svého druhu.",
+        "Cílem je získat čas na posouzení dopadů datacenter na životní prostředí a ceny energie."
+      ],
+      "why_matters": "Ukazuje rostoucí odpor veřejnosti vůči energeticky náročným datacentrům pro AI."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Hackathon ukázal ekonomiku AI agentů běžící na malém 3B modelu",
+      "title_orig": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Komunitní projekt z hackathonu Hugging Face postavil simulaci, kde spolu obchoduje více AI agentů.",
+        "Celé to běží na malém modelu se 3 miliardami parametrů, který se vejde i na běžný hardware.",
+        "Ukazuje, že zajímavé systémy s více agenty nemusí vždy potřebovat ty největší modely."
+      ],
+      "why_matters": "Dokazuje, že i malé a levné modely zvládnou složitější úlohy s více agenty."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Microsoft chce na Buildu řešit datové ostrovy nástroji Microsoft IQ a Rayfin",
+      "title_orig": "Enterprise AI agents keep creating data silos. Microsoft's Build answer is Microsoft IQ and Rayfin.",
+      "url": "https://venturebeat.com/data/enterprise-ai-agents-keep-creating-data-silos-microsofts-build-answer-is-microsoft-iq-and-rayfin",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Každý nový AI agent ve firmě podle Microsoftu začíná od nuly, bez paměti o tom, jak firma funguje a kde leží data.",
+        "Na konferenci Build 2026 Microsoft představil Microsoft IQ a Rayfin jako odpověď na vznikající datové ostrovy.",
+        "Cílem je dát agentům sdílený přístup k firemním datům a pravidlům místo izolovaných řešení."
+      ],
+      "why_matters": "Řeší praktický problém firem, kde každý AI nástroj žije ve vlastní bublině bez kontextu."
+    },
+    {
+      "rank": 10,
+      "title_cs": "OpenAI navrhuje plán demokratického řízení špičkové AI",
+      "title_orig": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zveřejnila návrh, jak by měly Spojené státy regulovat nejpokročilejší AI modely.",
+        "Plán počítá s federálním rámcem pro bezpečnost, odolnost a národní bezpečnost.",
+        "Firma tím vstupuje do debaty o tom, kdo a jak má nad špičkovou AI dohlížet."
+      ],
+      "why_matters": "Ukazuje, jak se přední AI laboratoře snaží samy ovlivnit budoucí pravidla regulace."
+    },
+    {
+      "rank": 11,
+      "title_cs": "OpenAI spustil pro ChatGPT režim Lockdown proti krádeži dat",
+      "title_orig": "OpenAI Help: Lockdown Mode",
+      "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/",
+      "source": "Simon Willison's Weblog",
+      "category": "tools",
+      "summary_cs": [
+        "Lockdown Mode je nově živý a dostupný i na bezplatných a placených osobních účtech ChatGPT.",
+        "Omezuje odchozí síťové požadavky, aby útočník nemohl přes podvržené instrukce odeslat citlivá data ven.",
+        "Nezabrání tomu, aby se škodlivé instrukce dostaly do obsahu, ale zavře hlavní cestu úniku dat."
+      ],
+      "why_matters": "Dává běžným uživatelům ChatGPT konkrétní obranu proti jednomu z hlavních AI rizik."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Hello Robot vydal čtvrtou generaci domácího robota Stretch",
+      "title_orig": "Is Silicon Valley ready to put robots in people's homes? Hello Robot is.",
+      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Kalifornský startup Hello Robot představil čtvrtou generaci svého domácího pomocníka Stretch.",
+        "Robot má pomáhat s běžnými úkoly přímo v domácnostech lidí.",
+        "Firma tím testuje, jestli je Silicon Valley připravené dostat roboty do běžných domovů."
+      ],
+      "why_matters": "Domácí roboti se posouvají od laboratorních ukázek blíž k reálnému použití doma."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Hugging Face přepracoval nástroj hf CLI pro práci AI agentů",
+      "title_orig": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face upravil svůj příkazový nástroj hf CLI tak, aby s platformou Hub mohli pohodlně pracovat i AI agenti.",
+        "Návrh počítá s tím, že příkazy nezadává jen člověk, ale i automatizované AI nástroje.",
+        "Usnadňuje to stavbu agentů, kteří si sami stahují modely a data z Hubu."
+      ],
+      "why_matters": "Odráží posun, kdy se vývojářské nástroje navrhují rovnou pro AI agenty, ne jen pro lidi."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Nový test Agents' Last Exam měří AI agenty na reálné práci",
+      "title_orig": "Agents' Last Exam",
+      "url": "https://arxiv.org/abs/2606.05405",
+      "source": "ArXiv cs.AI",
+      "category": "research",
+      "summary_cs": [
+        "Benchmark vznikl ve spolupráci s více než 250 odborníky z praxe a pokrývá přes tisíc reálných pracovních úkolů.",
+        "Zaměřuje se na dlouhé a ekonomicky hodnotné úlohy s ověřitelným výsledkem napříč 13 odvětvími.",
+        "Současné modely zvládají nejtěžší úroveň v průměru jen ve 2,6 procenta případů."
+      ],
+      "why_matters": "Ukazuje, jak velká je propast mezi úspěchem AI v testech a skutečně užitečnou prací."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Česko bude mít zástupce v poradním fóru EU k AI Actu",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/aktuality/cesko-bude-mit-hlas-v-poradnim-organu-unie-k-ai-actu-zemi-bude-zastupovat-lukas-benzl/",
+      "source": "Lupa.cz",
+      "category": "news",
+      "summary_cs": [
+        "Předseda České asociace umělé inteligence Lukáš Benzl byl vybrán do nového AI Act Advisory Forum při Evropské komisi.",
+        "Bude jediným zástupcem Česka v orgánu, který pomáhá s praktickou implementací evropského nařízení o AI.",
+        "Z více než 700 přihlášek z celé EU vybrala Komise 174 expertů a organizací na dvouleté období."
+      ],
+      "why_matters": "Česko získává přímý hlas při tom, jak se budou v praxi vykládat evropská pravidla pro AI."
+    }
+  ]
+}

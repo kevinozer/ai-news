@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-02",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic podal žádost o IPO, může jít o největší vstup na burzu v historii",
+      "title_orig": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+      "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+      "source": "Wired AI",
+      "category": "business",
+      "summary_cs": [
+        "Firma stojící za modelem Claude v pondělí důvěrně podala americké komisi SEC dokumenty potřebné pro vstup na burzu.",
+        "Podle Wired by mohlo jít o vůbec největší IPO v dějinách, jen pár týdnů po oznámení vstupu SpaceX.",
+        "Anthropic byl ještě nedávno považován za outsidera, dnes má mezi zákazníky velké firmy a patří ke špičce oboru."
+      ],
+      "why_matters": "Vstup Anthropicu na burzu nastaví laťku pro ocenění celého AI sektoru."
+    },
+    {
+      "rank": 2,
+      "title_cs": "MiniMax-M3 překonal GPT-5.5 i Gemini 3.1 Pro za zlomek ceny",
+      "title_orig": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
+      "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Čínský startup MiniMax vydal model M3 se špičkovým kódováním, agentními schopnostmi a kontextovým oknem jeden milion tokenů.",
+        "V klíčových testech překonal GPT-5.5 i Gemini 3.1 Pro, přitom stojí jen 5 až 10 procent ceny špičkových uzavřených modelů.",
+        "Firma slíbila do zhruba deseti dnů uvolnit i otevřené váhy, takže si model bude moci stáhnout a upravit kdokoli."
+      ],
+      "why_matters": "Levný a brzy otevřený model zvyšuje tlak na ceny západních AI laboratoří."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Čína schválila první invazivní mozkový čip na světě",
+      "title_orig": "China has approved the world's first invasive brain-computer chip",
+      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "source": "MIT Technology Review",
+      "category": "wildcard",
+      "summary_cs": [
+        "Čínští regulátoři schválili vůbec první invazivní rozhraní mezi mozkem a počítačem pro klinické použití.",
+        "Reportáž popisuje muže ochrnutého po autonehodě, který se s pomocí čipu znovu pokouší ovládat pohyb.",
+        "Schválení je velkým krokem v globálním závodě o neurotechnologie, v němž dosud vedly americké firmy."
+      ],
+      "why_matters": "Mozkové implantáty se posouvají z laboratoří k reálným pacientům."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Model od OpenAI vyřešil slavný matematický problém starý 80 let",
+      "title_orig": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+      "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+      "source": "Ars Technica",
+      "category": "labs",
+      "summary_cs": [
+        "Jeden z modelů OpenAI přišel s řešením matematického problému, který lidem odolával zhruba osmdesát let.",
+        "Autor textu řešení rozebírá a snaží se ho vysvětlit srozumitelněji, než to udělala sama OpenAI.",
+        "Odborníci se přou, zda jde o skutečný průlom, nebo spíš o úlohu, která sedí silným stránkám dnešní AI."
+      ],
+      "why_matters": "Ukazuje, kde už AI dokáže lidem pomoci posunout hranice vědy."
+    },
+    {
+      "rank": 5,
+      "title_cs": "AI startup předpovídá počasí lépe než státní úřady",
+      "title_orig": "This AI weather startup is out-forecasting government agencies",
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "source": "TechCrunch AI",
+      "category": "tools",
+      "summary_cs": [
+        "Startup WindBorne kombinuje vlastní AI model s daty z přibližně 400 balonů, které vypouští z patnácti míst po světě.",
+        "Hlavní pokrok přišel ze zlepšení toho, jak se naměřená data z balonů vkládají do předpovědního modelu.",
+        "Díky tomu firma podle TechCrunch předbíhá v přesnosti i velké státní meteorologické agentury."
+      ],
+      "why_matters": "Přesnější předpověď počasí má dopad na zemědělství, dopravu i bezpečnost."
+    },
+    {
+      "rank": 6,
+      "title_cs": "Hackeři přemluvili podporu Meta AI a ukradli prominentní účty na Instagramu",
+      "title_orig": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+      "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+      "source": "Ars Technica",
+      "category": "wildcard",
+      "summary_cs": [
+        "Útočníci zneužili chatbota podpory Meta AI a získali přístup k cenným a sledovaným účtům na Instagramu.",
+        "Ukradené profily stačili dál prodávat ještě předtím, než Meta chybu opravila.",
+        "Případ ukazuje, jak nasazení AI do zákaznické podpory otevírá nové bezpečnostní díry."
+      ],
+      "why_matters": "AI v podpoře se může stát novou slabinou, kterou útočníci zneužijí."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Vyzkoušeli jsme nového AI agenta od Googlu, skoro jako v ukázce",
+      "title_orig": "Gemini's new AI agent is about as good as Google's demo",
+      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Google dal redakci přístup ke Gemini Spark, agentovi, který má nepřetržitě plnit úkoly za uživatele.",
+        "V praxi překvapivě dobře zvládá samostatně dělat zadané věci a blíží se tomu, co Google sliboval v ukázce.",
+        "Recenzent ale váhá kvůli ceně a možným ústupkům v soukromí, které nepřetržitý agent přináší."
+      ],
+      "why_matters": "Osobní AI agenti se posouvají od slibů k použitelnému dennímu nástroji."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Alphabet chce získat 80 miliard dolarů na rozvoj AI",
+      "title_orig": "Alphabet plans to raise $80B to pay for AI buildout",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Mateřská firma Googlu plánuje získat až 80 miliard dolarů na pokrytí rozsáhlé výstavby AI infrastruktury.",
+        "Podle vlastního vyjádření čelí Alphabet poptávce po AI od firem i spotřebitelů, která převyšuje dostupné kapacity.",
+        "Obří částka ukazuje, jak nákladný je závod o datacentra a výpočetní výkon pro AI."
+      ],
+      "why_matters": "Velikost investic napovídá, jak draho vyjde udržet krok ve vývoji AI."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Nvidia útočí na trh procesorů s AI počítači od Microsoftu, Dellu a HP",
+      "title_orig": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "source": "TechCrunch AI",
+      "category": "labs",
+      "summary_cs": [
+        "Nvidia vstupuje na trh procesorů odhadovaný na 200 miliard dolarů s počítači přizpůsobenými pro AI agenty.",
+        "Stroje mají přijít ve spolupráci s Microsoftem, Dellem a HP a přivést AI agenty k běžným uživatelům.",
+        "Podle TechCrunch by šlo o velkou věc, pokud Nvidia zvládne agenty udělat bezpečné a opravdu užitečné."
+      ],
+      "why_matters": "AI počítače mohou rozhodnout, kde a jak budou agenti běžně dostupní."
+    },
+    {
+      "rank": 10,
+      "title_cs": "JetBrains uvedl otevřený model Mellum2 s architekturou Mixture-of-Experts",
+      "title_orig": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "source": "Hugging Face Blog",
+      "category": "open-source",
+      "summary_cs": [
+        "Tvůrce vývojářských nástrojů JetBrains představil Mellum2, model o velikosti dvanáct miliard parametrů.",
+        "Model využívá architekturu Mixture-of-Experts, která aktivuje jen část sítě a šetří tak výpočetní výkon.",
+        "Mellum2 vyšel na platformě Hugging Face, je tedy dostupný komunitě k vyzkoušení a dalšímu využití."
+      ],
+      "why_matters": "Další otevřený model od evropské firmy rozšiřuje nabídku mimo velké laboratoře."
+    },
+    {
+      "rank": 11,
+      "title_cs": "Anthropic přiznal, že jeho agent v prohlížeči byl unesen v 31,5 procenta případů",
+      "title_orig": "Anthropic's browser agent got hijacked 31.5% of the time before safeguards engaged",
+      "url": "https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged",
+      "source": "VentureBeat AI",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic zveřejnil, že útočník dokázal jeho agenta v prohlížeči převzít v 31,5 procenta pokusů, než zabrala ochrana.",
+        "Vysoké číslo působí jako slabina, ve skutečnosti je ale výrazem nezvyklé otevřenosti firmy o rizicích.",
+        "Konkurenti jako OpenAI, Google a Meta srovnatelně podrobná čísla o únosech přes vsunuté pokyny nezveřejnili."
+      ],
+      "why_matters": "Bezpečnost AI agentů v prohlížeči je zatím slabě podchycené riziko."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Český Aisle je podle Berkeley nejlepší AI v hledání zranitelností",
+      "title_orig": null,
+      "url": "https://www.lupa.cz/aktuality/cesky-aisle-je-podle-berkeley-nejlepsi-ai-v-hledani-zranitelnosti-predstihl-anthropic-google-i-microsoft/",
+      "source": "Lupa.cz",
+      "category": "tools",
+      "summary_cs": [
+        "Český startup Aisle, který rozvíjejí Ondřej Vlček, Stanislav Fort a bývalá šéfka bezpečnosti Avastu Jaya Baloo, zaujal výzkumníky z Berkeley.",
+        "V žebříčku autonomního hledání bezpečnostních zranitelností se Aisle umístil na prvním místě.",
+        "Předstihl tak firmy jako Anthropic, Google, Microsoft i specializovaný nástroj XBOW."
+      ],
+      "why_matters": "Česká AI firma vede světový žebříček v citlivé oblasti kybernetické bezpečnosti."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Špičkové modely OpenAI a Codex jsou nově dostupné na AWS",
+      "title_orig": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Nejlepší modely OpenAI a nástroj Codex jsou nyní běžně dostupné v cloudu Amazonu AWS.",
+        "Firmy je tak mohou používat přímo v prostředí, ovládacích prvcích a nákupních procesech, které už znají.",
+        "OpenAI slibuje rychlejší přechod od testování k nasazení do reálného provozu."
+      ],
+      "why_matters": "Dostupnost na AWS usnadní firmám nasazení modelů OpenAI bez velkých změn."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Nový přehled mapuje takzvané světové modely a jejich roli v cestě k obecné AI",
+      "title_orig": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
+      "url": "https://arxiv.org/abs/2606.00133",
+      "source": "ArXiv cs.LG",
+      "category": "research",
+      "summary_cs": [
+        "Světové modely jsou vnitřní simulátory, které se učí strukturu a dynamiku prostředí a umožňují AI plánovat a předvídat.",
+        "Přehledová studie poprvé sjednocuje roztříštěné přístupy do jednoho rámce podle architektury, tréninku a způsobu uvažování.",
+        "Pokrývá využití od posilovaného učení přes robotiku a autonomní řízení až po generování videa."
+      ],
+      "why_matters": "Světové modely patří k hlavním směrům výzkumu na cestě k obecné AI."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Studie ukazuje, jak křehké je měření práce AI agentů s nástroji",
+      "title_orig": "On Effectiveness and Efficiency of Agentic Tool-calling and RL Training",
+      "url": "https://arxiv.org/abs/2606.00135",
+      "source": "ArXiv cs.LG",
+      "category": "research",
+      "summary_cs": [
+        "Práce zkoumá, jak AI agenti volají externí nástroje, a to ze dvou úhlů, jak se to měří a jak se to učí.",
+        "Výsledky jsou prý velmi citlivé na zdánlivé maličkosti, jako je náhodné nastavení nebo formulace zadání.",
+        "Drobné a často nezdokumentované volby tak mohou výrazně zkreslit srovnání schopností jednotlivých modelů."
+      ],
+      "why_matters": "Bez pečlivé metodiky mohou být srovnání AI agentů zavádějící."
+    }
+  ]
+}

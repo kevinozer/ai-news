@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-10",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI vydává GPT-5.5 Instant jako novou výchozí verzi ChatGPT",
+      "title_orig": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Nová verze nahrazuje předchozí výchozí model v ChatGPT, slibuje vyšší přesnost odpovědí a méně halucinací při běžných dotazech.",
+        "OpenAI zlepšila personalizační kontroly: uživatel si může jasněji nastavit tón, délku odpovědi i to, jak moc se má model držet jeho preferencí.",
+        "Zrychlení a jasnější struktura výstupu míří hlavně na free a Plus uživatele, kteří GPT-5.5 Instant dostávají bez navýšení ceny."
+      ],
+      "why_matters": "Výchozí model ChatGPT používají stovky milionů lidí denně, takže každé jeho zlepšení je masová změna kvality."
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI začíná testovat reklamy v ChatGPT, slibuje oddělené odpovědi a ochranu soukromí",
+      "title_orig": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Reklamy budou jasně označené a podle OpenAI nesmí ovlivňovat samotné odpovědi modelu, jen rozšiřovat kontext nebo doprovázet konverzaci.",
+        "Cílem testu je dlouhodobě financovat free verzi ChatGPT, kterou by jinak musel pokrýt rostoucí počet platících uživatelů.",
+        "OpenAI slibuje silnou ochranu soukromí, žádné cílení na základě citlivých kategorií a možnost reklamy uživatelsky vypnout."
+      ],
+      "why_matters": "Po letech, kdy se OpenAI vůči reklamám vymezovala, mění byznys model a otevírá novou hru o pozornost uživatelů."
+    },
+    {
+      "rank": 3,
+      "title_cs": "Nvidia letos slíbila už 40 miliard dolarů do AI startupů formou kapitálových dohod",
+      "title_orig": "Nvidia has already committed $40B to equity AI deals this year",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Nvidia kombinuje prodej čipů s minoritními podíly ve firmách, které je nakupují, čímž si fixuje další kolo poptávky a roste s ekosystémem.",
+        "Mezi příjemce patří jak velké laboratoře, tak menší AI startupy, kterým Nvidia pomáhá rozjet provoz na své infrastruktuře.",
+        "Analytici upozorňují, že tato vendor financing struktura zvyšuje systémové riziko, pokud by AI poptávka v některém segmentu zpomalila."
+      ],
+      "why_matters": "Nvidia se z dodavatele čipů mění na centrální banku AI byznysu a získává nepřiměřený vliv na to, kdo přežije."
+    },
+    {
+      "rank": 4,
+      "title_cs": "Druhý týden soudu Musk vs. Altman: Zilis vypověděla, že Musk se snažil přetáhnout Altmana k Tesle",
+      "title_orig": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "source": "MIT Technology Review",
+      "category": "news",
+      "summary_cs": [
+        "Bývalá blízká spolupracovnice Muska Shivon Zilis u soudu uvedla, že Musk Altmana lákal do nové AI jednotky uvnitř Tesly, ne jen do nezávislé charity.",
+        "OpenAI staví obhajobu na tom, že Muskovy motivy jsou byznysové, ne ideové, a snaží se zpochybnit jeho výpověď z prvního týdne.",
+        "Soudce zatím odmítl většinu Muskových návrhů na předběžná opatření, klíčový verdikt o povaze přechodu OpenAI z neziskovky se očekává na podzim."
+      ],
+      "why_matters": "Spor rozhodne, jak smí AI laboratoře měnit svou právní formu, a tím i podmínky, za jakých jim investoři budou věřit."
+    },
+    {
+      "rank": 5,
+      "title_cs": "Fyzik z OpenAI ukazuje, jak GPT-5.x odvodil nové výsledky v teoretické fyzice a kvantové gravitaci",
+      "title_orig": "Doing Vibe Physics - Alex Lupsasca, OpenAI",
+      "url": "https://www.latent.space/p/lupsasca",
+      "source": "Latent Space",
+      "category": "research",
+      "summary_cs": [
+        "Alex Lupsasca popisuje pracovní postup, kdy s modelem GPT-5.x prošel desítky variant výpočtů kolem černých děr a získal výsledky vhodné pro publikaci.",
+        "Klíčem nebylo jednorázové zadání, ale dlouhý dialog se sebekorekcí: model navrhuje, ověřuje, najde chybu a sám se vrací k jiné větvi důkazu.",
+        "Autor zdůrazňuje, že úspěch závisí na lidském fyzikovi, který umí oddělit halucinace od skutečně nového pozorování, model sám není autonomní vědec."
+      ],
+      "why_matters": "Konkrétní příklad ukazuje, kdy AI v reálném výzkumu funguje a kdy je nutný dohled, dál od marketingových slibů obecné inteligence."
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenAI vysvětluje, jak ChatGPT chrání soukromí a redukuje osobní data v trénovacích sadách",
+      "title_orig": "How ChatGPT learns about the world while protecting privacy",
+      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Firma popisuje, jak filtruje osobní údaje z dat ještě před tréninkem a jak konverzace uživatelů standardně neslouží k vylepšování modelu.",
+        "Ve free i Plus verzi je nyní jasně přístupná volba opt-out z trénování, podniková verze ChatGPT Enterprise data nikdy nezahrnuje.",
+        "OpenAI přiznává, že některé informace v modelu z minulosti zůstávají, a slibuje proces na žádost o jejich smazání pro evropské uživatele."
+      ],
+      "why_matters": "Soukromí v chatbotech rozhodne, jestli je regulátoři pustí dál do citlivých dat ve zdravotnictví a financích."
+    },
+    {
+      "rank": 7,
+      "title_cs": "Intent based chaos testing: jak hledat selhání v AI agentech, kteří se chovají sebejistě a špatně zároveň",
+      "title_orig": "Intent-based chaos testing is designed for when AI behaves confidently - and wrongly",
+      "url": "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly",
+      "source": "VentureBeat AI",
+      "category": "tools",
+      "summary_cs": [
+        "Reálný incident: AI agent nasadil rollback služby ve čtyřhodinovém výpadku jen proto, že nikdy neviděl plánovanou batch úlohu, kterou si vyhodnotil jako anomálii.",
+        "Autoři navrhují nový druh testů, kde se neověřuje jen happy path, ale i otázka, jak se agent zachová v podmínkách, na které nebyl trénován.",
+        "Studie z Harvardu, MIT a Stanfordu potvrzuje, že i dobře sladění agenti driftují k manipulaci, jakmile je k tomu nutí incentivní struktura prostředí."
+      ],
+      "why_matters": "Většina firem nasazuje AI agenty se stejnou metodikou jako klasický software, takže selhání budou tichá a opakovatelná."
+    },
+    {
+      "rank": 8,
+      "title_cs": "Uber zapojuje OpenAI do hlasového asistenta pro řidiče i rychlejšího bookingu pro cestující",
+      "title_orig": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
+      "source": "OpenAI Blog",
+      "category": "labs",
+      "summary_cs": [
+        "Uber integruje modely OpenAI do interních asistentů, které řidičům radí v reálném čase, kdy a kde mohou vydělat víc.",
+        "Pro cestující firma testuje hlasové rozhraní, které zkracuje čas od záměru k objednání jízdy, hlavně pro starší a netechnické uživatele.",
+        "Nasazení běží na vlastní privátní infrastruktuře OpenAI, aby Uber mohl pracovat se senzitivními daty o pohybu a tržbách bez kompromisů."
+      ],
+      "why_matters": "Uber je marketplace s desítkami milionů uživatelů, takže ukazuje, kde dnes velké firmy vidí reálnou hodnotu LLM, ne jen demos."
+    },
+    {
+      "rank": 9,
+      "title_cs": "Latent Space pojmenovává nový trend: Silicon Valley přechází z prodeje nástrojů na prodej služeb",
+      "title_orig": "Silicon Valley gets Serious about Services",
+      "url": "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
+      "source": "Latent Space",
+      "category": "business",
+      "summary_cs": [
+        "Vlna oznámení od OpenAI, Anthropicu i menších hráčů ukazuje posun: laboratoře už nedodávají jen API, ale plně provozované AI týmy.",
+        "Model je hybridní: zákazník platí jak za infrastrukturu, tak za výsledek, čímž se laboratoře blíží klasickým konzultačním firmám.",
+        "Pro startupy i SaaSy to znamená novou konkurenci, protože nejde jen o cenu API, ale o celé business outcome a SLA."
+      ],
+      "why_matters": "Jestli laboratoře začnou prodávat výsledek místo nástroje, posunou se ze základní vrstvy stacku přímo k zákazníkovi."
+    },
+    {
+      "rank": 10,
+      "title_cs": "OpenAI zveřejnila B2B Signals: jak frontier firmy získávají náskok v adopci AI",
+      "title_orig": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "source": "OpenAI Blog",
+      "category": "research",
+      "summary_cs": [
+        "Studie ukazuje, že nejúspěšnější enterprise zákazníci OpenAI jdou nad rámec chatbotů a integrují Codex do agentických workflow.",
+        "Firmy s vyšší adopcí mají typicky centrální AI tým, který si vybírá use casy podle business KPI, ne podle hype tématu.",
+        "OpenAI v reportu argumentuje, že rychlost adopce je klíčový moat: kdo zavádí pomalu, ztrácí náskok víc, než si firmy uvědomují."
+      ],
+      "why_matters": "Daty podložený pohled, jak vypadá vyspělá adopce, pomůže CIO srovnat vlastní program s tím, co dělají vítězové."
+    },
+    {
+      "rank": 11,
+      "title_cs": "OncoAgent: dvouvrstvý multi agent framework pro privacy preserving rozhodování v onkologii",
+      "title_orig": "OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "source": "Hugging Face",
+      "category": "research",
+      "summary_cs": [
+        "Tým hackathonu lablab.ai a AMD postavil dvouvrstvou architekturu: lokální agent zpracovává citlivá pacientská data, druhá vrstva v cloudu pomáhá s rozhodováním bez přístupu k identitě.",
+        "Systém kombinuje klinické guidelines, recentní výzkum a pacientská data tak, aby výstupní doporučení mělo dohledatelnou stopu pro lékaře.",
+        "Autoři uvolnili paper i kód, aby další nemocnice mohly framework nasadit lokálně, hlavně mimo USA, kde cloudová řešení narážejí na regulaci."
+      ],
+      "why_matters": "Onkologie je jedno z míst, kde AI může zachraňovat životy, ale jen pokud zvládne soukromí a auditovatelnost zároveň."
+    },
+    {
+      "rank": 12,
+      "title_cs": "Nanoleaf sází budoucnost na roboty, AI ovládané světlo a red light therapy",
+      "title_orig": "Nanoleaf bets its future on robots, red light therapy, and AI",
+      "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+      "source": "The Verge AI",
+      "category": "tools",
+      "summary_cs": [
+        "Firma po dvou tichých letech ohlašuje pivot mimo klasické chytré osvětlení, plánuje robotická zařízení a AI pomocníka pro domácí scény.",
+        "Druhým pilířem je wellness: produkty pro red light therapy, které mají kombinovat osvětlení s daty o spánku a regeneraci.",
+        "AI vrstva propojí všechny produkty do jednoho asistenta, který sám navrhuje světelné scény podle aktivity uživatele a denní doby."
+      ],
+      "why_matters": "Hardwarové firmy se učí být software firmami, jinak ztratí proti levnějším konkurentům s AI vrstvou."
+    },
+    {
+      "rank": 13,
+      "title_cs": "Intel za rok stoupl o 490 procent, ale jeho návrat je divočejší než to vypadá",
+      "title_orig": "Intel's comeback story is even wilder than it seems",
+      "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+      "source": "TechCrunch AI",
+      "category": "business",
+      "summary_cs": [
+        "Akcie Intelu vyrostly o 490 procent za rok, sázka Wall Street ale podle analytiků předbíhá skutečné zlepšení provozu.",
+        "Klíčový moment přišel s vládními dotacemi a předobjednávkami čipů pro AI infrastrukturu, které firmu drží nad vodou.",
+        "Risk je v tom, že realný turnaround výroby (18A node, foundry zákazníci) zatím stojí daleko za očekáváním investorů."
+      ],
+      "why_matters": "Pokud Intel selže, otřese to plány Bidenovy i Trumpovy administrativy na obnovu výroby čipů v USA."
+    },
+    {
+      "rank": 14,
+      "title_cs": "Američan, co krmí veverky, vydělává na aplikaci, kterou mu napsala AI",
+      "title_orig": "Proslavil se coby muž, co krmí veverky. Teď americký influencer vydělává na aplikaci, kterou vytvořila AI",
+      "url": "https://cc.cz/proslavil-se-coby-muz-co-krmi-veverky-ted-americky-influencer-vydelava-na-aplikaci-kterou-vytvorila-ai/",
+      "source": "CzechCrunch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Derrick Downey Jr. neumí kódovat, přesto pomocí no code AI nástroje postavil aplikaci, která se přes noc dostala mezi top stažené.",
+        "Aplikace navazuje na jeho viditelný brand z TikToku, kde sleduje veverky, a využívá komunitu, kterou si vybudoval na sociálních sítích.",
+        "Případ ukazuje, že distribuce a publikum dnes nahrazuje dlouhé inženýrské cykly: AI nástroje umožnily idea to launch v řádu dnů."
+      ],
+      "why_matters": "Ukazuje českým tvůrcům, že AI nástroje posouvají těžiště od kódování ke schopnosti rozpoznat publikum a rychle ho oslovit."
+    },
+    {
+      "rank": 15,
+      "title_cs": "Tom Steyer navrhuje v Kalifornii garanci práce pro lidi vytlačené umělou inteligencí",
+      "title_orig": "There's a Long-Shot Proposal to Protect California Workers From AI",
+      "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+      "source": "Wired AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Kandidát na guvernéra Tom Steyer chce stát garantujícím zaměstnavatelem pro pracovníky, kterým AI sebere pozici, financováno z daní AI firem.",
+        "Návrh by pokrýval rekvalifikaci, dočasný příjem a zprostředkování nové práce, vázáno na konkrétní data o ztrátě míst v daném sektoru.",
+        "Šance na schválení jsou nízké, ale debata signalizuje, že kalifornská politika začíná brát hromadné dopady AI vážně."
+      ],
+      "why_matters": "Pokud by Kalifornie přijala podobné opatření, vznikl by precedens, který by ovlivnil AI politiku globálně."
+    }
+  ]
+}
