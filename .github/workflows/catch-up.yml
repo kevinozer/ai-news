@@ -1,0 +1,49 @@
+name: AI News catch-up
+
+# Pojistka: pár hodin po ranním běhu zkontroluje, zda dnešek publikoval na všech
+# kanálech (ainamiru, CBRE, Stanton Chase, Telegram). Když ano, NEUDĚLÁ NIC.
+# Když ranní běh selhal/nestihl, dožene daily-pipeline — díky idempotentním
+# guardům se dodělá jen chybějící část a nic se nezduplikuje.
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 13:00 CEST (po ranním 10:30 běhu, před Make.com ve 14:00)
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  catchup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Zkontroluj stav dneška
+        id: chk
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          SC_TOKEN: ${{ secrets.SC_GITHUB_PAT }}
+        run: |
+          DATE=$(TZ=Europe/Prague date +%Y-%m-%d)
+          echo "date=$DATE" >> "$GITHUB_OUTPUT"
+          miss=""
+          has(){ curl -s -H "Authorization: Bearer $2" "https://api.github.com/repos/$1/commits?sha=main&per_page=6" | grep -q "$3"; }
+          has cruzmira/ainamiru "$GH_TOKEN" "Articles: ${DATE}" || miss="$miss ainamiru"
+          has kevinozer/cbre-marketplace "$GH_TOKEN" "daily sync ${DATE}" || miss="$miss cbre"
+          has cruzmira/stanton-chase-ai-hub "$SC_TOKEN" "sync ${DATE}" || miss="$miss sc"
+          TG=$(curl -s -o /dev/null -w "%{http_code}" -H "Authorization: Bearer $GH_TOKEN" "https://api.github.com/repos/kevinozer/ai-news/contents/state/telegram-${DATE}.ok")
+          [ "$TG" = "200" ] || miss="$miss telegram"
+          if [ -n "$miss" ]; then
+            echo "Chybí dnes:${miss} → spustím doháněcí běh"
+            echo "recover=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Vše dnes publikováno (ainamiru, cbre, sc, telegram) → nic nedělám"
+            echo "recover=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Dožeň daily-pipeline (jen když něco chybí)
+        if: ${{ steps.chk.outputs.recover == 'true' }}
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          gh workflow run daily-pipeline.yml --repo kevinozer/ai-news --ref main -f date=${{ steps.chk.outputs.date }} -f dry_run=false
+          echo "Doháněcí běh daily-pipeline vyžádán pro ${{ steps.chk.outputs.date }}."
