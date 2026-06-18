@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-18",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Polská vláda investuje stamiliony do startupu ElevenLabs a spouští program AI Lab Poland",
+      "title_orig": "Jako kdyby Česko investovalo do Rohlíku. Polská vláda posílá stamiliony tamní startupové raketě",
+      "category": "business",
+      "summary_cs": [
+        "Polská vláda se rozhodla masivně podpořit domácí technologický sektor přímou investicí do úspěšného hlasového startupu ElevenLabs.",
+        "Souběžně s finanční injekcí vzniká ambiciózní státní program AI Lab Poland, který má pomoci dalším začínajícím zakladatelům.",
+        "Tento krok ukazuje novou strategii evropských vlád, které se snaží aktivně budovat národní šampiony v oblasti umělé inteligence."
+      ],
+      "why_matters": "Ukazuje, jak sousední Polsko státní podporou AI startupů vytváří silný regionální ekosystém, což je inspirací pro Česko.",
+      "url": "https://cc.cz/jako-kdyby-cesko-investovalo-do-rohliku-polska-vlada-posila-stamiliony-tamni-startupove-rakete/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Bílý dům nařídil Anthropicu odebrat přístup k modelu Claude Mythos jihokorejskému gigantu SK Telecom",
+      "title_orig": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+      "category": "news",
+      "summary_cs": [
+        "Americká vláda zasáhla do partnerství mezi Anthropicem a SK Telecom kvůli obavám z možného úniku technologií do Číny.",
+        "Incident vedl k dočasnému stažení nejvyspělejších modelů Anthropicu z trhu a vyvolal diplomatické napětí.",
+        "Tento krok ukazuje, jak hluboko zasahuje geopolitika a národní bezpečnost do distribuce komerčních AI modelů."
+      ],
+      "why_matters": "Dokazuje, že přístup k nejlepším americkým AI modelům může být pro zahraniční firmy kdykoliv geopoliticky zablokován.",
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic otevírá pobočku v Soulu a posiluje partnerství v jihokorejském AI ekosystému",
+      "title_orig": "Jun 17, 2026 Announcements Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "category": "labs",
+      "summary_cs": [
+        "Navzdory nedávným vládním kontroverzím Anthropic oficiálně otevírá svou novou kancelář v jihokorejském Soulu.",
+        "Cílem je prohloubit spolupráci s místními technologickými firmami a integrovat modely Claude do tamní infrastruktury.",
+        "Jde o strategický krok k zajištění silné pozice na asijském trhu, který prochází masivním rozvojem umělé inteligence."
+      ],
+      "why_matters": "Expanze jednoho z největších AI laboratoří světa do Asie naznačuje budoucí rozložení sil na globálním trhu.",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "source": "Anthropic News"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Anthropic představil zásadní aktualizaci Claude Design s importem design systémů a opravou spotřeby tokenů",
+      "title_orig": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
+      "category": "tools",
+      "summary_cs": [
+        "Populární nástroj Claude Design získal podporu pro přímý import vlastních firemních design systémů a obousměrný přenos kódu.",
+        "Vývojáři vyřešili kritický problém s extrémní spotřebou tokenů, která dříve uživatelům bleskově vyčerpávala limity.",
+        "Nová verze výrazně usnadňuje prototypování aplikací přímo v rozhraní chatbota s okamžitým exportem do produkčního kódu."
+      ],
+      "why_matters": "Výrazně zlevňuje a zefektivňuje vývoj webových rozhraní pomocí AI pro české designéry a programátory.",
+      "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI a Molecule.one vyvinuly autonomního AI chemika, který vylepšil klíčovou reakci pro výrobu léků",
+      "title_orig": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "category": "labs",
+      "summary_cs": [
+        "Nový systém postavený na modelu GPT-5.4 dokázal samostatně navrhnout a optimalizovat složitou chemickou reakci.",
+        "Tento průlom v medicínské chemii může dramaticky urychlit rané fáze vývoje nových léčiv a snížit jejich cenu.",
+        "Spolupráce ukazuje, že moderní LLM již nepřemýšlí jen v textu, ale dokáží řešit reálné vědecké problémy v laboratořích."
+      ],
+      "why_matters": "Ukazuje reálné využití GPT-5.4 ve vědě, což přímo ovlivní rychlost vývoje nových léků i v Evropě.",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Pramaana Labs získal 27 milionů dolarů na formální verifikaci výstupů umělé inteligence",
+      "title_orig": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "category": "business",
+      "summary_cs": [
+        "Startup Pramaana získal štědré financování od Khosla Ventures na vývoj nástrojů, které matematicky garantují správnost AI výstupů.",
+        "Zaměří se na vysoce rizikové obory jako právo, farmacie a daně, kde může i drobná halucinace modelu způsobit obří škody.",
+        "Tento přístup kombinuje flexibilitu neuronových sítí s nekompromisní přesností tradičních verifikačních algoritmů."
+      ],
+      "why_matters": "Řeší největší překážku nasazení AI v českých firmách, kterou je právní a faktická nespolehlivost generovaných dat.",
+      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Google spouští předobjednávky nového Home Speakeru s plnou integrací Gemini",
+      "title_orig": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+      "category": "tools",
+      "summary_cs": [
+        "Po dlouhém čekání přichází na trh chytrý reproduktor za sto dolarů, který zcela nahrazuje starého asistenta modelem Gemini.",
+        "Zařízení sází na plynulou konverzaci, schopnost chápat kontext domácnosti a pokročilé plánování úkolů.",
+        "Hardware zůstává jednoduchý, hlavní přidanou hodnotou je cloudový mozek, který zvládá komplexní dialogy."
+      ],
+      "why_matters": "Představuje začátek nové éry skutečně chytrých domácností poháněných LLM namísto hloupých hlasových příkazů.",
+      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Nvidia učí roboty instalovat grafické karty a stříhat pásky pomocí AI kódovacích agentů",
+      "title_orig": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "category": "wildcard",
+      "summary_cs": [
+        "Nový systém od Nvidie využívá týmy kooperujících AI agentů k automatickému generování a ladění řídicího kódu pro robotická ramena.",
+        "Roboti se díky tomu naučili extrémně jemné manuální úkoly, jako je přesné usazování GPU do základních desek.",
+        "Tento přístup odstraňuje nutnost ručního programování každého pohybu a umožňuje robotům adaptovat se na měnící se prostředí."
+      ],
+      "why_matters": "Zásadní krok pro automatizaci české průmyslové výroby a montáže bez nutnosti drahého programování robotů.",
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Světoví lídři na summitu G7 vyjádřili obavy ze závislosti na americké AI infrastruktuře",
+      "title_orig": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "category": "news",
+      "summary_cs": [
+        "Francouzský prezident Macron a indický premiér Módí varovali před rizikem, že USA mohou ostatním zemím vypnout přístup k AI.",
+        "Nedávný výpadek pokročilých modelů Anthropicu kvůli vládním nařízením tyto obavy v očích politiků potvrdil.",
+        "Státy proto začínají masivně investovat do vlastních suverénních modelů a lokálních datových center."
+      ],
+      "why_matters": "Evropa a Česko musí urychleně řešit vlastní technologickou suverenitu, aby nebyly závislé na rozhodnutích Washingtonu.",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Vzniká nový expertní benchmark LifeSciBench pro hodnocení AI v biologických vědách",
+      "title_orig": "Introducing LifeSciBench",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI představila specializovaný testovací set vytvořený a recenzovaný předními vědci z oblasti věd o živé přírodě.",
+        "Benchmark hodnotí schopnost modelů řešit komplexní výzkumné úkoly, analyzovat data a navrhovat biologické experimenty.",
+        "Cílem je zajistit bezpečné a přesné nasazení umělé inteligence v medicínském a biologickém výzkumu."
+      ],
+      "why_matters": "Umožní českým akademickým i komerčním laboratořím objektivně vybrat nejvhodnější model pro biologický výzkum.",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Weibo vyvolalo debatu o benchmarcích s miniaturním modelem VibeThinker-3B",
+      "title_orig": "Why Weibo’s tiny VibeThinker-3B has the AI world arguing over benchmarks again",
+      "category": "open-source",
+      "summary_cs": [
+        "Čínský gigant Weibo vydal model s pouhými třemi miliardami parametrů, který v testech poráží mnohem větší konkurenty.",
+        "Vydání vyvolalo vlnu skepse a diskusí o tom, zda autoři model nepřeučili přímo na testovací otázky.",
+        "Ukazuje se, že honba za skóre v benchmarcích začíná deformovat reálné hodnocení užitečnosti malých modelů."
+      ],
+      "why_matters": "Varuje české vývojáře před slepou důvěrou v tabulkové výsledky open-source modelů na Hugging Face.",
+      "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Intervence v latentním prostoru pomocí SAE jsou nespolehlivé, potlačené chování se vrací",
+      "title_orig": "SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior",
+      "category": "research",
+      "summary_cs": [
+        "Nová vědecká studie ukazuje, že bezpečnostní zásahy do modelů pomocí Sparse Autoencoders nejsou trvalé.",
+        "Modely dokáží po vnějším potlačení nebezpečných konceptů během generování své původní chování opět obnovit.",
+        "Tento objev komplikuje snahy o spolehlivé zabezpečení LLM před zneužitím k tvorbě škodlivého obsahu."
+      ],
+      "why_matters": "Upozorňuje na bezpečnostní limity současných metod ohýbání chování AI, což je klíčové pro vývojáře bezpečných aplikací.",
+      "url": "https://arxiv.org/abs/2606.18322",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 13,
+      "title_cs": "DeepL kupuje startup Mixhalo pro živý přenos zvuku a okamžitý překlad na akcích",
+      "title_orig": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+      "category": "business",
+      "summary_cs": [
+        "Německý překladatelský lídr DeepL koupil americkou platformu Mixhalo zaměřenou na real-time distribuci zvuku na stadionech a konferencích.",
+        "Akvizice umožní DeepL nabídnout okamžitý, vysoce kvalitní překlad mluveného slova přímo do uší posluchačů v reálném čase.",
+        "Firma zároveň otevírá novou kancelář v San Franciscu s cílem výrazně posílit svou přítomnost na americkém trhu."
+      ],
+      "why_matters": "Přinese revoluci v překladech živých konferencí a sportovních událostí, což ocení i čeští organizátoři akcí.",
+      "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Google DeepMind pomáhá britské vládě urychlit schvalování stavebních povolení pomocí AI",
+      "title_orig": "Unlocking UK house-building with AI-accelerated planning",
+      "category": "wildcard",
+      "summary_cs": [
+        "Google DeepMind vyvíjí pro britské úřady prototyp systému, který má zkrátit měsíce trvající byrokratické procesy u staveb.",
+        "AI analyzuje územní plány, environmentální dopady a stavební předpisy pro rychlejší rozhodování úředníků.",
+        "Projekt ukazuje, jak může generativní AI pomoci řešit bytovou krizi zefektivněním státní správy."
+      ],
+      "why_matters": "Představuje skvělý příklad pro českou státní správu, jak digitalizovat a zrychlit extrémně pomalé stavební řízení.",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Fidoo ze skupiny Direct spouští pokročilou finanční analytiku pro malé a střední firmy",
+      "title_orig": "Fidoo z Directu chce být vrstvou nad bankami. Firmám nabídne v jejich financích pohled do budoucnosti",
+      "category": "wildcard",
+      "summary_cs": [
+        "Česká fintechová platforma spouští službu pro správu firemních financí s napojením na tuzemské i zahraniční účty.",
+        "Systém automaticky třídí transakce, analyzuje výdaje a nabízí prediktivní pohled na budoucí cash flow podniku.",
+        "Cílem je vytvořit inteligentní nadstavbu nad tradičním bankovnictvím, která firmám usnadní strategické plánování."
+      ],
+      "why_matters": "Přináší moderní finanční řízení s prvky prediktivní analytiky přímo do rukou českých malých a středních podnikatelů.",
+      "url": "https://www.lupa.cz/aktuality/fidoo-z-directu-chce-byt-vrstvou-nad-bankami-firmam-nabidne-v-jejich-financich-pohled-do-budoucnosti/",
+      "source": "Lupa.cz"
+    }
+  ]
+}
