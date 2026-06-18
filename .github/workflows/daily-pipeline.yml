@@ -43,6 +43,7 @@ jobs:
           repository: cruzmira/ainamiru
           token: ${{ secrets.GH_PAT }}
           path: _ainamiru
+          fetch-depth: 10
 
       - name: Setup Python
         uses: actions/setup-python@v6
@@ -89,12 +90,15 @@ jobs:
           echo "stran: $P"
           if [ "$P" -gt 100 ]; then echo "::error::PDF má $P stran — rozbité schéma"; exit 1; fi
 
-      - name: Send PDF to Telegram
+      - name: Send PDF to Telegram (idempotentní)
         run: |
           DATE=${{ steps.d.outputs.date }}
+          EX=$(curl -s -o /dev/null -w "%{http_code}" -H "Authorization: Bearer ${AI_NEWS_PUSH_TOKEN}" "https://api.github.com/repos/kevinozer/ai-news/contents/state/telegram-${DATE}.ok")
+          if [ "$EX" = "200" ]; then echo "Telegram uz dnes odeslano -> preskakuji"; exit 0; fi
           curl -sS -F document=@"digest/news_${DATE}.pdf" -F "caption=AI News - ${DATE}" \
             "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendDocument?chat_id=${TELEGRAM_CHAT_ID}" \
             | python3 -c "import sys,json; r=json.load(sys.stdin); print('Telegram OK' if r.get('ok') else f'FAIL {r}'); sys.exit(0 if r.get('ok') else 1)"
+          curl -s -X PUT -H "Authorization: Bearer ${AI_NEWS_PUSH_TOKEN}" "https://api.github.com/repos/kevinozer/ai-news/contents/state/telegram-${DATE}.ok" -d "{\"message\":\"telegram sent ${DATE}\",\"content\":\"b2s=\"}" -o /dev/null -w "marker HTTP %{http_code}\n"
 
       - name: Prewarm IG pozadí (Gemini)
         run: |
@@ -121,13 +125,23 @@ jobs:
       - name: Push slidů na GitHub (pro Make.com)
         run: python3 scripts/push_today_slides.py "${{ steps.d.outputs.date }}"
 
+      - name: ainamiru — guard (už dnes publikováno?)
+        id: aina
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          if git -C _ainamiru log -10 --pretty=%s | grep -q "Articles: ${DATE}"; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"; echo "ainamiru ${DATE} uz publikovano -> preskakuji"
+          else echo "skip=false" >> "$GITHUB_OUTPUT"; fi
+
       - name: ainamiru — připravit šablonu (sibling ai-na-miru)
+        if: ${{ steps.aina.outputs.skip != 'true' }}
         run: |
           mkdir -p ../ai-na-miru/articles
           cp templates/article-template.html ../ai-na-miru/articles/article-template.html
           echo "template na místě: $(ls -l ../ai-na-miru/articles/article-template.html)"
 
       - name: ainamiru — generovat 7 článků
+        if: ${{ steps.aina.outputs.skip != 'true' }}
         run: |
           DATE=${{ steps.d.outputs.date }}
           mkdir -p output/articles
@@ -140,9 +154,11 @@ jobs:
           echo "článkových složek: $(ls -d output/articles/${DATE}-*/ 2>/dev/null | wc -l)"
 
       - name: ainamiru — audit (output)
+        if: ${{ steps.aina.outputs.skip != 'true' }}
         run: python3 scripts/check_articles.py --date "${{ steps.d.outputs.date }}"
 
       - name: ainamiru — sync do repa + audit deploy
+        if: ${{ steps.aina.outputs.skip != 'true' }}
         run: |
           DATE=${{ steps.d.outputs.date }}
           cp -r output/articles/${DATE}-*/ _ainamiru/articles/ 2>/dev/null || echo "no new dirs"
@@ -150,6 +166,7 @@ jobs:
           python3 scripts/check_articles.py --date "$DATE" --root _ainamiru/articles
 
       - name: ainamiru — commit + push
+        if: ${{ steps.aina.outputs.skip != 'true' }}
         run: |
           DATE=${{ steps.d.outputs.date }}
           if [ "${{ inputs.dry_run }}" = "true" ]; then echo "DRY RUN — ainamiru push přeskočen"; exit 0; fi
@@ -172,7 +189,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.CBRE_GEMINI_KEY }}
         run: |
           DATE=${{ steps.d.outputs.date }}
-          git clone --depth=1 "https://x-access-token:${{ secrets.GH_PAT }}@github.com/kevinozer/cbre-marketplace.git" /tmp/cbre
+          git clone --depth=10 "https://x-access-token:${{ secrets.GH_PAT }}@github.com/kevinozer/cbre-marketplace.git" /tmp/cbre
+          if git -C /tmp/cbre log -10 --pretty=%s | grep -q "daily sync ${DATE}"; then echo "CBRE ${DATE} uz synced -> preskakuji"; exit 0; fi
           python3 scripts/cbre_sync.py --ainamiru _ainamiru --marketplace /tmp/cbre
           cd /tmp/cbre
           COUNT=$(grep -c "^    slug:" src/data/aiNews.ts || true)
@@ -211,7 +229,8 @@ jobs:
           AINAMIRU_DIR: ${{ github.workspace }}/_ainamiru
           SC_NEWS_DATE: ${{ steps.d.outputs.date }}
         run: |
-          git clone --depth=1 "https://x-access-token:${{ secrets.SC_GITHUB_PAT }}@github.com/cruzmira/stanton-chase-ai-hub.git" /tmp/sc
+          git clone --depth=10 "https://x-access-token:${{ secrets.SC_GITHUB_PAT }}@github.com/cruzmira/stanton-chase-ai-hub.git" /tmp/sc
+          if git -C /tmp/sc log -10 --pretty=%s | grep -q "sync ${{ steps.d.outputs.date }}"; then echo "SC uz synced -> preskakuji"; exit 0; fi
           cd /tmp/sc
           npm ci >/dev/null 2>&1 || npm install --no-audit --no-fund >/dev/null 2>&1
           node scripts/sc-news/select-for-sc.mjs --repo /tmp/sc
