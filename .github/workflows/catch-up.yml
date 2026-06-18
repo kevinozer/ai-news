@@ -26,6 +26,13 @@ jobs:
         run: |
           DATE=$(TZ=Europe/Prague date +%Y-%m-%d)
           echo "date=$DATE" >> "$GITHUB_OUTPUT"
+          # 0) Běží/čeká právě nějaký daily-pipeline běh? Pak ho nech dokončit a nedělej nic.
+          ACT=$(curl -s -H "Authorization: Bearer $GH_TOKEN" "https://api.github.com/repos/kevinozer/ai-news/actions/workflows/daily-pipeline.yml/runs?per_page=15" | python3 -c "import sys,json;rs=json.load(sys.stdin).get('workflow_runs',[]);print(sum(1 for r in rs if r['status'] in ('queued','in_progress','waiting','requested','pending')))")
+          if [ "${ACT:-0}" -gt 0 ]; then
+            echo "daily-pipeline právě běží/čeká (${ACT}) → nechávám dokončit, catch-up nic nedělá"
+            echo "recover=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          # 1) Je dnešek publikovaný na všech kanálech?
           miss=""
           has(){ curl -s -H "Authorization: Bearer $2" "https://api.github.com/repos/$1/commits?sha=main&per_page=6" | grep -q "$3"; }
           has cruzmira/ainamiru "$GH_TOKEN" "Articles: ${DATE}" || miss="$miss ainamiru"
@@ -40,7 +47,7 @@ jobs:
             echo "Vše dnes publikováno (ainamiru, cbre, sc, telegram) → nic nedělám"
             echo "recover=false" >> "$GITHUB_OUTPUT"
           fi
-      - name: Dožeň daily-pipeline (jen když něco chybí)
+      - name: Dožeň daily-pipeline (jen když něco chybí a nic neběží)
         if: ${{ steps.chk.outputs.recover == 'true' }}
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
