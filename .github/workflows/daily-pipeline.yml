@@ -254,21 +254,29 @@ jobs:
 
       - name: Persist selected.json (historie pro dedup)
         if: ${{ success() && inputs.dry_run != 'true' }}
+        env:
+          DATE: ${{ steps.d.outputs.date }}
         run: |
-          DATE=${{ steps.d.outputs.date }}
-          git config user.email "kevin.ozer@seznam.cz"
-          git config user.name "Kevin Ozer (auto)"
-          git add -f "digest/${DATE}_selected.json" 2>/dev/null || true
-          [ -f "digest/${DATE}_selected_ig.json" ] && git add -f "digest/${DATE}_selected_ig.json"
-          if ! git diff --cached --quiet; then
-            git commit -m "digest: ${DATE} selekce (historie pro dedup)"
-            git fetch origin main -q
-            git rebase origin/main -q || git rebase --abort
-            git push origin HEAD:main
-            echo "selected.json persistován do main"
-          else
-            echo "selected.json beze změn"
-          fi
+          python3 - <<'PY'
+          import os,json,base64,urllib.request,urllib.error
+          DATE=os.environ["DATE"]; TOK=os.environ["AI_NEWS_PUSH_TOKEN"]; O,R="kevinozer","ai-news"
+          path=f"digest/{DATE}_selected.json"
+          if not os.path.exists(path):
+              print("nic k persistu"); raise SystemExit
+          def api(m,p,d=None):
+              rq=urllib.request.Request(f"https://api.github.com{p}",data=json.dumps(d).encode() if d is not None else None,method=m)
+              rq.add_header("Authorization",f"Bearer {TOK}");rq.add_header("Accept","application/vnd.github+json")
+              if d is not None: rq.add_header("Content-Type","application/json")
+              try:
+                  with urllib.request.urlopen(rq) as x: return x.status,json.loads(x.read())
+              except urllib.error.HTTPError as e: return e.code,json.loads(e.read())
+          enc=base64.b64encode(open(path,"rb").read()).decode()
+          st,meta=api("GET",f"/repos/{O}/{R}/contents/digest/{DATE}_selected.json?ref=main")
+          body={"message":f"digest: {DATE} selekce (historie pro dedup)","content":enc,"branch":"main"}
+          if st==200: body["sha"]=meta["sha"]
+          st,_=api("PUT",f"/repos/{O}/{R}/contents/digest/{DATE}_selected.json",body)
+          print("persist selected.json HTTP",st)
+          PY
 
       - name: Verify (end-to-end audit)
         if: ${{ always() }}
