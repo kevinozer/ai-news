@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-19",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Adobe integruje agenty do Creative Cloud a mění tvorbu médií na orchestraci produkce",
+      "title_orig": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
+      "category": "tools",
+      "summary_cs": [
+        "Adobe spouští veřejnou betu kreativních AI agentů napříč aplikacemi Premiere Pro, Photoshop, Illustrator, InDesign a platformou Frame.io.",
+        "Místo pouhého generování obrázků či videa tito agenti pomáhají s celým produkčním workflow, správou aktiv a kontextovou pamětí.",
+        "Nové rozhraní Firefly navíc umožňuje udržovat konzistentní styl napříč projekty díky sdíleným šablonám a opakovaně použitelným prvkům."
+      ],
+      "why_matters": "Zásadní posun pro české kreativce a studia od prostého generování k plné automatizaci produkčních procesů.",
+      "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic přináší sdílené dashboardy a interaktivní pracovní prostory do Claude Code",
+      "title_orig": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
+      "category": "labs",
+      "summary_cs": [
+        "Nová aktualizace Artifacts pro předplatitele programů Claude Team a Enterprise mění kódovací sezení na živé interaktivní webové stránky.",
+        "Uživatelé mohou přímo v rozhraní spouštět kód, vizualizovat data a sdílet výsledky s kolegy v reálném čase.",
+        "Tento krok výrazně usnadňuje spolupráci mezi technickými týmy a byznysovými manažery bez nutnosti instalace dalších nástrojů."
+      ],
+      "why_matters": "Zjednodušuje nasazení AI kódování v českých firmách a umožňuje okamžité sdílení výsledků napříč týmy.",
+      "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI posiluje před plánovaným IPO a získává spoluvynálezce Transformeru Noama Shazeera",
+      "title_orig": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "category": "business",
+      "summary_cs": [
+        "OpenAI před očekávaným vstupem na burzu výrazně posiluje svůj tým o klíčové osobnosti z oblasti technologií i politiky.",
+        "Do firmy přichází Noam Shazeer, spoluvynálezce architektury Transformer z Google DeepMind, a Dean Ball, bývalý vládní úředník pro AI politiku.",
+        "Tyto strategické akvizice talentů mají posílit jak výzkumnou převahu OpenAI, tak její pozici při vyjednávání s regulátory."
+      ],
+      "why_matters": "Ukazuje přípravy největšího AI hráče na burzu a další koncentraci klíčových mozků v jednom týmu.",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Baseten údajně jedná o investici 1,5 miliardy dolarů při valuaci 13 miliard",
+      "title_orig": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "category": "business",
+      "summary_cs": [
+        "Startup Baseten zaměřený na infrastrukturu pro AI inferenci je blízko uzavření obřího investičního kola ve výši 1,5 miliardy dolarů.",
+        "Nová investice by měla firmu ohodnotit na 13 miliard dolarů, což podtrhuje obrovský hlad trhu po efektivním provozu modelů.",
+        "Poptávka po levné a rychlé inferenci roste s tím, jak firmy přecházejí od testování AI k masivnímu produkčnímu nasazení."
+      ],
+      "why_matters": "Potvrzuje, že hlavním bojištěm a zdrojem příjmů v AI se stává efektivní infrastruktura pro provoz modelů.",
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI vylepšuje zdravotní inteligenci v ChatGPT pomocí modelu GPT-5.5 Instant",
+      "title_orig": "Improving health intelligence in ChatGPT",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI představila vylepšení lékařských a wellness odpovědí v ChatGPT díky integraci nového modelu GPT-5.5 Instant.",
+        "Model vykazuje pokročilé klinické uvažování, lépe pracuje s kontextem pacienta a komunikuje srozumitelněji bez zbytečného žargonu.",
+        "Výstupy byly hodnoceny a laděny ve spolupráci s licencovanými lékaři, aby se minimalizovalo riziko nebezpečných rad."
+      ],
+      "why_matters": "Ukazuje, jak se spotřebitelské AI nástroje stávají bezpečnějšími a užitečnějšími pomocníky v oblasti zdraví.",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Martin Fiala z Packety experimentuje s AI, ale před termínem vibe coding varuje",
+      "title_orig": "Martin Fiala (Packeta Group): AI pomáhá při reklamacích či u ztracených zásilek. Z výrazu „vibe coding\" se mi ježí chlupy",
+      "category": "news",
+      "summary_cs": [
+        "Zásilkovna opatrně nasazuje AI pro řešení nestandardních situací, jako jsou reklamace nebo dohledávání ztracených balíků.",
+        "Technologický šéf Packety Martin Fiala vyjádřil skepsi k neřízenému psaní kódu pomocí AI bez hlubšího porozumění architektuře.",
+        "Firma se soustředí na robustní integraci a bezpečnost dat spíše než na rychlé podléhání módním technologickým trendům."
+      ],
+      "why_matters": "Pohled z praxe přední české logistické firmy ukazuje střízlivý přístup k reálnému přínosu AI.",
+      "url": "https://www.lupa.cz/clanky/martin-fiala-packeta-group-ai-pomaha-pri-reklamacich-ci-u-ztracenych-zasilek-z-vyrazu-vibe-coding-se-mi-jezi-chlupy/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Elastic kupuje startup DeductiveAI za 85 milionů dolarů pro automatické opravy chyb",
+      "title_orig": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Elastic se dohodla na akvizici tříletého startupu DeductiveAI, který se specializuje na detekci a opravu softwarových chyb pomocí AI.",
+        "Hodnota transakce dosahuje až 85 milionů dolarů a podtrhuje zájem velkých hráčů o autonomní vývojářské nástroje.",
+        "Technologie DeductiveAI bude pravděpodobně integrována do monitorovacích a vyhledávacích platforem Elasticu pro podnikovou sféru."
+      ],
+      "why_matters": "První velká konsolidace v oblasti AI agentů pro automatické ladění a opravu kódu v produkci.",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Nový optimalizační framework překonává Claude Code a Codex na stejném hardwaru",
+      "title_orig": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
+      "category": "tools",
+      "summary_cs": [
+        "Představený framework pro optimalizaci AI agentů dosahuje až 2.5krát vyšší úspěšnosti při stejném výpočetním rozpočtu.",
+        "Nástroj řeší časté selhávání agentů v produkčním prostředí, kde běžně dochází k halucinacím nebo ignorování byznysových pravidel.",
+        "Namísto zdlouhavého ručního ladění promptů systém automaticky optimalizuje chování agenta na základě zpětné vazby."
+      ],
+      "why_matters": "Umožní českým vývojářům stavět spolehlivější AI agenty s výrazně nižšími náklady na provoz.",
+      "url": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Amazon zvažuje přímý prodej vlastních AI čipů konkurenčním datovým centrům",
+      "title_orig": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "category": "business",
+      "summary_cs": [
+        "Divize AWS jedná o prodeji svých vlastních AI čipů Trainium a Inferentia provozovatelům jiných datových center.",
+        "Generální ředitel Andy Jassy vidí v prodeji vlastního křemíku mimo cloud AWS příležitost v hodnotě až 50 miliard dolarů.",
+        "Tento krok představuje dosud nejpřímější útok na monopolní postavení společnosti Nvidia na trhu s AI hardwarem."
+      ],
+      "why_matters": "Větší konkurence na trhu s čipy může v budoucnu snížit ceny cloudových AI služeb i pro české firmy.",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Bílý dům a Anthropic se přou o exportní pravidla pro modely Fable a Mythos",
+      "title_orig": "The White House Is Making Up Its Rules for AI in Real Time",
+      "category": "news",
+      "summary_cs": [
+        "Anthropic stále nesmí distribuovat své nejnovější modely Claude Mythos a Fable kvůli zásahu americké administrativy.",
+        "Podle insiderů chybí jasná pravidla a vládní úředníci rozhodují ad hoc bez transparentních kritérií pro bezpečnostní rizika.",
+        "Situace vyvolává nervozitu v celém AI sektoru, protože firmy nedokážou předvídat, které modely projdou schválením."
+      ],
+      "why_matters": "Ukazuje, jak geopolitika a nejasná regulace přímo brzdí nasazování nejmodernějších modelů v Evropě.",
+      "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "OpenAI představuje pokročilé řízení nákladů a analytiku pro ChatGPT Enterprise",
+      "title_orig": "New usage analytics and updated spend controls for enterprises",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI reaguje na stížnosti firem na nekontrolované výdaje a spouští nové nástroje pro správu rozpočtů v ChatGPT Enterprise.",
+        "Administrátoři nyní získají detailní přehled o využití API a možnost nastavit tvrdé limity pro jednotlivé týmy či projekty.",
+        "Nové analytické rozhraní pomůže lépe vyhodnocovat návratnost investic do AI napříč celou organizací."
+      ],
+      "why_matters": "Klíčový nástroj pro české manažery, kteří potřebují mít výdaje za firemní AI pod absolutní kontrolou.",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Vážné bezpečnostní trhliny v nástrojích Copilot a LiteLLM ohrožují firemní data",
+      "title_orig": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní experti odhalili kritické zranitelnosti v Microsoft Copilotu a populární knihovně LiteLLM.",
+        "Chyby umožňovaly útočníkům obejít bezpečnostní hranice a získat přístup k citlivým e-mailům nebo administrátorským klíčům.",
+        "Problém spočívá v tom, že podnikové AI systémy často přijímají externí vstupy bez dostatečného ověření důvěryhodnosti."
+      ],
+      "why_matters": "Varovný prst pro české IT administrátory, aby důsledně auditovali přístupová práva svých AI integrací.",
+      "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Použití AI modelů pomáhá lékařům diagnostikovat vzácné genetické vady u dětí",
+      "title_orig": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "category": "labs",
+      "summary_cs": [
+        "Vědci úspěšně nasadili uvažující model od OpenAI k analýze složitých lékařských záznamů dětských pacientů.",
+        "AI dokázala identifikovat 18 nových diagnóz v případech, které lidští specialisté nedokázali dlouhé roky vyřešit.",
+        "Tento přístup ukazuje obrovský potenciál LLM s pokročilým logickým uvažováním při analýze nestrukturovaných klinických dat."
+      ],
+      "why_matters": "Příklad toho, jak může pokročilá AI zachraňovat životy a pomáhat lékařům i v českých nemocnicích.",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "General Intuition jedná o obří investici na vývoj robotických modelů světa",
+      "title_orig": "General Intuition in talks to raise $300M at around $2B valuation",
+      "category": "business",
+      "summary_cs": [
+        "Startup General Intuition jedná o získání 300 milionů dolarů při valuaci blížící se ke 2 miliardám dolarů.",
+        "Firma se zaměřuje na trénování modelů fyzického světa pro autonomní roboty s využitím obřího video datasetu.",
+        "K trénování využívá partnerství s platformou Medal, která poskytuje miliardy videí ročně od milionů aktivních uživatelů."
+      ],
+      "why_matters": "Naznačuje rychlý příchod nové generace robotů, kteří rozumí fyzickému světu kolem sebe.",
+      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "ITNet sjednocuje konvoluci, attention a rekurenci do jednoho matematického rámce",
+      "title_orig": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
+      "category": "research",
+      "summary_cs": [
+        "Vědci představili ITNet, novou architekturu založenou na integrální transformaci, která v sobě spojuje tři dosud odlišné přístupy.",
+        "Tento model dokáže sjednotit výhody konvolučních sítí, transformerů i rekurentních sítí bez jejich typických omezení.",
+        "Matematické sjednocení by mohlo vést k vývoji efektivnějších a univerzálnějších neuronových sítí nové generace."
+      ],
+      "why_matters": "Teoretický průlom, který může v budoucnu nahradit současnou architekturu Transformerů efektivnějším řešením.",
+      "url": "https://arxiv.org/abs/2606.19538",
+      "source": "ArXiv cs.AI"
+    }
+  ]
+}
