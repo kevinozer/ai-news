@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-20",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Vládní zákaz modelů Fable 5 a Mythos od Anthropicu vyvolává debaty o exportních kontrolách",
+      "title_orig": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "category": "news",
+      "summary_cs": [
+        "Vláda USA donutila společnost Anthropic stáhnout její nejnovější pokročilé modely Fable 5 a Mythos 5 z bezpečnostních důvodů.",
+        "Krok následoval poté, co výzkumníci Amazonu údajně objevili způsob, jak obejít bezpečnostní zábrany modelu Fable 5.",
+        "Kyberbezpečnostní komunita reagovala otevřeným dopisem a debatuje se o tom, zda zákaz paradoxně nezvyšuje prestiž značky."
+      ],
+      "why_matters": "Zásah americké vlády ukazuje rostoucí geopolitický vliv na distribuci nejvýkonnějších AI modelů.",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Tisíce serverů Langflow čelí útokům kvůli kritickým bezpečnostním dírám",
+      "title_orig": "7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes",
+      "category": "news",
+      "summary_cs": [
+        "Více než 7 000 serverů běžících na frameworku Langflow je pod aktivním útokem kvůli zranitelnostem v kódu.",
+        "Podobné bezpečnostní nedostatky vykazují také populární vývojářské nástroje LangGraph a LangChain.",
+        "Útočníci mohou získat přístup k citlivým datům, včetně API klíčů k OpenAI a přihlašovacím údajům do databází."
+      ],
+      "why_matters": "Zranitelnost populárních frameworků přímo ohrožuje zabezpečení firemních AI aplikací v Česku.",
+      "url": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "České firmy zavádí AI rychle, ale často zbytečně vyvíjí již existující řešení",
+      "title_orig": "České firmy sice zavádí AI rychle, ale často bez většího efektu. Proč? Zbytečně vyvíjí to, co už lze koupit",
+      "category": "wildcard",
+      "summary_cs": [
+        "Tuzemské firmy se sice snaží rychle implementovat umělou inteligenci, ale často bez reálného ekonomického přínosu.",
+        "Čeští vývojáři mají tendenci stavět vlastní AI systémy od nuly, místo aby využili již hotové komerční nástroje.",
+        "Tento přístup vede ke ztrátě drahocenného času a konkurenční nevýhodě oproti zahraničním rivalům."
+      ],
+      "why_matters": "Článek odkrývá zásadní strategickou chybu, které se české podniky při adopci AI dopouštějí.",
+      "url": "https://cc.cz/ceske-firmy-sice-zavadi-ai-rychle-ale-casto-bez-vetsiho-efektu-proc-zbytecne-vyviji-to-co-uz-lze-koupit/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Hypersítě jako alternativa k ladění a RAG pro agenty v produkci",
+      "title_orig": "Fine-tuning forgets. RAG leaks context. Hypernetworks build the model your agent needs on demand.",
+      "category": "news",
+      "summary_cs": [
+        "Běžné metody jako fine-tuning a RAG narážejí v podnikovém nasazení na limity zapomínání a úniku kontextu.",
+        "Nová architektura využívající hyper-sítě umožňuje generovat specifické váhy modelu pro agenty přímo za běhu.",
+        "Tento přístup slibuje výrazné snížení lidského dohledu nad agenty v produkčním prostředí."
+      ],
+      "why_matters": "Nová technologie řeší největší bolesti při nasazování spolehlivých AI agentů do praxe.",
+      "url": "https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Startup Subquadratic tvrdí, že vyřešil matematické omezení velkých modelů",
+      "title_orig": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "category": "news",
+      "summary_cs": [
+        "AI startup Subquadratic vystoupil z utajení s tvrzením, že překonal dekádu starý matematický bottleneck v LLM.",
+        "Firma začíná prezentovat první reálné výsledky, které mají dokazovat výrazné zrychlení zpracování dlouhých textů.",
+        "Ačkoliv byla komunita zpočátku skeptická, nová data naznačují reálný technologický průlom."
+      ],
+      "why_matters": "Odstranění tohoto bottlenecku může dramaticky zlevnit a zrychlit provoz pokročilých jazykových modelů.",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Historie ukazuje, že exportní kontroly kybernetických nástrojů nefungují",
+      "title_orig": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+      "category": "news",
+      "summary_cs": [
+        "Snahy omezit šíření softwaru pro kybernetickou bezpečnost se historicky ukázaly jako zcela neúčinné.",
+        "Zákaz exportu modelu Mythos od Anthropicu pravděpodobně narazí na stejné limity jako dřívější regulace šifer.",
+        "Odborníci varují, že vládní restrikce pouze zpomalují inovace na domácím trhu."
+      ],
+      "why_matters": "Analýza vysvětluje, proč jsou státní regulace a zákazy šíření AI modelů v praxi těžko vymahatelné.",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Protokol MCP jako bezpečnostní brána pro autorizaci AI agentů",
+      "title_orig": "Quoting Sean Lynch",
+      "category": "tools",
+      "summary_cs": [
+        "Hlavní přínos protokolu MCP spočívá v izolaci autorizačních toků mimo kontextové okno samotného AI agenta.",
+        "Tento přístup zabraňuje tomu, aby agent přímo manipuloval s citlivými přístupovými údaji uživatele.",
+        "MCP by mohl v budoucnu fungovat jako univerzální a bezpečná autorizační brána pro API."
+      ],
+      "why_matters": "Bezpečné nakládání s přihlašovacími údaji je klíčové pro integraci AI do firemních systémů.",
+      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Deontické politiky pro řízení autonomních AI agentů za běhu",
+      "title_orig": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+      "category": "research",
+      "summary_cs": [
+        "Autonomní agenti s přístupem k nástrojům a datům představují nová rizika v oblasti bezpečnosti a souladu s předpisy.",
+        "Výzkum navrhuje rámec deontických politik, které definují povolené a zakázané chování agentů v reálném čase.",
+        "Tento systém umožňuje kontrolovat akce agentů napříč organizačními hranicemi bez omezení jejich flexibility."
+      ],
+      "why_matters": "Přináší konkrétní matematický způsob, jak udržet firemní AI agenty pod kontrolou.",
+      "url": "https://arxiv.org/abs/2606.19464",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Odhalování slepých míst v klinických znalostech jazykových modelů",
+      "title_orig": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+      "category": "research",
+      "summary_cs": [
+        "Jazykové modely jsou stále častěji nasazovány na strukturovaná klinická data, ale často neznají své vlastní limity.",
+        "Nová metoda využívá divergenci v atribuci mezi modely k detekci oblastí, kde LLM pouze hádají.",
+        "Tento přístup výrazně zvyšuje bezpečnost nasazení AI v medicíně a při práci s citlivými pacienty."
+      ],
+      "why_matters": "Schopnost AI rozpoznat vlastní neznalost je zásadní pro kritické aplikace v lékařství i průmyslu.",
+      "url": "https://arxiv.org/abs/2606.19509",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Bernie Sanders navrhuje fond za sedm bilionů dolarů pro kontrolu AI",
+      "title_orig": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
+      "category": "news",
+      "summary_cs": [
+        "Americký senátor Bernie Sanders představil ambiciózní plán na vytvoření veřejného fondu pro rozvoj AI.",
+        "Cílem iniciativy je dát běžným občanům kontrolu nad technologickým průmyslem a omezit moc korporací.",
+        "Přední technologické firmy pravděpodobně vyjádří s tímto masivním státním zásahem nesouhlas."
+      ],
+      "why_matters": "Návrh ukazuje extrémní politické tlaky na znárodnění či silnou regulaci AI infrastruktury.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Skryté kotvy v deliberaci více agentů a jejich vliv na přesnost",
+      "title_orig": "Hidden Anchors in Multi-Agent LLM Deliberation",
+      "category": "research",
+      "summary_cs": [
+        "Spolupráce a diskuse více AI agentů se stále častěji využívá ke zvýšení přesnosti a logického uvažování.",
+        "Nová studie zkoumá, jak v těchto diskusích vznikají skryté kognitivní kotvy podobně jako u lidí.",
+        "Porozumění těmto mechanismům pomůže lépe navrhovat systémy s více agenty bez zkreslení výstupů."
+      ],
+      "why_matters": "Pomáhá optimalizovat moderní multi-agentní systémy, které začínají nahrazovat jednoduché chatboti.",
+      "url": "https://arxiv.org/abs/2606.19494",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "DeXposure-Claw dohlíží na finanční rizika v decentralizovaných financích",
+      "title_orig": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+      "category": "research",
+      "summary_cs": [
+        "Decentralizované finance vystavují regulátory a správce rychle se měnícím síťovým úvěrovým rizikům.",
+        "Běžné LLM v této roli selhávají, protože přeceňují slabé důkazy a navrhují příliš rizikové zásahy.",
+        "Nový agentní systém DeXposure-Claw je navržen přímo pro potřeby dohledu a přesného měření rizik v DeFi."
+      ],
+      "why_matters": "Ukazuje, jak specializovaní AI agenti mohou pomoci stabilizovat a regulovat moderní finanční trhy.",
+      "url": "https://arxiv.org/abs/2606.19501",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Vzniká politické hnutí Guardrails financované řadovými IT pracovníky",
+      "title_orig": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+      "category": "news",
+      "summary_cs": [
+        "Nový politický akční výbor Guardrails se snaží konkurovat lobbingu technologických gigantů v oblasti AI.",
+        "Hnutí je financováno drobnými příspěvky od řadových programátorů a technologických pracovníků.",
+        "Cílem je prosadit rozumné bezpečnostní standardy a etická pravidla pro vývoj umělé inteligence."
+      ],
+      "why_matters": "Ukazuje rostoucí snahu samotných vývojářů ovlivnit směřování regulace AI zdola.",
+      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Barret Zoph odchází z OpenAI po pouhých pěti měsících od návratu",
+      "title_orig": "Barret Zoph is out at OpenAI again after just five months",
+      "category": "news",
+      "summary_cs": [
+        "Šéf prodeje podnikového AI softwaru Barret Zoph opět opouští společnost OpenAI.",
+        "Zoph se do firmy vrátil teprve v lednu po krátkém působení v konkurenčním Thinking Machines Lab.",
+        "Odchod klíčového manažera přichází v době, kdy se OpenAI snaží agresivně monetizovat své služby."
+      ],
+      "why_matters": "Personální nestabilita v OpenAI může ovlivnit podporu a rozvoj jejich enterprise produktů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Vládní nařízení dává datovým centrům pro AI přednostní přístup k síti",
+      "title_orig": "AI data centers just got a government-mandated fast lane to the grid",
+      "category": "news",
+      "summary_cs": [
+        "Federální energetická komise nařídila provozovatelům sítí přednostně připojovat datová centra pro AI.",
+        "Rozhodnutí má urychlit budování infrastruktury potřebné pro výcvik a provoz velkých modelů.",
+        "Kritici však upozorňují, že nařízení neřeší celkový nedostatek elektrické energie v síti."
+      ],
+      "why_matters": "Zvýhodnění AI center může ovlivnit ceny energií a dostupnost infrastruktury i pro evropské subjekty.",
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
