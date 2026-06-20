@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-20T04:00:33.935039+00:00",
+  "generated_at": "2026-06-20T07:58:05.641333+00:00",
   "date": "2026-06-20",
-  "article_count_unique": 126,
-  "article_count_raw": 126,
+  "article_count_unique": 122,
+  "article_count_raw": 122,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -19,8 +19,8 @@
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 15,
-      "raw_count": 15
+      "count": 14,
+      "raw_count": 14
     },
     {
       "source_id": "mit_tech_review",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "venturebeat_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
-      "raw_count": 12
+      "count": 2,
+      "raw_count": 10
     },
     {
       "source_id": "czechcrunch",
@@ -367,8 +367,8 @@
       "category": "commentary"
     },
     {
-      "id": "8e36d8a28ded1526",
-      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+      "id": "424859c92bd818f1",
+      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
       "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
       "published_at": "2026-06-19T22:40:14+00:00",
       "author": "Lorenzo Franceschi-Bicchierai",
@@ -529,7 +529,7 @@
       "published_at": "2026-06-19T11:08:50+00:00",
       "author": "Michaela Prešinská",
       "summary_raw": "Čeští vývojáři patří ke světové špičce. Právě to ale firmy svádí k tomu stavět si AI od nuly – a ztrácet tak měsíce tam, kde konkurenci stačí týdny. Článek České firmy sice zavádí AI rychle, ale často bez většího efektu. Proč? Zbytečně vyvíjí to, co už lze koupit se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/smerhovsky-815x509.jpg",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/google-mvp-815x509.jpg",
       "source_id": "czechcrunch",
       "source_name": "CzechCrunch",
       "category": "cz"
@@ -1219,42 +1219,6 @@
       "category": "labs"
     },
     {
-      "id": "9e75e57f1b75e1c7",
-      "title": "Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer",
-      "url": "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
-      "published_at": "2026-06-18T06:37:59+00:00",
-      "author": "Jennifer Ouellette",
-      "summary_raw": "Peter Parker to Bruce Banner: \"I didn't know you could get that big.\"",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/brandnewday-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "1818bf85418eb6ee",
-      "title": "Odpoví za vás kolegům i šéfovi. Apify vyrábějící samostatné AI nástroje je pouští na Notion, GitHub nebo Slack",
-      "url": "https://www.lupa.cz/aktuality/odpovi-za-vas-kolegum-i-sefovi-apify-vyrabejici-samostatne-ai-nastroje-je-pousti-na-notion-github-nebo-slack/",
-      "published_at": "2026-06-18T06:10:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Če&#353;i z nástroje Apify, platformy pro scrapování (stahování) webových dat, spou&#353;tejí MCP konektory. Jejich AI nástroje tak můžou přistupovat k externím aplikacím jako Notion, GitHub nebo Slack prostřednictvím uživatelského účtu. Tam můžou číst data, odesílat do nich výsledky nebo spou&#353;tět automatizované procesy, aniž by potřebovaly přístup k přihla&#353;ovacím údajům uživatelů. Technicky to znamená, že roboti můžou kromě jiného odpovídat na firemním komunikačním Slacku kolegům nebo třeba &#353;éfovi.",
-      "hero_image": "https://i.iinfo.cz/images/543/jakub-balada-a-jan-curn-apify.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "5b39f2a27a75f5f5",
-      "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
-      "url": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
-      "published_at": "2026-06-18T06:00:00+00:00",
-      "author": "Matt Burgess, Maddy Varner, May Bulman, Gabriel Geiger",
-      "summary_raw": "Internal Home Office tests of age-verification technology show the risks of life-altering errors. It’s moving forward anyway.",
-      "hero_image": "https://media.wired.com/photos/6a32f1cdd9e60209eb61b7f3/master/pass/GettyImages-2151441286.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "10682344690b4ea4",
       "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
       "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
@@ -1517,18 +1481,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "6cbfc9aab17bd20d",
-      "title": "[AINews] Fable and Mythos officially too dangerous to release",
-      "url": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
-      "published_at": "2026-06-13T04:30:52+00:00",
-      "author": "",
-      "summary_raw": "We are in the strangest timeline.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "b799b93c7af0e6fa",
