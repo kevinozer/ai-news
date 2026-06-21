@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-06-21T04:00:38.200805+00:00",
+  "generated_at": "2026-06-21T08:41:15.847807+00:00",
   "date": "2026-06-21",
-  "article_count_unique": 75,
-  "article_count_raw": 75,
+  "article_count_unique": 73,
+  "article_count_raw": 73,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "verge_ai",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "arstechnica",
@@ -163,17 +163,29 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 1,
-      "raw_count": 8
+      "count": 0,
+      "raw_count": 7
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "f656e9caab1efacb",
+      "title": "Je mu 23 a fond expartnerů PPF pomáhá přivést do doby AI. Šetří až 30 hodin pracovního týdne, říká",
+      "url": "https://cc.cz/je-mu-23-a-fond-expartneru-ppf-pomaha-privest-do-doby-ai-setri-az-30-hodin-pracovniho-tydne-rika/",
+      "published_at": "2026-06-21T05:06:07+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Tobiáš Kout studoval i na Torontské univerzitě, teď vedle školy působí ve fondu BD Partners, kde má na starosti zavádění AI nástrojů. Článek Je mu 23 a fond expartnerů PPF pomáhá přivést do doby AI. Šetří až 30 hodin pracovního týdne, říká se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/tobias-kout-3-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "018785157f6ff96e",
       "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
@@ -487,18 +499,6 @@
       "category": "news"
     },
     {
-      "id": "3cc98e54fec3f939",
-      "title": "The US says ASML’s top chip tool may be in China, but how?",
-      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-      "published_at": "2026-06-19T07:59:12+00:00",
-      "author": "Connie Loizos",
-      "summary_raw": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "cdb44a786699c52e",
       "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
       "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
@@ -509,30 +509,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "490d53023c635ffc",
-      "title": "Barret Zoph is out at OpenAI again after just five months",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "published_at": "2026-06-19T04:49:33+00:00",
-      "author": "Hayden Field",
-      "summary_raw": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "cd78bcbb69683df2",
-      "title": "Martin Fiala (Packeta Group): AI pomáhá při reklamacích či u ztracených zásilek. Z výrazu „vibe coding\" se mi ježí chlupy",
-      "url": "https://www.lupa.cz/clanky/martin-fiala-packeta-group-ai-pomaha-pri-reklamacich-ci-u-ztracenych-zasilek-z-vyrazu-vibe-coding-se-mi-jezi-chlupy/",
-      "published_at": "2026-06-19T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: David Slížek)",
-      "summary_raw": "Zásilkovna plánuje velké změny své logistické sítě a opatrně experimentuje s nasazením AI. Navíc dává poprvé nahlédnout pod kapotu svých Z-Boxů.",
-      "hero_image": "https://i.iinfo.cz/images/86/martin-fiala-packeta-group-zasilkovna.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "5070f309133bde03",
