@@ -272,7 +272,8 @@ jobs:
           if git status --porcelain | grep -qE "(aiNews\.ts|news/)"; then
             git config user.email "kevin.ozer@seznam.cz"
             git config user.name "Kevin Ozer (auto)"
-            git commit -am "news: SC AI-news sync ${DATE}"
+            git add -A
+            git commit -m "news: SC AI-news sync ${DATE}"
             git pull --rebase origin main -q || true
             git push origin main
             echo "SC push OK"
