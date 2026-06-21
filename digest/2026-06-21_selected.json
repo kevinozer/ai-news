@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-21",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Nobelista John Jumper odchází z Google DeepMind do konkurenčního Anthropicu",
+      "title_orig": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "category": "business",
+      "summary_cs": [
+        "John Jumper, klíčová postava stojící za revolučním modelem AlphaFold pro predikci struktury bílkovin, opouští Google DeepMind.",
+        "Jeho přestup do konkurenčního Anthropicu představuje jeden z nejvýznamnějších transferů talentů v historii moderní umělé inteligence.",
+        "Tento krok podtrhuje rostoucí rivalitu mezi laboratořemi a snahu Anthropicu posílit výzkum v oblasti biologických věd."
+      ],
+      "why_matters": "Odchod držitele Nobelovy ceny k hlavnímu konkurentovi zásadně mění rozložení sil na poli vědeckého využití AI.",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Jeff Bezos sází na inženýrskou AI a investuje do startupu Prometheus dvanáct miliard dolarů",
+      "title_orig": "Žádný chatbot ani obecná AI, ale dokonalý inženýr. Jeff Bezos odhalil plány ve světě umělé inteligence",
+      "category": "business",
+      "summary_cs": [
+        "Startup Prometheus získal masivní investici ve výši 12 miliard dolarů s cílem radikálně urychlit průmyslový vývoj.",
+        "Místo vývoje obecných konverzačních chatbotů se projekt zaměřuje na specializované inženýrské úkoly, jako je návrh léků a tryskových motorů.",
+        "Zakladatel Amazonu Jeff Bezos tímto krokem definuje nový směr praktického využití umělé inteligence v těžkém průmyslu a vědě."
+      ],
+      "why_matters": "Investice ukazuje odklon od obecných chatbotů k vysoce specializovaným průmyslovým aplikacím s obřím ekonomickým dopadem.",
+      "url": "https://cc.cz/zadny-chatbot-ani-obecna-ai-ale-dokonaly-inzenyr-jeff-bezos-odhalil-plany-ve-svete-umele-inteligence/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Čínský model GLM-5.2 překonává konkurenci v kódování a dlouhodobých úlohách",
+      "title_orig": "GLM-5.2: Built for Long-Horizon Tasks",
+      "category": "open-source",
+      "summary_cs": [
+        "Nový otevřený model GLM-5.2 vykazuje mimořádné výsledky v oblasti frontendového programování a komplexního plánování.",
+        "Model byl navržen speciálně pro zvládání úloh s dlouhým kontextem a komplexních vývojářských workflow.",
+        "Podle prvních testů a hodnocení komunity překonává v mnoha praktických programovacích benchmarcích i zavedené proprietární modely."
+      ],
+      "why_matters": "Nástup vysoce výkonných otevřených modelů z Asie dává českým vývojářům do rukou bezplatnou alternativu k drahým API.",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Zabezpečení autonomních agentů podle nového plánu Google DeepMind",
+      "title_orig": "Securing the future of AI agents",
+      "category": "labs",
+      "summary_cs": [
+        "Google DeepMind představil komplexní bezpečnostní plán zaměřený na ochranu interních systémů před riziky autonomních agentů.",
+        "Navržený přístup kombinuje tradiční softwarové pojistky s pokročilým monitorováním chování modelů v reálném čase.",
+        "Cílem je vytvořit robustní rámec, který umožní bezpečné nasazení agentů s přístupem k citlivým firemním databázím."
+      ],
+      "why_matters": "Bezpečnostní standardy od DeepMind určí, jak budou firmy bezpečně integrovat autonomní agenty do svých interních systémů.",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "The Atlantic odhalil obří databáze hudby použité k trénování umělé inteligence",
+      "title_orig": "The Atlantic created a searchable database of the music used to train AI",
+      "category": "news",
+      "summary_cs": [
+        "Novinář Alex Reisner objevil čtyři masivní hudební datasety, které vývojáři využívají k trénování generativních audio modelů.",
+        "Dva největší soubory obsahují dohromady přes 21 milionů skladeb, přičemž databáze byla nyní zpřístupněna veřejnosti k prohledávání.",
+        "Tento objev pravděpodobně vyvolá další vlnu autorskoprávních sporů mezi hudebním průmyslem a technologickými korporacemi."
+      ],
+      "why_matters": "Zveřejnění databází dává umělcům i vydavatelům jasný důkaz o tom, zda byla jejich díla zneužita k trénování AI.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Nová Siri v praxi ukazuje, že Apple konečně stvořil užitečného asistenta",
+      "title_orig": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "category": "tools",
+      "summary_cs": [
+        "První praktické testy nové verze asistentky Siri s integrovanou umělou inteligencí ukazují výrazný posun v chápání kontextu.",
+        "Siri je nyní schopna plynulé konverzace, lépe rozumí složitým příkazům a dokáže provádět akce napříč různými aplikacemi.",
+        "Uživatelé oceňují zejména její všudypřítomnost v systému a schopnost skutečně pomáhat s každodenními úkoly."
+      ],
+      "why_matters": "Nová Siri přibližuje pokročilou AI milionům běžných uživatelů přímo v jejich telefonech bez nutnosti instalovat další aplikace.",
+      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Zákaz open source modelů by byl fatální chybou pro technologický pokrok",
+      "title_orig": "Banning Open Source AI Would Be A Mistake",
+      "category": "news",
+      "summary_cs": [
+        "Analýza varuje před snahami vlád omezovat nebo zcela zakazovat vývoj otevřených modelů umělé inteligence.",
+        "Omezení open source by vedlo k monopolizaci trhu několika málo americkými korporacemi a zpomalilo by globální akademický výzkum.",
+        "Autoři argumentují, že otevřenost je klíčem k bezpečnosti, protože umožňuje nezávislý audit a rychlé odhalování chyb."
+      ],
+      "why_matters": "Pro české vývojáře a startupy je zachování svobodného open source AI klíčové pro udržení konkurenceschopnosti.",
+      "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+      "source": "Interconnects (Nathan Lambert)"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Meredith Whittaker varuje, že chatboti nejsou vaši přátelé ani vědomé bytosti",
+      "title_orig": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "category": "news",
+      "summary_cs": [
+        "Šéfka šifrované komunikační platformy Signal ostře vystoupila proti antropomorfizaci systémů umělé inteligence.",
+        "Upozorňuje, že chatboti nejsou vědomé bytosti ani empatičtí společníci, ale komerční produkty navržené ke sběru dat.",
+        "Whittaker varuje před emocionálním přilnutím uživatelů k těmto systémům, což může vést k manipulaci a ztrátě soukromí."
+      ],
+      "why_matters": "Varování připomíná nutnost kritického odstupu při používání AI v osobním i profesním životě.",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Hrozba úniku dat z výzkumných agentů prostřednictvím benchmarku MosaicLeaks",
+      "title_orig": "MosaicLeaks: Can your research agent keep a secret?",
+      "category": "labs",
+      "summary_cs": [
+        "Nový výzkum se zaměřil na bezpečnostní slabiny autonomních agentů určených pro vědecký a tržní výzkum.",
+        "Benchmark MosaicLeaks testuje, jak snadno lze z agentů vymámit citlivé informace, které měly zůstat utajeny.",
+        "Výsledky ukazují, že současní agenti mají tendenci neúmyslně odhalovat tajná data během interakce s externími zdroji."
+      ],
+      "why_matters": "Při nasazování AI agentů ve firmách hrozí úniky know-how, pokud nebudou vyřešeny tyto bezpečnostní mezery.",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Indický gigant Reliance chce integrovat AI do každého hovoru a domácnosti",
+      "title_orig": "Billionaire Ambani wants AI in every call, app, and home",
+      "category": "business",
+      "summary_cs": [
+        "Nejbohatší Ind Mukesh Ambani plánuje masivní nasazení umělé inteligence v rámci telekomunikační sítě Jio.",
+        "AI služby budou integrovány přímo do telefonních hovorů, cloudových úložišť a chytrých domácností pro více než 500 milionů uživatelů.",
+        "Tento krok představuje jeden z největších pokusů o masovou demokratizaci AI v rozvojovém světě."
+      ],
+      "why_matters": "Ukazuje to trend, kdy se AI stává běžnou infrastrukturou integrovanou přímo do telekomunikačních služeb.",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Amazon MGM ruší plánovaný film o dramatickém odvolání Sama Altmana",
+      "title_orig": "The film about Sam Altman has been dropped by Amazon MGM",
+      "category": "wildcard",
+      "summary_cs": [
+        "Filmové studio Amazon MGM upustilo od produkce snímku Artificial, který měl mapovat dramatické události v OpenAI z roku 2023.",
+        "Film v režii Lucy Guadagnina měl sledovat pět dní, během nichž byl Sam Altman propuštěn a následně znovu dosazen do funkce generálního ředitele.",
+        "Důvody pro náhlé zrušení projektu, v němž měl hlavní roli ztvárnit Andrew Garfield, nebyly oficiálně oznámeny."
+      ],
+      "why_matters": "Zrušení filmu ukazuje na citlivost Hollywoodu vůči tématům spojeným s vlivem a zákulisím velkých AI hráčů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Rozmach klinických zkoušek rozhraní mezi mozkem a počítačem",
+      "title_orig": "Brain-computer interface trials are taking off",
+      "category": "research",
+      "summary_cs": [
+        "Klinické testy mozkových implantátů (BCI) zaznamenávají výrazný pokrok a pomáhají prvním pacientům s těžkým ochrnutím.",
+        "Pacient s ALS dokázal díky implantátu a pokročilým algoritmům po třech letech opět srozumitelně komunikovat s okolím.",
+        "Technologie se rychle posouvá z fáze laboratorních experimentů do reálného medicínského využití."
+      ],
+      "why_matters": "Spojení AI a neurotechnologií přináší naději na léčbu dříve neřešitelných neurologických postižení.",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Hledání limitů jemného ladění modelů s metodami překonávajícími LoRA",
+      "title_orig": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "category": "labs",
+      "summary_cs": [
+        "Komunita Hugging Face zkoumá nové alternativní metody pro efektivní jemné ladění velkých jazykových modelů.",
+        "Ačkoliv je metoda LoRA v současnosti nejpopulárnější, nově vyvíjené techniky slibují ještě nižší hardwarové nároky.",
+        "Nové přístupy se zaměřují na zachování kvality výstupu při drastickém snížení počtu trénovaných parametrů."
+      ],
+      "why_matters": "Efektivnější ladění modelů umožní i menším českým firmám přizpůsobit AI na vlastních datech s minimálními náklady.",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Jak testovat agenty na vlastních nástrojích a interních systémech",
+      "title_orig": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "category": "labs",
+      "summary_cs": [
+        "Nový průvodce od Hugging Face ukazuje, jak efektivně testovat schopnosti otevřených modelů při práci s reálnými nástroji.",
+        "Standardní benchmarky často neodrážejí reálný výkon agentů v konkrétním firemním prostředí a s vlastními API.",
+        "Článek přináší praktické postupy, jak si vytvořit vlastní testovací sady pro ověření spolehlivosti autonomního rozhodování."
+      ],
+      "why_matters": "Návod pomůže českým vývojářům objektivně posoudit, zda je vybraný model připraven pro nasazení v jejich aplikacích.",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Propojení robotického hardwaru s agenty Hugging Face a platformou LeRobot",
+      "title_orig": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "category": "labs",
+      "summary_cs": [
+        "Projekt LeRobot úspěšně demonstruje cestu od softwarových modelů na Hugging Face k přímému řízení fyzických robotů.",
+        "Díky novým knihovnám mohou vývojáři snadno přenášet naučené chování z digitálních simulací do reálného hardwaru.",
+        "Tato integrace výrazně snižuje bariéru vstupu pro vývojáře, kteří chtějí experimentovat s fyzickou umělou inteligencí."
+      ],
+      "why_matters": "Zjednodušení vývoje robotického softwaru otevírá dveře pro inovace v české průmyslové automatizaci.",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "source": "Hugging Face Blog"
+    }
+  ]
+}
