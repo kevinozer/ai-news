@@ -1,0 +1,982 @@
+{
+  "generated_at": "2026-06-22T04:00:43.868328+00:00",
+  "date": "2026-06-22",
+  "article_count_unique": 67,
+  "article_count_raw": 67,
+  "source_stats": [
+    {
+      "source_id": "techcrunch_ai",
+      "status": "ok",
+      "count": 5,
+      "raw_count": 5
+    },
+    {
+      "source_id": "verge_ai",
+      "status": "ok",
+      "count": 1,
+      "raw_count": 1
+    },
+    {
+      "source_id": "arstechnica",
+      "status": "ok",
+      "count": 3,
+      "raw_count": 3
+    },
+    {
+      "source_id": "mit_tech_review",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "wired_ai",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 2
+    },
+    {
+      "source_id": "venturebeat_ai",
+      "status": "ok",
+      "count": 7,
+      "raw_count": 7
+    },
+    {
+      "source_id": "openai_blog",
+      "status": "ok",
+      "count": 7,
+      "raw_count": 7
+    },
+    {
+      "source_id": "anthropic_news",
+      "status": "ok",
+      "count": 13,
+      "raw_count": 13
+    },
+    {
+      "source_id": "deepmind_blog",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 2
+    },
+    {
+      "source_id": "microsoft_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "huggingface_blog",
+      "status": "ok",
+      "count": 7,
+      "raw_count": 7
+    },
+    {
+      "source_id": "import_ai",
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
+    },
+    {
+      "source_id": "tldr_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "bens_bites",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 2
+    },
+    {
+      "source_id": "last_week_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "one_useful_thing",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "simonw",
+      "status": "ok",
+      "count": 3,
+      "raw_count": 3
+    },
+    {
+      "source_id": "latent_space",
+      "status": "ok",
+      "count": 8,
+      "raw_count": 8
+    },
+    {
+      "source_id": "marcus_on_ai",
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
+    },
+    {
+      "source_id": "dwarkesh",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 2
+    },
+    {
+      "source_id": "zvi_vase",
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
+    },
+    {
+      "source_id": "interconnects",
+      "status": "ok",
+      "count": 3,
+      "raw_count": 3
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "arxiv_cs_lg",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "hackernews_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "reddit_ml",
+      "status": "error",
+      "error": "HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/r/MachineLearning+LocalLLaMA/top.json?t=day&limit=100",
+      "count": 0
+    },
+    {
+      "source_id": "lupa_cz",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 2
+    },
+    {
+      "source_id": "czechcrunch",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 10
+    }
+  ],
+  "articles": [
+    {
+      "id": "d21cb97eaec03347",
+      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/",
+      "published_at": "2026-06-21T23:35:47+00:00",
+      "author": "",
+      "summary_raw": "sqlite-utils is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default sqlite3 package , including support for complex table transformations , automatic table creation from JSON data and a whole lot more. I released sqlite-utils 4.0rc1 , the first release candidate for sqlite-utils v4. The major version bump indicates some (minor) backwards incompatible changes, so I'm interested in having people try this out before I commit to a stable release. New feature: migrations There are two significant new features in this RC compared to the previous 4.0 alphas. The first is support for database migrations . This isn't a completely new implementation - it's a slightly modified port of the sqlite-migrate package I released a few years ago. I think that package has proved itself over time, so I'm now ready to bundle it with sqlite-utils directly. Here's what a set of migrations in a migrations.py file looks like: from sqlite_utils import Database , Migrations migrations = Migrations ( \"creatures\" ) @ migrations () def create_table ( db ): db [ \"creatures\" ]. create ( { \"id\" : int , \"name\" : str , \"species\" : str }, pk = \"id\" , ) @ migrations () def add_weight ( db ): db [ \"creatures\" ]. add_column ( \"weight\" , float ) This defines a set of two migrations, one creating the creatures table and another adding a column to it. You can then run those migrations either using Python: db = Database ( \"creatures.db\" ) migrations . apply ( db ) Or with the command-line migrate command: sqlite-utils migrate creatures.db migrations.py The system is deliberately small: it doesn't provide reverse migrations, so any mistakes you make should be fixed by deploying a fresh migration to undo them. Its predecessor has been used by LLM and various other projects for several years, so I'm confident that the design is stable and works well. The new migrations feature is documented here . New featur…",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "74ce54f9757fb20c",
+      "title": "sqlite-utils 4.0rc1",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/",
+      "published_at": "2026-06-21T23:30:04+00:00",
+      "author": "",
+      "summary_raw": "Release: sqlite-utils 4.0rc1 See sqlite-utils 4.0rc1 adds migrations and nested transactions . Tags: sqlite-utils",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "c63e8fed31e30751",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "published_at": "2026-06-21T23:00:00+00:00",
+      "author": "",
+      "summary_raw": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "d6f020e121a5f1a0",
+      "title": "Temporary Cloudflare Accounts for AI agents",
+      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/",
+      "published_at": "2026-06-21T22:01:04+00:00",
+      "author": "",
+      "summary_raw": "Temporary Cloudflare Accounts for AI agents The announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well. Short version: you can now create a Cloudflare Workers project and run this, without even creating a Cloudflare account: npx wrangler deploy --temporary Cloudflare will deploy the application to a new, ephemeral project which will stay live for 60 minutes. I had GPT-5.5 xhigh in Codex Desktop build this test application providing a tool for following HTTP redirects and returning the final destination. The temporary deployment worked as advertised. Running the deployment spits out the URL to a page for claiming the new project, for if you want it to last for more than 60 minutes. Here's what that claim screen looks like: Via Hacker News Tags: cloudflare",
+      "hero_image": "https://static.simonwillison.net/static/2026/cloudflare-claim.jpg",
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "c1e1ffe857b98a03",
+      "title": "Trump admin’s coal investments assist plants with repeated violations",
+      "url": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
+      "published_at": "2026-06-21T17:49:35+00:00",
+      "author": "Ajani Stella, Inside Climate News",
+      "summary_raw": "At least three coal plants have been repeatedly cited for violating environmental regulations.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/coal-ash-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "404e56da26cab5a6",
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "published_at": "2026-06-21T15:28:17+00:00",
+      "author": "Anthony Ha",
+      "summary_raw": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "57da6102505b88a1",
+      "title": "[Exclusive] $250 off AI Engineer tix til Monday",
+      "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+      "published_at": "2026-06-21T15:01:23+00:00",
+      "author": "Latent.Space",
+      "summary_raw": "special offer for subscribers - $250 off AI Engineer tix til Monday",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!MovB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2eafb12-892b-44cc-b2d0-6ed07ef991cc_1494x870.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "a6adcbc1ab1da8af",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "published_at": "2026-06-21T14:40:28+00:00",
+      "author": "Sarah Perez",
+      "summary_raw": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "7b0048a4cd8eda18",
+      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+      "published_at": "2026-06-21T10:30:00+00:00",
+      "author": "David Nield",
+      "summary_raw": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+      "hero_image": "https://media.wired.com/photos/641df3ef11b9b75446f8f278/master/pass/11-Creative-ChatGPT-Prompts-Gear-GettyImages-1433912783.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "ce48cf526bef55f2",
+      "title": "Review: Widow's Bay is a boldly original take on comedic horror",
+      "url": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
+      "published_at": "2026-06-21T10:00:11+00:00",
+      "author": "Jennifer Ouellette",
+      "summary_raw": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bay12-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "f656e9caab1efacb",
+      "title": "Je mu 23 a fond expartnerů PPF pomáhá přivést do doby AI. Šetří až 30 hodin pracovního týdne, říká",
+      "url": "https://cc.cz/je-mu-23-a-fond-expartneru-ppf-pomaha-privest-do-doby-ai-setri-az-30-hodin-pracovniho-tydne-rika/",
+      "published_at": "2026-06-21T05:06:07+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Tobiáš Kout studoval i na Torontské univerzitě, teď vedle školy působí ve fondu BD Partners, kde má na starosti zavádění AI nástrojů. Článek Je mu 23 a fond expartnerů PPF pomáhá přivést do doby AI. Šetří až 30 hodin pracovního týdne, říká se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/tobias-kout-3-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "018785157f6ff96e",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "published_at": "2026-06-20T20:32:29+00:00",
+      "author": "Anthony Ha",
+      "summary_raw": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "271c35458d67b4f6",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "published_at": "2026-06-20T19:41:11+00:00",
+      "author": "Anthony Ha",
+      "summary_raw": "So ... what's your In the Weights score?",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "fdea89e4eabdc56a",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "published_at": "2026-06-20T18:46:48+00:00",
+      "author": "Terrence O’Brien",
+      "summary_raw": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "69c8c0d7b072d3d9",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "published_at": "2026-06-20T16:39:57+00:00",
+      "author": "Anthony Ha",
+      "summary_raw": "Jumper isn't the only big name leaving Google DeepMind.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "6f4307fe9f21f359",
+      "title": "Žádný chatbot ani obecná AI, ale dokonalý inženýr. Jeff Bezos odhalil plány ve světě umělé inteligence",
+      "url": "https://cc.cz/zadny-chatbot-ani-obecna-ai-ale-dokonaly-inzenyr-jeff-bezos-odhalil-plany-ve-svete-umele-inteligence/",
+      "published_at": "2026-06-20T15:47:34+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Startup Prometheus získal nově dvanáct miliard dolarů a slibuje, že zkrátí vývoj tryskových motorů i léků z let na měsíce. Řídí ho zakladatel Amazonu. Článek Žádný chatbot ani obecná AI, ale dokonalý inženýr. Jeff Bezos odhalil plány ve světě umělé inteligence se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2023/09/bezos-ai-815x458.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "a3e4ba4df932c8dc",
+      "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
+      "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+      "published_at": "2026-06-20T11:15:09+00:00",
+      "author": "Matt Burgess, Maddy Varner, May Bulman, Gabriel Geiger, WIRED.com",
+      "summary_raw": "Tests of age-verification technology show the risks of life-altering errors.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2234043771-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "774304d6eccc22c8",
+      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "published_at": "2026-06-20T10:00:00+00:00",
+      "author": "Reece Rogers",
+      "summary_raw": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+      "hero_image": "https://media.wired.com/photos/6a33443c27f7de3a00911dff/master/pass/Gear_TestingSiriAI-v1.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "1feadc07de02fb97",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+      "published_at": "2026-06-20T08:06:05+00:00",
+      "author": "Latent.Space",
+      "summary_raw": "a quiet day lets us promo AIE one last time",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!XmzS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53ab5745-2cb8-4b37-b574-e6af9fa01f69_1854x1166.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "a890d446cafbe128",
+      "title": "7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes",
+      "url": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
+      "published_at": "2026-06-19T21:14:19+00:00",
+      "author": "louiswcolumbus@gmail.com (Louis Columbus)",
+      "summary_raw": "Your AI agent did exactly what it was designed to do. The framework underneath it just handed an attacker a shell on the box that holds your OpenAI key, your database credentials, and your CRM tokens. That is not a hypothetical. In a few months, three of the most widely deployed AI agent frameworks each turned a known, ordinary bug class into a way through. Check Point Research chained a SQL injection in LangGraph’s SQLite checkpointer to full remote code execution. Tenable and VulnCheck tracked a path traversal in Langflow’s file upload endpoint to active, in-the-wild RCE. Cyera documented a path traversal in LangChain-core’s prompt loader that reads your secrets off disk. Two paths to a shell, one to your keys. They are the same bug, wearing three frameworks. These frameworks became production infrastructure faster than anyone secured them. They store agent state, take file uploads, load prompt configs, and hold the credentials to databases, CRMs, and internal APIs. The edge tools watch traffic. The endpoint tools watch processes. Neither was built to treat an imported framework as a boundary worth guarding, and that blind spot is exactly where all three chains live, widening every week as these frameworks ship to production. The LangGraph chain, SQL injection to a Python shell Start with the one most teams pulled into production this quarter. LangGraph gives AI agents memory through checkpointers, the persistence layer that stores execution state. It has cleared over 50 million downloads a month. Yarden Porat of Check Point Research took that layer apart and found three vulnerabilities. Two of them chain to RCE. CVE-2025-67644 , rated CVSS 7.3, is a SQL injection in the SQLite checkpointer. The function that builds the WHERE clause for checkpoint lookups drops user-controlled filter keys straight into the query with no parameterization and no escaping. This does not hit everyone, but where it hits, it is serious. A deployment is exposed when it self-hosts LangGra…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5CFo8mBoW1WjItcZvYyHpg/3172659c88b4856fe7137de54672ab16/hero.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "60211b6e2317ba19",
+      "title": "The data black hole at the center of AI",
+      "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
+      "published_at": "2026-06-19T16:45:03+00:00",
+      "author": "Dwarkesh Patel",
+      "summary_raw": "\"We see these AIs as a galaxy glittering with capabilities, but at their center, invisible to the naked eye, holding all the constellations together, is an unimaginably massive black hole of data.\"",
+      "hero_image": null,
+      "source_id": "dwarkesh",
+      "source_name": "Dwarkesh Patel",
+      "category": "commentary"
+    },
+    {
+      "id": "28846b50c58590f1",
+      "title": "Fine-tuning forgets. RAG leaks context. Hypernetworks build the model your agent needs on demand.",
+      "url": "https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand",
+      "published_at": "2026-06-19T16:30:50+00:00",
+      "author": "",
+      "summary_raw": "Enterprise teams keep watching the same thing happen. An AI agent demos beautifully, goes to production, and stalls: it runs for a short stretch, then needs a human to top up its context and check its output, and the promised efficiency drains into supervision. The agent did the work; you did the watching. It’s one reason so many agent pilots never turn into production systems. The pitch on the other side of that wall is the one every team wants to believe: an agent that runs a long job on its own, overnight if it has to, and leaves a person to validate only the last 10%. Whether that is achievable turns on a problem the orchestration conversation mostly skips. When AI firm Chroma tested 18 leading models, every one lost accuracy as its input grew , a property of how attention works, not a gap a stronger model closes. An agent fed more and more of your business as it runs does not get steadier. It gets shakier. This is the layer beneath the orchestration race. Routing, durable execution and observability all assume each agent is already competent enough to coordinate in the first place. The deeper question is how long an agent can run before a human has to step in, and that comes down to where your company&#x27;s knowledge lives relative to the model. Both standard fixes leave a human in the loop. Why teaching a model your business keeps you in the loop Frontier models keep getting more capable, and the gap does not close, because it is not a capability problem. It is about where your knowledge sits relative to the model, and enterprises have had two ways to place it there. The first is fine-tuning, which bakes knowledge into the weights. It remains subject to catastrophic forgetting, a problem identified in the 1980s and still unresolved in 2026 : teaching a model something new tends to erode what it already knew. Teams work around it by isolating each task in its own fine-tuned model or adapter, which produces a sprawling estate of models that raises cost and gove…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5i664fldp1fQIBiyfnykGq/ac7e785b49b229db8798fd5a95b3f895/Gemini_Generated_Image_rwbmyvrwbmyvrwbm.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "311e650fa7163a3f",
+      "title": "Banning Open Source AI Would Be A Mistake",
+      "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+      "published_at": "2026-06-19T13:02:47+00:00",
+      "author": "Nathan Lambert",
+      "summary_raw": "This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience.",
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/2cf763f4-5f1e-47ec-b6e1-b14a69443d00_3182x1790.png",
+      "source_id": "interconnects",
+      "source_name": "Interconnects (Nathan Lambert)",
+      "category": "commentary"
+    },
+    {
+      "id": "cdb44a786699c52e",
+      "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
+      "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+      "published_at": "2026-06-19T05:53:54+00:00",
+      "author": "",
+      "summary_raw": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!bxEo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96e55c58-9f9d-4573-af94-501283bf9161_814x636.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "5070f309133bde03",
+      "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
+      "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
+      "published_at": "2026-06-18T23:18:59+00:00",
+      "author": "carl.franzen@venturebeat.com (Carl Franzen)",
+      "summary_raw": "Anthropic announced a potentially game-changing new feature for users of Claude Code on the Claude Team and Enterprise subscription plans: Artifacts . This update turns a Claude Code session&#x27;s work into a live, interactive, and shareable, custom HTML webpage, allowing a Claude Code user to plug in live code, multiple data sources, and have it surface on an interactive URL that they can send to other teammates — be it a dashboard, an app design, or some other product meant for internal usage. These teammates and the original user can watch the webpage it update in real-time as Claude Code goes about its work autonomously or under the user&#x27;s guidance, and as the connected data sources and codebases change. While Anthropic first introduced Artifacts to its consumer web chatbot in the summer of 2024—where it evolved from a manual toggle feature to a generally available tool for publishing code snippets and games to the web—integrating this capability directly into the Claude Code command-line interface (CLI) and desktop app bridges the gap between deep, back-end engineering and the non-technical stakeholders who need to understand it. Product and Technology: The End of the Status Update At its core, Claude Code Artifacts acts as a dynamic translation layer. Built directly from the unbroken context of a user’s session, the agent uses the local repository codebase, connected monitoring tools, and conversational reasoning to spin up specialized web pages. Engineers no longer need to wire up external data sources or stand up temporary infrastructure; the AI builds the UI from what already exists. Crucially, these web pages are not static exports. As the AI works through a terminal session, the open webpage refreshes in-place, updating charts and text instantly at the exact same URL. Every update publishes a new version history, allowing teammates to roll back or track the agent&#x27;s progress securely on desktop or mobile. The Battle of Live, Interactive, Shared …",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/2rGZZLXFe3kRoiPC50Ycwv/a32853493a91cece13baf19f06f38fbb/ChatGPT_Image_Jun_18__2026__07_12_17_PM.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "c540c34b8891b374",
+      "title": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
+      "url": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
+      "published_at": "2026-06-18T18:13:54+00:00",
+      "author": "bendee983@gmail.com (Ben Dickson)",
+      "summary_raw": "Imagine your engineering team just deployed an AI agent to search through internal company documents and answer employee questions. It works perfectly in development, but in production, it consistently hallucinates or misses key constraints. Fixing this is rarely a simple patch. It requires a tedious, trial-and-error process of tweaking chunking strategies, retrieval methods, and system prompts simultaneously. Because these adjustments are entangled, it becomes nearly impossible to attribute which specific tweak actually solved the problem. To address this challenge, researchers at Renmin University of China and Microsoft Research introduced Arbor , a framework that upgrades AI-driven research and optimization from a sequence of trial-and-error guesses into a cumulative learning process. Arbor organizes hypotheses, experiments, and insights into a tree that helps the system learn from prior failures to make smarter, verified improvements over time. In practical tests, Arbor delivered more than 2.5 times the verifiable performance gains of standard AI coding agents across real-world engineering tasks while operating under the same resource budget. For enterprise AI, this technique directly translates to automating the continuous improvement of complex, real-world engineering systems. Understanding the bottleneck in autonomous optimization As large language models and AI systems become more capable, they are expected to carry out more complex operations such as autonomous optimization (AO) of software systems such as agent harnesses or model training algorithms. AO captures the fundamental loop of autonomous research. An AI agent starts with an initial mutable artifact, such as a machine learning codebase or data pipeline, and a specific objective. The agent&#x27;s goal is to iteratively improve this artifact through experimental feedback without step-by-step human supervision. The main challenge of AO is often misunderstood. Many engineering teams find that simply gi…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/4cekVJ1BS9ADYlnh0s4ezc/d00dd7900cb08ca4bd77a3060898fb33/arbor.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "548649e8aa902b72",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "published_at": "2026-06-18T18:13:13+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "9e21e8d5b0b999f5",
+      "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
+      "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
+      "published_at": "2026-06-18T17:42:49+00:00",
+      "author": "louiswcolumbus@gmail.com (Louis Columbus)",
+      "summary_raw": "Two AI tools broke in the same way in the same two weeks, and four research teams proved it. The pattern underneath every disclosure is one sentence: enterprise AI accepts external input with no trust boundary. On June 15, Varonis disclosed SearchLeak (CVE-2026-42824) , a proof-of-concept exfiltration chain in Microsoft 365 Copilot Enterprise Search. A victim clicks a crafted microsoft.com URL, Copilot searches their mailbox, and the data leaves through a Bing SSRF. No plugins, no second click, no visible indicator. Four days earlier, Obsidian Security published a three-CVE chain against LiteLLM that carried a default low-privilege user all the way to admin and remote code execution. Two tools. Two teams. One broken boundary. The five-check audit at the end of this article maps each gap to a CVE or a market signal from June, a command you can run before lunch, and a sentence a CISO can read to the board. Copilot turned a trusted URL into an exfiltration engine SearchLeak chained three weaknesses into a silent data-theft chain. The URL q parameter fed attacker instructions straight to Copilot’s LLM. A rendering race condition fired an image tag before the output sanitizer ran. Bing’s image-search endpoint, allowlisted in the Content Security Policy , routed the stolen data out. Microsoft rated the flaw critical and patched it on the back end, according to Varonis. NVD has not yet scored it ; a third-party tracker lists it at 6.5 medium. The severity is contested, but the mechanism is not. The escalation is the real story. This is the third Varonis Copilot exfiltration chain in twelve months, after Reprompt in January and EchoLeak in 2025. Reprompt hit Copilot Personal. SearchLeak hit Enterprise Search. Enterprise inherits the user’s full organizational permissions, so the blast radius is everything that a user can reach. LiteLLM handed a default account to every provider key The LiteLLM gateway holds the keys for OpenAI, Anthropic, Azure, and Bedrock behind a single …",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/599hDEEWXHzpIDiNVQFFsc/069254d665cc4a88ccee32f955648c72/hero.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "6db519cabe9c50db",
+      "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
+      "url": "https://www.latent.space/p/anj",
+      "published_at": "2026-06-18T17:30:00+00:00",
+      "author": "",
+      "summary_raw": "We talk about how this legendary investor went from humble beginnings in Singapore to leading rounds in Anthropic, Mistral, Black Forest Labs, and Periodic Labs... and the AMP secret master plan!",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!kumG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0422ec73-8239-45ef-aede-51a7cfb19b47_1166x1104.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "74e54ac31f358b7d",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "published_at": "2026-06-18T17:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "07cd1bd5171e9cb8",
+      "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
+      "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
+      "published_at": "2026-06-18T14:33:04+00:00",
+      "author": "carl.franzen@venturebeat.com (Carl Franzen)",
+      "summary_raw": "Adobe has announced a major expansion of its &quot;creative agent&quot; across its flagship Creative Cloud suite and upgraded Firefly AI studio. Available in public beta starting today across Premiere Pro, Photoshop, Illustrator, InDesign, and Frame.io, the agent is designed to serve everyone from individual creators to enterprise marketing teams. Unlike first-generation generative AI tools that simply output flat media from a chat interface, Adobe’s embedded assistant acts as an orchestration layer. It interprets natural language prompts and directly accesses the underlying software&#x27;s APIs to execute complex, multi-step production workflows—from batch-renaming video sequences to dynamically updating brand assets across print layouts—while leaving the final aesthetic decisions entirely in the hands of the human designer. Technology: Contextual Memory and DOM Manipulation At the core of this release is a significant technical upgrade to how Adobe&#x27;s AI handles persistent memory and context window management. In its upgraded Firefly creative AI studio—currently in private beta—Adobe has introduced two foundational architectural components: &quot;Elements&quot; and &quot;Projects&quot;. Elements functions as a visual variables library, allowing users to save and reuse specific characters, locations, and objects across multiple generations to ensure strict visual consistency as campaigns scale. Projects acts as the contextual memory layer, storing assets, generations, and session history in a unified space so users can pick up where they left off without rebuilding their prompt context. Beyond pixel generation, the system&#x27;s most critical technological leap is its ability to operate seamlessly within the complex document structures of desktop applications. &quot;Our Adobe Creative Agent can leverage the decades of powerful features, workflows, APIs that we&#x27;ve brought into our application and exposed through tooling that can now be invoked through a cre…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/CRblDVbL1kQ1uEVW35sEq/ad7b269e284b5c73782b5d4934b93c2c/ChatGPT_Image_Jun_18__2026__10_30_55_AM.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "0a7a0cb59283d991",
+      "title": "The first big exit in AI",
+      "url": "https://www.bensbites.com/p/the-first-big-exit-in-ai",
+      "published_at": "2026-06-18T13:03:58+00:00",
+      "author": "",
+      "summary_raw": "little tools for making life easier",
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/5abea6e7-d370-4ed8-aa32-643e36fc961e_1536x1024.png",
+      "source_id": "bens_bites",
+      "source_name": "Ben's Bites",
+      "category": "newsletter"
+    },
+    {
+      "id": "1f896823675efc4d",
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "published_at": "2026-06-18T11:00:00+00:00",
+      "author": "",
+      "summary_raw": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "01f73380006a4238",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "published_at": "2026-06-18T08:00:00+00:00",
+      "author": "",
+      "summary_raw": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "10682344690b4ea4",
+      "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
+      "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+      "published_at": "2026-06-18T04:23:05+00:00",
+      "author": "",
+      "summary_raw": "The only bootstrapped frontier lab announces its second product and second",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!_BAI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHLDKY9bawAA-Lls.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "97fc5fb085bf888a",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "published_at": "2026-06-18T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "4fe5726d725990c1",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "published_at": "2026-06-18T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "8792cb2d58aa5b48",
+      "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation",
+      "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation",
+      "published_at": "2026-06-17T22:10:38+00:00",
+      "author": "",
+      "summary_raw": "Building a context layer between enterprise data stores and AI agents is bespoke work, with no standard service to automate or maintain the graphs over time. Amazon is making a direct play to change that. Amazon on Wednesday entered the space, announcing a series of three products it&#x27;s positioning as a context intelligence stack for AI agents. The centerpiece is AWS Context, a new knowledge graph service that gets smarter through agent usage over time. AWS also announced the general availability of Amazon S3 Annotations and a preview of skill assets in AWS Glue Data Catalog. The context layer is now a contested architectural category with no shortage of options from different vendors. AWS is entering that market with a different architectural premise: that the graph should learn from how agents use it automatically, without human re-curation. &quot;Your agents now get smarter without you having to rebuild anything from scratch,&quot; said Swami Sivasubramanian, vice president of Agentic AI at AWS, during his AWS Summit NYC keynote. &quot;This service automatically builds a knowledge graph from all your existing data,&quot; he said. &quot;This service infers relationships across your data sets, business rules, and domain knowledge, and makes all of it available to your agents and your organization at runtime.&quot; AWS Context builds a self-learning knowledge graph from existing data It&#x27;s a problem AWS says it has seen repeatedly in customer deployments. AWS Context maps relationships across existing data automatically: what tables exist, what columns mean, how sources relate and which sources are authoritative. It combines semantic search with graph-level reasoning and infers relationships across datasets, business rules and domain knowledge, making all of it available to agents at runtime. &quot;The knowledge graph improves itself over time as it learns which sources produce correct results and which parts get used,&quot; Sivasubramanian said. Data stewar…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3io1fRBUqBtb0b4g3PWP1u/23d64118a63ed9f4388e51d688f32ab8/context-smk1.jpg?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "bee41f499b3c4c81",
+      "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
+      "url": "https://www.latent.space/p/radical-ai",
+      "published_at": "2026-06-17T17:58:06+00:00",
+      "author": "Brandon Anderson",
+      "summary_raw": "Radical AI's Joseph Krause on why the moat in materials is the lab, not the model",
+      "hero_image": null,
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "c6f86ab566651fe9",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "published_at": "2026-06-17T15:26:44+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "5b809a7cb9f1952f",
+      "title": "State of the blog, mid-2026",
+      "url": "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+      "published_at": "2026-06-17T14:29:06+00:00",
+      "author": "Nathan Lambert",
+      "summary_raw": "About 3 years since I started writing weekly.",
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/06077e73-d656-4396-bda7-34b45e920822_3182x1790.png",
+      "source_id": "interconnects",
+      "source_name": "Interconnects (Nathan Lambert)",
+      "category": "commentary"
+    },
+    {
+      "id": "46454e88b72e61c9",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "published_at": "2026-06-17T10:18:05+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "675b7969e9ac5322",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "published_at": "2026-06-17T10:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "03f406eef709c782",
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "published_at": "2026-06-17T09:01:25+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "88f88c5a022d07b1",
+      "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
+      "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+      "published_at": "2026-06-17T05:37:40+00:00",
+      "author": "",
+      "summary_raw": "We have a new top open model in the world!",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!tOcj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c75ad4c-83e2-4317-8cf0-276d3cab6e59_1226x1830.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "0d1b2f7118b9f82d",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "published_at": "2026-06-17T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "715dd600deea5a85",
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "published_at": "2026-06-17T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "e9f56b64f84ca578",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "published_at": "2026-06-16T21:29:50+00:00",
+      "author": "",
+      "summary_raw": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "hero_image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo",
+      "source_id": "deepmind_blog",
+      "source_name": "Google DeepMind Blog",
+      "category": "labs"
+    },
+    {
+      "id": "21a3a31501402c6c",
+      "title": "Ada Palmer – Machiavelli is the most misunderstood thinker of all time",
+      "url": "https://www.dwarkesh.com/p/ada-palmer-2",
+      "published_at": "2026-06-16T17:27:51+00:00",
+      "author": "Dwarkesh Patel",
+      "summary_raw": "\"He begged to work for the regime that tortured him.\"",
+      "hero_image": null,
+      "source_id": "dwarkesh",
+      "source_name": "Dwarkesh Patel",
+      "category": "commentary"
+    },
+    {
+      "id": "bf77538601de3cf1",
+      "title": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "published_at": "2026-06-16T15:46:31+00:00",
+      "author": "",
+      "summary_raw": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "hero_image": "https://lh3.googleusercontent.com/X6w_t9eA7TLFiq3JMp1kXlon25qi9N6O0AxPyp7j0qOIu8oz-QDsaOP-oKz7FIuqlA3W1evDbeLYssDJM_fjkqeyscPO_fHJd0xeD0IoDlHkiUQW1w=w528-h297-n-nu-rw-lo",
+      "source_id": "deepmind_blog",
+      "source_name": "Google DeepMind Blog",
+      "category": "labs"
+    },
+    {
+      "id": "c9b3ed962808a7f1",
+      "title": "Frontier post-training recipe review with Finbarr Timbers",
+      "url": "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+      "published_at": "2026-06-16T13:29:30+00:00",
+      "author": "Nathan Lambert",
+      "summary_raw": "\"Interview\" #18",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!RXNT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0683459-e10e-4c6a-8192-71df98e12836_4400x2748.png",
+      "source_id": "interconnects",
+      "source_name": "Interconnects (Nathan Lambert)",
+      "category": "commentary"
+    },
+    {
+      "id": "f065804ed8fa0013",
+      "title": "Bye bye Fable",
+      "url": "https://www.bensbites.com/p/bye-bye-fable",
+      "published_at": "2026-06-16T13:01:05+00:00",
+      "author": "",
+      "summary_raw": "another benchmark for real swe work",
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/5b544770-d517-4836-800f-9489975b68f0_1200x800.png",
+      "source_id": "bens_bites",
+      "source_name": "Ben's Bites",
+      "category": "newsletter"
+    },
+    {
+      "id": "f494976f9d254b24",
+      "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
+      "url": "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
+      "published_at": "2026-06-16T02:29:29+00:00",
+      "author": "Latent.Space",
+      "summary_raw": "a quiet day lets us report on Satya's hit essay",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!HKwp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf76265a-b9d4-4100-acf7-e262e9f15460_908x1210.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "077e0b91f457d84b",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "published_at": "2026-06-16T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "b799b93c7af0e6fa",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Announcements Jun 12, 2026 The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "8541bc9488435fcf",
+      "title": "Announcements Jun 11, 2026 Introducing Claude Corps We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "73c9b7c9aa91b97d",
+      "title": "Announcements Jun 2, 2026 Expanding Project Glasswing We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries.",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "3a00878a8f7e134c",
+      "title": "Product May 28, 2026 Introducing Claude Opus 4.8 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "7d071f52b26dc2c1",
+      "title": "Announcements May 25, 2026 Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical &quot;Magnifica humanitas&quot; The full text of Chris Olah&#x27;s remarks on the Pope&#x27;s encyclical on AI.",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "32b09270e60e8611",
+      "title": "Jun 17, 2026 Announcements Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "2b4c3c34444ef777",
+      "title": "Jun 12, 2026 Announcements Results from the first Anthropic Public Record",
+      "url": "https://www.anthropic.com/news/anthropic-public-record",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "a134864d9fb1461f",
+      "title": "Jun 12, 2026 Announcements TCS and Anthropic partner to bring Claude to regulated industries",
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "5daf1aec316307d0",
+      "title": "Jun 11, 2026 Announcements DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "37f88970de169b53",
+      "title": "Jun 9, 2026 Announcements Claude Fable 5 and Claude Mythos 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "e784f55ba429b8df",
+      "title": "Jun 3, 2026 Announcements Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "url": "https://www.anthropic.com/news/services-track-partner-hub",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "8bea2189ccc05153",
+      "title": "Jun 3, 2026 Policy What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "781e6aa4780c0046",
+      "title": "Responsible Scaling Policy",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    }
+  ]
+}
