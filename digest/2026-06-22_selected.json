@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-22",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Samsung Electronics globálně nasazuje ChatGPT Enterprise a Codex pro své zaměstnance",
+      "title_orig": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "category": "labs",
+      "summary_cs": [
+        "Jihokorejský technologický gigant Samsung Electronics plošně zavádí nástroje ChatGPT Enterprise a Codex pro své zaměstnance po celém světě.",
+        "Tento krok představuje jedno z dosud největších firemních nasazení technologií od společnosti OpenAI v komerčním sektoru.",
+        "Implementace má za cíl výrazně zvýšit produktivitu práce a zefektivnit softwarový vývoj napříč všemi divizemi."
+      ],
+      "why_matters": "Ukazuje to masivní trend adopce pokročilých AI nástrojů největšími globálními korporacemi pro každodenní práci.",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Praktické AI funkce, které dorazí na iPhony v systému iOS 27",
+      "title_orig": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "category": "news",
+      "summary_cs": [
+        "Zatímco nová verze asistentky Siri přitahuje nejvíce pozornosti, Apple chystá řadu dalších praktických AI vylepšení.",
+        "Nové funkce se zaměří na integraci umělé inteligence přímo do systémových aplikací a každodenních uživatelských scénářů.",
+        "Aktualizace přinese plynulejší práci s textem, chytřejší organizaci informací a hlubší kontextuální porozumění napříč systémem."
+      ],
+      "why_matters": "Čeští uživatelé Apple zařízení získají jasnou představu o konkrétních AI funkcích, které budou denně používat.",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Dočasné účty na Cloudflare pro autonomní AI agenty",
+      "title_orig": "Temporary Cloudflare Accounts for AI agents",
+      "category": "tools",
+      "summary_cs": [
+        "Cloudflare představuje možnost vytvářet dočasné účty bez nutnosti registrace, které jsou ideální pro rychlé nasazení AI agentů.",
+        "Tato funkce umožňuje okamžitě spustit projekty v rámci Cloudflare Workers a testovat kód v izolovaném prostředí.",
+        "Ačkoliv je novinka prezentována jako nástroj pro AI, nabízí skvělé využití pro jakékoliv rychlé prototypování aplikací."
+      ],
+      "why_matters": "Výrazně to zjednodušuje a zrychluje vývoj i testování autonomních aplikací bez administrativní zátěže.",
+      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Třiadvacetiletý expert BD Partners pomáhá firmám šetřit desítky hodin týdně pomocí AI",
+      "title_orig": null,
+      "category": "wildcard",
+      "summary_cs": [
+        "Tobiáš Kout působí ve fondu BD Partners, kde má na starosti efektivní zavádění nástrojů umělé inteligence do praxe.",
+        "Podle jeho zkušeností dokáže správná implementace AI ušetřit vybraným pracovníkům až 30 hodin z jejich běžného pracovního týdne.",
+        "Fond založený bývalými partnery skupiny PPF se tak aktivně podílí na transformaci českého byznysového prostředí."
+      ],
+      "why_matters": "Přináší reálný pohled na integraci AI v českém investičním prostředí a ukazuje hmatatelné úspory času.",
+      "url": "https://cc.cz/je-mu-23-a-fond-expartneru-ppf-pomaha-privest-do-doby-ai-setri-az-30-hodin-pracovniho-tydne-rika/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Midjourney Medical představuje revoluční skenování orgánů",
+      "title_orig": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
+      "category": "labs",
+      "summary_cs": [
+        "Známá nezávislá laboratoř Midjourney ohlašuje svůj druhý velký produkt zaměřený na oblast zdravotní diagnostiky.",
+        "Nová technologie slibuje možnost skenování vnitřních orgánů s jednoduchostí, která připomíná běžné stoupnutí na váhu.",
+        "Projekt kombinuje pokročilé zobrazovací metody s generativní AI pro rychlou a dostupnou preventivní péči."
+      ],
+      "why_matters": "Ukazuje expanzi přední AI laboratoře do zdravotnictví, což může zásadně změnit osobní diagnostiku.",
+      "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Agentické vyhledávání zdrojů aneb nechte AI agenty samostatně pátrat",
+      "title_orig": "Agentic Resource Discovery: Let agents search",
+      "category": "labs",
+      "summary_cs": [
+        "Hugging Face představuje koncept, který umožňuje AI agentům autonomně vyhledávat a objevovat potřebné zdroje na síti.",
+        "Namísto pevně definovaných API se agenti učí sami identifikovat a používat relevantní datové toky a nástroje.",
+        "Tento přístup výrazně zvyšuje flexibilitu a robustnost autonomních systémů při řešení komplexních úkolů."
+      ],
+      "why_matters": "Posouvá schopnosti AI agentů od pouhého plnění příkazů k samostatnému vyhledávání řešení na internetu.",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "MolmoMotion přináší předpovídání 3D pohybu řízené přirozeným jazykem",
+      "title_orig": "MolmoMotion: Language-guided 3D motion forecasting",
+      "category": "labs",
+      "summary_cs": [
+        "Nový model MolmoMotion se zaměřuje na generování a předpovídání trojrozměrného pohybu na základě textového zadání.",
+        "Technologie propojuje porozumění přirozenému jazyku s přesnou fyzikální simulací pohybových trajektorií.",
+        "Nalezne uplatnění v robotice, herním průmyslu i při tvorbě animací pro virtuální realitu."
+      ],
+      "why_matters": "Usnadňuje vývojářům i animátorům tvorbu realistických pohybů postav a robotů pomocí jednoduchých textových příkazů.",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Rozhovor s legendárním investorem o budoucnosti AI a tajném plánu AMP",
+      "title_orig": "The Professor of Outputmaxxing – Anjney Midha, AMP",
+      "category": "business",
+      "summary_cs": [
+        "Anjney Midha z fondu AMP popisuje svou cestu od skromných začátků až po vedení investičních kol v předních AI firmách.",
+        "Jeho fond investoval do zvučných jmen jako Anthropic, Mistral, Black Forest Labs či Periodic Labs.",
+        "Rozhovor odkrývá strategické plány pro maximalizaci produktivity a efektivní škálování technologických startupů."
+      ],
+      "why_matters": "Nabízí pohled do kuchyně jednoho z nejvlivnějších investorů, který spolurozhoduje o úspěchu klíčových AI modelů.",
+      "url": "https://www.latent.space/p/anj",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Samořízené laboratoře a proč tkví budoucnost materiálů v hardwaru",
+      "title_orig": "The Self-Driving Lab - Joseph Krause, Radical AI",
+      "category": "research",
+      "summary_cs": [
+        "Joseph Krause ze startupu Radical AI vysvětluje, proč je pro vývoj nových materiálů klíčová fyzická laboratoř, nikoliv jen samotný model.",
+        "Koncept samořízených laboratoří propojuje robotiku s umělou inteligencí pro automatické provádění chemických experimentů.",
+        "Tento přístup dramaticky urychluje objevování nových látek, baterií či ekologických materiálů."
+      ],
+      "why_matters": "Ukazuje, že skutečný průlom v materiálových vědách vyžaduje spojení digitální AI s robotickým hardwarem.",
+      "url": "https://www.latent.space/p/radical-ai",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Jak posunout psaní promptů pro ChatGPT na vyšší úroveň",
+      "title_orig": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "category": "tools",
+      "summary_cs": [
+        "Používání chatbota od OpenAI je snadné, ale získání skutečně špičkových výsledků vyžaduje pokročilé techniky.",
+        "Přehled přináší 28 praktických tipů pro efektivnější strukturování dotazů a lepší definici kontextu.",
+        "Správně navržený prompt dokáže eliminovat halucinace modelu a výrazně zpřesnit generované výstupy."
+      ],
+      "why_matters": "Poskytuje okamžitě použitelné rady pro každého, kdo chce z ChatGPT dostat maximum pro svou práci.",
+      "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "První velký exit ve světě umělé inteligence a drobné nástroje pro usnadnění života",
+      "title_orig": "The first big exit in AI",
+      "category": "business",
+      "summary_cs": [
+        "Trh s umělou inteligencí zaznamenává svůj první významný exit, což signalizuje dospívání celého ekosystému.",
+        "Vedle velkých transakcí se daří i menším, úzce zaměřeným nástrojům, které řeší konkrétní každodenní problémy.",
+        "Tento trend ukazuje, že úspěšný byznys lze postavit i na jednoduchých a vysoce efektivních AI aplikacích."
+      ],
+      "why_matters": "Potvrzuje, že investice do AI začínají přinášet reálnou finanční návratnost a trh se stabilizuje.",
+      "url": "https://www.bensbites.com/p/the-first-big-exit-in-ai",
+      "source": "Ben's Bites"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Když americká vláda zasahuje proti Anthropicu, kdo na tom nejvíce vydělá",
+      "title_orig": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "category": "news",
+      "summary_cs": [
+        "Nová epizoda podcastu Equity rozebírá motivace americké administrativy stojící za omezeními vůči společnosti Anthropic.",
+        "Analýza se zaměřuje na geopolitické dopady těchto kroků a na to, jak mohou ovlivnit konkurenční boj na poli AI.",
+        "Regulační zásahy mohou paradoxně pomoci jiným hráčům na trhu a změnit dynamiku vývoje open-source modelů."
+      ],
+      "why_matters": "Vysvětluje politické pozadí regulací, které mají přímý vliv na dostupnost špičkových modelů v Evropě.",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nástroj sqlite-utils ve verzi 4.0rc1 přináší migrace a vnořené transakce",
+      "title_orig": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "category": "tools",
+      "summary_cs": [
+        "Populární Python knihovna a CLI nástroj pro práci se SQLite databázemi vydává novou verzi s označením 4.0rc1.",
+        "Aktualizace přináší dlouho očekávanou podporu pro databázové migrace a bezpečné vnořené transakce.",
+        "Nástroj usnadňuje vývojářům manipulaci s daty, automatické vytváření tabulek z JSON formátů a transformace schémat."
+      ],
+      "why_matters": "Zjednodušuje správu lokálních databází, které jsou klíčové pro ukládání dat v lokálních AI aplikacích.",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "In the Weights nabízí nové vyhledávání vlastního jména v AI modelech",
+      "title_orig": "In the Weights is your new AI-centric vanity search",
+      "category": "wildcard",
+      "summary_cs": [
+        "Vznikla nová služba In the Weights, která funguje jako specifický vyhledávač pro zjištění vaší digitální stopy v AI.",
+        "Uživatelé mohou otestovat, zda a jakým způsobem jsou jejich jména či tvorba zastoupeny v trénovacích datech velkých modelů.",
+        "Projekt reaguje na rostoucí zájem veřejnosti o transparentnost dat používaných pro vývoj umělé inteligence."
+      ],
+      "why_matters": "Umožňuje tvůrcům i běžným lidem snadno zjistit, zda jejich data posloužila k trénování globálních modelů.",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Velká Británie bude skenovat tváře žadatelů o azyl i přes vědomí chybovosti technologie",
+      "title_orig": "The UK will scan asylum-seekers’ faces for age checks-despite knowing the tech is flawed",
+      "category": "news",
+      "summary_cs": [
+        "Britská vláda plánuje zavést skenování obličejů pro ověřování věku u žadatelů o azyl.",
+        "Rozhodnutí přichází i přesto, že dosavadní testy odhalily významná rizika a nepřesnosti v této technologii.",
+        "Kritici varují před závažnými dopady chyb systému na lidské osudy a před porušováním etických standardů."
+      ],
+      "why_matters": "Ukazuje reálná rizika nasazování nedokonalých AI systémů ve státní správě a jejich dopad na lidská práva.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+      "source": "Ars Technica"
+    }
+  ]
+}
