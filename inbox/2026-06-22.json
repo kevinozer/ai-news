@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-22T04:00:43.868328+00:00",
+  "generated_at": "2026-06-22T10:14:53.807974+00:00",
   "date": "2026-06-22",
-  "article_count_unique": 67,
-  "article_count_raw": 67,
+  "article_count_unique": 69,
+  "article_count_raw": 69,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 0,
-      "raw_count": 0
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "venturebeat_ai",
@@ -163,17 +163,77 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 0,
-      "raw_count": 2
+      "count": 1,
+      "raw_count": 9
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "7c4bffadacd204a4",
+      "title": "Some Electricians Think Building Data Centers Is for Sellouts",
+      "url": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+      "published_at": "2026-06-22T09:30:00+00:00",
+      "author": "Caroline Haskins",
+      "summary_raw": "Big Tech is throwing big money into data center buildouts. As national opposition to the facilities grows, some workers are beginning to question whether it’s worth it.",
+      "hero_image": "https://media.wired.com/photos/6a317f4a898b4be9664d5a85/master/pass/Business_ElectriciansHaveaLotofComplicatedFeelingsAboutBuildingDataCenters-v1.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "59b6b05dae022a7c",
+      "title": "World Cup Scams Are Getting Harder to Spot",
+      "url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+      "published_at": "2026-06-22T09:30:00+00:00",
+      "author": "Jumana Naim",
+      "summary_raw": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
+      "hero_image": "https://media.wired.com/clips/6a33f50cfdecea08d2cf6a9a/master/pass/WorldcupScam_lead.mp4",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "3d6b3f2385d9d4b2",
+      "title": "Česko v Bruselu vyjednalo odklad kritizované regulace umělé inteligence",
+      "url": "https://www.lupa.cz/aktuality/cesko-v-bruselu-vyjednalo-odklad-kritizovane-regulace-umele-inteligence/",
+      "published_at": "2026-06-22T09:10:33+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Evropský parlament koncem loňského týdne schválil odklad některých částí Aktu o umělé inteligenci (AI Act). Z velké části jde o práci České republiky. Někdej&#353;í vládní zmocněnec pro AI Jan Kavalírek loni &#353;estého června předložil Radě EU návrh na posun a postupně na svou stranu získal dal&#353;í členské země. V aktivitách pokračuje jako takzvaný AI ambasador pro střední a východní Evropu.",
+      "hero_image": "https://i.iinfo.cz/images/613/cesky-vyjednavaci-ai-tym-v-bruselu.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "f9ce933f680a49ed",
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "published_at": "2026-06-22T08:00:00+00:00",
+      "author": "Niall Firth",
+      "summary_raw": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/aug2024-tunnel-arsvagen5.jpg?w=2667",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "e11cf98c60ee396e",
+      "title": "V září ohlásili vznik, teď se Tomáš Čupr ze studia na vývoj AI stahuje. Podíl vykoupil druhý zakladatel",
+      "url": "https://cc.cz/v-zari-ohlasili-vznik-ted-se-tomas-cupr-ze-studia-na-vyvoj-ai-stahuje-podil-vykoupil-druhy-zakladatel/",
+      "published_at": "2026-06-22T04:20:26+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Studio QuantumSpring nyní stoprocentně patří zakladateli Ondřeji Šťastnému. Čupr se z něj stáhl, aby se mohl soustředit na jiné projekty. Článek V září ohlásili vznik, teď se Tomáš Čupr ze studia na vývoj AI stahuje. Podíl vykoupil druhý zakladatel se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2025/09/ondrej-stastny2-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "d21cb97eaec03347",
       "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
@@ -295,18 +355,6 @@
       "category": "news"
     },
     {
-      "id": "f656e9caab1efacb",
-      "title": "Je mu 23 a fond expartnerů PPF pomáhá přivést do doby AI. Šetří až 30 hodin pracovního týdne, říká",
-      "url": "https://cc.cz/je-mu-23-a-fond-expartneru-ppf-pomaha-privest-do-doby-ai-setri-az-30-hodin-pracovniho-tydne-rika/",
-      "published_at": "2026-06-21T05:06:07+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "Tobiáš Kout studoval i na Torontské univerzitě, teď vedle školy působí ve fondu BD Partners, kde má na starosti zavádění AI nástrojů. Článek Je mu 23 a fond expartnerů PPF pomáhá přivést do doby AI. Šetří až 30 hodin pracovního týdne, říká se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/tobias-kout-3-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "018785157f6ff96e",
       "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
       "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
@@ -355,18 +403,6 @@
       "category": "news"
     },
     {
-      "id": "6f4307fe9f21f359",
-      "title": "Žádný chatbot ani obecná AI, ale dokonalý inženýr. Jeff Bezos odhalil plány ve světě umělé inteligence",
-      "url": "https://cc.cz/zadny-chatbot-ani-obecna-ai-ale-dokonaly-inzenyr-jeff-bezos-odhalil-plany-ve-svete-umele-inteligence/",
-      "published_at": "2026-06-20T15:47:34+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Startup Prometheus získal nově dvanáct miliard dolarů a slibuje, že zkrátí vývoj tryskových motorů i léků z let na měsíce. Řídí ho zakladatel Amazonu. Článek Žádný chatbot ani obecná AI, ale dokonalý inženýr. Jeff Bezos odhalil plány ve světě umělé inteligence se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2023/09/bezos-ai-815x458.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "a3e4ba4df932c8dc",
       "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
       "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
@@ -376,18 +412,6 @@
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2234043771-1152x648.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "774304d6eccc22c8",
-      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
-      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
-      "published_at": "2026-06-20T10:00:00+00:00",
-      "author": "Reece Rogers",
-      "summary_raw": "The new Siri AI is conversational, omnipresent, and actually helpful.",
-      "hero_image": "https://media.wired.com/photos/6a33443c27f7de3a00911dff/master/pass/Gear_TestingSiriAI-v1.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
       "category": "news"
     },
     {
