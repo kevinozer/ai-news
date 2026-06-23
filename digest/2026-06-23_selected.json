@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-23",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Česko schválilo podporu pro výstavbu evropské AI gigatovárny za desítky miliard",
+      "title_orig": "Česko se může ucházet o evropskou AI gigatovárnu za desítky miliard, vláda schválila podporu",
+      "category": "news",
+      "summary_cs": [
+        "Česká republika se oficiálně zapojí do mezinárodní soutěže o získání jednoho z obřích evropských datových center pro umělou inteligenci.",
+        "Vláda schválila klíčovou finanční a strategickou podporu, která je nezbytná pro získání veřejných dotací na tento projekt.",
+        "Úspěch v této soutěži by do Česka přinesl masivní infrastrukturu plnou nejmodernějších grafických karet Nvidia."
+      ],
+      "why_matters": "Tento projekt může zásadně posílit technologickou prestiž a infrastrukturu pro umělou inteligenci v České republice.",
+      "url": "https://www.lupa.cz/aktuality/cesko-se-muze-uchazet-o-evropskou-ai-gigatovarnu-za-desitky-miliard-vlada-schvalila-podporu/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Česko vyjednalo v Bruselu odklad přísných částí evropského Aktu o AI",
+      "title_orig": "Česko v Bruselu vyjednalo odklad kritizované regulace umělé inteligence",
+      "category": "news",
+      "summary_cs": [
+        "Evropský parlament schválil odklad vybraných částí Aktu o umělé inteligenci, což dává firmám více času na přípravu.",
+        "Za tímto diplomatickým úspěchem stojí především iniciativa bývalého českého vládního zmocněnce pro AI Jana Kavalírka.",
+        "Český návrh postupně získal podporu dalších členských zemí EU, které se obávaly příliš rychlého dopadu regulace."
+      ],
+      "why_matters": "České firmy získávají cenný čas na přizpůsobení se složitým evropským pravidlům pro umělou inteligenci.",
+      "url": "https://www.lupa.cz/aktuality/cesko-v-bruselu-vyjednalo-odklad-kritizovane-regulace-umele-inteligence/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI spouští iniciativu Daybreak a nástroje pro globální kybernetickou bezpečnost",
+      "title_orig": "Daybreak: Tools for securing every organization in the world",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI představila novou sadu bezpečnostních nástrojů Daybreak, která má chránit organizace před kybernetickými hrozbami.",
+        "Součástí balíku jsou specializované systémy Codex Security a pokročilý model GPT-5.5-Cyber.",
+        "Nástroje jsou navrženy tak, aby dokázaly automaticky vyhledávat, ověřovat a opravovat softwarové zranitelnosti ve velkém měřítku."
+      ],
+      "why_matters": "Nová generace AI modelů se přímo zapojuje do aktivní obrany firemní infrastruktury před hackery.",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI spouští kampaň Patch the Planet na opravu chyb v open source softwaru",
+      "title_orig": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "category": "labs",
+      "summary_cs": [
+        "V rámci iniciativy Daybreak se OpenAI zaměřuje na kritické zabezpečení komunitního open source softwaru.",
+        "Projekt kombinuje analýzu pomocí umělé inteligence s expertním posouzením lidských vývojářů.",
+        "Cílem je pomoci správcům otevřených knihoven rychle nacházet a bezplatně opravovat nebezpečné bezpečnostní trhliny."
+      ],
+      "why_matters": "Zabezpečení open source kódu je klíčové pro stabilitu aplikací, které denně používají i české firmy.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Sakana AI představuje systém Fugu jako alternativu k chybějícím modelům Anthropic",
+      "title_orig": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+      "category": "open-source",
+      "summary_cs": [
+        "Tokijský startup Sakana AI uvedl na trh multiagentní systém Fugu, který dosahuje špičkového výkonu pomocí jednoho API.",
+        "Systém je navržen tak, aby obešel geopolitická exportní omezení a závislost na jediném poskytovateli cloudových modelů.",
+        "Fugu dokáže automaticky syntetizovat a orchestrovat práci menších modelů pro dosažení výsledků na úrovni největších systémů."
+      ],
+      "why_matters": "Ukazuje cestu k nezávislosti na amerických technologických gigantech a jejich exportních restrikcích.",
+      "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Google DeepMind investuje 75 milionů dolarů do partnerství s filmovým studiem A24",
+      "title_orig": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "category": "business",
+      "summary_cs": [
+        "Google DeepMind uzavřel strategické partnerství s prestižním nezávislým filmovým studiem A24.",
+        "Společně se zaměří na vývoj a testování pokročilých AI nástrojů určených přímo pro profesionální filmaře.",
+        "Tato masivní investice potvrzuje rostoucí vliv generativní umělé inteligence v Hollywoodu."
+      ],
+      "why_matters": "Spojení špičkového výzkumu a úspěšného studia předznamenává novou éru tvorby vizuálního obsahu.",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "SpaceX si pronajímá výpočetní výkon laboratoři Reflection AI za 150 milionů dolarů měsíčně",
+      "title_orig": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "category": "business",
+      "summary_cs": [
+        "Otevřená výzkumná laboratoř Reflection AI uzavřela obří kontrakt se společností SpaceX na pronájem hardwaru.",
+        "Od července 2026 bude platit 150 milionů dolarů měsíčně za přístup k nejnovějším čipům Nvidia GB300.",
+        "Výpočty budou probíhat v datovém centru Colossus 2 v Memphisu, které spravuje právě SpaceX."
+      ],
+      "why_matters": "Ukazuje obrovské finanční toky v oblasti pronájmu hardwaru pro trénování pokročilých modelů.",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Alibaba vylepšuje video model HappyHorse a stoupá na druhou příčku světového žebříčku",
+      "title_orig": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away",
+      "category": "labs",
+      "summary_cs": [
+        "Alibaba Cloud vydala verzi HappyHorse 1.1, která přináší syntézu videa připravenou pro komerční produkci.",
+        "Model se v globálním srovnání posunul na druhé místo, zatímco konkurenční Sora od OpenAI ztrácí pozice.",
+        "Novinka je plně dostupná firemním zákazníkům a vývojářům prostřednictvím API v rámci platformy Alibaba Cloud."
+      ],
+      "why_matters": "Čínští technologičtí obři začínají v oblasti generování videa dominovat nad americkou konkurencí.",
+      "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Tomáš Čupr se stahuje z AI studia QuantumSpring, podíl převzal Ondřej Šťastný",
+      "title_orig": "V září ohlásili vznik, teď se Tomáš Čupr ze studia na vývoj AI stahuje. Podíl vykoupil druhý zakladatel",
+      "category": "news",
+      "summary_cs": [
+        "Zakladatel Rohlíku Tomáš Čupr prodal svůj podíl v tuzemském studiu QuantumSpring, které se zaměřuje na vývoj AI.",
+        "Jediným vlastníkem studia se stal spoluzakladatel Ondřej Šťastný, který projekt dál povede.",
+        "Čupr se podle vyjádření stahuje, aby se mohl plně soustředit na své další strategické byznysové aktivity."
+      ],
+      "why_matters": "Důležitá personální změna na české scéně vývoje zakázkových AI řešení pro firmy.",
+      "url": "https://cc.cz/v-zari-ohlasili-vznik-ted-se-tomas-cupr-ze-studia-na-vyvoj-ai-stahuje-podil-vykoupil-druhy-zakladatel/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Nvidia představila design datových center, který drasticky snižuje spotřebu vody",
+      "title_orig": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "category": "news",
+      "summary_cs": [
+        "Nvidia reaguje na kritiku ekologické stopy AI a představila nový referenční design pro datová centra Rubin.",
+        "Díky provozu při vyšších teplotách a plně kapalinovému chlazení slibuje eliminovat téměř veškerou spotřebu vody.",
+        "Kritici však upozorňují, že řešení neřeší nepřímou spotřebu vody v uhelných elektrárnách, které centra napájejí."
+      ],
+      "why_matters": "Ekologická udržitelnost se stává klíčovým faktorem pro budování infrastruktury umělé inteligence.",
+      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Framework Self-Harness umožňuje AI agentům přepisovat vlastní pravidla a zvyšuje výkon o 60 procent",
+      "title_orig": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili Self-Harness, systém pro automatické ladění a optimalizaci chování AI agentů.",
+        "Místo ručního přepisování instrukcí dokáže agent sám upravovat svá pravidla na základě průběžných výsledků.",
+        "Tento přístup přinesl v testech zvýšení úspěšnosti úkolů až o 60 procent bez nutnosti měnit samotný model."
+      ],
+      "why_matters": "Umožňuje firmám efektivněji nasazovat autonomní agenty bez extrémních nákladů na programování.",
+      "url": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Groq potvrzuje investici 650 milionů dolarů a nabírá nové vedení po neuskutečněné akvizici Nvidií",
+      "title_orig": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "category": "business",
+      "summary_cs": [
+        "Výrobce ultra-rychlých AI čipů Groq oficiálně potvrdil získání investice ve výši 650 milionů dolarů.",
+        "Firma masivně posiluje manažerský tým poté, co Nvidia nečekaně zrušila plánovanou skrytou akvizici.",
+        "Groq se nyní plánuje soustředit na rozvoj svých vlastních cloudových služeb pro rychlé spouštění modelů."
+      ],
+      "why_matters": "Konkurence na trhu s AI hardwarem roste, což může přinést levnější a rychlejší cloudové služby.",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Proč se z podnikového softwaru musí stát neustále se učící systémy",
+      "title_orig": "Why agentic enterprises need to become learning systems",
+      "category": "wildcard",
+      "summary_cs": [
+        "Současné firemní AI systémy často ignorují cennou zpětnou vazbu, kterou jim lidé při každodenní práci poskytují.",
+        "Pro úspěšné nasazení agentů je nutné, aby se opravy od analytiků či inženýrů okamžitě promítaly zpět do znalostní báze.",
+        "Bez uzavřené smyčky učení hrozí, že AI bude opakovat stejné chyby a ztratí důvěru uživatelů."
+      ],
+      "why_matters": "Ukazuje, jak správně navrhnout integraci AI do firemních procesů pro dlouhodobý úspěch.",
+      "url": "https://venturebeat.com/orchestration/why-agentic-enterprises-need-to-become-learning-systems",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Rizika bezhlavého generování kódu bez kontroly bezpečnostních zranitelností",
+      "title_orig": "Read this before you vibe-code another app",
+      "category": "tools",
+      "summary_cs": [
+        "Fenomén rychlého generování aplikací pomocí AI bez hlubší znalosti programování přináší skrytá rizika.",
+        "Případ vývojáře, který úspěšně spustil web, aby po měsících objevil kritickou SQL zranitelnost, varuje komunitu.",
+        "Odborníci doporučují kombinovat nadšení z rychlého vývoje s automatizovanými nástroji pro audit bezpečnosti."
+      ],
+      "why_matters": "Varuje před bezpečnostními pastmi při používání AI pro rychlý vývoj aplikací bez odborného dohledu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Pochopení prompt injection útoků jako záměny rolí v kontextu modelu",
+      "title_orig": "Prompt Injection as Role Confusion",
+      "category": "research",
+      "summary_cs": [
+        "Nový výzkumný papír popisuje zranitelnost prompt injection jako neschopnost modelu rozlišit mezi instrukcí a daty.",
+        "Model si v podstatě plete svou roli systémového průvodce s rolí, kterou se mu snaží vnutit útočník v textu.",
+        "Autoři navrhují nové metody, jak tuto záměnu rolí detekovat a efektivně jí předcházet přímo v architektuře."
+      ],
+      "why_matters": "Pomáhá vývojářům lépe pochopit a zabezpečit aplikace postavené na velkých jazykových modelech.",
+      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
