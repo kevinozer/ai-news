@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23T04:00:50.041628+00:00",
+  "generated_at": "2026-06-23T07:58:09.284858+00:00",
   "date": "2026-06-23",
-  "article_count_unique": 101,
-  "article_count_raw": 101,
+  "article_count_unique": 106,
+  "article_count_raw": 106,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -19,8 +19,8 @@
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 14,
-      "raw_count": 14
+      "count": 15,
+      "raw_count": 15
     },
     {
       "source_id": "mit_tech_review",
@@ -67,8 +67,8 @@
     {
       "source_id": "huggingface_blog",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "import_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,17 +163,65 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 13
+      "count": 3,
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "b8d56325bb570249",
+      "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
+      "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+      "published_at": "2026-06-23T06:19:49+00:00",
+      "author": "",
+      "summary_raw": "a quiet day lets us reflect on some numbers from Jamin Ball.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!0sP8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHLbX8TUaoAA9OTl.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "f8d822750fcf3571",
+      "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
+      "url": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
+      "published_at": "2026-06-23T05:25:16+00:00",
+      "author": "Stephen Clark",
+      "summary_raw": "The purpose of Starfall is to support the \"transport and delivery of goods through space.\"",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/starfallillustration2-1152x609.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "b2f0499917a5880d",
+      "title": "60 miliard tváří: jak Clearview AI a PimEyes mění svět biometrického sledování lidí",
+      "url": "https://www.lupa.cz/clanky/60-miliard-tvari-jak-clearview-ai-a-pimeyes-meni-svet-biometrickeho-sledovani-lidi/",
+      "published_at": "2026-06-23T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Julie Vlačihová)",
+      "summary_raw": "Případ firmy Clearview testuje evropské nástroje k vymáhání práv stanovených v GDPR. Zatím tento test ale bohužel nedopadá dobře.",
+      "hero_image": "https://i.iinfo.cz/images/186/facial-recognition-rozpoznavani-obliceju-1.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "76763ab64d3519e5",
+      "title": "Zadám AI úkol, jdu spát, ráno se probudím a je hotovo. To je ta opravdová magie, říká Tomáš Čupr",
+      "url": "https://cc.cz/zadam-ai-ukol-jdu-spat-rano-se-probudim-a-je-hotovo-to-je-ta-opravdova-magie-rika-tomas-cupr/",
+      "published_at": "2026-06-23T04:29:01+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Zakladatel Rohlíku a startupu Duvo v podcastu Money Maker popisuje, jak jeho pracovní i osobní život mění umělá inteligence a kam celý svět míří. Článek Zadám AI úkol, jdu spát, ráno se probudím a je hotovo. To je ta opravdová magie, říká Tomáš Čupr se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/tomas-cupr1-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "65c85383b365c2dd",
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
@@ -187,12 +235,12 @@
       "category": "news"
     },
     {
-      "id": "2935130009de6b39",
-      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "id": "4afe8c5a3a4f312e",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
       "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
       "published_at": "2026-06-23T00:11:31+00:00",
       "author": "Lucas Ropek",
-      "summary_raw": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "summary_raw": "OpenAI is using AI to help the open source community better protect itself.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -643,24 +691,24 @@
       "category": "news"
     },
     {
-      "id": "d5a4b1d2c0153c6d",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "published_at": "2026-06-22T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
       "id": "0bc232443f0b9a3d",
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
       "published_at": "2026-06-22T10:00:00+00:00",
       "author": "",
       "summary_raw": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "d5a4b1d2c0153c6d",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "published_at": "2026-06-22T10:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
@@ -748,6 +796,18 @@
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "2a6183c12fea2da0",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "published_at": "2026-06-22T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
       "category": "labs"
     },
     {
