@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T04:01:04.113706+00:00",
+  "generated_at": "2026-06-24T07:53:43.791971+00:00",
   "date": "2026-06-24",
   "article_count_unique": 156,
   "article_count_raw": 156,
@@ -174,6 +174,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "dbb8f3db9c2bcf18",
+      "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
+      "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+      "published_at": "2026-06-24T07:14:26+00:00",
+      "author": "",
+      "summary_raw": "Claude finally gets a Slackbot upgrade",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!q5Em!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2069465784653348866.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "8a36de671b173377",
+      "title": "Svět uchvátili svými AI obrázky, teď dělají nečekaný úkrok vedle. Midjourney se vydává zachraňovat životy",
+      "url": "https://cc.cz/svet-uchvatili-svymi-ai-obrazky-ted-delaji-necekany-ukrok-vedle-midjourney-se-vydava-zachranovat-zivoty/",
+      "published_at": "2026-06-24T04:21:24+00:00",
+      "author": "David Zlomek",
+      "summary_raw": "Prvotní šílenství kolem AI portrétů opadlo. Slavný startup proto míří do fyzického světa a se skenováním těla chce fušovat do medicíny. Článek Svět uchvátili svými AI obrázky, teď dělají nečekaný úkrok vedle. Midjourney se vydává zachraňovat životy se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/midjourney-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "4c968babd988dd5e",
       "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
@@ -1099,18 +1123,6 @@
       "category": "cz"
     },
     {
-      "id": "76763ab64d3519e5",
-      "title": "Zadám AI úkol, jdu spát, ráno se probudím a je hotovo. To je ta opravdová magie, říká Tomáš Čupr",
-      "url": "https://cc.cz/zadam-ai-ukol-jdu-spat-rano-se-probudim-a-je-hotovo-to-je-ta-opravdova-magie-rika-tomas-cupr/",
-      "published_at": "2026-06-23T04:29:01+00:00",
-      "author": "Ondřej Holzman",
-      "summary_raw": "Zakladatel Rohlíku a startupu Duvo v podcastu Money Maker popisuje, jak jeho pracovní i osobní život mění umělá inteligence a kam celý svět míří. Článek Zadám AI úkol, jdu spát, ráno se probudím a je hotovo. To je ta opravdová magie, říká Tomáš Čupr se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/tomas-cupr1-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "65c85383b365c2dd",
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
       "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -1471,6 +1483,18 @@
       "category": "news"
     },
     {
+      "id": "b4cfdad0acc4b0dd",
+      "title": "Česko se může ucházet o evropskou AI gigatovárnu za desítky miliard, vláda schválila podporu",
+      "url": "https://www.lupa.cz/aktuality/cesko-se-muze-uchazet-o-evropskou-ai-gigatovarnu-za-desitky-miliard-vlada-schvalila-podporu/",
+      "published_at": "2026-06-22T15:00:56+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Česká republika se oficiálně může zapojit do mezinárodní soutěže o získání jedné z takzvaných evropských AI gigatováren, tedy poměrně velkých datových center plných grafických karet typu Nvidia. Vláda dnes schválila podporu, která bude klíčová vzhledem k tomu, že k postavení AI gigafactory budou potřeba veřejné dotace.",
+      "hero_image": "https://i.iinfo.cz/images/554/gateway-dc-ceske-radiokomunikace-datove-centrum.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
       "id": "b9d9c668d43b3175",
       "title": "Why agentic enterprises need to become learning systems",
       "url": "https://venturebeat.com/orchestration/why-agentic-enterprises-need-to-become-learning-systems",
@@ -1517,18 +1541,6 @@
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
       "category": "news"
-    },
-    {
-      "id": "b4cfdad0acc4b0dd",
-      "title": "Česko se může ucházet o evropskou AI gigatovárnu za desítky miliard, vláda schválila podporu",
-      "url": "https://www.lupa.cz/aktuality/cesko-se-muze-uchazet-o-evropskou-ai-gigatovarnu-za-desitky-miliard-vlada-schvalila-podporu/",
-      "published_at": "2026-06-22T13:50:56+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Česká republika se oficiálně může zapojit do mezinárodní soutěže o získání jedné z takzvaných evropských AI gigatováren, tedy poměrně velkých datových center plných grafických karet typu Nvidia. Vláda dnes schválila podporu, která bude klíčová vzhledem k tomu, že k postavení AI gigafactory budou potřeba veřejné dotace.",
-      "hero_image": "https://i.iinfo.cz/images/554/gateway-dc-ceske-radiokomunikace-datove-centrum.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "0f1ff4046cb04a19",
@@ -1877,18 +1889,6 @@
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
       "category": "labs"
-    },
-    {
-      "id": "88f88c5a022d07b1",
-      "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
-      "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
-      "published_at": "2026-06-17T05:37:40+00:00",
-      "author": "",
-      "summary_raw": "We have a new top open model in the world!",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!tOcj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c75ad4c-83e2-4317-8cf0-276d3cab6e59_1226x1830.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "b799b93c7af0e6fa",
