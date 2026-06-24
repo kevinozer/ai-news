@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-24",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic představuje Claude Tag, nového autonomního AI kolegu přímo v rozhraní Slack",
+      "title_orig": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously",
+      "category": "labs",
+      "summary_cs": [
+        "Nová funkce Claude Tag integruje nejpokročilejší model od Anthropicu přímo do komunikační platformy Slack jako stálého člena týmu.",
+        "Uživatelé mohou delegovat úkoly jednoduše označením @Claude, přičemž asistent se průběžně učí z kontextu firemních konverzací.",
+        "Nástroj je aktuálně dostupný v beta verzi pro zákazníky s tarify Claude Enterprise a Team a nahrazuje dosavadní jednodušší Slack aplikaci."
+      ],
+      "why_matters": "Ukazuje přerod AI z pasivních chatbotů na autonomní agenty, kteří se stávají plnohodnotnými členy pracovních týmů.",
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "GPT-5 pomohl imunologovi vyřešit tříletou vědeckou záhadu chování T-buněk",
+      "title_orig": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "category": "labs",
+      "summary_cs": [
+        "Imunolog Derya Unutmaz využil model GPT-5 Pro k analýze komplexních dat o chování lidských T-buněk.",
+        "Model dokázal propojit zdánlivě nesouvisející biologické mechanismy a odhalit vzorec, který vědcům unikal tři roky.",
+        "Tento průlom může výrazně urychlit výzkum v oblasti léčby rakoviny a autoimunitních onemocnění."
+      ],
+      "why_matters": "Demonstruje reálný dopad nové generace modelů na urychlení špičkového vědeckého a lékařského výzkumu.",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Dva čeští doktorandi z ČVUT vyhráli prestižní soutěž v 3D rekonstrukci budov",
+      "title_orig": "Dva doktorandi z ČVUT učí AI vidět střechy domů skrz zdi. Zaujali během jedné z nejprestižnějších konferenci o počítačovém vidění",
+      "category": "research",
+      "summary_cs": [
+        "Miroslav Purkrábek a Jan Škvrna z FEL ČVUT zvítězili v mezinárodní soutěži Structured Semantic 3D Reconstruction.",
+        "Soutěž proběhla v rámci prestižní konference o počítačovém vidění CVPR 2026 v americkém Denveru.",
+        "Jejich práce se zaměřuje na rekonstrukci městských scén a umožňuje odhadovat tvary střech i přes překážky."
+      ],
+      "why_matters": "Dokazuje, že čeští vědci a studenti patří v oblasti počítačového vidění ke světové špičce.",
+      "url": "https://arxiv.org/abs/2606.23927",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "V Česku vzniká autonomní systém dronů pro záchranu srnčat před sekačkami",
+      "title_orig": "V Česku se vyvíjí systém autonomních dronů, které by v polích mohly zachraňovat srnčí mláďata před senosečí",
+      "category": "tools",
+      "summary_cs": [
+        "Český výrobce létajících robotů Fly4Future vyvíjí ve spolupráci s Jihočeskou univerzitou autonomní monitorovací systém.",
+        "Drony budou samostatně vyhledávat srnčata v polích před senosečí a rozhodovat o postupu bez nutnosti lidského zásahu.",
+        "Do trénování umělé inteligence pro rozpoznávání zvěře se může zapojit i široká veřejnost."
+      ],
+      "why_matters": "Představuje skvělý příklad využití autonomních technologií pro ochranu přírody přímo v českém prostředí.",
+      "url": "https://www.lupa.cz/aktuality/v-cesku-se-vyviji-system-autonomnich-dronu-ktere-by-v-polich-mohly-zachranovat-srnci-mladata-pred-senoseci/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Krea 2 Raw a Turbo přinášejí generování obrázků pro firmy do dvou sekund",
+      "title_orig": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
+      "category": "open-source",
+      "summary_cs": [
+        "Platforma Krea vydala nové modely Raw a Turbo s otevřenými vahami pro firemní využití.",
+        "Modely dokážou vygenerovat vysoce kvalitní vizuály během pouhých dvou sekund, což zásadně zrychlí kreativní procesy.",
+        "Vydání reaguje na kritiku, že běžné generátory produkují příliš uniformní a snadno rozpoznatelné obrázky."
+      ],
+      "why_matters": "Zpřístupňuje bleskové generování grafiky profesionální kvality přímo na lokálním hardwaru českých firem.",
+      "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Hollywood se vyhýbá filmu o Samu Altmanovi kvůli obavám z reakce OpenAI",
+      "title_orig": "Hollywood is bending the knee to OpenAI",
+      "category": "business",
+      "summary_cs": [
+        "Velká studia jako Netflix, Warner Bros. a A24 odmítla distribuci chystaného životopisného dramatu Artificial o Samu Altmanovi.",
+        "Scénář filmu režiséra Lucy Guadagnina vykresluje šéfa OpenAI ve velmi nelichotivém světle.",
+        "Rozhodnutí studií vyvolává otázky o rostoucím vlivu technologických gigantů na filmový průmysl."
+      ],
+      "why_matters": "Ukazuje, jak obrovskou moc mají lídři AI průmyslu nad globální kulturou a médii.",
+      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Bílý dům drasticky zkrátil lhůtu pro přechod na kryptografii odolnou vůči kvantovým počítačům",
+      "title_orig": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+      "category": "news",
+      "summary_cs": [
+        "Americká vláda vydala nařízení, které výrazně urychluje povinné nasazení post-kvantového šifrování ve státní správě.",
+        "Důvodem jsou obavy z rychlého vývoje kvantových počítačů, které by mohly prolomit stávající bezpečnostní standardy.",
+        "Opatření má předejít riziku zpětného dešifrování dříve zachycených citlivých dat nepřátelskými státy."
+      ],
+      "why_matters": "Signalizuje nutnost urychlené modernizace kybernetické bezpečnosti i pro české firmy a státní instituce.",
+      "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 8,
+      "title_cs": "VeryTrace přináší automatické ověřování a opravu logických chyb v myšlenkových řetězcích AI",
+      "title_orig": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
+      "category": "research",
+      "summary_cs": [
+        "Představený rámec VeryTrace řeší problém, kdy drobná chyba v rané fázi uvažování znehodnotí celý výsledek modelu.",
+        "Systém převádí myšlenkový postup na formální kompilovatelný kód, který lze exaktně ověřit.",
+        "Při detekci chyby dokáže VeryTrace postižený krok automaticky opravit bez nutnosti generovat celý text znovu."
+      ],
+      "why_matters": "Zvyšuje spolehlivost AI v úlohách vyžadujících bezchybné vícekrokové uvažování, jako je programování či analýza dat.",
+      "url": "https://arxiv.org/abs/2606.24124",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Oracle propouští 21 tisíc zaměstnanců, aby uvolnil miliardy na investice do AI infrastruktury",
+      "title_orig": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "category": "business",
+      "summary_cs": [
+        "Technologický gigant Oracle oznámil masivní restrukturalizaci spojenou s propuštěním přibližně 21 000 pracovníků.",
+        "Ušetřené prostředky a nový dluh firma okamžitě směřuje do budování masivních datových center pro AI.",
+        "Tento krok potvrzuje trend, kdy tradiční IT firmy drasticky mění strukturu nákladů ve prospěch umělé inteligence."
+      ],
+      "why_matters": "Ilustruje, jak agresivně velké korporace transformují své rozpočty a lidské zdroje kvůli AI horečce.",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Fika Jobs získává investici na náborovou platformu, kde pohovory vedou AI agenti",
+      "title_orig": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "category": "business",
+      "summary_cs": [
+        "Stockholmský startup Fika Jobs získal financování ve výši 4 milionů dolarů na vývoj video platformy pro nábor zaměstnanců.",
+        "Platforma kombinuje krátké video profily uchazečů s rozhovory vedenými specializovanými AI agenty.",
+        "Cílem je zrychlit první kola výběrových řízení a nabídnout interaktivnější zážitek než tradiční životopisy."
+      ],
+      "why_matters": "Ukazuje, jak hluboko proniká automatizace do HR procesů a jak budou vypadat pohovory budoucnosti.",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Meta uvádí na trh levnější chytré brýle bez prestižní značky Ray-Ban",
+      "title_orig": "Meta launches cheaper smart glasses without Ray-Ban",
+      "category": "news",
+      "summary_cs": [
+        "Meta představila novou řadu vlastních chytrých brýlí, které již nenesou branding známého výrobce Ray-Ban.",
+        "Nové modely budou dostupné v různých stylech a barvách za výrazně dostupnější cenu pro masový trh.",
+        "Zařízení sází na integraci multimodální AI, která uživateli pomáhá analyzovat okolní svět v reálném čase."
+      ],
+      "why_matters": "Zpřístupňuje nositelnou AI technologii širší veřejnosti díky nižší cenové bariéře.",
+      "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Jak se liší metody pro destilaci uvažování do menších modelů z pohledu geometrie vah",
+      "title_orig": "Weight-Space Geometry of Offline Reasoning Training",
+      "category": "research",
+      "summary_cs": [
+        "Výzkum zkoumá geometrii prostoru vah u modelů trénovaných pomocí různých offline metod učení s posílením.",
+        "Analýza ukazuje, zda různé optimalizační funkce vedou k mechanisticky odlišným řešením, nebo konvergují ke stejnému bodu.",
+        "Poznatky pomohou efektivněji přenášet pokročilé schopnosti uvažování z obřích modelů do menších a levnějších studentů."
+      ],
+      "why_matters": "Pomáhá pochopit, jak efektivně vytvářet malé, ale extrémně chytré modely pro lokální běh.",
+      "url": "https://arxiv.org/abs/2606.23740",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 13,
+      "title_cs": "OmniPath využívá AI agenty k mapování a hodnocení bezbariérovosti cest pro vozíčkáře",
+      "title_orig": "OmniPath: A Multi-Modal Agentic Framework for Auditing Wheelchair Accessibility",
+      "category": "research",
+      "summary_cs": [
+        "Projekt OmniPath řeší nedostatek dat o reálném stavu chodníků a cest pro lidi na invalidním vozíku.",
+        "Multimodální AI agenti analyzují vizuální data z ulic a hodnotí fyzickou náročnost a kvalitu povrchu tras.",
+        "Nástroj doplňuje standardní mapové podklady o kritické informace, které běžné navigace ignorují."
+      ],
+      "why_matters": "Představuje praktické využití počítačového vidění pro zlepšení kvality života hendikepovaných spoluobčanů.",
+      "url": "https://arxiv.org/abs/2606.24129",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Indický MoEngage sází na miliony personalizovaných AI agentů pro každého zákazníka",
+      "title_orig": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "category": "news",
+      "summary_cs": [
+        "Marketingová platforma MoEngage realizovala akvizici s cílem nasadit dedikované AI agenty pro jednotlivé spotřebitele.",
+        "Místo plošných kampaní bude mít každý zákazník vlastního virtuálního asistenta, který zná jeho preference.",
+        "Tento přístup slibuje hyper-personalizovanou komunikaci bez otravného spamu."
+      ],
+      "why_matters": "Naznačuje konec éry plošného e-mailového marketingu a přechod k individuální komunikaci řízené AI.",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Google Home vylepšuje rozpoznávání obličejů i z netradičních úhlů",
+      "title_orig": "Google Home will soon get better at recognizing you",
+      "category": "news",
+      "summary_cs": [
+        "Chytré kamery v ekosystému Google Home získávají aktualizaci pro přesnější identifikaci známých osob.",
+        "Nově systém dokáže spolehlivě rozpoznat členy domácnosti, i když jsou otočeni zády nebo z profilu.",
+        "Tato funkce sníží počet falešných poplachů a zlepší automatizaci chytré domácnosti."
+      ],
+      "why_matters": "Zvyšuje spolehlivost a uživatelský komfort běžně dostupných technologií pro chytrou domácnost.",
+      "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+      "source": "The Verge AI"
+    }
+  ]
+}
