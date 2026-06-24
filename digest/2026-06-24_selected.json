@@ -3,213 +3,213 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "Anthropic představuje Claude Tag, nového AI asistenta přímo v prostředí Slacku",
-      "title_orig": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "title_cs": "Anthropic představuje Claude Tag, nového AI spolupracovníka přímo v prostředí Slack",
+      "title_orig": "Product Jun 23, 2026 Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
       "category": "labs",
       "summary_cs": [
-        "Nová funkce Claude Tag přináší neustále aktivního AI asistenta přímo do firemní komunikace na platformě Slack.",
-        "Nástroj se průběžně učí z interních konverzací, čímž automaticky získává organizační kontext a firemní know-how.",
-        "Pro Anthropic jde o strategický krok, jak hlouběji integrovat své modely do každodenních podnikových procesů."
+        "Nová funkce Claude Tag přináší neustále aktivního asistenta přímo do firemní komunikace na platformě Slack.",
+        "Nástroj se učí z každodenních zpráv a pomáhá zachytit interní znalosti, kontext a pracovní postupy týmu.",
+        "Cílem je vytvořit plynulejší spolupráci mezi lidmi a umělou inteligencí bez nutnosti neustálého přepínání aplikací."
       ],
-      "why_matters": "Integrace pokročilé AI přímo do Slacku zásadně usnadní českým firmám přístup k interním informacím.",
-      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "source": "TechCrunch AI"
+      "why_matters": "Integrace pokročilého asistenta přímo do Slacku zásadně usnadní každodenní týmovou spolupráci a sdílení firemního know-how.",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "source": "Anthropic News"
     },
     {
       "rank": 2,
-      "title_cs": "Dva čeští doktorandi z ČVUT zvítězili v prestižní mezinárodní soutěži v počítačovém vidění",
+      "title_cs": "Dva čeští doktorandi z ČVUT zvítězili v prestižní soutěži v 3D rekonstrukci budov",
       "title_orig": "Dva doktorandi z ČVUT učí AI vidět střechy domů skrz zdi. Zaujali během jedné z nejprestižnějších konferenci o počítačovém vidění",
       "category": "news",
       "summary_cs": [
         "Miroslav Purkrábek a Jan Škvrna z ČVUT vyhráli mezinárodní soutěž Structured Semantic 3D Reconstruction.",
         "Soutěž proběhla v rámci prestižní konference CVPR 2026 v americkém Denveru.",
-        "Jejich úspěšný projekt se zaměřuje na rekonstrukci 3D modelů budov z leteckých snímků s využitím neuronových sítí."
+        "Jejich úspěch ukazuje vysokou úroveň českého výzkumu v oblasti počítačového vidění a prostorové rekonstrukce."
       ],
-      "why_matters": "Tento úspěch potvrzuje, že český akademický výzkum v oblasti umělé inteligence patří ke světové špičce.",
+      "why_matters": "Úspěch českých vědců na světové scéně potvrzuje, že tuzemský výzkum AI patří ke globální špičce.",
       "url": "https://www.lupa.cz/aktuality/dva-doktorandi-z-cvut-uci-ai-videt-strechy-domu-skrz-zdi-zaujali-behem-jedne-z-nejprestiznejsich-konferenci-o-pocitacovem-videni/",
       "source": "Lupa.cz"
     },
     {
       "rank": 3,
+      "title_cs": "Midjourney překvapivě vstupuje do medicíny s konceptem tělesných skenerů",
+      "title_orig": "Something's off with Midjourney’s pivot to body scanners",
+      "category": "business",
+      "summary_cs": [
+        "Známý generátor obrázků Midjourney oznámil nečekaný vývoj futuristického ultrazvukového skeneru.",
+        "Zařízení má nabídnout diagnostiku s přesností magnetické rezonance v pohodlí připomínajícím lázně.",
+        "Kritici však upozorňují na obrovské technologické a regulatorní překážky při přechodu od softwaru k lékařskému hardwaru."
+      ],
+      "why_matters": "Ukazuje to nový trend, kdy se čistě softwarové AI firmy snaží proniknout do fyzického světa a zdravotnictví.",
+      "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
       "title_cs": "Meta uvádí na trh levnější chytré brýle bez partnerství s Ray-Ban",
       "title_orig": "Meta launches cheaper smart glasses without Ray-Ban",
       "category": "tools",
       "summary_cs": [
         "Meta představila novou řadu vlastních chytrých brýlí, které již nenesou prestižní značku Ray-Ban.",
-        "Nové modely budou nabízeny v sedmi různých barvách a třech designových stylech za dostupnější cenu.",
-        "Cílem je masové rozšíření nositelné elektroniky s integrovaným hlasovým asistentem poháněným umělou inteligencí."
+        "Nové modely budou nabízeny v různých stylech a barvách za výrazně dostupnější cenu pro běžné spotřebitele.",
+        "Zařízení se zaměřuje na integraci hlasového asistenta a jednodušší funkce pro každodenní nošení."
       ],
-      "why_matters": "Dostupnější hardware s integrovanou AI přiblíží technologii běžným uživatelům v každodenním životě.",
+      "why_matters": "Dostupnější chytré brýle mohou urychlit masové přijetí nositelné AI elektroniky běžnými uživateli.",
       "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
       "source": "The Verge AI"
     },
     {
-      "rank": 4,
-      "title_cs": "Amazon stopnul natáčení filmu o Samu Altmanovi po uzavření miliardové dohody s OpenAI",
+      "rank": 5,
+      "title_cs": "Amazon zrušil plánovaný film o dramatickém pozadí OpenAI a Samu Altmanovi",
       "title_orig": "Jen náhoda? V únoru upekl obří byznys s OpenAI, teď Amazon stopnul nelichotivý film o Altmanovi a Muskovi",
       "category": "business",
       "summary_cs": [
-        "Amazon MGM Studios zrušilo přípravu filmu s názvem Artificial, který měl mapovat dramatické události kolem odvolání Sama Altmana.",
-        "Scénář filmu údajně vykresloval šéfa OpenAI ve velmi nelichotivém světle jako manipulativní osobnost.",
-        "K rozhodnutí došlo krátce poté, co Amazon uzavřel s OpenAI významné partnerství v oblasti cloudové infrastruktury."
+        "Amazon MGM Studios zastavilo přípravy filmu Artificial, který měl mapovat spory mezi Samem Altmanem a Elonem Muskem.",
+        "Scénář filmu vykresloval šéfa OpenAI ve velmi nelichotivém světle jako manipulativní osobnost.",
+        "Krok přichází jen několik měsíců poté, co Amazon uzavřel s OpenAI významnou obchodní dohodu."
       ],
-      "why_matters": "Ukazuje to, jak obří technologické investice a partnerství mohou ovlivňovat i nezávislou filmovou tvorbu.",
+      "why_matters": "Rozhodnutí ukazuje, jak silný vliv mají technologická partnerství na mediální obraz klíčových postav AI scény.",
       "url": "https://cc.cz/jen-nahoda-v-unoru-upekl-obri-byznys-s-openai-ted-amazon-stopnul-nelichotivy-film-o-altmanovi-a-muskovi/",
       "source": "CzechCrunch"
     },
     {
-      "rank": 5,
-      "title_cs": "Midjourney čelí pochybnostem ohledně svého nečekaného vstupu do medicínského skenování",
-      "title_orig": "Something's off with Midjourney’s pivot to body scanners",
-      "category": "business",
-      "summary_cs": [
-        "Populární generátor obrázků Midjourney oznámil překvapivý vývoj vlastního hardwarového ultrazvukového skeneru.",
-        "Zařízení má podle tvůrců nabídnout diagnostické schopnosti na úrovni magnetické rezonance v relaxačním prostředí.",
-        "Odborníci však vyjadřují silnou skepsi ohledně reálné proveditelnosti a bezpečnosti takového přístroje."
-      ],
-      "why_matters": "Ukazuje to ambice úspěšných AI startupů pronikat z digitálního světa do regulovaného zdravotnictví.",
-      "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-      "source": "The Verge AI"
-    },
-    {
       "rank": 6,
-      "title_cs": "Google Home vylepšuje rozpoznávání obličejů i z netradičních úhlů",
-      "title_orig": "Google Home will soon get better at recognizing you",
-      "category": "tools",
+      "title_cs": "Hugging Face představuje CUGA pro snadný vývoj agentických aplikací",
+      "title_orig": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "category": "open-source",
       "summary_cs": [
-        "Chytré kamery v ekosystému Google Home obdrží aktualizaci, která zlepší identifikaci známých osob.",
-        "Systém nově dokáže spolehlivě rozpoznat členy domácnosti, i když jsou k objektivu otočeni zády nebo z profilu.",
-        "Vylepšení staví na pokročilejších algoritmech pro analýzu tělesné konstituce a dalších vizuálních znaků."
+        "Platforma Hugging Face vydala CUGA, odlehčený framework pro stavbu aplikací založených na AI agentech.",
+        "Balíček obsahuje přes dvacet funkčních příkladů, které lze okamžitě nasadit a testovat.",
+        "Nástroj je navržen tak, aby minimalizoval složitost vývoje a umožnil rychlé prototypování."
       ],
-      "why_matters": "Zvyšuje to spolehlivost a bezpečnost chytrých domácností bez nutnosti neustálého pohledu do kamery.",
-      "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-      "source": "The Verge AI"
+      "why_matters": "Vývojářům se otevírá snadná cesta k tvorbě vlastních autonomních agentů bez nutnosti složité infrastruktury.",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "source": "Hugging Face Blog"
     },
     {
       "rank": 7,
-      "title_cs": "MoEngage sází na budoucnost marketingu postavenou na milionech AI agentů",
-      "title_orig": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-      "category": "business",
+      "title_cs": "OpenAI se zapojuje do tvorby globálních bezpečnostních standardů pro pokročilou AI",
+      "title_orig": "Helping build shared standards for advanced AI",
+      "category": "labs",
       "summary_cs": [
-        "Marketingová platforma MoEngage dokončila akvizici, která jí umožní nasadit personalizované AI agenty.",
-        "Každý zákazník by mohl mít přiděleného vlastního dedikovaného agenta přizpůsobeného jeho chování.",
-        "Tento přístup má nahradit tradiční plošné marketingové kampaně vysoce individuální komunikací."
+        "Společnost OpenAI oznámila podporu nových hodnotících rámců a bezpečnostních postupů pro pokročilé modely.",
+        "Iniciativa probíhá ve spolupráci s Appia Foundation a zaměřuje se na globální kooperaci v oblasti bezpečnosti.",
+        "Snahou je vytvořit jednotné standardy, které zabrání zneužití nejsilnějších systémů umělé inteligence."
       ],
-      "why_matters": "Naznačuje to přechod od hromadného marketingu k hyper-personalizované péči o zákazníky pomocí autonomních agentů.",
-      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-      "source": "TechCrunch AI"
+      "why_matters": "Jednotné bezpečnostní standardy určí, jakým regulacím budou české i evropské firmy v budoucnu čelit.",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "source": "OpenAI Blog"
     },
     {
       "rank": 8,
-      "title_cs": "Fika Jobs získává investici na náborovou platformu, kde pohovory vedou AI agenti",
-      "title_orig": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "title_cs": "Jak efektivně využít Codex pro dlouhodobé projekty a udržení kontextu",
+      "title_orig": "Codex-maxxing for long-running work",
       "category": "tools",
       "summary_cs": [
-        "Stockholmský startup Fika Jobs získal 4 miliony dolarů na rozvoj své video platformy pro nábor zaměstnanců.",
-        "Služba kombinuje krátké video profily uchazečů s automatizovanými pohovory vedenými umělou inteligencí.",
-        "Koncept se snaží propojit profesionální síť typu LinkedIn s dynamickým formátem známým z TikToku."
+        "OpenAI sdílí osvědčené postupy pro práci s modelem Codex při správě komplexních programátorských úloh.",
+        "Klíčem k úspěchu je správné strukturování kontextu, které umožňuje modelu pokračovat v práci i po přerušení.",
+        "Případová studie ukazuje, jak lze překonat limity běžných jednorázových promptů."
       ],
-      "why_matters": "Tento trend může brzy změnit způsob, jakým se čeští uchazeči prezentují a ucházejí o práci.",
+      "why_matters": "Návod pomůže českým vývojářům lépe integrovat AI do složitých a dlouhodobých softwarových projektů.",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Fika Jobs získává investici na náborovou platformu s AI pohovory",
+      "title_orig": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "category": "business",
+      "summary_cs": [
+        "Stockholmský startup Fika Jobs získal 4 miliony dolarů na rozvoj video platformy pro nábor zaměstnanců.",
+        "Systém kombinuje krátké videoprofily uchazečů s AI agenty, kteří s nimi vedou úvodní pohovory.",
+        "Výsledný formát připomíná kombinaci profesní sítě LinkedIn a populární aplikace TikTok."
+      ],
+      "why_matters": "Ukazuje to, jakým směrem se bude vyvíjet moderní nábor zaměstnanců i v českých firmách.",
       "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 9,
-      "title_cs": "Oracle propouští tisíce zaměstnanců kvůli masivním investicím do AI infrastruktury",
-      "title_orig": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-      "category": "news",
+      "rank": 10,
+      "title_cs": "Google Home vylepšuje rozpoznávání obličejů i z netradičních úhlů",
+      "title_orig": "Google Home will soon get better at recognizing you",
+      "category": "tools",
       "summary_cs": [
-        "Společnost Oracle propustila přibližně 21 tisíc pracovníků v rámci restrukturalizace svých aktivit.",
-        "Ušetřené finanční prostředky firma směřuje do budování masivních datových center pro potřeby AI.",
-        "Investice do hardwaru a cloudové infrastruktury jsou z velké části financovány novým dluhem."
+        "Chytré kamery Google Home získají aktualizaci, která zlepší identifikaci známých osob.",
+        "Systém nově dokáže rozpoznat členy domácnosti, i když jsou k objektivu otočeni zády nebo z boku.",
+        "Cílem je omezit falešné poplachy a zvýšit spolehlivost zabezpečení chytré domácnosti."
       ],
-      "why_matters": "Ukazuje to tvrdou realitu transformace technologických gigantů, kteří upřednostňují AI před lidskou silou.",
-      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-      "source": "Ars Technica"
+      "why_matters": "Uživatelé chytrých domácností v Česku se dočkají spolehlivějšího zabezpečení bez otravných falešných notifikací.",
+      "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+      "source": "The Verge AI"
     },
     {
-      "rank": 10,
-      "title_cs": "Nová metoda VeryTrace opravuje chyby v logických úvahách jazykových modelů",
+      "rank": 11,
+      "title_cs": "Nová metoda VeryTrace opravuje chyby v logických krocích AI modelů",
       "title_orig": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
       "category": "research",
       "summary_cs": [
-        "Výzkumníci představili VeryTrace, beztréninkový systém pro ověřování a opravu myšlenkových postupů AI.",
-        "Metoda řeší problém, kdy drobná chyba na začátku řetězce úvah vede k nesprávnému, ale sebevědomému závěru.",
-        "Nástroj převádí úvahy do formálního kódu a automaticky opravuje logické nesrovnalosti v reálném čase."
+        "Vědci představili framework VeryTrace, který v reálném čase ověřuje logické kroky v řetězci myšlenek AI.",
+        "Nástroj dokáže odhalit halucinace a drobné chyby v raných fázích výpočtu a okamžitě je opravit.",
+        "Tato metoda výrazně zvyšuje spolehlivost výsledků u složitých matematických a programátorských úloh."
       ],
-      "why_matters": "Zvýšení spolehlivosti logického uvažování AI je klíčové pro nasazení v kritických oblastech, jako je programování.",
+      "why_matters": "Zvýšení spolehlivosti AI bez halucinací je klíčové pro nasazení systémů v kritických oblastech podnikání.",
       "url": "https://arxiv.org/abs/2606.24124",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 11,
-      "title_cs": "Proč musí moderní podniky přejít na systém neustálého učení AI agentů",
-      "title_orig": "Why agentic enterprises need to become learning systems",
-      "category": "wildcard",
+      "rank": 12,
+      "title_cs": "Přechod z pilotních projektů do ostrého provozu vyžaduje robustní datové toky",
+      "title_orig": "A proof of concept forgives a fragile data path. Operational AI does not.",
+      "category": "news",
       "summary_cs": [
-        "Článek se zabývá nutností integrace lidské zpětné vazby do každodenního provozu podnikových AI systémů.",
-        "Často dochází k situaci, kdy lidští experti opravují chyby, ale AI se z těchto oprav nedokáže dlouhodobě poučit.",
-        "Pro úspěšné nasazení agentů je nezbytné vytvořit uzavřenou smyčku, kde se modely neustále adaptují."
+        "Při nasazení AI do reálné produkce se často ukazuje, že jednoduchá propojení úložišť a výpočetního výkonu nestačí.",
+        "Zatímco prototypy snesou nestabilní datové cesty, ostrý firemní provoz vyžaduje garantovanou propustnost.",
+        "Analýza doporučuje firmám investovat do robustní síťové infrastruktury ještě před škálováním AI systémů."
       ],
-      "why_matters": "Pomáhá českým manažerům pochopit, jak efektivně řídit a neustále zlepšovat nasazené AI systémy.",
-      "url": "https://venturebeat.com/orchestration/why-agentic-enterprises-need-to-become-learning-systems",
+      "why_matters": "České firmy často narážejí na problémy při přechodu od úspěšného testu AI k reálnému nasazení.",
+      "url": "https://venturebeat.com/orchestration/a-proof-of-concept-forgives-a-fragile-data-path-operational-ai-does-not",
       "source": "VentureBeat AI"
     },
     {
-      "rank": 12,
-      "title_cs": "Nová metoda pro bezpečné řízení robotů pomocí neuro-symbolického uvažování",
-      "title_orig": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
-      "category": "research",
-      "summary_cs": [
-        "Představený rámec Neuro-Symbolic Drive kombinuje neuronové sítě s pevně danými pravidly pro řízení robotů.",
-        "Systém využívá multimodální modely k vysvětlení svých rozhodnutí v přirozeném jazyce krok za krokem.",
-        "Tento přístup výrazně zvyšuje bezpečnost a předvídatelnost chování autonomních systémů na silnicích."
-      ],
-      "why_matters": "Bezpečnější integrace AI do fyzického světa je zásadní pro budoucí rozvoj autonomní dopravy v Evropě.",
-      "url": "https://arxiv.org/abs/2606.23938",
-      "source": "ArXiv cs.AI"
-    },
-    {
       "rank": 13,
-      "title_cs": "Jak se liší metody pro trénování uvažování u menších jazykových modelů",
-      "title_orig": "Weight-Space Geometry of Offline Reasoning Training",
-      "category": "research",
+      "title_cs": "Hugging Face zrychluje vývoj díky automatizaci s lidským dohledem",
+      "title_orig": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "category": "open-source",
       "summary_cs": [
-        "Studie zkoumá geometrii váhového prostoru při použití různých metod offline zpětnovazebného učení.",
-        "Výzkum porovnává populární techniky jako GRPO či DPO používané k přenosu schopností z velkých modelů na menší.",
-        "Cílem je zjistit, zda tyto metody vedou k odlišným vnitřním reprezentacím, nebo konvergují ke stejnému řešení."
+        "Tým Hugging Face sdílí své zkušenosti s vydáváním nových verzí knihovny huggingface_hub na týdenní bázi.",
+        "Kombinace AI asistentů a otevřených nástrojů jim umožňuje automatizovat rutinní testování a psaní kódu.",
+        "Klíčem k bezpečnosti však zůstává finální schválení a kontrola lidským vývojářem."
       ],
-      "why_matters": "Pochopení těchto mechanismů umožní efektivnější vývoj menších a levnějších modelů pro specifické firemní úkoly.",
-      "url": "https://arxiv.org/abs/2606.23740",
-      "source": "ArXiv cs.LG"
+      "why_matters": "Ukazuje to praktický návod, jak efektivně zrychlit vývoj softwaru s pomocí umělé inteligence.",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "source": "Hugging Face Blog"
     },
     {
       "rank": 14,
-      "title_cs": "Nezisková organizace obnovila americký vládní web o klimatu smazaný Trumpovou administrativou",
-      "title_orig": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
+      "title_cs": "MoEngage sází na miliony personalizovaných AI agentů pro marketing",
+      "title_orig": "India’s MoEngage bets that the future of marketing is millions of AI agents",
       "category": "news",
       "summary_cs": [
-        "Nezisková organizace kompletně obnovila a spustila web climate.us, který byl předtím stažen z vládní domény.",
-        "Projekt zachraňuje cenná vědecká data a analýzy o klimatických změnách, které byly veřejnosti nedostupné.",
-        "Tento krok vyvolal debatu o nezávislosti vědeckých dat na politických cyklech a vládních rozhodnutích."
+        "Marketingová platforma MoEngage získala novou technologii pro přidělování unikátních AI agentů jednotlivým zákazníkům.",
+        "Tito agenti budou analyzovat chování konkrétního uživatele a vytvářet mu nabídky přímo na míru.",
+        "Tento přístup má nahradit tradiční plošné marketingové kampaně vysoce personalizovanou komunikací."
       ],
-      "why_matters": "Ukazuje to důležitost nezávislé archivace dat v době politických turbulencí a změn vládních priorit.",
-      "url": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
-      "source": "Ars Technica"
+      "why_matters": "Tento krok předznamenává konec plošného spamu a nástup skutečně personalizovaného marketingu.",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 15,
-      "title_cs": "Datasette ve verzi 1.0a35 přináší nové rozhraní pro snadnou tvorbu tabulek",
-      "title_orig": "datasette 1.0a35",
-      "category": "tools",
+      "title_cs": "Jak se bránit proti novým podvodům zneužívajícím AI během mistrovství světa",
+      "title_orig": "World Cup Scams Are Getting Harder to Spot",
+      "category": "wildcard",
       "summary_cs": [
-        "Nová verze nástroje Datasette představuje přepracované uživatelské rozhraní pro definování databázových struktur.",
-        "Uživatelé mohou snadno konfigurovat sloupce, primární klíče a datové typy přímo přes webový prohlížeč.",
-        "Aktualizace je podpořena robustním JSON API, což usnadňuje integraci s dalšími automatizačními nástroji."
+        "Podvodníci stále častěji využívají generativní AI k vytváření falešných prodejních stránek s lístky na sportovní akce.",
+        "Díky pokročilým jazykovým modelům jsou podvodné e-maily a weby téměř k nerozeznání od oficiálních zdrojů.",
+        "Odborníci varují před nákupy mimo certifikované platformy a doporučují zvýšenou obezřetnost."
       ],
-      "why_matters": "Zjednodušuje to práci s daty a prototypování aplikací i pro méně technicky zdatné uživatele.",
-      "url": "https://simonwillison.net/2026/Jun/23/datasette/",
-      "source": "Simon Willison's Weblog"
+      "why_matters": "Čeští sportovní fanoušci by měli být na pozoru před extrémně věrohodnými podvody při nákupu vstupenek.",
+      "url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+      "source": "Wired AI"
     }
   ]
 }
