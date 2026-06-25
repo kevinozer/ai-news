@@ -3,213 +3,213 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "OpenAI a Broadcom odhalují Jalapeño, svůj první vlastní čip pro AI servery",
+      "title_cs": "OpenAI a Broadcom představují Jalapeño, svůj první vlastní čip pro AI servery",
       "title_orig": "OpenAI reveals its first AI processor: Jalapeño",
       "category": "labs",
       "summary_cs": [
-        "OpenAI ve spolupráci s firmou Broadcom představila svůj první vlastní procesor nazvaný Jalapeño.",
-        "Jedná se o specializovaný ASIC čip navržený na míru pro efektivní a rychlé odbavování dotazů u velkých jazykových modelů.",
-        "Tento krok má výrazně snížit závislost tvůrců ChatGPT na hardwaru od Nvidie a optimalizovat provozní náklady."
+        "Společnost OpenAI ve spolupráci s Broadcomem odhalila svůj první vlastní ASIC čip s názvem Jalapeño.",
+        "Tento procesor je navržen speciálně pro optimalizaci a zrychlení běhu velkých jazykových modelů v inferenční fázi.",
+        "Vlastní křemík má OpenAI pomoci snížit závislost na drahých grafických kartách od Nvidie a zefektivnit provoz služeb."
       ],
-      "why_matters": "Vlastní křemík OpenAI může zásadně zlevnit a zrychlit provoz pokročilých modelů pro koncové uživatele i vývojáře.",
+      "why_matters": "Vlastní čip OpenAI může výrazně zlevnit a zrychlit provoz populárních služeb jako ChatGPT pro koncové uživatele.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
       "source": "The Verge AI"
     },
     {
       "rank": 2,
-      "title_cs": "Anthropic uvádí Claude Tag a přináší autonomní agenty přímo do Slacku",
-      "title_orig": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-      "category": "labs",
-      "summary_cs": [
-        "Nová funkce Claude Tag přináší do komunikační platformy Slack neustále aktivního AI spolupracovníka.",
-        "Nástroj se učí z firemní komunikace a pomáhá zachycovat organizační kontext a interní pracovní postupy.",
-        "Anthropic se tímto krokem snaží hlouběji integrovat do každodenních firemních procesů a získat strategickou výhodu."
-      ],
-      "why_matters": "Ukazuje to přechod od pasivních chatbotů k aktivním agentům, kteří s vámi pracují v jednom komunikačním kanálu.",
-      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 3,
-      "title_cs": "Evropa se staví proti americkým omezením vývozu čipů do Číny",
+      "title_cs": "Evropa se staví proti americké čipové válce a omezování exportu do Číny",
       "title_orig": "Europe is pushing back on Washington’s chip war",
       "category": "business",
       "summary_cs": [
-        "Evropští lídři a zástupci polovodičového průmyslu vyjadřují nesouhlas s novými americkými pravidly pro export technologií.",
-        "Generální ředitel nizozemské společnosti ASML upozornil, že navrhovaná omezení by mohla zablokovat prodej i starších generací strojů.",
-        "Tento spor ukazuje rostoucí napětí mezi geopolitickými zájmy USA a ekonomickou realitou evropských technologických firem."
+        "Evropští představitelé a firmy jako ASML vyjadřují nesouhlas s novými americkými pravidly omezujícími vývoz starších technologií.",
+        "Zákon MATCH Act by mohl evropským výrobcům zakázat dodávat do Číny i dekádu staré stroje pro hlubokou ultrafialovou litografii.",
+        "Tento krok prohlubuje napětí mezi USA a Evropskou unií ohledně kontroly globálního dodavatelského řetězce polovodičů."
       ],
-      "why_matters": "Rozhodnutí ovlivní globální dodavatelský řetězec čipů, na kterém závisí i evropský a český průmysl.",
+      "why_matters": "Geopolitické spory o polovodiče přímo ovlivňují stabilitu evropského technologického sektoru a dostupnost hardwaru.",
       "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 4,
-      "title_cs": "Firma Xiaomi představila systém HarnessX, který umožňuje AI přepisovat vlastní kód za běhu",
-      "title_orig": "Xiaomi's HarnessX rewrites its own AI scaffolding mid-task - and smaller models gain the most",
+      "rank": 3,
+      "title_cs": "Čínský model GLM-5.2 představuje zásadní zlom pro otevřené agenty",
+      "title_orig": "GLM-5.2 is the step change for open agents",
       "category": "open-source",
       "summary_cs": [
-        "Systém HarnessX řeší omezení statického softwarového lešení, které propojuje jazykové modely s okolním prostředím.",
-        "Tento framework umožňuje agentům dynamicky upravovat svá vlastní pravidla a kód uprostřed plnění složitého úkolu.",
-        "Z této flexibility těží především menší modely, které tak dosahují výrazně lepších výsledků při řešení komplexních úloh."
+        "Nový model GLM-5.2 vykazuje mimořádné schopnosti v oblasti autonomního chování a plnění komplexních úkolů.",
+        "Podle odborníků tento model úspěšně překonává dosavadní limity otevřených systémů a přibližuje se uzavřené špičce.",
+        "Schopnosti modelu potvrzují, že open-source komunita získává nástroje schopné konkurovat největším technologickým gigantům."
       ],
-      "why_matters": "Tato technologie přibližuje menší a levnější open-source modely schopnostem drahých proprietárních systémů.",
-      "url": "https://venturebeat.com/orchestration/xiaomis-harnessx-rewrites-its-own-ai-scaffolding-mid-task-and-smaller-models-gain-the-most",
-      "source": "VentureBeat AI"
+      "why_matters": "Otevřené modely s pokročilými agenty umožňují českým vývojářům stavět komplexní aplikace bez závislosti na drahých API.",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "source": "Interconnects (Nathan Lambert)"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Figma přináší kódové vrstvy, animace a nové generativní AI funkce",
+      "title_orig": "Figma adds code layers, support for animations, more AI features in new update",
+      "category": "tools",
+      "summary_cs": [
+        "Populární designový nástroj Figma představil rozsáhlou aktualizaci zaměřenou na užší propojení designu a vývoje.",
+        "Nově přibyla podpora pro kódové vrstvy, pokročilé animace, shadery a tvorbu vlastních pluginů s pomocí umělé inteligence.",
+        "Tyto funkce mají výrazně urychlit proces prototypování a usnadnit předávání podkladů vývojářským týmům."
+      ],
+      "why_matters": "Pro české designéry a vývojáře jde o zásadní zrychlení každodenní spolupráce na digitálních produktech.",
+      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 5,
-      "title_cs": "Bývalý šéf Infosys zakládá startup, který chce změnit svět IT služeb pomocí AI",
-      "title_orig": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "title_cs": "Firmy bojují s plýtváním rozpočty za AI a zavádějí přísné limity",
+      "title_orig": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
       "category": "business",
       "summary_cs": [
-        "Vishal Sikka, bývalý lídr gigantu Infosys, získal silnou finanční podporu od Mayfield a Aramco Ventures pro svůj nový projekt.",
-        "Startup sdružuje zkušené veterány ze společností SAP, Infosys a VianAI s cílem transformovat tradiční IT služby.",
-        "Nová platforma se zaměří na hlubokou integraci AI agentů do podnikových procesů a nahrazení manuální práce."
+        "Podniky začínají narážet na vysoké náklady spojené s bezhlavým využíváním AI modelů zaměstnanci na triviální úkoly.",
+        "Éra neomezeného generování tokenů končí a manažeři přecházejí na systémy přísného přidělování kreditů a monitoringu.",
+        "Cílem je optimalizovat výdaje a zajistit, aby se drahé modely používaly pouze tam, kde přinášejí reálnou hodnotu."
       ],
-      "why_matters": "Naznačuje to masivní transformaci outsourcingu IT služeb, což je sektor, kde působí mnoho českých vývojářů.",
-      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 6,
-      "title_cs": "Mindstone spouští Rebel, lokální operační systém pro orchestraci AI agentů",
-      "title_orig": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel",
-      "category": "tools",
-      "summary_cs": [
-        "Londýnský startup Mindstone oficiálně spustil Rebel, lokálně orientovaný operační systém pro agenty.",
-        "Systém si automaticky pamatuje a vyhodnocuje, který jazykový model je nejvhodnější pro konkrétní dílčí úkol.",
-        "Tento přístup výrazně zjednodušuje správu a nasazení komplexních agentických systémů v podnikovém prostředí."
-      ],
-      "why_matters": "Nástroj pomáhá firmám efektivně kombinovat různé modely a dramaticky tak snížit náklady na provoz AI.",
-      "url": "https://venturebeat.com/orchestration/your-enterprise-ai-agents-should-automatically-remember-which-model-is-right-for-which-task-mindstone-built-the-capability-with-rebel",
-      "source": "VentureBeat AI"
-    },
-    {
-      "rank": 7,
-      "title_cs": "Data ukazují, že inženýrské pozice jsou vůči propouštění kvůli AI nejodolnější",
-      "title_orig": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "category": "news",
-      "summary_cs": [
-        "Navzdory obavám, že generativní AI nahradí programátory, nová data od SignalFire ukazují opačný trend.",
-        "Softwaroví inženýři tvoří stále větší podíl mezi nově najímanými zaměstnanci v technologickém sektoru.",
-        "Poptávka po lidech, kteří dokážou systémy s AI stavět a integrovat, výrazně převyšuje snahy o automatizaci jejich práce."
-      ],
-      "why_matters": "Uklidňující zpráva pro české vývojáře, která potvrzuje, že lidská expertíza je při implementaci AI stále klíčová.",
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 8,
-      "title_cs": "Jak zabránit zaměstnancům v plýtvání firemním rozpočtem na zbytečné dotazy pro AI",
-      "title_orig": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "category": "news",
-      "summary_cs": [
-        "Firmy začínají narážet na nečekaně vysoké účty za využívání pokročilých jazykových modelů na triviální úkoly.",
-        "Éra neomezeného generování tokenů končí a organizace začínají zavádět přísné limity a monitorovací nástroje.",
-        "Hledají se způsoby, jak automaticky přesměrovat jednoduché dotazy na levnější nebo lokální modely."
-      ],
-      "why_matters": "Praktické varování pro české manažery, kteří zavádějí AI a chtějí udržet náklady pod kontrolou.",
+      "why_matters": "České firmy implementující AI musí začít řešit nákladovou efektivitu, aby jim projekty nepřerostly přes hlavu.",
       "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 9,
-      "title_cs": "Špičkoví vědci pokračují v odchodu z Google do konkurenčního Anthropicu",
-      "title_orig": "AI researchers continue to leave Google for its rivals",
-      "category": "news",
+      "rank": 6,
+      "title_cs": "Xiaomi představuje HarnessX, systém pro dynamickou úpravu AI lešení během úkolu",
+      "title_orig": "Xiaomi's HarnessX rewrites its own AI scaffolding mid-task - and smaller models gain the most",
+      "category": "labs",
       "summary_cs": [
-        "Přední výzkumníci v oblasti umělé inteligence Jonas Adler a Alexander Pritzel opouštějí Google a přecházejí do Anthropicu.",
-        "Tento odchod následuje po nedávných ztrátách klíčových osobností, jako byli Noam Shazeer nebo John Jumper.",
-        "Personální přesuny ukazují pokračující intenzivní boj o nejlepší mozky v oboru mezi technologickými giganty."
+        "Společnost Xiaomi vyvinula systém HarnessX, který umožňuje AI agentům přepisovat vlastní softwarové lešení za běhu.",
+        "Tato dynamická adaptace pomáhá modelům lépe reagovat na měnící se prostředí při plnění dlouhodobých úkolů.",
+        "Největší nárůst výkonu byl zaznamenán u menších modelů, které tak dokážou konkurovat mnohem větším systémům."
       ],
-      "why_matters": "Koncentrace talentu v Anthropicu může dále urychlit vývoj jejich modelů Claude na úkor Google Gemini.",
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "source": "TechCrunch AI"
+      "why_matters": "Tato technologie umožňuje provozovat vysoce efektivní agenty lokálně na běžném hardwaru s minimálními náklady.",
+      "url": "https://venturebeat.com/orchestration/xiaomis-harnessx-rewrites-its-own-ai-scaffolding-mid-task-and-smaller-models-gain-the-most",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Mindstone uvádí Rebel, lokální operační systém pro orchestraci AI agentů",
+      "title_orig": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel",
+      "category": "tools",
+      "summary_cs": [
+        "Londýnský startup Mindstone oficiálně spustil Rebel, lokálně orientovaný operační systém pro firemní AI agenty.",
+        "Systém automaticky rozpozná a vybere nejvhodnější a nejlevnější model pro konkrétní dílčí úkol.",
+        "Rebel se zaměřuje na bezpečnost dat a efektivní správu paměti bez nutnosti neustálého odesílání citlivých informací do cloudu."
+      ],
+      "why_matters": "Nástroj nabízí českým podnikům bezpečnou cestu k integraci autonomních agentů s ohledem na ochranu dat.",
+      "url": "https://venturebeat.com/orchestration/your-enterprise-ai-agents-should-automatically-remember-which-model-is-right-for-which-task-mindstone-built-the-capability-with-rebel",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Stripe, Anthropic a OpenAI financují výzkum prevence respiračních infekcí",
+      "title_orig": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+      "category": "wildcard",
+      "summary_cs": [
+        "Přední technologické společnosti spojily síly a finančně podporují nový projekt zaměřený na boj proti běžnému nachlazení.",
+        "Iniciativa, za kterou stojí i zakladatelé Stripe, chce využít pokročilé vědecké metody k nalezení účinné prevence.",
+        "Investice ukazuje rostoucí zájem AI gigantů o přímé financování a ovlivňování projektů v oblasti biotechnologií a zdraví."
+      ],
+      "why_matters": "Spojení financí z AI sektoru s medicínským výzkumem může urychlit vývoj léků na nemoci trápící celou populaci.",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Vědci zkoumají, zda mohou AI agenti pomoci s mechanistickou interpretovatelností",
+      "title_orig": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+      "category": "research",
+      "summary_cs": [
+        "Nová studie zkoumá možnost využití jazykových modelů k automatickému vysvětlování vnitřního fungování neuronových sítí.",
+        "Zatímco lokalizace specifických obvodů v modelech pokročila, popis jejich přesné funkce zůstává pro lidi extrémně pracný.",
+        "Výzkumníci testují, zda mohou specializovaní AI agenti tento proces standardizovat a výrazně urychlit."
+      ],
+      "why_matters": "Lepší pochopení vnitřních procesů v AI modelech je klíčem k jejich bezpečnosti a spolehlivosti v kritických aplikacích.",
+      "url": "https://arxiv.org/abs/2606.24026",
+      "source": "ArXiv cs.AI"
     },
     {
       "rank": 10,
-      "title_cs": "Jak se odhlásit z nového trénování AI modelů společnosti Google",
+      "title_cs": "Jak vypnout nové trénování AI modelů z historie vyhledávání Google",
       "title_orig": "How to Opt Out of Google Search’s New AI Data Training Feature",
-      "category": "tools",
+      "category": "news",
       "summary_cs": [
-        "Google v tichosti aktualizoval ukládání historie vyhledávání a začal využívat nahraná média k trénování svých modelů.",
-        "To se týká například obrázků použitých při obráceném vyhledávání nebo interakcí v rámci vyhledávacího rozhraní.",
-        "Uživatelé mají možnost toto chování v nastavení soukromí zakázat, pokud nechtějí svá data poskytovat."
+        "Google zavedl novou funkci, která ukládá nahraná média a obrázky z vyhledávání pro následné trénování svých AI modelů.",
+        "Uživatelé, kteří nechtějí svá data poskytovat pro tyto účely, musí ručně změnit nastavení soukromí ve svém účtu.",
+        "Tento krok opět rozvířil debatu o transparentnosti technologických firem při sběru dat pro vývoj umělé inteligence."
       ],
-      "why_matters": "Důležitý návod pro ochranu soukromí a osobních dat českých uživatelů služeb Google.",
+      "why_matters": "Návod pomůže českým uživatelům lépe chránit své soukromí a kontrolovat, jaká data Google pro AI využívá.",
       "url": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
       "source": "Wired AI"
     },
     {
       "rank": 11,
-      "title_cs": "Čínští experti na umělou inteligenci mají stejné obavy z katastrofických scénářů jako Západ",
-      "title_orig": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
+      "title_cs": "Top výzkumníci odcházejí z Google k rivalům, Anthropic posiluje tým",
+      "title_orig": "AI researchers continue to leave Google for its rivals",
       "category": "news",
       "summary_cs": [
-        "Novinářská setkání s předními čínskými vědci odhalila, že i v Číně panují hluboké obavy z nekontrolovaného vývoje AI.",
-        "Výzkumníci na obou stranách geopolitického spektra se obávají možného kritického selhání systémů přirovnávaného k Černobylu.",
-        "Navzdory technologické rivalitě existuje mezi vědci silná touha po globální koordinaci bezpečnostních standardů."
+        "Přední vědci Jonas Adler a Alexander Pritzel opouštějí Google a přecházejí ke konkurenčnímu Anthropicu.",
+        "Tento odchod následuje po nedávných ztrátách klíčových osobností, jako byli Noam Shazeer nebo John Jumper.",
+        "Boj o nejlepší mozky v oblasti výzkumu umělé inteligence se mezi technologickými obry nadále vyostřuje."
       ],
-      "why_matters": "Ukazuje to, že bezpečnostní rizika AI jsou vnímána globálně a mohou vést k mezinárodním dohodám.",
-      "url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
-      "source": "Wired AI"
-    },
-    {
-      "rank": 12,
-      "title_cs": "Figma přináší kódové vrstvy, animace a nové funkce poháněné umělou inteligencí",
-      "title_orig": "Figma adds code layers, support for animations, more AI features in new update",
-      "category": "tools",
-      "summary_cs": [
-        "Populární designový nástroj Figma představil zásadní aktualizaci zaměřenou na užší propojení designu a vývoje.",
-        "Nové funkce zahrnují kódové vrstvy, podporu pro pokročilé animace a shadery přímo v rozhraní.",
-        "AI asistenti nyní pomáhají designérům automaticky generovat vlastní pluginy a zrychlovat rutinní úkony."
-      ],
-      "why_matters": "Zásadní update pro české designéry a frontend vývojáře, který mění jejich každodenní pracovní postupy.",
-      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "why_matters": "Personální přesuny mezi laboratořemi přímo ovlivňují, která firma přinese další přelomový model na trh.",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 13,
-      "title_cs": "Zástupkyně Kongresu odmítá, že by její tým použil AI k sepsání legislativního návrhu",
-      "title_orig": "Congresswoman denies staff used AI to write defense funding amendment",
+      "rank": 12,
+      "title_cs": "A24 čelí kritice fanoušků kvůli investici 75 milionů dolarů od Google DeepMind",
+      "title_orig": "A24 Knows You’re Mad About the Google AI Collab",
       "category": "wildcard",
       "summary_cs": [
-        "Americká kongresmanka Anna Paulina Luna čelila kritice poté, co se na veřejnost dostaly dokumenty vykazující stopy generování AI.",
-        "Politička upřesnila, že její tým použil umělou inteligenci pouze pro kontrolu pravopisu v shrnutí pozměňovacího návrhu.",
-        "Důrazně odmítla, že by samotný text zákona o financování obrany byl navržen nebo napsán strojem."
+        "Nezávislé filmové studio A24 se potýká s nevolí svých příznivců po oznámení úzké spolupráce s Google DeepMind.",
+        "Google do studia investuje 75 milionů dolarů, což vyvolává obavy z přílišného vlivu AI na kreativní filmovou tvorbu.",
+        "Spolupráce ukazuje, jak hluboko se technologické firmy snaží proniknout do tradičního hollywoodského průmyslu."
       ],
-      "why_matters": "Ilustruje to rostoucí citlivost a etické otázky kolem využívání AI při tvorbě zákonů a v politice.",
-      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-      "source": "The Verge AI"
+      "why_matters": "Tento spor předznamenává budoucí diskuse o roli umělé inteligence v umění a kinematografii.",
+      "url": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Databricks obhajuje nutnost otevřeného ekosystému pro stavbu agentických cloudů",
+      "title_orig": "Why the Frontier Ecosystem must be Open - Matei Zaharia and Reynold Xin, Databricks",
+      "category": "tools",
+      "summary_cs": [
+        "Techničtí lídři společnosti Databricks v rozhovoru vysvětlují, proč je otevřenost klíčová pro budoucí rozvoj AI.",
+        "Podle nich je pro firmy nezbytné mít možnost stavět vlastní agentické systémy na otevřených standardech bez uzamčení u jednoho dodavatele.",
+        "Diskutují také o infrastruktuře potřebné pro bezpečné a škálovatelné nasazení AI agentů v podnikovém prostředí."
+      ],
+      "why_matters": "Otevřený ekosystém dává českým firmám svobodu volby a chrání je před monopolním chováním velkých hráčů.",
+      "url": "https://www.latent.space/p/databricks",
+      "source": "Latent Space"
     },
     {
       "rank": 14,
-      "title_cs": "T2D-Bench představuje nový standard pro hodnocení rad o diabetu generovaných AI",
+      "title_cs": "T2D-Bench přináší přísné hodnocení medicínských doporučení AI pro diabetes",
       "title_orig": "T2D-Bench: Evidence-Gated Evaluation of LLM Outputs for Type 2 Diabetes Using a Multi-Layer Clinical-Lifestyle Knowledge Graph",
       "category": "research",
       "summary_cs": [
-        "Výzkumníci vytvořili benchmark T2D-Bench pro ověřování medicínských doporučení, která jazykové modely poskytují pacientům s cukrovkou.",
-        "Systém využívá vícevrstvý znalostní graf klinických a životních stylů k ověření, zda AI netvrdí nepravdivé informace.",
-        "Cílem je zajistit, aby modely při poskytování rad striktně dodržovaly lékařské směrnice a dokázaly svá tvrzení doložit."
+        "Výzkumníci představili benchmark T2D-Bench pro ověřování medicínských doporučení generovaných jazykovými modely.",
+        "Systém využívá vrstvený znalostní graf klinických a životních dat k ověření, zda AI neporušuje oficiální léčebné postupy.",
+        "Cílem je zabránit šíření věrohodně znějících, ale potenciálně nebezpečných rad pacientům s diabetem druhého typu."
       ],
-      "why_matters": "Klíčový krok k bezpečnému nasazení AI v medicíně a osobním zdravotním poradenství bez rizika halucinací.",
+      "why_matters": "Nástroje pro ověřování faktické správnosti jsou klíčové pro bezpečné nasazení AI v českém zdravotnictví.",
       "url": "https://arxiv.org/abs/2606.24145",
       "source": "ArXiv cs.AI"
     },
     {
       "rank": 15,
-      "title_cs": "Konceptualizace vlivu algoritmů pomocí analýzy akademických sítí",
-      "title_orig": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
-      "category": "research",
+      "title_cs": "Důvěryhodní AI agenti v podnicích vyžadují dynamické hodnocení, tvrdí Amazon",
+      "title_orig": "Amazon will present its framework for engineering trustworthy AI agents at VB Transform 2026",
+      "category": "news",
       "summary_cs": [
-        "Nová vědecká práce zkoumá, jakým způsobem se algoritmy šíří a ovlivňují vědeckou komunitu napříč obory.",
-        "Autoři analyzovali celotextové databáze akademických článků a vytvořili síť vzájemného výskytu algoritmů.",
-        "Tento přístup pomáhá lépe pochopit, které metodologie jsou skutečně klíčové pro moderní vědecký pokrok."
+        "Amazon představí svůj nový rámec pro vývoj a testování spolehlivých a bezpečných autonomních AI agentů.",
+        "Tradiční statické testy podle firmy nestačí pro agenty, kteří mají přímý přístup k citlivým podnikovým systémům.",
+        "Nový přístup se zaměřuje na průběžné vyhodnocování chování agentů v reálném čase a definování jasných bezpečnostních mantinelů."
       ],
-      "why_matters": "Pomáhá českým akademikům a výzkumníkům identifikovat nejvlivnější trendy v počítačových vědách.",
-      "url": "https://arxiv.org/abs/2606.24099",
-      "source": "ArXiv cs.AI"
+      "why_matters": "Bezpečné začlenění AI do firemních procesů je hlavním tématem pro české IT manažery usilující o digitalizaci.",
+      "url": "https://venturebeat.com/orchestration/amazon-will-present-its-framework-for-engineering-trustworthy-ai-agents-at-vb-transform-2026",
+      "source": "VentureBeat AI"
     }
   ]
 }
