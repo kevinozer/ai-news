@@ -2,18 +2,18 @@ AI News | 25. června 2026
 
 Dnešní novinky:
 
-1. OpenAI se snaží snížit závislost na dominantní Nvidii, která aktuálně ovládá většinu trhu s AI čipy. Vlastní procesor Jalapeño vyvinutý s Broadcomem má výrazně zlevnit provoz ChatGPT pro koncové uživatele.
+1. OpenAI se spojila s firmou Broadcom a vyvinula vlastní čip Jalapeño pro zrychlení svých jazykových modelů. Tento krok má snížit závislost na dominantní Nvidii a výrazně srazit obrovské provozní náklady na provoz ChatGPT.
 
-2. Evropští lídři v čele s nizozemskou firmou ASML odmítají americký zákon MATCH Act omezující export do Číny. Tento geopolitický spor přímo ohrožuje stabilitu evropského technologického sektoru a dodávky klíčového hardwaru.
+2. Evropské firmy jako ASML odmítají nová americká omezení na vývoz strojů na výrobu čipů do Číny. Geopolitický střet ohrožuje příjmy evropských technologických lídrů a může zdražit běžnou elektroniku pro koncové spotřebitele.
 
-3. Čínský open-source model GLM-5.2 dokazuje, že otevřené systémy již dokážou konkurovat drahým uzavřeným platformám od Google či OpenAI. Čeští vývojáři tak získávají bezplatný nástroj pro tvorbu pokročilých aplikací bez nutnosti platit za drahá API.
+3. Nový čínský model GLM-5.2 stírá rozdíly mezi bezplatným open-source softwarem a placenými službami od OpenAI. Čeští vývojáři tak získávají bezplatný nástroj pro tvorbu pokročilých autonomních asistentů bez licenčních poplatků.
 
-4. Po krachu akvizice ze strany Adobe se Figma soustředí na integraci vývojářských funkcí přímo do designového prostředí. Nové nástroje s umělou inteligencí výrazně urychlí každodenní spolupráci mezi designéry a programátory při tvorbě aplikací.
+4. Návrhářský nástroj Figma zavádí kódové vrstvy a generativní AI pro zrychlení práce designérů. Nové funkce výrazně zkrátí čas potřebný k přepisu grafických návrhů do hotového kódu, což ušetří firmám náklady na vývoj.
 
-5. Éra bezhlavého testování umělé inteligence končí a firmy začínají kvůli vysokým účtům za tokeny přísně hlídat efektivitu. Manažeři proto zavádějí limity a drahé modely povolují jen tam, kde prokazatelně přinášejí finanční hodnotu.
+5. Rivalové OpenAI a Anthropic se spojili s platebním gigantem Stripe, aby financovali výzkum proti běžnému nachlazení. Investice ukazuje nový trend, kdy technologické firmy směřují své zisky do řešení globálních zdravotních problémů.
 
-6. Čínské Xiaomi přichází s technologií HarnessX, která umožňuje menším modelům měnit svůj kód za běhu podle situace. Tento přístup umožňuje provozovat vysoce efektivní asistenty lokálně na běžných chytrých telefonech bez drahého cloudu.
+6. Éra bezhlavého testování končí a firmy začínají tvrdě regulovat přístup zaměstnanců k AI nástrojům. Důvodem jsou nečekaně vysoké účty za API tokeny vyplýtvané na banální úkoly, což nutí manažery k přísné kontrole rozpočtů.
 
-7. Londýnský startup Mindstone reaguje na obavy firem z úniku citlivých dat do amerických cloudů. Jejich lokální operační systém Rebel automaticky vybírá nejlevnější model pro daný úkol a garantuje maximální bezpečnost firemních informací.
+7. Vědci zkoumají, zda mohou jazykové modely pomoci rozklíčovat složité vnitřní fungování jiných neuronových sítí. Tento výzkum je klíčový pro zvýšení bezpečnosti a transparentnosti systémů, které se potýkají s problémem černé skříňky.
 
-#AINews #AI #OpenAI #Broadcom #ASML #Figma #Xiaomi #Mindstone #AInaMiru
+#AINews #AI #OpenAI #Broadcom #ASML #Figma #Anthropic #AInaMiru
