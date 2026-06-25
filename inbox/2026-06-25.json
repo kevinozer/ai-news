@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T04:00:54.677156+00:00",
+  "generated_at": "2026-06-25T07:54:41.310943+00:00",
   "date": "2026-06-25",
-  "article_count_unique": 155,
-  "article_count_raw": 155,
+  "article_count_unique": 151,
+  "article_count_raw": 151,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,13 +163,13 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
+      "count": 1,
       "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "raw_count": 10
     }
   ],
@@ -552,7 +552,7 @@
       "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
       "published_at": "2026-06-25T00:08:36+00:00",
       "author": "Connie Loizos",
-      "summary_raw": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.",
+      "summary_raw": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -1243,18 +1243,6 @@
       "category": "labs"
     },
     {
-      "id": "8a36de671b173377",
-      "title": "Svět uchvátili svými AI obrázky, teď dělají nečekaný úkrok vedle. Midjourney se vydává zachraňovat životy",
-      "url": "https://cc.cz/svet-uchvatili-svymi-ai-obrazky-ted-delaji-necekany-ukrok-vedle-midjourney-se-vydava-zachranovat-zivoty/",
-      "published_at": "2026-06-24T04:21:24+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Prvotní šílenství kolem AI portrétů opadlo. Slavný startup proto míří do fyzického světa a se skenováním těla chce fušovat do medicíny. Článek Svět uchvátili svými AI obrázky, teď dělají nečekaný úkrok vedle. Midjourney se vydává zachraňovat životy se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/midjourney-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "d34fad4271028598",
       "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
       "url": "https://huggingface.co/blog/ffasr-leaderboard",
@@ -1519,18 +1507,6 @@
       "category": "news"
     },
     {
-      "id": "19007d80e414603e",
-      "title": "V Česku se vyvíjí systém autonomních dronů, které by v polích mohly zachraňovat srnčí mláďata před senosečí",
-      "url": "https://www.lupa.cz/aktuality/v-cesku-se-vyviji-system-autonomnich-dronu-ktere-by-v-polich-mohly-zachranovat-srnci-mladata-pred-senoseci/",
-      "published_at": "2026-06-23T13:40:12+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "V Česku vzniká autonomní systém, který bude sám hledat srnčata před senosečí. Podílejí se na něm zdej&#353;í výrobce létajících robotů Fly4Future a vědci z Jihočeské univerzity. Systém má sám monitorovat rozsáhlé plochy, vyhledávat zvěř a rozhodovat o dal&#353;ím postupu bez zásahu člověka. Do tréninku AI se můžou zapojit i dal&#353;í lidé, kteří mají svá videa ze záchrany těchto zvířat, odborníci je použijí na trénink modelů AI.",
-      "hero_image": "https://i.iinfo.cz/images/496/dron-pri-senoseci.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "8897f1f47cc6e7a6",
       "title": "Record a skill",
       "url": "https://www.bensbites.com/p/record-a-skill",
@@ -1589,18 +1565,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "b2f0499917a5880d",
-      "title": "60 miliard tváří: jak Clearview AI a PimEyes mění svět biometrického sledování lidí",
-      "url": "https://www.lupa.cz/clanky/60-miliard-tvari-jak-clearview-ai-a-pimeyes-meni-svet-biometrickeho-sledovani-lidi/",
-      "published_at": "2026-06-23T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Julie Vlačihová)",
-      "summary_raw": "Případ firmy Clearview testuje evropské nástroje k vymáhání práv stanovených v GDPR. Zatím tento test ale bohužel nedopadá dobře.",
-      "hero_image": "https://i.iinfo.cz/images/186/facial-recognition-rozpoznavani-obliceju-1.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "485b1b9a504d1114",
@@ -1865,18 +1829,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "10682344690b4ea4",
-      "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
-      "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
-      "published_at": "2026-06-18T04:23:05+00:00",
-      "author": "",
-      "summary_raw": "The only bootstrapped frontier lab announces its second product and second",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!_BAI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHLDKY9bawAA-Lls.jpg",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "b799b93c7af0e6fa",
