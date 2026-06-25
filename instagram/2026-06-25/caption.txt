@@ -2,18 +2,18 @@ AI News | 25. června 2026
 
 Dnešní novinky:
 
-1. OpenAI se spojením s firmou Broadcom snaží oslabit monopol Nvidie, která dosud ovládala většinu trhu s AI čipy. Vlastní procesor Jalapeño má výrazně snížit obří provozní náklady na provoz ChatGPT.
+1. OpenAI se spojením s firmou Broadcom snaží oslabit monopol Nvidie, která dosud ovládala trh s AI hardwarem. Vlastní čip Jalapeño sníží závislost na externích dodavatelích a výrazně zlevní provoz ChatGPT pro koncové uživatele.
 
-2. Anthropic tímto krokem přímo konkuruje Microsoftu a jeho Copilotu, kteří se rovněž snaží ovládnout firemní komunikaci. Claude Tag se bude učit z interních chatů na Slacku a pomůže s rutinní agendou.
+2. Anthropic útočí na konkurenční Microsoft Copilot a integruje svého asistenta Claude Tag přímo do komunikační platformy Slack. Tento krok mění pasivní chatování v aktivní spolupráci, kdy AI sama sleduje firemní kontext.
 
-3. Nizozemský gigant ASML se ocitl uprostřed technologické války mezi USA a Čínou, která ohrožuje jeho miliardové příjmy. Evropští politici varují, že plošné americké zákazy poškodí hlavně evropský byznys.
+3. Evropští technologičtí giganti jako ASML odmítají přísná americká omezení, která jim blokují miliardové obchody s Čínou. Geopolitický boj o kontrolu nad křemíkem tak začíná vážně ohrožovat ekonomické zájmy evropského průmyslu.
 
-4. Figma reaguje na konkurenční tlaky a přibližuje se programátorům přímým generováním čistého kódu z grafických návrhů. Pro designová studia to znamená konec zdlouhavého přepisování vizuálů do reality.
+4. Čínské Xiaomi přichází s revolučním řešením HarnessX, které dává menším open-source modelům nečekanou flexibilitu. Schopnost přepisovat vlastní kód za běhu jim umožňuje konkurovat i těm nejdražším proprietárním systémům.
 
-5. Nekontrolované testování AI v korporacích naráží na finanční realitu a nutnost vykazovat skutečnou návratnost investic. Manažeři proto začínají zavádět přísné limity na spotřebu drahých API tokenů.
+5. Bývalý šéf gigantu Infosys získal pro svůj nový startup silné investory z Mayfield a Aramco Ventures. Jeho cílem je nahradit tradiční outsourcing IT služeb plně autonomními AI agenty, což ovlivní i české vývojáře.
 
-6. Čínský open-source model GLM-5.2 dokazuje, že otevřené systémy dokážou držet krok s placenými službami od OpenAI. Vývojáři získávají výkonný nástroj pro autonomní agenty bez licenčních poplatků.
+6. Londýnský startup Mindstone reaguje na chaos v nabídce modelů a přichází s vlastním lokálním systémem Rebel. Tento software sám vybere nejlevnější a nejrychlejší model pro daný úkol, čímž firmám drasticky sníží náklady.
 
-7. Xiaomi přináší revoluci v efektivitě, která umožní chytrým telefonům lokálně spouštět pokročilé AI funkce. Systém HarnessX dovoluje modelům měnit instrukce za běhu a šetřit tak výkon procesoru.
+7. Analýza od SignalFire vyvrací mýtus, že generativní AI připraví programátory o práci. Poptávka po softwarových inženýrech, kteří dokážou AI systémy stavět a integrovat, naopak celosvětově stále roste.
 
-#AINews #AI #OpenAI #Broadcom #Anthropic #ASML #Figma #Xiaomi #AInaMiru
+#AINews #AI #Broadcom #Anthropic #ASML #Xiaomi #Infosys #Mindstone #AInaMiru
