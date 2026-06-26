@@ -3,15 +3,15 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "Bílý dům žádá OpenAI o odklad vydání modelu GPT-5.6 kvůli bezpečnostním obavám",
+      "title_cs": "Bílý dům tlačí na OpenAI, aby odložila vydání modelu GPT-5.6",
       "title_orig": "OpenAI will delay GPT-5.6 after Trump administration request",
       "category": "news",
       "summary_cs": [
-        "Trumpova administrativa požádala společnost OpenAI o postupné uvolňování jejího nadcházejícího vlajkového modelu GPT-5.6.",
-        "Sam Altman na interním setkání potvrdil, že model bude nejprve vydán v omezeném náhledu pro vybrané partnery a vládní úřady.",
-        "Tento krok ukazuje na rostoucí vliv americké vlády na harmonogram vydávání nejpokročilejších systémů umělé inteligence."
+        "Trumpova administrativa požádala společnost OpenAI o odklad vydání jejího chystaného vlajkového modelu GPT-5.6 kvůli obavám o národní bezpečnost.",
+        "Sam Altman na interním setkání potvrdil, že model bude nejprve uvolněn pouze v omezeném náhledu pro vybrané partnery.",
+        "Tento krok ukazuje na rostoucí vliv americké vlády na strategická rozhodnutí předních AI laboratoří."
       ],
-      "why_matters": "Zpoždění klíčového modelu GPT-5.6 přímo ovlivní dostupnost nejnovějších AI technologií pro české firmy i koncové uživatele.",
+      "why_matters": "Zpoždění klíčového modelu GPT-5.6 ovlivní globální dostupnost nejnovějších AI technologií i pro české uživatele.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
       "source": "The Verge AI"
     },
@@ -21,195 +21,195 @@
       "title_orig": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
       "category": "business",
       "summary_cs": [
-        "Nová data ukazují, že platící zákazníci začínají dávat přednost modelům Claude od společnosti Anthropic před dominantním ChatGPT.",
-        "Ačkoliv si OpenAI drží celkové prvenství v počtu uživatelů, Anthropic získává náskok v segmentu prémiových platících předplatitelů.",
-        "Tento trend podtrhuje rostoucí poptávku po pokročilých analytických schopnostech a lepším psaném projevu, v nichž Claude vyniká."
+        "Nová data ukazují, že Anthropic se svým modelem Claude úspěšně získává platící zákazníky na trhu, kterému dosud dominoval ChatGPT.",
+        "Uživatelé oceňují zejména pokročilé programovací schopnosti a přirozenější tón generovaného textu.",
+        "Tento posun posiluje konkurenční boj mezi hlavními poskytovateli LLM a nutí OpenAI k rychlejším inovacím."
       ],
-      "why_matters": "Pro české profesionály jde o jasný signál, že investice do předplatného Claude se stává standardem pro náročné úkoly.",
+      "why_matters": "Pro české profesionály to znamená, že Claude se stává plnohodnotnou a často preferovanou alternativou k ChatGPT.",
       "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 3,
-      "title_cs": "OpenAI hlásí masivní nárůst využívání kódu generovaného modely řady Codex",
-      "title_orig": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
-      "category": "labs",
-      "summary_cs": [
-        "Interní statistiky OpenAI odhalily extrémní nárůst objemu vygenerovaných tokenů z modelů Codex napříč všemi odděleními.",
-        "Největší skok zaznamenal výzkumný tým s padesátišestinásobným nárůstem, následovaný zákaznickou podporou a vývojem.",
-        "Data jasně demonstrují, že se pokročilí AI agenti stali nepostradatelnou součástí každodenní práce samotných tvůrců technologie."
-      ],
-      "why_matters": "Ukazuje to reálné tempo adopce AI agentů přímo u zdroje, což předznamenává transformaci pracovních procesů u nás.",
-      "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
-      "source": "Latent Space"
-    },
-    {
-      "rank": 4,
-      "title_cs": "Jak AI agenti transformují práci a zvyšují produktivitu podle nového výzkumu OpenAI",
-      "title_orig": "How agents are transforming work",
-      "category": "labs",
-      "summary_cs": [
-        "OpenAI zveřejnila studii mapující nasazení autonomních agentů při řešení komplexních a dlouhodobých úkolů.",
-        "Výzkum potvrzuje, že agentické systémy výrazně rozšiřují lidské možnosti a přebírají ucelené pracovní toky namísto pouhých drobných úkonů.",
-        "Nasazení těchto systémů vede k prokazatelnému zvýšení produktivity napříč různými profesními rolemi."
-      ],
-      "why_matters": "Studie poskytuje českým manažerům konkrétní data pro plánování integrace autonomních AI agentů do firemních procesů.",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "source": "OpenAI Blog"
-    },
-    {
-      "rank": 5,
-      "title_cs": "General Intuition získala obří investici na trénování AI agentů pomocí videoher",
+      "title_cs": "General Intuition získala 320 milionů dolarů na trénování AI pomocí videoher",
       "title_orig": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
       "category": "business",
       "summary_cs": [
-        "Startup General Intuition získal v investičním kole 320 milionů dolarů při celkovém ohodnocení firmy ve výši 2,3 miliardy dolarů.",
-        "Společnost trénuje své modely na milionech hodin videoherních záznamů s cílem vyvinout u AI systémů obdobu lidské intuice.",
-        "Tento přístup k trénování na akčních datech by mohl překonat limity běžného učení založeného pouze na textových informacích."
+        "Startup General Intuition získal obří investici na vývoj AI modelů trénovaných na milionech hodin herního videa.",
+        "Firma věří, že interaktivní herní data pomohou AI vyvinout hlubší prostorové chápání a intuici podobnou té lidské.",
+        "Tento přístup by mohl vyřešit nedostatek kvalitních textových dat pro trénování příští generace modelů."
       ],
-      "why_matters": "Představuje to zcela nový směr vývoje AI, který může přinést mnohem schopnější robotické a autonomní systémy.",
+      "why_matters": "Nová metoda trénování může radikálně zrychlit vývoj autonomních systémů a robotiky využitelných v českém průmyslu.",
       "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 6,
-      "title_cs": "Google potichu přidal do svých aplikací AI funkce, které vám radikálně zjednoduší práci",
-      "title_orig": null,
-      "category": "tools",
+      "rank": 4,
+      "title_cs": "Adobe kupuje Topaz Labs, integruje jejich špičkové AI nástroje pro vylepšení obrazu",
+      "title_orig": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "category": "business",
       "summary_cs": [
-        "Uživatelé mají v rámci ekosystému Google k dispozici nové nástroje, o jejichž existenci většina z nich vůbec netuší.",
-        "Tyto integrované funkce zvládají pokročilou analýzu dokumentů, živé překlady i automatizaci rutinní e-mailové korespondence.",
-        "Správné využití těchto vestavěných pomocníků může okamžitě zvýšit efektivitu práce bez nutnosti kupovat další software."
+        "Společnost Adobe oznámila akvizici firmy Topaz Labs, která je známá svými pokročilými nástroji na upscaling a čištění obrazu pomocí AI.",
+        "Technologie Topaz Labs budou postupně integrovány přímo do aplikací Creative Cloud, jako je Photoshop a Premiere Pro.",
+        "Akvizice dále upevňuje dominantní postavení Adobe na trhu s kreativním softwarem poháněným umělou inteligencí."
       ],
-      "why_matters": "Článek nabízí praktické návody pro české uživatele, jak bezplatně zefektivnit každodenní práci s běžnými nástroji od Google.",
+      "why_matters": "Čeští grafici, fotografové a střihači získají přístup k nejlepším upscaling nástrojům přímo ve svých oblíbených programech.",
+      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Špatná práce s AI jen přidává bordel, varuje rebelka z účtárny Marcela Lonková",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Zakladatelka firmy This.is Marcela Lonková popisuje své zkušenosti s digitalizací a zaváděním AI do českého účetnictví.",
+        "Varuje před bezhlavým nasazováním technologií bez předchozího úklidu a nastavení jasných procesů ve firmě.",
+        "Správně implementovaná AI podle ní dokáže ušetřit obrovské množství rutinní práce, ale vyžaduje změnu myšlení."
+      ],
+      "why_matters": "Praktické varování před neefektivním zaváděním AI od úspěšné české podnikatelky z oboru účetnictví.",
+      "url": "https://cc.cz/radili-ji-aby-nevycnivala-dnes-ma-rebelka-z-uctarny-firmu-a-radi-spatna-prace-s-ai-jen-pridava-bordel/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Skryté AI funkce v Google aplikacích, které vám radikálně zjednoduší práci",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Google do svých kancelářských aplikací v tichosti integroval řadu pokročilých funkcí umělé inteligence.",
+        "Tyto nástroje zvládají rychlou analýzu rozsáhlých dokumentů, živé překlady i automatické psaní rutinních e-mailů.",
+        "Většina uživatelů o těchto možnostech vůbec neví, přestože je mají bezplatně k dispozici ve svém Workspace."
+      ],
+      "why_matters": "Článek nabízí okamžitě použitelné tipy pro zvýšení produktivity v každodenní práci s nástroji od Googlu.",
       "url": "https://cc.cz/mate-je-k-dispozici-ale-nepouzivate-je-tohle-jsou-nastroje-ktere-vam-radikalne-zjednodusi-praci-s-googlem/",
       "source": "CzechCrunch"
     },
     {
       "rank": 7,
-      "title_cs": "Společnost Notion ruší svou e-mailovou aplikaci a sází plně na AI agenty",
-      "title_orig": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-      "category": "business",
-      "summary_cs": [
-        "Notion ukončuje vývoj své chystané e-mailové aplikace inspirované akvizicí šifrované služby Skiff.",
-        "Vedení firmy rozhodnutí zdůvodnilo tím, že uživatelé již nechtějí tradiční rozhraní a raději nechávají správu pošty na AI agentech.",
-        "Společnost se nyní plně zaměří na vývoj autonomních asistentů, kteří budou e-maily třídit, shrnovat a odpovídat na ně."
-      ],
-      "why_matters": "Ukazuje to rychlý posun od tradičních aplikací k rozhraním ovládaným výhradně umělou inteligencí.",
-      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-      "source": "Ars Technica"
-    },
-    {
-      "rank": 8,
-      "title_cs": "Hranice ověřitelnosti ukazuje, že hodnocení programovacích agentů nemá snadné řešení",
-      "title_orig": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
-      "category": "research",
-      "summary_cs": [
-        "Tradiční představa, že ověřit správnost kódu je snazší než kód vytvořit, u moderních AI agentů přestává platit.",
-        "S rostoucí komplexností generovaného softwaru narážejí automatické testovací sady na své limity a nedokážou spolehlivě určit kvalitu řešení.",
-        "Výzkum varuje před slepým spoléháním na automatické odměny při trénování programovacích modelů pomocí zpětné vazby."
-      ],
-      "why_matters": "Pro české vývojáře jde o důležité varování před riziky spojenými s nekritickým přebíráním AI generovaného kódu.",
-      "url": "https://arxiv.org/abs/2606.26300",
-      "source": "ArXiv cs.AI"
-    },
-    {
-      "rank": 9,
-      "title_cs": "Bývalý šéf AI v Databricks slibuje tisícinásobné snížení účtů za energii při generování obrázků",
+      "title_cs": "Bývalý šéf AI v Databricks slibuje tisícinásobné snížení nákladů na generování obrázků",
       "title_orig": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "category": "tools",
+      "category": "labs",
       "summary_cs": [
-        "Nový systém Un-0 demonstruje revoluční přístup k replikaci výstupů konvenčních generativních modelů.",
-        "Technologie se zaměřuje na extrémní optimalizaci výpočetního výkonu potřebného pro běh obrazových neuronových sítí.",
-        "Pokud se sliby o tisícinásobném snížení energetické náročnosti potvrdí, mohlo by to dramaticky zlevnit provoz AI služeb."
+        "Nový startup Un-0 představil systém pro generování obrázků, který dramaticky snižuje energetickou náročnost.",
+        "Zakladatel tvrdí, že jejich optimalizovaná architektura dokáže replikovat výkon běžných modelů s tisícinou spotřeby energie.",
+        "Tento průlom by mohl výrazně zlevnit provoz komerčních generativních služeb a zpřístupnit je na běžném hardwaru."
       ],
-      "why_matters": "Tento technologický průlom by mohl výrazně snížit náklady na provoz AI pro české vývojáře a startupy.",
+      "why_matters": "Extrémní snížení energetické náročnosti může drasticky zlevnit provoz AI služeb pro české vývojáře i koncové uživatele.",
       "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 10,
-      "title_cs": "Chyby v hodnocení bezpečnosti modelů kvůli špatnému nastavení teploty vzorkování",
-      "title_orig": "Necessary but Not Sufficient: Temperature Control and Reproducibility in LLM-as-Judge Safety Evaluations",
+      "rank": 8,
+      "title_cs": "Notion ruší svou e-mailovou aplikaci a sází vše na autonomní AI agenty",
+      "title_orig": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost Notion se rozhodla ukončit vývoj své e-mailové aplikace inspirované akvírovanou službou Skiff.",
+        "Důvodem je rychlý posun uživatelských návyků, kdy lidé stále častěji nechávají správu schránky na AI agentech.",
+        "Notion plánuje plně integrovat agenty přímo do svého ekosystému, aby automaticky organizovali a vyřizovali poštu."
+      ],
+      "why_matters": "Ukazuje to jasný trend, kdy klasické e-mailové klienty budou brzy nahrazeny inteligentními asistenty.",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Hranice ověřitelnosti: Proč je hodnocení kódovacích agentů stále těžší",
+      "title_orig": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
       "category": "research",
       "summary_cs": [
-        "Studie upozorňuje na kritický nedostatek v metodice hodnocení bezpečnosti velkých jazykových modelů pomocí jiných LLM.",
-        "Běžný předpoklad, že nastavení teploty vzorkování na nulu zaručuje plně deterministické a reprodukovatelné hodnocení, je mylný.",
-        "Nedostatečná kontrola parametrů generování může vést k falešnému schválení nebezpečných modelů pro ostré nasazení."
+        "Nová vědecká práce ukazuje, že klasická představa o snadném ověřování správnosti vygenerovaného kódu přestává platit.",
+        "S rostoucí komplexností úkolů, které AI agenti řeší, se jejich hodnocení stává stejně náročným jako samotné programování.",
+        "Výzkumníci varují, že bez lepších metod zpětné vazby narazíme na strop schopností autonomních vývojářů."
       ],
-      "why_matters": "Výzkum přináší klíčové poznatky pro české firmy, které implementují interní systémy pro auditování bezpečnosti AI.",
-      "url": "https://arxiv.org/abs/2606.26185",
-      "source": "ArXiv cs.LG"
+      "why_matters": "Pro české softwarové týmy to znamená, že spoléhání na automatické testování AI kódu bude vyžadovat nové přístupy.",
+      "url": "https://arxiv.org/abs/2606.26300",
+      "source": "ArXiv cs.AI"
     },
     {
-      "rank": 11,
-      "title_cs": "Zneužívání dat ze strany AI a odpovědnost firem za chyby v generovaných přehledech",
-      "title_orig": "AI and Liability",
-      "category": "news",
-      "summary_cs": [
-        "Renomovaný bezpečnostní expert Bruce Schneier komentoval nedávné rozhodnutí německého soudu ohledně odpovědnosti za AI výstupy.",
-        "Podle rozsudku musí být provozovatel AI systému právně odpovědný za nepravdivé či poškozující informace vygenerované jeho modelem.",
-        "Tento precedent staví AI agenty do pozice přímých zástupců organizace, která je nasazuje, se všemi právními důsledky."
-      ],
-      "why_matters": "Evropská legislativa začíná tvrdě postihovat halucinace AI, což zásadně mění právní rizika pro české firmy.",
-      "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/",
-      "source": "Simon Willison's Weblog"
-    },
-    {
-      "rank": 12,
-      "title_cs": "Problém s prolínáním instrukcí v komplexních agentických systémech",
+      "rank": 10,
+      "title_cs": "Instruction Bleed: Nová zranitelnost v modulárních agentických systémech",
       "title_orig": "Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems",
       "category": "research",
       "summary_cs": [
-        "Výzkumníci popsali nový typ selhání u komplexních systémů složených z více samostatných promptů a modulů.",
-        "Tento fenomén způsobuje, že úprava jednoho modulu může nečekaně změnit chování jiných částí systému, i když spolu nesdílejí data.",
-        "Studie přináší formální definici tohoto nežádoucího chování a navrhuje první metody, jak tomuto prolínání instrukcí předcházet."
+        "Výzkumníci popsali nový typ selhání u komplexních AI agentů složených z více promptových modulů.",
+        "Úprava instrukcí v jednom modulu může nečekaně změnit chování jiných částí systému, i když spolu přímo nesouvisí.",
+        "Tento jev, nazvaný kompoziční únik chování, komplikuje ladění a nasazování spolehlivých podnikových agentů."
       ],
-      "why_matters": "Pomáhá českým vývojářům pochopit a eliminovat záhadné chyby při stavbě pokročilých víceagentových aplikací.",
+      "why_matters": "Čeští vývojáři stavící komplexní AI agenty musí počítat s tímto skrytým rizikem při propojování více promptů.",
       "url": "https://arxiv.org/abs/2606.26356",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 13,
-      "title_cs": "Špatná práce s AI jen přidává bordel, varuje rebelka z účtárny Marcela Lonková",
-      "title_orig": null,
-      "category": "news",
-      "summary_cs": [
-        "Zakladatelka úspěšné poradenské firmy Marcela Lonková ukazuje českým podnikům, jak správně digitalizovat a automatizovat účetnictví.",
-        "Varuje před bezhlavým nasazováním umělé inteligence bez předchozího vyladění a zjednodušení stávajících firemních procesů.",
-        "Pouhé naroubování AI na chaotické postupy podle ní nevede k efektivitě, ale pouze k rychlejšímu generování chyb a zmatku."
-      ],
-      "why_matters": "Přináší střízlivý pohled z české praxe na to, že AI je pouze nástroj, který vyžaduje systémový přístup.",
-      "url": "https://cc.cz/radili-ji-aby-nevycnivala-dnes-ma-rebelka-z-uctarny-firmu-a-radi-spatna-prace-s-ai-jen-pridava-bordel/",
-      "source": "CzechCrunch"
-    },
-    {
-      "rank": 14,
-      "title_cs": "Spustit vLLM server na Hugging Face je nyní možné pomocí jediného příkazu",
+      "rank": 11,
+      "title_cs": "Spustit vLLM server na Hugging Face je nyní možné jediným příkazem",
       "title_orig": "Run a vLLM Server on HF Jobs in One Command",
       "category": "labs",
       "summary_cs": [
-        "Hugging Face zjednodušil nasazení vysoce výkonného inferenčního engine vLLM pro hostování vlastních modelů.",
-        "Vývojáři nyní mohou spustit optimalizovaný server v rámci platformy HF Jobs bez složité konfigurace infrastruktury.",
-        "Tento krok výrazně snižuje bariéru pro provozování open-source modelů s nízkou latencí a vysokou propustností."
+        "Hugging Face zjednodušil nasazování open-source modelů integrací populární knihovny vLLM do své platformy.",
+        "Vývojáři nyní mohou spustit vysoce optimalizovaný inferenční server pro LLM pomocí jediného příkazu v rozhraní HF Jobs.",
+        "Tato novinka výrazně snižuje technickou bariéru pro hostování vlastních modelů s nízkou latencí."
       ],
-      "why_matters": "Umožňuje českým technologickým týmům extrémně rychle a levně testovat a provozovat vlastní bezpečné AI modely.",
+      "why_matters": "Výrazně to usnadňuje a zlevňuje českým startupům provoz vlastních nezávislých AI modelů v cloudu.",
       "url": "https://huggingface.co/blog/vllm-jobs",
       "source": "Hugging Face Blog"
     },
     {
-      "rank": 15,
-      "title_cs": "Adobe kupuje Topaz Labs, populárního tvůrce AI nástrojů pro vylepšení obrazu a videa",
-      "title_orig": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "rank": 12,
+      "title_cs": "Německý soud rozhodl, že Google nese plnou odpovědnost za chyby ve svých AI přehledech",
+      "title_orig": "AI and Liability",
+      "category": "news",
+      "summary_cs": [
+        "Německý soud vydal přelomové rozhodnutí, podle kterého je Google právně odpovědný za nepravdivé informace vygenerované jeho AI vyhledáváním.",
+        "Rozsudek potvrzuje princip, že AI agenti jsou zástupci organizace, která je nasazuje, a ta za ně musí ručit.",
+        "Toto rozhodnutí může vytvořit významný právní precedens pro celou Evropskou unii včetně České republiky."
+      ],
+      "why_matters": "Klíčový rozsudek v sousedním Německu definuje právní odpovědnost za halucinace AI, což ovlivní i české firmy.",
+      "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Amazon investuje dalších 13 miliard dolarů do AI infrastruktury v Indii",
+      "title_orig": "Amazon ups India bet with fresh $13B AI infrastructure investment",
       "category": "business",
       "summary_cs": [
-        "Softwarový gigant Adobe oznámil akvizici společnosti Topaz Labs, která je známá svými špičkovými algoritmy pro upscale a doostření obrazu.",
-        "Adobe plánuje hluboce integrovat oceňované technologie pro odstraňování šumu a zvyšování rozlišení do svých hlavních aplikací.",
-        "Tato akvizice dále posílí pozici Creative Cloud jako dominantního ekosystému pro profesionální tvůrce obsahu."
+        "Amazon Web Services oznámil masivní investici do rozšíření svých datových center a cloudových služeb v Indii.",
+        "Krok reaguje na raketově rostoucí poptávku po výpočetním výkonu pro AI projekty v asijském regionu.",
+        "Investice je součástí širšího boje technologických gigantů o dominanci v globální AI infrastruktuře."
       ],
-      "why_matters": "Čeští fotografové a střihači videa se brzy dočkají integrace nejlepších AI upscalerů přímo ve Photoshopu a Premiere Pro.",
-      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "why_matters": "Masivní globální investice do infrastruktury ovlivňují dostupnost a ceny cloudových AI služeb po celém světě.",
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
       "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "OpenAI představuje Appia Foundation pro tvorbu sdílených bezpečnostních standardů",
+      "title_orig": "Helping build shared standards for advanced AI",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI podpořila vznik nové nezávislé organizace Appia Foundation zaměřené na bezpečnost pokročilé AI.",
+        "Nadace bude pomáhat vyvíjet jednotné hodnotící rámce, bezpečnostní postupy a podporovat globální spolupráci.",
+        "Cílem je vytvořit standardy, které zajistí, že budoucí vysoce autonomní systémy budou bezpečné pro celou společnost."
+      ],
+      "why_matters": "Standardy vytvořené touto nadací budou pravděpodobně formovat budoucí evropskou i českou legislativu pro AI.",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Jak se chovají hybridní modely a které tokeny dokážou předpovídat lépe",
+      "title_orig": "Which tokens does a hybrid model predict better?",
+      "category": "labs",
+      "summary_cs": [
+        "Nový výzkum na blogu Hugging Face analyzuje výkon hybridních architektur kombinujících pozornost a stavové modely.",
+        "Studie detailně zkoumá, u jakých typů slov a kontextů vykazují tyto modely vyšší přesnost než čisté transformery.",
+        "Výsledky pomohou inženýrům lépe navrhovat efektivnější modely pro specifické úkoly, jako je zpracování dlouhých textů."
+      ],
+      "why_matters": "Pochopení hybridních modelů pomůže českým vývojářům stavět rychlejší a levnější aplikace s delším kontextem.",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "source": "Hugging Face Blog"
     }
   ]
 }
