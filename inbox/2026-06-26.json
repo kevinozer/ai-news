@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T04:00:43.187157+00:00",
+  "generated_at": "2026-06-26T08:02:54.950733+00:00",
   "date": "2026-06-26",
   "article_count_unique": 157,
   "article_count_raw": 157,
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,16 +164,28 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 0,
-      "raw_count": 13
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "59cd01c6de5b6261",
+      "title": "Radili jí, aby nevyčnívala. Dnes má rebelka z účtárny firmu a radí: Špatná práce s AI jen přidává bordel",
+      "url": "https://cc.cz/radili-ji-aby-nevycnivala-dnes-ma-rebelka-z-uctarny-firmu-a-radi-spatna-prace-s-ai-jen-pridava-bordel/",
+      "published_at": "2026-06-26T04:14:23+00:00",
+      "author": "Michaela Prešinská",
+      "summary_raw": "Před lety rozlepovala obálky, dnes mění české účetnictví. Marcela Lonková ukazuje firmám, jak používat moderní technologie – a má za to i cenu. Článek Radili jí, aby nevyčnívala. Dnes má rebelka z účtárny firmu a radí: Špatná práce s AI jen přidává bordel se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/lonkova-1-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "a4b146a640d4d7ac",
       "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
@@ -576,7 +588,7 @@
       "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
       "published_at": "2026-06-25T23:34:39+00:00",
       "author": "Lucas Ropek",
-      "summary_raw": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "summary_raw": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -1888,18 +1900,6 @@
       "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/2cf763f4-5f1e-47ec-b6e1-b14a69443d00_3182x1790.png",
       "source_id": "interconnects",
       "source_name": "Interconnects (Nathan Lambert)",
-      "category": "commentary"
-    },
-    {
-      "id": "cdb44a786699c52e",
-      "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
-      "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
-      "published_at": "2026-06-19T05:53:54+00:00",
-      "author": "",
-      "summary_raw": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!bxEo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96e55c58-9f9d-4573-af94-501283bf9161_814x636.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
       "category": "commentary"
     },
     {
