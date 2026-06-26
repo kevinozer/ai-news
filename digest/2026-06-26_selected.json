@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-26",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Bílý dům žádá OpenAI o odložení vydání modelu GPT-5.6 kvůli bezpečnosti",
+      "title_orig": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "category": "news",
+      "summary_cs": [
+        "Administrativa prezidenta Trumpa požádala společnost OpenAI, aby zpomalila veřejné vydání svého chystaného vlajkového modelu GPT-5.6.",
+        "Sam Altman potvrdil zaměstnancům, že model bude nejprve uvolněn pouze v omezeném náhledu pro vybrané partnery.",
+        "Tento krok ukazuje na rostoucí vliv vládních regulací a obav o národní bezpečnost na strategii předních AI laboratoří."
+      ],
+      "why_matters": "Ukazuje, jak zásadně začíná americká vláda zasahovat do plánovaného vydávání nejpokročilejších modelů.",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI aktualizuje GPT-5.5 Instant s lepším porozuměním záměru uživatele",
+      "title_orig": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent - and it's already in the API",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI v tichosti aktualizovala svůj nejrozšířenější bezplatný model GPT-5.5 Instant.",
+        "Nový model vykazuje výrazně lepší výsledky při plnění složitých zadání, nakupování a analýze záměru uživatele.",
+        "Aktualizovaná verze je již plně dostupná pro uživatele v rozhraní ChatGPT i vývojářům prostřednictvím API."
+      ],
+      "why_matters": "Bezplatná verze nejpopulárnějšího chatbota na světě získává okamžité a citelné vylepšení schopností.",
+      "url": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic obviňuje Alibabu z masivního útoku na dolování dat z modelu Claude",
+      "title_orig": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Anthropic obvinila čínského giganta Alibaba z organizování největšího útoku zaměřeného na klonování jejich modelu.",
+        "Alibaba údajně využila přes 25 tisíc účtů k získání téměř 29 milionů konverzačních výměn pro trénování vlastních systémů.",
+        "Tento incident vyostřuje technologické napětí mezi americkými vývojáři a čínskými korporacemi."
+      ],
+      "why_matters": "Incident odhaluje agresivní metody, kterými čínské firmy získávají špičková data pro své modely.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Petr Čech si vytvořil vlastní AI kopii pro firemní poradenství",
+      "title_orig": "Z brány přes vedení klubu až k umělé inteligenci. Petr Čech si vytvořil AI kopii, co radí, jak řídit firmu",
+      "category": "wildcard",
+      "summary_cs": [
+        "Legendární český fotbalový brankář Petr Čech představil své digitální alter ego vytvořené pomocí umělé inteligence.",
+        "Tento virtuální asistent má za úkol sdílet Čechovy bohaté zkušenosti z oblasti vedení týmů a sportovního managementu.",
+        "Projekt ukazuje nový směr personalizovaných AI asistentů postavených na reálných osobnostech v českém prostředí."
+      ],
+      "why_matters": "Známá česká osobnost přichází s vlastním praktickým využitím generativní AI pro firemní sféru.",
+      "url": "https://cc.cz/z-brany-pres-vedeni-klubu-az-k-umele-inteligenci-petr-cech-si-vytvoril-ai-kopii-co-radi-jak-ridit-firmu/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 5,
+      "title_cs": "IBM představuje první prototyp čipu s technologií pod jeden nanometr",
+      "title_orig": "IBM claims world’s first sub-1 nanometer chip technology",
+      "category": "news",
+      "summary_cs": [
+        "IBM odhalilo přelomovou technologii nanostack tranzistorů, která umožňuje překonat hranici jednoho nanometru.",
+        "Nový prototyp integruje přibližně 100 miliard tranzistorů na ploše o velikosti lidského nehtu.",
+        "Tento pokrok by mohl prodloužit platnost Mooreova zákona o další dekádu a dramaticky snížit energetickou náročnost."
+      ],
+      "why_matters": "Zásadní průlom v hardwaru, který může v budoucnu pohánět extrémně rychlé a úsporné AI servery.",
+      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Patronus AI získává 50 milionů dolarů na stresové testování AI agentů",
+      "title_orig": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "category": "business",
+      "summary_cs": [
+        "Startup Patronus AI, založený bývalými výzkumníky z Meta AI, získal masivní investici na vývoj testovacích prostředí.",
+        "Firma se zaměřuje na vytváření simulovaných digitálních světů, které prověřují spolehlivost a bezpečnost autonomních agentů.",
+        "Poptávka po těchto službách prudce roste s tím, jak firmy nasazují agenty do reálného provozu."
+      ],
+      "why_matters": "S přechodem k autonomním agentům se testování jejich bezpečnosti stává miliardovým byznysem.",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Liquid AI uvádí miniaturní model překonávající čtyřnásobně větší konkurenty",
+      "title_orig": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
+      "category": "open-source",
+      "summary_cs": [
+        "Společnost Liquid AI vydala svůj dosud nejmenší model LFM2.5-230M s pouhými 230 miliony parametrů.",
+        "V úlohách zaměřených na extrakci dat překonává modely, které jsou až čtyřikrát větší.",
+        "Díky své minimální velikosti je ideální pro lokální nasazení na chytrých telefonech, noteboocích či v robotice."
+      ],
+      "why_matters": "Ukazuje cestu k vysoce efektivní a levné umělé inteligenci běžící přímo na koncových zařízeních.",
+      "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Skryté funkce v aplikacích Google, které vám usnadní každodenní práci",
+      "title_orig": "Máte je k dispozici, ale nepoužíváte je. Tohle jsou nástroje, které vám radikálně zjednoduší práci s Googlem",
+      "category": "tools",
+      "summary_cs": [
+        "Google do svých běžných kancelářských aplikací integroval řadu pokročilých funkcí umělé inteligence.",
+        "Tyto nástroje zvládají rychlou analýzu rozsáhlých dokumentů, živé překlady i automatické psaní rutinních e-mailů.",
+        "Většina běžných uživatelů o těchto možnostech vůbec neví, přestože je mají plně k dispozici."
+      ],
+      "why_matters": "Praktický přehled funkcí, které mohou okamžitě zvýšit produktivitu v kancelářském prostředí.",
+      "url": "https://cc.cz/mate-je-k-dispozici-ale-nepouzivate-je-tohle-jsou-nastroje-ktere-vam-radikalne-zjednodusi-praci-s-googlem/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Vládní atestace jako nový model regulace autonomních AI systémů",
+      "title_orig": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+      "category": "research",
+      "summary_cs": [
+        "Nová vědecká studie navrhuje regulovat autonomní AI agenty na základě schvalování jejich konkrétních akcí.",
+        "Namísto neustálého sledování vnitřních procesů modelu by instituce vyžadovaly formální atestace pro citlivé úkony.",
+        "Tento přístup se inspiruje osvědčenými postupy z medicíny nebo letectví."
+      ],
+      "why_matters": "Přináší realistický a aplikovatelný pohled na to, jak bezpečně kontrolovat autonomní systémy.",
+      "url": "https://arxiv.org/abs/2606.26298",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Problém s ověřováním výsledků u pokročilých programovacích agentů",
+      "title_orig": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+      "category": "research",
+      "summary_cs": [
+        "Tradiční představa, že ověřit správnost kódu je snazší než ho napsat, u moderních AI agentů naráží na limity.",
+        "S rostoucí komplexností generovaných programů se proces automatické verifikace stává kritickým úzkým hrdlem.",
+        "Studie varuje, že bez lepších metod hodnocení nelze plně garantovat bezpečnost autonomně psaného softwaru."
+      ],
+      "why_matters": "Upozorňuje na zásadní technickou překážku při plném nasazení AI do vývoje softwaru.",
+      "url": "https://arxiv.org/abs/2606.26300",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Spuštění vLLM serveru na Hugging Face jedním příkazem",
+      "title_orig": "Run a vLLM Server on HF Jobs in One Command",
+      "category": "tools",
+      "summary_cs": [
+        "Hugging Face zjednodušuje nasazení open-source modelů pomocí integrace populární knihovny vLLM.",
+        "Vývojáři nyní mohou spustit vysoce optimalizovaný inferenční server v rámci HF Jobs pomocí jediného příkazu.",
+        "Tato novinka výrazně snižuje technickou bariéru pro provozování vlastních AI modelů v cloudu."
+      ],
+      "why_matters": "Zjednodušuje a zlevňuje vývojářům nasazování vlastních nezávislých AI řešení.",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Interference instrukcí v systémech složených z více promptů",
+      "title_orig": "Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci popsali nový typ selhání u komplexních AI systémů složených z více promptů.",
+        "Úprava jednoho promptu může nečekaně a skrytě ovlivnit chování ostatních modulů bez zjevné závislosti.",
+        "Tento fenomén, nazvaný průsak instrukcí, komplikuje ladění a údržbu pokročilých agentických aplikací."
+      ],
+      "why_matters": "Pomáhá vývojářům pochopit a předcházet záhadným chybám při stavbě složitějších AI aplikací.",
+      "url": "https://arxiv.org/abs/2606.26356",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Notion ruší e-mailovou aplikaci a sází plně na AI agenty",
+      "title_orig": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Notion ukončuje vývoj své chystané e-mailové aplikace inspirované akvizicí služby Skiff.",
+        "Důvodem je změna chování uživatelů, kteří pro správu svých schránek stále častěji využívají AI agenty.",
+        "Firma se rozhodla přesunout veškeré kapacity na integraci agentických funkcí přímo do svého hlavního ekosystému."
+      ],
+      "why_matters": "Jasný signál, jak umělá inteligence mění design a účel tradičních produktivních nástrojů.",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Britská policie narazila s nasazením systému na předpovídání zločinu",
+      "title_orig": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
+      "category": "wildcard",
+      "summary_cs": [
+        "Vyšetřování odhalilo vážné nedostatky v prediktivním systému, který používala britská policie k předcházení kriminalitě.",
+        "Ukázalo se, že data generovaná strojem byla v mnoha případech nespolehlivá a zatížená systémovými chybami.",
+        "Případ vyvolává nové otázky ohledně etiky a přesnosti nasazování AI v bezpečnostních složkách."
+      ],
+      "why_matters": "Důležité varování před nekritickým spoléháním na AI v citlivých oblastech státní správy.",
+      "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Odpovědnost za chyby AI podle německého soudu nese provozovatel",
+      "title_orig": "AI and Liability",
+      "category": "news",
+      "summary_cs": [
+        "Německý soud rozhodl, že společnost Google je plně odpovědná za faktické chyby vygenerované v jejích AI přehledech.",
+        "Rozhodnutí potvrzuje princip, že AI agenti jsou právně považováni za zástupce organizace, která je provozuje.",
+        "Tento precedent může zásadně ovlivnit ochotu technologických firem plošně nasazovat generativní funkce."
+      ],
+      "why_matters": "Klíčový evropský právní precedent definující odpovědnost za halucinace a chyby umělé inteligence.",
+      "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
