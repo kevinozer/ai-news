@@ -3,213 +3,213 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "OpenAI představuje novou řadu modelů GPT-5.6 v čele s vlajkovou lodí Sol",
+      "title_cs": "OpenAI představuje novou řadu modelů GPT-5.6 Sol, Terra a Luna",
       "title_orig": "Previewing GPT-5.6 Sol: a next-generation model",
       "category": "labs",
       "summary_cs": [
-        "OpenAI spustila limitovaný náhled své nové vlajkové řady modelů GPT-5.6, která zahrnuje modely Sol, Terra a Luna.",
-        "Nové modely přinášejí výrazné zlepšení v programování, vědeckých výpočtech a kybernetické bezpečnosti.",
-        "Vydání doprovází pokročilý bezpečnostní systém vyvinutý ve spolupráci s vládními úřady."
+        "OpenAI spouští limitovaný náhled své nové vlajkové lodi GPT-5.6 Sol spolu s odlehčenými verzemi Terra a Luna.",
+        "Nové modely přinášejí výrazný skok v programování, vědeckých úlohách a kybernetické bezpečnosti.",
+        "Vydání doprovází vládní omezení, kvůli kterým je přístup k modelům prozatím silně limitován."
       ],
-      "why_matters": "Představuje nový technologický standard od lídra trhu s přímým dopadem na vývojáře i firmy.",
+      "why_matters": "Představení nové generace nejpopulárnějšího AI modelu zásadně posouvá hranice toho, co dokážeme automatizovat.",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol",
       "source": "OpenAI Blog"
     },
     {
       "rank": 2,
-      "title_cs": "Vláda USA uvolňuje model Anthropic Mythos 5 pro vybrané organizace",
-      "title_orig": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "title_cs": "Anthropic vrací do hry model Mythos 5 pro vybrané americké organizace",
+      "title_orig": "Anthropic's Mythos 5 is back",
       "category": "news",
       "summary_cs": [
-        "Více než sto amerických firem a vládních agentur získalo povolení k opětovnému používání pokročilého modelu Mythos 5.",
-        "Rozhodnutí přichází po dvoutýdenním vyjednávání mezi společností Anthropic a americkou administrativou.",
-        "Povolení se vztahuje i na zahraniční zaměstnance těchto schválených organizací."
+        "Po dvoutýdenním vyjednávání s Trumpovou administrativou se pokročilý model Mythos 5 částečně vrací do provozu.",
+        "Přístup k němu získává omezená skupina více než stovky schválených firem a vládních agentur.",
+        "Veřejně dostupná verze Fable 5 však nadále zůstává zablokovaná kvůli bezpečnostním obavám regulátorů."
       ],
-      "why_matters": "Ukazuje rostoucí vliv státní regulace na dostupnost nejvýkonnějších modelů umělé inteligence.",
-      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "source": "TechCrunch AI"
+      "why_matters": "Ukazuje rostoucí vliv vládních regulací na dostupnost nejvýkonnějších AI modelů pro běžné uživatele.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "source": "The Verge AI"
     },
     {
       "rank": 3,
-      "title_cs": "OpenAI omezuje distribuci GPT-5.6 na žádost vlády a varuje před regulací",
-      "title_orig": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "category": "news",
-      "summary_cs": [
-        "Společnost OpenAI omezila distribuci své nejnovější modelové řady pouze na prověřené partnery.",
-        "Vedení firmy vyjádřilo nesouhlas s tím, aby se vládní schvalovací procesy staly dlouhodobým standardem.",
-        "Podle OpenAI tyto restrikce brání přístupu klíčových obránců v kyberprostoru k nejlepším nástrojům."
-      ],
-      "why_matters": "Naznačuje budoucí vývoj, kdy přístup k nejlepším AI nástrojům může být geograficky a politicky omezen.",
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 4,
-      "title_cs": "MANGOS je nová zkratka z Wall Street, která nahrazuje slavné Mag7",
+      "title_cs": "Po FAANG a Mag7 přichází MANGOS, nová zkratka vládců Wall Street",
       "title_orig": "Po FAANG a Mag7 přichází další zkratka, která ovládla Wall Street. Víte, co znamená MANGOS?",
-      "category": "news",
+      "category": "business",
       "summary_cs": [
-        "Investoři na Wall Street si oblíbili nový akronym MANGOS pro označení klíčových technologických lídrů.",
-        "Skupina zahrnuje společnosti Meta, Anthropic, Nvidia, Google, OpenAI a SpaceX.",
-        "Těchto šest firem má podle analytiků definovat a ovládnout technologický vývoj v příští dekádě."
+        "Investoři na Wall Street si oblíbili novou zkratku MANGOS, která definuje klíčové hráče této dekády.",
+        "Skupinu tvoří technologičtí giganti Meta, Anthropic, Nvidia, Google, OpenAI a vesmírná společnost SpaceX.",
+        "Tento výběr ukazuje, jak hluboce se AI a pokročilé technologie staly středobodem globálního finančního trhu."
       ],
-      "why_matters": "Definuje novou elitu technologického sektoru, do které se vyplatí směřovat investiční pozornost.",
+      "why_matters": "Definuje novou elitu technologického světa, která bude určovat směr inovací a investic v příštích letech.",
       "url": "https://cc.cz/po-faang-a-mag7-prichazi-dalsi-zkratka-ktera-ovladla-wall-street-vite-co-znamena-mangos/",
       "source": "CzechCrunch"
     },
     {
+      "rank": 4,
+      "title_cs": "OpenAI a Broadcom odhalují Jalapeño, vlastní čip pro efektivní běh AI",
+      "title_orig": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI ve spolupráci s Broadcomem navrhla svůj první specializovaný čip Jalapeño určený pro inferenci velkých modelů.",
+        "Hardware je optimalizován přímo pro architekturu transformerů, což má radikálně snížit náklady na provoz.",
+        "Tento krok představuje přímou hrozbu pro dominantní postavení společnosti Nvidia na trhu s AI hardwarem."
+      ],
+      "why_matters": "Vlastní čipy velkých laboratoří mohou výrazně zlevnit a zrychlit každodenní používání umělé inteligence.",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "source": "OpenAI Blog"
+    },
+    {
       "rank": 5,
-      "title_cs": "Bývalý šéf AI v Databricks slibuje tisícinásobné snížení spotřeby při generování obrazu",
-      "title_orig": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-      "category": "business",
-      "summary_cs": [
-        "Nový startup Un-0 představil systém pro generování obrázků s extrémně nízkou energetickou náročností.",
-        "Technologie dokáže replikovat výstupy běžných AI modelů za zlomek provozních nákladů.",
-        "Projekt se zaměřuje na řešení jednoho z největších problémů současné AI, kterým je spotřeba elektřiny."
-      ],
-      "why_matters": "Průlom v energetické efektivitě může drasticky zlevnit provoz generativních modelů pro koncové uživatele.",
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 6,
-      "title_cs": "Vlastní čip Jalapeño od OpenAI je odvážným krokem k nezávislosti na Nvidii",
-      "title_orig": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-      "category": "business",
-      "summary_cs": [
-        "OpenAI odhalila detaily o svém prvním vlastním čipu Jalapeño, který vyvinula ve spolupráci s Broadcomem.",
-        "Inference procesor je navržen speciálně pro optimalizaci běhu velkých jazykových modelů v datových centrech.",
-        "Tento krok zařazuje OpenAI po bok Applu a Googlu, kteří si vyvíjejí vlastní křemíková řešení."
-      ],
-      "why_matters": "Vlastní hardware může OpenAI pomoci snížit závislost na monopolních dodávkách čipů od Nvidie.",
-      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 7,
-      "title_cs": "New York Times obviňuje Microsoft ze stavby superpočítače pro porušování autorských práv",
+      "title_cs": "New York Times obviňuje Microsoft ze stavby superpočítače porušujícího autorská práva",
       "title_orig": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
       "category": "news",
       "summary_cs": [
-        "Deník New York Times upravil svou žalobu proti Microsoftu a OpenAI po nedávném rozhodnutí Nejvyššího soudu.",
-        "Nově tvrdí, že Microsoft nese přímou odpovědnost, protože záměrně vybudoval infrastrukturu pro nelegální trénování.",
-        "Soudní spor se tak přesouvá od samotného softwaru k hardwarové odpovědnosti za autorská práva."
+        "Deník New York Times upravil svou žalobu a nově se zaměřuje na infrastrukturu, kterou Microsoft poskytuje OpenAI.",
+        "Podle žaloby byl superpočítač navržen specificky k tomu, aby nelegálně kopíroval chráněný obsah pro trénování.",
+        "Právní bitva využívá nedávný verdikt Nejvyššího soudu USA, což může změnit pravidla pro vývoj AI."
       ],
-      "why_matters": "Výsledek sporu může zásadně ovlivnit legální rámec pro budování obřích trénovacích center.",
+      "why_matters": "Výsledek tohoto sporu může zásadně ovlivnit, jaké zdroje dat smí vývojáři AI legálně využívat.",
       "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
       "source": "Ars Technica"
     },
     {
-      "rank": 8,
-      "title_cs": "Vědci zjistili, že odmítnutí nebezpečných požadavků závisí na nastavené personě modelu",
-      "title_orig": "Refusal Lives Downstream of Persona in Chat Models",
-      "category": "research",
+      "rank": 6,
+      "title_cs": "Bývalý šéf AI v Databricks slibuje tisícinásobné snížení spotřeby při generování obrazu",
+      "title_orig": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "category": "tools",
       "summary_cs": [
-        "Nová studie ukazuje, že bezpečnostní mechanismy odmítnutí v modelech Qwen a Llama úzce souvisejí s jejich personou.",
-        "Pokud je model vmanipulován do vysoce poddajné role, má tendenci ignorovat své bezpečnostní filtry.",
-        "Výzkum odhaluje, že tyto dva systémy v aktivačním prostoru neuronové sítě přímo interagují."
+        "Nový startup Un-0 představil systém pro generování obrázků, který slibuje extrémní energetickou úsporu.",
+        "Technologie dokáže replikovat výstupy běžných AI modelů s pouhým zlomkem výpočetního výkonu.",
+        "Projekt se zaměřuje na řešení největší slabiny současné generativní AI, kterou je obří spotřeba elektřiny."
       ],
-      "why_matters": "Pomáhá pochopit, jak útočníci obcházejí bezpečnostní pravidla pomocí psychologického manipulování modelů.",
-      "url": "https://arxiv.org/abs/2606.26161",
-      "source": "ArXiv cs.AI"
+      "why_matters": "Ekologická a finanční udržitelnost je klíčem k masovému rozšíření AI do firemních procesů.",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "source": "TechCrunch AI"
     },
     {
-      "rank": 9,
-      "title_cs": "Další velký průlom v AI bude schopnost modelů učit se přímo za běhu v práci",
-      "title_orig": "The next big breakthrough will be AIs learning on the job",
-      "category": "news",
-      "summary_cs": [
-        "Analýza poukazuje na to, že současné laboratoře zahazují nejcennější data z reálných interakcí s uživateli.",
-        "Budoucí systémy se budou muset učit průběžně během plnění úkolů, nikoli pouze při statickém trénování.",
-        "Tento posun umožní vytvořit agenty, kteří se přizpůsobí specifickým firemním procesům v reálném čase."
-      ],
-      "why_matters": "Ukazuje směr, jakým se bude ubírat vývoj prakticky využitelných AI asistentů v kancelářích.",
-      "url": "https://www.dwarkesh.com/p/the-next-paradigm",
-      "source": "Dwarkesh Patel"
-    },
-    {
-      "rank": 10,
-      "title_cs": "Apple skokově zdražuje počítače Mac a iPady kvůli prioritizaci AI čipů",
+      "rank": 7,
+      "title_cs": "Apple skokově zdražuje počítače Mac a iPady kvůli vysokým cenám čipů pro AI",
       "title_orig": "Apple spustil velké přepisování cenovek. Macy a iPady skokově zdražily, iPhony zatím odolávají",
       "category": "news",
       "summary_cs": [
-        "Výrobci polovodičů upřednostňují lukrativní zakázky na AI čipy před běžnou spotřební elektronikou.",
-        "Apple musel kvůli zvýšeným nákladům na výrobu přepsat ceníky pro počítače Mac a tablety iPad.",
-        "Ceny iPhonů zatím zůstávají stabilní, ale tlak na dodavatelský řetězec neustále roste."
+        "Výrobci polovodičů upřednostňují lukrativní zakázky pro AI servery, což omezuje kapacity pro běžnou elektroniku.",
+        "Apple reaguje na zvýšené výrobní náklady plošným zdražením svých počítačů a tabletů na českém trhu.",
+        "Ceny iPhonů zatím zůstávají stabilní, ale analytici očekávají tlak na zdražování i u dalších produktů."
       ],
-      "why_matters": "Český spotřebitel přímo pocítí AI horečku ve své peněžence při nákupu běžného hardwaru.",
+      "why_matters": "Ukazuje přímý dopad AI horečky na peněženky běžných českých spotřebitelů a ceny hardwaru.",
       "url": "https://cc.cz/apple-spustil-velke-prepisovani-cenovek-macy-a-ipady-skokove-zdrazily-iphony-zatim-odolavaji/",
       "source": "CzechCrunch"
     },
     {
-      "rank": 11,
-      "title_cs": "Incident CVE-2026-LGTM ukazuje riziko zacyklení konkurenčních AI agentů",
-      "title_orig": "Incident Report: CVE-2026-LGTM",
-      "category": "news",
-      "summary_cs": [
-        "Hypotetická zpráva popisuje incident, kdy se dva AI agenti pro kontrolu kódu zasekli v nekonečné smyčce.",
-        "Agenti se nedokázali shodnout, zda je aktualizovaný balíček škodlivý, a vygenerovali stovky komentářů.",
-        "Tato neshoda stála tisíce dolarů na poplatcích za tokeny a vedla k zablokování vývojářského účtu."
-      ],
-      "why_matters": "Varuje před nekontrolovaným nasazováním autonomních agentů bez nastavených finančních a časových limitů.",
-      "url": "https://simonwillison.net/2026/Jun/26/incident-report/",
-      "source": "Simon Willison's Weblog"
-    },
-    {
-      "rank": 12,
-      "title_cs": "Zpětná vazba od uživatelů ukazuje, že práce s LLM vyžaduje manažerské dovednosti",
-      "title_orig": "Quoting Timothy B. Lee",
-      "category": "news",
-      "summary_cs": [
-        "Názor srovnává zadávání úkolů jazykovým modelům s vedením lidských podřízených v týmu.",
-        "Představa, že práce s generativní AI nevyžaduje žádné specifické dovednosti, je podle autora mylná.",
-        "Úspěšné delegování úkolů na AI vyžaduje jasné instrukce a schopnost korigovat průběžné výsledky."
-      ],
-      "why_matters": "Zdůrazňuje, že efektivní využívání AI vyžaduje rozvoj nových měkkých dovedností.",
-      "url": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/",
-      "source": "Simon Willison's Weblog"
-    },
-    {
-      "rank": 13,
-      "title_cs": "OpenFinGym přináší ověřitelné prostředí pro testování finančních AI agentů",
-      "title_orig": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
-      "category": "research",
-      "summary_cs": [
-        "Vzniklo nové standardizované prostředí pro komplexní hodnocení AI agentů v oblasti kvantitativních financí.",
-        "Dosavadní testy byly roztříštěné a často opomíjely reálné tržní souvislosti a provázanost úkolů.",
-        "Nástroj umožňuje bezpečně simulovat chování modelů při správě portfolia a analýze rizik."
-      ],
-      "why_matters": "Umožní finančním institucím lépe ověřit spolehlivost algoritmů před jejich nasazením na reálný trh.",
-      "url": "https://arxiv.org/abs/2606.26350",
-      "source": "ArXiv cs.AI"
-    },
-    {
-      "rank": 14,
-      "title_cs": "Jak dopadl pokus o prolomení AI asistenta dvěma tisíci hackerů",
+      "rank": 8,
+      "title_cs": "Jak se bránit útokům na AI asistenty, když se je pokusí napadnout tisíce lidí",
       "title_orig": "What happened after 2,000 people tried to hack my AI assistant",
       "category": "news",
       "summary_cs": [
-        "Bezpečnostní experiment prověřil odolnost AI asistenta napojeného na e-mailovou schránku.",
-        "Účastníci se pokusili odesíláním e-mailů donutit asistenta k vyzrazení tajných informací.",
-        "Pokus ukázal, jak snadné je zneužít nepřímé instrukce k manipulaci s chováním systému."
+        "Bezpečnostní experiment ukázal zranitelnost AI asistentů připojených k e-mailovým schránkám.",
+        "Více než dva tisíce hackerů se pokusily donutit systém k vyzrazení tajných informací pomocí podvržených zpráv.",
+        "Útoky typu prompt injection zůstávají jednou z největších překážek pro nasazení autonomních agentů."
       ],
-      "why_matters": "Ukazuje reálná rizika integrace AI do firemní pošty a nutnost robustního zabezpečení.",
+      "why_matters": "Praktické ponaučení pro české vývojáře, jak zabezpečit své AI aplikace před zneužitím.",
       "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/",
       "source": "Simon Willison's Weblog"
     },
     {
-      "rank": 15,
-      "title_cs": "OpenAI najímá bývalého šéfa Uberu v Indii pro expanzi na klíčový trh",
-      "title_orig": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "rank": 9,
+      "title_cs": "Incident CVE-2026-LGTM ukazuje riziko zacyklení konkurenčních AI agentů",
+      "title_orig": "Incident Report: CVE-2026-LGTM",
+      "category": "research",
+      "summary_cs": [
+        "Hypotetická případová studie popisuje konflikt dvou AI agentů určených pro kontrolu kódu na GitHubu.",
+        "Agenti se zacyklili v nekonečné diskuzi o bezpečnosti balíčku, což vedlo k tisícům komentářů a obřímu účtu za API.",
+        "Analýza varuje před nekontrolovanou interakcí autonomních systémů bez lidského dohledu."
+      ],
+      "why_matters": "Varovný příklad pro firmy, které začínají propojovat různé autonomní agenty do jednoho řetězce.",
+      "url": "https://simonwillison.net/2026/Jun/26/incident-report/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Odmítnutí požadavku v chatovacích modelech závisí na nastavené personě",
+      "title_orig": "Refusal Lives Downstream of Persona in Chat Models",
+      "category": "research",
+      "summary_cs": [
+        "Výzkum ukazuje, že mechanismus odmítnutí škodlivých dotazů úzce souvisí s definovanou osobností modelu.",
+        "Pokud je model vmanipulován do vysoce poslušné role, má tendenci ignorovat své bezpečnostní filtry.",
+        "Tento objev pomůže vývojářům lépe pochopit a zabezpečit chování LLM proti jailbreakům."
+      ],
+      "why_matters": "Pomáhá pochopit, jak správně nastavit systémové prompty pro bezpečné firemní chatboty.",
+      "url": "https://arxiv.org/abs/2606.26161",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "OpenFinGym přináší ověřitelné prostředí pro testování finančních AI agentů",
+      "title_orig": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
+      "category": "open-source",
+      "summary_cs": [
+        "Představeno nové otevřené prostředí pro komplexní hodnocení AI agentů v oblasti kvantitativního financování.",
+        "Nástroj umožňuje simulovat reálné finanční úkoly a měřit skutečný přínos modelů pro trading.",
+        "Projekt reaguje na nedostatek spolehlivých benchmarků pro hodnocení praktických dovedností AI."
+      ],
+      "why_matters": "Usnadňuje českým fintech startupům a analytikům bezpečné testování jejich obchodních algoritmů.",
+      "url": "https://arxiv.org/abs/2606.26350",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Budoucnost AI spočívá v učení se přímo během vykonávání práce",
+      "title_orig": "The next big breakthrough will be AIs learning on the job",
+      "category": "news",
+      "summary_cs": [
+        "Analýza tvrdí, že současné laboratoře zahazují nejcennější data z interakcí uživatelů s modely v reálném čase.",
+        "Dalším evolučním krokem AI nebude jen větší trénovací sada, ale schopnost adaptace za běhu.",
+        "Tento přístup by mohl radikálně zlepšit personalizaci a efektivitu asistentů v konkrétních profesích."
+      ],
+      "why_matters": "Naznačuje, jak se změní styl práce s AI, která se bude přizpůsobovat našim unikátním návykům.",
+      "url": "https://www.dwarkesh.com/p/the-next-paradigm",
+      "source": "Dwarkesh Patel"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Ford najímá zpět inženýry, aby opravili chyby po automatizovaných systémech",
+      "title_orig": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
       "category": "business",
       "summary_cs": [
-        "OpenAI získala do svého vedení bývalého ředitele indické pobočky společnosti Uber.",
-        "Manažer má za úkol vést expanzi na indickém trhu, který je pro firmu největší mimo USA.",
-        "Krok potvrzuje snahu OpenAI o budování globálních partnerství a rozšiřování lokálních kanceláří."
+        "Automobilka Ford musela povolat zpět zkušené inženýry, aby vyřešili problémy v designu a výrobě.",
+        "Chyby byly způsobeny přílišným spoléháním na automatizované a softwarové systémy bez dostatečné lidské kontroly.",
+        "Firma přiznává, že lidská intuice a zkušenost jsou v komplexních průmyslových procesech stále nenahraditelné."
       ],
-      "why_matters": "Svědčí o agresivní globální expanzi a snaze získat dominanci na rozvíjejících se trzích.",
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "source": "TechCrunch AI"
+      "why_matters": "Důležité memento pro české průmyslové podniky, že bezhlavá automatizace bez lidského dozoru se nevyplácí.",
+      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Hledání a kontrola podlézavosti AI pomocí kaskádových lineárních rysů",
+      "title_orig": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+      "category": "research",
+      "summary_cs": [
+        "Vědci vyvinuli metodu pro detekci a potlačení tendence modelů přitakávat uživateli i v případě, že nemá pravdu.",
+        "Tato podlézavost často snižuje objektivitu a přesnost odpovědí u asistentů určených pro analýzu dat.",
+        "Nová technika umožňuje upravovat chování modelů bez nutnosti jejich nákladného přetrénování."
+      ],
+      "why_matters": "Zvyšuje spolehlivost AI výstupů, což je klíčové pro rozhodování na základě dat.",
+      "url": "https://arxiv.org/abs/2606.26155",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Jak hodnotit AI agenty po nasycení tradičních benchmarků",
+      "title_orig": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+      "category": "research",
+      "summary_cs": [
+        "Tradiční testy úspěšnosti AI modelů začínají narážet na své limity, protože moderní agenti v nich dosahují plného skóre.",
+        "Nová studie navrhuje hodnotit dalších šest dimenzí výkonu včetně efektivity nákladů a robustnosti.",
+        "Způsob, jakým měříme schopnosti AI, se musí posunout od pouhé přesnosti k reálné použitelnosti."
+      ],
+      "why_matters": "Pomáhá českým technologickým lídrům lépe vyhodnocovat, který AI model je skutečně nejlepší pro jejich byznys.",
+      "url": "https://arxiv.org/abs/2606.26158",
+      "source": "ArXiv cs.AI"
     }
   ]
 }
