@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T04:01:03.538421+00:00",
+  "generated_at": "2026-06-27T07:27:01.150228+00:00",
   "date": "2026-06-27",
   "article_count_unique": 136,
   "article_count_raw": 136,
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,16 +164,40 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 0,
-      "raw_count": 10
+      "raw_count": 8
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 5,
+      "count": 4,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "888937570ae0b337",
+      "title": "Po FAANG a Mag7 přichází další zkratka, která ovládla Wall Street. Víte, co znamená MANGOS?",
+      "url": "https://cc.cz/po-faang-a-mag7-prichazi-dalsi-zkratka-ktera-ovladla-wall-street-vite-co-znamena-mangos/",
+      "published_at": "2026-06-27T07:01:24+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Meta, Anthropic, Nvidia, Google, OpenAI a SpaceX. Šestice, která má ovládnout dekádu, vytvořila exotické ovoce. A do něj se zamiloval Wall Street. Článek Po FAANG a Mag7 přichází další zkratka, která ovládla Wall Street. Víte, co znamená MANGOS? se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/mangos-mvp-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "8f0b3d19e46df01a",
+      "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
+      "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
+      "published_at": "2026-06-27T05:23:22+00:00",
+      "author": "Latent.Space",
+      "summary_raw": "Oddly tiered releases to both OAI and ANT on the same day.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!xf8R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2899dbdf-7aed-499f-92b9-63cc194a604e_1328x932.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
     {
       "id": "a4b146a640d4d7ac",
       "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
@@ -871,18 +895,6 @@
       "category": "cz"
     },
     {
-      "id": "59cd01c6de5b6261",
-      "title": "Radili jí, aby nevyčnívala. Dnes má rebelka z účtárny firmu a radí: Špatná práce s AI jen přidává bordel",
-      "url": "https://cc.cz/radili-ji-aby-nevycnivala-dnes-ma-rebelka-z-uctarny-firmu-a-radi-spatna-prace-s-ai-jen-pridava-bordel/",
-      "published_at": "2026-06-26T04:14:23+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Před lety rozlepovala obálky, dnes mění české účetnictví. Marcela Lonková ukazuje firmám, jak používat moderní technologie – a má za to i cenu. Článek Radili jí, aby nevyčnívala. Dnes má rebelka z účtárny firmu a radí: Špatná práce s AI jen přidává bordel se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/lonkova-1-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "1e5acafabb171005",
       "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
       "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
@@ -1181,18 +1193,6 @@
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
       "category": "news"
-    },
-    {
-      "id": "ef83e6d9d1f63fc4",
-      "title": "Máte je k dispozici, ale nepoužíváte je. Tohle jsou nástroje, které vám radikálně zjednoduší práci s Googlem",
-      "url": "https://cc.cz/mate-je-k-dispozici-ale-nepouzivate-je-tohle-jsou-nastroje-ktere-vam-radikalne-zjednodusi-praci-s-googlem/",
-      "published_at": "2026-06-25T14:19:25+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Google v tichosti přidal do svých aplikací AI funkce, o kterých většina lidí vůbec neví. Zvládnou analýzu dokumentů, živé překlady i rutinní maily. Článek Máte je k dispozici, ale nepoužíváte je. Tohle jsou nástroje, které vám radikálně zjednoduší práci s Googlem se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/google-xyz-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "23de882d37ec6332",
