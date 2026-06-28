@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-28T04:00:44.420717+00:00",
+  "generated_at": "2026-06-28T07:57:36.269951+00:00",
   "date": "2026-06-28",
-  "article_count_unique": 97,
-  "article_count_raw": 97,
+  "article_count_unique": 96,
+  "article_count_raw": 96,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -164,12 +164,12 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 0,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "raw_count": 10
     }
   ],
@@ -785,18 +785,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "4a5b353b9b2db247",
-      "title": "Apple spustil velké přepisování cenovek. Macy a iPady skokově zdražily, iPhony zatím odolávají",
-      "url": "https://cc.cz/apple-spustil-velke-prepisovani-cenovek-macy-a-ipady-skokove-zdrazily-iphony-zatim-odolavaji/",
-      "published_at": "2026-06-26T09:02:37+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Výrobci čipů dávají přednost zakázkám pro AI firmy. Aby si Apple udržel své zisky a spokojené investory, musel zvýšené náklady přenést na zákazníky. Článek Apple spustil velké přepisování cenovek. Macy a iPady skokově zdražily, iPhony zatím odolávají se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/apple-mvp-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "680d1e683a08f386",
