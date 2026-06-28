@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-28",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic představuje Claude Code a mění roli produktových manažerů",
+      "title_orig": "Claude Code turned every engineer into three. Now companies need more product thinkers",
+      "category": "tools",
+      "summary_cs": [
+        "Nový nástroj Claude Code od Anthropicu dramaticky zvyšuje produktivitu vývojářů a efektivně trojnásobí jejich pracovní kapacitu.",
+        "Firma kvůli tomu mění náborovou strategii a namísto dalších programátorů hledá více produktových manažerů.",
+        "Hlavním úzkým hrdlem vývoje se stává samotné vymýšlení a definování produktů, nikoliv psaní samotného kódu."
+      ],
+      "why_matters": "Ukazuje, jak AI nástroje pro programování mění strukturu firemních týmů a zvyšují nároky na produktové myšlení.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Bílý dům uvolňuje model Anthropic Mythos pro vybrané americké organizace",
+      "title_orig": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "category": "news",
+      "summary_cs": [
+        "Vláda USA povolila používání pokročilého modelu Mythos 5 pro více než stovku vybraných firem a vládních úřadů.",
+        "Povolení se vztahuje i na zahraniční zaměstnance těchto schválených organizací.",
+        "Krok přichází po intenzivních vyjednáváních mezi technologickými lídry a vládními představiteli ve Washingtonu."
+      ],
+      "why_matters": "Ilustruje rostoucí vliv státní regulace na distribuci nejvýkonnějších modelů umělé inteligence.",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI reaguje na vládní omezení distribuce modelů řady GPT-5.6",
+      "title_orig": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "category": "news",
+      "summary_cs": [
+        "OpenAI omezila spuštění své nové modelové řady GPT-5.6 na základě přímé žádosti americké vlády.",
+        "Vedení společnosti varuje, že podobné restrikce by se neměly stát dlouhodobým standardem v odvětví.",
+        "Omezení podle firmy brání v přístupu k nejlepším nástrojům vývojářům, podnikům i expertům na kybernetickou bezpečnost."
+      ],
+      "why_matters": "Potvrzuje novou éru, kdy jsou špičkové AI modely vnímány jako strategická národní infrastruktura.",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Zahraniční konkurence reaguje na americké exportní zákazy vlastními modely",
+      "title_orig": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "category": "business",
+      "summary_cs": [
+        "Asijské startupy začínají uvádět na trh modely s parametry podobnými americkému systému Mythos.",
+        "Reagují tak na vleklé exportní restrikce ze strany Spojených států, které omezují přístup k tamním technologiím.",
+        "Analytici varují, že americké laboratoře mohou kvůli těmto regulacím trvale ztratit klíčové globální trhy."
+      ],
+      "why_matters": "Ukazuje, jak geopolitická omezení urychlují vývoj konkurenčních AI technologií mimo USA.",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Viceprezident Apple Vision Pro odchází do hardwarové divize OpenAI",
+      "title_orig": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "category": "business",
+      "summary_cs": [
+        "Paul Meade, který v Applu vedl vývoj headsetu Vision Pro, odchází ze své pozice.",
+        "Podle dostupných informací se připojí k hardwarovému týmu společnosti OpenAI.",
+        "Tento přestup naznačuje, že OpenAI nadále posiluje své ambice v oblasti vlastního fyzického hardwaru."
+      ],
+      "why_matters": "Naznačuje, že OpenAI stále intenzivně pracuje na integraci AI do vlastních hardwarových zařízení.",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Vlastní čip Jalapeño od OpenAI představuje konkurenci pro Nvidia",
+      "title_orig": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+      "category": "news",
+      "summary_cs": [
+        "OpenAI představila plány na vlastní inferenční čip Jalapeño, který vyvíjí ve spolupráci s firmou Broadcom.",
+        "Tímto krokem se připojuje k dalším technologickým gigantům, kteří se snaží snížit závislost na hardwaru od Nvidia.",
+        "Vlastní křemík má OpenAI přinést vyšší efektivitu a nižší provozní náklady při běhu velkých modelů."
+      ],
+      "why_matters": "Vlastní čipy mohou výrazně zlevnit provoz AI služeb pro koncové zákazníky.",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Evropa usiluje o vlastní nezávislé AI modely kvůli politickým změnám v USA",
+      "title_orig": "Europe Is Fed Up and Wants Its Own AI",
+      "category": "news",
+      "summary_cs": [
+        "Evropští představitelé vyjadřují rostoucí nespokojenost se závislostí na amerických poskytovatelích AI technologií.",
+        "Snaha o vybudování vlastních špičkových modelů získává novou dynamiku v reakci na politiku Donalda Trumpa.",
+        "Ačkoliv je vývoj finančně náročný, Evropa chce posílit svou technologickou suverenitu a bezpečnost."
+      ],
+      "why_matters": "Evropská nezávislost v oblasti AI může zásadně ovlivnit regulaci a dostupnost nástrojů v ČR.",
+      "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Jak zakladatel startupu využil Claude k personalizované léčbě rakoviny",
+      "title_orig": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "category": "wildcard",
+      "summary_cs": [
+        "Connor Christou po diagnostikování rakoviny nahrál veškerá svá zdravotní data a výsledky vyšetření do modelu Claude.",
+        "AI mu pomohla analyzovat krevní obrazy, výstupy z nositelné elektroniky i lékařské zprávy v reálném čase.",
+        "Tento přístup mu umožnil lépe porozumět průběhu léčby a aktivně reagovat na reakce svého těla."
+      ],
+      "why_matters": "Demonstruje praktické využití pokročilých LLM jako osobního asistenta při analýze komplexních zdravotních dat.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "OpenAI najímá bývalého šéfa Uber India pro expanzi na asijském trhu",
+      "title_orig": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "category": "business",
+      "summary_cs": [
+        "OpenAI získala do svých řad bývalého šéfa indické pobočky Uberu, který povede její tamní aktivity.",
+        "Indie představuje pro OpenAI největší uživatelský trh mimo území Spojených států.",
+        "Nová personální posila má pomoci s rozvojem partnerství, otevíráním kanceláří a lokálním náborem."
+      ],
+      "why_matters": "Potvrzuje masivní globální expanzi OpenAI na rozvíjející se trhy s obrovským potenciálem.",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Claude Tag přináší proaktivní a persistentní agenty přímo do Slacku",
+      "title_orig": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
+      "category": "tools",
+      "summary_cs": [
+        "Nová integrace umožňuje modelům Claude fungovat v komunikační platformě Slack jako dlouhodobí agenti.",
+        "Tito boti dokážou proaktivně vstupovat do konverzací a spolupracovat s více uživateli najednou.",
+        "Funkce usnadňuje týmovou koordinaci a automatizaci běžných úkolů přímo v místě, kde týmy komunikují."
+      ],
+      "why_matters": "Posouvá využití AI vnitrofiremní komunikace od pasivního odpovídání k aktivní spolupráci.",
+      "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Statistiky ukazují masivní nárůst využívání tokenů v interních týmech OpenAI",
+      "title_orig": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
+      "category": "labs",
+      "summary_cs": [
+        "Interní data OpenAI odhalila dramatický nárůst využívání generovaného kódu napříč všemi odděleními.",
+        "V oddělení výzkumu vzrostl medián vygenerovaných tokenů padesátišestinásobně od listopadu 2025.",
+        "Výrazný růst hlásí také zákaznická podpora, inženýrské týmy a dokonce i právní oddělení."
+      ],
+      "why_matters": "Ukazuje, jak extrémně rychle se AI integruje do každodenních procesů i u samotných tvůrců těchto technologií.",
+      "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Databricks prosazuje otevřený ekosystém pro rozvoj agentních platforem",
+      "title_orig": "Why the Frontier Ecosystem must be Open - Matei Zaharia and Reynold Xin, Databricks",
+      "category": "open-source",
+      "summary_cs": [
+        "Techničtí lídři společnosti Databricks zdůrazňují nutnost otevřeného přístupu k vývoji pokročilých AI systémů.",
+        "Otevřený ekosystém je podle nich klíčový pro to, aby si každá firma mohla vybudovat vlastní nezávislé agenty.",
+        "Varují před uzavřenými platformami, které mohou omezovat inovace a vytvářet technologické monopoly."
+      ],
+      "why_matters": "Podporuje myšlenku open-source řešení, která jsou pro české firmy často bezpečnější a flexibilnější.",
+      "url": "https://www.latent.space/p/databricks",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Spisovatelka Margaret Atwood varuje před nekvalitními daty pro trénování AI",
+      "title_orig": "Margaret Atwood says the problem with AI is 'garbage in, garbage out'",
+      "category": "wildcard",
+      "summary_cs": [
+        "Slavná autorka Margaret Atwood se na literárním festivalu vyjádřila k současnému stavu umělé inteligence.",
+        "Upozornila na klasické pravidlo, že kvalita výstupů AI je přímo závislá na kvalitě dat, na kterých se učí.",
+        "Kritizovala generování textů na základě nekvalitních či neověřených internetových zdrojů."
+      ],
+      "why_matters": "Připomíná důležitost autorských práv a kvality zdrojových dat pro spolehlivost AI systémů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "NVIDIA usnadňuje ladění transformátorů pomocí nástroje NeMo AutoModel",
+      "title_orig": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "category": "labs",
+      "summary_cs": [
+        "NVIDIA představila integraci nástroje NeMo AutoModel do ekosystému Hugging Face.",
+        "Novinka výrazně urychluje a zjednodušuje proces jemného ladění (fine-tuning) transformátorových modelů.",
+        "Vývojáři tak mohou snadněji přizpůsobovat velké modely pro své specifické firemní úkoly."
+      ],
+      "why_matters": "Zjednodušuje českým vývojářům proces trénování vlastních modelů na specifických firemních datech.",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Proč není pravda, že práce s velkými jazykovými modely nevyžaduje žádné úsilí",
+      "title_orig": "Quoting Timothy B. Lee",
+      "category": "wildcard",
+      "summary_cs": [
+        "Analytik Timothy B. Lee vyvrací mýtus, že efektivní používání LLM nevyžaduje žádné specifické dovednosti.",
+        "Přirovnává práci s AI k manažerské roli, kde úspěch závisí na schopnosti jasně delegovat a zadávat úkoly.",
+        "Správné promptování a vedení AI agentů vyžaduje podle něj neustálé učení a rozvoj nových schopností."
+      ],
+      "why_matters": "Zdůrazňuje, že pro úspěšné nasazení AI ve firmách je stále nutné školit zaměstnance v promptování.",
+      "url": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
