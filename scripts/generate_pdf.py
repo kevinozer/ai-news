@@ -320,7 +320,7 @@ def short_url(url: str, limit: int = 70) -> str:
 # ---------- page decorations ----------
 
 
-LOGO_PATH = ASSETS_DIR / "brand" / "cruz-znak.png"
+LOGO_PATH = ASSETS_DIR / "brand" / "cruz-lockup-black.png"
 
 
 def make_page_chrome(fonts: dict[str, str]):
