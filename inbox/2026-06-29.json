@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-29T04:00:48.769367+00:00",
+  "generated_at": "2026-06-29T09:06:45.773051+00:00",
   "date": "2026-06-29",
-  "article_count_unique": 98,
-  "article_count_raw": 98,
+  "article_count_unique": 97,
+  "article_count_raw": 97,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 0,
-      "raw_count": 0
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "venturebeat_ai",
@@ -164,16 +164,28 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 0,
-      "raw_count": 5
+      "raw_count": 9
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 1,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "b259b35e8bdc1dd9",
+      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+      "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+      "published_at": "2026-06-29T08:00:00+00:00",
+      "author": "Will Knight",
+      "summary_raw": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
+      "hero_image": "https://media.wired.com/photos/6a3ead9ae6c7ac5cabfbcc91/master/pass/WILLgif2-ezgif.com-optimize.gif",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
     {
       "id": "5fa2fe5c68176868",
       "title": "AI-Model Network: Concept, Current State and Future",
@@ -773,30 +785,6 @@
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
       "category": "news"
-    },
-    {
-      "id": "db9a005a25979a9e",
-      "title": "Nejsilnější ChatGPT, jaký svět ještě neviděl. Trump zakázal i OpenAI vypuštění nových modelů",
-      "url": "https://cc.cz/nejsilnejsi-chatgpt-jaky-svet-jeste-nevidel-trump-zakazal-i-openai-vypusteni-novych-modelu/",
-      "published_at": "2026-06-27T10:12:40+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Washington začal zamykat klíče k nejsilnější umělé inteligenci a pro zbytek planety to znamená jediné: buď si vybudujete vlastní, nebo ostrouháte. Článek Nejsilnější ChatGPT, jaký svět ještě neviděl. Trump zakázal i OpenAI vypuštění nových modelů se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/chatgpt-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "888937570ae0b337",
-      "title": "Po FAANG a Mag7 přichází další zkratka, která ovládla Wall Street. Víte, co znamená MANGOS?",
-      "url": "https://cc.cz/po-faang-a-mag7-prichazi-dalsi-zkratka-ktera-ovladla-wall-street-vite-co-znamena-mangos/",
-      "published_at": "2026-06-27T07:01:24+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Meta, Anthropic, Nvidia, Google, OpenAI a SpaceX. Šestice, která má ovládnout dekádu, vytvořila exotické ovoce. A do něj se zamiloval Wall Street. Článek Po FAANG a Mag7 přichází další zkratka, která ovládla Wall Street. Víte, co znamená MANGOS? se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/mangos-mvp-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "8f0b3d19e46df01a",
