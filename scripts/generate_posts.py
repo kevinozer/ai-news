@@ -62,6 +62,8 @@ COPPER = (156, 74, 40)          # #9C4A28
 COPPER_DEEP = (122, 53, 25)     # #7A3519
 COPPER_DARK = (62, 26, 8)       # #3E1A08
 AMBER = (196, 154, 74)          # #C49A4A
+ACCENT = (139, 92, 246)  # #8B5CF6 (CRUZ akcent)
+ACCENT_2 = (167, 139, 250)  # #A78BFA (CRUZ akcent 2)
 INK = (26, 25, 23)              # #1A1917
 INK_SOFT = (74, 72, 69)         # #4A4845
 INK_DIM = (138, 136, 132)       # #8A8884
@@ -82,8 +84,10 @@ BG_CACHE_DIR = ASSETS_DIR / "bg_cache"
 IG_DIR = ROOT / "instagram"
 LI_DIR = ROOT / "linkedin"
 
-LOGO_ZNAK = BRAND_DIR / "logo-znak.png"
-LOGO_NAPIS = BRAND_DIR / "logo-napis.png"
+LOGO_ZNAK = BRAND_DIR / "cruz-znak-white.png"
+LOGO_NAPIS = BRAND_DIR / "cruz-napis-white.png"
+CRUZ_ZNAK_BLACK = BRAND_DIR / "cruz-znak-black.png"
+CRUZ_NAPIS_BLACK = BRAND_DIR / "cruz-napis-black.png"
 
 # ---------- Gemini config ----------
 
@@ -456,7 +460,7 @@ def draw_brand_frame(
     *,
     inset: int = 24,
     width: int = 2,
-    color: tuple[int, int, int] = COPPER,
+    color: tuple[int, int, int] = ACCENT,
 ) -> None:
     """Jemný copper rámeček kolem celého slidu — brand konzistence.
 
@@ -780,7 +784,7 @@ def compose_cover_slide(
     eyebrow = "AI NEWS  ·  DENNÍ DIGEST"
     eb_font = pil_font(fonts, "body_bold", 20 if W <= 1200 else 24)
     eb_text = add_letter_spacing(eyebrow, 0.24)
-    draw.text((safe_margin, margin + 10), eb_text, font=eb_font, fill=AMBER)
+    draw.text((safe_margin, margin + 10), eb_text, font=eb_font, fill=ACCENT_2)
 
     # --- HERO TAGLINE (uprostřed, velký, přes rozmazanou fotku) ---
     # Brand pravidlo: zakazana em-dash "—" i en-dash "–" v textu.
@@ -851,13 +855,13 @@ def compose_cover_slide(
     y = H - margin - block_h
 
     draw.line([(safe_margin, y - 24), (safe_margin + 120, y - 24)],
-              fill=COPPER, width=3)
+              fill=ACCENT, width=3)
 
     draw.text((safe_margin, y), title, font=title_font, fill=IVORY)
     y += title_line_h + gap_title_sub
     draw.text((safe_margin, y), sub_text, font=sub_font, fill=INK_GHOST)
     y += sub_line_h + gap_sub_teaser
-    draw.text((safe_margin, y), teaser_text, font=teaser_font, fill=AMBER)
+    draw.text((safe_margin, y), teaser_text, font=teaser_font, fill=ACCENT_2)
 
     # brand frame
     draw_brand_frame(bg)
@@ -937,7 +941,7 @@ def compose_news_slide(
         eb_font = pil_font(fonts, "body_bold", 22 if W > 1200 else 20)
         draw.text((margin, margin + 12),
                   add_letter_spacing(eyebrow, 0.24),
-                  font=eb_font, fill=AMBER)
+                  font=eb_font, fill=ACCENT_2)
         cat = (article.get("category") or "").upper()
         if cat:
             cat_font = pil_font(fonts, "body", 18 if W > 1200 else 16)
@@ -955,13 +959,13 @@ def compose_news_slide(
             cat_font = pil_font(fonts, "body_bold", 20 if W > 1200 else 18)
             draw.text((margin, margin + 44),
                       add_letter_spacing(cat, 0.28),
-                      font=cat_font, fill=AMBER)
+                      font=cat_font, fill=ACCENT_2)
 
     # ---- tenký copper divider mezi obrázkem a text panelem ----
     # U landscape (LinkedIn) je přechod řešen gradientem → divider by tam
     # byl tvrdý řez přes obrázek. Jen u split (IG) ho kreslíme.
     if not is_landscape:
-        draw.line([(0, split_y), (W, split_y)], fill=COPPER, width=3)
+        draw.line([(0, split_y), (W, split_y)], fill=ACCENT, width=3)
 
     # ---- text panel (titul + bullets) ----
     # Zóna: split_y + 36  →  H - margin - 32 (footer)
@@ -1049,7 +1053,7 @@ def compose_news_slide(
 
         draw.text((margin, foot_y),
                   add_letter_spacing(cta_text_l, 0.20),
-                  font=cta_font, fill=AMBER)
+                  font=cta_font, fill=ACCENT_2)
 
         if date_text:
             dw = draw.textlength(date_text, font=date_font)
@@ -1107,12 +1111,12 @@ def compose_outro_slide(
     for r in range(max(W, H), 0, -16):
         a = max(0, min(20, int(20 * (r / max(W, H)))))
         odraw.ellipse([cx - r, cy - r, cx + r, cy + r],
-                      fill=(COPPER[0], COPPER[1], COPPER[2], a))
+                      fill=(ACCENT[0], ACCENT[1], ACCENT[2], a))
     bg = Image.alpha_composite(bg.convert("RGBA"), overlay).convert("RGB")
 
     # velké logo (monogram) uprostřed nahoře
-    if LOGO_ZNAK.exists():
-        logo = Image.open(LOGO_ZNAK).convert("RGBA")
+    if CRUZ_ZNAK_BLACK.exists():
+        logo = Image.open(CRUZ_ZNAK_BLACK).convert("RGBA")
         target_h = 360 if W > 1200 else 280
         ratio = logo.width / logo.height
         logo = logo.resize((int(target_h * ratio), target_h),
@@ -1124,8 +1128,8 @@ def compose_outro_slide(
     draw = ImageDraw.Draw(bg)
 
     # firma jméno pod logem (napis variant) — výrazně zvětšeno
-    if LOGO_NAPIS.exists():
-        napis = Image.open(LOGO_NAPIS).convert("RGBA")
+    if CRUZ_NAPIS_BLACK.exists():
+        napis = Image.open(CRUZ_NAPIS_BLACK).convert("RGBA")
         # Tight bbox přes alpha threshold (soubor má průhledný padding,
         # který by jinak rozhodil centrování i target_h).
         alpha = napis.split()[-1]
@@ -1157,7 +1161,7 @@ def compose_outro_slide(
     cta_lines = [
         ("AI se posouvá rychleji", INK),
         ("než kdy dřív.", INK),
-        ("Sleduj nás pro aktuální novinky.", COPPER),
+        ("Sleduj nás pro aktuální novinky.", ACCENT),
     ]
     cta_size = 48 if W > 1200 else 38
     cta_h_font = ImageFont.truetype(str(fonts["display_italic"]),
@@ -1182,7 +1186,7 @@ def compose_outro_slide(
     rule_w = 80
     draw.line([((W - rule_w) // 2, cta_y + 80),
                ((W + rule_w) // 2, cta_y + 80)],
-              fill=COPPER, width=3)
+              fill=ACCENT, width=3)
 
     # brand frame
     draw_brand_frame(bg)
