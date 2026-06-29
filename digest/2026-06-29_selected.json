@@ -7,11 +7,11 @@
       "title_orig": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
       "category": "news",
       "summary_cs": [
-        "Startup Flexion Robotics, založený bývalými inženýry společnosti Nvidia, představil inovativní způsob trénování humanoidních robotů pro běžné kancelářské práce.",
-        "Roboti se učí provádět užitečné úkoly s překvapivou přesností a rychlostí, což otevírá dveře jejich reálnému nasazení v administrativě.",
-        "Tento pokrok ukazuje, že fyzická autonomie v kancelářích se stává realitou mnohem dříve, než se původně předpokládalo."
+        "Startup Flexion Robotics, založený bývalými inženýry společnosti Nvidia, představil nový způsob trénování humanoidních robotů pro běžné kancelářské úkoly.",
+        "Roboti vykazují překvapivou míru adaptability a přesnosti při manipulaci s předměty a plnění administrativních zadání.",
+        "Tento pokrok ukazuje, jak rychle se fyzická AI přesouvá z továren do běžného kancelářského prostředí."
       ],
-      "why_matters": "Ukazuje, jak rychle se humanoidní roboti přesouvají z továren do běžného kancelářského prostředí.",
+      "why_matters": "Ukazuje blízkou budoucnost, kdy humanoidní roboti začnou zastávat běžné administrativní a pomocné práce v kancelářích.",
       "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
       "source": "Wired AI"
     },
@@ -21,195 +21,195 @@
       "title_orig": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
       "category": "research",
       "summary_cs": [
-        "Nová vědecká práce zkoumá, jak integrovat parametrizované modely světa do rozhodovacích procesů jazykových agentů.",
-        "Běžní agenti spoléhající pouze na LLM často trpí kumulací chyb a vymýšlením neexistujících stavů reality.",
-        "Navržený rámec výrazně snižuje šíření halucinací a zvyšuje úspěšnost agentů při plnění dlouhodobých úkolů."
+        "Výzkum se zaměřuje na problém, kdy běžní AI agenti při plánování v přirozeném jazyce generují fiktivní změny stavu.",
+        "Použití parametrizovaných modelů světa umožňuje přesněji hodnotit a korigovat kroky agenta pomocí regresních ztrát.",
+        "Tento přístup výrazně snižuje kumulaci chyb a halucinací při řešení komplexních a dlouhodobých úkolů."
       ],
-      "why_matters": "Řeší klíčový problém spolehlivosti autonomních AI agentů při plnění složitých firemních úkolů.",
+      "why_matters": "Řeší zásadní problém spolehlivosti AI agentů, což je klíčové pro jejich nasazení do reálné firemní praxe.",
       "url": "https://arxiv.org/abs/2606.27806",
       "source": "ArXiv cs.AI"
     },
     {
       "rank": 3,
-      "title_cs": "Nová metoda pro kalibraci odměňovacích modelů v RLHF",
-      "title_orig": "PEBS: Per-rater Empirical-Bayes Shrinkage for RLHF Reward-Model Calibration",
-      "category": "research",
-      "summary_cs": [
-        "Metoda PEBS přináší nový způsob, jak kalibrovat modely odměn používané při ladění velkých jazykových modelů.",
-        "Tradiční přístupy průměrují preference tisíců hodnotitelů, což stírá individuální rozdíly v jejich hodnocení.",
-        "Nový algoritmus bere v úvahu specifické odchylky jednotlivých hodnotitelů a zpřesňuje tak trénovací proces."
-      ],
-      "why_matters": "Zpřesňuje trénování modelů podle lidských preferencí, což vede k bezpečnějším a užitečnějším výstupům.",
-      "url": "https://arxiv.org/abs/2606.27578",
-      "source": "ArXiv cs.LG"
-    },
-    {
-      "rank": 4,
-      "title_cs": "Zpětná korekce výhod pro asynchronní zpětnou vazbu v RLHF",
-      "title_orig": "Retroactive Advantage Correction: Closed-Form V-Trace Bias Correction for Delay-Aware RLHF",
-      "category": "research",
-      "summary_cs": [
-        "Výzkumníci představili metodu pro korekci zpožděných signálů odměn při trénování modelů pomocí lidské zpětné vazby.",
-        "V produkčních systémech přichází hodnocení od lidí nebo složitých validátorů často až s velkým zpožděním.",
-        "Tento matematický rámec umožňuje efektivně aktualizovat model i bez nutnosti okamžité synchronní odezvy."
-      ],
-      "why_matters": "Umožňuje efektivnější nasazení lidské zpětné vazby v reálném čase přímo v produkčních systémech.",
-      "url": "https://arxiv.org/abs/2606.27580",
-      "source": "ArXiv cs.LG"
-    },
-    {
-      "rank": 5,
-      "title_cs": "Sjednocený model pro předpovídání časových řad od knihovny Darts",
+      "title_cs": "Darts Foundation: Sjednocený model pro předpovídání časových řad bez nutnosti trénování",
       "title_orig": "Unified Zero-Shot Time Series Forecasting: A Darts Foundation",
       "category": "open-source",
       "summary_cs": [
-        "Populární open-source knihovna Darts představuje základy pro univerzální předpovídání časových řad bez nutnosti trénování.",
-        "Nové modely slibují zásadní změnu paradigmatu, kdy namísto stavby vlastních modelů stačí použít předpřipravené řešení.",
-        "Tento přístup výrazně zkracuje dobu potřebnou pro nasazení prediktivní analytiky do praxe."
+        "Populární open-source knihovna Darts pro analýzu časových řad představuje novou rodinu základních modelů.",
+        "Tyto modely slibují vysokou přesnost předpovědí v režimu zero-shot, tedy bez nutnosti trénovat model na vlastních historických datech.",
+        "Pro vývojáře to znamená zásadní zjednodušení a zrychlení implementace prediktivních funkcí do jejich aplikací."
       ],
-      "why_matters": "Zjednodušuje a zrychluje analýzu dat a plánování pro české analytiky a vývojáře.",
+      "why_matters": "Umožňuje českým firmám okamžitě a přesně předpovídat prodeje či poptávku bez drahého vývoje vlastních modelů.",
       "url": "https://arxiv.org/abs/2606.27438",
       "source": "ArXiv cs.LG"
     },
     {
+      "rank": 4,
+      "title_cs": "Sjednocený agentní tréninkový systém pro plánování s modely světa",
+      "title_orig": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+      "category": "research",
+      "summary_cs": [
+        "Současní LLM agenti jsou v dlouhodobých úlohách často pouze reaktivní a nedokážou předem promýšlet důsledky svých kroků.",
+        "Nový tréninkový systém umožňuje agentům simulovat scénáře typu 'co když' ještě předtím, než provedou reálnou akci.",
+        "Tato metoda přibližuje uvažování umělé inteligence lidskému plánování a zvyšuje úspěšnost při plnění složitých cílů."
+      ],
+      "why_matters": "Představuje krok k autonomním systémům, které dokážou předvídat problémy dříve, než reálně nastanou.",
+      "url": "https://arxiv.org/abs/2606.27483",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Jak vnímá osobnost AI agentů vliv na úspěch celého týmu",
+      "title_orig": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+      "category": "research",
+      "summary_cs": [
+        "Studie zkoumá, jak nastavení osobnostních rysů u jednotlivých LLM agentů ovlivňuje jejich spolupráci v týmu.",
+        "Zatímco agenti s nízkou mírou přívětivosti inklinují k nepřátelské komunikaci, správná kombinace rolí může zlepšit výsledky.",
+        "Výzkum přináší návod, jak efektivně sestavovat týmy specializovaných AI agentů pro dosažení nejlepších výsledků."
+      ],
+      "why_matters": "Pomáhá firmám správně nastavit tón a chování spolupracujících AI agentů pro efektivní týmovou práci.",
+      "url": "https://arxiv.org/abs/2606.27443",
+      "source": "ArXiv cs.AI"
+    },
+    {
       "rank": 6,
-      "title_cs": "Jak vylepšit plánování AI agentů pomocí symbolické zpětné vazby",
+      "title_cs": "Spolehlivé plánování LLM pomocí iterativní zpětné vazby ze symbolických systémů",
       "title_orig": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
       "category": "research",
       "summary_cs": [
-        "Studie představuje nový rámec pro iterativní vylepšování plánů generovaných velkými jazykovými modely.",
-        "Propojením neuronových sítí se symbolickou zpětnou vazbou lze odhalit logické chyby v plánech ještě před jejich spuštěním.",
-        "Tento hybridní přístup výrazně zvyšuje robustnost a bezpečnost nasazení AI v kritických aplikacích."
+        "Nasazení velkých jazykových modelů do kritických plánovacích úloh naráží na problémy s jejich robustností a bezpečností.",
+        "Představený systém kombinuje kreativitu LLM s exaktní zpětnou vazbou ze symbolických systémů, které kontrolují logické chyby.",
+        "Díky tomuto propojení se model dokáže sám opravit a generovat plány s garantovanou spolehlivostí."
       ],
-      "why_matters": "Přináší vyšší bezpečnost a spolehlivost při plánování složitých firemních procesů pomocí AI.",
+      "why_matters": "Ukazuje cestu k bezpečnému nasazení AI v průmyslu a logistice, kde jsou chyby nepřípustné.",
       "url": "https://arxiv.org/abs/2606.27757",
       "source": "ArXiv cs.AI"
     },
     {
       "rank": 7,
-      "title_cs": "Lidský agent v hlavní roli: Proč musíme změnit pohled na autonomní systémy",
-      "title_orig": "Quoting Jon Udell",
-      "category": "news",
-      "summary_cs": [
-        "Komentář kritizuje zažité slovní spojení člověk v rozhodovací smyčce, protože podřizuje lidskou roli strojům.",
-        "Autor navrhuje otočit perspektivu a vnímat AI agenty jako nové členy týmu, které plně ovládá člověk.",
-        "Procesy s podporou AI by neměly fungovat jako černé skříňky, ale jako transparentní nástroje pro lidskou práci."
-      ],
-      "why_matters": "Nabízí zdravý pohled na integraci AI do pracovních procesů bez ztráty lidské kontroly.",
-      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/",
-      "source": "Simon Willison's Weblog"
-    },
-    {
-      "rank": 8,
-      "title_cs": "Sjednocený trénovací koncept pro plánování s modely světa",
-      "title_orig": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
-      "category": "research",
-      "summary_cs": [
-        "Výzkum se zaměřuje na vývoj agentů, kteří dokážou simulovat hypotetické scénáře před provedením akce.",
-        "Běžní agenti reagují pouze reaktivně, což limituje jejich úspěšnost při plnění dlouhodobých cílů.",
-        "Navržený trénovací koncept učí modely internalizovat budoucí důsledky jejich současných rozhodnutí."
-      ],
-      "why_matters": "Posouvá schopnosti AI od pouhého odpovídání k promyšlenému strategickému plánování.",
-      "url": "https://arxiv.org/abs/2606.27483",
-      "source": "ArXiv cs.AI"
-    },
-    {
-      "rank": 9,
-      "title_cs": "Jak funguje sítě modelů AI a jaká je jejich budoucnost",
-      "title_orig": "AI-Model Network: Concept, Current State and Future",
-      "category": "research",
-      "summary_cs": [
-        "Práce představuje koncept propojených sítí AI modelů, které spolupracují podobně jako lidé na internetu.",
-        "Namísto jednoho obřího modelu se budoucnost opírá o specializované modely sdílející znalosti a výpočetní kapacitu.",
-        "Tento decentralizovaný přístup může radikálně snížit náklady na provoz a zvýšit dostupnost pokročilých technologií."
-      ],
-      "why_matters": "Ukazuje budoucí směr vývoje AI infrastruktury, která bude efektivnější a levnější na provoz.",
-      "url": "https://arxiv.org/abs/2606.27382",
-      "source": "ArXiv cs.AI"
-    },
-    {
-      "rank": 10,
-      "title_cs": "NormAct: Nový benchmark pro testování společenských norem u robotů",
-      "title_orig": "NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning",
-      "category": "research",
-      "summary_cs": [
-        "Představuje se nový testovací standard NormAct zaměřený na dodržování skrytých společenských norem fyzickými agenty.",
-        "Při nasazení robotů v domácnostech či kancelářích nestačí jen splnit úkol, ale je nutné jednat společensky vhodně.",
-        "Benchmark hodnotí, jak dobře dokážou multimodální modely rozpoznat nepsaná pravidla lidského soužití."
-      ],
-      "why_matters": "Klíčový krok pro bezpečné a bezproblémové přijetí robotických pomocníků v našich domovech.",
-      "url": "https://arxiv.org/abs/2606.27826",
-      "source": "ArXiv cs.AI"
-    },
-    {
-      "rank": 11,
-      "title_cs": "Zlepšení interpretovatelnosti proteinových modelů pomocí PairSAE",
+      "title_cs": "Jak funguje interpretovatelnost u modelů pro skládání proteinů",
       "title_orig": "PairSAE: Mechanistic Interpretability from Pair Representations in Protein Co-Folding",
       "category": "research",
       "summary_cs": [
-        "Vědci vyvinuli metodu PairSAE pro lepší pochopení vnitřních procesů v modelech pro biologický výzkum.",
-        "Nástroj pomáhá rozklíčovat, jaké konkrétní rysy vedou model k predikci určité struktury proteinů.",
-        "Tento objev usnadní návrh nových léčiv a porozumění komplexním biologickým mechanismům."
+        "Biologické modely dosahují skvělých výsledků v předpovídání struktur proteinů, ale jejich vnitřní rozhodování zůstávalo záhadou.",
+        "Nový nástroj PairSAE umožňuje nahlédnout pod kapotu těchto modelů a analyzovat, jaké vnitřní rysy ovlivňují výsledný design.",
+        "Tento objev usnadní vývoj nových léků a pochopení biologických procesů na molekulární úrovni."
       ],
-      "why_matters": "Pomáhá vědcům lépe porozumět AI modelům, což urychlí vývoj nových léků.",
+      "why_matters": "Zpřístupňuje pokročilé biologické objevy a zrychluje výzkum v oblasti medicíny a farmacie.",
       "url": "https://arxiv.org/abs/2606.27440",
       "source": "ArXiv cs.LG"
     },
     {
-      "rank": 12,
-      "title_cs": "Vliv osobnosti na úspěch týmů složených z AI agentů",
-      "title_orig": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+      "rank": 8,
+      "title_cs": "Kalibrace odměn pro RLHF s ohledem na individuální hodnotitele",
+      "title_orig": "PEBS: Per-rater Empirical-Bayes Shrinkage for RLHF Reward-Model Calibration",
       "category": "research",
       "summary_cs": [
-        "Výzkum zkoumá, jak nastavení tónu a osobnosti jednotlivých AI agentů ovlivňuje jejich společnou práci.",
-        "Ukazuje se, že nevhodně zvolené povahové rysy mohou vést k neproduktivním konfliktům mezi modely.",
-        "Správná kombinace rolí a komunikačních stylů naopak výrazně zvyšuje úspěšnost při řešení úkolů."
+        "Běžné modely odměn pro učení z lidské zpětné vazby průměrují preference tisíců různých hodnotitelů do jednoho globálního pohledu.",
+        "Metoda PEBS zavádí kalibraci, která bere v úvahu systematické odchylky a subjektivní měřítka jednotlivých hodnotitelů.",
+        "Výsledkem je spravedlivější a přesnější modelování lidských preferencí při ladění moderních AI systémů."
       ],
-      "why_matters": "Pomáhá správně nastavit role a chování při budování spolupracujících týmů AI agentů.",
-      "url": "https://arxiv.org/abs/2606.27443",
+      "why_matters": "Zpřesňuje trénování modelů tak, aby lépe odpovídaly skutečným a různorodým lidským potřebám.",
+      "url": "https://arxiv.org/abs/2606.27578",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 9,
+      "title_cs": "NormAct: Nový benchmark pro dodržování skrytých sociálních norem roboty",
+      "title_orig": "NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning",
+      "category": "research",
+      "summary_cs": [
+        "Multimodální modely jsou stále častěji nasazovány jako plánovači pro fyzické roboty v domácnostech a kancelářích.",
+        "Úspěch však nezávisí jen na splnění úkolu, ale také na tom, zda robot jedná v souladu se společenskými konvencemi.",
+        "Nový benchmark NormAct testuje schopnost AI systémů rozpoznat a respektovat nepsaná pravidla lidského chování."
+      ],
+      "why_matters": "Klíčový krok pro to, aby lidé přijali robotické pomocníky do svých domovů bez pocitu nekomfortu.",
+      "url": "https://arxiv.org/abs/2606.27826",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Ověřitelné řešení geometrických úloh pomocí automatické formalizace",
+      "title_orig": "Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing",
+      "category": "research",
+      "summary_cs": [
+        "Řešení geometrických úloh pomocí AI často naráželo na statické překlady zadání a neschopnost logického dokazování.",
+        "Nový neuro-symbolický framework kombinuje neuronovou intuici s matematickou přísností pro dynamický přepis úloh.",
+        "Systém dokáže sám navrhovat věty a kroky, které vedou k matematicky ověřitelnému a bezchybnému řešení."
+      ],
+      "why_matters": "Posouvá schopnosti AI v exaktních vědách a technickém vzdělávání na zcela novou úroveň.",
+      "url": "https://arxiv.org/abs/2606.27926",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Jak se šíří chyby v grafových modelech světa",
+      "title_orig": "Understanding Rollout Error in Graph World Models",
+      "category": "research",
+      "summary_cs": [
+        "Mnoho plánovacích prostředí nemá podobu obrázků, ale složitých grafů plných závislostí, nástrojů a vazeb.",
+        "Tento výzkum analyzuje, jak se lokální predikční chyby šíří nebo naopak tlumí v průběhu plánování v těchto grafech.",
+        "Porozumění těmto mechanismům umožní stavět stabilnější systémy pro řízení dodavatelských řetězců či IT infrastruktur."
+      ],
+      "why_matters": "Pomáhá optimalizovat složité firemní procesy a logistické sítě bez rizika selhání systému.",
+      "url": "https://arxiv.org/abs/2606.27780",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Rychlá destilace pro autonomní agenty řešící dlouhodobé úkoly",
+      "title_orig": "ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents",
+      "category": "research",
+      "summary_cs": [
+        "Trénování malých a rychlých modelů pro interaktivní úkoly vyžaduje jak napodobování učitele, tak učení se z vlastních chyb.",
+        "Metoda ATOD řeší problém, kdy se zlepšování modelů v určité fázi tréninku zastaví a začne stagnovat.",
+        "Díky novému přístupu k distribuci odměn dosahují menší modely vysoké úspěšnosti i ve složitých scénářích."
+      ],
+      "why_matters": "Umožňuje provozovat vysoce efektivní a chytré agenty lokálně na běžném hardwaru s nízkými náklady.",
+      "url": "https://arxiv.org/abs/2606.27814",
       "source": "ArXiv cs.AI"
     },
     {
       "rank": 13,
-      "title_cs": "Progresivní plánování hlav v transformerech pro efektivnější zpracování pozornosti",
-      "title_orig": "Prism Transformer: Progressive Head Schedules for Hierarchical Attention Processing",
+      "title_cs": "Globální vysvětlení pro předpovědi časových řad pomocí Markovových aproximací",
+      "title_orig": "Global Explanations for Multivariate Time Series Forecasting Models via K-Order Markov Approximations",
       "category": "research",
       "summary_cs": [
-        "Představuje se Prism Transformer, který mění tradiční rovnoměrné rozdělení pozornosti v architektuře modelů.",
-        "Nová metoda dynamicky alokuje výpočetní kapacitu podle hloubky vrstvy a složitosti zpracovávaného kontextu.",
-        "Tento přístup přináší vyšší efektivitu bez ztráty přesnosti při zpracování dlouhých textů."
+        "Většina metod pro vysvětlení rozhodnutí AI ignoruje časové závislosti a předpokládá, že jednotlivé body jsou nezávislé.",
+        "Nový přístup využívá Markovovy aproximace k tomu, aby zohlednil časový vývoj a poskytl věrnější vysvětlení predikcí.",
+        "To umožňuje uživatelům lépe pochopit, proč model předpovídá konkrétní vývoj v čase."
       ],
-      "why_matters": "Může vést k rychlejším a levnějším modelům s dlouhým kontextovým oknem.",
-      "url": "https://arxiv.org/abs/2606.27449",
+      "why_matters": "Zvyšuje důvěru v předpovědi AI v oblastech jako jsou finance, energetika nebo plánování výroby.",
+      "url": "https://arxiv.org/abs/2606.27599",
       "source": "ArXiv cs.LG"
     },
     {
       "rank": 14,
-      "title_cs": "Odyssey: Rámec pro tvorbu ověřitelných lokálních modelů zachovávajících pravdu",
-      "title_orig": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
-      "category": "research",
+      "title_cs": "Proč lidé nechtějí být jen kolečkem v systému řízeném AI",
+      "title_orig": "Quoting Jon Udell",
+      "category": "news",
       "summary_cs": [
-        "Představuje se matematický rámec Odyssey určený ke stavbě spolehlivých základních modelů.",
-        "Systém využívá modulární komponenty k zajištění toho, aby výstupy odpovídaly lokálním faktům a kontextu.",
-        "Tento přístup pomáhá eliminovat nepravdivé informace v úzce zaměřených doménách."
+        "Komentář kritizuje zažité slovní spojení 'člověk v rozhodovací smyčce', které podřizuje lidskou roli strojům.",
+        "Autor navrhuje obrátit perspektivu a vnímat AI agenty jako nové členy týmu, které si lidé najímají na pomoc.",
+        "Procesy podporované AI by neměly být neprůhlednými černými skříňkami, ale transparentními nástroji pod lidskou kontrolou."
       ],
-      "why_matters": "Nabízí řešení pro nasazení AI v oborech, kde je kritická absolutní faktická správnost.",
-      "url": "https://arxiv.org/abs/2606.27593",
-      "source": "ArXiv cs.AI"
+      "why_matters": "Přináší důležitý filozofický pohled na to, jak zdravě integrovat AI do firemní kultury.",
+      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/",
+      "source": "Simon Willison's Weblog"
     },
     {
       "rank": 15,
-      "title_cs": "Jak se vyhnout chybám při simulaci šíření CO2 pod zemí",
-      "title_orig": "Boundary condition fidelity for bottom-hole pressure and CO2 plume prediction in geological carbon storage",
-      "category": "research",
+      "title_cs": "Jak funguje hybridní vyhledávání v praxi s Transformers.js",
+      "title_orig": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "category": "labs",
       "summary_cs": [
-        "Studie se zabývá přesností predikcí tlaku a šíření CO2 při jeho ukládání do geologických struktur.",
-        "Běžné simulace často narážejí na zkreslení způsobená umělými hranicemi v modelech.",
-        "Nové poznatky pomáhají zvýšit bezpečnost a spolehlivost technologií pro zachycování uhlíku."
+        "Hugging Face experimentuje s novým rozhraním Cross-Origin Storage API přímo v prohlížeči pomocí Transformers.js.",
+        "Tato technologie umožňuje sdílet stažené modely napříč různými webovými stránkami a aplikacemi bez nutnosti opakovaného stahování.",
+        "Uživatelé tak získají okamžitý přístup k lokálnímu zpracování textu a obrazu bez zbytečného čekání a spotřeby dat."
       ],
-      "why_matters": "Přispívá k přesnějším modelům pro ekologické projekty ukládání emisí pod zem.",
-      "url": "https://arxiv.org/abs/2606.27515",
-      "source": "ArXiv cs.LG"
+      "why_matters": "Zrychluje a zlevňuje provoz webových AI aplikací běžících přímo v prohlížeči koncového uživatele.",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "source": "Hugging Face Blog"
     }
   ]
 }
