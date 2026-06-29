@@ -329,7 +329,7 @@ def make_page_chrome(fonts: dict[str, str]):
     body = fonts["body"]
 
     # Výška loga v mm — znak (monogram AK) zabere viditelné místo v pravém rohu
-    logo_target_h_mm = 16.0
+    logo_target_h_mm = 12.0
     logo_w_mm = logo_target_h_mm
     logo_available = LOGO_PATH.exists()
     if logo_available:
