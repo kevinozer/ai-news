@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-29",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Čínská Zhipu AI tvrdí, že její model GLM-5.2 vyrovná model Mythos v kybernetické bezpečnosti",
+      "title_orig": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "category": "news",
+      "summary_cs": [
+        "Čínský startup Zhipu AI vydal otevřený model GLM-5.2, který podle výzkumníků dosahuje skvělých výsledků v hledání softwarových chyb.",
+        "V oblasti kybernetické bezpečnosti se údajně vyrovná špičkovému západnímu modelu Mythos od společnosti Anthropic.",
+        "Ačkoliv v obecných úlohách stále zaostává, ukazuje to na rychlé stírání technologických rozdílů mezi USA a Čínou."
+      ],
+      "why_matters": "Ukazuje, jak rychle čínské otevřené modely dohánějí americkou špičku v kritických oblastech bezpečnosti.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "HP rozšiřuje strategické partnerství s OpenAI pro nasazení AI do firemních operací",
+      "title_orig": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost HP Inc. oznámila rozšíření spolupráce s OpenAI v rámci programu Frontier.",
+        "Cílem je hluboká integrace pokročilých modelů umělé inteligence do zákaznické podpory, vývoje softwaru a interních procesů.",
+        "HP chce tímto krokem urychlit transformaci na AI-native organizaci a zefektivnit své globální operace."
+      ],
+      "why_matters": "Jde o ukázku masivního nasazení technologií OpenAI v jedné z největších hardwarových firem světa.",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Záznamy z ChatGPT posloužily u soudu jako klíčový důkaz v případu žhářství",
+      "title_orig": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "category": "news",
+      "summary_cs": [
+        "Při soudním procesu týkajícím se ničivého požáru v Los Angeles použila obžaloba jako důkaz historii konverzací obviněného s ChatGPT.",
+        "Kromě lokalizačních dat a kamerových záznamů tak digitální stopa z AI asistenta pomohla rekonstruovat úmysly pachatele.",
+        "Tento případ představuje významný precedent pro využívání dat z AI platforem v trestním řízení."
+      ],
+      "why_matters": "Upozorňuje na důležitost ochrany soukromí a skutečnost, že vaše konverzace s AI mohou být použity u soudu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Prompt injection útoky zneužívají největší slabiny podnikových AI systémů",
+      "title_orig": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
+      "category": "news",
+      "summary_cs": [
+        "Kyberzločinci stále častěji cílí na firemní AI agenty, vyhledávací RAG pipeline a směrovače modelů pomocí podvržených instrukcí.",
+        "Útoky typu prompt injection využívají nejednotnost mezi tím, jak systémy zpracovávají systémová data a uživatelské vstupy.",
+        "Zabezpečení těchto propojených systémů se stává hlavní prioritou pro firmy implementující autonomní agenty."
+      ],
+      "why_matters": "Pomáhá českým firmám pochopit reálná bezpečnostní rizika při integraci AI do jejich interních systémů.",
+      "url": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Suno spouští inkubátor Spark na podporu nezávislých hudebníků",
+      "title_orig": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "category": "wildcard",
+      "summary_cs": [
+        "Generátor hudby Suno představil program Spark, který nabízí granty, mentoring a marketingovou podporu pro nezávislé umělce.",
+        "Iniciativa má pomoci Sunu transformovat se z pouhého nástroje na generování obsahu v plnohodnotnou streamovací platformu.",
+        "Zároveň tím firma reaguje na kritiku ohledně autorských práv a snaží se budovat mosty s hudební komunitou."
+      ],
+      "why_matters": "Ukazuje nový trend, kdy se AI platformy snaží přímo spolupracovat s lidskými tvůrci.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Proč Wall Street vidí v americkém výrobci pamětí Micron novou Nvidii",
+      "title_orig": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "category": "business",
+      "summary_cs": [
+        "Investoři na Wall Street hledají další akcie těžící z AI boomu a jejich pozornost se upírá k výrobci paměťových čipů Micron.",
+        "Pokročilé AI modely vyžadují extrémně rychlé a kapacitní paměti HBM, které Micron dokáže efektivně dodávat.",
+        "Poptávka po hardwaru pro AI infrastrukturu tak nadále pohání růst hodnoty polovodičového sektoru."
+      ],
+      "why_matters": "Nabízí cenný pohled pro české investory hledající příležitosti v hardwarovém zázemí umělé inteligence.",
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Skeptické hlasy ohledně plánů Elona Muska na orbitální datová centra",
+      "title_orig": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "category": "news",
+      "summary_cs": [
+        "Vize Elona Muska na provozování AI datových center na oběžné dráze naráží na pochybnosti odborníků i investorů včetně šéfa SoftBank.",
+        "Kritici poukazují na extrémní technologické výzvy spojené s chlazením ve vakuu a energetickou náročností přenosu dat.",
+        "Přestože SpaceX disponuje silnou infrastrukturou, realizace takového projektu zůstává v rovině spekulací."
+      ],
+      "why_matters": "Uvádí na pravou míru technologický hype kolem vesmírné infrastruktury pro AI.",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Spisovatelka Margaret Atwood varuje před principem špatná data dovnitř, špatná ven",
+      "title_orig": "Margaret Atwood says the problem with AI is 'garbage in, garbage out'",
+      "category": "news",
+      "summary_cs": [
+        "Slavná autorka románu Příběh služebnice se na literárním festivalu vyjádřila k současnému stavu generativní umělé inteligence.",
+        "Podle ní kvalita výstupů AI zcela závisí na datech, na kterých je trénována, a varuje před zahlcením internetu nekvalitním obsahem.",
+        "Kritizovala také neautorizované využívání děl spisovatelů pro trénování komerčních modelů."
+      ],
+      "why_matters": "Přináší důležitý pohled významné kulturní osobnosti na etiku a kvalitu dat v AI.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Darts Foundation přináší sjednocenou předpověď časových řad bez nutnosti trénování",
+      "title_orig": "Unified Zero-Shot Time Series Forecasting: A Darts Foundation",
+      "category": "open-source",
+      "summary_cs": [
+        "Populární knihovna Darts pro analýzu časových řad představila nové základní modely pro zero-shot předpovědi.",
+        "Tyto modely umožňují přesně předpovídat budoucí vývoj bez nutnosti zdlouhavého trénování na specifických datech uživatele.",
+        "Tento přístup slibuje zásadní zjednodušení práce pro datové analytiky napříč obory."
+      ],
+      "why_matters": "Zjednodušuje českým analytikům a vývojářům nasazení pokročilých předpovědí bez drahého výpočetního výkonu.",
+      "url": "https://arxiv.org/abs/2606.27438",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Metoda PEBS zlepšuje kalibraci odměňovacích modelů v RLHF",
+      "title_orig": "PEBS: Per-rater Empirical-Bayes Shrinkage for RLHF Reward-Model Calibration",
+      "category": "research",
+      "summary_cs": [
+        "Nový výzkum představuje metodu PEBS, která řeší problém nekonzistentního hodnocení lidských anotátorů při ladění modelů.",
+        "Tradiční přístupy průměrují preference všech hodnotitelů, což stírá individuální rozdíly v jejich přísnosti.",
+        "PEBS využívá Bayesovské smrštění k přesnější kalibraci odměňovacích modelů, což vede k lepšímu chování výsledné AI."
+      ],
+      "why_matters": "Technický pokrok, který přímo přispívá k tomu, aby AI lépe rozuměla lidským preferencím.",
+      "url": "https://arxiv.org/abs/2606.27578",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Interní plánování budoucnosti pomáhá AI agentům v dlouhodobých úlohách",
+      "title_orig": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+      "category": "research",
+      "summary_cs": [
+        "Představený tréninkový rámec umožňuje LLM agentům simulovat různé scénáře vývoje předtím, než provedou akci.",
+        "Na rozdíl od běžných reaktivních agentů tento systém využívá interní model světa k vyhodnocování hypotetických plánů.",
+        "Tato metoda výrazně zvyšuje úspěšnost při řešení komplexních a dlouhodobých úkolů."
+      ],
+      "why_matters": "Posouvá schopnosti AI od pouhého odpovídání k promyšlenému autonomnímu jednání.",
+      "url": "https://arxiv.org/abs/2606.27483",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "PP-OCRv6 přináší na Hugging Face efektivní rozpoznávání 50 jazyků",
+      "title_orig": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "category": "open-source",
+      "summary_cs": [
+        "Na platformě Hugging Face byla vydána nová verze open-source knihovny PP-OCRv6 pro optické rozpoznávání znaků.",
+        "Modely podporují padesát světových jazyků a jsou dostupné v extrémně úsporných velikostech od 1,5 milionu parametrů.",
+        "Díky nízkým hardwarovým nárokům je lze snadno provozovat i na lokálních zařízeních a mobilních telefonech."
+      ],
+      "why_matters": "Užitečný bezplatný nástroj pro české vývojáře, kteří potřebují integrovat rychlé čtení textu z obrázků.",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Transformers.js experimentuje s novým rozhraním pro sdílení modelů v prohlížeči",
+      "title_orig": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "category": "tools",
+      "summary_cs": [
+        "Vývojáři knihovny Transformers.js testují nové rozhraní Cross-Origin Storage API.",
+        "Tato technologie umožňuje webovým aplikacím sdílet stažené AI modely napříč různými doménami přímo v mezipaměti prohlížeče.",
+        "Uživatelé tak nebudou muset stahovat velké modely opakovaně při návštěvě různých webů využívajících lokální AI."
+      ],
+      "why_matters": "Zásadní krok pro zrychlení a zlevnění provozu webových AI aplikací přímo u koncových uživatelů.",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Jak cestovní platforma Omio buduje konverzační vyhledávání s OpenAI",
+      "title_orig": "How Omio is building the future of conversational travel",
+      "category": "labs",
+      "summary_cs": [
+        "Evropský vyhledávač jízdenek a letenek Omio popsal své zkušenosti s integrací technologií OpenAI do svých služeb.",
+        "Nové konverzační rozhraní umožňuje uživatelům plánovat složité trasy a kupovat lístky pomocí přirozeného jazyka.",
+        "Firma díky AI výrazně zrychlila vývoj produktů a transformuje se na plně AI-native platformu."
+      ],
+      "why_matters": "Praktická případová studie z evropského trhu ukazuje, jak AI mění zažité způsoby rezervace cestování.",
+      "url": "https://openai.com/index/omio",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Člověk jako hlavní činitel aneb proč odmítnout frázi člověk v rozhodovací smyčce",
+      "title_orig": "Quoting Jon Udell",
+      "category": "news",
+      "summary_cs": [
+        "Komentář se zamýšlí nad terminologií vztahu člověka a umělé inteligence a kritizuje zažité spojení 'human in the loop'.",
+        "Podle autora toto slovní spojení neprávem přenechává hlavní iniciativu a autoritu strojům.",
+        "Navrhuje obrátit narativ: procesy jsou stále lidské a my pouze najímáme AI agenty jako pomocníky do našich týmů."
+      ],
+      "why_matters": "Nabízí důležitý filozofický pohled na to, jak bychom měli přistupovat k integraci AI do naší práce.",
+      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
