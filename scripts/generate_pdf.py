@@ -30,8 +30,8 @@ Výstup: ../digest/news_YYYY-MM-DD.pdf
 Brand identita (viz brand.md):
 - Cormorant Garamond (Light) pro nadpisy a display
 - Space Grotesk (Regular/SemiBold) pro body a UI
-- Copper #9C4A28 jako primární akcent
-- Amber #C49A4A jako sekundární akcent (kategorijní tagy)
+- Copper #8B5CF6 jako primární akcent
+- Amber #A78BFA jako sekundární akcent (kategorijní tagy)
 - Ink #1A1917 pro text, ink-soft #4A4845 pro sekundární, ink-dim #8A8884 pro meta
 - Ivory pozadí
 - Editorial / luxury aesthetic, žádné neon, žádné emoji
@@ -76,9 +76,9 @@ from reportlab.platypus import (
 
 # ---------- brand palette ----------
 
-COPPER = colors.HexColor("#9C4A28")
+COPPER = colors.HexColor("#8B5CF6")
 COPPER_DEEP = colors.HexColor("#7A3519")
-AMBER = colors.HexColor("#C49A4A")
+AMBER = colors.HexColor("#A78BFA")
 INK = colors.HexColor("#1A1917")
 INK_SOFT = colors.HexColor("#4A4845")
 INK_DIM = colors.HexColor("#8A8884")
@@ -320,7 +320,7 @@ def short_url(url: str, limit: int = 70) -> str:
 # ---------- page decorations ----------
 
 
-LOGO_PATH = ASSETS_DIR / "brand" / "logo-znak.png"
+LOGO_PATH = ASSETS_DIR / "brand" / "cruz-znak.png"
 
 
 def make_page_chrome(fonts: dict[str, str]):
@@ -360,12 +360,12 @@ def make_page_chrome(fonts: dict[str, str]):
             canvas.setFont(body, 9)
             canvas.setFillColor(COPPER)
             canvas.drawRightString(page_w - 18 * mm, page_h - 14 * mm,
-                                   "AI NA MÍRU")
+                                   "CRUZ")
 
         # ===== FOOTER =====
         canvas.setFont(body, 8)
         canvas.setFillColor(INK_DIM)
-        canvas.drawString(20 * mm, 10 * mm, "AI NA MÍRU  ·  AI News digest")
+        canvas.drawString(20 * mm, 10 * mm, "CRUZ  ·  AI News digest")
         canvas.drawRightString(page_w - 20 * mm, 10 * mm, f"strana {doc.page}")
         canvas.setStrokeColor(BORDER)
         canvas.setLineWidth(0.4)
@@ -405,7 +405,7 @@ def build_toc(story: list, styles: dict, articles: list[dict[str, Any]]) -> None
             art.get("title_cs") or art.get("title_orig") or "..."
         ))
         line = (f'<font name="{styles["toc_index"].fontName}" '
-                f'color="#9C4A28"><b>{i:02d}</b></font>'
+                f'color="#8B5CF6"><b>{i:02d}</b></font>'
                 f'  &nbsp;{title}'
                 f'  &nbsp;<font color="#8A8884" size="8">· {cat}</font>')
         story.append(Paragraph(line, styles["toc_item"]))
@@ -462,7 +462,7 @@ def build_article_block(art: dict[str, Any], idx: int,
         # base style je body (regular), italic jen pro samotný text „proč je…"
         # přes tag <i>, bold označení v copper přes <b>.
         block.append(Paragraph(
-            f'<font color="#9C4A28"><b>Proč je to důležité: </b></font>'
+            f'<font color="#8B5CF6"><b>Proč je to důležité: </b></font>'
             f'<i>{xml_escape(strip_brand_dashes(why))}</i>',
             styles["art_why"],
         ))
@@ -470,14 +470,14 @@ def build_article_block(art: dict[str, Any], idx: int,
     url = art.get("url") or ""
     if url:
         block.append(Paragraph(
-            f'Zdroj: <link href="{url}" color="#9C4A28">{xml_escape(short_url(url))}</link>',
+            f'Zdroj: <link href="{url}" color="#8B5CF6">{xml_escape(short_url(url))}</link>',
             styles["art_source"],
         ))
 
     # Subtilní separator pod blokem
     block.append(Spacer(1, 4))
     block.append(HRFlowable(width="100%", thickness=0.3,
-                            color=BORDER, spaceBefore=2, spaceAfter=14))
+                            color=BORDER, spaceBefore=2, spaceAfter=24))
 
     return KeepTogether(block)
 
@@ -516,9 +516,9 @@ def main() -> int:
         leftMargin=22 * mm, rightMargin=22 * mm,
         topMargin=32 * mm, bottomMargin=22 * mm,
         title=f"AI News · {format_cz_date(date)}",
-        author="AI NA MÍRU",
+        author="CRUZ",
         subject="Denní AI news digest",
-        creator="AI News bot (AI NA MÍRU)",
+        creator="AI News bot (CRUZ)",
     )
 
     story: list = []
