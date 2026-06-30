@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-30",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "ČTÚ vybral novou vedoucí pro regulaci umělé inteligence v Česku",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Český telekomunikační úřad obsadil klíčovou pozici vedoucí nového týmu pro umělou inteligenci.",
+        "Místo získala Anna Hroudová, která dosud působila ve Svazu průmyslu a dopravy ČR.",
+        "Do úřadu nastoupí v září a bude mít na starosti implementaci evropského nařízení o AI."
+      ],
+      "why_matters": "Zásadní personální krok pro to, jak se bude evropský Akt o AI vymáhat v českém prostředí.",
+      "url": "https://www.lupa.cz/aktuality/uz-vime-kdo-bude-dohlizet-na-regulaci-umele-inteligence-v-cesku-ctu-si-vybral-novou-vedouci/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 2,
+      "title_cs": "DeepSeek vydává open-source nástroj DSpark pro zrychlení inference o 85 procent",
+      "title_orig": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
+      "category": "open-source",
+      "summary_cs": [
+        "Čínská společnost DeepSeek představila nový open-source framework DSpark.",
+        "Tento nástroj dokáže zrychlit inferenci velkých jazykových modelů až o 85 procent.",
+        "Vydání přichází v době rostoucího geopolitického napětí a omezování přístupu k americkým modelům."
+      ],
+      "why_matters": "Výrazné zrychlení běhu modelů zdarma posouvá možnosti lokálního nasazení AI pro české vývojáře.",
+      "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Bezpečnostní trhlina v Claude Code umožnila útočníkům spustit škodlivý kód přes Sentry",
+      "title_orig": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
+      "category": "news",
+      "summary_cs": [
+        "Výzkumníci odhalili kritickou zranitelnost v nástroji Claude Code, která obchází tradiční firewally.",
+        "Útok zneužívá falešné chybové hlášení v platformě Sentry ke spuštění kódu s plnými právy vývojáře.",
+        "Podobné riziko hrozí i při integraci s dalšími populárními nástroji jako Jira nebo Datadog."
+      ],
+      "why_matters": "Upozorňuje na nová bezpečnostní rizika autonomních programovacích agentů v českých vývojářských týmech.",
+      "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI láká na nový fyzický hardware pro vývojářský nástroj Codex",
+      "title_orig": "OpenAI is teasing new hardware… for Codex",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost OpenAI zveřejnila video, které naznačuje brzké vydání fyzického zařízení pro vývojáře.",
+        "Půjde o hardwarový ovladač s tlačítky určený pro rychlé spouštění zkratek v nástroji Codex.",
+        "Oficiální představení novinky je naplánováno na polovinu července."
+      ],
+      "why_matters": "První fyzické zařízení od OpenAI může změnit každodenní workflow českých softwarových inženýrů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Bezpečnost AI agentů vyžaduje sladění jejich akcí, nikoli jen odmítání vstupů",
+      "title_orig": "Agent Safety Is Action Alignment",
+      "category": "research",
+      "summary_cs": [
+        "Tradiční bezpečnostní přístupy založené na odmítání nebezpečných textových dotazů u agentů selhávají.",
+        "Autonomní systémy provádějí reálné akce jako volání nástrojů nebo mazání dat, což vyžaduje nový typ zabezpečení.",
+        "Výzkum navrhuje přechod k takzvanému sladění akcí, které kontroluje samotné prováděné operace."
+      ],
+      "why_matters": "Klíčový teoretický posun pro bezpečné nasazení autonomních AI systémů v českých podnicích.",
+      "url": "https://arxiv.org/abs/2606.28739",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "DeepReinforce vydává rodinu otevřených modelů Ornith-1.0 pro autonomní programování",
+      "title_orig": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+      "category": "open-source",
+      "summary_cs": [
+        "Startup DeepReinforce představil své první otevřené modely pod licencí MIT.",
+        "Modely Ornith-1.0 jsou dostupné v různých velikostech od 9 miliard parametrů až po obří MoE verzi.",
+        "Dosahují špičkových výsledků v úlohách zaměřených na autonomní psaní a opravu kódu."
+      ],
+      "why_matters": "Přináší vysoce výkonnou a bezplatnou alternativu k placeným kódovacím asistentům pro české programátory.",
+      "url": "https://simonwillison.net/2026/Jun/29/ornith/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Vědí AI agenti, kdy mají přestat jednat? Nový výzkum zkoumá schopnost odmítnout úkol",
+      "title_orig": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
+      "category": "research",
+      "summary_cs": [
+        "Studie se zaměřuje na schopnost autonomních agentů rozpoznat nesplnitelné nebo špatně zadané úkoly.",
+        "Spolehlivý agent by měl v takových případech včas zastavit svou činnost místo nekonečného zkoušení.",
+        "Výzkum definuje nové metriky pro hodnocení této kritické sebereflexe u velkých jazykových modelů."
+      ],
+      "why_matters": "Pomáhá předcházet finančním ztrátám a zbytečnému plýtvání výpočetními zdroji při chybách v zadání.",
+      "url": "https://arxiv.org/abs/2606.28733",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Populární editor Cursor vydává mobilní aplikaci pro dohled nad AI agenty na cestách",
+      "title_orig": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "category": "tools",
+      "summary_cs": [
+        "Vývojářská platforma Cursor spustila novou mobilní aplikaci pro vzdálenou správu.",
+        "Uživatelé mohou sledovat postup svých autonomních kódovacích agentů přímo z telefonu.",
+        "Aplikace umožňuje schvalovat změny v kódu a zadávat nové instrukce na dálku."
+      ],
+      "why_matters": "Umožňuje českým vývojářům efektivně řídit dlouhotrvající programovací úkoly odkudkoli mimo kancelář.",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Anthropic uzavřel dohodu s Kalifornií a nabízí státní správě modely Claude za polovic",
+      "title_orig": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Anthropic se dohodla s kalifornským guvernérem na strategickém partnerství.",
+        "Státní úřady v Kalifornii získají přístup k pokročilým modelům Claude s padesátiprocentní slevou.",
+        "Tento krok přichází v době, kdy Anthropic čelí zvýšenému tlaku ze strany federální vlády."
+      ],
+      "why_matters": "Ukazuje možný model spolupráce mezi tvůrci AI a veřejným sektorem, který by mohl inspirovat i Česko.",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Populární srovnávač AI modelů Arena dosáhl tržní hodnoty sto milionů dolarů",
+      "title_orig": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "category": "business",
+      "summary_cs": [
+        "Startup provozující nezávislý srovnávací portál pro umělou inteligenci zaznamenal raketový růst.",
+        "Komerční verze platformy byla spuštěna teprve v září loňského roku.",
+        "Služba se stala celosvětovým standardem pro hodnocení a porovnávání výkonu LLM modelů."
+      ],
+      "why_matters": "Potvrzuje obrovský komerční potenciál nezávislého testování a benchmarkingu AI technologií.",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Jihokorejské technologické firmy investují přes 550 miliard dolarů do výroby pamětí pro AI",
+      "title_orig": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "category": "business",
+      "summary_cs": [
+        "Dva největší světoví výrobci paměťových čipů se zavázali k masivní výstavbě nových továren.",
+        "Cílem investice je odvrátit hrozící globální nedostatek pamětí typu HBM pro AI akcelerátory.",
+        "Jižní Korea si tím chce upevnit pozici klíčové velmoci v oblasti hardwarové infrastruktury."
+      ],
+      "why_matters": "Zajištění stability dodavatelského řetězce čipů přímo ovlivní dostupnost a ceny AI hardwaru v Evropě.",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Nová zpráva od OpenAI mapuje dopady umělé inteligence na evropský trh práce",
+      "title_orig": "Mapping Europe’s AI Workforce Opportunity",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zveřejnila podrobnou analýzu vlivu AI na pracovní místa v Evropské unii.",
+        "Zpráva identifikuje profese, které čeká největší míra automatizace nebo naopak růstu.",
+        "Důraz je kladen na nutnost rekvalifikace a adaptace pracovních postupů v evropských firmách."
+      ],
+      "why_matters": "Poskytuje cenná data pro strategické plánování lidských zdrojů v českých firmách a institucích.",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Hudební platforma Tidal přestane vyplácet autorské poplatky za hudbu vytvořenou AI",
+      "title_orig": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "category": "news",
+      "summary_cs": [
+        "Streamovací služba Tidal představila nová pravidla pro nakládání s obsahem generovaným AI.",
+        "Od poloviny července budou skladby vytvořené výhradně umělou inteligencí označeny speciální ikonou.",
+        "Tidal tyto skladby nezakáže, ale zcela u nich zastaví vyplácení finančních odměn."
+      ],
+      "why_matters": "První zásadní krok velké streamovací platformy k ochraně lidských umělců před záplavou AI generovaného obsahu.",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Dodavatelé společnosti Meta se vydávali za teenagery při testování konkurenčních chatbotů",
+      "title_orig": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "category": "news",
+      "summary_cs": [
+        "Stovky externích pracovníků pro firmu Meta předstíraly na internetu nezletilý věk.",
+        "Cílem bylo otestovat, jak konkurenční chatboti jako ChatGPT nebo Gemini reagují na riziková témata.",
+        "Zjištění vyvolávají etické otázky ohledně metod konkurenčního boje v oblasti AI."
+      ],
+      "why_matters": "Ukazuje na ostrý konkurenční boj a kontroverzní metody testování bezpečnosti u největších technologických hráčů.",
+      "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Multimodální model NIVA přináší pokročilé předpovídání vývoje klimatu a počasí",
+      "title_orig": "NIVA: A Multimodal Foundation Model for Actionable Earth System Intelligence",
+      "category": "labs",
+      "summary_cs": [
+        "Vědci představili nový multimodální základní model NIVA pro analýzu zemského systému.",
+        "Model dokáže simulovat složité vazby mezi atmosférou, oceány a pevninou s nízkými náklady.",
+        "Nástroj výrazně zpřesňuje dlouhodobé předpovědi počasí a modelování klimatických změn."
+      ],
+      "why_matters": "Nabízí přesnější nástroje pro predikci extrémních projevů počasí, což je klíčové pro české zemědělství a průmysl.",
+      "url": "https://arxiv.org/abs/2606.28546",
+      "source": "ArXiv cs.LG"
+    }
+  ]
+}
