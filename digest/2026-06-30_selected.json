@@ -3,212 +3,212 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "ČTÚ vybral novou vedoucí pro regulaci umělé inteligence v Česku",
-      "title_orig": null,
-      "category": "news",
+      "title_cs": "Šéf Nvidie podepsal AI servery nové generace, které se budou vyrábět v Česku",
+      "title_orig": "Nadšený šéf Nvidie podepsal AI servery nové generace, které se budou vyrábět v Česku. Složí se za pět minut",
+      "category": "wildcard",
       "summary_cs": [
-        "Český telekomunikační úřad obsadil klíčovou pozici vedoucí nového týmu pro umělou inteligenci.",
-        "Místo získala Anna Hroudová, která dosud působila ve Svazu průmyslu a dopravy ČR.",
-        "Do úřadu nastoupí v září a bude mít na starosti implementaci evropského nařízení o AI."
+        "Nová generace AI serverů Nvidia Vera Rubin se bude vyrábět přímo v České republice.",
+        "Servery jsou navrženy pro extrémně rychlé sestavení během pouhých pěti minut.",
+        "Tento krok posiluje roli tuzemského průmyslu v globálním dodavatelském řetězci pro umělou inteligenci."
       ],
-      "why_matters": "Zásadní personální krok pro to, jak se bude evropský Akt o AI vymáhat v českém prostředí.",
-      "url": "https://www.lupa.cz/aktuality/uz-vime-kdo-bude-dohlizet-na-regulaci-umele-inteligence-v-cesku-ctu-si-vybral-novou-vedouci/",
+      "why_matters": "Česká republika se přímo zapojuje do výroby nejmodernějšího hardwaru pro globální AI infrastrukturu.",
+      "url": "https://www.lupa.cz/clanky/nadseny-sef-nvidie-podepsal-ai-servery-nove-generace-ktere-se-budou-vyrabet-v-cesku-slozi-se-za-pet-minut/",
       "source": "Lupa.cz"
     },
     {
       "rank": 2,
-      "title_cs": "DeepSeek vydává open-source nástroj DSpark pro zrychlení inference o 85 procent",
-      "title_orig": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
+      "title_cs": "Meituan vydává open-source model LongCat-2.0 vycvičený na čínských čipech",
+      "title_orig": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter – trained entirely on Chinese chips",
       "category": "open-source",
       "summary_cs": [
-        "Čínská společnost DeepSeek představila nový open-source framework DSpark.",
-        "Tento nástroj dokáže zrychlit inferenci velkých jazykových modelů až o 85 procent.",
-        "Vydání přichází v době rostoucího geopolitického napětí a omezování přístupu k americkým modelům."
+        "Čínská společnost Meituan uvolnila model LongCat-2.0 s kapacitou 1,6 bilionu parametrů.",
+        "Model dosud tajně dominoval vývojářským žebříčkům na platformě OpenRouter pod kódovým označením Owl Alpha.",
+        "Celý trénink proběhl výhradně na čínských hardwarových čipech, což ukazuje technologickou nezávislost."
       ],
-      "why_matters": "Výrazné zrychlení běhu modelů zdarma posouvá možnosti lokálního nasazení AI pro české vývojáře.",
-      "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
+      "why_matters": "Ukazuje, že špičkové programovací AI modely lze vyvíjet i bez závislosti na západním hardwaru.",
+      "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
       "source": "VentureBeat AI"
     },
     {
       "rank": 3,
-      "title_cs": "Bezpečnostní trhlina v Claude Code umožnila útočníkům spustit škodlivý kód přes Sentry",
-      "title_orig": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
-      "category": "news",
+      "title_cs": "OpenAI mapuje dopad umělé inteligence na pracovní trh v Evropě",
+      "title_orig": "Mapping Europe’s AI Workforce Opportunity",
+      "category": "labs",
       "summary_cs": [
-        "Výzkumníci odhalili kritickou zranitelnost v nástroji Claude Code, která obchází tradiční firewally.",
-        "Útok zneužívá falešné chybové hlášení v platformě Sentry ke spuštění kódu s plnými právy vývojáře.",
-        "Podobné riziko hrozí i při integraci s dalšími populárními nástroji jako Jira nebo Datadog."
+        "Nová zpráva od OpenAI podrobně analyzuje, jak AI promění pracovní pozice napříč Evropskou unií.",
+        "Studie identifikuje sektory, které čeká nejvýraznější automatizace, i oblasti s potenciálem pro růst.",
+        "Důraz je kladen na nutnost rekvalifikace a adaptace stávajících pracovních postupů."
       ],
-      "why_matters": "Upozorňuje na nová bezpečnostní rizika autonomních programovacích agentů v českých vývojářských týmech.",
-      "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
-      "source": "VentureBeat AI"
+      "why_matters": "Analýza poskytuje klíčová data pro strategické plánování evropských firem a vzdělávacích institucí.",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "source": "OpenAI Blog"
     },
     {
       "rank": 4,
-      "title_cs": "OpenAI láká na nový fyzický hardware pro vývojářský nástroj Codex",
-      "title_orig": "OpenAI is teasing new hardware… for Codex",
-      "category": "tools",
+      "title_cs": "Debata o vlivu AI na pracovní místa se komplikuje, adopce zvyšuje stavy",
+      "title_orig": "The AI jobs debate just got messier",
+      "category": "news",
       "summary_cs": [
-        "Společnost OpenAI zveřejnila video, které naznačuje brzké vydání fyzického zařízení pro vývojáře.",
-        "Půjde o hardwarový ovladač s tlačítky určený pro rychlé spouštění zkratek v nástroji Codex.",
-        "Oficiální představení novinky je naplánováno na polovinu července."
+        "Nová studie ukazuje, že firmy intenzivně využívající AI zaznamenaly nárůst celkového počtu zaměstnanců o 10,2 procenta.",
+        "Počet pozic pro absolventy a juniory u těchto firem vzrostl dokonce o 12 procent.",
+        "Tato data přímo vyvracejí zažité obavy, že nasazení umělé inteligence okamžitě zničí startovací pracovní pozice."
       ],
-      "why_matters": "První fyzické zařízení od OpenAI může změnit každodenní workflow českých softwarových inženýrů.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-      "source": "The Verge AI"
+      "why_matters": "Přináší optimistický pohled na zaměstnanost a ukazuje, že AI může nová pracovní místa spoluvytvářet.",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 5,
-      "title_cs": "Bezpečnost AI agentů vyžaduje sladění jejich akcí, nikoli jen odmítání vstupů",
-      "title_orig": "Agent Safety Is Action Alignment",
-      "category": "research",
+      "title_cs": "Anthropic uzavřel dohodu s Kalifornií, stát získá model Claude za polovic",
+      "title_orig": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "category": "business",
       "summary_cs": [
-        "Tradiční bezpečnostní přístupy založené na odmítání nebezpečných textových dotazů u agentů selhávají.",
-        "Autonomní systémy provádějí reálné akce jako volání nástrojů nebo mazání dat, což vyžaduje nový typ zabezpečení.",
-        "Výzkum navrhuje přechod k takzvanému sladění akcí, které kontroluje samotné prováděné operace."
+        "Guvernér Gavin Newsom vyjednal pro kalifornskou státní správu padesátiprocentní slevu na využívání modelů Claude.",
+        "Tento krok má urychlit integraci moderních AI nástrojů do veřejných služeb nejbohatšího amerického státu.",
+        "Partnerství přichází v době rostoucího napětí mezi federální vládou a konkurenční společností OpenAI."
       ],
-      "why_matters": "Klíčový teoretický posun pro bezpečné nasazení autonomních AI systémů v českých podnicích.",
-      "url": "https://arxiv.org/abs/2606.28739",
-      "source": "ArXiv cs.AI"
+      "why_matters": "Ukazuje, jak státní správa může efektivně vyjednávat s technologickými giganty o cenách.",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 6,
-      "title_cs": "DeepReinforce vydává rodinu otevřených modelů Ornith-1.0 pro autonomní programování",
-      "title_orig": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-      "category": "open-source",
+      "title_cs": "Jižní Korea investuje přes 550 miliard dolarů do odvrácení paměťové krize",
+      "title_orig": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "category": "business",
       "summary_cs": [
-        "Startup DeepReinforce představil své první otevřené modely pod licencí MIT.",
-        "Modely Ornith-1.0 jsou dostupné v různých velikostech od 9 miliard parametrů až po obří MoE verzi.",
-        "Dosahují špičkových výsledků v úlohách zaměřených na autonomní psaní a opravu kódu."
+        "Přední jihokorejské technologické firmy investují obří prostředky do výstavby nových továren na paměťové čipy.",
+        "Cílem je uspokojit masivní globální poptávku po hardwaru, kterou pohání rozmach generativní AI.",
+        "Země si chce tímto krokem zajistit pozici klíčové velmoci v oblasti fyzické AI infrastruktury."
       ],
-      "why_matters": "Přináší vysoce výkonnou a bezplatnou alternativu k placeným kódovacím asistentům pro české programátory.",
-      "url": "https://simonwillison.net/2026/Jun/29/ornith/",
-      "source": "Simon Willison's Weblog"
+      "why_matters": "Masivní investice mohou stabilizovat ceny a dostupnost klíčových komponent pro AI servery.",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 7,
-      "title_cs": "Vědí AI agenti, kdy mají přestat jednat? Nový výzkum zkoumá schopnost odmítnout úkol",
-      "title_orig": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
-      "category": "research",
+      "title_cs": "Srovnávací platforma Arena se stala byznysem s hodnotou 100 milionů dolarů",
+      "title_orig": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "category": "business",
       "summary_cs": [
-        "Studie se zaměřuje na schopnost autonomních agentů rozpoznat nesplnitelné nebo špatně zadané úkoly.",
-        "Spolehlivý agent by měl v takových případech včas zastavit svou činnost místo nekonečného zkoušení.",
-        "Výzkum definuje nové metriky pro hodnocení této kritické sebereflexe u velkých jazykových modelů."
+        "Populární srovnávací platforma pro AI modely dosáhla po spuštění komerčních služeb obrovského finančního úspěchu.",
+        "Projekt, který začínal jako bezplatný komunitní benchmark, dokázal rychle monetizovat svou důvěryhodnost.",
+        "Rychlý růst potvrzuje hlad firem po nezávislém hodnocení schopností jednotlivých jazykových modelů."
       ],
-      "why_matters": "Pomáhá předcházet finančním ztrátám a zbytečnému plýtvání výpočetními zdroji při chybách v zadání.",
-      "url": "https://arxiv.org/abs/2606.28733",
-      "source": "ArXiv cs.AI"
+      "why_matters": "Potvrzuje, že nezávislé testování a srovnávání AI modelů představuje vysoce lukrativní tržní niku.",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 8,
-      "title_cs": "Populární editor Cursor vydává mobilní aplikaci pro dohled nad AI agenty na cestách",
+      "title_cs": "Cursor vydává mobilní aplikaci pro vzdálené řízení programovacích agentů",
       "title_orig": "Cursor now has a mobile app for guiding your coding agent on the go",
       "category": "tools",
       "summary_cs": [
-        "Vývojářská platforma Cursor spustila novou mobilní aplikaci pro vzdálenou správu.",
-        "Uživatelé mohou sledovat postup svých autonomních kódovacích agentů přímo z telefonu.",
-        "Aplikace umožňuje schvalovat změny v kódu a zadávat nové instrukce na dálku."
+        "Oblíbený vývojářský editor Cursor představil mobilní aplikaci pro platformy iOS a Android.",
+        "Aplikace umožňuje vývojářům dohlížet na autonomní kódovací agenty i mimo pracovní stůl.",
+        "Uživatelé mohou schvalovat změny v kódu, zadávat nové úkoly a sledovat postup práce v reálném čase."
       ],
-      "why_matters": "Umožňuje českým vývojářům efektivně řídit dlouhotrvající programovací úkoly odkudkoli mimo kancelář.",
+      "why_matters": "Posouvá možnosti mobilního vývoje a dohledu nad autonomními agenty na novou úroveň.",
       "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 9,
-      "title_cs": "Anthropic uzavřel dohodu s Kalifornií a nabízí státní správě modely Claude za polovic",
-      "title_orig": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "category": "business",
-      "summary_cs": [
-        "Společnost Anthropic se dohodla s kalifornským guvernérem na strategickém partnerství.",
-        "Státní úřady v Kalifornii získají přístup k pokročilým modelům Claude s padesátiprocentní slevou.",
-        "Tento krok přichází v době, kdy Anthropic čelí zvýšenému tlaku ze strany federální vlády."
-      ],
-      "why_matters": "Ukazuje možný model spolupráce mezi tvůrci AI a veřejným sektorem, který by mohl inspirovat i Česko.",
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 10,
-      "title_cs": "Populární srovnávač AI modelů Arena dosáhl tržní hodnoty sto milionů dolarů",
-      "title_orig": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "category": "business",
-      "summary_cs": [
-        "Startup provozující nezávislý srovnávací portál pro umělou inteligenci zaznamenal raketový růst.",
-        "Komerční verze platformy byla spuštěna teprve v září loňského roku.",
-        "Služba se stala celosvětovým standardem pro hodnocení a porovnávání výkonu LLM modelů."
-      ],
-      "why_matters": "Potvrzuje obrovský komerční potenciál nezávislého testování a benchmarkingu AI technologií.",
-      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 11,
-      "title_cs": "Jihokorejské technologické firmy investují přes 550 miliard dolarů do výroby pamětí pro AI",
-      "title_orig": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "category": "business",
-      "summary_cs": [
-        "Dva největší světoví výrobci paměťových čipů se zavázali k masivní výstavbě nových továren.",
-        "Cílem investice je odvrátit hrozící globální nedostatek pamětí typu HBM pro AI akcelerátory.",
-        "Jižní Korea si tím chce upevnit pozici klíčové velmoci v oblasti hardwarové infrastruktury."
-      ],
-      "why_matters": "Zajištění stability dodavatelského řetězce čipů přímo ovlivní dostupnost a ceny AI hardwaru v Evropě.",
-      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 12,
-      "title_cs": "Nová zpráva od OpenAI mapuje dopady umělé inteligence na evropský trh práce",
-      "title_orig": "Mapping Europe’s AI Workforce Opportunity",
-      "category": "labs",
-      "summary_cs": [
-        "OpenAI zveřejnila podrobnou analýzu vlivu AI na pracovní místa v Evropské unii.",
-        "Zpráva identifikuje profese, které čeká největší míra automatizace nebo naopak růstu.",
-        "Důraz je kladen na nutnost rekvalifikace a adaptace pracovních postupů v evropských firmách."
-      ],
-      "why_matters": "Poskytuje cenná data pro strategické plánování lidských zdrojů v českých firmách a institucích.",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "source": "OpenAI Blog"
-    },
-    {
-      "rank": 13,
-      "title_cs": "Hudební platforma Tidal přestane vyplácet autorské poplatky za hudbu vytvořenou AI",
-      "title_orig": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
-      "category": "news",
-      "summary_cs": [
-        "Streamovací služba Tidal představila nová pravidla pro nakládání s obsahem generovaným AI.",
-        "Od poloviny července budou skladby vytvořené výhradně umělou inteligencí označeny speciální ikonou.",
-        "Tidal tyto skladby nezakáže, ale zcela u nich zastaví vyplácení finančních odměn."
-      ],
-      "why_matters": "První zásadní krok velké streamovací platformy k ochraně lidských umělců před záplavou AI generovaného obsahu.",
-      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "source": "The Verge AI"
-    },
-    {
-      "rank": 14,
-      "title_cs": "Dodavatelé společnosti Meta se vydávali za teenagery při testování konkurenčních chatbotů",
+      "title_cs": "Dodavatelé Mety se vydávali za teenagery, aby testovali konkurenční chatboty",
       "title_orig": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
       "category": "news",
       "summary_cs": [
-        "Stovky externích pracovníků pro firmu Meta předstíraly na internetu nezletilý věk.",
-        "Cílem bylo otestovat, jak konkurenční chatboti jako ChatGPT nebo Gemini reagují na riziková témata.",
-        "Zjištění vyvolávají etické otázky ohledně metod konkurenčního boje v oblasti AI."
+        "Stovky externích pracovníků pro společnost Meta předstíraly na internetu nezletilý věk.",
+        "Cílem bylo otestovat, jak konkurenční systémy jako ChatGPT či Gemini reagují na vysoce riziková témata.",
+        "Zjištění vyvolávají etické otázky ohledně metod konkurenčního boje a testování bezpečnosti."
       ],
-      "why_matters": "Ukazuje na ostrý konkurenční boj a kontroverzní metody testování bezpečnosti u největších technologických hráčů.",
+      "why_matters": "Odhaluje agresivní praktiky technologických firem při analýze bezpečnostních limitů konkurence.",
       "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
       "source": "Wired AI"
     },
     {
-      "rank": 15,
-      "title_cs": "Multimodální model NIVA přináší pokročilé předpovídání vývoje klimatu a počasí",
-      "title_orig": "NIVA: A Multimodal Foundation Model for Actionable Earth System Intelligence",
-      "category": "labs",
+      "rank": 10,
+      "title_cs": "Tidal omezuje monetizaci hudby generované umělou inteligencí",
+      "title_orig": "TIDAL cracks down on AI music by cutting off monetization",
+      "category": "news",
       "summary_cs": [
-        "Vědci představili nový multimodální základní model NIVA pro analýzu zemského systému.",
-        "Model dokáže simulovat složité vazby mezi atmosférou, oceány a pevninou s nízkými náklady.",
-        "Nástroj výrazně zpřesňuje dlouhodobé předpovědi počasí a modelování klimatických změn."
+        "Streamovací platforma Tidal zavádí přísná pravidla a odepře licenční poplatky čistě AI skladbám.",
+        "Skladby identifikované jako stoprocentní AI výtvory budou od poloviny července označeny speciální ikonou.",
+        "Platforma nasadí automatické nástroje k odstraňování obsahu, který se snaží parazitovat na známých umělcích."
       ],
-      "why_matters": "Nabízí přesnější nástroje pro predikci extrémních projevů počasí, což je klíčové pro české zemědělství a průmysl.",
-      "url": "https://arxiv.org/abs/2606.28546",
+      "why_matters": "Jde o významný krok v ochraně autorských práv tradičních hudebníků před záplavou AI generovaného obsahu.",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Návrh zákona v USA chce zakázat prodej zdravotních dat z AI chatbotů",
+      "title_orig": "Lawmakers want to ban AI companies from selling your health data",
+      "category": "news",
+      "summary_cs": [
+        "Američtí zákonodárci připravují legislativu, která zakáže prodej citlivých informací o zdraví a poloze.",
+        "Zákaz se má vztahovat i na data, která uživatelé dobrovolně sdělí konverzačním asistentům.",
+        "Iniciativa reaguje na rostoucí obavy z úniku soukromých lékařských dotazů do rukou datových brokerů."
+      ],
+      "why_matters": "Naznačuje budoucí směr regulace ochrany osobních údajů při interakci s AI asistenty.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Robotická firma Proception urovnala spor s Teslou a získala investici",
+      "title_orig": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Proception, zaměřený na vývoj robotických rukou, úspěšně urovnal soudní spor s automobilkou Tesla.",
+        "Firma zároveň oznámila získání investice ve výši 11 milionů dolarů na další vývoj.",
+        "Proception se soustředí na unikátní sběr tréninkových dat pro simulaci jemné lidské motoriky."
+      ],
+      "why_matters": "Pokrok v oblasti robotických rukou je klíčový pro nasazení humanoidních robotů v reálném světě.",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Omen AI získává miliony na optimalizaci chlazení datových center",
+      "title_orig": "Omen AI’s plan to optimize data centers is all wet",
+      "category": "business",
+      "summary_cs": [
+        "Startup Omen AI uzavřel investiční kolo Series A v hodnotě 31 milionů dolarů.",
+        "Peníze využije na vývoj systému pro monitorování chladicích kapalin v čipech.",
+        "Technologie pomáhá předcházet bakteriálním nákazám a optimalizuje energetickou účinnost datacenter."
+      ],
+      "why_matters": "Efektivní chlazení je kritické pro udržitelný provoz energeticky náročné AI infrastruktury.",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Rekurzivně se vyvíjející agenti bez nutnosti aktualizace vah",
+      "title_orig": "Recursive Self-Evolving Agents via Held-Out Selection",
+      "category": "research",
+      "summary_cs": [
+        "Vědecká práce představuje metodu, jak zlepšovat schopnosti AI agentů bez nákladného přetrénování.",
+        "Agenti se učí optimalizací textových artefaktů, jako jsou pracovní postupy, nápovědy či reflexe.",
+        "Tento přístup umožňuje dynamické přizpůsobení modelů v reálném čase přímo během nasazení."
+      ],
+      "why_matters": "Umožňuje levnější a rychlejší evoluci chování AI systémů bez nutnosti měnit samotný model.",
+      "url": "https://arxiv.org/abs/2606.28374",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Nový benchmark hodnotí schopnost AI generovat vědecké ilustrace",
+      "title_orig": "Can AI Draw Science? A Benchmark for Evaluating Scientific Figure Generation by Text-to-Image and Multimodal Models",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili specializovaný benchmark pro hodnocení přesnosti generovaných vědeckých schémat.",
+        "Stávající obrazové modely často selhávají při tvorbě přesných diagramů a grafických abstraktů.",
+        "Nový nástroj pomůže vývojářům lépe vyladit modely pro potřeby akademické a technické komunity."
+      ],
+      "why_matters": "Pomáhá zvýšit spolehlivost vizuálních výstupů AI pro vědecké a vzdělávací účely.",
+      "url": "https://arxiv.org/abs/2606.28406",
       "source": "ArXiv cs.LG"
     }
   ]
