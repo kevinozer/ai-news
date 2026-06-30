@@ -3,212 +3,212 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "Nvidia podepsala novou generaci AI serverů, které se budou vyrábět v Česku",
+      "title_cs": "Nvidia podepsala servery nové generace vyráběné v Česku",
       "title_orig": "Nadšený šéf Nvidie podepsal AI servery nové generace, které se budou vyrábět v Česku. Složí se za pět minut",
       "category": "news",
       "summary_cs": [
-        "Nová generace AI serverů Nvidia Vera Rubin se bude vyrábět v České republice.",
-        "Servery jsou navrženy pro extrémně rychlé sestavení a pomohou řešit přetrvávající paměťovou krizi.",
-        "Česká republika se tímto krokem přímo zapojuje do globálního dodavatelského řetězce nejmodernějšího hardwaru."
+        "Nová generace serverů Nvidia Vera Rubin s paměťmi HBM se bude vyrábět přímo v České republice.",
+        "Šéf společnosti Nvidia Jensen Huang tyto servery osobně podepsal a vyzdvihl jejich modulární konstrukci.",
+        "Sestavení celého serverového systému je navrženo tak, aby nezabralo více než pět minut."
       ],
-      "why_matters": "Tato zpráva má přímý dopad na český technologický průmysl a posiluje roli ČR v globální AI infrastruktuře.",
+      "why_matters": "Tato zpráva ukazuje přímé zapojení českého průmyslu do výroby nejmodernější globální AI infrastruktury.",
       "url": "https://www.lupa.cz/clanky/nadseny-sef-nvidie-podepsal-ai-servery-nove-generace-ktere-se-budou-vyrabet-v-cesku-slozi-se-za-pet-minut/",
       "source": "Lupa.cz"
     },
     {
       "rank": 2,
-      "title_cs": "Čínský gigant Meituan vydal open-source model LongCat-2.0 vycvičený na domácích čipech",
+      "title_cs": "Meituan vydává LongCat-2.0, špičkový model pro kódování vycvičený na čínských čipech",
       "title_orig": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter - trained entirely on Chinese chips",
       "category": "open-source",
       "summary_cs": [
-        "Čínská společnost Meituan uvolnila model LongCat-2.0 s kapacitou 1,6 bilionu parametrů.",
-        "Model byl vycvičen výhradně na čínském hardwaru a dosahoval skvělých výsledků na platformě OpenRouter.",
-        "Tento krok ukazuje rostoucí nezávislost čínského AI výzkumu na západních technologiích."
+        "Čínská společnost Meituan uvolnila jako open-source model LongCat-2.0 s kapacitou 1,6 bilionu parametrů.",
+        "Model byl dříve známý pod pseudonymem Owl Alpha a dlouhodobě vedl žebříčky kódovacích modelů na platformě OpenRouter.",
+        "Celý trénink probíhal výhradně na čínských hardwarových čipech, což ukazuje na technologickou nezávislost."
       ],
-      "why_matters": "Ukazuje, že špičkové programovací modely lze úspěšně trénovat i bez nejnovějšího hardwaru od Nvidie.",
+      "why_matters": "Dokazuje to, že špičkové open-source modely lze úspěšně vyvíjet i bez závislosti na západním hardwaru.",
       "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
       "source": "VentureBeat AI"
     },
     {
       "rank": 3,
       "title_cs": "Jižní Korea investuje přes 550 miliard dolarů do výroby pamětí a humanoidních robotů",
-      "title_orig": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "title_orig": "South Korea to spend $1T on more memory chip production and humanoid robots",
       "category": "business",
       "summary_cs": [
-        "Jihokorejské technologické firmy se zavázaly k masivní investici do nových továren na paměťové čipy.",
-        "Cílem je odvrátit hrozící nedostatek pamětí typu HBM, které jsou klíčové pro moderní AI akcelerátory.",
-        "Země se tímto krokem snaží upevnit svou pozici globální velmoci v oblasti hardwarové infrastruktury."
+        "Jižní Korea plánuje masivní investice s cílem zajistit si globální prvenství v oblasti fyzické umělé inteligence.",
+        "Hlavním cílem je odvrátit hrozící nedostatek paměťových čipů a výrazně navýšit jejich domácí produkci.",
+        "Země chce do roku 2028 uvést do běžného komerčního provozu pokročilé humanoidní roboty."
       ],
-      "why_matters": "Masivní investice stabilizuje dodávky klíčových pamětí, což ovlivní dostupnost a ceny AI hardwaru i u nás.",
-      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "source": "TechCrunch AI"
+      "why_matters": "Tento obří státní stimul zásadně ovlivní globální dostupnost klíčových hardwarových komponent pro AI.",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "source": "Ars Technica"
     },
     {
       "rank": 4,
-      "title_cs": "Nová studie ukazuje, že adopce AI zvyšuje počet zaměstnanců i na juniorských pozicích",
+      "title_cs": "Intenzivní adopce AI zvyšuje počet zaměstnanců, včetně pozic pro absolventy",
       "title_orig": "The AI jobs debate just got messier",
       "category": "news",
       "summary_cs": [
-        "Firmy s vysokou mírou adopce umělé inteligence zaznamenaly nárůst celkového počtu zaměstnanců o více než deset procent.",
-        "Počet pozic pro začínající pracovníky v těchto organizacích vzrostl o dvanáct procent.",
-        "Tato data vyvracejí zažité obavy, že nasazení AI povede k okamžitému propouštění juniorních specialistů."
+        "Nová studie ukazuje, že firmy s vysokou mírou adopce AI zaznamenaly průměrný nárůst počtu zaměstnanců o 10,2 procenta.",
+        "U těchto společností navíc vzrostl počet pozic pro začínající pracovníky o 12 procent.",
+        "Tato data přímo vyvracejí zažité obavy, že nasazení umělé inteligence povede k okamžitému propouštění juniorů."
       ],
-      "why_matters": "Přináší reálná data do debaty o dopadu umělé inteligence na trh práce a budoucnost juniorních pozic.",
+      "why_matters": "Přináší reálná data do debaty o dopadu umělé inteligence na trh práce a uklidňuje obavy absolventů.",
       "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 5,
-      "title_cs": "Anthropic uzavřel dohodu s Kalifornií a nabízí model Claude za poloviční cenu",
+      "title_cs": "Anthropic nabízí Kalifornii model Claude za poloviční cenu",
       "title_orig": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
       "category": "business",
       "summary_cs": [
-        "Společnost Anthropic se dohodla s guvernérem Kalifornie na poskytování svých modelů pro státní správu.",
-        "Úřady budou moci využívat pokročilý model Claude s výraznou padesátiprocentní slevou.",
-        "Tento krok ukazuje snahu o hlubší integraci umělé inteligence do procesů veřejného sektoru."
+        "Společnost Anthropic uzavřela partnerství s kalifornským guvernérem Gavinem Newsomem.",
+        "Díky této dohodě může státní správa v Kalifornii využívat pokročilý model Claude s padesátiprocentní slevou.",
+        "Krok přichází v době, kdy se konkurenční OpenAI potýká s přísnějšími vládními regulacemi."
       ],
-      "why_matters": "Představuje precedent pro to, jak mohou technologické firmy spolupracovat se státní správou při adopci AI.",
+      "why_matters": "Ukazuje, jak se tvůrci AI snaží získat vliv ve státní správě prostřednictvím strategických slev.",
       "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 6,
-      "title_cs": "OpenAI zmapovala dopad umělé inteligence na pracovní sílu v Evropské unii",
-      "title_orig": "Mapping Europe’s AI Workforce Opportunity",
-      "category": "labs",
+      "title_cs": "Arena, populární srovnávač AI modelů, dosáhla hodnoty 100 milionů dolarů",
+      "title_orig": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "category": "business",
       "summary_cs": [
-        "Nová zpráva od OpenAI podrobně analyzuje, jak AI promění pracovní trh v jednotlivých zemích EU.",
-        "Studie identifikuje profese, které čeká největší automatizace, i ty, které díky technologii porostou.",
-        "Důraz je kladen na nutnost rekvalifikace a adaptace stávajících zaměstnanců na nové nástroje."
+        "Startup provozující oblíbený nezávislý benchmark pro hodnocení LLM modelů raketově vyrostl.",
+        "Komerční verze služby byla spuštěna teprve v září loňského roku a již nyní generuje obrovské příjmy.",
+        "Platformu denně využívají tisíce vývojářů i firem pro objektivní porovnání schopností jednotlivých modelů."
       ],
-      "why_matters": "Pomáhá českým manažerům a politikům pochopit, které sektory naší ekonomiky budou nejvíce ovlivněny.",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "source": "OpenAI Blog"
+      "why_matters": "Potvrzuje, že nezávislé hodnocení a testování AI modelů se stalo extrémně cenným byznysem.",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 7,
-      "title_cs": "Služba Tidal přestane vyplácet autorské poplatky za hudbu vytvořenou čistě pomocí AI",
+      "title_cs": "Cursor spouští mobilní aplikaci pro vzdálené řízení programovacích agentů",
+      "title_orig": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "category": "tools",
+      "summary_cs": [
+        "Populární vývojářské prostředí Cursor představilo novou mobilní aplikaci pro iOS a Android.",
+        "Aplikace umožňuje vývojářům dohlížet na autonomní agenty a schvalovat jejich kód přímo z telefonu.",
+        "Cílem je usnadnit správu dlouhotrvajících programovacích úloh bez nutnosti sedět u počítače."
+      ],
+      "why_matters": "Posouvá vývoj softwaru do éry, kdy lze složité kódování řídit odkudkoliv pomocí mobilního telefonu.",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Tidal přestane vyplácet autorské honoráře za hudbu vytvořenou čistě AI",
       "title_orig": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
       "category": "news",
       "summary_cs": [
-        "Hudební platforma Tidal mění pravidla a od poloviny července začne označovat skladby generované AI speciální ikonou.",
-        "Skladby vytvořené stoprocentně umělou inteligencí již nebudou mít nárok na finanční odměny z přehrávání.",
-        "Cílem opatření je chránit lidské umělce a transparentně informovat posluchače o původu děl."
+        "Streamovací platforma Tidal zavádí od poloviny července nová pravidla pro skladby generované umělou inteligencí.",
+        "Skladby, které jsou stoprocentně vytvořené AI, nebudou finančně monetizovány, ale na platformě mohou zůstat.",
+        "Tidal bude tyto nahrávky viditelně označovat speciální ikonou, aby posluchači měli jasný přehled."
       ],
-      "why_matters": "Nastavuje nová pravidla pro monetizaci digitálního obsahu, což ovlivní i české tvůrce a hudebníky.",
+      "why_matters": "Jde o důležitý precedent v ochraně lidských umělců před záplavou levného obsahu generovaného AI.",
       "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "source": "The Verge AI"
     },
     {
-      "rank": 8,
-      "title_cs": "Platforma Base44 spouští vlastní AI model pro zjednodušení vývoje webů",
-      "title_orig": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-      "category": "news",
-      "summary_cs": [
-        "Vývojářská platforma Base44, vlastněná společností Wix, představila svůj vlastní specializovaný model.",
-        "Startup se tímto krokem snaží snížit závislost na obecných modelech od velkých technologických firem.",
-        "Nový model je optimalizován pro rychlé generování a úpravy webových aplikací na základě přirozeného jazyka."
-      ],
-      "why_matters": "Ukazuje trend, kdy se menší platformy snaží budovat vlastní modely pro zvýšení konkurenceschopnosti.",
-      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "source": "TechCrunch AI"
-    },
-    {
       "rank": 9,
-      "title_cs": "Zákonodárci chtějí zakázat prodej zdravotních dat uživatelů AI společnostem",
+      "title_cs": "Zákonodárci chtějí zakázat prodej zdravotních dat z AI chatovacích aplikací",
       "title_orig": "Lawmakers want to ban AI companies from selling your health data",
       "category": "news",
       "summary_cs": [
-        "V USA se připravuje legislativa, která zakáže prodej citlivých zdravotních a lokalizačních údajů datovým brokerům.",
-        "Zákaz se vztahuje i na informace, které lidé dobrovolně sdílejí v chatech s asistenty jako ChatGPT.",
-        "Tento krok reaguje na rostoucí obavy o soukromí uživatelů při používání konverzačních systémů."
+        "V americkém Kongresu vzniká návrh zákona, který má zakázat prodej citlivých informací o zdraví a poloze uživatelů.",
+        "Zákaz by se vztahoval i na data, která lidé dobrovolně sdílejí během konverzací s roboty jako ChatGPT nebo Claude.",
+        "Návrh reaguje na rostoucí obavy ze zneužívání těchto dat brokery a reklamními agenturami."
       ],
-      "why_matters": "Tento legislativní vývoj často předznamenává podobné regulační kroky v rámci Evropské unie.",
+      "why_matters": "Upozorňuje na nutnost chránit extrémně citlivá osobní data, která uživatelé často neuváženě svěřují AI.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
       "source": "The Verge AI"
     },
     {
       "rank": 10,
-      "title_cs": "Omen AI získal investici na optimalizaci chlazení datových center pomocí AI",
-      "title_orig": "Omen AI’s plan to optimize data centers is all wet",
-      "category": "business",
+      "title_cs": "OpenAI mapuje dopad umělé inteligence na pracovní trh v Evropě",
+      "title_orig": "Mapping Europe’s AI Workforce Opportunity",
+      "category": "labs",
       "summary_cs": [
-        "Startup Omen AI získal v investičním kole Series A celkem 31 milionů dolarů.",
-        "Firma vyvíjí systémy pro monitorování chladicích kapalin a prevenci bakteriálních nákaz v datových centrech.",
-        "Optimalizace chlazení je klíčová pro udržení stability a snížení energetické náročnosti AI infrastruktury."
+        "Nová zpráva od OpenAI podrobně analyzuje, jak transformace pomocí AI ovlivní pracovní místa v Evropské unii.",
+        "Studie identifikuje profese, které čeká největší míra automatizace, i ty, které díky AI zaznamenají růst.",
+        "Důraz je kladen na nutnost rekvalifikace a adaptace stávajících pracovních postupů v evropských firmách."
       ],
-      "why_matters": "Řeší kritický problém energetické účinnosti a spolehlivosti datových center, která pohánějí moderní služby.",
-      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-      "source": "TechCrunch AI"
+      "why_matters": "Poskytuje evropským manažerům a politikům vodítko, jak se připravit na změny na trhu práce.",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "source": "OpenAI Blog"
     },
     {
       "rank": 11,
-      "title_cs": "Samočinně se vyvíjející agenti bez nutnosti aktualizace vah modelu",
+      "title_cs": "Google rozšiřuje personalizované generování obrázků v Gemini zdarma pro USA",
+      "title_orig": "Gemini’s personalized AI image generation is now free for US users",
+      "category": "news",
+      "summary_cs": [
+        "Google zpřístupnil funkci personalizovaného generování obrázků v rámci bezplatné verze asistenta Gemini.",
+        "Nástroj dokáže vytvářet vizuální obsah na základě zájmů uživatele a dat propojených z dalších aplikací od Googlu.",
+        "Funkce je prozatím omezena na způsobilé uživatele ve Spojených státech s plánem na pozdější rozšíření."
+      ],
+      "why_matters": "Ukazuje trend propojování osobních dat s generativní AI pro tvorbu vysoce personalizovaného obsahu.",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Rekurzivní sebevývoj AI agentů bez nutnosti aktualizace vah",
       "title_orig": "Recursive Self-Evolving Agents via Held-Out Selection",
       "category": "research",
       "summary_cs": [
-        "Nový výzkum představuje metodu, jak zlepšovat schopnosti AI agentů pomocí optimalizace textových instrukcí.",
-        "Agenti si sami vytvářejí a upravují pracovní postupy, šablony a zpětnou vazbu bez přetrénování sítě.",
-        "Tento přístup umožňuje flexibilní adaptaci na nové úkoly s minimálními výpočetními náklady."
+        "Výzkumníci představili metodu, jak zlepšovat schopnosti LLM agentů bez nákladného přetrénování samotné sítě.",
+        "Agenti se vyvíjejí optimalizací textových artefaktů, jako jsou pracovní postupy, reflexe a upravené prompty.",
+        "Tento přístup umožňuje modelům dynamicky se přizpůsobovat novým úkolům přímo za běhu."
       ],
-      "why_matters": "Umožňuje nasazení efektivnějších a adaptabilnějších AI agentů v podnikových procesech bez drahého trénování.",
+      "why_matters": "Přináší levnější a rychlejší způsob, jak udržovat AI agenty efektivní bez nutnosti neustálého trénování.",
       "url": "https://arxiv.org/abs/2606.28374",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 12,
-      "title_cs": "Jak jemné doladění na neškodných datech může nechtěně obnovit nebezpečné chování",
-      "title_orig": "A Gravitational Interpretation of Fine-Tuning Reversion",
+      "rank": 13,
+      "title_cs": "Stabilní učení s ověřitelnou odměnou bez nutnosti kritického modelu",
+      "title_orig": "BV-Blend: Uncertainty-Weighted Historical Baselines for Stable Critic-Free RL with Verifiable Rewards",
       "category": "research",
       "summary_cs": [
-        "Vědci popsali fenomén, kdy dodatečné trénování na bezpečných datech může oslabit předchozí bezpečnostní filtry.",
-        "Během tohoto procesu může dojít k nechtěnému znovuobjevení dříve potlačených schopností modelu.",
-        "Práce přirovnává tento jev ke gravitačnímu působení původního nastavení parametrů sítě."
+        "Nový algoritmus BV-Blend vylepšuje metodu zpětné vazby GRPO používanou pro zarovnání velkých jazykových modelů.",
+        "Metoda eliminuje potřebu trénovat samostatnou hodnotící funkci, což výrazně snižuje nároky na paměť a výpočetní výkon.",
+        "Díky využití historických bází vážených nejistotou dosahuje proces učení vysoké stability."
       ],
-      "why_matters": "Upozorňuje na skrytá bezpečnostní rizika při přizpůsobování modelů pro specifické firemní účely.",
-      "url": "https://arxiv.org/abs/2606.28525",
-      "source": "ArXiv cs.LG"
+      "why_matters": "Umožňuje efektivnější a levnější ladění modelů, což ocení zejména týmy s omezeným rozpočtem.",
+      "url": "https://arxiv.org/abs/2606.28707",
+      "source": "ArXiv cs.AI"
     },
     {
-      "rank": 13,
-      "title_cs": "NIVA představuje multimodální základní model pro analýzu procesů na Zemi",
+      "rank": 14,
+      "title_cs": "NIVA představuje multimodální základní model pro analýzu systému Země",
       "title_orig": "NIVA: A Multimodal Foundation Model for Actionable Earth System Intelligence",
       "category": "research",
       "summary_cs": [
-        "Představený model NIVA kombinuje různé typy dat pro komplexní předpověď počasí a klimatických změn.",
-        "Na rozdíl od stávajících modelů dokáže lépe simulovat provázané dynamické systémy naší planety.",
-        "Tento přístup výrazně snižuje výpočetní náklady na dlouhodobé simulace vývoje klimatu."
+        "Model NIVA překonává omezení běžných meteorologických modelů tím, že simuluje komplexní dynamiku celé planety.",
+        "Dokáže zpracovávat různorodá multimodální data a modelovat propojené procesy mezi atmosférou, oceány a pevninou.",
+        "Tento přístup výrazně prodlužuje horizont a přesnost předpovědí extrémních klimatických jevů."
       ],
-      "why_matters": "Přináší přesnější nástroje pro předpovídání extrémního počasí, což je klíčové pro zemědělství i pojišťovnictví.",
+      "why_matters": "Představuje zásadní vědecký nástroj pro boj s klimatickými změnami a plánování krizových opatření.",
       "url": "https://arxiv.org/abs/2606.28546",
       "source": "ArXiv cs.LG"
     },
     {
-      "rank": 14,
-      "title_cs": "Jednoduchý nástroj pro rychlý převod webových tabulek do strukturovaných formátů",
-      "title_orig": "HTML table extractor",
-      "category": "tools",
-      "summary_cs": [
-        "Vývojář Simon Willison vydal jednoduchý webový nástroj pro extrakci tabulek z HTML kódu.",
-        "Nástroj umožňuje zkopírovaný text z prohlížeče okamžitě převést do formátů Markdown, CSV nebo JSON.",
-        "Jedná se o užitečnou pomůcku pro rychlou přípravu dat před jejich předáním jazykovým modelům."
-      ],
-      "why_matters": "Užitečný bezplatný nástroj pro každého, kdo denně pracuje s daty a potřebuje je rychle formátovat.",
-      "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/",
-      "source": "Simon Willison's Weblog"
-    },
-    {
       "rank": 15,
-      "title_cs": "Jak se liší řešení simulátorů od jejich využití jako zástupného prostředí v RL",
-      "title_orig": "Position: RL Researchers Need to Distinguish Between Solving Simulators and Using Simulators as a Proxy",
+      "title_cs": "Měření geometrie Axiomu výběru v neuronových reprezentacích důkazů",
+      "title_orig": "Geometric Measurements of the Axiom of Choice in Neural Proof Embeddings",
       "category": "research",
       "summary_cs": [
-        "Odborný článek upozorňuje na častou chybu při výzkumu zpětnovazebného učení v simulovaných prostředích.",
-        "Vědci často optimalizují modely pro konkrétní simulátor, místo aby jej brali jako přiblížení reálného světa.",
-        "Tento přístup pak vede k selhání systémů při jejich nasazení do skutečného provozu."
+        "Vědci využili systém Lean 4 ke sledování závislosti matematických důkazů na kontroverzním Axiomu výběru.",
+        "Výzkum poprvé geometricky mapuje, jak se klasické a konstruktivní důkazy liší v neuronových prostorech.",
+        "Výsledky ukazují, že neuronové sítě dokážou vnímat hluboké filozofické rozdíly v matematických základech."
       ],
-      "why_matters": "Pomáhá vývojářům lépe navrhovat testovací prostředí pro robotiku a autonomní systémy.",
-      "url": "https://arxiv.org/abs/2606.28433",
+      "why_matters": "Otevírá cestu k tomu, aby AI lépe porozuměla abstraktním matematickým konceptům a pomáhala s novými objevy.",
+      "url": "https://arxiv.org/abs/2606.28572",
       "source": "ArXiv cs.LG"
     }
   ]
