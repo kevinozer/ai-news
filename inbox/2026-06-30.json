@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-30T04:00:51.490627+00:00",
+  "generated_at": "2026-06-30T08:01:58.640262+00:00",
   "date": "2026-06-30",
-  "article_count_unique": 119,
-  "article_count_raw": 119,
+  "article_count_unique": 120,
+  "article_count_raw": 120,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 11,
-      "raw_count": 11
+      "count": 12,
+      "raw_count": 12
     },
     {
       "source_id": "verge_ai",
@@ -163,17 +163,65 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 1,
-      "raw_count": 13
+      "count": 2,
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "d12990119bc34afd",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
+      "published_at": "2026-06-30T06:47:27+00:00",
+      "author": "",
+      "summary_raw": "a quiet day before the storm.",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/htM02KMNZnk",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "bb4b55fb452d43bf",
+      "title": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter — trained entirely on Chinese chips",
+      "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
+      "published_at": "2026-06-30T05:39:00+00:00",
+      "author": "carl.franzen@venturebeat.com (Carl Franzen)",
+      "summary_raw": "A few hours ago, Chinese delivery app company Meituan officially unveiled LongCat-2.0 on GitHub , Hugging Face , and its native platform, unmasking the model as the computational engine behind &quot;Owl Alpha,&quot; the anonymous stealth model that has spent the last two months commanding global developer charts on OpenRouter. Developed to fundamentally disrupt closed-source enterprise dominance in autonomous software engineering, the 1.6-trillion-parameter Mixture-of-Experts (MoE) system brings a native 1-million-token context window to the public domain under a highly permissive, enterprise grade, commercially viable MIT license. Commercial access to the architecture introduces a highly aggressive pricing tier, deploying a mechanism where all context-cache hits are processed completely free of charge , running alongside a time-limited &quot; Token Pack &quot; flash-sale paradigm. There&#x27;s also a typical &quot;pay-as-you-go&quot; API for non-cache hits standard priced at $0.75/$2.95 per million tokens in/out. However, a limited-time promotional discount aggressively slashes these operational expenditures down to $0.30 per million tokens for uncached input and $1.20 per million tokens for output, both on the cheaper-end of top performing models globally. Model Input ($/1M) Output ($/1M) Total ($/1M) Source MiMo-V2.5 Flash $0.10 $0.30 $0.40 Xiaomi deepseek-v4-flash $0.14 $0.28 $0.42 DeepSeek deepseek-v4-pro $0.435 $0.87 $1.305 DeepSeek MiniMax-M3 $0.30 $1.20 $1.50 MiniMax LongCat-2.0 — limited-time promo $0.30 $1.20 $1.50 LongCat Gemini 3.1 Flash-Lite $0.25 $1.50 $1.75 Google Qwen3.7-Plus $0.40 $1.60 $2.00 Alibaba Cloud MiMo-V2.5 $0.40 $2.00 $2.40 Xiaomi LongCat-2.0 — standard $0.75 $2.95 $3.70 LongCat Grok 4.3 (low context) $1.25 $2.50 $3.75 xAI MiMo-V2.5 Pro (≤256K) $1.00 $3.00 $4.00 Xiaomi Kimi-K2.6 $0.95 $4.00 $4.95 Moonshot AI GLM-5.2 $1.40 $4.40 $5.80 Z.ai GPT-5.6 Luna $1.00 $6.00 $7.00 OpenAI Grok 4.3 (high context) $2.50 $5.00 $7.50 xAI MiMo-V2.5 Pro (&gt…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3JhPWvGZL0ITKfOW59a6dD/6b4f45b2aba49b72a7a254507dc69a9d/ChatGPT_Image_Jun_30__2026__01_18_58_AM.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "1ba2d6cd37852806",
+      "title": "Nadšený šéf Nvidie podepsal AI servery nové generace, které se budou vyrábět v Česku. Složí se za pět minut",
+      "url": "https://www.lupa.cz/clanky/nadseny-sef-nvidie-podepsal-ai-servery-nove-generace-ktere-se-budou-vyrabet-v-cesku-slozi-se-za-pet-minut/",
+      "published_at": "2026-06-30T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Paměťová krize jen tak neskončí. Generace Nvidia Vera Rubin bude opět obsahovat hromadu HBM, ale to výroby se zapojí i Česko. Podívejte se, jak tyto servery vypadají. Uvnitř: GALERIE.",
+      "hero_image": "https://i.iinfo.cz/images/100/ai-server-foxconn-nvidia-vera-rubin-nvl72.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "1f9e2d39fead108c",
+      "title": "The AI jobs debate just got messier",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "published_at": "2026-06-30T04:01:00+00:00",
+      "author": "Rebecca Bellan",
+      "summary_raw": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
     {
       "id": "cf854c51da6ab641",
       "title": "Recursive Self-Evolving Agents via Held-Out Selection",
@@ -1111,18 +1159,6 @@
       "category": "news"
     },
     {
-      "id": "206577ebf5d76665",
-      "title": "Tomáš Čupr boduje v AI, Michal Šnobr na Lipně a investoři zase ve Znovínu",
-      "url": "https://cc.cz/tomas-cupr-boduje-v-ai-michal-snobr-na-lipne-a-investori-zase-ve-znovinu/",
-      "published_at": "2026-06-28T17:07:38+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Jako každou neděli vám přinášíme pravidelný přehled toho nejzajímavějšího, co jsme v končícím týdnu na CzechCrunchi napsali a natočili. Článek Tomáš Čupr boduje v AI, Michal Šnobr na Lipně a investoři zase ve Znovínu se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/weekly-x-1-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "7eec56921396135c",
       "title": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
       "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
@@ -1214,18 +1250,6 @@
       "author": "louiswcolumbus@gmail.com (Louis Columbus)",
       "summary_raw": "An endpoint agent cannot report its own absence. The 2026 Axonius Actionability Report , conducted with the Ponemon Institute and surveying 662 IT and security professionals, put a number on a gap SOC teams have worked around for years. Across the Axonius customer base , 12.7% of devices in a 298,000-device median inventory are missing their expected security agent. If a device has no agent, no management console shows it. If a CMDB record is stale, no reconciliation flags it. An employee who installed Claude Enterprise outside procurement created a SaaS workspace, identity surface, and API-token footprint that endpoint telemetry alone will not reliably inventory. The coverage percentage on the EDR dashboard is structurally incomplete because the reporting mechanism cannot see what it does not cover. That gap matters more now than it did six months ago. SOC and XDR vendors are pushing more autonomous investigation and remediation into production. Those agents will query the same dashboards, trust the same coverage percentages, and act on the same blind spots human analysts learned to work around. A human analyst second-guesses a 98% coverage number. An autonomous agent treats it as ground truth and moves at machine speed. Three independent signals converged on the same gap Gravitee’s 2026 survey of 900-plus executives found 88% reported confirmed or suspected AI-related incidents, and only 14.4% sent agents live with full security approval. The Axonius/Ponemon report found 52% of respondents would let autonomous agents act on recommendations — while 63% said the underlying data lacks important information. The CSA&#x27;s Agentic Trust Framework requires verified data governance before agents act on any finding. Mike Riemer, Field CISO at Ivanti , said that known vulnerabilities on Azure’s honeypot networks are now attacked in under 90 seconds. “Traditional security measures continue to work,” Riemer told VentureBeat. The caveat is that those measures only protect wh…",
       "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/6i1AXzJrBmm5vHORb2EnjQ/c51ee7dc067b682eb5ed97250025fb13/HERO_FOR_ARTICLE.jpg?w=300&q=30",
-      "source_id": "venturebeat_ai",
-      "source_name": "VentureBeat AI",
-      "category": "news"
-    },
-    {
-      "id": "1e1c75c3a6d40180",
-      "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
-      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
-      "published_at": "2026-06-26T17:00:00+00:00",
-      "author": "carl.franzen@venturebeat.com (Carl Franzen)",
-      "summary_raw": "OpenAI is announcing a limited preview of its newest frontier AI model GPT-5.6 family, which comes in three variants: Sol, Terra, and Luna. Sol is for the hardest problems, such as complex coding and security research; Terra is for high-volume business tasks like customer support, internal tools and document analysis; and Luna is for faster, lower-cost everyday work like summarization, drafting and routine automation. Sol and Terra set new high benchmark scores, while Luna performs near GPT-5.5 levels on several tests despite being positioned as the fastest and lowest-cost model in the GPT-5.6 family. However, the models are being made available initially to a narrow set of approximately 20 total organizations, after OpenAI shared the models and release plans with the U.S. government. A general release is planned for &quot;the coming weeks.&quot; The staggered release follows an executive order issued by President Donald J. Trump earlier this month on June 2, 2026 , which calls upon various federal agencies to collaborate on a process for benchmarking and assessing capabilities of new AI models to ensure they are safe and appropriate for wide release. While this process remains underway (it was said in the order to take 30 days, so July 2), OpenAI says in its release blog post that it &quot;previewed our plans and the models’ capabilities ahead of today’s launch. At [the U.S. government&#x27;s] request, we are starting with a limited preview for a small group of trusted partners.&quot; OpenAI&#x27;s limited preview release strategy also follows the drastic step taken by the U.S. government to issue an export control order against Anthropic , OpenAI&#x27;s top U.S. competitor, over jailbreaks found in its most powerful generally released model, Claude Fable 5, to which Anthropic responded by removing any access to the model and its cybersecurity focused counterpart Claude Mythos 5 by public or private parties. (Anthropic had earlier previewed a prior version of the m…",
-      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3lU9GHu18yIWPaRDqvYm2f/4e26e084df7b76a47a4a332857942384/ChatGPT_Image_Jun_26__2026__01_00_08_PM.png?w=300&q=30",
       "source_id": "venturebeat_ai",
       "source_name": "VentureBeat AI",
       "category": "news"
@@ -1433,18 +1457,6 @@
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
       "category": "labs"
-    },
-    {
-      "id": "b8d56325bb570249",
-      "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
-      "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
-      "published_at": "2026-06-23T06:19:49+00:00",
-      "author": "",
-      "summary_raw": "a quiet day lets us reflect on some numbers from Jamin Ball.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!0sP8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHLbX8TUaoAA9OTl.jpg",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "b799b93c7af0e6fa",
