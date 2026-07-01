@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T04:00:46.572706+00:00",
+  "generated_at": "2026-07-01T08:21:15.139615+00:00",
   "date": "2026-07-01",
-  "article_count_unique": 155,
-  "article_count_raw": 155,
+  "article_count_unique": 154,
+  "article_count_raw": 154,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "anthropic_news",
@@ -163,7 +163,7 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "raw_count": 12
     },
     {
@@ -174,6 +174,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "b61f4b399305feb0",
+      "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "published_at": "2026-07-01T04:46:21+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!i4cw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee341b9f-8fd3-47e5-87db-9b3d0fc72de5_1280x720.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "8bcdd669e18a12e7",
+      "title": "Co firmy vyvíjely roky, může někdo okopírovat za pár hodin. Jak vypadá v Česku „SaaSpokalypsa“",
+      "url": "https://www.lupa.cz/clanky/co-firmy-vyvijely-roky-muze-nekdo-okopirovat-za-par-hodin-jak-vypada-v-cesku-saaspokalypsa/",
+      "published_at": "2026-07-01T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Firmy zkouší s AI nástroji samy nakódovat to, za co každý měsíc vydávaly podstatné částky ze svých rozpočtů. Mnohdy tím nahrazují produkty startupů a mění celý trh způsobem, pro který se vžil pojem „SaaSpokalypsa“.",
+      "hero_image": "https://i.iinfo.cz/images/269/problemy-saas-firem.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "536305e098ec205a",
       "title": "What Drives Interactive Improvement from Feedback?",
@@ -535,8 +559,8 @@
       "category": "research"
     },
     {
-      "id": "e92064bf8132fb20",
-      "title": "The “Father of the Internet” is finally retiring",
+      "id": "132ffdb370517dc5",
+      "title": "The ‘Father of the Internet’ is finally retiring",
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
       "published_at": "2026-07-01T03:15:37+00:00",
       "author": "Tim Fernholz",
@@ -564,7 +588,7 @@
       "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
       "published_at": "2026-07-01T02:16:06+00:00",
       "author": "Tim Fernholz",
-      "summary_raw": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "summary_raw": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -600,7 +624,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
       "published_at": "2026-07-01T00:03:55+00:00",
       "author": "Hayden Field",
-      "summary_raw": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft [&#8230;]",
+      "summary_raw": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft [&#8230;]",
       "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source_id": "verge_ai",
       "source_name": "The Verge AI",
@@ -1687,18 +1711,6 @@
       "category": "news"
     },
     {
-      "id": "b259b35e8bdc1dd9",
-      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
-      "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
-      "published_at": "2026-06-29T08:00:00+00:00",
-      "author": "Will Knight",
-      "summary_raw": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
-      "hero_image": "https://media.wired.com/photos/6a3ead9ae6c7ac5cabfbcc91/master/pass/WILLgif2-ezgif.com-optimize.gif",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "dce2488f29d0b759",
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
@@ -1864,30 +1876,6 @@
       "hero_image": null,
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
-      "category": "labs"
-    },
-    {
-      "id": "dbb8f3db9c2bcf18",
-      "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
-      "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
-      "published_at": "2026-06-24T07:14:26+00:00",
-      "author": "",
-      "summary_raw": "Claude finally gets a Slackbot upgrade",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!q5Em!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2069465784653348866.jpg",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "23b9f08e17ecade0",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "published_at": "2026-06-24T06:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
       "category": "labs"
     },
     {
