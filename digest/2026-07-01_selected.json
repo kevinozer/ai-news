@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-01",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic uvádí model Claude Sonnet 5 s výraznou slevou a špičkovým výkonem",
+      "title_orig": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "category": "labs",
+      "summary_cs": [
+        "Nový model přináší výrazně silnější schopnosti pro autonomní agenty a zároveň snižuje provozní náklady pro vývojáře.",
+        "Výkonem se velmi blíží vlajkovému modelu Opus, ale je nabízen za zlomek ceny, což zrychlí nasazení v podnicích.",
+        "Vydání přichází v době, kdy Anthropic směřuje k očekávanému vstupu na burzu a snaží se získat cenovou výhodu nad konkurencí."
+      ],
+      "why_matters": "Čeští vývojáři získávají přístup k extrémně výkonnému modelu pro stavbu agentů za zlomek dosavadních nákladů.",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic představuje Claude Science, specializované prostředí pro vědecký výzkum",
+      "title_orig": "Claude Science is Anthropic’s newest flagship product",
+      "category": "labs",
+      "summary_cs": [
+        "Nová platforma funguje jako ucelený pracovní prostor, který integruje výpočetní nástroje a databáze pro výzkumníky.",
+        "Umožňuje vědcům provádět komplexní analýzy a spouštět simulace bez nutnosti neustále přepínat mezi různými aplikacemi.",
+        "Produkt cílí na biotechnologické firmy a farmaceutický sektor, kde má zásadně urychlit vývoj nových léčiv."
+      ],
+      "why_matters": "Vědecká komunita v Česku získává mocný nástroj pro automatizaci a zrychlení výzkumných procesů.",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Bílý dům ruší omezení pro nejpokročilejší modely Anthropicu Fable a Mythos",
+      "title_orig": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "category": "news",
+      "summary_cs": [
+        "Americké ministerstvo obchodu po týdnech vyjednávání zrušilo exportní limity na modely řady Claude Fable 5 a Mythos 5.",
+        "Anthropic začne okamžitě obnovovat globální přístup k těmto modelům na platformách AWS, Google Cloud a Azure.",
+        "Rozhodnutí ukončuje období nejistoty, kdy byly tyto pokročilé systémy pro zahraniční uživatele zablokovány."
+      ],
+      "why_matters": "České firmy a vývojáři mohou opět bez omezení využívat nejvýkonnější modely od Anthropicu.",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Google uvádí Nano Banana 2 Lite pro bleskové a levné generování obrázků",
+      "title_orig": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "category": "labs",
+      "summary_cs": [
+        "Nový model, v API označený jako Gemini 3.1 Flash-Lite Image, je navržen pro maximální rychlost a nízké náklady.",
+        "Generování jednoho obrázku trvá pouhé čtyři sekundy, což je ideální pro masové nasazení v podnicích.",
+        "Google tímto krokem cílí na tvůrce obsahu a firmy s omezeným rozpočtem na cloudovou infrastrukturu."
+      ],
+      "why_matters": "Tento model přináší extrémně levnou a rychlou tvorbu vizuálního obsahu pro české marketingové agentury.",
+      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "České Radiokomunikace plánují AI gigafactory ve spolupráci se Španěly",
+      "title_orig": "ČRA mají parťáka pro chystanou českou AI gigafactory. Španělé mohou poskytnout 1,2 miliardy a software",
+      "category": "news",
+      "summary_cs": [
+        "České Radiokomunikace podepsaly strategické partnerství se španělskou technologickou firmou Multiverse Computing.",
+        "Cílem je vybudovat v České republice jedno z největších datových center zaměřených čistě na AI výpočty s grafickými kartami.",
+        "Španělský partner může do projektu přinést investici přesahující miliardu korun a specializované softwarové vybavení."
+      ],
+      "why_matters": "V Česku vznikne klíčová infrastruktura pro trénování a provoz velkých AI modelů.",
+      "url": "https://www.lupa.cz/aktuality/cra-maji-partaka-pro-chystanou-ceskou-ai-gigafactory-spanele-mohou-poskytnout-1-2-miliardy-a-software/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Český fond Look AI Ventures investoval do hlasového konkurenta Duolinga",
+      "title_orig": "Češi investovali do konkurenta Duolinga, který pro výuku jazyků nabízí třeba AI persony",
+      "category": "news",
+      "summary_cs": [
+        "Tuzemský fond se podílel na seed investici v celkové výši 7 milionů dolarů pro startup Lucida AI.",
+        "Platforma využívá pokročilé hlasové AI persony pro simulaci reálné konverzace při výuce cizích jazyků.",
+        "Investice pomůže startupu konkurovat zavedeným globálním aplikacím a urychlí technologický vývoj."
+      ],
+      "why_matters": "Český kapitál se podílí na rozvoji inovativní vzdělávací platformy s globálními ambicemi.",
+      "url": "https://www.lupa.cz/aktuality/cesi-investovali-do-konkurenta-duolinga-ktery-pro-vyuku-jazyku-nabizi-treba-ai-persony/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Morgan Stanley snížil chybovost AI agentů tím, že jim omezil autonomii",
+      "title_orig": "Morgan Stanley cut its riskiest reconciliation job in half - by making its agents less autonomous",
+      "category": "business",
+      "summary_cs": [
+        "Banka nasadila AI agenty na kritický proces odsouhlasení zisků a ztrát, což zkrátilo čas zpracování na polovinu.",
+        "Klíčem k úspěchu bylo paradoxně snížení autonomie agentů a jejich těsnější propojení s lidským dohledem.",
+        "Tento přístup ukazuje, že v přesných finančních operacích je hybridní model bezpečnější než plná automatizace."
+      ],
+      "why_matters": "Ukazuje českým finančním institucím, jak bezpečně nasadit AI do nejcitlivějších procesů.",
+      "url": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Amazon zakládá novou divizi pro nasazování AI agentů přímo u zákazníků",
+      "title_orig": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "category": "business",
+      "summary_cs": [
+        "Amazon investuje miliardu dolarů do týmu inženýrů, kteří budou pomáhat firmám integrovat agenty na míru.",
+        "Inženýři budou pracovat přímo v klientských organizacích s cílem zajistit rychlé nasazení a samostatnost klientů.",
+        "Krok následuje podobné iniciativy konkurentů a potvrzuje trend přesunu od obecných modelů k aplikovaným řešením."
+      ],
+      "why_matters": "Značí příchod masivní podpory pro české podniky, které chtějí integrovat komplexní AI řešení.",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "X spouští vlastní MCP server pro snazší integraci s AI nástroji",
+      "title_orig": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "category": "tools",
+      "summary_cs": [
+        "Sociální síť X vydala hostovaný server standardu Model Context Protocol pro snadné propojení s AI aplikacemi.",
+        "Vývojáři nyní mohou jednodušeji napojit své agenty a modely na data a API rozhraní platformy X.",
+        "Tento krok podporuje otevřený ekosystém a usnadňuje vývoj autonomních vyhledávacích a analytických nástrojů."
+      ],
+      "why_matters": "Zjednodušuje českým vývojářům tvorbu agentů, kteří potřebují pracovat s daty v reálném čase ze sítě X.",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Google NotebookLM přináší generování krátkých videí ve stylu TikToku",
+      "title_orig": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "category": "tools",
+      "summary_cs": [
+        "Populární výzkumný asistent NotebookLM nově umožňuje převést nahrané dokumenty do podoby 60sekundového videa.",
+        "Funkce je dostupná pro předplatitele verzí AI Ultra a Pro a cílí na rychlé shrnutí poznatků vizuální formou.",
+        "Jedná se o další krok v integraci multimodálních výstupů pro zjednodušení studia a analýzy informací."
+      ],
+      "why_matters": "Nabízí českým studentům a analytikům nový, atraktivní způsob, jak rychle vstřebat složité rešerše.",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Couchbase představuje AI Data Plane pro správu paměti agentů mimo cloud",
+      "title_orig": "AI agents need context everywhere they run, even where the cloud can't follow",
+      "category": "tools",
+      "summary_cs": [
+        "Nová platforma od Couchbase kombinuje perzistentní paměť agentů a vyhledávání kontextu v reálném čase.",
+        "Řešení umožňuje bezpečný běh autonomních systémů i v prostředích bez stabilního připojení ke cloudu.",
+        "Podniky tak mohou provozovat agenty lokálně s plným přístupem k firemním datům a historii interakcí."
+      ],
+      "why_matters": "Umožňuje českým průmyslovým podnikům bezpečně provozovat AI agenty lokálně bez závislosti na cloudu.",
+      "url": "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "GeneBench-Pro přináší nový standard pro testování AI v biologii a genomice",
+      "title_orig": "Introducing GeneBench-Pro",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI představila specializovaný benchmark navržený pro hodnocení schopností AI v pokročilých vědách.",
+        "Testovací sada využívá komplexní reálná data z oblasti genetiky a molekulární biologie.",
+        "Nástroj pomůže přesně měřit, jak spolehlivě dokážou modely asistovat při vědeckých objevech."
+      ],
+      "why_matters": "Poskytuje českým bioinformatikům exaktní nástroj pro ověření schopností využívaných modelů.",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Proč selhává generování textu v několika krocích na rozdíl od obrázků",
+      "title_orig": "Why Do Few-Step Text Latents Fail When Image Latents Work? Non-Commitment at Sharp Categorical Readouts",
+      "category": "research",
+      "summary_cs": [
+        "Výzkum vysvětluje, proč deterministické generování v málo krocích funguje u obrázků, ale u textu kolabuje.",
+        "Důvodem je geometrický rozdíl mezi spojitým prostorem obrázků a ostrými hranicemi kategorických textových tokenů.",
+        "Zjištění pomůže navrhnout lepší architektury pro extrémně rychlé generování textu bez ztráty kvality."
+      ],
+      "why_matters": "Pomáhá českým výzkumníkům pochopit limity rychlého generování textu a navrhovat efektivnější modely.",
+      "url": "https://arxiv.org/abs/2606.30705",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Verifikovatelné řízení chování pro autonomní AI agenty",
+      "title_orig": "AgentBound: Verifiable Behavioral Governance for Autonomous AI Agents",
+      "category": "research",
+      "summary_cs": [
+        "Studie představuje rámec AgentBound, který řeší bezpečnostní rizika spojená s finančními transakcemi agentů.",
+        "Navržený systém umožňuje lidským zadavatelům exaktně omezit a ověřovat mantinely chování autonomních systémů.",
+        "Tento přístup nahrazuje dosavadní benevolentní delegování práv robustní kryptografickou kontrolou."
+      ],
+      "why_matters": "Klíčový koncept pro české firmy vyvíjející agenty, kteří samostatně nakládají s penězi či daty.",
+      "url": "https://arxiv.org/abs/2606.30970",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Tidal nebude platit autorské poplatky za hudbu vytvořenou čistě umělou inteligencí",
+      "title_orig": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
+      "category": "wildcard",
+      "summary_cs": [
+        "Streamovací platforma Tidal zavádí nová pravidla, která od července označují skladby vytvořené 100% pomocí AI.",
+        "Tyto skladby nebudou z platformy smazány, ale autoři za ně nebudou dostávat žádné finanční odměny.",
+        "Cílem opatření je chránit lidské umělce před zaplavením trhu generovaným obsahem bez přidané hodnoty."
+      ],
+      "why_matters": "Zásadní precedens pro české hudebníky a tvůrce, který definuje budoucí monetizaci generované tvorby.",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "source": "The Verge AI"
+    }
+  ]
+}
