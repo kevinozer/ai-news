@@ -7,69 +7,69 @@
       "title_orig": "Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO",
       "category": "labs",
       "summary_cs": [
-        "Nový model přináší výkon blížící se vlajkové lodi Opus 4.8, ale za výrazně nižší cenu.",
-        "Vydání je strategicky načasováno před plánovaným vstupem společnosti Anthropic na burzu.",
-        "Model je navržen speciálně pro náročné vývojářské úkoly a autonomní agenty."
+        "Nový model přináší výkon blížící se vlajkové lodi Opus za výrazně nižší cenu pro vývojáře.",
+        "Model je navržen speciálně pro pokročilé agentní funkce a efektivní programování.",
+        "Vydání přichází v době, kdy se Anthropic připravuje na očekávaný vstup na burzu."
       ],
-      "why_matters": "Přináší špičkovou inteligenci pro české vývojáře za zlomek dosavadních nákladů.",
+      "why_matters": "Přináší špičkové schopnosti umělé inteligence za zlomek dosavadních nákladů pro české vývojáře.",
       "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
       "source": "VentureBeat AI"
     },
     {
       "rank": 2,
-      "title_cs": "Jak vypadá v Česku SaaSpokalypsa a jak firmy nahrazují drahý software vlastním AI kódem",
+      "title_cs": "SaaSpokalypsa v Česku: Firmy nahrazují drahé softwarové služby vlastním AI kódem",
       "title_orig": "Co firmy vyvíjely roky, může někdo okopírovat za pár hodin. Jak vypadá v Česku „SaaSpokalypsa“",
       "category": "news",
       "summary_cs": [
-        "České firmy začínají s pomocí AI nástrojů samy programovat řešení, za která dříve platily vysoké licenční poplatky.",
-        "Tento trend zásadně ohrožuje tradiční SaaS startupy, jejichž produkty lze nyní replikovat během několika hodin.",
-        "Fenomén mění dynamiku trhu a nutí poskytovatele softwaru přehodnotit jejich obchodní modely."
+        "České firmy začínají využívat AI k vlastnímu programování nástrojů, za které dříve platily vysoké paušály.",
+        "Tento trend zásadně ohrožuje tradiční softwarové startupy a mění dynamiku trhu.",
+        "Vývoj, který dříve trval celé roky, lze dnes s pomocí generativních modelů replikovat za několik hodin."
       ],
-      "why_matters": "Ukazuje reálný dopad AI na český softwarový trh a úspory lokálních firem.",
+      "why_matters": "Ukazuje reálný dopad AI na český byznys a hrozbu pro tradiční poskytovatele softwaru.",
       "url": "https://www.lupa.cz/clanky/co-firmy-vyvijely-roky-muze-nekdo-okopirovat-za-par-hodin-jak-vypada-v-cesku-saaspokalypsa/",
       "source": "Lupa.cz"
     },
     {
       "rank": 3,
-      "title_cs": "Vláda USA ruší exportní omezení pro pokročilé modely Mythos a Fable od Anthropicu",
+      "title_cs": "Vláda USA ruší exportní omezení pro pokročilé modely Fable a Mythos od Anthropicu",
       "title_orig": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
       "category": "news",
       "summary_cs": [
-        "Bílý dům po týdnech vyjednávání zmírnil omezení na vývoz nejpokročilejších modelů umělé inteligence.",
-        "Anthropic tak může obnovit globální přístup k modelům Fable 5 a Mythos 5 na cloudových platformách.",
-        "Původní zákaz se týkal přístupu cizích státních příslušníků k těmto technologiím."
+        "Bílý dům zmírnil přísná omezení, která dříve nařizovala pozastavit přístup k těmto modelům pro cizí státní příslušníky.",
+        "Anthropic po týdnech vyjednávání začíná globálně obnovovat přístup k modelům řady Fable 5.",
+        "Rozhodnutí ukazuje, jak silně geopolitika a vládní regulace ovlivňují dostupnost nejvýkonnějších AI technologií."
       ],
-      "why_matters": "Uvolňuje přístup k nejvýkonnějším modelům na trhu i pro české uživatele.",
+      "why_matters": "Zajišťuje, že čeští uživatelé a firmy nepřijdou o přístup k nejvyspělejším modelům od Anthropicu.",
       "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
       "source": "Wired AI"
     },
     {
       "rank": 4,
-      "title_cs": "Google představil Nano Banana 2 Lite pro bleskové generování obrázků v podnicích",
-      "title_orig": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
-      "category": "labs",
-      "summary_cs": [
-        "Nový model, v API označený jako Gemini 3.1 Flash-Lite Image, je optimalizován pro rychlost a nízké náklady.",
-        "Generování jednoho obrázku trvá pouhé čtyři sekundy, což je ideální pro masové firemní nasazení.",
-        "Model je navržen tak, aby vyhovoval těsným infrastrukturním rozpočtům velkých podniků."
-      ],
-      "why_matters": "Umožňuje českým firmám generovat vizuální obsah extrémně rychle a levně.",
-      "url": "https://venturebeat.com/technology/google-unveils-nano-banana-2-lite-aka-gemini-3-1-flash-lite-for-low-cost-4-second-fast-enterprise-image-generations",
-      "source": "VentureBeat AI"
-    },
-    {
-      "rank": 5,
-      "title_cs": "Anthropic spouští Claude Science jako specializované prostředí pro vědecký výzkum",
+      "title_cs": "Anthropic představuje Claude Science, specializované prostředí pro vědecký výzkum",
       "title_orig": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
       "category": "labs",
       "summary_cs": [
-        "Místo nového modelu sází Anthropic na integrované pracovní prostředí přizpůsobené vědcům.",
-        "Claude Science propojuje databáze, výpočetní nástroje a generuje auditovatelné vědecké výstupy.",
-        "Cílem je eliminovat neustálé přecházení mezi různými aplikacemi během výzkumu."
+        "Nové rozhraní integruje výpočetní nástroje a databáze do jednoho uceleného prostředí.",
+        "Cílem je ušetřit vědcům čas strávený přecházením mezi různými aplikacemi a skripty.",
+        "Platforma klade důraz na tvorbu auditovatelných vědeckých výstupů a snadnou reprodukovatelnost."
       ],
-      "why_matters": "Nabízí českým vědeckým pracovníkům revoluční nástroj pro urychlení výzkumu.",
+      "why_matters": "Nabízí českým vědeckým pracovištím moderní nástroj pro urychlení výzkumu pomocí AI.",
       "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
       "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Google uvádí rychlý a levný model pro generování obrázků Nano Banana 2 Lite",
+      "title_orig": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
+      "category": "labs",
+      "summary_cs": [
+        "Model známý také jako Gemini 3.1 Flash-Lite Image je optimalizován pro rychlost a nízké náklady.",
+        "Dokáže vygenerovat obrázek během pouhých čtyř sekund, což je ideální pro masové firemní nasazení.",
+        "Ačkoliv kvalita detailů může být nižší, model cílí na projekty s omezeným rozpočtem a vysokými nároky na rychlost."
+      ],
+      "why_matters": "Umožňuje českým firmám levně a bleskově generovat vizuální obsah v průmyslovém měřítku.",
+      "url": "https://venturebeat.com/technology/google-unveils-nano-banana-2-lite-aka-gemini-3-1-flash-lite-for-low-cost-4-second-fast-enterprise-image-generations",
+      "source": "VentureBeat AI"
     },
     {
       "rank": 6,
@@ -77,139 +77,139 @@
       "title_orig": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
       "category": "business",
       "summary_cs": [
-        "Amazon investuje miliardu dolarů do nové organizace zaměřené na inženýry pro přímé nasazení u klientů.",
-        "Tito specialisté budou pomáhat firmám integrovat autonomní agenty přímo do jejich interních systémů.",
-        "Iniciativa reaguje na podobné kroky konkurentů a klade důraz na rychlost a soběstačnost zákazníků."
+        "Nová miliardová organizace se zaměří na vysílání inženýrů přímo do klientských firem.",
+        "Cílem je vyvíjet a nasazovat agenty na míru s důrazem na rychlost a následnou soběstačnost klientů.",
+        "Amazon tímto krokem reaguje na podobné úspěšné iniciativy ze strany OpenAI a Anthropicu."
       ],
-      "why_matters": "Naznačuje příchod nové éry, kdy budou AI agenti nasazováni přímo do českých korporací.",
+      "why_matters": "Naznačuje nový trend, jakým budou globální lídři dodávat AI řešení i do evropských podniků.",
       "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 7,
-      "title_cs": "Pražská AI laboratoř EquiLibre Technologies založená veterány z DeepMind má hodnotu přes půl miliardy dolarů",
+      "title_cs": "Pražská laboratoř EquiLibre založená vědci z DeepMind dosáhla hodnoty půl miliardy dolarů",
       "title_orig": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
       "category": "business",
       "summary_cs": [
-        "Tři bývalí výzkumníci z DeepMind, kteří vytvořili slavnou pokerovou AI, úspěšně rozvíjejí svůj startup v Praze.",
-        "Jejich společnost EquiLibre Technologies se zaměřuje na algoritmické obchodování pro kvantitativní hedgeové fondy.",
-        "Aktuální hodnota této české technologické laboratoře přesáhla hranici 500 milionů dolarů."
+        "Tři bývalí výzkumníci z DeepMind, kteří dříve vytvořili úspěšnou pokerovou AI, uspěli ve finančním sektoru.",
+        "Jejich pražská společnost EquiLibre Technologies vyvíjí algoritmy pro kvantitativní hedgeové fondy.",
+        "Aktuální valuace společnosti překonala hranici 500 milionů dolarů."
       ],
-      "why_matters": "Obrovský úspěch českého AI ekosystému na globální finanční scéně.",
+      "why_matters": "Významný úspěch české AI scény, který potvrzuje světovou úroveň tuzemských výzkumníků.",
       "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 8,
-      "title_cs": "Google NotebookLM přidává tvorbu krátkých vertikálních videí ve stylu TikToku",
+      "title_cs": "Google přidává do NotebookLM tvorbu krátkých videí ve stylu sociálních sítí",
       "title_orig": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
       "category": "tools",
       "summary_cs": [
-        "Populární výzkumný asistent NotebookLM nově umožňuje shrnout nahrané dokumenty do 60sekundového videa.",
-        "Funkce generuje vertikální klipy s AI moderátory a je dostupná pro předplatitele verzí Ultra a Pro.",
-        "Jde o další krok v transformaci textových rešerší do atraktivních multimediálních formátů."
+        "Uživatelé verzí Ultra a Pro mohou nyní nechat své studijní podklady shrnout do šedesátisekundového vertikálního videa.",
+        "Nástroj automaticky generuje vizuální i zvukový doprovod na základě nahraných dokumentů.",
+        "Funkce představuje nový způsob, jak rychle konzumovat a prezentovat složité rešerše."
       ],
-      "why_matters": "Usnadňuje českým studentům a tvůrcům rychlé vstřebávání složitých informací.",
+      "why_matters": "Usnadňuje českým studentům a analytikům rychlé zpracování a prezentaci složitých informací.",
       "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
       "source": "The Verge AI"
     },
     {
       "rank": 9,
-      "title_cs": "X spouští vlastní MCP server pro snazší integraci s AI nástroji",
+      "title_cs": "X spouští vlastní MCP server pro snazší integraci s AI aplikacemi",
       "title_orig": "X now offers an MCP server to make its platform easier for AI tools to use",
       "category": "tools",
       "summary_cs": [
-        "Sociální síť X představila hostovaný server založený na protokolu Model Context Protocol.",
-        "Vývojáři tak mohou mnohem snadněji propojit své AI aplikace a agenty přímo s daty z platformy X.",
-        "Tento krok podporuje otevřený standard pro komunikaci mezi modely a externími nástroji."
+        "Platforma X představila hostovaný server založený na standardu Model Context Protocol.",
+        "Vývojáři mohou díky tomu snadněji propojit své AI agenty a aplikace přímo s daty z této sociální sítě.",
+        "Krok podporuje otevřený ekosystém a zjednodušuje tvorbu automatizovaných nástrojů."
       ],
-      "why_matters": "Zjednodušuje českým vývojářům tvorbu agentů pracujících s daty ze sociálních sítí.",
+      "why_matters": "Zjednodušuje českým vývojářům integraci dat ze sítě X do jejich vlastních AI projektů.",
       "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 10,
-      "title_cs": "OpenClaw přichází na mobilní telefony s operačními systémy Android a iOS",
+      "title_cs": "OpenClaw přichází na mobilní telefony se systémy Android a iOS",
       "title_orig": "OpenClaw is finally available on Android and iOS",
       "category": "open-source",
       "summary_cs": [
         "Populární open-source agentický systém je nově dostupný jako bezplatná mobilní aplikace.",
-        "Uživatelé mohou spouštět autonomní agenty přímo na svých chytrých telefonech.",
-        "Vydání představuje významný milník pro demokratizaci agentických AI nástrojů."
+        "Uživatelé mohou spouštět autonomní agenty přímo ze svých chytrých telefonů.",
+        "Vydání představuje důležitý krok pro demokratizaci a mobilní využití agentních technologií."
       ],
-      "why_matters": "Přináší pokročilé open-source agenty přímo do kapes českých uživatelů.",
+      "why_matters": "Dává českým nadšencům do rukou bezplatný a mobilní nástroj pro experimenty s agenty.",
       "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 11,
-      "title_cs": "Nová metoda AgRefactor umožňuje automatický přepis kódu pro hardwarovou syntézu",
-      "title_orig": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
+      "title_cs": "Proč selhává generování textu v několika krocích, zatímco u obrázků funguje",
+      "title_orig": "Why Do Few-Step Text Latents Fail When Image Latents Work? Non-Commitment at Sharp Categorical Readouts",
       "category": "research",
       "summary_cs": [
-        "Výzkumníci představili samočinně se vyvíjející agentní systém pro refaktorizaci softwaru do synthesizovatelného HLS kódu.",
-        "Nástroj překonává omezení stávajících LLM při překladu běžného kódu do hardwarově kompatibilní podoby.",
-        "Metoda výrazně urychluje cestu od softwarového návrhu k reálnému křemíkovému čipu."
+        "Výzkumníci analyzovali, proč rychlé generování selhává u spojitých textových reprezentací.",
+        "Problém spočívá v geometrii přechodu mezi spojitým prostorem a ostrými hranicemi slovních kategorií.",
+        "Zjištění mohou pomoci při návrhu nové generace efektivnějších textových modelů."
       ],
-      "why_matters": "Pomůže českým hardwarovým inženýrům zrychlit vývoj vlastních čipů.",
-      "url": "https://arxiv.org/abs/2606.30949",
-      "source": "ArXiv cs.AI"
+      "why_matters": "Pomáhá pochopit limity současných modelů při snaze o zrychlení a zlevnění generování textu.",
+      "url": "https://arxiv.org/abs/2606.30705",
+      "source": "ArXiv cs.LG"
     },
     {
       "rank": 12,
-      "title_cs": "AgentBound přináší ověřitelnou kontrolu nad chováním autonomních AI agentů",
-      "title_orig": "AgentBound: Verifiable Behavioral Governance for Autonomous AI Agents",
+      "title_cs": "Nová metoda HASTE brání AI agentům v plýtvání výpočetním výkonem",
+      "title_orig": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
       "category": "research",
       "summary_cs": [
-        "Studie představuje infrastrukturu pro bezpečné delegování pravomocí autonomním agentům.",
-        "AgentBound umožňuje definovat a matematicky ověřovat hranice chování agentů při finančních transakcích.",
-        "Systém řeší klíčové bezpečnostní riziko spojené s nekontrolovaným jednáním AI v podnikových sítích."
+        "Agenti pro strojové učení často opakovaně objevují již známé techniky při každém novém úkolu.",
+        "Systém HASTE organizuje znalosti do tří hierarchických úrovní od globálních po specifické.",
+        "Tento přístup výrazně snižuje náklady na výpočetní výkon a zrychluje řešení úloh."
       ],
-      "why_matters": "Zásadní krok pro bezpečné nasazení AI agentů v českém firemním prostředí.",
-      "url": "https://arxiv.org/abs/2606.30970",
+      "why_matters": "Přináší způsob, jak zefektivnit a zlevnit provoz komplexních agentních systémů ve firmách.",
+      "url": "https://arxiv.org/abs/2606.30911",
       "source": "ArXiv cs.AI"
     },
     {
       "rank": 13,
-      "title_cs": "Proton vylepšuje svého asistenta Lumo zaměřeného na maximální soukromí",
-      "title_orig": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "category": "tools",
-      "summary_cs": [
-        "Švýcarský Proton vydává verzi Lumo 2.0, která rozšiřuje schopnosti tohoto bezpečného chatbota.",
-        "Asistent klade důraz na šifrování a ochranu osobních údajů uživatelů, což je hlavní devíza značky.",
-        "Aktualizace přináší širší paletu funkcí pro každodenní produktivitu bez sdílení dat s třetími stranami."
-      ],
-      "why_matters": "Ideální alternativa pro české uživatele, kteří vyžadují nekompromisní ochranu soukromí.",
-      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 14,
-      "title_cs": "Tidal nebude vyplácet tantiémy za hudbu kompletně vytvořenou umělou inteligencí",
+      "title_cs": "Tidal nebude vyplácet autorské honoráře za hudbu vytvořenou čistě pomocí AI",
       "title_orig": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-      "category": "wildcard",
+      "category": "news",
       "summary_cs": [
-        "Streamovací platforma Tidal zavádí nová pravidla pro označování a monetizaci AI skladeb.",
-        "Skladby identifikované jako 100% vytvořené AI dostanou speciální ikonu, ale nebudou generovat žádné příjmy.",
-        "Cílem opatření je chránit lidské umělce a transparentně informovat posluchače."
+        "Streamovací služba Tidal představila nová pravidla pro ochranu lidských umělců.",
+        "Skladby, které jsou stoprocentně vytvořené umělou inteligencí, budou jasně označeny speciální ikonou.",
+        "Tyto skladby sice nebudou z platformy smazány, ale od nynějška nebudou generovat žádné licenční poplatky."
       ],
-      "why_matters": "Důležitý precedent pro české hudební tvůrce a autorské právo.",
+      "why_matters": "Nastavuje důležitý precedens pro odměňování autorů v éře generativní hudby.",
       "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "source": "The Verge AI"
     },
     {
-      "rank": 15,
-      "title_cs": "Proč přímé generování textu v několika krocích selhává, zatímco u obrázků funguje",
-      "title_orig": "Why Do Few-Step Text Latents Fail When Image Latents Work? Non-Commitment at Sharp Categorical Readouts",
-      "category": "research",
+      "rank": 14,
+      "title_cs": "Útoky na AI prohlížeče ukazují zranitelnost vůči jednoduchým instrukcím",
+      "title_orig": "New attack provides one more reason why AI browsers are a bad idea",
+      "category": "news",
       "summary_cs": [
-        "Vědci objasnili geometrické příčiny, proč rychlé generování textu z latentního prostoru kolabuje.",
-        "Zatímco spojité obrazové latenty rychlé kroky zvládají, diskrétní povaha textu vyžaduje jiné mapování.",
-        "Tento objev může pomoci navrhnout zcela nové architektury pro extrémně rychlé LLM."
+        "Bezpečnostní experti demonstrovali novou zranitelnost v prohlížečích integrovaných s LLM.",
+        "K narušení bezpečnostních pravidel stačí model přesvědčit o zjevné nepravdě, například že dva a dva je pět.",
+        "Tento typ manipulace umožňuje útočníkům donutit systém k vykonání zakázaných příkazů."
       ],
-      "why_matters": "Vysvětluje technologické limity současných modelů a ukazuje cestu k rychlejší generaci textu.",
-      "url": "https://arxiv.org/abs/2606.30705",
-      "source": "ArXiv cs.LG"
+      "why_matters": "Varuje před bezpečnostními riziky při bezhlavém integrování AI do každodenních nástrojů.",
+      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 15,
+      "title_cs": "GeneBench-Pro přináší nový standard pro testování AI v oblasti genomiky a biologie",
+      "title_orig": "Introducing GeneBench-Pro",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI představila nový benchmark zaměřený na hodnocení schopností AI ve vědeckém výzkumu.",
+        "Sada obsahuje komplexní reálné datasety z oblasti biologie a analýzy genů.",
+        "Nástroj pomůže přesněji měřit pokrok modelů při řešení složitých vědeckých úkolů."
+      ],
+      "why_matters": "Umožňuje objektivně hodnotit přínos AI pro český biologický a medicínský výzkum.",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI Blog"
     }
   ]
 }
