@@ -3,213 +3,213 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "OSA plánuje žalovat tvůrce AI kvůli trénování na českých písních",
-      "title_orig": "OSA chce žalovat provozovatele AI kvůli zneužívání českých písniček. Tvůrci modelů by prý měli platit",
-      "category": "wildcard",
+      "title_cs": "Nvidia má nového vyzyvatele: Etched získal miliardový kontrakt a dosáhl hodnoty pěti miliard dolarů",
+      "title_orig": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "category": "business",
       "summary_cs": [
-        "Ochranný svaz autorský (OSA) zvažuje právní kroky proti americké společnosti Suno, která provozuje populární generátor hudby.",
-        "Důvodem je podezření, že modely byly bez povolení trénovány na databázích obsahujících miliony skladeb včetně děl českých autorů.",
-        "Tento krok představuje jeden z prvních významných pokusů o ochranu autorských práv tuzemských umělců v éře generativní AI."
+        "Startup Etched, který vyvíjí specializované čipy pro běh transformerů, oznámil zajištění zakázek v hodnotě jedné miliardy dolarů.",
+        "Díky tomuto úspěchu hodnota společnosti raketově vzrostla na pět miliard dolarů, což z ní dělá jednoho z nejvýraznějších konkurentů Nvidie.",
+        "Firma se zaměřuje na extrémní efektivitu při spouštění velkých jazykových modelů pomocí hardwarově optimalizované architektury."
       ],
-      "why_matters": "Tento spor může zásadně ovlivnit dostupnost a legálnost lokálního trénovacího obsahu pro globální AI modely.",
-      "url": "https://www.lupa.cz/aktuality/osa-chce-zalovat-provozovatele-ai-kvuli-zneuzivani-ceskych-pisnicek-tvurci-modelu-by-pry-meli-platit/",
-      "source": "Lupa.cz"
+      "why_matters": "Ukazuje se, že monopol Nvidie v oblasti AI čipů může být ohrožen úzce specializovaným hardwarem.",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 2,
-      "title_cs": "Cloudflare tlačí na AI firmy, aby platily vydavatelům za obsah",
-      "title_orig": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "category": "news",
+      "title_cs": "Google uvádí Gemini Spark pro počítače Mac a vylepšuje asistenty pro firmy",
+      "title_orig": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "category": "tools",
       "summary_cs": [
-        "Cloudflare dává vývojářům AI čas do poloviny září, aby jasně oddělili vyhledávací roboty od těch, které slouží k trénování modelů.",
-        "Pokud tak neučiní, hrozí jim plošné blokování ze strany webových vydavatelů využívajících infrastrukturu Cloudflare.",
-        "Cílem je přimět technologické giganty k férovému licencování a placení za autorský obsah."
+        "Google oficiálně vydal svého pokročilého agentního asistenta Gemini Spark pro operační systém macOS.",
+        "Nová verze přináší nepřetržitou podporu na pozadí, sledování úkolů v reálném čase a hlubší integraci s lokálními aplikacemi.",
+        "Uživatelé mohou delegovat komplexnější pracovní postupy přímo ze svého desktopového prostředí bez nutnosti neustálého dohledu."
       ],
-      "why_matters": "Změna pravidel může omezit přístup AI k aktuálním webovým datům a změnit ekonomiku internetového obsahu.",
-      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "why_matters": "Přináší autonomní agenty přímo do každodenního pracovního prostředí uživatelů Apple zařízení.",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 3,
-      "title_cs": "Firmy bojují s kontrolou AI, správa systémů probíhá často ručně",
-      "title_orig": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem – and most are governing it by hand",
-      "category": "business",
-      "summary_cs": [
-        "Firemní AI portfolia rostou rychleji, než jaká je schopnost organizací je efektivně řídit a kontrolovat.",
-        "Většina podniků postrádá jasné vlastnictví AI systémů a monitorování jejich chování či případného selhání v produkci probíhá ručně.",
-        "Hlavní překážkou pro zavedení kontroly není chybějící technologie, ale absence jednotné správy a odpovědnosti."
-      ],
-      "why_matters": "Ukazuje na kritické provozní riziko pro české firmy, které implementují AI bez robustního systému správy.",
-      "url": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
-      "source": "VentureBeat AI"
-    },
-    {
-      "rank": 4,
-      "title_cs": "Jak Cursor nasazuje umělou inteligenci ve velkých podnicích",
-      "title_orig": "How Cursor deploys AI inside the enterprise",
-      "category": "tools",
-      "summary_cs": [
-        "Tým inženýrů z Cursoru pomáhá firmám implementovat pokročilé programovací agenty přímo do jejich interních systémů.",
-        "Cílem je vybudovat takzvané softwarové továrny, které automatizují rutinní vývojové úkoly při zachování bezpečnosti kódu.",
-        "Úspěch nasazení závisí na těsné integraci s existující infrastrukturou a na správném nastavení mantinelů pro agenty."
-      ],
-      "why_matters": "Praktický návod pro české technologické lídry, jak transformovat vývojové týmy pomocí specializovaných agentů.",
-      "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
-      "source": "Latent Space"
-    },
-    {
-      "rank": 5,
-      "title_cs": "Restaurace mohou přijímat objednávky přímo z ChatGPT a Claude díky službě Square",
-      "title_orig": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
-      "category": "tools",
-      "summary_cs": [
-        "Platební platforma Square spouští integraci, která umožňuje restauracím přijímat objednávky přímo z konverzačních rozhraní AI.",
-        "Zákazníci mohou objevovat podniky a objednávat jídlo prostřednictvím chatbotů bez nutnosti instalovat další aplikace.",
-        "Propojení nevyžaduje od restaurací žádné technické znalosti a funguje s minimálními poplatky."
-      ],
-      "why_matters": "Ukázka toho, jak AI agenti začínají přímo vstupovat do reálné ekonomiky a každodenního podnikání.",
-      "url": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration",
-      "source": "VentureBeat AI"
-    },
-    {
-      "rank": 6,
-      "title_cs": "Meta plánuje prodávat přebytečný výpočetní výkon pro AI jako cloudovou službu",
-      "title_orig": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "category": "business",
-      "summary_cs": [
-        "Meta zvažuje spuštění vlastní cloudové infrastruktury, v rámci které by nabízela přístup k výpočetnímu výkonu a AI modelům.",
-        "Tento krok by společnost postavil do přímé konkurence s giganty jako Amazon Web Services, Google Cloud a Microsoft Azure.",
-        "Strategie má pomoci monetizovat masivní investice do hardwaru a datových center."
-      ],
-      "why_matters": "Vznik nového cloudového hráče může snížit ceny výpočetního výkonu pro vývojáře AI po celém světě.",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 7,
-      "title_cs": "Do vedení Etnetery se vrací Martin Palička s cílem posílit rozvoj AI",
-      "title_orig": "Do vedení Etnetery se vrací spolumajitel Martin Palička. Firma se chce posunout i kvůli rozvoji AI a tomu, jak na ni dopadá",
-      "category": "wildcard",
-      "summary_cs": [
-        "Spolumajitel Martin Palička se po třech letech vrací do čela technologické skupiny Etnetera jako výkonný ředitel.",
-        "Dosavadní CEO Jiří Štěpán se nově zaměří výhradně na technologický rozvoj a strategické uplatnění AI v rámci skupiny.",
-        "Personální změna reaguje na rychlý nástup umělé inteligence a její dopady na trh IT služeb."
-      ],
-      "why_matters": "Příklad toho, jak přední české technologické firmy mění strukturu vedení, aby udržely krok s AI.",
-      "url": "https://www.lupa.cz/aktuality/do-vedeni-etnetery-se-vraci-spolumajitel-martin-palicka-firma-se-chce-posunout-i-kvuli-rozvoji-ai-a-tomu-jak-na-ni-dopada/",
-      "source": "Lupa.cz"
-    },
-    {
-      "rank": 8,
-      "title_cs": "Hugging Face a Cerebras přinášejí model Gemma 4 do hlasové AI v reálném čase",
-      "title_orig": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "category": "labs",
-      "summary_cs": [
-        "Nová spolupráce umožňuje provozovat model Gemma 4 s extrémně nízkou latencí pro hlasové aplikace.",
-        "Díky hardwarové akceleraci od Cerebras je interakce plynulá a odpovídá přirozené lidské konverzaci.",
-        "Řešení je dostupné pro vývojáře v rámci ekosystému Hugging Face."
-      ],
-      "why_matters": "Zpřístupňuje technologii pro tvorbu rychlých hlasových asistentů bez závislosti na drahých proprietárních API.",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "rank": 9,
-      "title_cs": "Matematické sjednocení metod GRPO, Dr. GRPO a DAPO pro trénování modelů",
-      "title_orig": "GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number: The Group-Standard-Deviation Identity",
-      "category": "research",
-      "summary_cs": [
-        "Vědecká práce ukazuje, že tři populární metody pro ladění uvažování jazykových modelů sdílejí stejný matematický základ.",
-        "Všechny tyto přístupy v podstatě manipulují s jedinou hodnotou, kterou je směrodatná odchylka odpovědí v rámci skupiny.",
-        "Tento objev zjednodušuje pochopení a implementaci posilovaného učení (RLHF) pro vývojáře modelů."
-      ],
-      "why_matters": "Zjednodušení trénovacích algoritmů může vést k efektivnějšímu vývoji uvažujících AI modelů.",
-      "url": "https://arxiv.org/abs/2607.00152",
-      "source": "ArXiv cs.LG"
-    },
-    {
-      "rank": 10,
-      "title_cs": "Autoresearch aneb jak funguje smyčka samo-zlepšujících se agentů",
-      "title_orig": "Autoresearch: The feedback loop behind self-improving agents",
-      "category": "research",
-      "summary_cs": [
-        "Koncept autoresearch představuje uzavřenou zpětnou vazbu, kde AI agenti sami analyzují své chyby a navrhují vylepšení.",
-        "Tento proces umožňuje autonomní optimalizaci kódu a pracovních postupů bez neustálého zásahu člověka.",
-        "Lidé však zůstávají klíčoví pro definování cílů a kontrolu kvality v této automatizované softwarové továrně."
-      ],
-      "why_matters": "Ukazuje budoucnost vývoje softwaru, kde rutinní optimalizaci přebírají autonomní systémy.",
-      "url": "https://www.latent.space/p/autoresearch-introspection",
-      "source": "Latent Space"
-    },
-    {
-      "rank": 11,
-      "title_cs": "RareDxR1 přináší autonomní diagnostiku vzácných onemocnění",
-      "title_orig": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
-      "category": "research",
-      "summary_cs": [
-        "Model RareDxR1 je navržen pro identifikaci vzácných diagnóz z komplexních a nestrukturovaných symptomů pacientů.",
-        "Systém dokáže provádět složité medicínské úvahy v obrovském vyhledávacím prostoru bez nutnosti lidských anotací.",
-        "Překonává dosavadní limity AI v medicíně, které byly závislé na omezeném množství expertních dat."
-      ],
-      "why_matters": "Významný krok k využití AI jako spolehlivého pomocníka lékařů při diagnostice nejsložitějších případů.",
-      "url": "https://arxiv.org/abs/2607.00147",
-      "source": "ArXiv cs.AI"
-    },
-    {
-      "rank": 12,
-      "title_cs": "Claude pomohl hackerovi odhalit zranitelnost v prodeji vstupenek na festivaly",
+      "title_cs": "Hacking festivalových lístků: Claude pomohl odhalit kritickou zranitelnost prodejních systémů",
       "title_orig": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
       "category": "news",
       "summary_cs": [
-        "Bezpečnostní analytik využil model Claude k nalezení kritické chyby v systému Front Gate, který zajišťuje prodej lístků.",
-        "Zranitelnost umožňovala generovat platné vstupenky na největší americké hudební festivaly zcela zdarma.",
-        "Incident zdůrazňuje rostoucí schopnosti AI při analýze kódu a vyhledávání bezpečnostních trhlin."
+        "Bezpečnostní analytik využil model Claude Opus 4.7 k nalezení závažné chyby v kódu platformy Front Gate.",
+        "Zranitelnost umožňovala generovat platné vstupenky na největší hudební festivaly zcela zdarma.",
+        "Tento incident opět otevírá debatu o tom, jak pokročilé modely usnadňují objevování bezpečnostních trhlin v softwaru."
       ],
-      "why_matters": "Varování pro vývojáře, že AI může být zneužita k rychlému vyhledávání kritických zranitelností v systémech.",
+      "why_matters": "Ukazuje reálné riziko zneužití pokročilých LLM k vyhledávání zranitelností v komerčních systémech.",
       "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
       "source": "Wired AI"
     },
     {
-      "rank": 13,
-      "title_cs": "Acti integruje AI agenty přímo do klávesnice chytrého telefonu",
-      "title_orig": "Acti puts AI agents directly into your smartphone keyboard",
-      "category": "tools",
+      "rank": 4,
+      "title_cs": "Ashton Kutcher zakládá nový fond zaměřený na infrastrukturu a energetiku pro AI",
+      "title_orig": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "category": "business",
       "summary_cs": [
-        "Startup Acti představil novou klávesnici pro iOS a Android, která přináší AI asistenty do jakékoli aplikace.",
-        "Uživatelé mohou vytvářet vlastní zkratky a spouštět komplexní úkoly pomocí přirozeného jazyka přímo při psaní.",
-        "Tento přístup obchází nutnost přepínat mezi samostatnými AI aplikacemi a zvyšuje produktivitu."
+        "Známý investor Ashton Kutcher opouští Sound Ventures a zakládá nový fond rizikového kapitálu s Morgan Beller.",
+        "Nový fond se zaměří na fyzickou vrstvu pod samotnými modely, zejména na energetické zdroje a hardwarovou infrastrukturu.",
+        "Tento krok reflektuje rostoucí obavy z nedostatku elektrické energie pro provoz obřích datových center."
       ],
-      "why_matters": "Představuje nový způsob, jakým budeme přirozeně interagovat s AI v mobilních zařízeních.",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "why_matters": "Investoři přesouvají pozornost od samotných modelů k infrastruktuře a energetice, které jsou pro AI klíčové.",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 14,
-      "title_cs": "Venice AI získává investici 65 milionů dolarů a zaměřuje se na soukromí",
+      "rank": 5,
+      "title_cs": "Venice AI získává investici 65 milionů dolarů a sází na absolutní soukromí uživatelů",
       "title_orig": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
       "category": "business",
       "summary_cs": [
-        "Platforma Venice AI, která klade důraz na ochranu soukromí uživatelů, dosáhla statusu jednorožce.",
-        "Firma vykazuje roční tržby přes 70 milionů dolarů a je již nyní zisková, což je u AI startupů výjimečné.",
-        "Úspěch ukazuje rostoucí poptávku po AI službách, které neukládají ani nezneužívají uživatelská data."
+        "Platforma Venice AI, která se zaměřuje na provoz modelů s důrazem na ochranu soukromí, získala status jednorožce.",
+        "Společnost je již nyní zisková s ročními příjmy přesahujícími 70 milionů dolarů pod vedením Erika Voorheese.",
+        "Služba garantuje, že uživatelská data nejsou ukládána ani využívána k trénování cizích modelů."
       ],
-      "why_matters": "Potvrzuje, že ochrana soukromí se stává silným prodejním argumentem i v oblasti umělé inteligence.",
+      "why_matters": "Dokazuje, že o služby kladoucí důraz na soukromí a bezpečnost dat je na trhu obrovský zájem.",
       "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 15,
-      "title_cs": "Řízení autonomie za běhu zvyšuje bezpečnost AI agentů",
-      "title_orig": "Managed Autonomy at Runtime: Gear-Based Safety and Governance for Single- and Multi-Agent Cyber-Physical Systems",
+      "rank": 6,
+      "title_cs": "Google DeepMind uvádí Gemini Omni Flash pro rychlé zpracování podnikového videa",
+      "title_orig": "Google's Gemini Omni Flash hits the API, turning enterprise video production into a conversation",
+      "category": "labs",
+      "summary_cs": [
+        "Google zpřístupnil v API nový model Gemini Omni Flash, který je optimalizován pro rychlou analýzu a tvorbu videa.",
+        "Nástroj umožňuje firmám generovat a upravovat instruktážní či produktová videa pomocí jednoduchých textových příkazů.",
+        "Technologie výrazně snižuje náklady na produkci obsahu a odstraňuje nutnost zdlouhavých manuálních střihů."
+      ],
+      "why_matters": "Zásadně zjednodušuje a zlevňuje tvorbu firemních videí pomocí přímého hlasového a textového ovládání.",
+      "url": "https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Hugging Face a Cerebras přinášejí model Gemma 4 pro bleskovou hlasovou komunikaci",
+      "title_orig": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "category": "labs",
+      "summary_cs": [
+        "Spolupráce mezi Hugging Face a hardwarovým výrobcem Cerebras přináší optimalizaci modelu Gemma 4 pro hlasové aplikace.",
+        "Díky extrémně rychlým čipům od Cerebras dosahuje hlasová asistence minimální latence srovnatelné s lidským rozhovorem.",
+        "Tento krok otevírá dveře pro nasazení přirozených hlasových agentů v zákaznické podpoře i osobních asistentech."
+      ],
+      "why_matters": "Umožňuje vývojářům stavět neuvěřitelně rychlé hlasové aplikace s otevřeným modelem.",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Acti integruje autonomní AI agenty přímo do klávesnice chytrých telefonů",
+      "title_orig": "Acti puts AI agents directly into your smartphone keyboard",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Acti představil novou softwarovou klávesnici pro systémy iOS a Android, která obsahuje vestavěné AI agenty.",
+        "Uživatelé mohou vytvářet vlastní zkratky a spouštět komplexní akce napříč různými aplikacemi přímo během psaní.",
+        "Klávesnice funguje jako univerzální rozhraní, které eliminuje potřebu neustále přepínat mezi specializovanými aplikacemi."
+      ],
+      "why_matters": "Ukazuje nový způsob, jak integrovat AI pomocníky přímo do operačního systému mobilních telefonů.",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Proč se jazykové modely drží zajetých kolejí a jak z toho ven",
+      "title_orig": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
       "category": "research",
       "summary_cs": [
-        "Představený rámec řeší rizika spojená s provozem autonomních agentů bez neustálého lidského dohledu.",
-        "Systém využívá princip rychlostních stupňů pro dynamické omezování pravomocí agenta v případě nejistoty.",
-        "Tímto způsobem se předchází nekonečným smyčkám, neověřeným akcím a potenciálně destruktivnímu chování."
+        "Výzkum ukazuje, že současné chatboty mají silnou tendenci generovat předvídatelné odpovědi a trpí nedostatkem originality.",
+        "Při požadavku na náhodné číslo většina modelů zvolí číslo sedm, což demonstruje hluboce zakořeněné vzorce v datech.",
+        "Nové startupy se snaží vyvinout metody, které modelům vrátí kreativitu a schopnost přemýšlet mimo naučené šablony."
       ],
-      "why_matters": "Klíčový koncept pro bezpečné nasazení plně autonomních AI systémů do reálného provozu.",
-      "url": "https://arxiv.org/abs/2607.00334",
+      "why_matters": "Pomáhá pochopit limity kreativity současných AI modelů a jak dosáhnout originálnějších výsledků.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Sjednocení metod pro trénování uvažování: GRPO, Dr. GRPO a DAPO mají společný základ",
+      "title_orig": "GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number: The Group-Standard-Deviation Identity",
+      "category": "research",
+      "summary_cs": [
+        "Nová matematická analýza ukazuje, že tři populární metody pro ladění uvažování modelů jsou ve skutečnosti velmi podobné.",
+        "Všechny tyto přístupy upravují jediný klíčový parametr, kterým je směrodatná odchylka hodnocení odpovědí.",
+        "Tento objev zjednodušuje pochopení tréninkových procesů a umožňuje efektivnější vývoj modelů zaměřených na logické uvažování."
+      ],
+      "why_matters": "Zjednodušuje a sjednocuje teorii za nejmodernějšími metodami trénování uvažovacích schopností AI.",
+      "url": "https://arxiv.org/abs/2607.00152",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Mnemosyne: Agentní transakce pro ověřování a opravu automatických workflow",
+      "title_orig": "Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-generated Workflows",
+      "category": "research",
+      "summary_cs": [
+        "Vědci představili systém Mnemosyne, který zavádí transakční zpracování do světa autonomních AI agentů.",
+        "Nástroj dokáže detekovat, zda vygenerované kroky v pracovním postupu nejsou zastaralé, neproveditelné nebo destruktivní.",
+        "V případě chyby dokáže systém automaticky vrátit změny zpět a navrhnout bezpečný opravný plán."
+      ],
+      "why_matters": "Zvyšuje spolehlivost nasazení AI agentů v kritických podnikových procesech a databázích.",
+      "url": "https://arxiv.org/abs/2607.00269",
       "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Jak nechat agenty nahrávat video ukázky jejich vlastní práce",
+      "title_orig": "Have your agent record video demos of its work with shot-scraper video",
+      "category": "tools",
+      "summary_cs": [
+        "Nová verze nástroje shot-scraper přináší možnost automatického nahrávání videa z průběhu práce AI agenta na webu.",
+        "Pomocí konfiguračního souboru lze definovat scénář, který agent provede, a Playwright zaznamená celý proces.",
+        "Tento přístup výrazně usnadňuje ladění chyb a poskytuje vizuální důkaz o správném fungování autonomních systémů."
+      ],
+      "why_matters": "Umožňuje snadno vizuálně kontrolovat a dokumentovat práci autonomních webových agentů.",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "ScarfBench: Nový standard pro testování AI agentů při migraci podnikových Java aplikací",
+      "title_orig": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "category": "labs",
+      "summary_cs": [
+        "Byl představen benchmark ScarfBench určený k hodnocení schopností AI agentů při migraci starších Java projektů.",
+        "Migrace podnikových frameworků je často zdlouhavá a drahá činnost, kterou se vývojáři snaží automatizovat.",
+        "Testy ukazují, kde mají současné modely největší slabiny při práci s komplexním korporátním kódem."
+      ],
+      "why_matters": "Pomáhá firmám objektivně posoudit, zda jsou AI agenti připraveni na náročnou migraci jejich systémů.",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Netflix využije syntetický hlas herce Gene Wildera v nové reality show",
+      "title_orig": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "category": "wildcard",
+      "summary_cs": [
+        "Netflix potvrdil, že v chystané soutěžní show inspirované světem Willyho Wonky použije AI klon hlasu zesnulého herce.",
+        "Tento krok opět rozvířil etické debaty o posmrtném využívání identity slavných osobností v zábavním průmyslu.",
+        "Produkce ujišťuje, že projekt vzniká s respektem k odkazu herce a s patřičným svolením držitelů práv."
+      ],
+      "why_matters": "Ukazuje, jak se syntetické hlasy zesnulých celebrit stávají běžnou součástí mainstreamové produkce.",
+      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Kvíz AI Compass vám ukáže, jaký etický archetyp v oblasti umělé inteligence představujete",
+      "title_orig": "The AI Compass",
+      "category": "wildcard",
+      "summary_cs": [
+        "Na internetu se objevil interaktivní kvíz inspirovaný politickým kompasem, který se zaměřuje na etiku umělé inteligence.",
+        "Po zodpovězení 29 otázek systém uživatele zařadí do jednoho ze 30 specifických etických archetypů.",
+        "Projekt zábavnou formou nutí k zamyšlení nad regulací, autorskými právy a budoucností lidstva ve věku strojů."
+      ],
+      "why_matters": "Zábavný způsob, jak si ujasnit vlastní postoje k etickým otázkám kolem vývoje umělé inteligence.",
+      "url": "https://simonwillison.net/2026/Jun/30/the-ai-compass/",
+      "source": "Simon Willison's Weblog"
     }
   ]
 }
