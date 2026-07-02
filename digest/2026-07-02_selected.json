@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-02",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OSA plánuje žalovat tvůrce AI kvůli trénování na českých písních",
+      "title_orig": "OSA chce žalovat provozovatele AI kvůli zneužívání českých písniček. Tvůrci modelů by prý měli platit",
+      "category": "wildcard",
+      "summary_cs": [
+        "Ochranný svaz autorský (OSA) zvažuje právní kroky proti americké společnosti Suno, která provozuje populární generátor hudby.",
+        "Důvodem je podezření, že modely byly bez povolení trénovány na databázích obsahujících miliony skladeb včetně děl českých autorů.",
+        "Tento krok představuje jeden z prvních významných pokusů o ochranu autorských práv tuzemských umělců v éře generativní AI."
+      ],
+      "why_matters": "Tento spor může zásadně ovlivnit dostupnost a legálnost lokálního trénovacího obsahu pro globální AI modely.",
+      "url": "https://www.lupa.cz/aktuality/osa-chce-zalovat-provozovatele-ai-kvuli-zneuzivani-ceskych-pisnicek-tvurci-modelu-by-pry-meli-platit/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Cloudflare tlačí na AI firmy, aby platily vydavatelům za obsah",
+      "title_orig": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "category": "news",
+      "summary_cs": [
+        "Cloudflare dává vývojářům AI čas do poloviny září, aby jasně oddělili vyhledávací roboty od těch, které slouží k trénování modelů.",
+        "Pokud tak neučiní, hrozí jim plošné blokování ze strany webových vydavatelů využívajících infrastrukturu Cloudflare.",
+        "Cílem je přimět technologické giganty k férovému licencování a placení za autorský obsah."
+      ],
+      "why_matters": "Změna pravidel může omezit přístup AI k aktuálním webovým datům a změnit ekonomiku internetového obsahu.",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Firmy bojují s kontrolou AI, správa systémů probíhá často ručně",
+      "title_orig": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem – and most are governing it by hand",
+      "category": "business",
+      "summary_cs": [
+        "Firemní AI portfolia rostou rychleji, než jaká je schopnost organizací je efektivně řídit a kontrolovat.",
+        "Většina podniků postrádá jasné vlastnictví AI systémů a monitorování jejich chování či případného selhání v produkci probíhá ručně.",
+        "Hlavní překážkou pro zavedení kontroly není chybějící technologie, ale absence jednotné správy a odpovědnosti."
+      ],
+      "why_matters": "Ukazuje na kritické provozní riziko pro české firmy, které implementují AI bez robustního systému správy.",
+      "url": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Jak Cursor nasazuje umělou inteligenci ve velkých podnicích",
+      "title_orig": "How Cursor deploys AI inside the enterprise",
+      "category": "tools",
+      "summary_cs": [
+        "Tým inženýrů z Cursoru pomáhá firmám implementovat pokročilé programovací agenty přímo do jejich interních systémů.",
+        "Cílem je vybudovat takzvané softwarové továrny, které automatizují rutinní vývojové úkoly při zachování bezpečnosti kódu.",
+        "Úspěch nasazení závisí na těsné integraci s existující infrastrukturou a na správném nastavení mantinelů pro agenty."
+      ],
+      "why_matters": "Praktický návod pro české technologické lídry, jak transformovat vývojové týmy pomocí specializovaných agentů.",
+      "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Restaurace mohou přijímat objednávky přímo z ChatGPT a Claude díky službě Square",
+      "title_orig": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
+      "category": "tools",
+      "summary_cs": [
+        "Platební platforma Square spouští integraci, která umožňuje restauracím přijímat objednávky přímo z konverzačních rozhraní AI.",
+        "Zákazníci mohou objevovat podniky a objednávat jídlo prostřednictvím chatbotů bez nutnosti instalovat další aplikace.",
+        "Propojení nevyžaduje od restaurací žádné technické znalosti a funguje s minimálními poplatky."
+      ],
+      "why_matters": "Ukázka toho, jak AI agenti začínají přímo vstupovat do reálné ekonomiky a každodenního podnikání.",
+      "url": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Meta plánuje prodávat přebytečný výpočetní výkon pro AI jako cloudovou službu",
+      "title_orig": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "category": "business",
+      "summary_cs": [
+        "Meta zvažuje spuštění vlastní cloudové infrastruktury, v rámci které by nabízela přístup k výpočetnímu výkonu a AI modelům.",
+        "Tento krok by společnost postavil do přímé konkurence s giganty jako Amazon Web Services, Google Cloud a Microsoft Azure.",
+        "Strategie má pomoci monetizovat masivní investice do hardwaru a datových center."
+      ],
+      "why_matters": "Vznik nového cloudového hráče může snížit ceny výpočetního výkonu pro vývojáře AI po celém světě.",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Do vedení Etnetery se vrací Martin Palička s cílem posílit rozvoj AI",
+      "title_orig": "Do vedení Etnetery se vrací spolumajitel Martin Palička. Firma se chce posunout i kvůli rozvoji AI a tomu, jak na ni dopadá",
+      "category": "wildcard",
+      "summary_cs": [
+        "Spolumajitel Martin Palička se po třech letech vrací do čela technologické skupiny Etnetera jako výkonný ředitel.",
+        "Dosavadní CEO Jiří Štěpán se nově zaměří výhradně na technologický rozvoj a strategické uplatnění AI v rámci skupiny.",
+        "Personální změna reaguje na rychlý nástup umělé inteligence a její dopady na trh IT služeb."
+      ],
+      "why_matters": "Příklad toho, jak přední české technologické firmy mění strukturu vedení, aby udržely krok s AI.",
+      "url": "https://www.lupa.cz/aktuality/do-vedeni-etnetery-se-vraci-spolumajitel-martin-palicka-firma-se-chce-posunout-i-kvuli-rozvoji-ai-a-tomu-jak-na-ni-dopada/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Hugging Face a Cerebras přinášejí model Gemma 4 do hlasové AI v reálném čase",
+      "title_orig": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "category": "labs",
+      "summary_cs": [
+        "Nová spolupráce umožňuje provozovat model Gemma 4 s extrémně nízkou latencí pro hlasové aplikace.",
+        "Díky hardwarové akceleraci od Cerebras je interakce plynulá a odpovídá přirozené lidské konverzaci.",
+        "Řešení je dostupné pro vývojáře v rámci ekosystému Hugging Face."
+      ],
+      "why_matters": "Zpřístupňuje technologii pro tvorbu rychlých hlasových asistentů bez závislosti na drahých proprietárních API.",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Matematické sjednocení metod GRPO, Dr. GRPO a DAPO pro trénování modelů",
+      "title_orig": "GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number: The Group-Standard-Deviation Identity",
+      "category": "research",
+      "summary_cs": [
+        "Vědecká práce ukazuje, že tři populární metody pro ladění uvažování jazykových modelů sdílejí stejný matematický základ.",
+        "Všechny tyto přístupy v podstatě manipulují s jedinou hodnotou, kterou je směrodatná odchylka odpovědí v rámci skupiny.",
+        "Tento objev zjednodušuje pochopení a implementaci posilovaného učení (RLHF) pro vývojáře modelů."
+      ],
+      "why_matters": "Zjednodušení trénovacích algoritmů může vést k efektivnějšímu vývoji uvažujících AI modelů.",
+      "url": "https://arxiv.org/abs/2607.00152",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Autoresearch aneb jak funguje smyčka samo-zlepšujících se agentů",
+      "title_orig": "Autoresearch: The feedback loop behind self-improving agents",
+      "category": "research",
+      "summary_cs": [
+        "Koncept autoresearch představuje uzavřenou zpětnou vazbu, kde AI agenti sami analyzují své chyby a navrhují vylepšení.",
+        "Tento proces umožňuje autonomní optimalizaci kódu a pracovních postupů bez neustálého zásahu člověka.",
+        "Lidé však zůstávají klíčoví pro definování cílů a kontrolu kvality v této automatizované softwarové továrně."
+      ],
+      "why_matters": "Ukazuje budoucnost vývoje softwaru, kde rutinní optimalizaci přebírají autonomní systémy.",
+      "url": "https://www.latent.space/p/autoresearch-introspection",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 11,
+      "title_cs": "RareDxR1 přináší autonomní diagnostiku vzácných onemocnění",
+      "title_orig": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
+      "category": "research",
+      "summary_cs": [
+        "Model RareDxR1 je navržen pro identifikaci vzácných diagnóz z komplexních a nestrukturovaných symptomů pacientů.",
+        "Systém dokáže provádět složité medicínské úvahy v obrovském vyhledávacím prostoru bez nutnosti lidských anotací.",
+        "Překonává dosavadní limity AI v medicíně, které byly závislé na omezeném množství expertních dat."
+      ],
+      "why_matters": "Významný krok k využití AI jako spolehlivého pomocníka lékařů při diagnostice nejsložitějších případů.",
+      "url": "https://arxiv.org/abs/2607.00147",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Claude pomohl hackerovi odhalit zranitelnost v prodeji vstupenek na festivaly",
+      "title_orig": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní analytik využil model Claude k nalezení kritické chyby v systému Front Gate, který zajišťuje prodej lístků.",
+        "Zranitelnost umožňovala generovat platné vstupenky na největší americké hudební festivaly zcela zdarma.",
+        "Incident zdůrazňuje rostoucí schopnosti AI při analýze kódu a vyhledávání bezpečnostních trhlin."
+      ],
+      "why_matters": "Varování pro vývojáře, že AI může být zneužita k rychlému vyhledávání kritických zranitelností v systémech.",
+      "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Acti integruje AI agenty přímo do klávesnice chytrého telefonu",
+      "title_orig": "Acti puts AI agents directly into your smartphone keyboard",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Acti představil novou klávesnici pro iOS a Android, která přináší AI asistenty do jakékoli aplikace.",
+        "Uživatelé mohou vytvářet vlastní zkratky a spouštět komplexní úkoly pomocí přirozeného jazyka přímo při psaní.",
+        "Tento přístup obchází nutnost přepínat mezi samostatnými AI aplikacemi a zvyšuje produktivitu."
+      ],
+      "why_matters": "Představuje nový způsob, jakým budeme přirozeně interagovat s AI v mobilních zařízeních.",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Venice AI získává investici 65 milionů dolarů a zaměřuje se na soukromí",
+      "title_orig": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "category": "business",
+      "summary_cs": [
+        "Platforma Venice AI, která klade důraz na ochranu soukromí uživatelů, dosáhla statusu jednorožce.",
+        "Firma vykazuje roční tržby přes 70 milionů dolarů a je již nyní zisková, což je u AI startupů výjimečné.",
+        "Úspěch ukazuje rostoucí poptávku po AI službách, které neukládají ani nezneužívají uživatelská data."
+      ],
+      "why_matters": "Potvrzuje, že ochrana soukromí se stává silným prodejním argumentem i v oblasti umělé inteligence.",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Řízení autonomie za běhu zvyšuje bezpečnost AI agentů",
+      "title_orig": "Managed Autonomy at Runtime: Gear-Based Safety and Governance for Single- and Multi-Agent Cyber-Physical Systems",
+      "category": "research",
+      "summary_cs": [
+        "Představený rámec řeší rizika spojená s provozem autonomních agentů bez neustálého lidského dohledu.",
+        "Systém využívá princip rychlostních stupňů pro dynamické omezování pravomocí agenta v případě nejistoty.",
+        "Tímto způsobem se předchází nekonečným smyčkám, neověřeným akcím a potenciálně destruktivnímu chování."
+      ],
+      "why_matters": "Klíčový koncept pro bezpečné nasazení plně autonomních AI systémů do reálného provozu.",
+      "url": "https://arxiv.org/abs/2607.00334",
+      "source": "ArXiv cs.AI"
+    }
+  ]
+}
