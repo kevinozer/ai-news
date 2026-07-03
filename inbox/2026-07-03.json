@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T04:00:51.320759+00:00",
+  "generated_at": "2026-07-03T07:35:38.933541+00:00",
   "date": "2026-07-03",
   "article_count_unique": 144,
   "article_count_raw": 144,
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 15,
-      "raw_count": 15
+      "count": 16,
+      "raw_count": 16
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,7 +163,7 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 5,
+      "count": 4,
       "raw_count": 13
     },
     {
@@ -174,6 +174,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "9e31b8f73f3ea307",
+      "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+      "published_at": "2026-07-03T05:11:43+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "The AI Engineer World&#8217;s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!M0WA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d4f7346-6688-4240-b077-16bf6f4a4a34_1280x815.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
     {
       "id": "d60162f150796154",
       "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
@@ -1481,18 +1493,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "8bcdd669e18a12e7",
-      "title": "Co firmy vyvíjely roky, může někdo okopírovat za pár hodin. Jak vypadá v Česku „SaaSpokalypsa“",
-      "url": "https://www.lupa.cz/clanky/co-firmy-vyvijely-roky-muze-nekdo-okopirovat-za-par-hodin-jak-vypada-v-cesku-saaspokalypsa/",
-      "published_at": "2026-07-01T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Firmy zkouší s AI nástroji samy nakódovat to, za co každý měsíc vydávaly podstatné částky ze svých rozpočtů. Mnohdy tím nahrazují produkty startupů a mění celý trh způsobem, pro který se vžil pojem „SaaSpokalypsa“.",
-      "hero_image": "https://i.iinfo.cz/images/269/problemy-saas-firem.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "4f709b30f47272a2",
