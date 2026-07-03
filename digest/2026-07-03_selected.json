@@ -3,213 +3,213 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "Anthropic globálně obnovuje přístup k modelům Fable 5 a Mythos 5 po zrušení vládních omezení",
+      "title_cs": "Anthropic globálně obnovuje přístup k modelům Fable 5 a Mythos 5 po zrušení vládního zákazu",
       "title_orig": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order - where can enterprises access it?",
       "category": "news",
       "summary_cs": [
-        "Americké ministerstvo obchodu stáhlo mimořádná exportní omezení uvalená na nejvýkonnější modely od Anthropicu.",
-        "Globální podniky tak po třech týdnech výpadku opět získávají přístup k modelům Claude Fable 5 a Mythos 5.",
-        "Návrat doprovázejí nová bezpečnostní opatření a rámce pro zamezení zneužití v oblasti kybernetické bezpečnosti."
+        "Americké ministerstvo obchodu zrušilo nouzové exportní omezení, které na tři týdny odstavilo nejvýkonnější modely Anthropicu.",
+        "Globální podniky tak opět získávají přístup k modelům Claude Fable 5 a Mythos 5 pro své nejnáročnější úkoly.",
+        "Návrat modelů doprovázejí nová bezpečnostní opatření a rámce pro detekci pokusů o zneužití systému."
       ],
-      "why_matters": "České firmy mohou opět bez omezení využívat nejvýkonnější komerční AI modely na trhu pro své kritické aplikace.",
+      "why_matters": "Návrat nejvýkonnějšího modelu na trhu stabilizuje plány českých firem, které na něm staví své pokročilé systémy.",
       "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
       "source": "VentureBeat AI"
     },
     {
       "rank": 2,
-      "title_cs": "OpenAI navrhuje předat americké vládě pětiprocentní podíl ve firmě pro zmírnění napětí",
+      "title_cs": "OpenAI navrhuje předat Trumpově administrativě pětiprocentní podíl ve firmě",
       "title_orig": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
       "category": "business",
       "summary_cs": [
-        "Generální ředitel Sam Altman jedná s Trumpovou administrativou o poskytnutí vlastnického podílu ve výši pěti procent.",
-        "Tento krok má pomoci zmírnit rostoucí veřejný odpor a politický tlak vůči rychlému rozvoji umělé inteligence.",
-        "Finanční zájem státu na úspěchu OpenAI by mohl zásadně ovlivnit budoucí regulaci a vládní zakázky v oblasti AI."
+        "Generální ředitel Sam Altman aktivně jedná s americkou vládou o poskytnutí finančního podílu v hodnotě miliard dolarů.",
+        "Tento bezprecedentní krok má zmírnit politické napětí a oslabit rostoucí veřejnou kritiku vůči rychlému rozvoji AI.",
+        "Návrh přichází v době, kdy se technologičtí giganti snaží zajistit masivní státní podporu pro novou energetickou infrastrukturu."
       ],
-      "why_matters": "Tento bezprecedentní krok ukazuje, jak hluboko se AI byznys propojuje s nejvyšší státní politikou.",
+      "why_matters": "Ukazuje to extrémní provázanost AI byznysu s politikou, což ovlivní globální regulace i dostupnost technologií v Evropě.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
       "source": "The Verge AI"
     },
     {
       "rank": 3,
-      "title_cs": "Dvě třetiny firem diverzifikují své AI modely kvůli nedávným výpadkům a regulacím",
+      "title_cs": "Dvě třetiny firem se již pojistily proti výpadkům AI modelů diverzifikací svých strategií",
       "title_orig": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
       "category": "business",
       "summary_cs": [
-        "Nedávný nucený výpadek modelu Claude Fable 5 ukázal zranitelnost firem závislých na jediném poskytovateli AI.",
-        "Nová data potvrzují, že dvě třetiny podniků již aktivně budují záložní strategie a integrují modely od více různých laboratoří.",
-        "Tento přístup se stává hlavním proudem v podnikovém IT s cílem zajistit kontinuitu provozu za každé situace."
+        "Nedávný třítýdenní výpadek modelu Claude Fable 5 kvůli vládním regulacím ukázal zranitelnost firem závislých na jediném poskytovateli.",
+        "Průzkumy ukazují, že 66 % podniků již přešlo na multi-modelovou strategii, aby v případě výpadku mohly okamžitě přepnout na konkurenci.",
+        "Tento trend mění trh, protože firmy vyžadují flexibilní integrace a odmítají se vázat na exkluzivní ekosystémy."
       ],
-      "why_matters": "Ukazuje důležitost multi-model strategie pro české firmy, které nechtějí ohrozit svůj provoz výpadkem jednoho dodavatele.",
+      "why_matters": "Pro české IT lídry jde o jasné varování, že závislost na jediném AI poskytovateli je neúnosné byznysové riziko.",
       "url": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge",
       "source": "VentureBeat AI"
     },
     {
       "rank": 4,
-      "title_cs": "Anthropic odhaluje detaily o kybernetických zárukách pro model Fable 5",
-      "title_orig": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
-      "category": "labs",
-      "summary_cs": [
-        "Společnost Anthropic zveřejnila podrobnosti o bezpečnostních mechanismech chránících její nejvýkonnější model.",
-        "Nové ochranné prvky se zaměřují na prevenci zneužití modelu v oblasti kybernetických útoků a tvorby škodlivého kódu.",
-        "Představen byl také nový testovací rámec pro odhalování pokusů o obcházení vestavěných bezpečnostních pravidel."
-      ],
-      "why_matters": "Bezpečnostní standardy špičkových modelů přímo ovlivňují bezpečnost aplikací, které na nich čeští vývojáři staví.",
-      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-      "source": "Anthropic News"
-    },
-    {
-      "rank": 5,
-      "title_cs": "Anthropic jedná se Samsungem o vývoji vlastního AI čipu",
+      "title_cs": "Anthropic jedná se Samsungem o vývoji vlastních AI čipů",
       "title_orig": "Anthropic is discussing a new custom chip with Samsung",
       "category": "business",
       "summary_cs": [
-        "Anthropic se snaží snížit závislost na hardwaru od Nvidie a jedná o partnerství s jihokorejským gigantem Samsung.",
-        "Plánovaný vlastní čip by měl optimalizovat provoz modelů rodiny Claude a výrazně snížit náklady na jejich provoz.",
-        "Zpráva přichází pouhý týden poté, co konkurenční OpenAI oznámila podobné partnerství se společností Broadcom."
+        "Společnost Anthropic zahájila rozhovory s jihokorejským gigantem Samsung o návrhu a výrobě vlastního křemíku pro AI.",
+        "Tento krok následuje pouhý týden po podobném oznámení OpenAI, která na vlastních čipech spolupracuje s Broadcomem.",
+        "Vlastní hardware má laboratořím zajistit nezávislost na dominantních dodávkách od Nvidie a snížit astronomické náklady na trénování."
       ],
-      "why_matters": "Vlastní hardware předních laboratoří může v budoucnu výrazně zlevnit a zrychlit AI služby pro koncové uživatele.",
+      "why_matters": "Vlastní čipy velkých hráčů mohou v budoucnu výrazně zlevnit provoz AI služeb i pro české vývojáře.",
       "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 6,
-      "title_cs": "Vercel představuje framework eve a ukazuje agenty jako nový druh softwaru",
+      "rank": 5,
+      "title_cs": "Vercel představuje framework eve a vysvětluje novou éru agentního softwaru",
       "title_orig": "Vercel's Andrew Qu on why agents are a new kind of software",
       "category": "tools",
       "summary_cs": [
-        "Šéf softwaru ve Vercelu vysvětluje filozofii stojící za novým agentním frameworkem s názvem eve.",
-        "Agenti podle něj představují posun od statického kódu k dynamickým systémům, které potřebují specifické dovednosti a bezpečné sandboxové prostředí.",
-        "Důraz se přesouvá na tvorbu webových stránek, které jsou snadno čitelné a ovladatelné nejen pro lidi, ale i pro AI agenty."
+        "Šéf softwaru ve Vercelu popsal vývoj nového agentního frameworku eve a jeho integraci do moderního webového vývoje.",
+        "Webové stránky se mění z pouhých statických prezentací na prostředí optimalizovaná pro čtení a ovládání AI agenty.",
+        "Klíčovými koncepty se stávají bezpečné sandboxy pro spouštění kódu a standardizované dovednosti, které mohou agenti dynamicky využívat."
       ],
-      "why_matters": "Pro české webové vývojáře jde o jasný signál, jak se mění architektura moderních aplikací pod vlivem AI.",
+      "why_matters": "Ukazuje, jak se mění tvorba webů, které brzy nebudou navrhovány jen pro lidi, ale i pro AI agenty.",
       "url": "https://www.latent.space/p/vercel-agents-new-software",
       "source": "Latent Space"
     },
     {
-      "rank": 7,
-      "title_cs": "Web budoucnosti se sestaví na míru pro každého návštěvníka podle jeho záměru",
+      "rank": 6,
+      "title_cs": "Adobe experimentuje s agentickými weby, které se samy sestaví pro každého návštěvníka",
       "title_orig": "The website of the future may assemble itself for every visitor",
       "category": "wildcard",
       "summary_cs": [
-        "Společnost Adobe experimentuje s konceptem takzvaných agentních webů, které generují obsah v reálném čase.",
-        "Místo fixní struktury se stránka přizpůsobí konkrétnímu záměru a potřebám daného uživatele.",
-        "Tento přístup může zcela změnit design, marketing i způsob, jakým lidé konzumují informace na internetu."
+        "Společnost Adobe testuje novou generaci webových stránek, které nemají pevně danou strukturu ani design.",
+        "Stránka se v reálném čase vygeneruje a poskládá podle toho, s jakým záměrem a historií na ni konkrétní uživatel přichází.",
+        "Tento přístup stírá rozdíl mezi vyhledáváním, konverzací s asistentem a tradičním prohlížením webového obsahu."
       ],
-      "why_matters": "Tento trend může zásadně transformovat českou e-commerce a tvorbu webů v následujících letech.",
+      "why_matters": "Tento koncept může zcela transformovat e-commerce a marketing, na což by se české firmy měly začít připravovat.",
       "url": "https://www.latent.space/p/the-website-of-the-future",
       "source": "Latent Space"
     },
     {
-      "rank": 8,
-      "title_cs": "Meta potichu spustila Pocket, aplikaci pro tvorbu mini her pomocí textu",
+      "rank": 7,
+      "title_cs": "Meta v tichosti spustila experimentální herní aplikaci Pocket generovanou pomocí AI",
       "title_orig": "Meta quietly launches vibe-coded gaming app Pocket",
       "category": "news",
       "summary_cs": [
-        "Meta bez velkých oznámení vydala experimentální aplikaci Pocket zaměřenou na generování jednoduchých her.",
-        "Uživatelé mohou vytvářet a okamžitě sdílet interaktivní minihry pouze na základě zadání textového popisu.",
-        "Projekt ukazuje rostoucí trend demokratizace vývoje her pomocí generativní umělé inteligence."
+        "Nová aplikace Pocket od laboratoře NPE v rámci Mety umožňuje uživatelům vytvářet hratelné minihry pouze pomocí textových zadání.",
+        "Uživatelé mohou své výtvory okamžitě sdílet s komunitou, která je může dále upravovat a rozvíjet.",
+        "Projekt ukazuje posun k takzvanému vibe-codingu, kdy k tvorbě funkčního softwaru není potřeba žádná znalost programování."
       ],
-      "why_matters": "Ukazuje, jak snadno budou moci i netechničtí uživatelé v Česku vytvářet vlastní interaktivní obsah.",
+      "why_matters": "Předznamenává éru, kdy si každý uživatel bude moci vytvořit software nebo hru přesně na míru svým potřebám.",
       "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 9,
-      "title_cs": "Google dostal pokutu 4,7 miliardy dolarů po neúspěšném odvolání u soudu EU",
-      "title_orig": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
-      "category": "news",
-      "summary_cs": [
-        "Evropský soud zamítl odvolání společnosti Google v dlouholetém sporu týkajícím se operačního systému Android.",
-        "Pokuta byla udělena za zneužívání dominantního postavení vynucováním instalace vlastního vyhledávače a prohlížeče.",
-        "Rozhodnutí potvrzuje tvrdý přístup evropských orgánů k regulaci velkých technologických firem."
-      ],
-      "why_matters": "Rozhodnutí upevňuje pozici evropských regulátorů, což má přímý vliv na digitální trh v České republice.",
-      "url": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
-      "source": "Ars Technica"
-    },
-    {
-      "rank": 10,
-      "title_cs": "Energetická daň za rozvoj AI: Spotřeba elektřiny u Googlu stoupla o 37 procent",
-      "title_orig": "Google’s AI buildout drove 37% increase in electricity use in 2025",
-      "category": "news",
-      "summary_cs": [
-        "Masivní výstavba infrastruktury pro umělou inteligenci vedla k prudkému nárůstu spotřeby energie v datových centrech Google.",
-        "Společnost se snaží vyvážit emise investicemi do čisté energie, ale tempo růstu AI spotřeby tyto snahy komplikuje.",
-        "Udržitelnost provozu obřích modelů se stává jedním z největších technologických a ekologických problémů současnosti."
-      ],
-      "why_matters": "Ekologické a energetické dopady AI jsou klíčovým tématem i pro evropskou energetickou síť.",
-      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-      "source": "Ars Technica"
-    },
-    {
-      "rank": 11,
-      "title_cs": "SpaceX zvažuje akvizici Cursoru a testuje vztahy mezi předními AI laboratořemi",
-      "title_orig": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-      "category": "news",
-      "summary_cs": [
-        "Populární programovací editor Cursor by mohl přejít pod křídla SpaceX, což vyvolává otázky o jeho budoucnosti.",
-        "Cursor v současnosti spoléhá na modely od OpenAI a Anthropicu, které jsou pro jeho fungování klíčové.",
-        "Případná akvizice prověří ochotu konkurenčních laboratoří poskytovat své modely platformě vlastněné Elonem Muskem."
-      ],
-      "why_matters": "Cursor je extrémně populární mezi českými vývojáři, které by změna majitele a dostupnosti modelů přímo ovlivnila.",
-      "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "source": "Wired AI"
-    },
-    {
-      "rank": 12,
-      "title_cs": "Proč je důležité rozumět kódu, který za nás píší AI agenti",
-      "title_orig": "Understand to participate",
-      "category": "news",
-      "summary_cs": [
-        "Známý vývojář Geoffrey Litt upozorňuje na riziko hromadění kognitivního dluhu při bezhlavém přijímání kódu od AI.",
-        "Pokud programátoři přestanou rozumět detailům systémů, které AI vytváří, ztratí schopnost je efektivně spravovat.",
-        "Klíčem k úspěšné spolupráci s agenty je udržení lidského přehledu a aktivní porozumění každé provedené změně."
-      ],
-      "why_matters": "Varování před ztrátou kontroly nad kódem je zásadní pro české programátory adaptující se na AI nástroje.",
-      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/",
-      "source": "Simon Willison's Weblog"
-    },
-    {
-      "rank": 13,
-      "title_cs": "Wiola: Zcela nová architektura pro efektivní malé jazykové modely",
+      "rank": 8,
+      "title_cs": "Wiola představuje zcela novou architekturu pro efektivní malé jazykové modely",
       "title_orig": "The Wiola Architecture for Efficient Small Language Models",
       "category": "research",
       "summary_cs": [
-        "Vědci představili architekturu Wiola, která byla navržena od základů bez návaznosti na rodiny GPT nebo LLaMA.",
-        "Model přináší pět zcela nových strukturních komponent, které výrazně zvyšují efektivitu zpracování textu.",
-        "Tento přístup ukazuje, že cesta k lepším modelům nemusí vést pouze přes neustálé zvětšování těch stávajících."
+        "Výzkumníci představili Wiolu, originální architekturu malých jazykových modelů postavenou zcela od základu bez vazby na GPT či LLaMA.",
+        "Model přináší pět inovativních komponent včetně spirálové pozornosti, které dramaticky snižují hardwarové nároky.",
+        "Tento přístup umožňuje dosahovat vysoké přesnosti při zlomku velikosti a spotřeby energie oproti běžným transformerům."
       ],
-      "why_matters": "Malé a efektivní modely jsou klíčem pro provoz AI přímo na zařízeních uživatelů bez drahého cloudu.",
+      "why_matters": "Efektivní malé modely jsou klíčem k provozu pokročilé AI přímo na běžných noteboocích a telefonech bez cloudu.",
       "url": "https://arxiv.org/abs/2607.01394",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 14,
-      "title_cs": "CreativityNeuro: Metoda pro snížení uniformity a podporu kreativity u jazykových modelů",
+      "rank": 9,
+      "title_cs": "Rostoucí nároky na AI zvýšily spotřebu elektřiny Google v roce 2025 o 37 procent",
+      "title_orig": "Google’s AI buildout drove 37% increase in electricity use in 2025",
+      "category": "news",
+      "summary_cs": [
+        "Masivní výstavba datových center pro umělou inteligenci vedla k prudkému nárůstu spotřeby energie technologického giganta.",
+        "Google se snaží vyvážit emise investicemi do čisté energie, ale rychlost nasazování AI komplikuje jeho klimatické závazky.",
+        "Situace ukazuje reálné ekologické limity současného překotného rozvoje výpočetní techniky."
+      ],
+      "why_matters": "Energetická náročnost AI se stává klíčovým tématem, které ovlivní ceny energií i infrastrukturu v celé Evropě.",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Jak se vyhnout kognitivnímu dluhu při spolupráci s programovacími agenty",
+      "title_orig": "Understand to participate",
+      "category": "news",
+      "summary_cs": [
+        "Známý vývojář Geoffrey Litt upozorňuje na riziko, kdy vývojáři slepě přijímají obří kusy kódu vygenerované AI agenty.",
+        "Pokud programátor detailně nerozumí změnám, které agent v kódu provádí, ztrácí nad projektem kontrolu a hromadí kognitivní dluh.",
+        "Řešením je aktivní participace a neustálé ověřování, nikoli pouhé pasivní schvalování návrhů."
+      ],
+      "why_matters": "Zásadní rada pro české programátory, jak efektivně využívat AI a přitom si udržet kontrolu nad kvalitou kódu.",
+      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "CreativityNeuro upravuje váhy modelů pro podporu kreativního myšlení a omezení uniformity",
       "title_orig": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
       "category": "research",
       "summary_cs": [
-        "Velké jazykové modely mají tendenci generovat velmi podobné odpovědi na otevřené otázky, což omezuje jejich kreativitu.",
-        "Nová metoda CreativityNeuro umožňuje upravovat váhy modelů bez nutnosti nového trénování a podporuje divergentní myšlení.",
-        "Tento přístup pomáhá modelům generovat originálnější nápady a předcházet stereotypním výstupům."
+        "Představena byla nová metoda CreativityNeuro, která upravuje vnitřní váhy modelů bez nutnosti jejich nákladného přetrénování.",
+        "Technika se zaměřuje na potlačení takzvaného efektu kolektivního vědomí, kdy modely na otevřené otázky odpovídají velmi podobně.",
+        "Výsledkem je výrazně vyšší rozmanitost a originalita generovaných nápadů při zachování logické správnosti."
       ],
-      "why_matters": "Pomáhá překonat problém generování stále stejných frází, což ocení čeští tvůrci obsahu.",
+      "why_matters": "Tato metoda pomůže firmám generovat skutečně inovativní nápady namísto generických marketingových textů.",
       "url": "https://arxiv.org/abs/2607.01433",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 15,
-      "title_cs": "Jak efektivně kódovat číselné hodnoty ze zdravotních záznamů pro transformery",
-      "title_orig": "How Should Transformers Encode Numeric Values in Electronic Health Records?",
+      "rank": 12,
+      "title_cs": "Meta zavádí předplatné za pokročilé funkce svých chytrých brýlí",
+      "title_orig": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
+      "category": "news",
+      "summary_cs": [
+        "Uživatelé chytrých brýlí od Mety si budou muset připlatit formou měsíčního předplatného za přístup k nejnovějším AI funkcím.",
+        "Tento krok potvrzuje nový trend v oblasti spotřební elektroniky, kdy samotný nákup hardwaru k plné funkčnosti nestačí.",
+        "Výrobci se tímto způsobem snaží pokrýt neustálé provozní náklady na cloudové AI servery."
+      ],
+      "why_matters": "Ukazuje, že éra bezplatných AI funkcí v hardwaru končí a čeští spotřebitelé si musí zvyknout na další předplatná.",
+      "url": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Problém s infrastrukturou při trénování programovacích agentů pomocí zpětné vazby",
+      "title_orig": "The Rollout Infrastructure Tax in Coding-Agent Reinforcement Learning",
       "category": "research",
       "summary_cs": [
-        "Výzkum se zaměřil na optimální způsob, jakým by měly neuronové sítě zpracovávat čísla ve zdravotnické dokumentaci.",
-        "Autoři systematicky porovnali diskrétní, spojité a hybridní metody kódování na reálných medicínských datech.",
-        "Správná reprezentace číselných údajů, jako je krevní tlak či laboratorní výsledky, zásadně zlepšuje přesnost AI předpovědí."
+        "Studie se zabývá skrytými náklady na infrastrukturu při trénování AI agentů pomocí zpětnovazebního učení.",
+        "Spouštění tisíců interaktivních softwarových testů v reálném čase vytváří obrovskou režii, která je často přehlížena.",
+        "Analýza a optimalizace těchto procesů může přinést dramatické úspory času i financí při vývoji autonomních systémů."
       ],
-      "why_matters": "Klíčový výzkum pro české projekty digitalizace zdravotnictví a nasazování AI v nemocnicích.",
-      "url": "https://arxiv.org/abs/2607.01391",
+      "why_matters": "Pomáhá českým technologickým startupům optimalizovat náklady při vývoji vlastních autonomních agentů.",
+      "url": "https://arxiv.org/abs/2607.01415",
       "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Janus přináší bezpečné prostředí pro správu oprávnění AI agentů s účastí uživatele",
+      "title_orig": "Janus: a Playground for User-Involved Agentic Permission Management",
+      "category": "tools",
+      "summary_cs": [
+        "Výzkumníci vyvinuli platformu Janus, která řeší kritickou otázku bezpečnosti při autonomním volání nástrojů AI agenty.",
+        "Systém definuje, kdy může agent jednat zcela samostatně a kdy musí vyžádat explicitní schválení od uživatele.",
+        "Tento hybridní přístup minimalizuje riziko nechtěných akcí, jako jsou chybné finanční transakce nebo smazání dat."
+      ],
+      "why_matters": "Bezpečnostní rámec, který je klíčový pro nasazení AI agentů do reálných firemních procesů bez rizika škod.",
+      "url": "https://arxiv.org/abs/2607.01510",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Bývalý výrobce vlněných bot Allbirds dokončil neuvěřitelnou byznysovou otočku k AI",
+      "title_orig": "Vlněné boty vystřídala umělá inteligence. Bývalý výrobce oblíbených tenisek dokonal byznysovou otočku",
+      "category": "news",
+      "summary_cs": [
+        "Někdejší zakladatel populární značky ekologické obuvi Allbirds zcela změnil zaměření a investuje do umělé inteligence.",
+        "Projekt vedený inženýrkou z Berkeley získal 100 milionů dolarů na budování bezpečných lokálních AI serverů pro korporace.",
+        "Cílem je nabídnout firmám alternativu ke cloudovým řešením, u kterých se obávají úniku citlivých dat."
+      ],
+      "why_matters": "Fascinující příklad transformace tradičního byznysu, který reaguje na obrovskou poptávku po bezpečném lokálním provozu AI.",
+      "url": "https://cc.cz/vlnene-boty-vystridala-umela-inteligence-byvaly-vyrobce-oblibenych-tenisek-dokonal-byznysovou-otocku/",
+      "source": "CzechCrunch"
     }
   ]
 }
