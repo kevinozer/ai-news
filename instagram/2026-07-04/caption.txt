@@ -2,18 +2,18 @@ AI News | 4. července 2026
 
 Dnešní novinky:
 
-1. Bývalí vědci z Google DeepMind získali desítky milionů dolarů na svůj pražský startup Equilibre. Jejich systém pro autonomní obchodování na burze může konkurovat největším algoritmickým fondům z Wall Street.
+1. Vývojáři z Anthropic zjistili, že nejlepších výsledků u modelu Fable dosáhnou při zadání cíle namísto přesného postupu. Tento posun k autonomnímu rozhodování zásadně mění způsob, jakým firmy navrhují systémové instrukce pro své agenty.
 
-2. Vývojáři z týmu Claude Code zjistili, že autonomní agenti fungují lépe bez striktních instrukcí. Když necháte model Fable navrhnout vlastní strategii testování, vyřeší softwarové úkoly mnohem efektivněji.
+2. Globální konference AI Engineer World's Fair přinesla střet názorů na to, jak moc máme agenty kontrolovat. Hledání rovnováhy mezi plnou autonomií a lidským dohledem je nyní klíčovou otázkou pro všechny technologické lídry.
 
-3. Společnost Anthropic představila nový framework pro simulaci kybernetických útoků na model Fable 5. Tyto bezpečnostní zábrany mají zabránit tomu, aby pokročilý systém pomáhal hackerům s tvorbou malwaru.
+3. Společnost Anthropic představila nový bezpečnostní systém pro model Fable 5, který brání jeho zneužití hackery. Tyto kybernetické pojistky usnadní českým firmám bezpečné nasazení autonomních technologií do ostrého provozu.
 
-4. Tradiční prohlížeče Chrome a Safari čelí tlaku nových vyzyvatelů s integrovanou umělou inteligencí. Nové nástroje mění způsob, jakým vyhledáváme informace, a ohrožují dosavadní monopol společnosti Google.
+4. Tři čeští vědci se zkušenostmi z prestižní laboratoře DeepMind získali obří investici na svůj nový projekt Equilibre. V Praze tak vzniká ambiciózní startup pro algoritmické obchodování, který chce konkurovat gigantům z USA.
 
-5. Inženýři z OpenAI vyřešili záhadné pády svých trénovacích serverů a odhalili chybu starou 18 let. Tento úspěch ukazuje, že stabilita obřích modelů závisí na extrémně detailní analýze systémového softwaru.
+5. Použití nástroje DSPy ukazuje cestu, jak nahradit nespolehlivé ruční psaní instrukcí automatickou optimalizací. Tento systematický přístup výrazně zpřesňuje generování SQL dotazů a šetří firmám čas při práci s databázemi.
 
-6. Na konferenci AI Engineer World's Fair se experti shodli, že éra jednoduchých chatbotů končí. Vývoj se nyní zaměřuje na autonomní smyčky, které softwaru umožňují samostatně plánovat a plnit úkoly.
+6. Expert Paul Bakaus varuje před slepou vírou v plně samostatné systémy bez lidského vedení. Úspěšné nasazení technologií v praxi podle něj vyžaduje neustálé rozvíjení konkrétních dovedností pod dohledem člověka.
 
-7. Vývojář Geoffrey Litt varuje před slepým přijímáním kódu od AI asistentů, které vede k hromadění skrytých chyb. Programátoři si musí udržet roli architektů a každou změnu navrženou strojem detailně chápat.
+7. Nová open-source knihovna llm-coding-agent umožňuje vývojářům snadno experimentovat s programovacím modelem Fable 5. Tento bezplatný nástroj dává českým programátorům do rukou silný základ pro stavbu vlastních asistentů.
 
-#AINews #AI #Equilibre #Anthropic #OpenAI #ClaudeCode #SoftwarovyVyvoj #KybernetickaBezpecnost #AInaMiru
+#AINews #AI #Anthropic #DeepMind #Equilibre #Fable5 #DSPy #CzechAI #AInaMiru
