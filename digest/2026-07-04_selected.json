@@ -3,213 +3,213 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "Tři Češi z DeepMindu získali obří investici na projekt Equilibre",
-      "title_orig": "Tři Češi z DeepMindu získali obří investici na projekt, se kterým chtějí z Prahy tvořit světovou AI firmu",
-      "category": "business",
-      "summary_cs": [
-        "Tuzemští vědci Martin Schmid, Matěj Moravčík a Rudolf Kadlec získali významné financování pro svůj pražský startup Equilibre.",
-        "Projekt se zaměřuje na využití pokročilé umělé inteligence pro autonomní obchodování na globálních finančních trzích.",
-        "Tato investice potvrzuje, že Praha má potenciál hostit špičkové technologické firmy s celosvětovým dopadem."
-      ],
-      "why_matters": "Ukazuje obrovský úspěch českých mozků z DeepMindu a vznik globálního AI hráče přímo v Praze.",
-      "url": "https://www.lupa.cz/aktuality/tri-cesi-z-deepmindu-ziskali-obri-investici-na-projekt-se-kterym-chteji-z-prahy-tvorit-svetovou-ai-firmu/",
-      "source": "Lupa.cz"
-    },
-    {
-      "rank": 2,
-      "title_cs": "Jak nechat model Fable používat vlastní úsudek místo diktování postupů",
+      "title_cs": "Jak nechat model Fable jednat podle vlastního úsudku místo diktování postupů",
       "title_orig": "Fable's judgement",
       "category": "labs",
       "summary_cs": [
-        "Zkušenosti z týmu Claude Code ukazují, že nejlepších výsledků u modelů Fable a Opus dosáhnete, když jim necháte volnou ruku.",
-        "Místo přesného diktování kroků, jak má AI testovat kód, je lepší nechat ji navrhnout vlastní strategii.",
-        "Tento přístup výrazně zvyšuje efektivitu autonomních agentů při řešení komplexnějších softwarových úkolů."
+        "Zkušenosti z vývoje nástroje Claude Code ukazují, že nejlepších výsledků u modelů jako Fable dosáhnete, když jim necháte volnost v rozhodování.",
+        "Místo diktování přesného postupu testování je efektivnější zadat pouze cíl a nechat model zvolit optimální strategii.",
+        "Tento přístup zásadně mění způsob, jakým vývojáři píší systémové prompty pro pokročilé agenty."
       ],
-      "why_matters": "Mění způsob, jakým bychom měli instruovat nejnovější agenty pro dosažení maximální autonomie.",
+      "why_matters": "Ukazuje, jak správně delegovat úkoly na nejnovější modely pro dosažení maximální autonomie.",
       "url": "https://simonwillison.net/2026/Jul/3/judgement/",
       "source": "Simon Willison's Weblog"
     },
     {
+      "rank": 2,
+      "title_cs": "Debata o smyčkách a stavu inženýrství na AI Engineer World's Fair",
+      "title_orig": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
+      "category": "news",
+      "summary_cs": [
+        "Konference AI Engineer World's Fair skončila intenzivní debatou o roli autonomních smyček v softwarovém inženýrství.",
+        "Odborníci hodnotili současný stav oboru a diskutovali o tom, jaké systémy by měli vývojáři stavět jako další v pořadí.",
+        "Hlavní pozornost se soustředila na rovnováhu mezi plnou autonomií agentů a lidskou kontrolou."
+      ],
+      "why_matters": "Definuje nejnovější trendy v tom, jak se globálně staví a nasazují produkční AI agenti.",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+      "source": "Latent Space"
+    },
+    {
       "rank": 3,
-      "title_cs": "Podrobnosti o kybernetických zábranách a testování zranitelností modelu Fable 5",
-      "title_orig": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "title_cs": "Anthropic odhaluje kybernetické pojistky a framework proti jailbreaku pro model Fable 5",
+      "title_orig": "Jul 2, 2026 Announcements More details on Fable 5’s cyber safeguards and our jailbreak framework",
       "category": "labs",
       "summary_cs": [
-        "Anthropic zveřejnil detailní informace o bezpečnostních mechanismech, které chrání model Fable 5 před zneužitím v kyberprostoru.",
-        "Společnost představila nový framework pro simulaci útoků, který pomáhá odhalovat slabá místa v zabezpečení modelů.",
-        "Tyto kroky mají zajistit, aby pokročilé schopnosti uvažování nebyly zneužity k tvorbě škodlivého softwaru."
+        "Anthropic zveřejnil podrobnosti o bezpečnostních mechanismech, které chrání model Fable 5 před zneužitím v kyberprostoru.",
+        "Představený framework se zaměřuje na detekci a blokování pokročilých technik obcházení pravidel, takzvaných jailbreaků.",
+        "Bezpečnostní opatření jsou klíčová pro bezpečné nasazení modelu v podnikovém prostředí."
       ],
-      "why_matters": "Ukazuje, jak přední laboratoře balancují extrémní výkon s bezpečnostními riziky v kybernetické bezpečnosti.",
+      "why_matters": "Přináší důležité informace o bezpečnosti pro české firmy nasazující autonomní agenty.",
       "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
       "source": "Anthropic News"
     },
     {
       "rank": 4,
-      "title_cs": "Válka prohlížečů už není o vyhledávání, ale o integraci AI",
-      "title_orig": "The browser wars aren’t about search anymore - here are the best alternatives to Chrome and Safari",
-      "category": "tools",
+      "title_cs": "Tři Češi z DeepMindu získali obří investici na projekt Equilibre",
+      "title_orig": "Tři Češi z DeepMindu získali obří investici na projekt, se kterým chtějí z Prahy tvořit světovou AI firmu",
+      "category": "news",
       "summary_cs": [
-        "Tradiční dominantní prohlížeče jako Chrome a Safari čelí nové vlně konkurentů postavených na hluboké integraci AI.",
-        "Nové alternativy se zaměřují na autonomní procházení webu, shrnování obsahu a asistenci při práci v reálném čase.",
-        "Uživatelé stále častěji volí nástroje, které jim šetří čas přímo při interakci s webovými stránkami."
+        "Trio českých vědců se zkušenostmi z DeepMindu zakládá v Praze ambiciózní projekt Equilibre zaměřený na obchodování na burze pomocí AI.",
+        "Projekt získal masivní finanční injekci, která mu dává sílu konkurovat globálním technologickým hráčům.",
+        "Cílem je vybudovat světovou AI firmu přímo z České republiky bez nutnosti stěhování do Silicon Valley."
       ],
-      "why_matters": "Mění se brána do internetu, což ovlivní, jak konzumujeme obsah i jak optimalizujeme weby.",
-      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch AI"
+      "why_matters": "Jde o jeden z nejvýznamnějších úspěchů české AI scény s globálním potenciálem.",
+      "url": "https://www.lupa.cz/aktuality/tri-cesi-z-deepmindu-ziskali-obri-investici-na-projekt-se-kterym-chteji-z-prahy-tvorit-svetovou-ai-firmu/",
+      "source": "Lupa.cz"
     },
     {
       "rank": 5,
-      "title_cs": "Inženýři z OpenAI odhalili osmnáct let starou chybu pomocí analýzy výpisů paměti",
-      "title_orig": "Core dump epidemiology: fixing an 18-year-old bug",
-      "category": "labs",
-      "summary_cs": [
-        "Tým OpenAI využil rozsáhlou analýzu výpisů paměti k vyřešení vzácných pádů své masivní trénovací infrastruktury.",
-        "Během vyšetřování odhalili kombinaci hardwarové chyby a dlouho skrytého softwarového bugu v systémových knihovnách.",
-        "Tento úspěch demonstruje, jak pokročilé inženýrské metody pomáhají stabilizovat systémy pro trénování největších modelů."
-      ],
-      "why_matters": "Ukazuje extrémní technickou náročnost a preciznost, která stojí za stabilním během AI infrastruktury.",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "source": "OpenAI Blog"
-    },
-    {
-      "rank": 6,
-      "title_cs": "Debata o smyčkách a stavu vývoje AI na konferenci AI Engineer World's Fair",
-      "title_orig": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
-      "category": "news",
-      "summary_cs": [
-        "Prestižní konference skončila intenzivní debatou o roli autonomních smyček v agentickém softwaru.",
-        "Odborníci hodnotili současný stav oboru a diskutovali o tom, jaké architektury přinesou další skok v produktivitě.",
-        "Hlavní pozornost se přesouvá od jednoduchých chatbotů k plně autonomním systémům schopným samostatného plánování."
-      ],
-      "why_matters": "Definuje nejnovější trendy v tom, jak se dnes staví praktické AI aplikace.",
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
-      "source": "Latent Space"
-    },
-    {
-      "rank": 7,
-      "title_cs": "Pochopení kódu jako klíč k úspěšné spolupráci s AI agenty",
-      "title_orig": "Understand to participate",
-      "category": "news",
-      "summary_cs": [
-        "Geoffrey Litt na konferenci AIE upozornil na riziko hromadění kognitivního dluhu při bezhlavém přijímání kódu od AI.",
-        "Vývojáři musí aktivně rozumět změnám, které agenti provádějí, aby neztratili kontrolu nad celým projektem.",
-        "Spolupráce s AI by měla být dialogem, kde člověk funguje jako architekt a supervizor, nikoli jen pasivní schvalovatel."
-      ],
-      "why_matters": "Varuje před pastí, do které mohou vývojáři snadno spadnout při nadměrném spoléhání na generovaný kód.",
-      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/",
-      "source": "Simon Willison's Weblog"
-    },
-    {
-      "rank": 8,
-      "title_cs": "Vytvoření jednoduchého programovacího agenta na frameworku LLM",
-      "title_orig": "llm-coding-agent 0.1a0",
+      "title_cs": "Využití frameworku DSPy pro optimalizaci SQL promptů v Datasette Agentovi",
+      "title_orig": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
       "category": "tools",
       "summary_cs": [
-        "Simon Willison vydal první verzi experimentální knihovny llm-coding-agent postavené na modelu Fable 5.",
-        "Nástroj ukazuje, jak lze s minimem kódu vytvořit funkčního agenta pro automatické úpravy a testování programů.",
-        "Projekt slouží jako praktická ukázka pro vývojáře, kteří chtějí stavět vlastní specializované agenty."
+        "Autor demonstruje využití populárního frameworku DSPy k systematickému vyhodnocování a vylepšování systémových promptů.",
+        "Experiment probíhal formou asynchronního výzkumného úkolu zadaného přímo v prostředí Claude Code.",
+        "Ukazuje se, že programatické ladění promptů přináší stabilnější výsledky při generování SQL dotazů."
       ],
-      "why_matters": "Poskytuje konkrétní open-source základ pro stavbu vlastních autonomních pomocníků při programování.",
-      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
-      "source": "Simon Willison's Weblog"
-    },
-    {
-      "rank": 9,
-      "title_cs": "Využití frameworku DSPy pro optimalizaci systémových promptů agenta Datasette",
-      "title_orig": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
-      "category": "research",
-      "summary_cs": [
-        "Výzkumný experiment ukázal, jak lze pomocí frameworku DSPy systematicky hodnotit a vylepšovat SQL prompty.",
-        "Namísto ručního ladění metodou pokus-omyl optimalizuje DSPy instrukce pro model automaticky na základě dat.",
-        "Tento přístup výrazně zvyšuje spolehlivost generování databázových dotazů u komplexních aplikací."
-      ],
-      "why_matters": "Představuje přechod od alchymie psaní promptů k vědeckému a automatizovanému inženýrství.",
+      "why_matters": "Představuje praktický návod, jak nahradit ruční zkoušení promptů systematickou optimalizací.",
       "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/",
       "source": "Simon Willison's Weblog"
     },
     {
-      "rank": 10,
-      "title_cs": "Dosažení provozní dokonalosti ve firmách s pomocí umělé inteligence",
-      "title_orig": "Achieving operational excellence with AI",
-      "category": "business",
-      "summary_cs": [
-        "Tradiční metodiky jako Lean Six Sigma a řízení procesů získávají s integrací AI zcela nový rozměr.",
-        "Algoritmy dokážou analyzovat obrovské množství provozních dat a odhalovat neefektivity, které lidem unikají.",
-        "Úspěšné firmy přecházejí od statických map procesů k dynamickému řízení poháněnému prediktivními modely."
-      ],
-      "why_matters": "Ukazuje, jak propojit moderní AI s klasickými manažerskými metodami pro zvýšení zisku.",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "MIT Technology Review"
-    },
-    {
-      "rank": 11,
-      "title_cs": "Jak se mění práce v éře exponenciálního růstu umělé inteligence",
-      "title_orig": "The twilight of the chatbots",
+      "rank": 6,
+      "title_cs": "Inženýrství dovedností a argumenty proti jednorázovému návrhu AI systémů",
+      "title_orig": "Skill engineering and the case against one-shot AI design",
       "category": "news",
       "summary_cs": [
-        "Ethan Mollick ve svém eseji popisuje konec éry jednoduchých chatbotů a nástup komplexních agentických systémů.",
-        "Práce se mění z neustálého chatování na zadávání úkolů celým autonomním týmům virtuálních pracovníků.",
-        "Lidé se musí naučit fungovat v roli manažerů a koordinátorů, kteří řídí exponenciálně se zvyšující výkon AI."
+        "Paul Bakaus v rozhovoru vysvětluje koncept inženýrství dovedností a kritizuje spoléhání se na jednorázové generování.",
+        "V éře posedlosti nekonečnými smyčkami je lidský úsudek stále klíčovým prvkem pro správné nasměrování agentů.",
+        "Úspěšné systémy vyžadují průběžné vedení a definování specifických schopností namísto slepé víry v autonomii."
       ],
-      "why_matters": "Pomáhá pochopit strategický posun v tom, jak budeme v nejbližších letech pracovat.",
-      "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
-      "source": "One Useful Thing (Mollick)"
+      "why_matters": "Varuje před přílišným optimismem ohledně plně autonomních systémů bez lidského dohledu.",
+      "url": "https://www.latent.space/p/skill-engineering-design",
+      "source": "Latent Space"
     },
     {
-      "rank": 12,
-      "title_cs": "Midjourney ukázalo zákulisí svého lékařského skeneru, ale důkazy chybí",
-      "title_orig": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-      "category": "wildcard",
+      "rank": 7,
+      "title_cs": "Vydání knihovny llm-coding-agent pro experimenty s modelem Fable 5",
+      "title_orig": "llm-coding-agent 0.1a0",
+      "category": "tools",
       "summary_cs": [
-        "Známý generátor obrázků Midjourney zveřejnil video ze zákulisí vývoje svého ultrazvukového skeneru.",
-        "Zařízení má přinést levnou a detailní diagnostiku, ale odborníci jsou skeptičtí kvůli nedostatku klinických důkazů.",
-        "Vstup čistě softwarové AI firmy do oblasti hardwarové medicíny vyvolává řadu etických i technických otázek."
+        "Byla vydána první alfa verze nové Python knihovny určené pro experimenty s programovacími agenty.",
+        "Nástroj staví na schopnostech modelu Fable 5 a ukazuje, jak vytvořit jednoduchého, ale efektivního pomocníka pro psaní kódu.",
+        "Projekt vznikl s využitím šablon a automatizovaných skriptů, což urychlilo jeho počáteční vývoj."
       ],
-      "why_matters": "Ukazuje ambice kreativních AI firem pronikat do zcela nečekaných fyzických oborů.",
+      "why_matters": "Nabízí českým vývojářům open-source základ pro stavbu vlastních programovacích asistentů.",
+      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Rozhovor o tom, proč lokální AI modely rychle dohánějí cloudová řešení",
+      "title_orig": "Ahmad Osman on why local AI is catching up",
+      "category": "news",
+      "summary_cs": [
+        "Ahmad Osman po sérii workshopů vysvětluje, proč lokální AI zažívá tak masivní technologický skok.",
+        "Pokrok se projevuje na všech úrovních od běžných notebooků a telefonů až po podnikové infrastruktury.",
+        "Lokální provoz přináší zásadní výhody v oblasti ochrany soukromí, rychlosti odezvy a nezávislosti na internetu."
+      ],
+      "why_matters": "Potvrzuje trend přesunu AI z cloudu přímo do koncových zařízení uživatelů.",
+      "url": "https://www.latent.space/p/ahmad-osman-local-ai",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Pohled do zákulisí medicínského skeneru od Midjourney vyvolává řadu otázek",
+      "title_orig": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "category": "news",
+      "summary_cs": [
+        "Midjourney ukázalo další detaily svého futuristického ultrazvukového skeneru, ale chybí vědecké důkazy o jeho funkčnosti.",
+        "Firma známá generováním obrázků plánuje zařízení nasadit v relaxačních centrech a lázních.",
+        "Odborníci jsou skeptičtí k ambicím transformovat medicínu pomocí levných a detailních skenů bez klinických studií."
+      ],
+      "why_matters": "Ukazuje, jak se populární AI laboratoře pokoušejí proniknout do fyzického světa a zdravotnictví.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
       "source": "The Verge AI"
     },
     {
-      "rank": 13,
-      "title_cs": "Slovník nejdůležitějších AI pojmů pro letošní rok",
+      "rank": 10,
+      "title_cs": "Slovník AI pojmů, který budete letos potřebovat",
       "title_orig": "The only AI glossary you’ll need this year",
       "category": "news",
       "summary_cs": [
-        "Rychlý rozvoj umělé inteligence přinesl obrovské množství nového slangu, zkratek a technických termínů.",
-        "Přehledný slovník definuje klíčové pojmy, se kterými se lidé v byznysu i technologiích nejčastěji setkávají.",
-        "Jasné vysvětlení termínů pomáhá překlenout propast mezi technickými týmy a širší veřejností."
+        "Rychlý rozvoj umělé inteligence přinesl obrovské množství nových technických termínů a žargonu.",
+        "Tento přehledný slovník nabízí jasné definice klíčových slov a frází, se kterými se můžete setkat.",
+        "Pomáhá překlenout propast mezi technickými experty a širší veřejností."
       ],
-      "why_matters": "Skvělý zdroj pro rychlé zorientování se v aktuálním žargonu bez zbytečné matematiky.",
+      "why_matters": "Skvělý vzdělávací zdroj pro každého, kdo se chce zorientovat v záplavě nových AI výrazů.",
       "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 14,
-      "title_cs": "Evropský soud potvrdil rekordní pokutu pro Google ve výši 4,7 miliardy dolarů",
-      "title_orig": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
+      "rank": 11,
+      "title_cs": "Vyjednávání o odborech v Google DeepMind naráží na odpor vedení",
+      "title_orig": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
       "category": "business",
       "summary_cs": [
-        "Google definitivně prohrál dlouholeté odvolání proti rekordní pokutě od Evropské unie.",
-        "Sankce byla udělena za zneužívání dominantního postavení systému Android k protěžování vlastního vyhledávače.",
-        "Tento rozsudek posiluje pozici evropských regulátorů při dohledu nad technologickými giganty."
+        "Jednání o založení odborů v prestižní laboratři Google DeepMind začala velmi napjatou atmosférou.",
+        "Zaměstnanci vyjádřili frustraci z neochoty vedení konstruktivně diskutovat o jejich požadavcích.",
+        "Tento spor ukazuje rostoucí napětí mezi řadovými výzkumníky a managementem v předních AI firmách."
       ],
-      "why_matters": "Zásadní precedent pro regulaci technologických platforem, který ovlivní i budoucí AI trh v Evropě.",
-      "url": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
-      "source": "Ars Technica"
+      "why_matters": "Ilustruje interní tlaky a kulturní změny uvnitř nejvýznamnějších výzkumných laboratoří světa.",
+      "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Válka prohlížečů už není o vyhledávání, ale o integraci AI asistentů",
+      "title_orig": "The browser wars aren’t about search anymore - here are the best alternatives to Chrome and Safari",
+      "category": "news",
+      "summary_cs": [
+        "Tradiční souboj webových prohlížečů se přesouvá od rychlosti a vyhledávání k hluboké integraci umělé inteligence.",
+        "Nové alternativní prohlížeče se snaží konkurovat dominantnímu Chrome a Safari pomocí pokročilých funkcí.",
+        "Uživatelé mají k dispozici stále více nástrojů, které mění způsob interakce s webovým obsahem."
+      ],
+      "why_matters": "Pomáhá vybrat moderní prohlížeč, který efektivně využívá AI pro každodenní práci.",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Využití automatizace OpenClaw pro seznamování na sociálních sítích",
+      "title_orig": "Yep, we’re using OpenClaw to date now",
+      "category": "wildcard",
+      "summary_cs": [
+        "Uživatelé začali experimentovat s nasazením open-source agenta OpenClaw pro automatizaci komunikace na Instagramu.",
+        "Pomocí skriptů a modelů od Anthropicu dokážou boti filtrovat a odpovídat na zprávy potenciálním partnerům.",
+        "Tento trend ukazuje, jak hluboko do osobního života začínají autonomní agenti pronikat."
+      ],
+      "why_matters": "Bizarní, ale fascinující ukázka toho, jak lidé kreativně zneužívají agenty pro osobní účely.",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Vstup řetězce Jersey Mike's na burzu ukazuje absurditu současného AI hypu",
+      "title_orig": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "category": "business",
+      "summary_cs": [
+        "Dokumenty k plánovanému vstupu na burzu známého prodejce sendvičů překvapivě obsahují zmínky o umělé inteligenci.",
+        "Analýza ukazuje, že i firmy z tradičních oborů se snaží uměle prezentovat jako technologičtí inovátoři.",
+        "Tento jev ilustruje tlak investorů na to, aby každá veřejně obchodovaná firma měla svou AI strategii."
+      ],
+      "why_matters": "Varuje před investiční bublinou a prázdnými marketingovými frázemi kolem AI.",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 15,
-      "title_cs": "Hype kolem umělé inteligence proniká i do dokumentů pro vstup na burzu",
-      "title_orig": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "category": "wildcard",
+      "title_cs": "Dosažení provozní dokonalosti s využitím umělé inteligence",
+      "title_orig": "Achieving operational excellence with AI",
+      "category": "business",
       "summary_cs": [
-        "Analýza dokumentů k IPO řetězce s sendviči Jersey Mike's odhalila překvapivé zmínky o umělé inteligenci.",
-        "Snaha prezentovat i tradiční gastronomický byznys jako AI-driven ukazuje na přetrvávající tlak investorů.",
-        "Tento fenomén připomíná dřívější bubliny, kdy firmy uměle roubovaly moderní termíny na běžné činnosti."
+        "Tradiční metodiky jako Lean Six Sigma a řízení procesů získávají s nástupem AI zcela nový rozměr.",
+        "Umělá inteligence dokáže vnést řád do chaotických firemních operací a automatizovat mapování procesů.",
+        "Propojení statistické přesnosti a strojového učení umožňuje firmám dosáhnout dříve nemyslitelné efektivity."
       ],
-      "why_matters": "Varovný i úsměvný příklad toho, jak moc marketingový šum kolem AI deformuje finanční trh.",
-      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "source": "TechCrunch AI"
+      "why_matters": "Nabízí strategický pohled na to, jak transformovat firemní procesy pomocí moderních technologií.",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "source": "MIT Technology Review"
     }
   ]
 }
