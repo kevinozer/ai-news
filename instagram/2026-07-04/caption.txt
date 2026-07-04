@@ -2,18 +2,18 @@ AI News | 4. července 2026
 
 Dnešní novinky:
 
-1. Bývalí vědci z Google DeepMind získali pro svůj pražský startup Equilibre obří investici na autonomní obchodování. Tento úspěch potvrzuje, že Praha roste v klíčové evropské centrum pro vývoj špičkových technologií.
+1. Vývojáři z Anthropic u nástroje Claude Code zjistili, že striktní příkazy omezují kreativitu modelů. Když necháte model Fable 5 navrhnout vlastní strategii, dosáhnete lepších výsledků a ušetříte čas na mikromanagementu.
 
-2. Midjourney překvapuje expanzí do zdravotnického hardwaru a ukazuje video svého ultrazvukového skeneru. Lékařská komunita je však skeptická, protože firma dosud nepředložila žádné vědecké důkazy o bezpečnosti a funkčnosti.
+2. Na prestižní konferenci AI Engineer World's Fair experti řešili, jak stavět agenty schopné samostatné opravy chyb. Tento trend brzy promění i český softwarový trh, kde firmy hledají cesty k plné automatizaci vývoje.
 
-3. Vývojáři z týmu Claude Code doporučují nechat umělou inteligenci rozhodovat o postupu samostatně místo diktování přesných kroků. Tento přístup k autonomním agentům výrazně zvyšuje kvalitu kódu a zkracuje čas vývoje.
+3. Společnost Anthropic reaguje na obavy firem a zveřejnila bezpečnostní záruky modelu Fable 5 proti kybernetickým útokům. Nový testovací systém má usnadnit nasazení těchto pokročilých technologií v korporátním prostředí.
 
-4. Lokální provoz modelů na vlastním hardwaru zažívá boom a výkonem rychle dohání drahé cloudové služby od technologických gigantů. Pro firmy to znamená konec závislosti na cizích serverech a plnou kontrolu nad citlivými daty.
+4. Paul Bakaus varuje před snahou vyřešit složité úkoly jediným zadáním a prosazuje postupné ladění schopností AI. Zapojení lidského úsudku do rozhodovacího procesu podle něj výrazně snižuje chybovost systémů.
 
-5. Společnost Anthropic vydala detailní bezpečnostní zprávu k modelu Fable 5, která řeší ochranu proti zneužití v kyberbezpečnosti. Firma tím nastavuje nový standard pro bezpečné nasazení nejvýkonnější umělé inteligence v podnicích.
+5. Data od OpenAI ukazují, že ChatGPT se bleskově stává běžnou součástí firemní infrastruktury po celém světě. Zaměstnanci už nezkouší jen jednoduché dotazy, ale aktivně zapojují pokročilé funkce do denní agendy.
 
-6. Současné jazykové modely často generují velmi podobné a předvídatelné odpovědi, což omezuje jejich kreativitu. Nové startupy se proto snaží naučit umělou inteligenci uvažovat více originálně a překonat toto skupinové myšlení.
+6. Simon Willison ukázal, jak pomocí nástroje DSPy automaticky vylepšovat zadání pro databázového pomocníka Datasette. Tento programový přístup přináší stabilnější výsledky než nekonečné ruční přepisování textu.
 
-7. Programátor Simon Willison úspěšně otestoval nástroj DSPy pro automatickou optimalizaci systémových instrukcí. Místo neefektivního ručního zkoušení promptů tak vývojáři získávají exaktní metodu založenou na datech.
+7. Populární grafický generátor Midjourney překvapil videem vlastního ultrazvukového skeneru pro diagnostiku v lázních. Odborníci jsou však skeptičtí, protože firma dosud nepředložila žádné vědecké důkazy o funkčnosti.
 
-#AINews #AI #DeepMind #Midjourney #Anthropic #ClaudeCode #DSPy #Kyberbezpecnost #AInaMiru
+#AINews #AI #Anthropic #ChatGPT #OpenAI #Midjourney #CyberSecurity #SoftwareDevelopment #AInaMiru
