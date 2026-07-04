@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-04",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Česká Apify umožňuje AI agentům samostatně nakupovat softwarové nástroje",
+      "title_orig": "Češi z Apify pouštějí agenty nakupovat na internetu softwarové nástroje bez dohledu člověka",
+      "category": "tools",
+      "summary_cs": [
+        "Česká technologická společnost Apify zpřístupňuje autonomním AI agentům přes 20 tisíc specializovaných nástrojů ze svého tržiště.",
+        "Umělá inteligence si nyní může sama vybrat, zaplatit a spustit potřebné nástroje pro svou práci zcela bez zásahu člověka.",
+        "Zakladatel Jan Čurn věří, že tento krok zásadně urychlí rozvoj agentických systémů a jejich praktické nasazení v reálném světě."
+      ],
+      "why_matters": "Česká platforma Apify posouvá hranice autonomie AI agentů tím, že jim dává vlastní peněženku a přístup k nástrojům.",
+      "url": "https://www.lupa.cz/aktuality/cesi-z-apify-pousteji-agenty-nakupovat-na-internetu-softwarove-nastroje-bez-dohledu-cloveka/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Google DeepMind a filmové studio A24 oznamují přelomové partnerství pro výzkum AI",
+      "title_orig": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "category": "labs",
+      "summary_cs": [
+        "Výzkumná laboratoř Google DeepMind spojuje síly s prestižním nezávislým filmovým studiem A24.",
+        "Cílem této spolupráce je prozkoumat možnosti využití generativní umělé inteligence v kinematografii a kreativním průmyslu.",
+        "Partnerství se zaměří na vývoj nových nástrojů, které mají tvůrcům pomoci s vizualizací a vyprávěním příběhů."
+      ],
+      "why_matters": "Spojení špičkového výzkumu AI s kultovním filmovým studiem definuje budoucnost kreativní tvorby a kinematografie.",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic chce vyvíjet vlastní léky a představuje detaily o zabezpečení Fable 5",
+      "title_orig": "Anthropic wants to develop its own drugs",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Anthropic plánuje využít své pokročilé modely k přímému vývoji nových léčiv a vědeckému výzkumu.",
+        "V návaznosti na to firma zveřejnila podrobnosti o kybernetických bezpečnostních pojistkách a filtrech pro model Fable 5.",
+        "Nové prostředí Claude Science integruje roztříštěné vědecké nástroje a datové sady do jednoho přehledného rozhraní."
+      ],
+      "why_matters": "Anthropic se posouvá od pouhého poskytování modelů k přímému výzkumu v oblasti biotechnologií a medicíny.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Trunk Tools zkrátili revizi dokumentů ze 60 dní na 10 díky specializovaným modelům",
+      "title_orig": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+      "category": "tools",
+      "summary_cs": [
+        "Stavební technologická firma Trunk Tools nahradila obecné jazykové modely specializovanou třívrstvou architekturou.",
+        "Díky zaměření na specifické nestrukturované dokumenty a proprietární schémata se podařilo dramaticky zkrátit dobu analýzy.",
+        "Tento úspěch ukazuje, že cesta k efektivnímu nasazení AI v průmyslu vede přes úzkou specializaci namísto univerzálních řešení."
+      ],
+      "why_matters": "Ukazuje to reálný byznysový dopad přechodu od obecných modelů k úzce specializovaným podnikovým architekturám.",
+      "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Open Source AI Gap Map mapuje chybějící články v otevřeném ekosystému",
+      "title_orig": "Open Source AI Gap Map",
+      "category": "open-source",
+      "summary_cs": [
+        "Globální partnerství Current AI, založené na summitu v Paříži s kapitálem 400 milionů dolarů, vydalo mapu nedostatků v open-source AI.",
+        "Tento index podrobně analyzuje oblasti, kde otevřené modely zaostávají za proprietárními řešeními technologických gigantů.",
+        "Iniciativa se snaží nasměrovat finanční prostředky a výzkumné kapacity tam, kde je otevřená alternativa nejvíce potřeba."
+      ],
+      "why_matters": "Projekt pomáhá identifikovat a financovat klíčové chybějící prvky v otevřeném vývoji umělé inteligence.",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Proč je specializace AI modelů nevyhnutelná podle Hugging Face",
+      "title_orig": "Why Specialization Is Inevitable",
+      "category": "research",
+      "summary_cs": [
+        "Analýza od Hugging Face vysvětluje, proč se trh posouvá od obřích univerzálních modelů k menším specializovaným systémům.",
+        "Specializované modely nabízejí výrazně vyšší efektivitu, nižší provozní náklady a lepší přesnost v konkrétních doménách.",
+        "Tento trend mění způsob, jakým firmy navrhují svou AI infrastrukturu a jak trénují své vlastní interní modely."
+      ],
+      "why_matters": "Pomáhá českým firmám pochopit, proč investovat do menších vlastních modelů namísto drahých univerzálních API.",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Vzestup AI snižuje prodeje online kurzů pro programátory",
+      "title_orig": "Quoting Josh W. Comeau",
+      "category": "news",
+      "summary_cs": [
+        "Známý tvůrce výukových materiálů Josh W. Comeau hlásí výrazný propad prodejů svých kurzů zaměřených na animace a vývoj.",
+        "Hlavní příčinou je rostoucí schopnost AI asistentů generovat kód a vysvětlovat programátorské koncepty v reálném čase.",
+        "Tento trend naznačuje hlubokou proměnu v oblasti celoživotního vzdělávání a samostudia technických oborů."
+      ],
+      "why_matters": "Ilustruje, jak rychlý nástup AI asistentů mění trh s technickým vzděláváním a samostudiem.",
+      "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Inženýři z OpenAI odhalili osmnáct let starou chybu pomocí analýzy výpisů paměti",
+      "title_orig": "Core dump epidemiology: fixing an 18-year-old bug",
+      "category": "labs",
+      "summary_cs": [
+        "Tým inženýrů z OpenAI využil pokročilou analýzu velkoobjemových výpisů paměti k vyřešení vzácných pádů infrastruktury.",
+        "Během vyšetřování odhalili kombinaci specifické hardwarové chyby a dlouho přehlíženého softwarového bugu starého 18 let.",
+        "Tento úspěch demonstruje, jak lze moderní analytické metody aplikovat na stabilizaci masivních výpočetních systémů."
+      ],
+      "why_matters": "Ukazuje technické zázemí provozu největších AI systémů a inovativní přístupy k ladění infrastruktury.",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Debata o smyčkách a budoucnost agentického inženýrství",
+      "title_orig": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
+      "category": "news",
+      "summary_cs": [
+        "Konference AI Engineer World's Fair přinesla zásadní debatu o roli autonomních smyček v softwarovém inženýrství.",
+        "Odborníci diskutovali o tom, jak efektivně řídit agenty, kteří pracují v nekonečných cyklech bez lidského dohledu.",
+        "Závěrečné přednášky se zaměřily na praktické rady pro vývojáře, jak stavět robustní a předvídatelné agentické systémy."
+      ],
+      "why_matters": "Přináší nejnovější poznatky o tom, jak správně navrhovat a řídit autonomní softwarové agenty.",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Midjourney ukázalo zákulisí svého lékařského skeneru, ale pochybnosti zůstávají",
+      "title_orig": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "category": "news",
+      "summary_cs": [
+        "Startup Midjourney, známý generováním obrázků, zveřejnil video ze zákulisí vývoje svého ultrazvukového skeneru.",
+        "Zařízení má fungovat jako levná a detailní diagnostická vana pro wellness centra a lázně.",
+        "Odborná veřejnost je však skeptická, protože firma stále nepředložila vědecké důkazy o funkčnosti a bezpečnosti přístroje."
+      ],
+      "why_matters": "Nečekaný vstup Midjourney do zdravotnictví vzbuzuje velké naděje, ale i oprávněné obavy z nedostatku regulace.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Využití frameworku DSPy pro optimalizaci SQL promptů v praxi",
+      "title_orig": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+      "category": "tools",
+      "summary_cs": [
+        "Vývojář Simon Willison popsal své zkušenosti s využitím frameworku DSPy pro systematické hodnocení systémových promptů.",
+        "Nástroj mu pomohl automatizovat ladění instrukcí pro AI agenta, který generuje SQL dotazy nad databázemi.",
+        "Tento přístup nahrazuje intuitivní zkoušení promptů exaktní metodikou založenou na datech a testovacích scénářích."
+      ],
+      "why_matters": "Představuje praktický návod, jak přejít od amatérského psaní promptů k inženýrské optimalizaci pomocí DSPy.",
+      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Proč by lidé neměli ztrácet kontrolu nad kódem generovaným AI",
+      "title_orig": "Understand to participate",
+      "category": "news",
+      "summary_cs": [
+        "Geoffrey Litt na konferenci AIE upozornil na riziko hromadění kognitivního dluhu při bezhlavém přijímání kódu od AI agentů.",
+        "Vývojáři by měli vždy plně rozumět změnám, které AI v kódu provádí, aby si udrželi schopnost projekt dále rozvíjet.",
+        "Spolupráce s agenty vyžaduje aktivní účast člověka, nikoli pouze pasivní schvalování vygenerovaných návrhů."
+      ],
+      "why_matters": "Varuje před ztrátou kontroly nad vlastním softwarem při nadměrném spoléhání na automatické programátory.",
+      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Indický miliardář investuje 30 milionů dolarů do AI alternativy pro kancelářské sady",
+      "title_orig": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "category": "business",
+      "summary_cs": [
+        "Technologický magnát Bhavin Turakhia investuje vlastní prostředky do nového startupu s názvem Neo.",
+        "Projekt si klade za cíl vytvořit moderní kancelářské nástroje postavené od základu na umělé inteligenci.",
+        "Chce tak přímo konkurovat zavedeným gigantům jako Microsoft Office a Google Workspace."
+      ],
+      "why_matters": "Vzniká ambiciózní konkurence pro zavedené kancelářské balíky, která sází na hlubokou integraci AI.",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Vyjednávání o odborech v Google DeepMind naráží na odpor vedení",
+      "title_orig": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+      "category": "news",
+      "summary_cs": [
+        "Snahy zaměstnanců elitní AI laboratoře Google DeepMind o založení odborů narážejí na neochotu vedení vyjednávat.",
+        "Zaměstnanci vyjadřují frustraci z toho, že exekutiva odmítá smysluplně diskutovat o jejich požadavcích.",
+        "Tento spor podtrhuje rostoucí napětí mezi řadovými výzkumníky a korporátním vedením v oblasti etiky a pracovních podmínek."
+      ],
+      "why_matters": "Ukazuje vnitřní pnutí v jedné z nejdůležitějších AI laboratoří světa ohledně práv zaměstnanců.",
+      "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Festival Summer of Ludd učí mladou generaci žít offline",
+      "title_orig": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+      "category": "wildcard",
+      "summary_cs": [
+        "V New Yorku probíhá festival Summer of Ludd, který přitahuje mladé lidi z generace Z unavené neustálým připojením.",
+        "Akce se zaměřuje na výuku praktických dovedností bez digitálních technologií a kritiku dominance technologických gigantů.",
+        "Tento fenomén ukazuje rostoucí odpor části mladé generace vůči všudypřítomným algoritmům a sociálním sítím."
+      ],
+      "why_matters": "Zajímavý pohled na protireakci mladé generace vůči digitálnímu přehlcení a všudypřítomné AI.",
+      "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "source": "Ars Technica"
+    }
+  ]
+}
