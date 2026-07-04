@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-04T04:00:56.081866+00:00",
+  "generated_at": "2026-07-04T07:13:58.983156+00:00",
   "date": "2026-07-04",
-  "article_count_unique": 106,
-  "article_count_raw": 106,
+  "article_count_unique": 102,
+  "article_count_raw": 102,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "verge_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 16,
-      "raw_count": 16
+      "count": 15,
+      "raw_count": 15
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,13 +163,13 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
-      "raw_count": 9
+      "count": 2,
+      "raw_count": 7
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "raw_count": 10
     }
   ],
@@ -763,18 +763,6 @@
       "category": "news"
     },
     {
-      "id": "eb10e89a3b3338b4",
-      "title": "Za rok z nuly na tržby 40 milionů. Češi prorazili s tvorbou AI klonů expertů, svůj avatar chystá i Pohlreich",
-      "url": "https://cc.cz/za-rok-z-nuly-na-trzby-40-milionu-cesi-prorazili-s-tvorbou-ai-klonu-expertu-svuj-avatar-chysta-i-pohlreich/",
-      "published_at": "2026-07-02T13:42:45+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "Experti různých oborů si přes BuddyPro mohou vytvořit avatary a sdílet přes ně své know-how zájemcům a fanouškům. Článek Za rok z nuly na tržby 40 milionů. Češi prorazili s tvorbou AI klonů expertů, svůj avatar chystá i Pohlreich se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/david-riha-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "2cf5ce715492cd17",
       "title": "Fable is back",
       "url": "https://www.bensbites.com/p/fable-is-back",
@@ -919,18 +907,6 @@
       "category": "commentary"
     },
     {
-      "id": "897c7abb5aff52a4",
-      "title": "Anthropic znovu zpřístupnil Fable a Mythos, vláda USA dostane přednostní přístup k novým AI modelům",
-      "url": "https://www.lupa.cz/aktuality/anthropic-znovu-zpristupnil-fable-a-mythos-vlada-usa-dostane-prednostni-pristup-k-novym-ai-modelum/",
-      "published_at": "2026-07-02T06:55:26+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: David Slížek)",
-      "summary_raw": "Po skoro třech týdnech mají uživatelé znovu přístup k nejvýkonněj&#353;ím AI modelům firmy Anthropic. Poskytování Fable 5 a Mythos 5 v polovině června zahraničním uživatelům zakázala americká vláda. Anthropic pak modely vypnul pro v&#353;echny uživatele. K 30. červnu americké úřady svůj zákaz zru&#353;ily a od 1. července (amerického času) jsou Fable a Mythos znovu celosvětově dostupné, informoval Anthropic.",
-      "hero_image": "https://i.iinfo.cz/images/436/anthropic-mythos.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "42928c4c7090815e",
       "title": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
@@ -941,18 +917,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "c144a3b0d20fccaf",
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "published_at": "2026-07-02T05:30:00+00:00",
-      "author": "Jagmeet Singh",
-      "summary_raw": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
     },
     {
       "id": "00207bf00ec326ed",
@@ -1301,18 +1265,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "8f0b3d19e46df01a",
-      "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
-      "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
-      "published_at": "2026-06-27T05:23:22+00:00",
-      "author": "Latent.Space",
-      "summary_raw": "Oddly tiered releases to both OAI and ANT on the same day.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!xf8R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2899dbdf-7aed-499f-92b9-63cc194a604e_1328x932.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "d6fd7cd5d02d39a3",
