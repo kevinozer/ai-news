@@ -40,7 +40,7 @@ jobs:
           DATE="${{ inputs.date }}"; [ -n "$DATE" ] || DATE=$(TZ=Europe/Prague date +%Y-%m-%d)
           miss=""
           has(){ curl -s -H "Authorization: Bearer $2" "https://api.github.com/repos/$1/commits?sha=main&per_page=6" | grep -q "$3"; }
-          has cruzmira/ainamiru "$GH_TOKEN" "Articles: ${DATE}" || miss="$miss ainamiru"
+          has kevinozer/aicruz-web "$GH_TOKEN" "Articles: ${DATE}" || miss="$miss ainamiru"
           has kevinozer/cbre-marketplace "$GH_TOKEN" "daily sync ${DATE}" || miss="$miss cbre"
           has cruzmira/stanton-chase-ai-hub "$SC_TOKEN" "sync ${DATE}" || miss="$miss sc"
           TG=$(curl -s -o /dev/null -w "%{http_code}" -H "Authorization: Bearer $GH_TOKEN" "https://api.github.com/repos/kevinozer/ai-news/contents/state/telegram-${DATE}.ok")
@@ -66,7 +66,7 @@ jobs:
       - name: Checkout ainamiru (pro dedup proti publikovaným)
         uses: actions/checkout@v5
         with:
-          repository: cruzmira/ainamiru
+          repository: kevinozer/aicruz-web
           token: ${{ secrets.GH_PAT }}
           path: _ainamiru
           fetch-depth: 10
@@ -174,7 +174,7 @@ jobs:
           # seed index z publikovaného (zachová historii napříč běhy)
           cp _ainamiru/articles/index.json output/articles/ 2>/dev/null || true
           cp _ainamiru/articles/index.js   output/articles/ 2>/dev/null || true
-          for i in 0 1 2 3 4 5 6; do
+          for i in 0 1 2 3 4; do
             python3 scripts/_gen_one_idx.py $i || python3 scripts/_gen_one_idx.py $i || true
           done
           echo "článkových složek: $(ls -d output/articles/${DATE}-*/ 2>/dev/null | wc -l)"
@@ -327,7 +327,7 @@ jobs:
           else
             code=$(curl -s -o /dev/null -w "%{http_code}" "https://raw.githubusercontent.com/kevinozer/ai-news/main/instagram/${DATE}/caption.txt")
             chk "slidy na raw (Make.com)" "$([ "$code" = "200" ] && echo OK || echo "HTTP $code")"
-            for repo in cruzmira/ainamiru kevinozer/cbre-marketplace; do
+            for repo in kevinozer/aicruz-web kevinozer/cbre-marketplace; do
               d=$(curl -s -H "Authorization: Bearer $GH_PAT" "https://api.github.com/repos/$repo/commits/main" | python3 -c "import sys,json;print(json.load(sys.stdin)['commit']['committer']['date'][:10])" 2>/dev/null)
               chk "$repo commit $DATE" "$([ "$d" = "$DATE" ] && echo OK || echo "poslední $d")"
             done
