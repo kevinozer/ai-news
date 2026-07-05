@@ -3,211 +3,211 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "Jak roste globální adopce ChatGPT podle nových dat OpenAI",
-      "title_orig": "How ChatGPT adoption has expanded",
+      "title_cs": "Vydání modelů Sonnet 5 a Fable 5 přináší novou vlnu otevřenosti",
+      "title_orig": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
       "category": "labs",
       "summary_cs": [
-        "Nová data ze statistik OpenAI ukazují výrazný globální nárůst používání asistenta ChatGPT napříč různými regiony a jazyky.",
-        "Uživatelé stále častěji experimentují s pokročilými funkcemi a integrují nástroj do svých každodenních pracovních postupů.",
-        "Analýza potvrzuje, že se ChatGPT stává stabilní infrastrukturou pro osobní i firemní produktivitu po celém světě."
+        "Technologický svět zažívá zásadní týden díky představení modelů Sonnet 5 a Fable 5.",
+        "Nové modely posouvají hranice v oblasti porozumění kontextu a rychlosti generování odpovědí.",
+        "Uvolnění těchto systémů opět otevírá globální trh s pokročilou umělou inteligencí pro všechny vývojáře."
       ],
-      "why_matters": "Ukazuje reálná data o tom, jak rychle se AI stává běžnou součástí globální i lokální pracovní síly.",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "source": "OpenAI Blog"
+      "why_matters": "Nové verze vlajkových modelů zásadně mění možnosti vývoje českých podnikových AI aplikací.",
+      "url": "https://www.latent.space/p/ainews-sonnet-5-today-and-fable-5",
+      "source": "Latent Space"
     },
     {
       "rank": 2,
-      "title_cs": "Model GPT-5.2 je konečně venku, ale přichází s nečekanými výzvami",
+      "title_cs": "Model GPT-5.6 je konečně venku, přichází však s novými výzvami",
       "title_orig": "GPT-5.6 is here but...",
       "category": "labs",
       "summary_cs": [
-        "Dlouho očekávaný model přináší výrazné zlepšení v oblasti logického uvažování a rychlosti generování odpovědí.",
-        "První testy však ukazují na extrémní náročnost na výpočetní výkon a specifické anomálie při složitém vyvozování.",
-        "Komunita se nyní zaměřuje na optimalizaci nákladů na inferenci, které zůstávají pro řadu nasazení příliš vysoké."
+        "Společnost OpenAI oficiálně spustila svůj nejnovější model GPT-5.6 s vylepšenou architekturou.",
+        "Uživatelé sice oceňují vyšší přesnost, ale zároveň poukazují na extrémní náročnost na výpočetní výkon.",
+        "Debata se nyní soustředí na efektivitu inferenčních nákladů při nasazení v reálném provozu."
       ],
-      "why_matters": "Nové vlajkové modely definují technologické možnosti, které budou české firmy implementovat v následujících měsících.",
+      "why_matters": "Nejnovější model od OpenAI definuje nové standardy výkonu a ekonomické náročnosti pro české firmy.",
       "url": "https://www.bensbites.com/p/gpt-56-is-here-but",
       "source": "Ben's Bites"
     },
     {
       "rank": 3,
-      "title_cs": "Jak inženýři z OpenAI vyřešili osmnáct let starou chybu pomocí analýzy výpisů paměti",
-      "title_orig": "Core dump epidemiology: fixing an 18-year-old bug",
+      "title_cs": "Model Fable se vrací na scénu společně s novou verzí Sonnetu",
+      "title_orig": "Fable is back",
       "category": "labs",
       "summary_cs": [
-        "Tým OpenAI využil pokročilou analýzu rozsáhlých paměťových výpisů k ladění vzácných pádů své infrastruktury.",
-        "Během vyšetřování odhalili jak skrytou hardwarovou chybu, tak velmi starý softwarový bug v systémových knihovnách.",
-        "Tento úspěch ukazuje, jak lze moderní analytické nástroje a AI metodiky aplikovat na hluboké systémové inženýrství."
+        "Vývojářská komunita oslavuje návrat vysoce hodnoceného modelu Fable do aktivního provozu.",
+        "Společně s ním přichází i aktualizovaná verze modelu Sonnet, která slibuje lepší optimalizaci.",
+        "Tento krok výrazně vyostřuje konkurenční boj mezi předními laboratořemi na poli generativní AI."
       ],
-      "why_matters": "Příklad ukazuje, jak špičkové AI firmy řeší stabilitu infrastruktury, což je klíčové pro spolehlivost cloudových služeb.",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "source": "OpenAI Blog"
+      "why_matters": "Návrat špičkových modelů rozšiřuje možnosti volby pro české vývojáře hledající optimální výkon.",
+      "url": "https://www.bensbites.com/p/fable-is-back",
+      "source": "Ben's Bites"
     },
     {
       "rank": 4,
-      "title_cs": "Představení benchmarku Genebench-Pro pro pokročilé hodnocení biologických schopností AI",
-      "title_orig": "Inside Genebench-Pro",
+      "title_cs": "Proč nejlepší difuzní výzkum neprobíhá v LLM, ale v medicíně",
+      "title_orig": "The Coolest Diffusion Research Isn't in LLMs – Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
       "category": "research",
       "summary_cs": [
-        "OpenAI představuje nový specializovaný benchmark určený k testování znalostí a schopností modelů v oblasti genetiky a biologie.",
-        "Nástroj má pomoci bezpečně hodnotit rizika i přínosy AI při analýze komplexních biologických dat a výzkumu.",
-        "Tento krok reaguje na rostoucí potřebu standardizovaného testování modelů před jejich nasazením do reálného vědeckého prostředí."
+        "Bývalý vedoucí týmu Llama v Meta vysvětluje svůj odchod do oblasti objevování nových léčiv.",
+        "Difuzní modely vykazují mimořádné výsledky při modelování molekulárních vazeb a proteinů.",
+        "Překročení kritické hranice přesnosti v ko-foldingu otevírá zcela nové možnosti pro personalizovanou medicínu."
       ],
-      "why_matters": "Zajišťuje bezpečnější vývoj AI v citlivých oblastech, jako je medicína a biotechnologie.",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "source": "OpenAI Blog"
-    },
-    {
-      "rank": 5,
-      "title_cs": "Nejzajímavější výzkum difuzních modelů neprobíhá v oblasti textu, ale při objevování léků",
-      "title_orig": "🔬 The Coolest Diffusion Research Isn't in LLMs - Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
-      "category": "research",
-      "summary_cs": [
-        "Bývalý vedoucí týmu Llama v Meta vysvětluje svůj přechod k biologickému startupu zaměřenému na design nových molekul.",
-        "Difuzní modely vykazují mimořádné výsledky při predikci proteinových struktur a překonávají tradiční LLM v přesnosti.",
-        "Dosažení kritické hranice přesnosti v ko-foldingu otevírá zcela nové možnosti pro personalizovanou medicínu."
-      ],
-      "why_matters": "Ukazuje, že největší přínos AI může být ve vědě a zdravotnictví, nikoli jen v psaní textů.",
+      "why_matters": "Ukazuje, jak technologie stojící za generováním obrázků revolučně mění vývoj léků i pro české pacienty.",
       "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
       "source": "Latent Space"
     },
     {
-      "rank": 6,
-      "title_cs": "Grant Sanderson o tom, proč uvidíme superinteligenci nejprve v matematice",
+      "rank": 5,
+      "title_cs": "Matematika jako první oblast, kde AI dosáhne superinteligence",
       "title_orig": "Grant Sanderson – AI and the future of math",
-      "category": "wildcard",
+      "category": "research",
       "summary_cs": [
-        "Populární popularizátor matematiky rozebírá vliv umělé inteligence na výuku a objevování nových matematických teorií.",
-        "Matematika představuje ideální uzavřené prostředí s jasnými pravidly, kde mohou modely dosáhnout nadlidských schopností nejrychleji.",
-        "Diskuse se věnuje také tomu, jak se změní role lidských matematiků a výuka na školách v éře pokročilých asistentů."
+        "Populární popularizátor matematiky Grant Sanderson rozebírá vliv AI na vědecký výzkum.",
+        "Matematické prostředí s jasně definovanými pravidly je ideálním polem pro rozvoj strojového uvažování.",
+        "Superinteligence v matematice může změnit způsob, jakým lidstvo objevuje nové fyzikální zákony."
       ],
-      "why_matters": "Pomáhá pochopit, kde AI nejdříve překoná lidské schopnosti a jak se na to připravit ve vzdělávání.",
+      "why_matters": "Rozhovor nabízí hluboký pohled na to, jak AI promění vzdělávání a vědeckou práci v Česku.",
       "url": "https://www.dwarkesh.com/p/grant-sanderson-2",
       "source": "Dwarkesh Patel"
     },
     {
-      "rank": 7,
-      "title_cs": "Vše, co potřebujete vědět o Mistral AI, hlavním evropském konkurentovi OpenAI",
-      "title_orig": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "category": "business",
-      "summary_cs": [
-        "Komplexní přehled francouzského startupu Mistral AI, který se stal klíčovým evropským hráčem na poli generativní umělé inteligence.",
-        "Firma sází na kombinaci otevřených modelů a komerčních API s cílem přiblížit špičkovou AI široké veřejnosti i korporacím.",
-        "Díky silnému financování a partnerstvím představuje Mistral zásadní alternativu k americkým technologickým gigantům."
-      ],
-      "why_matters": "Evropská alternativa k OpenAI je klíčová pro české firmy kvůli regulaci GDPR a datové suverenitě.",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 8,
-      "title_cs": "Budoucnost softwarového inženýrství a nástup specialistů na integraci AI přímo u zákazníků",
+      "rank": 6,
+      "title_cs": "Nová éra softwarového inženýrství a nástup specialistů na integraci",
       "title_orig": "Forward Deployed Engineers and the future of software engineering",
       "category": "business",
       "summary_cs": [
-        "Role produktových inženýrů a specialistů na implementaci se začíná pod vlivem AI nástrojů dramaticky měnit a propojovat.",
-        "Úspěšné nasazení AI vyžaduje hluboké pochopení zákaznických procesů přímo na místě, nikoli jen vzdálený vývoj softwaru.",
-        "Tento trend mění požadavky na dovednosti programátorů, u kterých roste význam konzultačních a integračních schopností."
+        "Role produktových inženýrů a specialistů na přímé nasazení u zákazníků se začínají prolínat.",
+        "Úspěšná integrace AI vyžaduje hluboké pochopení specifických potřeb koncových uživatelů v terénu.",
+        "Tento trend mění požadavky na dovednosti moderních vývojářů, kteří musí být více orientovaní na byznys."
       ],
-      "why_matters": "Definuje, jak se mění pracovní trh pro české vývojáře a jaké dovednosti budou v budoucnu žádané.",
+      "why_matters": "Definuje nový typ žádaných IT specialistů, které budou české firmy v nejbližších letech nutně potřebovat.",
       "url": "https://www.latent.space/p/forward-deployed-engineers-aiewf",
       "source": "Latent Space"
     },
     {
-      "rank": 9,
-      "title_cs": "Vydání sqlite-utils 4.0rc2, které bylo z velké části napsáno modelem Claude Fable",
-      "title_orig": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "category": "tools",
+      "rank": 7,
+      "title_cs": "Nová data ukazují, jak globálně roste adopce ChatGPT",
+      "title_orig": "How ChatGPT adoption has expanded",
+      "category": "labs",
       "summary_cs": [
-        "Vývojář Simon Willison vydal novou verzi své populární knihovny, přičemž většinu kódu vygeneroval model Claude Fable.",
-        "Celkové náklady na API pro napsání této verze činily přibližně 150 dolarů, což ukazuje vysokou efektivitu automatizovaného kódování.",
-        "Autor sdílí své zkušenosti s tím, jak mu AI pomohla bezpečně dosáhnout stabilního vydání při dodržení sémantického verzování."
+        "Zpráva OpenAI Signals přináší podrobné statistiky o využívání chatbota napříč regiony.",
+        "Uživatelé stále častěji přecházejí od jednoduchého vyhledávání ke komplexním agentním úkolům.",
+        "Roste také integrace nástroje do každodenních pracovních postupů v různých jazykových mutacích."
       ],
-      "why_matters": "Ukazuje reálnou nákladovou efektivitu využití pokročilých LLM při vývoji produkčního softwaru.",
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-      "source": "Simon Willison's Weblog"
+      "why_matters": "Potvrzuje, že integrace AI do běžného života se stává standardem i na českém trhu.",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Vše, co potřebujete vědět o evropském vyzyvateli Mistral AI",
+      "title_orig": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "category": "news",
+      "summary_cs": [
+        "Francouzský startup Mistral AI se stal klíčovým hráčem na poli otevřených modelů.",
+        "Firma od svého založení v roce 2023 získala masivní investice s cílem demokratizovat špičkovou AI.",
+        "Jejich modely nabízejí silnou alternativu k americkým uzavřeným systémům s důrazem na evropskou legislativu."
+      ],
+      "why_matters": "Evropská alternativa je pro české firmy klíčová z hlediska souladu s regulací ochrany osobních údajů.",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Vítězné eseje o velkých otázkách budoucnosti umělé inteligence",
+      "title_orig": "The Winning Essays for the Big Questions About AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Sborník oceněných prací se zabývá zásadními tématy od prevence pandemií po automatizaci práce.",
+        "Autoři analyzují, jak správně nastavit pravidla, aby AI lidstvu pomáhala a nebránila inovacím.",
+        "Texty nabízejí neotřelé pohledy inspirované úspěšnými infrastrukturními modely z celého světa."
+      ],
+      "why_matters": "Poskytuje cenné myšlenkové rámce pro české lídry, kteří formují strategii přijímání nových technologií.",
+      "url": "https://www.dwarkesh.com/p/blog-prize-winners",
+      "source": "Dwarkesh Patel"
     },
     {
       "rank": 10,
-      "title_cs": "Hugging Face integruje výsledky všech hlavních benchmarků přímo na stránky modelů",
-      "title_orig": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "category": "open-source",
-      "summary_cs": [
-        "Platforma Hugging Face nově zobrazuje komplexní výsledky hodnocení modelů přímo na jejich profilových kartách.",
-        "Uživatelé tak mohou okamžitě porovnat výkon open-source modelů v různých standardizovaných testech bez složitého hledání.",
-        "Tato integrace zvyšuje transparentnost a usnadňuje výběr nejvhodnějšího modelu pro konkrétní byznysové úkoly."
-      ],
-      "why_matters": "Zjednodušuje českým vývojářům výběr nejlepšího open-source modelu pro jejich specifické projekty.",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "rank": 11,
-      "title_cs": "Lepší modely, ale horší nástroje: Proč novější verze Claude dělají chyby v integracích",
+      "title_cs": "Lepší modely, ale horší nástroje: Vývojáři narážejí na limity integrace",
       "title_orig": "Better Models: Worse Tools",
       "category": "tools",
       "summary_cs": [
-        "Vývojáři upozorňují na zvláštní chování u nejnovějších modelů Claude, které sice vykazují vyšší inteligenci, ale dělají chyby při volání API.",
-        "Model Opus 4.8 občas vymýšlí neexistující pole v argumentech nástrojů, přestože samotný kód v pozadí vygeneruje správně.",
-        "Tento fenomén ukazuje na přetrvávající potíže s přesným dodržováním schémat u komplexních agentických systémů."
+        "Pokročilé modely jako Claude Opus někdy generují neexistující parametry při volání externích nástrojů.",
+        "I když je samotný kód často správný, nečekané argumenty mohou způsobit selhání celého systému.",
+        "Tento paradox ukazuje, že schopnosti modelů rostou rychleji než spolehlivost jejich integrace."
       ],
-      "why_matters": "Upozorňuje na skrytá rizika při integraci nejnovějších modelů do firemních aplikací a automatizací.",
+      "why_matters": "Upozorňuje české vývojáře na skrytá rizika při propojování LLM s podnikovými databázemi.",
       "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/",
       "source": "Simon Willison's Weblog"
     },
     {
-      "rank": 12,
-      "title_cs": "Jak vytvořit věrohodnou mapu světa v ASCII s využitím pouhých 500 bajtů",
-      "title_orig": "Building a World Map with only 500 bytes",
-      "category": "wildcard",
+      "rank": 11,
+      "title_cs": "Vydání sqlite-utils 4.0rc2 napsané téměř výhradně modelem Claude",
+      "title_orig": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "category": "tools",
       "summary_cs": [
-        "Vývojář s pomocí modelu Codex dokázal vygenerovat funkční a vizuálně přesnou ASCII mapu světa s extrémně malou datovou stopou.",
-        "Klíčem k úspěchu bylo využití komprese deflate v kombinaci s elegantním javascriptovým kódem pro vykreslení.",
-        "Projekt demonstruje, jak lze AI využít k netradiční optimalizaci kódu a hledání extrémně úsporných řešení."
+        "Známý vývojář Simon Willison vydal novou verzi své knihovny pro práci se SQLite databázemi.",
+        "Většinu kódu a refaktorování pro tuto verzi napsal model Claude Fable za necelých 150 dolarů.",
+        "Experiment ukazuje, že s dobrým zadáním dokáže AI spolehlivě vyřešit i složité zpětné kompatibility."
       ],
-      "why_matters": "Inspirativní ukázka toho, jak AI pomáhá programátorům nacházet nekonvenční a vysoce optimalizovaná řešení.",
-      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/",
+      "why_matters": "Praktická ukázka toho, jak dramaticky může AI snížit náklady na vývoj softwaru v českých firmách.",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
       "source": "Simon Willison's Weblog"
     },
     {
-      "rank": 13,
-      "title_cs": "Jak se oslavy amerického výročí staly testem kolektivní inteligence poháněné AI",
-      "title_orig": "How America's 250th birthday became a test of AI-powered collective intelligence",
-      "category": "news",
+      "rank": 12,
+      "title_cs": "Hugging Face integruje výsledky hodnocení modelů přímo na produktové stránky",
+      "title_orig": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "category": "open-source",
       "summary_cs": [
-        "Rozsáhlý experiment zapojil stovky lidí do moderované diskuse s cílem najít shodu na klíčových společenských otázkách.",
-        "AI systémy pomáhaly analyzovat argumenty v reálném čase, strukturovat debatu a formulovat konsenzuální závěry.",
-        "Projekt ukazuje budoucnost demokratického rozhodování a řešení komplexních konfliktů s pomocí technologií."
+        "Platforma Hugging Face zjednodušuje porovnávání modelů integrací komplexních benchmarků.",
+        "Uživatelé nyní vidí detailní metriky úspěšnosti přímo u jednotlivých open-source projektů.",
+        "Tento krok usnadní výběr nejvhodnějšího lokálního modelu pro specifické úkoly."
       ],
-      "why_matters": "Představuje nové možnosti, jak využít AI pro moderování diskusí a hledání shody ve firmách i komunitách.",
-      "url": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence",
-      "source": "VentureBeat AI"
+      "why_matters": "Zjednodušuje českým specialistům výběr optimálního open-source modelu bez nutnosti složitého testování.",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Jak inženýři OpenAI využili analýzu výpisů paměti k opravě osmnáctileté chyby",
+      "title_orig": "Core dump epidemiology: fixing an 18-year-old bug",
+      "category": "labs",
+      "summary_cs": [
+        "Tým OpenAI popsal proces ladění vzácných pádů své masivní trénovací infrastruktury.",
+        "Pomocí pokročilé analýzy velkého množství výpisů paměti odhalili kombinaci hardwarové vady a softwarové chyby.",
+        "Chyba se v kódu skrývala téměř dvě dekády a projevila se až při extrémní zátěži během trénování AI."
+      ],
+      "why_matters": "Fascinující pohled do zákulisí správy největších superpočítačů světa, které pohánějí moderní AI.",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI Blog"
     },
     {
       "rank": 14,
-      "title_cs": "Komunita autorů fanfikcí bojuje proti generativní AI i proti sobě navzájem",
-      "title_orig": "The fanfiction community is at war with AI - and itself",
-      "category": "news",
+      "title_cs": "Komunita autorů fanfikcí bojuje proti používání generativní AI",
+      "title_orig": "The fanfiction community is at war with AI – and itself",
+      "category": "wildcard",
       "summary_cs": [
-        "Mezi autory amatérské literatury roste napětí kvůli snahám odhalit a eliminovat texty vytvořené pomocí AI.",
-        "Používané detekční metody jsou však vysoce nespolehlivé, což vede k falešným obviněním a vnitřním konfliktům v komunitě.",
-        "Situace ilustruje širší společenský odpor vůči autorskému zapojení modelů jako Claude nebo ChatGPT do tvůrčí činnosti."
+        "Na internetu sílí hnutí, které se snaží odhalit a bojkotovat autory píšící s pomocí umělé inteligence.",
+        "Používané detekční metody jsou však nespolehlivé a často falešně označují i lidskou tvorbu.",
+        "Tento konflikt ukazuje hlubokou nedůvěru a etické napětí mezi tvůrci a novými technologiemi."
       ],
-      "why_matters": "Ukazuje reálné dopady nespolehlivých detektorů AI textu na kreativní komunity a autorská práva.",
+      "why_matters": "Ilustruje společenské a autorskoprávní výzvy, kterým budou čelit i čeští kreativní tvůrci.",
       "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
       "source": "The Verge AI"
     },
     {
       "rank": 15,
-      "title_cs": "Ludditský festival v New Yorku učí mladou generaci, jak žít offline",
+      "title_cs": "Festival ludditů v New Yorku učí mladou generaci žít offline",
       "title_orig": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
       "category": "wildcard",
       "summary_cs": [
-        "V New Yorku proběhl festival zaměřený na digitální detox a odpor mladé generace vůči dominanci velkých technologických firem.",
-        "Účastníci se učili tradičním řemeslům, opravám staré elektroniky a fungování bez neustálého připojení k internetu.",
-        "Akce odráží rostoucí únavu mladých lidí z algoritmů sociálních sítí a všudypřítomného tlaku na neustálou online přítomnost."
+        "V New Yorku proběhl festival zaměřený na odpor mladých lidí vůči dominanci velkých technologických firem.",
+        "Účastníci se učili analogovým dovednostem a sdíleli své obavy z dopadů AI na lidské vztahy.",
+        "Akce odráží rostoucí touhu části generace Z po digitálním detoxu a ochraně soukromí."
       ],
-      "why_matters": "Důležité memento pro tvůrce technologií, že protitlak vůči digitalizaci a AI u mladých lidí sílí.",
+      "why_matters": "Ukazuje nastupující společenský trend, který může ovlivnit chování mladých spotřebitelů i v České republice.",
       "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
       "source": "Ars Technica"
     }
