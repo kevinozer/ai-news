@@ -660,7 +660,7 @@ def build_ig_caption(articles: list[dict], date_str: str) -> str:
         lines.append(f"{i}. {title}")
     lines += [
         "",
-        "Celý digest v PDF + více kontextu na ainamiru.cz",
+        "Celý digest v PDF + více kontextu na aicruz.cz",
         "",
         "#AINews #AI #Anthropic #OpenAI #Gemini #AInaMiru",
     ]
@@ -1176,7 +1176,7 @@ def compose_outro_slide(
         cta_y += cta_lh
 
     url_font = pil_font(fonts, "body", 28 if W > 1200 else 22)
-    url_text = "ainamiru.cz"
+    url_text = "aicruz.cz"
     url_w = draw.textlength(add_letter_spacing(url_text, 0.12), font=url_font)
     draw.text(((W - url_w) // 2, cta_y + 24),
               add_letter_spacing(url_text, 0.12),
