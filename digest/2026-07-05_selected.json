@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-05",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic představuje Claude Sonnet 5 s přelomovým výkonem pro agenty a kódování",
+      "title_orig": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "category": "labs",
+      "summary_cs": [
+        "Nový model přináší výrazný posun v oblasti autonomního programování a komplexních agentických úloh.",
+        "Sonnet 5 je navržen pro nasazení ve velkém měřítku s důrazem na efektivitu a rychlost zpracování.",
+        "Uživatelé mohou očekávat lepší porozumění kontextu a přesnější plnění složitých profesních zadání."
+      ],
+      "why_matters": "Nový standard v oblasti AI asistentů, který přímo ovlivní každodenní produktivitu vývojářů i manažerů.",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic News"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Claude Science přináší specializované pracovní prostředí pro vědecký výzkum",
+      "title_orig": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "category": "labs",
+      "summary_cs": [
+        "Nová aplikace integruje nejpoužívanější vědecké balíčky a nástroje do jednoho přizpůsobitelného rozhraní.",
+        "Platforma umožňuje generovat auditovatelné výstupy a poskytuje flexibilní přístup k výpočetnímu výkonu.",
+        "Cílem je zjednodušit analýzu dat a urychlit výzkumné cykly v akademické i komerční sféře."
+      ],
+      "why_matters": "Vědci získávají specializovaný nástroj, který může zásadně urychlit analýzu dat a publikaci nových objevů.",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "source": "Anthropic News"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Google spouští Nano Banana 2 Lite a Gemini Omni Flash",
+      "title_orig": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "category": "labs",
+      "summary_cs": [
+        "Google DeepMind uvolňuje nové odlehčené modely pro vývojáře k okamžitému použití.",
+        "Modely se zaměřují na extrémní rychlost a nízkou latenci při zachování vysoké kvality výstupů.",
+        "Nové nástroje usnadní integraci pokročilých AI funkcí do mobilních a webových aplikací."
+      ],
+      "why_matters": "Dostupnost rychlých a levných modelů umožňuje českým vývojářům stavět efektivnější aplikace pro koncové uživatele.",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Alibaba zakazuje svým zaměstnancům používat vývojářský nástroj Claude Code",
+      "title_orig": "Alibaba reportedly bans employees from using Claude Code",
+      "category": "business",
+      "summary_cs": [
+        "Čínský technologický gigant Alibaba klasifikoval nástroj Claude Code jako vysoce rizikový software.",
+        "Zákaz odráží rostoucí obavy z úniku citlivého zdrojového kódu a duševního vlastnictví mimo firmu.",
+        "Tento krok ukazuje na napětí mezi západními AI nástroji a čínskými korporátními bezpečnostními pravidly."
+      ],
+      "why_matters": "Ukazuje na rostoucí geopolitické a bezpečnostní třenice při nasazování AI ve velkých korporacích.",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Midjourney žádá hollywoodská studia o odhalení jejich vlastního využívání AI",
+      "title_orig": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "category": "news",
+      "summary_cs": [
+        "V rámci probíhajícího právního sporu se třemi studii se Midjourney snaží donutit žalobce k transparentnosti.",
+        "Požadavek by mohl odhalit, jak moc filmový průmysl interně spoléhá na generativní nástroje.",
+        "Tato právní strategie může zásadně ovlivnit budoucí spory o autorská práva v kreativním průmyslu."
+      ],
+      "why_matters": "Případný precedens může změnit vnímání autorských práv a odhalit pokrytectví velkých zábavních korporací.",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Jak se mění práce na exponenciální křivce a soumrak chatbotů",
+      "title_orig": "The twilight of the chatbots",
+      "category": "news",
+      "summary_cs": [
+        "Ethan Mollick analyzuje přechod od jednoduchých konverzačních rozhraní k autonomním agentům.",
+        "Tradiční chatboty začínají narážet na své limity v oblasti reálné integrace do pracovních procesů.",
+        "Budoucnost patří systémům, které dokážou samostatně plánovat a vykonávat komplexní úkoly."
+      ],
+      "why_matters": "Pomáhá pochopit, proč pouhé chatování s AI brzy nahradí skutečně autonomní digitální pracovníci.",
+      "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+      "source": "One Useful Thing (Mollick)"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Hugging Face spouští ScarfBench pro migraci podnikových Java aplikací",
+      "title_orig": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "category": "labs",
+      "summary_cs": [
+        "Nový benchmark se zaměřuje na hodnocení schopností AI agentů při migraci starších Java frameworků.",
+        "Nástroj pomůže firmám vybrat nejvhodnější model pro automatizaci modernizace jejich softwaru.",
+        "Migrace legacy systémů představuje pro podniky obrovskou finanční a časovou zátěž."
+      ],
+      "why_matters": "Pro české firmy s rozsáhlým starším softwarem to znamená cestu k levnější a rychlejší modernizaci.",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Jak Claude Fable pomohl vytvořit sqlite-utils 4.0 za necelých 150 dolarů",
+      "title_orig": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "category": "news",
+      "summary_cs": [
+        "Simon Willison popsal zkušenost s využitím modelu Claude Fable k dokončení stabilní verze své knihovny.",
+        "Model dokázal vyřešit složité kompatibility a refaktorování kódu s minimálními náklady na API.",
+        "Ukazuje se, že pokročilé modely dokážou efektivně nahradit hodiny lidské programátorské práce."
+      ],
+      "why_matters": "Praktická ukázka toho, jak extrémně levný a efektivní může být vývoj softwaru s pokročilou AI.",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Problém s novými modely: Lepší inteligence, ale horší práce s nástroji",
+      "title_orig": "Better Models: Worse Tools",
+      "category": "news",
+      "summary_cs": [
+        "Vývojáři hlásí podivné chování u nejnovějších modelů jako Claude Opus 4.8 při volání externích nástrojů.",
+        "Modely mají tendenci si vymýšlet neexistující parametry v definovaných schématech funkcí.",
+        "Tento fenomén ukazuje, že vyšší obecná inteligence nemusí automaticky znamenat lepší spolehlivost v API."
+      ],
+      "why_matters": "Důležité varování pro české vývojáře integrující nejnovější modely do svých produkčních systémů.",
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Válka komunity fanfikcí s detektory umělé inteligence",
+      "title_orig": "The fanfiction community is at war with AI - and itself",
+      "category": "news",
+      "summary_cs": [
+        "Komunita autorů amatérské literatury se snaží vymýtit texty generované pomocí AI.",
+        "Používané detekční nástroje jsou však velmi nespolehlivé a často falešně označují lidskou tvorbu.",
+        "Situace vede k vnitřním rozporům a honu na čarodějnice mezi samotnými autory."
+      ],
+      "why_matters": "Ilustruje širší společenský problém s nespolehlivostí AI detektorů a dopady na kreativní komunity.",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Hugging Face zobrazuje výsledky všech dostupných evaluací přímo na stránkách modelů",
+      "title_orig": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "category": "labs",
+      "summary_cs": [
+        "Platforma Hugging Face integrovala komplexní přehledy benchmarků přímo do detailů modelů.",
+        "Uživatelé tak mohou snadno porovnat reálný výkon různých modelů na jednom místě.",
+        "Tento krok zvyšuje transparentnost a usnadňuje výběr správného open-source modelu."
+      ],
+      "why_matters": "Zjednodušuje českým vývojářům a výzkumníkům orientaci v nepřehledném množství open-source modelů.",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "OpenAI využívá analýzu výpisů paměti k opravě osmnáct let staré chyby",
+      "title_orig": "Core dump epidemiology: fixing an 18-year-old bug",
+      "category": "labs",
+      "summary_cs": [
+        "Inženýři OpenAI použili velkokapacitní analýzu core dumpů k vyřešení vzácných pádů infrastruktury.",
+        "Během vyšetřování odhalili jak hardwarovou chybu, tak dlouho přehlížený softwarový bug v jádře.",
+        "Ukazuje to, jak lze moderní analytické metody aplikovat na hluboké systémové problémy."
+      ],
+      "why_matters": "Fascinující ukázka toho, jak špičkové AI firmy řeší stabilitu své masivní infrastruktury.",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Jak roste globální adopce ChatGPT podle nových dat OpenAI",
+      "title_orig": "How ChatGPT adoption has expanded",
+      "category": "labs",
+      "summary_cs": [
+        "Nová data ze signálů OpenAI ukazují trvalý růst počtu uživatelů napříč všemi regiony.",
+        "Lidé začínají ChatGPT využívat pro komplexnější úkoly a objevují pokročilé multimodální funkce.",
+        "Roste také diverzifikace v používání různých jazyků mimo angličtinu."
+      ],
+      "why_matters": "Potvrzuje, že AI se stává trvalou součástí každodenního života lidí po celém světě včetně Česka.",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Kdo je Mistral AI? Vše o hlavním evropském konkurentovi OpenAI",
+      "title_orig": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "category": "news",
+      "summary_cs": [
+        "Francouzský startup Mistral AI si získal silnou pozici díky prosazování open-source přístupu.",
+        "Firma od svého založení v roce 2023 získala masivní investice a konkuruje americkým gigantům.",
+        "Jejich cílem zůstává zpřístupnit špičkové modely široké veřejnosti bez licenčních omezení."
+      ],
+      "why_matters": "Představení klíčového evropského hráče, který nabízí alternativu k americkým proprietárním modelům.",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Nová reklama od Googlu ukazuje psaní Deklarace nezávislosti s pomocí AI",
+      "title_orig": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "category": "news",
+      "summary_cs": [
+        "Google představil reklamní kampaň, která spekuluje o využití Google Workspace otci zakladateli.",
+        "Kampaň se snaží ukázat AI jako přirozeného pomocníka při tvorbě historických dokumentů.",
+        "Reklama vyvolala debaty o tom, zda technologie nezkresluje význam lidského tvůrčího úsilí."
+      ],
+      "why_matters": "Ukazuje, jak se technologičtí obři snaží normalizovat přítomnost AI v naší kultuře a historii.",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
