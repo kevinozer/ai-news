@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T04:01:03.398357+00:00",
+  "generated_at": "2026-07-06T08:40:50.062168+00:00",
   "date": "2026-07-06",
-  "article_count_unique": 70,
-  "article_count_raw": 70,
+  "article_count_unique": 71,
+  "article_count_raw": 71,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "anthropic_news",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "latent_space",
@@ -169,11 +169,35 @@
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "fc1b045948b67b17",
+      "title": "Druhý mozek schovaný v elegantní kreditce. Populární AI záznamník dostal upgrade, pořád ale není pro každého",
+      "url": "https://cc.cz/druhy-mozek-schovany-v-elegantni-kreditce-popularni-ai-zaznamnik-dostal-upgrade-porad-ale-neni-pro-kazdeho/",
+      "published_at": "2026-07-06T08:02:50+00:00",
+      "author": "Michaela Prešinská",
+      "summary_raw": "Jaké by to asi bylo, nemuset si už nikdy pamatovat jedinou větu z porady? Plaud Note Pro nabízí čtyři mikrofony, displej i obří výdrž. Článek Druhý mozek schovaný v elegantní kreditce. Populární AI záznamník dostal upgrade, pořád ale není pro každého se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/plaudai-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "ef084a92a579626b",
+      "title": "sqlite-utils 4.0rc3",
+      "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/",
+      "published_at": "2026-07-06T05:40:08+00:00",
+      "author": "",
+      "summary_raw": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept getting bigger . The biggest new feature is support for introspecting and creating compound foreign keys - a feature that involves a subtle breaking change to table.foreign_keys and hence needed to land for the 4.0 stable release. sqlite-utils also now follows SQLite's convention for case insensitive column names, which turned out to touch a bunch of different places at once . Tags: projects , sqlite , sqlite-utils , annotated-release-notes , gpt , claude-mythos-fable",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
     {
       "id": "81241ea6038abdde",
       "title": "🤗 Kernels: Major Updates",
@@ -868,18 +892,6 @@
       "hero_image": null,
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
-      "category": "labs"
-    },
-    {
-      "id": "dce2488f29d0b759",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "published_at": "2026-06-29T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
       "category": "labs"
     },
     {
