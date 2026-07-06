@@ -1,0 +1,1018 @@
+{
+  "generated_at": "2026-07-06T04:01:03.398357+00:00",
+  "date": "2026-07-06",
+  "article_count_unique": 70,
+  "article_count_raw": 70,
+  "source_stats": [
+    {
+      "source_id": "techcrunch_ai",
+      "status": "ok",
+      "count": 5,
+      "raw_count": 5
+    },
+    {
+      "source_id": "verge_ai",
+      "status": "ok",
+      "count": 3,
+      "raw_count": 3
+    },
+    {
+      "source_id": "arstechnica",
+      "status": "ok",
+      "count": 5,
+      "raw_count": 5
+    },
+    {
+      "source_id": "mit_tech_review",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "wired_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "venturebeat_ai",
+      "status": "ok",
+      "count": 7,
+      "raw_count": 7
+    },
+    {
+      "source_id": "openai_blog",
+      "status": "ok",
+      "count": 5,
+      "raw_count": 5
+    },
+    {
+      "source_id": "anthropic_news",
+      "status": "ok",
+      "count": 11,
+      "raw_count": 11
+    },
+    {
+      "source_id": "deepmind_blog",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 2
+    },
+    {
+      "source_id": "microsoft_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "huggingface_blog",
+      "status": "ok",
+      "count": 6,
+      "raw_count": 6
+    },
+    {
+      "source_id": "import_ai",
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
+    },
+    {
+      "source_id": "tldr_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "bens_bites",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 2
+    },
+    {
+      "source_id": "last_week_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "one_useful_thing",
+      "status": "ok",
+      "count": 1,
+      "raw_count": 1
+    },
+    {
+      "source_id": "simonw",
+      "status": "ok",
+      "count": 4,
+      "raw_count": 4
+    },
+    {
+      "source_id": "latent_space",
+      "status": "ok",
+      "count": 15,
+      "raw_count": 15
+    },
+    {
+      "source_id": "marcus_on_ai",
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
+    },
+    {
+      "source_id": "dwarkesh",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 2
+    },
+    {
+      "source_id": "zvi_vase",
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
+    },
+    {
+      "source_id": "interconnects",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "arxiv_cs_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "arxiv_cs_lg",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "hackernews_ai",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "source_id": "reddit_ml",
+      "status": "error",
+      "error": "HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/r/MachineLearning+LocalLLaMA/top.json?t=day&limit=100",
+      "count": 0
+    },
+    {
+      "source_id": "lupa_cz",
+      "status": "ok",
+      "count": 0,
+      "raw_count": 2
+    },
+    {
+      "source_id": "czechcrunch",
+      "status": "ok",
+      "count": 2,
+      "raw_count": 10
+    }
+  ],
+  "articles": [
+    {
+      "id": "81241ea6038abdde",
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "published_at": "2026-07-06T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "7291d17fab95c685",
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "published_at": "2026-07-05T22:30:54+00:00",
+      "author": "Terrence O’Brien",
+      "summary_raw": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools. Companies like Forge Prep and Alpha [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "32e2499dae8d4801",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "published_at": "2026-07-05T17:43:36+00:00",
+      "author": "Anthony Ha",
+      "summary_raw": "These may be the last days of Amazon’s Mechanical Turk.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "e87adec2c5638ea7",
+      "title": "Co čeká Mapy.com, restart od dat ke květinářství a tradingová AI, co se učila z pokeru",
+      "url": "https://cc.cz/co-ceka-mapy-com-restart-od-dat-ke-kvetinarstvi-a-tradingova-ai-co-se-ucila-z-pokeru/",
+      "published_at": "2026-07-05T15:15:47+00:00",
+      "author": "Lucie Černohlávková",
+      "summary_raw": "Je neděle a to znamená, že je tady další přehled toho nejzajímavějšího, co jsme v CzechCrunchi v končícím týdnu napsali. Článek Co čeká Mapy.com, restart od dat ke květinářství a tradingová AI, co se učila z pokeru se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/weekly-mvp-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "4175fe02c46e19a3",
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "published_at": "2026-07-05T14:23:11+00:00",
+      "author": "Terrence O’Brien",
+      "summary_raw": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Q3RjZY-rSsc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "26e83e5f48d4da7a",
+      "title": "Jeho jméno možná neznáte, ale změnil svět. Otec internetu teď odchází do důchodu a varuje před chybami AI",
+      "url": "https://cc.cz/jeho-jmeno-mozna-neznate-ale-zmenil-svet-otec-internetu-ted-odchazi-do-duchodu-a-varuje-pred-chybami-ai/",
+      "published_at": "2026-07-05T13:08:24+00:00",
+      "author": "David Zlomek",
+      "summary_raw": "Uzavírá se jedna z nejvlivnějších kariér v historii technologií. Legendární programátor vzkazuje, že bez přísných pravidel čeká celý trh s AI chaos. Článek Jeho jméno možná neznáte, ale změnil svět. Otec internetu teď odchází do důchodu a varuje před chybami AI se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/vinton-cerf-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "21022caf3de25d1a",
+      "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
+      "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
+      "published_at": "2026-07-05T11:05:22+00:00",
+      "author": "Liza Gross, Inside Climate News",
+      "summary_raw": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238555391-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "d43ec47e6ed493c0",
+      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
+      "url": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
+      "published_at": "2026-07-05T10:55:02+00:00",
+      "author": "Jacek Krywko",
+      "summary_raw": "The heat of the Hadean may have come from impacts as well as the interior.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1.jpeg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "c295d5eb9bad20ff",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "published_at": "2026-07-05T01:00:48+00:00",
+      "author": "",
+      "summary_raw": "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I felt truly comfortable about, since I try to keep to SemVer and like my incompatible major versions to be as rare as possible. I started with this prompt, in Claude Code for web on my iPhone: Final review before shipping a stable 4.0 release - very important to spot any last minute things that would be a breaking change if we fix them later Here's that initial report it created for me. There were some significant problems that I hadn't myself encountered yet - 5 that Fable categorized as \"release blockers\". Here's the worst of the bunch: 1. delete_where() never commits and poisons the connection (data loss) Table.delete_where() ( sqlite_utils/db.py:2948 ) runs its DELETE via a bare self.db.execute() with no atomic() wrapper — compare Table.delete() at db.py:2944 , which wraps correctly. The connection is left in_transaction=True , so every subsequent atomic() call takes the savepoint branch ( db.py:430-440 ) and never commits either. Reproduced end-to-end: db = sqlite_utils . Database ( \"dw.db\" ) db [ \"t\" ]. insert_all ([{ \"id\" : i } for i in range ( 3 )], pk = \"id\" ) db [ \"t\" ]. delete_where ( \"id = ?\" , [ 0 ]) # conn.in_transaction is now True db [ \"t\" ]. insert ({ \"id\" : 50 }) db [ \"u\" ]. insert ({ \"a\" : 1 }) db . close () # Reopen: rows are [0, 1, 2] — the delete, row 50, AND table u are all gone. That's a really bad bug! Very glad I didn't ship that, although at least it would have been a bug I could fix in a 4.0.1 point release, not a design flaw that would force a 5.0. Over the course of 37 prompts, 34 commits and +1,321 -190 code changes over 30 separate files, we worked through the entire set of feedback in turn, making several other design improvements along the way. A weird thing about coding agents is that harder tasks like this one actual…",
+      "hero_image": "https://static.simonwillison.net/static/2026/fable-plan-usage.webp",
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "4d522cd4d96064dc",
+      "title": "sqlite-utils 4.0rc2",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/",
+      "published_at": "2026-07-05T00:47:38+00:00",
+      "author": "",
+      "summary_raw": "Release: sqlite-utils 4.0rc2 See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) .",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "b905a91eea8136c2",
+      "title": "Building a World Map with only 500 bytes",
+      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/",
+      "published_at": "2026-07-04T23:09:02+00:00",
+      "author": "",
+      "summary_raw": "Building a World Map with only 500 bytes Iwo Kadziela (assisted by Codex) figured out a way to generate a credible ASCII world map using 445 bytes of data: The key trick is to use deflate compression, which is then wired together using this neat snippet of JavaScript. I didn't know you could use fetch() with data: URIs like this: fetch('data:;base64,1ZpLsgIxCEXnrM...==').then( r =&gt; r.body.pipeThrough(new DecompressionStream('deflate-raw')) ).then( s =&gt; new Response(s).text() ).then( t =&gt; b.innerHTML = '&lt;pre style=font-size:.65vw&gt;' + t ) Via Hacker News Tags: ascii-art , data-urls , javascript",
+      "hero_image": "https://static.simonwillison.net/static/2026/world-map-ascii.png",
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "f10e152bbc65a248",
+      "title": "Better Models: Worse Tools",
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/",
+      "published_at": "2026-07-04T22:53:52+00:00",
+      "author": "",
+      "summary_raw": "Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi: The short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in the nested edits[] array. And not Haiku or some small model: Opus 4.8. The edit itself is usually correct but the arguments do not match the schema as the model invents made-up keys and Pi thus rejects the tool call and asks to try again. That alone is not too surprising as models emit malformed tool calls sometimes. Particularly small ones. What surprised me is that this is getting worse with newer Anthropic models as both Opus 4.8 and Sonnet 5 show it but none of the older models. In other words, the SOTA models of the family are worse at this specific tool schema than their older siblings. Armin theorizes that this is because more recent Anthropic models have been specifically trained (presumably via Reinforcement Learning) to better use the edit tools that are baked into Claude Code. This has the unfortunate effect that other coding harnesses, such as Pi, may find that their own custom edit tools are more likely to be used incorrectly. Claude's edit tool uses search and replace . OpenAI's Codex uses an apply_patch mechanism instead , and OpenAI have talked in the past about how their models are trained to use that tool effectively. Does this mean third-party coding harnesses like Pi should implement multiple edit tools just so they can use the one with the best performance for the underlying model the user has selected? Tags: armin-ronacher , ai , openai , generative-ai , llms , anthropic , llm-tool-use , coding-agents , pi",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "fc3b9c92c9b2a0dc",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "published_at": "2026-07-04T20:55:25+00:00",
+      "author": "Anthony Ha",
+      "summary_raw": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "a4f4ef7ddae9f74b",
+      "title": "How America's 250th birthday became a test of AI-powered collective intelligence",
+      "url": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence",
+      "published_at": "2026-07-04T19:00:12+00:00",
+      "author": "lb_rosenberg@yahoo.com (Louis Rosenberg, Unanimous A.I.)",
+      "summary_raw": "Imagine if you could bring 250 people together in a massive room and have them discuss and debate an important issue, arguing the points and counterpoints, and converging on answers that accurately reflect their collective knowledge, wisdom, values, and sensibilities. Now imagine that you convened this debate on America’s 250 th birthday and asked 250 randomly selected Americans to come up with the top three innovations that America has contributed to the world over the last 250 years. What would they come up with? I know – this all sounds impossible. After all, you can’t get more than a dozen people to have a productive conversation on anything. At large scale, nobody would get enough airtime to express their views or respond to others. This is why typical business meetings or focus groups never have more than 8 to 10 people. Thoughtful real-time conversations just don’t scale. To solve this, a new category of AI technology called “hyper-communication ” is greatly expanding the size, scope, and efficiency of large-scale deliberations. It uses specialized AI agents to connect groups in real-time, allowing people to discuss and debate issues at any scale . The goal is to enable hundreds or even thousands of participant to hold thoughtful discussions where they can express their views and argue the merits of any issue. I first wrote about this emerging technology in VentureBeat two years ago in an article about “ Collective Superintelligence .” In that piece, I explain how large human groups can be hyper-connected by AI agents in ways that greatly amplify the group’s collective intelligence . You can check out the science behind hyper-communication in that prior VentureBeat piece. Here I am focusing on the debate among 250 Americans on America’s birthday. To do this, I asked the team at Unanimous AI to field a randomly selected group of at least 250 Americans (with a broad distribution from every region in the country and diverse mix of political and social demographi…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3Xl0iNAu1qWBWsbVOmxzAw/cf3c9b698819500ddff2fd00b1ca46f3/image1.jpg?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "8211e83316bd5ec6",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "published_at": "2026-07-04T18:00:05+00:00",
+      "author": "Anthony Ha",
+      "summary_raw": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "38b7dff83da8773f",
+      "title": "Review: Supergirl is not the disaster its low box office suggests",
+      "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+      "published_at": "2026-07-04T16:49:14+00:00",
+      "author": "Jennifer Ouellette",
+      "summary_raw": "It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/supergirl1-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "2593c9e276bb1dab",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "published_at": "2026-07-04T16:32:08+00:00",
+      "author": "Anthony Ha",
+      "summary_raw": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "cd60895456a63d82",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "published_at": "2026-07-04T15:51:32+00:00",
+      "author": "Anna Heim",
+      "summary_raw": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "0e9917e07cbb9020",
+      "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+      "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
+      "published_at": "2026-07-04T14:34:50+00:00",
+      "author": "taryn.plumb@venturebeat.com (Taryn Plumb)",
+      "summary_raw": "Most verticals aren’t clean, well-oiled SaaS databases; the reality is ugly documents, proprietary schemas, implicit workflows, and long‑running tasks that most general-purpose models struggle with. This prompted construction project management company Trunk Tools to build a specialized, three-layer architecture — perception, semantics, agents — based on highly-detailed data to support high-accuracy, highly-relevant industry automation. Their purpose-built stack has shrunk review cycles from months to days, prevented costly field errors, and given autonomous agents the ability to reason over millions of pages of documentation, the company says. “We really set out to take the data from dispersed systems, pre-process it, structure it, go through our ontology into a knowledge graph, and then train AI models,” said Sarah Buchner, Trunk Tools&#x27; founder and CEO and a former carpenter. For builders in other verticals, the company&#x27;s approach could serve as a blueprint for transforming data chaos into agent‑ready, industry-specific workflows. Where general-purpose LLMs break down on industry data Foundation LLMs, while powerful, are optimized for breadth, not always depth. “General-purpose LLMs are trained to be okay at everything, so they&#x27;re weak at anything niche,” said Kriti Faujdar, a senior product manager working in AI infrastructure, agentic AI, security, and LLM platforms. For instance: Rare terms, domain-specific reasoning, the unspoken context that any practitioner “just knows.” Web, app, and software developer Sébastien De Bollivier agreed that the biggest bottleneck is reliability on data that is “jargon-dense, abbreviation-heavy, and format-specific.” “A GPT-4-class model can understand a French legal contract, but will fumble the specific article references practitioners need to cite,” he said. Besides, the most valuable enterprise data never made it into pretraining anyway, Faujdar pointed out. It&#x27;s sitting in internal systems and proprietar…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/63UxY1M5WET2KFyliCQstB/014b102216bc5911b9c6ab0875400a31/Trunk_Tools.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "a8012c3decc95d88",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "published_at": "2026-07-04T12:00:00+00:00",
+      "author": "Jess Weatherbed",
+      "summary_raw": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "6a1297c3d8ada10d",
+      "title": "When the ability to smell goes away",
+      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+      "published_at": "2026-07-04T11:04:31+00:00",
+      "author": "Victoria Clayton, Knowable Magazine",
+      "summary_raw": "Disturbances in this critical sense are often linked to problems with brain health.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1302713332-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "594d6964ab7aa101",
+      "title": "A martian rock has lots of carbon on it, and it's not clear why",
+      "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+      "published_at": "2026-07-04T11:00:41+00:00",
+      "author": "Jacek Krywko",
+      "summary_raw": "Biology could explain the find, but there are other potential explanations.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1152x648.png",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "1d3b1222fee325e0",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "published_at": "2026-07-03T14:25:43+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "deepmind_blog",
+      "source_name": "Google DeepMind Blog",
+      "category": "labs"
+    },
+    {
+      "id": "9e31b8f73f3ea307",
+      "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+      "published_at": "2026-07-03T05:11:43+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "The AI Engineer World&#8217;s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!M0WA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d4f7346-6688-4240-b077-16bf6f4a4a34_1280x815.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "a11ed6368ad2eded",
+      "title": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
+      "url": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge",
+      "published_at": "2026-07-03T00:33:00+00:00",
+      "author": "",
+      "summary_raw": "Two-thirds of enterprises have hedged their AI model strategy, and the past few weeks of controversy around Anthropic’s Claude Fable 5 model showed why that posture has gone mainstream. On June 12, a U.S. export-control order pulled Anthropic&#x27;s Claude Fable 5 — the most capable model on the market — offline for every customer, with no warning and no timeline. It returned this week wrapped in tighter safeguards , after China&#x27;s Z.ai released its open-weights GLM-5.2 into the vacuum . New VentureBeat Pulse Research, which surveyed 145 enterprises across these last few weeks, shows that two-thirds had already hedged their model strategy before the order came down: 51% blend closed frontier models with open-weight models deployed on their own infrastructure, and another 16% are moving core workflows off closed APIs entirely. The remaining third was all-in on closed ecosystems when the lights went out. The blackout put a spotlight on vendor dependency, by showing what happens when the model you rely on disappears. But vendor dependency is only the most visible piece of a deeper problem: Most enterprises lack the monitoring to know when an AI system they&#x27;ve put into production stops working correctly. Just 1 in 10 enterprises has automated monitoring that would catch an AI model drifting, misbehaving, or failing in production. Roughly a quarter would learn of a production failure only when end users — internal or external — report it, or lack the visibility to detect it at all. And 79% of enterprise organizations have already taken a real financial or operational hit from autonomous agents — most often shadow AI, unauthorized agentic work run by enterprises&#x27; own employees on corporate credit cards, outside anyone&#x27;s oversight. We call this the “Control Gap,” or the distance between how aggressively enterprises are deploying AI and how little of it they can see, own, or govern. June’s blackout turned this into a live stress test. About this data: Ven…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3a2sR1fmLQHZfmz2Vu7t5G/909bdb83e335d09d7e474257d6781d81/control-gap-lead-image.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "9802276af1dc7325",
+      "title": "Vercel's Andrew Qu on why agents are a new kind of software",
+      "url": "https://www.latent.space/p/vercel-agents-new-software",
+      "published_at": "2026-07-03T00:08:18+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "The Vercel Chief of Software explains how its agent framework, eve, was created &#8212; and why skills, sandboxes and agent-readable websites now matter.",
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/5d05f30e-e2cc-4895-b84a-d0cdd9835db8_1280x720.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "717269d2c7361db8",
+      "title": "The website of the future may assemble itself for every visitor",
+      "url": "https://www.latent.space/p/the-website-of-the-future",
+      "published_at": "2026-07-02T21:25:14+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "Adobe is experimenting with &#8220;agentic sites&#8221; that generate pages around an individual user&#8217;s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!KiR3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F888e1825-8152-418b-9a18-152de1328077_1280x720.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "510c86219eeb203c",
+      "title": "New Alibaba AI framework skips loading every tool, cutting agent token use 99%",
+      "url": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99",
+      "published_at": "2026-07-02T20:54:12+00:00",
+      "author": "bendee983@gmail.com (Ben Dickson)",
+      "summary_raw": "As enterprise AI systems scale to handle complex workflows, practitioners face the challenge of routing subtasks to the right tools and skills. Agents can have hundreds of tools and skills and get confused on which one to use for each step of a workflow. To address this challenge, researchers at Alibaba developed SkillWeaver , a framework that creates an execution graph for a given task and chooses the right skills for each of the nodes. They also introduce Skill-Aware Decomposition (SAD), a novel technique that uses a feedback loop to enable the agent to fetch and vet relevant tool candidates iteratively. This compositional approach and feedback loop mechanism distinguishes SkillWeaver from other tool-routing frameworks that choose tools in a one-shot fashion. SkillWeaver relates to real-world AI applications where agents autonomously orchestrate multi-tool ecosystems, such as the Model Context Protocol (MCP), to execute multi-step business operations like downloading datasets, transforming information, and creating visual reports. In practice, the researchers&#x27; experiments with SkillWeaver show that implementing this retrieve-and-route approach significantly increases accuracy while reducing token consumption by over 99% compared to naively exposing agents to an entire tool library. For practitioners building AI agents, the main takeaway is that the granularity of task decomposition is the biggest bottleneck to accurate tool retrieval. The challenge of skill routing Skills are a key pattern in modern LLM agent architectures. A skill is a modular, reusable tool specification that uses structured natural language documentation. As enterprise agents integrate with massive tool ecosystems, accurately routing user queries to the right skills becomes a difficult task. Exposing an entire library to an LLM to find the right tool is highly inefficient, quickly overwhelms context limits, and consumes hundreds of thousands of tokens. Most current tool-use frameworks atte…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5oP2rwb3fLrPFJUZ6RnoQR/772fb06df7c83640938eca78724ef511/LLM_skill_orchestration.jpg?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "447dedbe7ec6765f",
+      "title": "Skill engineering and the case against one-shot AI design",
+      "url": "https://www.latent.space/p/skill-engineering-design",
+      "published_at": "2026-07-02T14:36:05+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!JOvz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c23df3d-275c-48a8-a914-994c53dcd352_1280x720.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "2cf5ce715492cd17",
+      "title": "Fable is back",
+      "url": "https://www.bensbites.com/p/fable-is-back",
+      "published_at": "2026-07-02T13:04:04+00:00",
+      "author": "",
+      "summary_raw": "and there's a new sonnet",
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/3a5162c9-9497-4820-bf1d-0b3ae332bebb_3380x1940.png",
+      "source_id": "bens_bites",
+      "source_name": "Ben's Bites",
+      "category": "newsletter"
+    },
+    {
+      "id": "a8df330927ffb0d0",
+      "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
+      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+      "published_at": "2026-07-02T10:00:00+00:00",
+      "author": "michael.nunez@venturebeat.com (Michael Nuñez)",
+      "summary_raw": "Z.ai , the Beijing-based artificial intelligence lab formerly known as Zhipu AI, on Wednesday officially launched ZCode , a free desktop application it describes as an &quot;Agentic Development Environment&quot; purpose-built for its flagship GLM-5.2 large language model. The move marks the company&#x27;s most aggressive push yet into the fast-growing AI-powered coding tool market, where it now competes directly with Cursor , Claude Code , GitHub Copilot , and Google&#x27;s Antigravity . &quot;Introducing ZCode, the official development environment for GLM-5.2,&quot; the company wrote on X, noting the tool is available on macOS, Windows, and Linux, supports bring-your-own-key (BYOK) configurations for third-party models, and offers a 1.5x usage-quota bonus for subscribers to its GLM Coding Plan. Read one way, ZCode is simply another entrant in a crowded market. Read another, it is a single product that crystallizes three of the most consequential trends in enterprise software today: the race-to-the-bottom pricing of frontier AI models, the geopolitical balkanization of the AI stack, and the rapid maturation of agentic coding agents into what Gartner now estimates is a roughly $10 billion market . An AI coding tool designed to think in projects, not prompts Unlike traditional IDEs that bolt on AI through a chat sidebar or autocomplete extension, ZCode is best understood as an agent-first development environment. Its core design is built around long-horizon tasks: the user describes an outcome, the agent plans the work, edits files, runs checks, reviews progress, and continues across multiple iterations until the goal is met. ZCode organizes the development experience around the ZCode Agent , deeply tuned for GLM-5.2 , with emphasis on deep integration: the model, tools, and execution workflow are tuned together so the Agent fits continuous, multi-step real-world development tasks. The environment supports continuous follow-up across devices: desktop, mobile Remote, a…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/2XcqOZt08SkY2BArbdXXU8/4b8912a5d1247db567241b62e9635e8b/Nuneybits_Vector_art_of_red_code_waves_over_Beijing_skyline_and_ecae69a0-2b9d-4481-a6c0-311a70f0c622.webp?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "3c03bb4f51edf127",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
+      "published_at": "2026-07-02T07:10:14+00:00",
+      "author": "",
+      "summary_raw": "another quiet day.",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/4sX_He5c4sI",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "42928c4c7090815e",
+      "title": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
+      "published_at": "2026-07-02T06:13:49+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "The software factory vision met resistance today from speakers defending human understanding and control.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!yyfq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5879355c-6a34-432c-bd6a-a4ace5715f5e_1280x850.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "00207bf00ec326ed",
+      "title": "Autoresearch: The feedback loop behind self-improving agents",
+      "url": "https://www.latent.space/p/autoresearch-introspection",
+      "published_at": "2026-07-01T23:52:30+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "Introspection co-founder Roland Gavrilescu explains autoresearch, agent &#8220;recipes,&#8221; self-improving loops, and why humans remain central to the software factory.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!p4Th!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe316b2cb-4200-4a71-bdcc-c398467b53ef_1280x720.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "e88240856be14cf7",
+      "title": "The Winning Essays for the Big Questions About AI",
+      "url": "https://www.dwarkesh.com/p/blog-prize-winners",
+      "published_at": "2026-07-01T22:13:17+00:00",
+      "author": "Dwarkesh Patel",
+      "summary_raw": "Abolishing pandemics/ Getting out of the way of AI automation/ Learning from Honk Kong MTR's business model",
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/38961b9e-fc04-435d-a44b-7e72b0819d86_554x554.jpeg",
+      "source_id": "dwarkesh",
+      "source_name": "Dwarkesh Patel",
+      "category": "commentary"
+    },
+    {
+      "id": "e3c79a10e644252a",
+      "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem — and most are governing it by hand",
+      "url": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
+      "published_at": "2026-07-01T21:50:00+00:00",
+      "author": "",
+      "summary_raw": "AI portfolios are expanding far faster than the ability to govern them across enterprises. Most organizations run a contested field of platforms, each claiming to be the “primary” AI layer; few could confidently detect a model drifting or failing in production; and the single most-cited barrier to control is the absence of any one owner accountable for AI across the stack. The result is a widening control gap — ambition and spend racing ahead of visibility, ownership, and cost control — with autonomous agents already producing real financial and operational failures. This wave of VentureBeat Pulse Research examines the enterprise AI control gap: how many platforms claim to be the primary AI layer, who actually governs AI behavior across them, whether organizations could detect a model failing in production, what most blocks cross-platform governance, and how the financial and operational control failures of autonomous agents are already surfacing. The central finding is a control gap — the distance between how aggressively enterprises are expanding AI and how little of it they can see, own, or govern. Just under three-fifths (58%) are net-adding AI initiatives, with “expanding significantly” the largest single posture. Yet 85% run two or more platforms each claiming to be the “primary” AI layer and only 8% have consolidated to one. Against that contested surface, 40% say they are very confident they would detect a model drifting, behaving unsafely, or failing in production — but only 10% back that confidence with active monitoring and alerting, the rest leaning on manual human review. The machinery to expand AI is running well ahead of the machinery to control it. The gap is, above all, a question of ownership. Only a third (38%) say a central team governs AI today, and a fifth (20%) say each platform team governs its own independently; the single most-cited barrier to cross-platform governance is the absence of a single accountable owner (32%), and roughly one in s…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "dc82395fef0e7471",
+      "title": "How Cursor deploys AI inside the enterprise",
+      "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
+      "published_at": "2026-07-01T19:03:44+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "Cursor's Pauline Brunet explains how her team of Forward Deployed Engineers help organizations implement agents &#8212; essentially setting up software factories.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!e2BU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a8c541c-264c-476f-b47c-029cd970acf9_1280x720.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "5eabf841baeeba9f",
+      "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+      "published_at": "2026-07-01T15:51:00+00:00",
+      "author": "carl.franzen@venturebeat.com (Carl Franzen)",
+      "summary_raw": "Anthropic is restoring global access to its most powerful generally released AI model yet, Claude Fable 5, today, after the U.S. Department of Commerce last night withdrew the emergency export controls it had issued previously around the model. The U.S. export control order issued on June 12, 2026, led Anthropic to suspend all global access to both Fable 5 and its less restricted cybersecurity counterpart model Claude Mythos 5 , just days after both models were initially introduced. Now, Fable 5 is once again being made available for users globally across the primary Anthropic ecosystem, including the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. The official Claude account on X announced the return of the model at 3:31 pm ET on July 1, 2026. For organizations leveraging cloud hyperscalers, Anthropic says it is moving to re-enable access on Amazon Web Services, Google Cloud, and Microsoft Foundry “as quickly as possible.” So far, VentureBeat&#x27;s research has been unable to confirm if the models have been restored on these external cloud hyperscaler platforms yet. Mythos 5 remains a different case. A letter posted on the social network X allegedly from U.S. Commerce Secretary Howard Lutnick to Anthropic executive Tom Brown says a license is no longer required for the export, reexport, or in-country transfer of Fable and Mythos. But Anthropic’s own redeployment post on its website says only that Mythos 5 access has been restored for “a set of US organizations,” following government approval on June 26. The company says it is continuing to coordinate with the government to expand access to broader domestic and international partners in its opt-in cybersecurity testing program, Project Glasswing . That leaves Mythos 5 in a middle category: legally cleared from the emergency export-control order, but not generally available. The current limit appears to come from Anthropic’s decision to keep Mythos behind a vetted-access model, with the U.S. government s…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/qVrMQLioP4dj7Ghhm3e7u/49e7bb13cdfa856e09d95e52598568e1/ChatGPT_Image_Jul_1__2026__11_08_21_AM.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "129108d9b9935b3c",
+      "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
+      "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+      "published_at": "2026-07-01T14:42:39+00:00",
+      "author": "Brandon Anderson",
+      "summary_raw": "Why the Llama lead left Meta for drug discovery, PEARL's zero-shot OpenBind win, and what becomes possible when co-folding finally crosses the accuracy threshold.",
+      "hero_image": null,
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "82732006f351c404",
+      "title": "Warp CEO Zach Lloyd on why software factories are the next phase of coding",
+      "url": "https://www.latent.space/p/software-factories",
+      "published_at": "2026-07-01T14:28:23+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "Warp's founder thinks every major software project will soon run on an automated factory. He discusses why and how engineers should prepare for this shift.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!kQB7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4140e59-9bc8-4685-8af0-0cf86b6f998f_1280x720.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "b61f4b399305feb0",
+      "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "published_at": "2026-07-01T04:46:21+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!i4cw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee341b9f-8fd3-47e5-87db-9b3d0fc72de5_1280x720.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "4f709b30f47272a2",
+      "title": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
+      "url": "https://www.latent.space/p/ainews-sonnet-5-today-and-fable-5",
+      "published_at": "2026-07-01T03:01:09+00:00",
+      "author": "",
+      "summary_raw": "Everything is open again!",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!V4wu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHMF3K5vakAAfUEM.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "6d36ef1c7b1455fd",
+      "title": "Forward Deployed Engineers and the future of software engineering",
+      "url": "https://www.latent.space/p/forward-deployed-engineers-aiewf",
+      "published_at": "2026-07-01T00:20:18+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "Sierra's Natalie Meurer on why product engineers and forward deployed engineers are starting to converge.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!FQL_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf8be96e-5c79-4412-baaa-e987da5ef53a_1280x960.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "091e70026de7369b",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "published_at": "2026-07-01T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "3642e5912a9f2628",
+      "title": "Ahmad Osman on why local AI is catching up",
+      "url": "https://www.latent.space/p/ahmad-osman-local-ai",
+      "published_at": "2026-06-30T23:39:29+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "After two packed AIEWF workshops, Ahmad Osman makes the case that local AI is catching up fast &#8212; from laptops and phones to enterprise-grade infrastructure.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!9BC6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9842112b-570d-48b7-92f3-7cbb05681776_1280x720.jpeg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "bb91caccc768f290",
+      "title": "The twilight of the chatbots",
+      "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+      "published_at": "2026-06-30T22:18:12+00:00",
+      "author": "Ethan Mollick",
+      "summary_raw": "How work changes along the exponential",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!CQgP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8215c2ac-ba16-483d-a53d-2957f2add233_1376x864.png",
+      "source_id": "one_useful_thing",
+      "source_name": "One Useful Thing (Mollick)",
+      "category": "newsletter"
+    },
+    {
+      "id": "a710b1a3c19e614f",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "published_at": "2026-06-30T18:32:50+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "13daa444fdb1f1a2",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "published_at": "2026-06-30T16:02:40+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "deepmind_blog",
+      "source_name": "Google DeepMind Blog",
+      "category": "labs"
+    },
+    {
+      "id": "6ac58eb12e35475e",
+      "title": "Grant Sanderson – AI and the future of math",
+      "url": "https://www.dwarkesh.com/p/grant-sanderson-2",
+      "published_at": "2026-06-30T15:53:19+00:00",
+      "author": "Dwarkesh Patel",
+      "summary_raw": "Watch now (94 mins) | Math is where we&#8217;ll see superintelligence first. What will it look like?",
+      "hero_image": null,
+      "source_id": "dwarkesh",
+      "source_name": "Dwarkesh Patel",
+      "category": "commentary"
+    },
+    {
+      "id": "41ae3b4957282c03",
+      "title": "GPT-5.6 is here but...",
+      "url": "https://www.bensbites.com/p/gpt-56-is-here-but",
+      "published_at": "2026-06-30T15:02:46+00:00",
+      "author": "",
+      "summary_raw": "plus the insanity of inference",
+      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/cbc67bbb-9d83-40d2-be1c-c0bab7c9c88e_1200x630.jpeg",
+      "source_id": "bens_bites",
+      "source_name": "Ben's Bites",
+      "category": "newsletter"
+    },
+    {
+      "id": "c28a7f5c9dea75ef",
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "published_at": "2026-06-30T14:39:11+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "eb17b32201f039f7",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "published_at": "2026-06-30T09:00:00+00:00",
+      "author": "",
+      "summary_raw": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "d12990119bc34afd",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
+      "published_at": "2026-06-30T06:47:27+00:00",
+      "author": "",
+      "summary_raw": "a quiet day before the storm.",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/htM02KMNZnk",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "f22aa13823d0baf1",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "0d10f87b0e73423f",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "682cbce79095375d",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "397daa199a9d3faf",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "published_at": "2026-06-30T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "18f6a97a8cb45904",
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "published_at": "2026-06-29T18:02:48+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "dce2488f29d0b759",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "published_at": "2026-06-29T07:00:00+00:00",
+      "author": "",
+      "summary_raw": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "d6fd7cd5d02d39a3",
+      "title": "Redeploying Fable 5 Announcements Jun 30, 2026 Fable 5 returns globally July 1. We&#x27;re also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "44521975550bf2da",
+      "title": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "7af3d1fc738a918d",
+      "title": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "1ef2398ca866b096",
+      "title": "Product Jun 23, 2026 Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "f8d1643dd5c3a0d4",
+      "title": "Jul 2, 2026 Announcements More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "32b09270e60e8611",
+      "title": "Jun 17, 2026 Announcements Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "6c2b28749c67b3ce",
+      "title": "Jun 12, 2026 Announcements Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "2b4c3c34444ef777",
+      "title": "Jun 12, 2026 Announcements Results from the first Anthropic Public Record",
+      "url": "https://www.anthropic.com/news/anthropic-public-record",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "a134864d9fb1461f",
+      "title": "Jun 12, 2026 Announcements TCS and Anthropic partner to bring Claude to regulated industries",
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "5daf1aec316307d0",
+      "title": "Jun 11, 2026 Announcements DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "781e6aa4780c0046",
+      "title": "Responsible Scaling Policy",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    }
+  ]
+}
