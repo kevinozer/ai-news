@@ -3,212 +3,212 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "Plaud Note Pro: Elegantní AI diktafon v těle kreditní karty dostává velký upgrade",
+      "title_cs": "Druhý mozek schovaný v elegantní kreditce. Populární AI záznamník dostal upgrade, pořád ale není pro každého",
       "title_orig": "Druhý mozek schovaný v elegantní kreditce. Populární AI záznamník dostal upgrade, pořád ale není pro každého",
       "category": "tools",
       "summary_cs": [
-        "Nová verze populárního AI diktafonu Plaud Note Pro přichází s tenkým designem o velikosti kreditní karty.",
-        "Zařízení nabízí čtyři integrované mikrofony, delší výdrž baterie a přehledný vestavěný displej.",
-        "Uživatelé získají automatické přepisy schůzek a strukturované shrnutí, produkt má však stále vyšší pořizovací cenu."
+        "Nová verze hardwarového AI asistentu Plaud Note Pro přichází ve formátu elegantní kreditní karty.",
+        "Zařízení nabízí čtyři integrované mikrofony, displej a výrazně prodlouženou výdrž baterie.",
+        "Hlavním účelem je automatický přepis a analýza porad, produkt však stále cílí na specifickou skupinu uživatelů."
       ],
-      "why_matters": "Ukazuje praktické využití specializovaného AI hardwaru pro zvýšení produktivity v každodenním pracovním životě.",
+      "why_matters": "Ukazuje praktický posun v integraci AI do každodenního hardwaru pro zvýšení produktivity v kanceláři.",
       "url": "https://cc.cz/druhy-mozek-schovany-v-elegantni-kreditce-popularni-ai-zaznamnik-dostal-upgrade-porad-ale-neni-pro-kazdeho/",
       "source": "CzechCrunch"
     },
     {
       "rank": 2,
-      "title_cs": "Týdenní přehled: Budoucnost Mapy.com, restart datového květinářství a tradingová AI trénovaná pokerem",
-      "title_orig": "Co čeká Mapy.com, restart od dat ke květinářství a tradingová AI, co se učila z pokeru",
-      "category": "wildcard",
-      "summary_cs": [
-        "CzechCrunch přináší souhrn nejzajímavějších událostí uplynulého týdne z české technologické a byznysové scény.",
-        "Mezi hlavní témata patří strategický vývoj portálu Mapy.com a transformace datových projektů.",
-        "Zajímavostí je představení pokročilé umělé inteligence pro obchodování, která využívá herní principy z pokeru."
-      ],
-      "why_matters": "Nabízí klíčový přehled o inovacích a aplikaci AI v českém byznysovém prostředí.",
-      "url": "https://cc.cz/co-ceka-mapy-com-restart-od-dat-ke-kvetinarstvi-a-tradingova-ai-co-se-ucila-z-pokeru/",
-      "source": "CzechCrunch"
-    },
-    {
-      "rank": 3,
-      "title_cs": "Kolektivní inteligence poháněná AI jako test pro americké oslavy čtvrtstoletí",
+      "title_cs": "Jak se z oslav 250. narozenin Ameriky stal test kolektivní inteligence poháněné AI",
       "title_orig": "How America's 250th birthday became a test of AI-powered collective intelligence",
-      "category": "research",
+      "category": "news",
       "summary_cs": [
-        "Projekt testuje zapojení stovek lidí do komplexních diskusí s využitím AI pro moderování a syntézu názorů.",
-        "Cílem je dosáhnout konsensu, který přesně odráží společné hodnoty a moudrost celé skupiny.",
-        "Tato technologie by mohla zásadně změnit způsob, jakým komunity a organizace dělají důležitá rozhodnutí."
+        "Projekt simuluje debatu stovek lidí s cílem dosáhnout konsensu ohledně důležitých společenských otázek.",
+        "Využití pokročilé AI umožňuje moderovat a strukturovat rozsáhlé diskuse v reálném čase.",
+        "Tento experiment ukazuje budoucí možnosti zapojení občanů do rozhodovacích procesů pomocí technologií."
       ],
-      "why_matters": "Představuje budoucnost demokratické diskuse a rozhodování s podporou umělé inteligence.",
+      "why_matters": "Představuje nový způsob, jakým může AI pomáhat při řešení komplexních společenských a politických debat.",
       "url": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence",
       "source": "VentureBeat AI"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title_cs": "Nová reklama od Google ukazuje psaní Deklarace nezávislosti s pomocí AI",
       "title_orig": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "category": "news",
+      "category": "business",
       "summary_cs": [
-        "Google představil reklamní kampaň, která vizualizuje, jak by vypadalo sepisování historického dokumentu s moderními nástroji.",
-        "Kampaň se zaměřuje na integraci generativní AI přímo do prostředí Google Workspace.",
-        "Video vyvolává diskuse o hranicích lidské kreativity a roli technologií při tvorbě klíčových textů."
+        "Google představil reklamní kampaň, která si pohrává s myšlenkou využití Google Workspace otci zakladateli.",
+        "Spot vyvolává diskuse o hranicích mezi lidskou kreativitou a automatizovaným generováním textu.",
+        "Kampaň podtrhuje snahu technologických gigantů normalizovat přítomnost AI v každodenním životě."
       ],
-      "why_matters": "Ilustruje, jak velcí technologičtí hráči prezentují AI široké veřejnosti jako běžného pomocníka.",
+      "why_matters": "Ilustruje, jak se marketing velkých firem snaží integrovat AI do historického a kulturního kontextu.",
       "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 5,
-      "title_cs": "AIEWF: Napětí mezi automatickým výzkumem a lidskou kontrolou",
-      "title_orig": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
-      "category": "research",
-      "summary_cs": [
-        "Na konferenci AI Engineer World's Fair se střetly vize plně autonomních softwarových továren s obhájci lidského dohledu.",
-        "Diskuse se zaměřila na to, jak si udržet kontrolu nad systémy, které samy generují a testují kód.",
-        "Odborníci varují před přílišným spoléháním na automatizaci bez hlubokého porozumění ze strany vývojářů."
-      ],
-      "why_matters": "Řeší zásadní otázku, kolik autonomie bychom měli delegovat na softwarové agenty.",
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
-      "source": "Latent Space"
-    },
-    {
-      "rank": 6,
-      "title_cs": "AIEWF: Softwarové továrny, programové smyčky a nástup agentů",
-      "title_orig": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
-      "category": "open-source",
-      "summary_cs": [
-        "Účastníci veletrhu diskutovali o rychlém přechodu od jednoduchých promptů k autonomním inženýrským smyčkám.",
-        "Velkým tématem byl rozvoj open-source modelů, které umožňují lokální nasazení bez závislosti na cloudu.",
-        "Vzniká nová role inženýrů, kteří nasazují tyto komplexní systémy přímo v první linii u zákazníků."
-      ],
-      "why_matters": "Ukazuje praktické trendy v tom, jak se mění samotný vývoj softwaru pomocí AI.",
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
-      "source": "Latent Space"
-    },
-    {
-      "rank": 7,
-      "title_cs": "Generování mapy světa v pouhých 500 bajtech s pomocí AI",
-      "title_orig": "Building a World Map with only 500 bytes",
-      "category": "tools",
-      "summary_cs": [
-        "Vývojář s pomocí nástroje Codex vytvořil funkční ASCII mapu světa s extrémně malou datovou stopou.",
-        "Klíčem k úspěchu bylo využití komprese deflate a efektivního JavaScriptového kódu.",
-        "Projekt ukazuje, jak může AI pomoci optimalizovat kód na absolutní minimum."
-      ],
-      "why_matters": "Inspirativní ukázka synergie lidského programátora a AI při řešení extrémních optimalizačních úloh.",
-      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/",
-      "source": "Simon Willison's Weblog"
-    },
-    {
-      "rank": 8,
-      "title_cs": "Vydání sqlite-utils 4.0rc3 přináší pokročilou podporu cizích klíčů",
+      "rank": 4,
+      "title_cs": "Vydání sqlite-utils 4.0rc3 přináší další vylepšení",
       "title_orig": "sqlite-utils 4.0rc3",
       "category": "tools",
       "summary_cs": [
-        "Simon Willison vydal novou verzi své populární databázové knihovny sqlite-utils.",
-        "Na opravách chyb a tvorbě nových funkcí se významně podílely modely Claude Fable 5 a GPT-5.5.",
-        "Hlavní novinkou je vylepšená introspekce a vytváření složených cizích klíčů v databázi."
+        "Nová verze knihovny sqlite-utils byla vyvíjena s pomocí modelů Claude Fable 5 a GPT-5.5.",
+        "Hlavní novinkou je pokročilá podpora pro introspekci a vytváření složených cizích klíčů.",
+        "Autor se rozhodl vydat další kandidátskou verzi kvůli velkému množství zapracovaných změn."
       ],
-      "why_matters": "Demonstruje reálné nasazení nejnovějších LLM při vývoji a údržbě open-source softwaru.",
+      "why_matters": "Ukazuje reálné využití nejnovějších LLM při vývoji a údržbě populárních open-source nástrojů.",
       "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/",
       "source": "Simon Willison's Weblog"
     },
     {
+      "rank": 5,
+      "title_cs": "Tvorba mapy světa s velikostí pouhých 500 bajtů",
+      "title_orig": "Building a World Map with only 500 bytes",
+      "category": "wildcard",
+      "summary_cs": [
+        "Vývojář s pomocí nástroje Codex vytvořil věrohodnou ASCII mapu světa o velikosti 445 bajtů.",
+        "Klíčem k úspěchu bylo využití komprese deflate a specifického JavaScriptového kódu.",
+        "Projekt demonstruje kreativní možnosti optimalizace kódu za asistence umělé inteligence."
+      ],
+      "why_matters": "Inspirativní ukázka toho, jak extrémní optimalizace a AI mohou vést k nečekaně úsporným řešením.",
+      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Denní přehled z AIEWF: Autonomní výzkum a napětí mezi AI a lidskou kontrolou",
+      "title_orig": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
+      "category": "news",
+      "summary_cs": [
+        "Na konferenci AI Engineer World's Fair se střetly vize plně automatizovaných softwarových továren s obhájci lidského dohledu.",
+        "Přednášející zdůrazňovali důležitost zachování lidského porozumění a kontroly nad komplexními systémy.",
+        "Diskuse ukazuje rostoucí napětí mezi rychlou automatizací a bezpečným vývojem softwaru."
+      ],
+      "why_matters": "Otevírá zásadní otázku, kolik kontroly nad vývojem softwaru bychom měli přenechat autonomním agentům.",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Denní přehled z AIEWF: Smyčky, softwarové továrny a inženýři v první linii",
+      "title_orig": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
+      "category": "news",
+      "summary_cs": [
+        "Konference se zaměřila na koncepty agentických smyček a vznik plně automatizovaných vývojářských procesů.",
+        "Velkým tématem byla role inženýrů nasazovaných přímo k zákazníkům pro integraci AI řešení.",
+        "Účastníci také živě diskutovali o budoucnosti a možnostech otevřených AI modelů."
+      ],
+      "why_matters": "Definuje nové role a metodiky, které budou brzy standardem i v českých IT týmech.",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Co čeká Mapy.com, restart od dat ke květinářství a tradingová AI, co se učila z pokeru",
+      "title_orig": "Co čeká Mapy.com, restart od dat ke květinářství a tradingová AI, co se učila z pokeru",
+      "category": "news",
+      "summary_cs": [
+        "Týdenní přehled přináší pohled na budoucnost českých mapových služeb a nové technologické projekty.",
+        "Zajímavým tématem je využití principů z pokeru pro trénování umělé inteligence určené k obchodování.",
+        "Článek shrnuje nejdůležitější události na české technologické a byznysové scéně."
+      ],
+      "why_matters": "Nabízí lokální kontext a ukazuje, jak české projekty integrují pokročilé AI algoritmy.",
+      "url": "https://cc.cz/co-ceka-mapy-com-restart-od-dat-ke-kvetinarstvi-a-tradingova-ai-co-se-ucila-z-pokeru/",
+      "source": "CzechCrunch"
+    },
+    {
       "rank": 9,
-      "title_cs": "Fable je zpět a na scénu přichází nový model Sonnet",
+      "title_cs": "Návrat modelu Fable a představení nového modelu Sonnet",
       "title_orig": "Fable is back",
       "category": "labs",
       "summary_cs": [
-        "Zpravodaj Ben's Bites informuje o návratu očekávaného modelu Fable na globální trh.",
-        "Zároveň se objevují první zmínky a testy nového modelu z rodiny Sonnet.",
-        "Tento vývoj dále vyostřuje konkurenční boj mezi předními laboratořemi na poli LLM."
+        "Zpravodaj informuje o návratu očekávaného modelu Fable na trh po předchozích omezeních.",
+        "Zároveň byl představen nový model z rodiny Sonnet, který posouvá hranice efektivity.",
+        "Tento krok dále vyostřuje konkurenční boj mezi předními výzkumnými laboratořemi."
       ],
-      "why_matters": "Sleduje rychlý vývoj na špičce AI modelů, které přímo ovlivňují dostupné komerční nástroje.",
+      "why_matters": "Sledování dostupnosti špičkových modelů je klíčové pro plánování firemních AI strategií.",
       "url": "https://www.bensbites.com/p/fable-is-back",
       "source": "Ben's Bites"
     },
     {
       "rank": 10,
-      "title_cs": "Zpravodaj AINews hlásí klidnější období před další vlnou inovací",
+      "title_cs": "Zprávy z AI scény: Klidný den před bouří",
       "title_orig": "[AINews] not much happened today",
-      "category": "wildcard",
+      "category": "news",
       "summary_cs": [
-        "Komunitní zpravodaj Latent Space shrnuje uplynulé dny jako relativně klidné z hlediska zásadních oznámení.",
-        "Vývojáři se soustředí spíše na optimalizaci stávajících systémů než na vydávání nových modelů.",
-        "Tento klid často předchází velkým technologickým konferencím a produktovým oznámením."
+        "Přední AI newsletter shrnuje období relativního klidu na poli velkých oznámení.",
+        "Tento klid často předchází vydání významných aktualizací od klíčových technologických hráčů.",
+        "Komunita se mezitím soustředí na optimalizaci stávajících nástrojů a drobná vylepšení."
       ],
-      "why_matters": "Poskytuje realistický pohled na dynamiku AI trhu bez neustálého mediálního tlaku.",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
-      "source": "Latent Space"
-    },
-    {
-      "rank": 11,
-      "title_cs": "Ohlédnutí za dny před konferencí: Příprava na technologickou smršť",
-      "title_orig": "[AINews] not much happened today",
-      "category": "wildcard",
-      "summary_cs": [
-        "Zpravodaj z konce června mapuje atmosféru těsně před vypuknutím velkých letních AI akcí.",
-        "Hlavní pozornost komunity se upínala k přípravám na AI Engineer World's Fair.",
-        "Ukazuje se, jak se obor konsoliduje kolem několika klíčových témat jako jsou agenti a lokální modely."
-      ],
-      "why_matters": "Pomáhá pochopit širší kontext a přípravu klíčových událostí v AI komunitě.",
+      "why_matters": "Pomáhá čtenářům zorientovat se v cyklech vydávání nových AI technologií.",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
       "source": "Latent Space"
     },
     {
-      "rank": 12,
-      "title_cs": "Ztráta čichu jako varovný signál pro zdraví lidského mozku",
-      "title_orig": "When the ability to smell goes away",
-      "category": "wildcard",
+      "rank": 11,
+      "title_cs": "Zprávy z AI scény: Další klidný den bez velkých změn",
+      "title_orig": "[AINews] not much happened today",
+      "category": "news",
       "summary_cs": [
-        "Vědecké studie ukazují úzké propojení mezi poruchami čichového smyslu a neurodegenerativními změnami.",
-        "Ztráta schopnosti vnímat pachy může být jedním z prvních příznaků vážných onemocnění mozku.",
-        "Výzkum se zaměřuje na včasnou diagnostiku a možnosti prevence těchto stavů."
+        "Trh s umělou inteligencí zaznamenal další den bez přelomových událostí.",
+        "Vývojáři využívají tento čas k diskusím o integraci stávajících modelů do praxe.",
+        "Důraz je kladen na stabilitu a spolehlivost spíše než na neustálé představování novinek."
       ],
-      "why_matters": "Důležité vědecké poznatky z oblasti zdraví, které mohou pomoci včasné diagnostice vážných chorob.",
-      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
-      "source": "Ars Technica"
+      "why_matters": "Ukazuje, že i v dynamickém AI světě existují fáze stabilizace a konsolidace.",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
+      "source": "Latent Space"
     },
     {
-      "rank": 13,
-      "title_cs": "Záhada marťanské horniny: Vědci objevili neobvykle vysoké množství uhlíku",
+      "rank": 12,
+      "title_cs": "Na marťanském kameni bylo nalezeno velké množství uhlíku",
       "title_orig": "A martian rock has lots of carbon on it, and it's not clear why",
       "category": "wildcard",
       "summary_cs": [
-        "Analýza vzorků z Marsu odhalila přítomnost nečekaně vysoké koncentrace uhlíku v tamních horninách.",
-        "Jedním z možných vysvětlení je dávná biologická aktivita, vědci však zvažují i čistě geologické procesy.",
-        "K definitivnímu určení původu bude zapotřebí další podrobný výzkum a analýza dat."
+        "Vědci objevili na Marsu horninu s neobvykle vysokou koncentrací uhlíku.",
+        "Jedním z možných vysvětlení je dávná biologická aktivita, existují však i neživé alternativy.",
+        "K analýze dat z vesmírných misí se stále častěji využívají pokročilé algoritmy."
       ],
-      "why_matters": "Fascinující objev, který nás posouvá blíže k pochopení historie Marsu a možnosti mimozemského života.",
+      "why_matters": "Fascinující vědecký objev, který posouvá naše chápání vesmíru za přispění moderních technologií.",
       "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
       "source": "Ars Technica"
     },
     {
-      "rank": 14,
-      "title_cs": "Nárůst chemických nehod v USA po návrhu na zmírnění bezpečnostních pravidel",
-      "title_orig": "Chemical accidents rise as Trump administration proposes weakening safety rules",
-      "category": "news",
+      "rank": 13,
+      "title_cs": "Když se ztratí čich: Poruchy smyslů mohou souviset se zdravím mozku",
+      "title_orig": "When the ability to smell goes away",
+      "category": "wildcard",
       "summary_cs": [
-        "Počet chemických havárií se zraněními či úmrtími vzrostl v posledních letech o téměř 50 procent.",
-        "K nárůstu dochází v době, kdy se navrhuje oslabení federálních bezpečnostních standardů pro průmyslové podniky.",
-        "Kritici varují před dalším zhoršením situace, pokud dojde ke schválení mírnějších regulací."
+        "Ztráta nebo narušení čichu je často spojeno s neurologickými problémy a zdravím mozku.",
+        "Nové výzkumy se snaží tyto vazby lépe popsat a včas diagnostikovat rizika.",
+        "Moderní diagnostické metody začínají pro analýzu těchto symptomů využívat strojové učení."
       ],
-      "why_matters": "Ukazuje globální trendy v oblasti průmyslové bezpečnosti a dopady politických rozhodnutí na reálné životy.",
-      "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
+      "why_matters": "Upozorňuje na zdravotní aspekty, kde může analýza dat pomoci v prevenci vážných onemocnění.",
+      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Recenze: Supergirl není takový propadák, jak naznačují tržby",
+      "title_orig": "Review: Supergirl is not the disaster its low box office suggests",
+      "category": "wildcard",
+      "summary_cs": [
+        "Analýza filmu ukazuje, že nízké tržby nemusí vždy znamenat špatnou kvalitu díla.",
+        "Snímek doplatil na přesycenost trhu superhrdinskými filmy a vysoká očekávání.",
+        "Hodnocení obsahu a predikce úspěšnosti filmů dnes stále více spoléhají na datovou analýzu."
+      ],
+      "why_matters": "Zajímavý pohled na to, jak dynamika trhu a divácké chování ovlivňují úspěch kreativních děl.",
+      "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
       "source": "Ars Technica"
     },
     {
       "rank": 15,
-      "title_cs": "Kosmické bombardování roztavilo první zemskou kůru v období Hadea",
-      "title_orig": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
+      "title_cs": "Počet chemických nehod roste s návrhem na zmírnění bezpečnostních pravidel",
+      "title_orig": "Chemical accidents rise as Trump administration proposes weakening safety rules",
       "category": "news",
       "summary_cs": [
-        "Nové geologické modely naznačují, že extrémní teplo v nejstarším období Země pocházelo z masivních dopadů asteroidů.",
-        "Toto intenzivní bombardování opakovaně roztavilo rodící se zemskou kůru a vymazalo prvních 500 milionů let historie naší planety.",
-        "Výzkum pomáhá vysvětlit chybějící geologické záznamy z tohoto raného období."
+        "Statistiky ukazují nárůst nehod v chemickém průmyslu, které vedly ke zraněním či úmrtím.",
+        "Současně se objevují návrhy na zmírnění některých bezpečnostních regulací.",
+        "Tato situace vyvolává debaty o rovnováze mezi průmyslovým růstem a ochranou zdraví."
       ],
-      "why_matters": "Zásadní vědecký objev měnící náš pohled na vznik a raný vývoj planety Země.",
-      "url": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
+      "why_matters": "Důležité téma týkající se bezpečnosti práce a vlivu regulací na průmyslová rizika.",
+      "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
       "source": "Ars Technica"
     }
   ]
