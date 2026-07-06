@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-06",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Bohatí Američané nahrazují školy umělou inteligencí",
+      "title_orig": "Some of the nation’s rich are letting AI teach their kids",
+      "category": "news",
+      "summary_cs": [
+        "Zatímco většina veřejnosti k AI stále chová nedůvěru, nejbohatší vrstvy v USA začínají využívat personalizované AI tutory pro vzdělávání svých dětí.",
+        "Projekty jako Forge Prep nebo Alpha ukazují posun od tradičního školství k individuálním systémům vedeným algoritmy.",
+        "Tento trend může prohloubit propast ve vzdělávání mezi elitou a zbytkem společnosti."
+      ],
+      "why_matters": "Ukazuje budoucí trendy v personalizovaném vzdělávání, které mohou brzy ovlivnit i české soukromé školství.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Otec internetu odchází do důchodu a varuje před riziky spojenými s AI",
+      "title_orig": "Jeho jméno možná neznáte, ale změnil svět. Otec internetu teď odchází do důchodu a varuje před chybami AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Legendární programátor, který stál u zrodu moderní síťové infrastruktury, oficiálně uzavírá svou kariéru.",
+        "Ve svém poselství důrazně varuje před nekontrolovaným vývojem umělé inteligence bez jasných pravidel.",
+        "Podle jeho slov hrozí celému technologickému trhu chaos, pokud nebudou zavedeny přísné bezpečnostní standardy."
+      ],
+      "why_matters": "Varování od klíčové osobnosti historie technologií dává cenný kontext současným snahám o regulaci AI.",
+      "url": "https://cc.cz/jeho-jmeno-mozna-neznate-ale-zmenil-svet-otec-internetu-ted-odchazi-do-duchodu-a-varuje-pred-chybami-ai/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Amazon končí s přijímáním nových zákazníků pro Mechanical Turk",
+      "title_orig": "Amazon will stop accepting new customers for Mechanical Turk",
+      "category": "business",
+      "summary_cs": [
+        "Platforma Amazon Mechanical Turk, která dlouhé roky sloužila k mikro-outsourcingu lidské práce, přestává registrovat nové klienty.",
+        "Tato služba byla klíčová pro manuální anotaci dat a trénování raných modelů strojového učení.",
+        "Konec platformy symbolizuje přechod k plně automatizovaným metodám syntézy a hodnocení dat pomocí AI."
+      ],
+      "why_matters": "Značí konec jedné éry sběru dat, což ovlivní firmy vyvíjející vlastní AI modely.",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Kontroverzní reklama od Googlu ukazuje otce zakladatele píšící Deklaraci nezávislosti s Gemini",
+      "title_orig": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "category": "news",
+      "summary_cs": [
+        "Nová reklamní kampaň na Google Workspace a asistenta Gemini vyvolala silnou vlnu kritiky na sociálních sítích.",
+        "Spot vizualizuje historické osobnosti jako Benjamina Franklina, jak používají AI k draftování Deklarace nezávislosti.",
+        "Kritici poukazují na to, že reklama bagatelizuje lidskou kreativitu a historický význam klíčových dokumentů."
+      ],
+      "why_matters": "Ilustruje, jak tenká je hranice mezi kreativním marketingem a nevkusným prosazováním AI nástrojů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Hugging Face přináší zásadní aktualizace pro výpočetní jádra",
+      "title_orig": "🤗 Kernels: Major Updates",
+      "category": "labs",
+      "summary_cs": [
+        "Platforma Hugging Face představila významné aktualizace svých výpočetních jader pro optimalizaci běhu modelů.",
+        "Nové změny se zaměřují na zvýšení efektivity při zpracování náročných úloh přímo v prohlížeči a na serverech.",
+        "Vývojáři získávají lepší kontrolu nad alokací zdrojů a rychlostí odezvy u open-source modelů."
+      ],
+      "why_matters": "Zjednodušuje a zrychluje nasazování otevřených modelů do reálných aplikací pro české vývojáře.",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Jak se slavilo čtvrtstoletí USA s pomocí kolektivní inteligence poháněné AI",
+      "title_orig": "How America's 250th birthday became a test of AI-powered collective intelligence",
+      "category": "news",
+      "summary_cs": [
+        "Rozsáhlý experiment otestoval zapojení stovek lidí do komplexní debaty s využitím AI moderátorů.",
+        "Systém pomáhal strukturovat argumenty, hledat společný průsečík názorů a eliminovat toxickou komunikaci.",
+        "Výsledky ukazují, že AI může sloužit jako účinný nástroj pro posílení demokratické diskuse a konsensu."
+      ],
+      "why_matters": "Ukazuje praktický příklad využití AI pro moderování složitých společenských diskusí bez lidské předpojatosti.",
+      "url": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Vytvoření mapy světa v pouhých 500 bajtech s pomocí Codexu",
+      "title_orig": "Building a World Map with only 500 bytes",
+      "category": "tools",
+      "summary_cs": [
+        "Vývojář s asistencí modelu Codex dokázal vygenerovat rozpoznatelnou ASCII mapu světa s extrémně malým datovým objemem.",
+        "Klíčem k úspěchu bylo využití komprese deflate v kombinaci s chytrým javascriptovým kódem.",
+        "Projekt demonstruje sílu spolupráce člověka a AI při řešení extrémních optimalizačních výzev."
+      ],
+      "why_matters": "Inspirativní ukázka toho, jak může AI pomoci programátorům s extrémní optimalizací kódu.",
+      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Česká tradingová AI se učí z pokerových strategií",
+      "title_orig": "Co čeká Mapy.com, restart od dat ke květinářství a tradingová AI, co se učila z pokeru",
+      "category": "wildcard",
+      "summary_cs": [
+        "Týdenní přehled přináší pohled na inovativní český tradingový systém využívající herní teorii.",
+        "Algoritmus se učí rozhodovat v podmínkách neúplných informací na základě principů profesionálního pokeru.",
+        "Tento přístup umožňuje lepší řízení rizik na nestabilních finančních trzích."
+      ],
+      "why_matters": "Představuje úspěšné propojení teorie her a AI v českém finančním prostředí.",
+      "url": "https://cc.cz/co-ceka-mapy-com-restart-od-dat-ke-kvetinarstvi-a-tradingova-ai-co-se-ucila-z-pokeru/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Debata o autonomním výzkumu a napětí mezi AI a lidským rozhodováním",
+      "title_orig": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
+      "category": "news",
+      "summary_cs": [
+        "Na konferenci AI Engineer World's Fair se rozhořela diskuse o konceptu plně autonomních softwarových továren.",
+        "Mnoho řečníků se postavilo na obranu lidského dohledu a varovalo před ztrátou kontroly nad složitými systémy.",
+        "Ukazuje se, že integrace agentů naráží na psychologické i praktické bariéry u samotných vývojářů."
+      ],
+      "why_matters": "Pomáhá pochopit, kde leží hranice mezi plnou automatizací a nezbytným lidským dohledem.",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Nová verze sqlite-utils byla téměř celá napsána modelem Claude Fable",
+      "title_orig": "sqlite-utils 4.0rc2",
+      "category": "tools",
+      "summary_cs": [
+        "Byla vydána testovací verze populárního nástroje sqlite-utils s označením 4.0rc2.",
+        "Autor projektu Simon Willison potvrdil, že kód byl téměř kompletně vygenerován modelem Claude Fable.",
+        "Náklady na vývoj s využitím API dosáhly necelých 150 dolarů, což ukazuje vysokou efektivitu."
+      ],
+      "why_matters": "Dokazuje, že pokročilé modely dokážou samostatně udržovat a rozvíjet reálné open-source knihovny.",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Návrat modelu Fable a představení nového Sonnetu",
+      "title_orig": "Fable is back",
+      "category": "labs",
+      "summary_cs": [
+        "Po krátkém období omezení jsou pokročilé modely opět plně dostupné pro globální trh.",
+        "Uživatelé mohou znovu využívat schopností modelu Fable pro komplexní analytické úlohy.",
+        "Zároveň dochází k nasazení nové verze modelu Sonnet, který přináší lepší poměr ceny a výkonu."
+      ],
+      "why_matters": "Zajišťuje českým firmám stabilní přístup k nejlepším modelům na trhu bez výpadků.",
+      "url": "https://www.bensbites.com/p/fable-is-back",
+      "source": "Ben's Bites"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Trendy na AI Engineer World's Fair se točí kolem softwarových továren",
+      "title_orig": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
+      "category": "news",
+      "summary_cs": [
+        "Účastníci technologického veletrhu diskutovali o masivním nástupu agentických smyček v programování.",
+        "Hlavním tématem se stává koncept softwarových továren, které dokážou generovat kód s minimálním zásahem člověka.",
+        "Roste také význam otevřených modelů, které nabízejí flexibilitu pro lokální nasazení ve firmách."
+      ],
+      "why_matters": "Ukazuje, jakým směrem se ubírá moderní vývoj softwaru a jaké dovednosti budou programátoři potřebovat.",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Google čelí kritice za reklamu s Deklarací nezávislosti psanou pomocí AI",
+      "title_orig": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "category": "news",
+      "summary_cs": [
+        "Další zprávy potvrzují negativní ohlasy na novou kampaň Googlu k výročí založení USA.",
+        "Reklama se snaží prezentovat Gemini jako přirozeného pomocníka při tvorbě historických textů.",
+        "Veřejnost však reaguje podrážděně na představu, že by lidský intelekt měl být nahrazován algoritmy u takto významných milníků."
+      ],
+      "why_matters": "Představuje důležitou lekci pro marketingové týmy ohledně citlivosti témat spojených s generativní AI.",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Klid před bouří na poli AI novinek",
+      "title_orig": "[AINews] not much happened today",
+      "category": "news",
+      "summary_cs": [
+        "Analytici zaznamenali krátkodobé zpomalení v tempu vydávání nových přelomových modelů.",
+        "Tento klid je však považován za přípravu na další vlnu zásadních oznámení od největších laboratoří.",
+        "Firmy mezitím využívají čas k integraci stávajících technologií do svých interních procesů."
+      ],
+      "why_matters": "Upozorňuje na cyklický charakter vývoje v AI, kde po období klidu obvykle následuje smršť novinek.",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Další klidný den na scéně umělé inteligence",
+      "title_orig": "[AINews] not much happened today",
+      "category": "news",
+      "summary_cs": [
+        "Komunita kolem AI zaznamenala další den bez velkých produktových oznámení.",
+        "Pozornost se přesouvá k drobným vylepšením stávajících open-source knihoven a nástrojů.",
+        "Pro vývojáře je to ideální příležitost k refaktorizaci kódu a stabilizaci stávajících systémů."
+      ],
+      "why_matters": "Připomíná, že stabilita a optimalizace jsou pro reálné nasazení AI stejně důležité jako neustálé inovace.",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
+      "source": "Latent Space"
+    }
+  ]
+}
