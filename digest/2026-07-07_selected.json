@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-07",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Češi Mikolov a Beck výrazně zredukovali nároky jednoho z nejpoužívanějších AI modelů na světě",
+      "title_orig": "Češi Mikolov a Beck výrazně zredukovali nároky jednoho z nejpoužívanějších AI modelů na světě",
+      "category": "business",
+      "summary_cs": [
+        "Český startup BottleCap AI, za nímž stojí Tomáš Mikolov a Jaroslav Beck, představil první veřejné výsledky své práce.",
+        "Týmu se podařilo výrazně zefektivnit velký jazykový model a snížit jeho hardwarové nároky.",
+        "Právě optimalizace a snižování náročnosti AI modelů je hlavním cílem tohoto nadějného projektu."
+      ],
+      "why_matters": "Přední české osobnosti ukazují cestu k extrémně efektivnímu provozu velkých AI modelů.",
+      "url": "https://www.lupa.cz/aktuality/cesi-mikolov-a-beck-vyrazne-zredukovali-naroky-jednoho-z-nejpouzivanejsich-ai-modelu-na-svete/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Nová technologie od Anthropic odhaluje vnitřní strukturu modelu Claude připomínající lidské vědomí",
+      "title_orig": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost Anthropic zveřejnila rozsáhlý výzkum o vnitřním fungování svých jazykových modelů Claude.",
+        "Nástroj J-lens odhalil spontánně vytvořenou vnitřní strukturu, která zrcadlí přední vědecké teorie o lidském vědomí.",
+        "Tento objev může zásadně změnit náš pohled na to, jak LLM zpracovávají informace a vytvářejí souvislosti."
+      ],
+      "why_matters": "Průlomový objev ukazuje, že pokročilé modely si samy vytvářejí struktury podobné lidskému myšlení.",
+      "url": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Čínský Tencent vydal open-source model Hy3 o velikosti 295 miliard parametrů",
+      "title_orig": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size - and wins everywhere except coding",
+      "category": "open-source",
+      "summary_cs": [
+        "Tencent uvolnil pod licencí Apache 2.0 nový model Hy3 s architekturou Mixture of Experts.",
+        "Model má celkem 295 miliard parametrů, z nichž je v jeden okamžik aktivních 21 miliard.",
+        "V benchmarcích poráží konkurenční model GLM-5.2 ve všech oblastech s výjimkou psaní kódu."
+      ],
+      "why_matters": "Nový výkonný open-source model z Číny je dostupný pro komerční využití bez dřívějších licenčních omezení.",
+      "url": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Microsoft propouští téměř pět tisíc zaměstnanců kvůli restrukturalizaci a tlaku na AI",
+      "title_orig": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "category": "business",
+      "summary_cs": [
+        "Microsoft na začátku svého nového fiskálního roku propustil přibližně 4 800 lidí.",
+        "Škrty zasáhly především divizi Xbox a oddělení komerčního prodeje.",
+        "Rozhodnutí opět podněcuje obavy z nahrazování pracovních míst umělou inteligencí."
+      ],
+      "why_matters": "Další vlna propouštění u technologického giganta ukazuje tvrdou realitu transformace trhu práce.",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Hugging Face vydává robotickou platformu LeRobot verze 0.6.0",
+      "title_orig": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "category": "labs",
+      "summary_cs": [
+        "Komunitní platforma Hugging Face aktualizovala svou open-source knihovnu pro AI robotiku.",
+        "Nová verze se zaměřuje na pokročilé simulace, hodnocení modelů a optimalizaci fyzických úkonů.",
+        "Cílem projektu je demokratizovat vývoj AI pro reálné robotické systémy."
+      ],
+      "why_matters": "Otevřený software usnadňuje českým vývojářům a akademickým pracovištím vstup do světa moderní robotiky.",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "První kybernetický útok řízený AI vyžadoval zásadní asistenci člověka",
+      "title_orig": "The ‘first’ AI-run ransomware attack still needed a human",
+      "category": "news",
+      "summary_cs": [
+        "Analýza prvního medializovaného ransomware útoku vedeného AI agentem odhalila limity autonomie.",
+        "AI sice provedla technickou část útoku, ale klíčová rozhodnutí stále činil lidský operátor.",
+        "Člověk musel vybrat oběť, připravit infrastrukturu a dodat ukradené přihlašovací údaje."
+      ],
+      "why_matters": "Ukazuje se, že hrozba plně autonomního AI kyberzločinu je zatím mírnější, než tvrdily senzacechtivé titulky.",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Google potichu změnil pravidla a trénuje AI na vašich osobních datech",
+      "title_orig": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "category": "news",
+      "summary_cs": [
+        "Aktualizace zásad ochrany osobních údajů umožňuje společnosti Google ukládat více uživatelských dat.",
+        "Pro trénování AI modelů nyní Google může využívat vaše obrázky, soubory i audio nahrávky.",
+        "Uživatelé mají možnost se z tohoto sběru dat ručně odhlásit v nastavení účtu."
+      ],
+      "why_matters": "Důležité varování pro každého, kdo používá služby Google a chce chránit své soukromí.",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Jak z garážového experimentu vyrostl miliardový startup stavící AI mozek pro auta",
+      "title_orig": "Experiment z garáže vyrostl do miliardových rozměrů. Startup staví univerzální AI mozek pro každé auto",
+      "category": "wildcard",
+      "summary_cs": [
+        "Místo složitého programování pravidel se umělá inteligence učí řídit pouhým pozorováním lidí.",
+        "Tento přístup umožňuje vozidlu reagovat v provozu mnohem přirozeněji a plynuleji.",
+        "Projekt získal obří investice a směřuje k vytvoření univerzální platformy pro autonomní vozy."
+      ],
+      "why_matters": "Ukázka toho, jak hluboké učení mění budoucnost dopravy bez nutnosti psát miliony řádků kódu.",
+      "url": "https://cc.cz/experiment-z-garaze-vyrostl-do-miliardovych-rozmeru-startup-stavi-univerzalni-ai-mozek-pro-kazde-auto/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Předpověď cen elektřiny jako tvrdý test pro časové řady v AI",
+      "title_orig": "Evaluating Time Series Foundation Models for Electricity Price Forecasting: Contamination Risk, Distributional Shifts, and Covariate Dependence",
+      "category": "research",
+      "summary_cs": [
+        "Nová studie hodnotí schopnosti základních modelů pro časové řady při předpovídání cen elektřiny.",
+        "Trh s energiemi představuje extrémní výzvu kvůli nestacionárnímu chování a vlivu mnoha proměnných.",
+        "Výzkum odhaluje rizika kontaminace dat a limity modelů při přenosu do reálného prostředí."
+      ],
+      "why_matters": "Klíčové téma pro české energetiky a analytiky, kteří se snaží stabilizovat predikce cen.",
+      "url": "https://arxiv.org/abs/2607.02623",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Orchestrace kódovacích agentů pro otevřený výzkum a objevování",
+      "title_orig": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+      "category": "research",
+      "summary_cs": [
+        "Dlouho běžící kódovací agenti mají tendenci uvíznout u jednoho přístupu a ignorovat lepší řešení.",
+        "Projekt SwarmResearch představuje systém pro koordinaci více agentů najednou.",
+        "Tato metoda pomáhá udržet diverzitu nápadů při řešení komplexních programátorských úloh."
+      ],
+      "why_matters": "Nástroj posouvá možnosti automatického programování a řešení složitých softwarových problémů.",
+      "url": "https://arxiv.org/abs/2607.02807",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Bezpečné zarovnání modelů v reálném čase bez nutnosti přetrénování",
+      "title_orig": "Safe Inference-Time Alignment via Lagrangian Reward Augmentation",
+      "category": "research",
+      "summary_cs": [
+        "Tradiční metody ladění bezpečnosti vyžadují nákladné aktualizace vah celého modelu.",
+        "Nová metoda upravuje chování zmrazeného modelu přímo během generování textu.",
+        "Využití Lagrangeovy augmentace odměn umožňuje efektivně vynucovat bezpečnostní pravidla."
+      ],
+      "why_matters": "Vývojářům se otevírá cesta k levnějšímu a flexibilnějšímu zabezpečení AI aplikací.",
+      "url": "https://arxiv.org/abs/2607.02781",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Vercel bojuje za oddělení AI modelů od aplikačních agentů",
+      "title_orig": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "category": "business",
+      "summary_cs": [
+        "Šéf platformy Vercel zdůrazňuje nutnost oddělit samotné LLM od logiky koncových aplikací.",
+        "Při optimalizaci pro produkční nasazení je klíčový poměr mezi cenou a reálným výkonem.",
+        "Vývojáři by měli mít možnost snadno měnit modely na pozadí bez přepisování celé aplikace."
+      ],
+      "why_matters": "Důležitý architektonický pohled pro české firmy stavící komerční AI produkty.",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Apple v nové betě iOS umožňuje přizpůsobit rychlost a expresivitu Siri",
+      "title_orig": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "category": "tools",
+      "summary_cs": [
+        "Nejnovější beta verze systému iOS přináší hlubší nastavení pro hlasovou asistentku Siri.",
+        "Uživatelé mohou nově ovlivnit, jak rychle a s jakým emocionálním zabarvením Siri mluví.",
+        "Jde o součást širší strategie Applu integrovat generativní AI přímo do operačního systému."
+      ],
+      "why_matters": "Ukazuje, jak se hlasoví asistenti stávají přirozenějšími pro každodenní interakci.",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Pět kritických chyb při auditech platnosti AI benchmarků",
+      "title_orig": "Auditing the Audit: Five Failure Modes in Benchmark-Validity Audits",
+      "category": "research",
+      "summary_cs": [
+        "Regulační rámce vyžadují po poskytovatelích AI doložení testů a hodnocení modelů.",
+        "Nová studie upozorňuje, že samotné audity benchmarků jsou často křehké a nespolehlivé.",
+        "Výzkumníci definovali pět hlavních způsobů, jakými mohou tyto audity selhat."
+      ],
+      "why_matters": "Varování pro české auditory a firmy, které se spoléhají na standardní certifikace bezpečnosti AI.",
+      "url": "https://arxiv.org/abs/2607.02586",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Britský regulátor varuje před závody ve zbrojení při využívání AI ve financích",
+      "title_orig": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+      "category": "news",
+      "summary_cs": [
+        "Úřad pro finanční etiku varuje před riziky spojenými s rychlým nasazováním AI v bankovnictví.",
+        "Miliony lidí již využívají AI nástroje pro svá osobní finanční rozhodnutí.",
+        "Regulátor požaduje větší pravomoci, aby dokázal držet krok s technologickým vývojem."
+      ],
+      "why_matters": "Naznačuje směr, kterým se pravděpodobně vydají i evropské finanční regulace ovlivňující český trh.",
+      "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+      "source": "Ars Technica"
+    }
+  ]
+}
