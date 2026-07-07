@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T04:00:55.303267+00:00",
+  "generated_at": "2026-07-07T07:52:24.645209+00:00",
   "date": "2026-07-07",
-  "article_count_unique": 116,
-  "article_count_raw": 116,
+  "article_count_unique": 115,
+  "article_count_raw": 115,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -164,16 +164,28 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 1,
-      "raw_count": 3
+      "raw_count": 4
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "2ebf6269eb6c2fbb",
+      "title": "[AINews] The Field Guide to Fable",
+      "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
+      "published_at": "2026-07-07T04:44:53+00:00",
+      "author": "",
+      "summary_raw": "a quiet day lets us digest the world's most significant model launch... to date.",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/9fubhllmsBU",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
     {
       "id": "a4db7f44f97e9786",
       "title": "iFLYTEK-Embodied-Omni Technical Report",
@@ -1039,18 +1051,6 @@
       "category": "news"
     },
     {
-      "id": "26e83e5f48d4da7a",
-      "title": "Jeho jméno možná neznáte, ale změnil svět. Otec internetu teď odchází do důchodu a varuje před chybami AI",
-      "url": "https://cc.cz/jeho-jmeno-mozna-neznate-ale-zmenil-svet-otec-internetu-ted-odchazi-do-duchodu-a-varuje-pred-chybami-ai/",
-      "published_at": "2026-07-05T13:08:24+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Uzavírá se jedna z nejvlivnějších kariér v historii technologií. Legendární programátor vzkazuje, že bez přísných pravidel čeká celý trh s AI chaos. Článek Jeho jméno možná neznáte, ale změnil svět. Otec internetu teď odchází do důchodu a varuje před chybami AI se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/vinton-cerf-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "21022caf3de25d1a",
       "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
       "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
@@ -1421,18 +1421,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "d12990119bc34afd",
-      "title": "[AINews] not much happened today",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
-      "published_at": "2026-06-30T06:47:27+00:00",
-      "author": "",
-      "summary_raw": "a quiet day before the storm.",
-      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/htM02KMNZnk",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "d6fd7cd5d02d39a3",
