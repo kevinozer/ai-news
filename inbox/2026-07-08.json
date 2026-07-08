@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T04:00:58.503553+00:00",
+  "generated_at": "2026-07-08T06:38:27.692769+00:00",
   "date": "2026-07-08",
-  "article_count_unique": 136,
-  "article_count_raw": 136,
+  "article_count_unique": 135,
+  "article_count_raw": 135,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -103,14 +103,14 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 13,
-      "raw_count": 13
+      "count": 12,
+      "raw_count": 12
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 1,
-      "raw_count": 6
+      "count": 2,
+      "raw_count": 7
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "dfa5914d022186f3",
+      "title": "První operátor v ČR zavede ochranu proti AI podvodům. Poskytne ji jeden z největších talentů Česka",
+      "url": "https://www.lupa.cz/clanky/prvni-operator-v-cr-zavede-ochranu-proti-ai-podvodum-poskytne-ji-jeden-z-nejvetsich-talentu-ceska/",
+      "published_at": "2026-07-08T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Podvody deep fake už jsou tak dobré, že může naletět v podstatě každý. Ochranu proti nim vyvíjí český vědec na Stanfordu a nyní zamíří do první mobilní sítě u nás.",
+      "hero_image": "https://i.iinfo.cz/images/264/matyas-bohacek.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "70fec3ab461c2e51",
       "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
@@ -564,7 +576,7 @@
       "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "published_at": "2026-07-07T22:18:10+00:00",
       "author": "Lucas Ropek",
-      "summary_raw": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+      "summary_raw": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -1483,18 +1495,6 @@
       "category": "news"
     },
     {
-      "id": "ef084a92a579626b",
-      "title": "sqlite-utils 4.0rc3",
-      "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/",
-      "published_at": "2026-07-06T05:40:08+00:00",
-      "author": "",
-      "summary_raw": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept getting bigger . The biggest new feature is support for introspecting and creating compound foreign keys - a feature that involves a subtle breaking change to table.foreign_keys and hence needed to land for the 4.0 stable release. sqlite-utils also now follows SQLite's convention for case insensitive column names, which turned out to touch a bunch of different places at once . Tags: projects , sqlite , sqlite-utils , annotated-release-notes , gpt , claude-mythos-fable",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
       "id": "81241ea6038abdde",
       "title": "🤗 Kernels: Major Updates",
       "url": "https://huggingface.co/blog/revamped-kernels",
@@ -1658,18 +1658,6 @@
       "author": "Richard MacManus",
       "summary_raw": "Warp's founder thinks every major software project will soon run on an automated factory. He discusses why and how engineers should prepare for this shift.",
       "hero_image": "https://substackcdn.com/image/fetch/$s_!kQB7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4140e59-9bc8-4685-8af0-0cf86b6f998f_1280x720.jpeg",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "b61f4b399305feb0",
-      "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
-      "published_at": "2026-07-01T04:46:21+00:00",
-      "author": "Richard MacManus",
-      "summary_raw": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!i4cw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee341b9f-8fd3-47e5-87db-9b3d0fc72de5_1280x720.jpeg",
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
