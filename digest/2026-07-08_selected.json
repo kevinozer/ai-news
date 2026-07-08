@@ -3,213 +3,213 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "První operátor v ČR zavede ochranu proti AI podvodům od talentovaného českého vědce",
-      "title_orig": "První operátor v ČR zavede ochranu proti AI podvodům. Poskytne ji jeden z největších talentů Česka",
-      "category": "news",
+      "title_cs": "Anthropic přináší Claude Cowork na mobilní telefony a web",
+      "title_orig": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+      "category": "labs",
       "summary_cs": [
-        "Český vědec působící na Stanfordu vyvinul pokročilou ochranu proti deepfake podvodům.",
-        "Tato technologie nyní zamíří do sítě prvního tuzemského mobilního operátora.",
-        "Cílem je chránit běžné uživatele před stále dokonalejšími hlasovými a vizuálními podvody."
+        "Asistent Claude Cowork nově umožňuje pokračovat v rozdělané práci i po zavření notebooku přímo z mobilního telefonu.",
+        "Tento krok představuje výrazný posun k mobilnímu ovládání autonomních agentů, které uživatelé spouštějí na pozadí.",
+        "Data ukazují, že většina uživatelů nevyužívá tyto agenty pro programování, ale pro běžné kancelářské úkoly."
       ],
-      "why_matters": "Tuzemští uživatelé mobilních sítí získají jako první v ČR přímou ochranu před sofistikovanými AI podvody.",
-      "url": "https://www.lupa.cz/clanky/prvni-operator-v-cr-zavede-ochranu-proti-ai-podvodum-poskytne-ji-jeden-z-nejvetsich-talentu-ceska/",
-      "source": "Lupa.cz"
+      "why_matters": "Mobilní přístup k autonomním agentům zásadně mění způsob, jakým budeme organizovat každodenní práci na cestách.",
+      "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+      "source": "Wired AI"
     },
     {
       "rank": 2,
-      "title_cs": "Meta spouští generátor Muse Image a čelí odporu uživatelů kvůli využívání jejich fotek",
-      "title_orig": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images-Unless You Opt Out",
+      "title_cs": "Meta uvádí nový generátor obrázků Muse Image a čelí odporu uživatelů",
+      "title_orig": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "category": "news",
       "summary_cs": [
-        "Meta představila nový model Muse Image, který automaticky využívá veřejné fotografie z Instagramu k trénování a generování.",
-        "Uživatelé, kteří nechtějí, aby jejich snímky sloužily k tvorbě AI obrázků, se musí z programu aktivně odhlásit.",
-        "Nová funkce vyvolala vlnu nevole mezi tvůrci a běžnými uživateli kvůli obavám o soukromí a autorská práva."
+        "Společnost Meta představila svůj nejnovější model pro generování obrázků Muse Image, který vyvinula divize Superintelligence Labs.",
+        "Nástroj je integrován do aplikací Instagram, WhatsApp a brzy zamíří také na Facebook a Messenger.",
+        "Uživatelé okamžitě vyjádřili nesouhlas s tím, že model dokáže do generovaných snímků zakomponovat jiné uživatele bez jejich vědomí."
       ],
-      "why_matters": "Čeští uživatelé Instagramu musí aktivně zakročit, pokud nechtějí, aby jejich fotky trénovaly novou AI od Mety.",
-      "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-      "source": "Wired AI"
+      "why_matters": "Nový model vyvolává zásadní otázky ohledně ochrany soukromí a autorských práv na sociálních sítích.",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 3,
-      "title_cs": "Nejhodnotnější český startup Mews propouští kvůli umělé inteligenci i přes rekordní období",
-      "title_orig": "Prožívá rekordní období, i tak ale nejhodnotnější český startup kvůli umělé inteligenci ve velkém propouští",
-      "category": "news",
-      "summary_cs": [
-        "Český miliardový startup Mews se rozhodl pro preventivní restrukturalizaci a propouštění zaměstnanců.",
-        "Zakladatel Richard Valtr uvedl, že cílem je reagovat na nezvratné změny na trhu způsobené umělou inteligencí.",
-        "Krok ukazuje, že transformace zasahuje i ty nejúspěšnější technologické firmy v zemi."
-      ],
-      "why_matters": "Jasný důkaz, že AI transformace nutí k propouštění i nejúspěšnější české technologické lídry.",
-      "url": "https://cc.cz/proziva-rekordni-obdobi-i-tak-ale-nejhodnotnejsi-cesky-startup-kvuli-umele-inteligenci-propousti-200-lidi/",
-      "source": "CzechCrunch"
-    },
-    {
-      "rank": 4,
-      "title_cs": "Anthropic přináší platformu Claude Cowork na mobilní zařízení a web",
-      "title_orig": "Anthropic is launching Claude Cowork on mobile and web",
-      "category": "labs",
-      "summary_cs": [
-        "Platforma Claude Cowork rozšiřuje svou dostupnost z desktopové aplikace na mobilní telefony a webové rozhraní.",
-        "Uživatelé mohou plynule přecházet mezi zařízeními a nechat agenty pracovat i po zavření notebooku.",
-        "Aktualizace je nejprve dostupná pro předplatitele tarifu Max a v dalších týdnech se rozšíří na ostatní uživatele."
-      ],
-      "why_matters": "Zvyšuje flexibilitu práce s pokročilými agenty Anthropicu přímo z mobilního telefonu.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "source": "The Verge AI"
-    },
-    {
-      "rank": 5,
-      "title_cs": "Microsoft šetří na nákladech za AI a začíná se více spoléhat na vlastní modely",
-      "title_orig": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "category": "business",
-      "summary_cs": [
-        "Microsoft se připojuje k trendu snižování nákladů na provoz energeticky náročné umělé inteligence.",
-        "Společnost plánuje omezit závislost na drahých modelech třetích stran a více využívat vlastní efektivnější řešení.",
-        "Tento krok může ovlivnit jeho dosavadní úzké partnerství se společností OpenAI."
-      ],
-      "why_matters": "Změna strategie technologického giganta ukazuje rostoucí tlak na ekonomickou udržitelnost AI provozu.",
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 6,
-      "title_cs": "Savi vybralo 7 milionů dolarů na aplikaci chránící před realistickými AI podvody",
-      "title_orig": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "category": "tools",
-      "summary_cs": [
-        "Startup Savi získal seed investici ve výši 7 milionů dolarů na vývoj ochrany proti pokročilým podvodům.",
-        "Aplikace pro iOS a Android se zaměřuje na detekci falešných hlasových hovorů, například fingovaných únosů.",
-        "Technologie analyzuje příchozí zvuk v reálném čase a varuje uživatele před syntetickým hlasem."
-      ],
-      "why_matters": "Nové mobilní nástroje pomohou běžným lidem odhalit i ty nejvíce emočně manipulativní hlasové podvody.",
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 7,
-      "title_cs": "Hlavní futurista OpenAI Joshua Achiam odchází z firmy po devíti letech",
-      "title_orig": "OpenAI’s Chief Futurist Is Leaving the Company",
-      "category": "business",
-      "summary_cs": [
-        "Joshua Achiam, který v OpenAI působil téměř devět let a vedl výzkum bezpečnosti, oznámil svůj odchod.",
-        "Achiam patřil k klíčovým postavám a svědčil mimo jiné v ostře sledovaném soudním sporu Musk versus Altman.",
-        "Jeho odchod doplňuje sérii personálních změn v nejvyšším vedení tvůrce ChatGPT."
-      ],
-      "why_matters": "Další významný odchod z bezpečnostní divize OpenAI může naznačovat vnitřní názorové neshody.",
-      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-      "source": "Wired AI"
-    },
-    {
-      "rank": 8,
-      "title_cs": "Proč úspěch open-source modelů zatím neohrožuje pozici Anthropicu",
+      "title_cs": "Proč úspěch open-source modelů zatím neohrožuje laboratoře jako Anthropic",
       "title_orig": "Why the rise of open source AI isn’t hurting Anthropic … yet",
       "category": "business",
       "summary_cs": [
-        "Analýza ukazuje, že open-source modely a proprietární systémy se spíše doplňují v různých fázích vývoje.",
-        "Firmy často začínají s komerčními modely pro rychlé prototypování a teprve později přecházejí na open-source.",
-        "Anthropic si tak udržuje silnou pozici díky neustálému inovačnímu náskoku u nejvýkonnějších modelů."
+        "Rychlý rozvoj otevřených modelů neprobíhá na úkor předních komerčních laboratoří vyvíjejících proprietární systémy.",
+        "Otevřené a uzavřené modely se spíše doplňují v různých fázích životního cyklu vývoje firemních aplikací.",
+        "Laboratoře si udržují náskok díky neustálému posouvání hranic možností největších modelů."
       ],
-      "why_matters": "Pomáhá českým firmám pochopit, kdy zvolit komerční API a kdy přejít na vlastní otevřený model.",
+      "why_matters": "Ukazuje to, jak se dělí trh mezi bezplatnými modely a placenými prémiovými službami.",
       "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
       "source": "TechCrunch AI"
     },
     {
+      "rank": 4,
+      "title_cs": "Skutečné problémy s cenou, bezpečností a kulturou u firemních AI agentů",
+      "title_orig": "The real cost, security, and culture problems behind enterprise AI agents",
+      "category": "business",
+      "summary_cs": [
+        "Nasazení agentických systémů v podnicích často naráží na nečekané překážky při přechodu z pilotní fáze do ostrého provozu.",
+        "Mezi hlavní bariéry patří vysoké provozní náklady, bezpečnostní rizika a odpor zaměstnanců ke změnám procesů.",
+        "Úspěšné firmy se soustředí na robustní infrastrukturu a jasné vymezení pravomocí autonomních asistentů."
+      ],
+      "why_matters": "Pomáhá českým manažerům realisticky plánovat rozpočty a procesy při zavádění pokročilé umělé inteligence.",
+      "url": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Čínský startup DeepSeek plánuje vývoj vlastních čipů kvůli exportním omezením",
+      "title_orig": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "category": "business",
+      "summary_cs": [
+        "Přední čínský AI startup DeepSeek reaguje na americké sankce plány na návrh vlastního hardwaru.",
+        "Cílem je snížit kritickou závislost na grafických procesorech od společnosti Nvidia a domácího gigantu Huawei.",
+        "Projekt je v rané fázi, ale ukazuje rostoucí snahu Číny o technologickou soběstačnost v oblasti polovodičů."
+      ],
+      "why_matters": "Tento krok může výrazně překreslit globální mapu dodavatelů hardwaru pro trénování umělé inteligence.",
+      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Hlavní architekt OpenAI pro bezpečnost a budoucnost odchází z firmy",
+      "title_orig": "OpenAI’s Chief Futurist Is Leaving the Company",
+      "category": "news",
+      "summary_cs": [
+        "Joshua Achiam, který v OpenAI působil téměř devět let a vedl výzkum bezpečnosti, oznámil svůj odchod.",
+        "Achiam byl klíčovou postavou v interních debatách o bezpečném směřování k obecné umělé inteligenci.",
+        "Jeho odchod doplňuje sérii nedávných personálních změn v nejvyšším vedení tvůrců ChatGPT."
+      ],
+      "why_matters": "Personální oslabení bezpečnostních týmů v OpenAI může ovlivnit rychlost a bezpečnost budoucích modelů.",
+      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Vydání sqlite-utils 4.0 přináší migraci databázových schémat",
+      "title_orig": "sqlite-utils 4.0, now with database schema migrations",
+      "category": "tools",
+      "summary_cs": [
+        "Byla vydána nová majoritní verze populárního nástroje sqlite-utils pro práci s databázemi SQLite.",
+        "Verze 4.0 přináší vestavěnou podporu pro migrace schémat, vnořené transakce a další vylepšení.",
+        "Na ladění kódu a revizi této verze se významně podílel nejnovější model Claude Fable."
+      ],
+      "why_matters": "Zjednodušuje správu dat pro vývojáře, kteří staví lokální aplikace a prototypy s využitím AI.",
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Chyba v AI moderování na Discordu vedla k neoprávněným banům uživatelů",
+      "title_orig": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "category": "news",
+      "summary_cs": [
+        "Platforma Discord přiznala chybu ve svém automatickém systému pro moderování obsahu.",
+        "Kvůli softwarové chybě byly zablokovány stovky uživatelských účtů za sdílení zcela nezávadných obrázků.",
+        "Problém přetrvával od května a společnost nyní pracuje na obnovení všech neprávem postižených profilů."
+      ],
+      "why_matters": "Ukazuje rizika spojená s plnou automatizací správy komunit bez dostatečného lidského dohledu.",
+      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "source": "TechCrunch AI"
+    },
+    {
       "rank": 9,
-      "title_cs": "Chytré brýle Solos AirGo přicházejí v lehčí verzi bez kamer pro větší soukromí",
+      "title_cs": "Chytré brýle Solos AirGo A6 přicházejí v ultra lehké verzi bez kamer",
       "title_orig": "Solos debuts an even lighter version of its camera-less smart glasses",
       "category": "tools",
       "summary_cs": [
-        "Společnost Solos představila novou verzi chytrých brýlí AirGo, které váží pouhých 19 gramů.",
-        "Model zcela vynechává kamery a soustředí se na hlasovou interakci s integrovaným AI asistentem.",
-        "Tento design řeší obavy o soukromí okolí a zároveň výrazně zvyšuje komfort při celodenním nošení."
+        "Značka Solos představila novou generaci chytrých brýlí, které váží pouhých 19 gramů.",
+        "Nízké hmotnosti bylo dosaženo odstraněním kamer, což zároveň řeší časté obavy o narušení soukromí.",
+        "Brýle se spoléhají na hlasové rozhraní a integrovaného AI asistenta pro každodenní interakce."
       ],
-      "why_matters": "Ukazuje trend odklonu od kontroverzních kamerových brýlí směrem k čistě hlasovým asistentům.",
+      "why_matters": "Naznačuje trend k méně nápadné a nositelnější elektronice zaměřené čistě na hlasové AI asistenty.",
       "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
       "source": "The Verge AI"
     },
     {
       "rank": 10,
-      "title_cs": "Vydání sqlite-utils 4.0 přináší automatické migrace databázových schémat",
-      "title_orig": "sqlite-utils 4.0, now with database schema migrations",
-      "category": "tools",
-      "summary_cs": [
-        "Populární knihovna sqlite-utils od Simona Willisona se dočkala zásadní verze 4.0.",
-        "Hlavní novinkou je integrovaná podpora pro migrace schémat a vnořené transakce.",
-        "Na revizi kódu a implementaci zpětné vazby se významně podílel model Claude Fable."
-      ],
-      "why_matters": "Užitečný nástroj pro české vývojáře, kteří chtějí snadněji spravovat lokální databáze s pomocí AI.",
-      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/",
-      "source": "Simon Willison's Weblog"
-    },
-    {
-      "rank": 11,
-      "title_cs": "Harness Engineering: Lilian Weng shrnuje výzkum pro rekurzivní sebezdokonalování AI",
-      "title_orig": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
-      "category": "research",
-      "summary_cs": [
-        "Přehledová práce se zaměřuje na koncept rekurzivního sebezdokonalování systémů umělé inteligence.",
-        "Lilian Weng analyzovala 35 odborných článků zabývajících se architekturou testovacích a trénovacích prostředí.",
-        "Správné nastavení spouštěcího prostředí se ukazuje jako klíčové pro bezpečný vývoj autonomních agentů."
-      ],
-      "why_matters": "Klíčový teoretický základ pro vývojáře, kteří se snaží stavět bezpečné a autonomně se učící agenty.",
-      "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
-      "source": "Latent Space"
-    },
-    {
-      "rank": 12,
-      "title_cs": "Selhání plánování a používání nástrojů u velkých jazykových modelů",
-      "title_orig": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
-      "category": "research",
-      "summary_cs": [
-        "Nová studie analyzuje opakující se chyby LLM agentů, které běžné benchmarky často přehlížejí.",
-        "Výzkumníci se zaměřili na selhání při koordinaci více kroků, plánování a volání externích nástrojů.",
-        "Práce navrhuje nové metodiky pro robustnější hodnocení spolehlivosti agentických systémů."
-      ],
-      "why_matters": "Pomáhá pochopit limity současných AI agentů při nasazování do reálných firemních procesů.",
-      "url": "https://arxiv.org/abs/2607.05775",
-      "source": "ArXiv cs.AI"
-    },
-    {
-      "rank": 13,
-      "title_cs": "Aktivní navigace v paměti jako nový způsob personalizace konverzačních agentů",
+      "title_cs": "Aktivní navigace v paměti jako nový přístup k personalizaci agentů",
       "title_orig": "From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space",
       "category": "research",
       "summary_cs": [
-        "Představen byl rámec NapMem, který mění způsob, jakým AI agenti přistupují k dlouhodobé paměti.",
-        "Namísto pasivního vyhledávání se model učí aktivně navigovat ve strukturované paměti jako v akčním prostoru.",
-        "Tento přístup výrazně zlepšuje schopnost personalizace a kontextového porozumění při dlouhých dialozích."
+        "Představený rámec NapMem mění způsob, jakým konverzační agenti pracují s dlouhodobou pamětí uživatele.",
+        "Namísto pasivního vyhledávání se model učí aktivně procházet paměť jako strukturovaný akční prostor.",
+        "Tato metoda výrazně zlepšuje přesnost a relevanci odpovědí při dlouhodobých interakcích."
       ],
-      "why_matters": "Umožní tvorbu mnohem chytřejších virtuálních asistentů, kteří si pamatují detaily z minulých konverzací.",
+      "why_matters": "Tento výzkum otevírá cestu k mnohem chytřejším osobním asistentům, kteří si pamatují kontext.",
       "url": "https://arxiv.org/abs/2607.05794",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 14,
+      "rank": 11,
+      "title_cs": "Aplikace Savi chrání uživatele před realistickými AI podvody",
+      "title_orig": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Savi získal investici 7 milionů dolarů na vývoj ochrany proti pokročilým podvodům s hlasovými klony.",
+        "Nová aplikace pro iOS a Android dokáže v reálném čase detekovat syntetický hlas během telefonních hovorů.",
+        "Cílí zejména na obranu proti falešným telefonátům o únosech a žádostem o výkupné."
+      ],
+      "why_matters": "Poskytuje praktický nástroj pro obranu před stále dokonalejšími podvody zneužívajícími generování hlasu.",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
       "title_cs": "Britský vesmírný startup vyslal na oběžnou dráhu laboratoř pro výzkum dlouhověkosti",
       "title_orig": "British Space Startup Launches Longevity Lab Into Orbit",
       "category": "wildcard",
       "summary_cs": [
-        "Britský startup vypustil na oběžnou dráhu speciální mikrolaboratoř zaměřenou na stárnutí buněk.",
-        "Data z oběžné dráhy budou využita k trénování AI modelů předpovídajících chování proteinů spojených s Alzheimerovou chorobou.",
-        "Mikrogravitace umožňuje sledovat buněčné procesy způsobem, který na Zemi nelze replikovat."
+        "Na oběžnou dráhu byla vypuštěna unikátní mikrolaboratoř zaměřená na studium stárnutí buněk v mikrogravitaci.",
+        "Získaná data budou odesílána na Zemi k trénování AI modelů předpovídajících chování proteinů.",
+        "Výzkum by mohl urychlit vývoj léků proti Alzheimerově chorobě a některým typům rakoviny."
       ],
-      "why_matters": "Ukazuje fascinující spojení vesmírného výzkumu, medicíny a umělé inteligence v boji proti stárnutí.",
+      "why_matters": "Spojení kosmického výzkumu a AI přináší nové možnosti v medicíně a boji proti stárnutí.",
       "url": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
       "source": "Wired AI"
     },
     {
-      "rank": 15,
-      "title_cs": "Čínský DeepSeek plánuje vlastní výrobu čipů kvůli americkým exportním omezením",
-      "title_orig": "Facing US export controls, China's DeepSeek plans to make its own chips",
-      "category": "business",
+      "rank": 13,
+      "title_cs": "Učení řízení běhového prostředí pro agenty pomocí offline zpětnovazebného učení",
+      "title_orig": "Learning to Control LLM Agent Harnesses with Offline Reinforcement Learning",
+      "category": "research",
       "summary_cs": [
-        "Čínský AI gigant DeepSeek reaguje na zpřísňující se americké sankce plány na vlastní vývoj polovodičů.",
-        "Cílem je snížit kritickou závislost na grafických procesorech od společnosti Nvidia.",
-        "Tento krok může urychlit technologické rozdělení globálního trhu s hardwarem pro umělou inteligenci."
+        "Výzkumníci navrhují brát softwarové prostředí okolo AI modelů jako naučitelnou řídicí vrstvu.",
+        "Tradičně se toto prostředí mění ručně, nový přístup však využívá offline zpětnovazebné učení.",
+        "Tato metoda umožňuje automaticky optimalizovat chování celého agentického systému bez lidských zásahů."
       ],
-      "why_matters": "Geopolitické napětí přímo ovlivňuje dostupnost a cenu hardwaru, na kterém běží globální AI služby.",
-      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-      "source": "Ars Technica"
+      "why_matters": "Umožňuje vývojářům stavět efektivnější a stabilnější autonomní systémy s nižší chybovostí.",
+      "url": "https://arxiv.org/abs/2607.05458",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Sdílený stav v agentických procesech s ověřenými aktualizacemi",
+      "title_orig": "PatchOptic for Shared-State LLM Workflows with Projected Views and Verified Structured Updates",
+      "category": "research",
+      "summary_cs": [
+        "Představený systém PatchOptic řeší problémy s omezeným kontextovým oknem u složitých firemních procesů.",
+        "Umožňuje modelům bezpečně pracovat pouze s vybranými fragmenty sdíleného strukturovaného stavu.",
+        "Zajišťuje, že aktualizace dat provedené jednotlivými agenty jsou konzistentní a validní."
+      ],
+      "why_matters": "Řeší technický limit paměti modelů při nasazení v komplexních podnikových databázích.",
+      "url": "https://arxiv.org/abs/2607.05483",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Japonská bankovní skupina MUFG se stává AI-native s technologiemi OpenAI",
+      "title_orig": "MUFG aims to become AI-native with OpenAI",
+      "category": "labs",
+      "summary_cs": [
+        "Jedna z největších finančních skupin na světě MUFG oznámila hlubokou integraci ChatGPT Enterprise.",
+        "Cílem je transformovat banku na organizaci postavenou na umělé inteligenci a zefektivnit vnitřní procesy.",
+        "Nové nástroje pomohou zaměstnancům s analýzou trhu i s tvorbou personalizovaných finančních služeb."
+      ],
+      "why_matters": "Ukazuje, jak konzervativní finanční instituce přecházejí od experimentů k plné integraci generativní AI.",
+      "url": "https://openai.com/index/mufg",
+      "source": "OpenAI Blog"
     }
   ]
 }
