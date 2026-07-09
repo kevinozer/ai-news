@@ -7,209 +7,209 @@
       "title_orig": "Introducing GPT-Live",
       "category": "labs",
       "summary_cs": [
-        "OpenAI oficiálně spouští novou generaci hlasových modelů, které zásadně vylepšují hlasový režim v aplikaci ChatGPT.",
-        "Nový model dokáže mluvit a poslouchat zároveň, což umožňuje plynulé skákání do řeči a přirozené lidské interakce.",
-        "Složitější úkoly vyžadující hlubší uvažování nebo vyhledávání na webu dokáže systém automaticky delegovat na model GPT-5.5."
+        "OpenAI oficiálně spouští novou generaci hlasových modelů pod názvem GPT-Live, které přinášejí výrazně plynulejší a přirozenější interakci.",
+        "Asistent dokáže mluvit a zároveň naslouchat, což umožňuje uživatelům skákat do řeči bez nepříjemných prodlev.",
+        "Nová technologie je navržena tak, aby lépe zvládala pauzy v řeči a dokázala složitější úkoly delegovat na pokročilejší model GPT-5.5."
       ],
-      "why_matters": "Přináší revoluci v hlasové komunikaci s AI, která se stává nerozeznatelnou od hovoru se skutečným člověkem.",
+      "why_matters": "Tato aktualizace zásadně mění způsob, jakým budeme hlasově komunikovat s umělou inteligencí v každodenním životě.",
       "url": "https://openai.com/index/introducing-gpt-live",
       "source": "OpenAI Blog"
     },
     {
       "rank": 2,
-      "title_cs": "SpaceXAI vydává model Grok 4.5 po akvizici vývojového prostředí Cursor",
-      "title_orig": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
+      "title_cs": "SpaceXAI vydává Grok 4.5 jako levnější alternativu k nejvýkonnějším modelům",
+      "title_orig": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
       "category": "labs",
       "summary_cs": [
-        "Společnost SpaceXAI vydala nejnovější verzi svého modelu Grok 4.5, který Elon Musk označuje jako třídu Opus.",
-        "Jedná se o první velký model vydaný po nedávné akvizici populárního vývojářského nástroje Cursor.",
-        "Vydání potvrzuje extrémně rychlé tempo vývoje v laboratořích SpaceXAI, které chtějí konkurovat nejlepším modelům na trhu."
+        "Společnost SpaceXAI vydala nejnovější verzi svého modelu Grok 4.5, kterou Elon Musk označuje za model třídy Opus.",
+        "Novinka slibuje výrazně nižší provozní náklady a vyšší efektivitu ve srovnání s konkurenčními špičkovými modely.",
+        "Jedná se o první velký model vydaný po akvizici vývojářské platformy Cursor, což naznačuje silné zaměření na programování."
       ],
-      "why_matters": "Nový vysoce výkonný model mění poměr sil na trhu a přináší levnější alternativu k zavedeným gigantům.",
-      "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
-      "source": "Latent Space"
+      "why_matters": "Grok se stává vážným konkurentem pro GPT-4o a Claude Sonnet s agresivní cenovou politikou.",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 3,
-      "title_cs": "Jaroslav Beck zrychluje AI se svým novým startupem BottleCap AI",
-      "title_orig": "Má robota Jarmila, rozhoduje za něj digitální mozek Bob a jeho startup zrychluje AI. Nikdo nechce čekat, říká",
+      "title_cs": "Jaroslav Beck zrychluje AI se svým startupem BottleCap AI",
+      "title_orig": null,
       "category": "business",
       "summary_cs": [
-        "Spoluzakladatel známého startupu Beat Games Jaroslav Beck se nyní plně soustředí na novou technologickou firmu BottleCap AI.",
-        "Jeho tým se zaměřuje na kritické zrychlení odezvy umělé inteligence, což je klíčové pro její masové nasazení v praxi.",
-        "Beck v rozhovoru popisuje své vize o budoucnosti agentních systémů a zapojení digitálních pomocníků do každodenního života."
+        "Spoluzakladatel úspěšného studia Beat Games Jaroslav Beck představuje svůj nový startup BottleCap AI zaměřený na zrychlení běhu umělé inteligence.",
+        "V rozhovoru popisuje vizi digitálního mozku Boba a robotické asistentky Jarmily, kteří pomáhají s každodenním rozhodováním.",
+        "Hlavním cílem projektu je eliminovat čekání při interakci s AI, což je klíčové pro masové přijetí technologie."
       ],
-      "why_matters": "Úspěšný český globální tvůrce ukazuje, jak lze z Česka budovat infrastrukturu pro nejrychlejší AI na světě.",
+      "why_matters": "Významný český tvůrce ukazuje, jak lze z Česka budovat globální infrastrukturu pro novou éru AI.",
       "url": "https://cc.cz/ma-robota-jarmila-rozhoduje-za-nej-digitalni-mozek-bob-a-jeho-startup-zrychluje-ai-nikdo-nechce-cekat-rika/",
       "source": "CzechCrunch"
     },
     {
       "rank": 4,
-      "title_cs": "Prime Intellect získal investici 130 milionů dolarů na vývoj vlastních podnikových agentů",
+      "title_cs": "Prime Intellect získal 130 milionů dolarů na vývoj nezávislých podnikových agentů",
       "title_orig": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
       "category": "business",
       "summary_cs": [
-        "Startup Prime Intellect úspěšně uzavřel investiční kolo Series A ve výši 130 milionů dolarů.",
-        "Cílem firmy je umožnit velkým podnikům trénovat a provozovat vlastní komplexní agentní systémy.",
-        "Tento přístup dává organizacím nezávislost na uzavřených řešeních od velkých technologických laboratoří."
+        "Startup Prime Intellect uzavřel investiční kolo Series A ve výši 130 milionů dolarů s cílem umožnit firmám trénovat vlastní systémy.",
+        "Platforma se zaměřuje na decentralizovaný vývoj agentů bez nutnosti spoléhat se na uzavřené modely velkých technologických laboratoří.",
+        "Tato investice potvrzuje rostoucí trend, kdy podniky požadují plnou kontrolu nad svým duševním vlastnictvím a daty."
       ],
-      "why_matters": "Ukazuje rostoucí trend, kdy firmy chtějí vlastnit své AI modely namísto pouhého pronájmu od OpenAI či Anthropicu.",
+      "why_matters": "Ukazuje cestu pro evropské firmy, které chtějí nasadit agenty bez závislosti na amerických gigantech.",
       "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 5,
-      "title_cs": "OpenAI odhaluje nespolehlivost populárního programovacího benchmarku SWE-Bench Pro",
+      "title_cs": "OpenAI zpochybňuje spolehlivost populárního programovacího benchmarku SWE-Bench Pro",
       "title_orig": "Separating signal from noise in coding evaluations",
       "category": "labs",
       "summary_cs": [
-        "Nová analýza od výzkumníků z OpenAI odhalila vážné nedostatky v metodice hodnocení programovacích schopností AI.",
-        "Populární benchmark SWE-Bench Pro vykazuje vysokou míru šumu a nepřesností při testování reálných schopností modelů.",
-        "OpenAI navrhuje nová pravidla pro čistší a spolehlivější měření, která lépe odrazí skutečnou programátorskou praxi."
+        "Nová analýza od OpenAI odhalila vážné nedostatky v metodice hodnocení programovacích schopností modelů.",
+        "Populární benchmark SWE-Bench Pro podle výzkumníků obsahuje nepřesnosti, které zkreslují reálnou úspěšnost AI při řešení softwarových chyb.",
+        "OpenAI navrhuje přísnější standardy pro testování, aby se lépe oddělil skutečný pokrok od statistického šumu."
       ],
-      "why_matters": "Zpochybňuje dosavadní žebříčky programovacích modelů a nutí průmysl k vytvoření lepších standardů hodnocení.",
+      "why_matters": "Správné měření programovacích schopností je klíčové pro bezpečné nasazení autonomních vývojářů do praxe.",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "source": "OpenAI Blog"
     },
     {
       "rank": 6,
-      "title_cs": "Hugging Face představuje strategii Data for Agents pro vývoj autonomních pomocníků",
-      "title_orig": "Data for Agents",
-      "category": "labs",
-      "summary_cs": [
-        "Komunita Hugging Face vydala komplexní přehled a metodiku zaměřenou na sběr a úpravu dat pro trénování AI agentů.",
-        "Kvalitní data o chování a rozhodování v reálném čase jsou nyní hlavním úzkým hrdlem pro vývoj spolehlivých autonomních systémů.",
-        "Iniciativa poskytuje vývojářům otevřené nástroje a datasety pro efektivní ladění agentních architektur."
-      ],
-      "why_matters": "Otevírá cestu k vývoji pokročilých open-source agentů, kteří nebudou závislí na proprietárních datech korporací.",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "rank": 7,
-      "title_cs": "Francouzský startup ZML vydává bezplatný software pro zrychlení běhu AI na různých čipech",
+      "title_cs": "Francouzský startup ZML vydává bezplatný nástroj pro zrychlení inference na různých čipech",
       "title_orig": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
       "category": "open-source",
       "summary_cs": [
-        "Nadějný francouzský startup ZML, který podporuje i vědec Yann LeCun, uvolnil zdarma svůj nástroj ZML/LLMD.",
-        "Tento software umožňuje výrazně zrychlit a zlevnit spouštění AI modelů napříč různorodým hardwarem.",
-        "Vývojáři tak mohou snadněji kombinovat čipy od různých výrobců bez nutnosti složité optimalizace kódu."
+        "Nadějný francouzský startup ZML, který podporuje i laureát Turingovy ceny Yann LeCun, uvolnil open-source software ZML/LLMD.",
+        "Tento nástroj umožňuje efektivně distribuovat a zrychlit běh modelů napříč různými typy hardwaru a grafických čipů.",
+        "Vydání může výrazně snížit náklady na provoz vlastních AI modelů pro menší technologické firmy."
       ],
-      "why_matters": "Pomáhá řešit globální nedostatek grafických karet a výrazně snižuje náklady na provoz vlastních modelů.",
+      "why_matters": "Evropský open-source projekt pomáhá demokratizovat přístup k levnému provozu umělé inteligence.",
       "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
       "source": "TechCrunch AI"
     },
     {
+      "rank": 7,
+      "title_cs": "Hugging Face integruje nativní podporu pro vLLM backend",
+      "title_orig": "Native-speed vLLM transformers modeling backend",
+      "category": "open-source",
+      "summary_cs": [
+        "Platforma Hugging Face oznámila integraci vysoce efektivního knihovního systému vLLM přímo do svého ekosystému.",
+        "Vývojáři nyní mohou spouštět a testovat modely s nativní rychlostí bez složitého nastavování infrastruktury.",
+        "Tento krok výrazně zjednodušuje přechod od výzkumných prototypů k produkčnímu nasazení s vysokým výkonem."
+      ],
+      "why_matters": "Zjednodušuje a zrychluje práci českým vývojářům, kteří staví vlastní aplikace nad open-source modely.",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face Blog"
+    },
+    {
       "rank": 8,
-      "title_cs": "Harness Effect ukazuje, jak architektura orchestrace určuje ekonomiku tokenů v podnicích",
+      "title_cs": "CTO společnosti Modal vysvětluje, proč se musí infrastruktura změnit pro potřeby AI agentů",
+      "title_orig": "Why AI Infrastructure must evolve for Agent Experience - Akshat Bubna, Modal CTO",
+      "category": "tools",
+      "summary_cs": [
+        "Akshat Bubna, technický ředitel platformy Modal, sdílí zkušenosti s budováním cloudové infrastruktury pro novou generaci aplikací.",
+        "Tradiční servery nejsou optimalizované pro agenty, kteří vyžadují extrémně rychlé spuštění kódu a dynamické škálování.",
+        "Úspěch moderních asistentů závisí na tom, jak rychle dokáže infrastruktura reagovat na jejich požadavky v reálném čase."
+      ],
+      "why_matters": "Vysvětluje technologické pozadí nutné pro spolehlivé fungování autonomních agentů v podnikovém prostředí.",
+      "url": "https://www.latent.space/p/modal2026",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Výzkum varuje před skrytými náklady na tokeny u podnikových agentů",
       "title_orig": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
       "category": "research",
       "summary_cs": [
-        "Vědecká práce analyzuje skryté náklady spojené s provozem komplexních multi-agentních systémů v podnicích.",
-        "Ukazuje, že nevhodný návrh orchestrace vede k extrémnímu plýtvání tokeny na dlouhé myšlenkové řetězce a opakované kontexty.",
-        "Autoři navrhují optimalizační schémata, která dokáží udržet náklady pod kontrolou i při rostoucí složitosti úkolů."
+        "Nová vědecká práce analyzuje ekonomiku provozu agentů a varuje před takzvaným efektem tokenového maxima.",
+        "Složitější orchestrace, delší myšlenkové řetězce a opakované dotazy způsobují, že spotřeba tokenů roste rychleji než přidaná hodnota.",
+        "Pokles cen za jednotlivé tokeny u poskytovatelů API pouze maskuje celkově rostoucí náklady na komplexní úkoly."
       ],
-      "why_matters": "Pomáhá českým firmám realisticky spočítat a optimalizovat návratnost investic při nasazování AI agentů.",
+      "why_matters": "Pomáhá českým firmám správně spočítat reálnou návratnost investic při nasazování AI agentů.",
       "url": "https://arxiv.org/abs/2607.06906",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 9,
-      "title_cs": "Jak se z granularních akcí stávají standardní operační postupy pro samo-vývojové agenty",
-      "title_orig": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
+      "rank": 10,
+      "title_cs": "Jak správně vyhodnocovat chování programovacích agentů v reálném provozu",
+      "title_orig": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
       "category": "research",
       "summary_cs": [
-        "Výzkum představuje metodu, jak se AI agenti mohou sami učit efektivněji využívat dostupné nástroje.",
-        "Namísto neustálého volání základních atomických příkazů si agenti dokáží sami vytvářet komplexní pracovní postupy.",
-        "Tento iterativní proces výrazně zvyšuje úspěšnost při řešení složitých úkolů v reálném prostředí."
+        "Představený benchmark AgentLens se zaměřuje na hodnocení celého průběhu práce vývojářských agentů, nikoli jen na finální výsledek.",
+        "Běžné testy hodnotí pouze úspěch či selhání, ale uživatelé v praxi vnímají celou trajektorii a efektivitu postupu.",
+        "Tento přístup umožňuje lépe odhalit neefektivní smyčky a zlepšit uživatelský zážitek při spolupráci s AI."
       ],
-      "why_matters": "Představuje klíčový krok k plně autonomním systémům, které se dokáží samy adaptovat na nové úkoly.",
-      "url": "https://arxiv.org/abs/2607.07321",
+      "why_matters": "Umožňuje objektivně posoudit, zda je vývojářský agent skutečným přínosem, nebo jen generuje zmatek.",
+      "url": "https://arxiv.org/abs/2607.06624",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 10,
-      "title_cs": "Profesor z elitní univerzity nařídil osobní zkoušky kvůli podezření z podvádění s AI, výsledky klesly o polovinu",
+      "rank": 11,
+      "title_cs": "Samočinné zlepšování AI již není výsadou pouze největších laboratoří",
+      "title_orig": "I Built a Self-Improving AI, and So Can You",
+      "category": "wildcard",
+      "summary_cs": [
+        "Praktické experimenty ukazují, že systémy schopné samostatného vylepšování lze postavit i v běžných podmínkách.",
+        "Pomocí vhodně navržených zpětnovazebních smyček může model sám odhalovat své chyby a upravovat své instrukce.",
+        "Tento přístup otevírá dveře pro vysoce specializované lokální systémy, které se učí přímo z každodenního provozu."
+      ],
+      "why_matters": "Inspirativní ukázka toho, že pokročilé techniky optimalizace jsou dostupné i pro menší české projekty.",
+      "url": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Profesor z elitní univerzity nařídil prezenční zkoušku kvůli podezření z podvádění s AI a výsledky propadly o polovinu",
       "title_orig": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
       "category": "news",
       "summary_cs": [
-        "Profesor z prestižní Ivy League univerzity nechal studenty napsat závěrečný test osobně v učebně bez přístupu k internetu.",
-        "Rozhodnutí přišlo po podezření, že studenti při předchozích domácích úkolech masivně využívali pomoc umělé inteligence.",
-        "Průměrné hodnocení studentů u této prezenční zkoušky propadlo o padesát procent oproti minulým letům."
+        "Profesor z Ivy League kvůli podezření na masivní využívání ChatGPT změnil formu závěrečného testu na tradiční psaní na papír.",
+        "Průměrné hodnocení studentů po tomto kroku kleslo o padesát procent, což vyvolalo bouřlivou debatu o kvalitě výuky.",
+        "Událost ukazuje na hluboký rozpor mezi schopností studentů používat nástroje a jejich skutečným porozuměním látce."
       ],
-      "why_matters": "Ukazuje reálný dopad nekontrolovaného využívání AI ve školství na skutečné znalosti studentů.",
+      "why_matters": "Tento případ ilustruje naléhavou potřebu transformace českého školství v éře snadno dostupné AI.",
       "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
       "source": "Ars Technica"
     },
     {
-      "rank": 11,
-      "title_cs": "AI shrnutí na Tripadvisoru mohou zamlčet špínu, žaloby i zdravotní rizika hotelů",
+      "rank": 13,
+      "title_cs": "AI shrnutí na Tripadvisoru mohou zamlčet stížnosti a zničit dovolenou, varují vědci",
       "title_orig": "AI může zničit dovolenou. Rychlé shrnutí populárního portálu zamlčuje špínu, žaloby i zdravotní rizika",
       "category": "news",
       "summary_cs": [
-        "Analýza ukázala, že automatické AI přehledy recenzí na Tripadvisoru často ignorují závažné stížnosti uživatelů.",
-        "Systém ve snaze o stručnost vynechává zmínky o probíhajících žalobách, hygienických problémech či zdravotních rizicích.",
-        "Spoléhání se na tato rychlá shrnutí tak může uživatelům snadno zkazit plánovanou dovolenou."
+        "Analýza ukázala, že automatické přehledy recenzí na Tripadvisoru často přehlížejí závažné negativní zkušenosti hostů.",
+        "Algoritmy mají tendenci vyhlazovat extrémní názory a mohou zcela vynechat varování před hygienickými či právními problémy.",
+        "Uživatelé by se proto neměli spoléhat pouze na rychlá shrnutí, ale měli by stále kontrolovat původní texty recenzí."
       ],
-      "why_matters": "Varuje před slepou důvěrou v automatické přehledy, které mohou zkreslovat realitu v zájmu pozitivity.",
+      "why_matters": "Varuje české spotřebitele před slepou důvěrou v automaticky generované souhrny při plánování cest.",
       "url": "https://cc.cz/ai-muze-znicit-dovolenou-rychle-shrnuti-popularniho-portalu-zamlcuje-spinu-zaloby-i-zdravotni-rizika/",
       "source": "CzechCrunch"
     },
     {
-      "rank": 12,
-      "title_cs": "Metoda TriRoute sjednocuje směrování pro efektivní pozornost, experty a správu KV-Cache",
-      "title_orig": "TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation",
-      "category": "research",
-      "summary_cs": [
-        "Představený framework TriRoute poprvé kombinuje tři dosud oddělené optimalizační techniky pro běh velkých modelů.",
-        "Systém inteligentně řídí alokaci výpočetních zdrojů, dynamicky přeskakuje vrstvy a optimalizuje paměť pro klíče a hodnoty.",
-        "Tento přístup dramaticky snižuje hardwarové nároky na provoz pokročilých modelů při zachování jejich přesnosti."
-      ],
-      "why_matters": "Umožňuje provozovat mnohem větší a chytřejší modely na běžně dostupném hardwaru.",
-      "url": "https://arxiv.org/abs/2607.06601",
-      "source": "ArXiv cs.LG"
-    },
-    {
-      "rank": 13,
-      "title_cs": "Hackerům stačí devět nejpopulárnějších AI nástrojů k sestavení obřích botnetů",
+      "rank": 14,
+      "title_cs": "Hackerům stačí devět populárních AI nástrojů k vytvoření obřích botnetů",
       "title_orig": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
       "category": "news",
       "summary_cs": [
-        "Bezpečnostní experti demonstrovali novou metodu útoku nazvanou HalluSquatting, která zneužívá halucinace velkých modelů.",
-        "Útočníci mohou registrovat neexistující softwarové balíčky, které AI modely často chybně doporučují vývojářům.",
-        "Tímto způsobem lze snadno infikovat tisíce vývojářských prostředí a vybudovat masivní síť kompromitovaných zařízení."
+        "Bezpečnostní experti demonstrovali novou metodu útoku nazvanou HalluSquatting, která zneužívá halucinace jazykových modelů.",
+        "Útočníci registrují neexistující softwarové balíčky, které AI modely často chybně doporučují vývojářům v kódu.",
+        "Tímto způsobem lze snadno infikovat tisíce počítačů a vytvořit z nich sítě pro koordinované kybernetické útoky."
       ],
-      "why_matters": "Upozorňuje na nové bezpečnostní riziko při bezmyšlenkovitém přebírání kódu vygenerovaného umělou inteligencí.",
+      "why_matters": "Upozorňuje české vývojáře na nové bezpečnostní riziko při bezmyšlenkovitém přebírání kódu vygenerovaného AI.",
       "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
       "source": "Ars Technica"
     },
     {
-      "rank": 14,
-      "title_cs": "Měření inteligence systémů, které překonávají lidské schopnosti",
-      "title_orig": "Measuring Intelligence Beyond Human Scale",
-      "category": "research",
-      "summary_cs": [
-        "S tím, jak AI modely překonávají lidské experty, narážíme na problém, jak jejich schopnosti vůbec objektivně měřit.",
-        "Tradiční testy vytvořené lidmi rychle zastarávají a lidé již nedokáží spolehlivě ověřit správnost extrémně složitých úkolů.",
-        "Práce navrhuje nový systém relativního hodnocení a verifikace, který se nespoléhá na absolutní lidské měřítko."
-      ],
-      "why_matters": "Definuje, jak budeme v budoucnu hodnotit a kontrolovat systémy nadlidské inteligence.",
-      "url": "https://arxiv.org/abs/2607.07040",
-      "source": "ArXiv cs.AI"
-    },
-    {
       "rank": 15,
-      "title_cs": "Startup General Intuition věří, že videoherní data jsou klíčem k ChatGPT momentu v robotice",
-      "title_orig": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "title_cs": "Zakázat AI generování popisků u změn kódu, velí Kenton Varda ze Cloudflare",
+      "title_orig": "Quoting Kenton Varda",
       "category": "wildcard",
       "summary_cs": [
-        "Startup General Intuition, podporovaný Jeffem Bezosem, trénuje fyzickou AI na miliardách hodin záznamů z videoher.",
-        "Textové modely podle zakladatelů postrádají hluboké pochopení fyzikálních zákonů, prostoru a času v reálném světě.",
-        "Simulovaná herní prostředí nabízí bezpečný a nekonečný zdroj dat pro výuku robotů před jejich nasazením do reality."
+        "Známý softwarový inženýr Kenton Varda zakázal svému týmu používat AI pro automatické generování popisů u verzování kódu.",
+        "Automatické texty podle něj pouze mechanicky popisují zjevné změny, ale zcela opomíjejí širší kontext a důvody úprav.",
+        "Tento přístup sice šetří čas autorovi, ale výrazně komplikuje práci kolegům, kteří musí kód následně revidovat."
       ],
-      "why_matters": "Ukazuje netradiční cestu k vývoji skutečně užitečných domácích a průmyslových robotů.",
-      "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-      "source": "TechCrunch AI"
+      "why_matters": "Ukazuje, že bezhlavá automatizace rutinních úkolů může v týmu paradoxně zvýšit celkové množství práce.",
+      "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/",
+      "source": "Simon Willison's Weblog"
     }
   ]
 }
