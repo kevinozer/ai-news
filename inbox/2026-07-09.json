@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09T04:00:58.904347+00:00",
+  "generated_at": "2026-07-09T07:52:38.178213+00:00",
   "date": "2026-07-09",
-  "article_count_unique": 146,
-  "article_count_raw": 146,
+  "article_count_unique": 144,
+  "article_count_raw": 144,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -103,14 +103,14 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "marcus_on_ai",
@@ -174,6 +174,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "aa6e84d058720c23",
+      "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
+      "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
+      "published_at": "2026-07-09T06:05:41+00:00",
+      "author": "",
+      "summary_raw": "SpaceXAI continues to move faster than any other frontier lab on earth.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!8D6O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHMuQw2BXUAAJaQd.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "1bc82e71527828e8",
+      "title": "Má robota Jarmila, rozhoduje za něj digitální mozek Bob a jeho startup zrychluje AI. Nikdo nechce čekat, říká",
+      "url": "https://cc.cz/ma-robota-jarmila-rozhoduje-za-nej-digitalni-mozek-bob-a-jeho-startup-zrychluje-ai-nikdo-nechce-cekat-rika/",
+      "published_at": "2026-07-09T04:04:53+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Spoluzakladatel startupu BottleCap AI Jaroslav Beck popisuje, jak přemýšlí o budoucnosti i jak se jeho týmu daří zrychlovat umělou inteligenci. Článek Má robota Jarmila, rozhoduje za něj digitální mozek Bob a jeho startup zrychluje AI. Nikdo nechce čekat, říká se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/bob-jarda-jarmil-mvp-x-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "924f4dc36ec107ba",
       "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
@@ -1375,18 +1399,6 @@
       "category": "news"
     },
     {
-      "id": "8a9dfccec25c6db9",
-      "title": "Prožívá rekordní období, i tak ale nejhodnotnější český startup kvůli umělé inteligenci ve velkém propouští",
-      "url": "https://cc.cz/proziva-rekordni-obdobi-i-tak-ale-nejhodnotnejsi-cesky-startup-kvuli-umele-inteligenci-propousti-200-lidi/",
-      "published_at": "2026-07-07T17:51:06+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "„Chtěli jsme jednat nyní, než se prostředí kolem nás nezvratně změní,“ komentuje zakladatel miliardového Mews Richard Valtr. Článek Prožívá rekordní období, i tak ale nejhodnotnější český startup kvůli umělé inteligenci ve velkém propouští se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/02/richard-valtr2-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "a6577ddf7f0d6b0c",
       "title": "Anthropic is launching Claude Cowork on mobile and web",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
@@ -1603,18 +1615,6 @@
       "category": "news"
     },
     {
-      "id": "c686712ca6d18c53",
-      "title": "sqlite-utils 4.0rc4",
-      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/",
-      "published_at": "2026-07-07T05:36:15+00:00",
-      "author": "",
-      "summary_raw": "Release: sqlite-utils 4.0rc4 The last RC before the 4.0 stable release. Mainly implements feedback from a detailed review by Claude Fable 5. Tags: sqlite-utils , claude-mythos-fable",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
       "id": "2ebf6269eb6c2fbb",
       "title": "[AINews] The Field Guide to Fable",
       "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
@@ -1769,30 +1769,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "3c03bb4f51edf127",
-      "title": "[AINews] not much happened today",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
-      "published_at": "2026-07-02T07:10:14+00:00",
-      "author": "",
-      "summary_raw": "another quiet day.",
-      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/4sX_He5c4sI",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "42928c4c7090815e",
-      "title": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
-      "published_at": "2026-07-02T06:13:49+00:00",
-      "author": "Richard MacManus",
-      "summary_raw": "The software factory vision met resistance today from speakers defending human understanding and control.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!yyfq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5879355c-6a34-432c-bd6a-a4ace5715f5e_1280x850.jpeg",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "873d5fc0767d4f9d",
