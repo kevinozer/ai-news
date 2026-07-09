@@ -3,213 +3,213 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "OpenAI uvádí GPT-Live, plně duplexní hlasový model pro přirozenou konverzaci",
-      "title_orig": "OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person",
+      "title_cs": "OpenAI představuje GPT-Live, novou generaci hlasových modelů pro přirozenou konverzaci",
+      "title_orig": "Introducing GPT-Live",
       "category": "labs",
       "summary_cs": [
-        "OpenAI představila novou generaci hlasových modelů GPT-Live, které zásadně mění způsob interakce s ChatGPT.",
-        "Nová architektura umožňuje plynulou obousměrnou konverzaci, kdy uživatel i asistent mohou mluvit a naslouchat současně.",
-        "Model dokáže lépe reagovat na přerušení a počká, pokud se uživatel uprostřed věty odmlčí."
+        "OpenAI oficiálně vydává novou generaci hlasových modelů pod názvem GPT-Live, které přinášejí výrazně plynulejší hlasovou interakci.",
+        "Nová technologie umožňuje asistentovi mluvit a poslouchat zároveň, což je klíčové pro přirozené skákání do řeči a živé překlady.",
+        "Uživatelé mohou v případě potřeby složitější úkoly automaticky delegovat na pokročilejší model GPT-5.5."
       ],
-      "why_matters": "Zcela nová úroveň hlasové interakce s umělou inteligencí, která se přibližuje skutečnému lidskému rozhovoru.",
-      "url": "https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person",
-      "source": "VentureBeat AI"
+      "why_matters": "Přináší revoluci v hlasové komunikaci s AI, která se konečně vyrovná přirozenému rozhovoru s člověkem.",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "source": "OpenAI Blog"
     },
     {
       "rank": 2,
-      "title_cs": "SpaceXAI vydává Grok 4.5, první model třídy Opus po akvizici vývojářského nástroje Cursor",
-      "title_orig": "SpaceX's Grok 4.5 launches at half the price of rivals – here's why that could rattle Anthropic and OpenAI",
-      "category": "news",
+      "title_cs": "SpaceXAI uvádí model Grok 4.5, první systém třídy Opus po akvizici vývojového prostředí Cursor",
+      "title_orig": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
+      "category": "labs",
       "summary_cs": [
-        "Společnost SpaceX vydala novou verzi modelu Grok 4.5, která je speciálně optimalizovaná pro programování a autonomní agenty.",
-        "Jedná se o první hmatatelný výsledek nedávné akvizice populárního AI editoru kódu Cursor za 60 miliard dolarů.",
-        "Model přichází na trh s poloviční cenou oproti konkurenčním modelům od laboratoří Anthropic a OpenAI."
+        "Společnost SpaceXAI vydala nejnovější verzi svého modelu Grok 4.5, který Elon Musk označuje za model nejvyšší výkonnostní třídy.",
+        "Jedná se o první velký milník od nedávné akvizice populárního vývojového prostředí Cursor.",
+        "Nový model slibuje výrazně nižší provozní náklady a vyšší efektivitu ve srovnání s konkurenčními systémy."
       ],
-      "why_matters": "Agresivní cenová politika a integrace s populárním editorem Cursor mohou výrazně proměnit trh s vývojářskými AI nástroji.",
-      "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
-      "source": "VentureBeat AI"
+      "why_matters": "Grok 4.5 se stává přímým konkurentem nejlepších modelů na trhu s důrazem na programování.",
+      "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
+      "source": "Latent Space"
     },
     {
       "rank": 3,
-      "title_cs": "Čeští hudebníci odhalili, že je vykrádá hudební AI, OSA připravuje žalobu",
-      "title_orig": null,
-      "category": "news",
+      "title_cs": "Jaroslav Beck z BottleCap AI popisuje, jak jeho startup zrychluje umělou inteligenci",
+      "title_orig": "Má robota Jarmila, rozhoduje za něj digitální mozek Bob a jeho startup zrychluje AI. Nikdo nechce čekat, říká",
+      "category": "business",
       "summary_cs": [
-        "Po velkých zahraničních vydavatelstvích začínají autorská práva vůči generátorům hudby jako Suno řešit i čeští umělci.",
-        "Ochranný svaz autorský (OSA) shromažďuje důkazy a připravuje právní kroky na ochranu děl českých interpretů.",
-        "Mezi zasaženými umělci, jejichž hlasy či styl byly zneužity k trénování modelů, figuruje například Ewa Farna."
+        "Spoluzakladatel startupu BottleCap AI Jaroslav Beck přibližuje vizi vývoje digitálních asistentů a robotických systémů.",
+        "Jeho tým se zaměřuje na kritické zrychlení odezvy AI modelů, protože rychlost je klíčem k masovému přijetí technologie.",
+        "V rozhovoru popisuje praktické fungování autonomních agentů v každodenním byznysu i osobním životě."
       ],
-      "why_matters": "První velká právní bitva o autorská práva v oblasti generativní AI na české hudební scéně.",
-      "url": "https://cc.cz/od-taylor-swift-po-ewu-farnou-cesti-hudebnici-odhalili-ze-i-je-vykrada-hudebni-ai-osa-pripravuje-zalobu/",
+      "why_matters": "Inspirativní pohled úspěšného českého tvůrce na budoucnost rychlé a prakticky využitelné umělé inteligence.",
+      "url": "https://cc.cz/ma-robota-jarmila-rozhoduje-za-nej-digitalni-mozek-bob-a-jeho-startup-zrychluje-ai-nikdo-nechce-cekat-rika/",
       "source": "CzechCrunch"
     },
     {
       "rank": 4,
-      "title_cs": "Salesforce propojuje Slack s CRM, Slackbot nyní umí generovat grafy i podepisovat smlouvy",
-      "title_orig": "Slack’s Slackbot can now pull your CRM data, generate charts, and send DocuSigns – all from a chat message.",
-      "category": "tools",
+      "title_cs": "Prime Intellect získává investici 130 milionů dolarů na vývoj vlastních podnikových agentů",
+      "title_orig": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "category": "business",
       "summary_cs": [
-        "Pět let po akvizici se Slack a Salesforce dočkaly hluboké integrace, která mění Slackbot v plnohodnotného agenta.",
-        "Uživatelé mohou přímo z chatu přistupovat k CRM datům, nechat si generovat analytické grafy nebo odesílat dokumenty k podpisu.",
-        "Tento krok ukazuje posun od jednoduchých chatbotů k integrovaným podnikovým asistentům s přístupem k interním systémům."
+        "Startup Prime Intellect úspěšně uzavřel investiční kolo Series A ve výši 130 milionů dolarů.",
+        "Cílem společnosti je umožnit firmám trénovat a provozovat vlastní komplexní agenty nezávisle na velkých technologických laboratořích.",
+        "Tato platforma reaguje na rostoucí poptávku po suverenitě dat a kontrole nad podnikovou AI architekturou."
       ],
-      "why_matters": "Výrazné zvýšení produktivity pro firmy využívající ekosystém Salesforce a Slack pro každodenní agendu.",
-      "url": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message",
-      "source": "VentureBeat AI"
+      "why_matters": "Ukazuje trend, kdy se firmy snaží vymanit ze závislosti na monopolu OpenAI a Anthropic.",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 5,
-      "title_cs": "SambaNova získává investici 1 miliardu dolarů na vývoj AI čipů",
-      "title_orig": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "category": "business",
-      "summary_cs": [
-        "Výrobce hardwaru SambaNova získal v novém investičním kole jednu miliardu dolarů při celkovém ohodnocení jedenáct miliard.",
-        "Tato obří investice přichází pouhých pět měsíců po předchozím úspěšném financování a spekulacích o akvizici Intelem.",
-        "Firma se snaží konkurovat dominantnímu postavení Nvidie na trhu s čipy pro trénování a běh velkých modelů."
-      ],
-      "why_matters": "Další masivní kapitálová injekce do hardwarové infrastruktury ukazuje neutuchající hlad po alternativách k čipům Nvidia.",
-      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 6,
-      "title_cs": "Může herní video zachránit robotiku? Startup podporovaný Bezosem sází na herní data",
-      "title_orig": "Why this CEO thinks video games make better training data than the internet",
-      "category": "news",
-      "summary_cs": [
-        "Startup General Intuition tvrdí, že textové modely nemají dostatečné pochopení pro fyzický pohyb v prostoru.",
-        "K trénování nové generace robotických modelů proto využívá miliony hodin záznamů z videoher.",
-        "Tento přístup by mohl umožnit vývoj chytřejších fyzických robotů bez nutnosti sbírat drahá data z reálného světa."
-      ],
-      "why_matters": "Inovativní způsob trénování fyzické inteligence může urychlit nástup univerzálních robotických pomocníků.",
-      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 7,
-      "title_cs": "Jak design orchestrace určuje tokenovou ekonomiku podnikové agentní AI",
-      "title_orig": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
-      "category": "research",
-      "summary_cs": [
-        "Nová studie analyzuje ekonomické aspekty nasazování komplexních AI agentů v podnikovém prostředí.",
-        "Varuje před trendem, kdy spotřeba tokenů na jeden úkol roste rychleji než samotná přidaná hodnota řešení.",
-        "Autoři navrhují optimalizaci orchestrace a nástrojů, která zabrání neefektivnímu plýtvání výpočetními zdroji."
-      ],
-      "why_matters": "Klíčový pohled na to, jak efektivně navrhovat AI agenty, aby jejich provoz finančně nezruinoval firmu.",
-      "url": "https://arxiv.org/abs/2607.06760",
-      "source": "ArXiv cs.AI"
-    },
-    {
-      "rank": 8,
-      "title_cs": "ZML vydává bezplatný nástroj pro zrychlení inference na různých typech AI čipů",
+      "title_cs": "ZML uvolňuje bezplatný software pro dramatické zrychlení AI inferencí na různých čipech",
       "title_orig": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
       "category": "open-source",
       "summary_cs": [
-        "Nadějný francouzský startup ZML, který podporuje i Yann LeCun, uvolnil open-source software ZML/LLMD.",
-        "Tento nástroj je navržen tak, aby výrazně zrychlil a zlevnil provozování modelů napříč různorodým hardwarem.",
-        "Umožňuje efektivní distribuci zátěže bez závislosti na jediném dodavateli grafických karet."
+        "Nadějný francouzský startup ZML, který podporuje i laureát Turingovy ceny Yann LeCun, vydal open-source nástroj ZML/LLMD.",
+        "Tento software umožňuje efektivně distribuovat a zrychlovat běh AI modelů napříč různorodým hardwarem.",
+        "Novinka může výrazně snížit finanční náklady na provoz vlastních jazykových modelů v podnikovém prostředí."
       ],
-      "why_matters": "Užitečný open-source nástroj pro vývojáře, který pomáhá optimalizovat náklady na provoz vlastních modelů.",
+      "why_matters": "Pomáhá českým vývojářům a firmám optimalizovat náklady na hardware při provozu lokální AI.",
       "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 9,
-      "title_cs": "Hugging Face integruje spouštění modelů do Amazon SageMaker Studio na jedno kliknutí",
-      "title_orig": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "category": "tools",
+      "rank": 6,
+      "title_cs": "Harness efekt: Jak design orchestrace určuje tokenovou ekonomiku podnikové AI",
+      "title_orig": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
+      "category": "research",
       "summary_cs": [
-        "Platforma Hugging Face představila nové zjednodušení pro vývojáře pracující v cloudu AWS.",
-        "Nově je možné přenést a spustit libovolný model v prostředí Amazon SageMaker Studio pomocí jediného tlačítka.",
-        "Tato integrace výrazně zkracuje čas potřebný k nastavení infrastruktury pro testování a nasazení modelů."
+        "Nová vědecká studie varuje před neefektivním návrhem agentních systémů, které spotřebovávají extrémní množství tokenů.",
+        "Dlouhé kontexty, opakované dotazy do nástrojů a složité rozhodovací smyčky zvyšují náklady rychleji než reálnou hodnotu úkolu.",
+        "Autoři navrhují optimalizaci architektury pro lepší kontrolu nad celkovými výdaji za API."
       ],
-      "why_matters": "Zjednodušení cesty od experimentování s modely k jejich reálnému nasazení v cloudovém prostředí AWS.",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "source": "Hugging Face Blog"
+      "why_matters": "Klíčová analýza pro každého, kdo navrhuje firemní AI agenty a chce udržet provozní náklady pod kontrolou.",
+      "url": "https://arxiv.org/abs/2607.06906",
+      "source": "ArXiv cs.AI"
     },
     {
-      "rank": 10,
-      "title_cs": "OpenAI odhaluje slabiny v populárním programovacím benchmarku SWE-Bench Pro",
+      "rank": 7,
+      "title_cs": "OpenAI odhaluje nespolehlivost populárního programovacího benchmarku SWE-Bench Pro",
       "title_orig": "Separating signal from noise in coding evaluations",
       "category": "labs",
       "summary_cs": [
-        "Analýza od výzkumníků z OpenAI poukazuje na závažné nedostatky v metodice hodnocení programovacích schopností AI.",
-        "Populární benchmark SWE-Bench Pro podle nich obsahuje šum a nekonzistence, které zkreslují reálné výsledky modelů.",
-        "OpenAI navrhuje přísnější kritéria pro hodnocení, aby bylo možné lépe měřit skutečný pokrok v autonomním kódování."
+        "Analýza od OpenAI odhalila vážné nedostatky v metodice hodnocení programovacích schopností AI modelů.",
+        "Populární benchmark SWE-Bench Pro vykazuje vysokou míru šumu a nepřesností, což zkresluje reálné výsledky systémů.",
+        "OpenAI volá po vytvoření robustnějších standardů pro testování autonomních kódovacích agentů."
       ],
-      "why_matters": "Správné měření schopností modelů je zásadní pro bezpečný vývoj autonomních softwarových inženýrů.",
+      "why_matters": "Upozorňuje na to, že marketingové benchmarky AI modelů nemusí odpovídat jejich skutečným schopnostem v praxi.",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "source": "OpenAI Blog"
     },
     {
-      "rank": 11,
-      "title_cs": "Profesor podezříval studenty z podvádění s AI, u prezenční zkoušky propadli o polovinu",
-      "title_orig": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-      "category": "wildcard",
+      "rank": 8,
+      "title_cs": "Zneužití AI na platformě X: Žaloba viní generátor Grok z tvorby nelegálního obsahu",
+      "title_orig": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+      "category": "news",
       "summary_cs": [
-        "Profesor z prestižní americké univerzity nařídil kvůli podezření na masivní využívání AI osobní psaní závěrečného testu.",
-        "Výsledné známky studentů po odebrání digitálních pomocníků klesly v průměru o padesát procent.",
-        "Případ vyvolal debatu o tom, jak moc se studenti spoléhají na AI bez skutečného porozumění látce."
+        "Společnost X čelí vážné žalobě kvůli nedostatečným bezpečnostním filtrům u svého generátoru obrázků Grok.",
+        "Systém byl zneužit k masivní tvorbě explicitního nelegálního obsahu s nezletilými osobami.",
+        "Případ znovu otevírá debatu o právní odpovědnosti tvůrců AI modelů za generované výstupy."
       ],
-      "why_matters": "Ukázka reálného dopadu nekontrolovaného používání AI ve vzdělávání a nutnosti reformy zkoušení.",
-      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+      "why_matters": "Ukazuje na nutnost přísné regulace a zabezpečení generativních modelů před zneužitím.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
       "source": "Ars Technica"
     },
     {
-      "rank": 12,
-      "title_cs": "AI shrnutí na Tripadvisoru zamlčují špínu i žaloby, varují výzkumníci",
+      "rank": 9,
+      "title_cs": "Startup General Intuition věří, že herní data jsou klíčem k ChatGPT momentu v robotice",
+      "title_orig": "This startup thinks robotics is about to have its ChatGPT moment",
+      "category": "news",
+      "summary_cs": [
+        "Startup General Intuition využívá miliony hodin videozáznamů z videoher k trénování fyzikálních modelů pro roboty.",
+        "Tradiční textové modely postrádají pochopení prostoru a času, což herní simulace dokážou efektivně napravit.",
+        "Tento přístup umožňuje vyvíjet inteligentnější roboty bez nutnosti sběru drahých dat z reálného světa."
+      ],
+      "why_matters": "Představuje nový směr vývoje, který může zásadně urychlit nasazení autonomních robotů v průmyslu.",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Hacking pomocí AI: Útočníci zneužívají populární AI nástroje k budování botnetů",
+      "title_orig": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní experti objevili metodu HalluSquatting, která zneužívá halucinace velkých jazykových modelů.",
+        "Útočníci registrují domény, které AI modely chybně doporučují v odpovědích, a šíří přes ně škodlivý kód.",
+        "Zranitelnost se týká devíti z nejpopulárnějších AI asistentů na trhu."
+      ],
+      "why_matters": "Varuje před slepou důvěrou v odkazy generované umělou inteligencí.",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 11,
+      "title_cs": "AI shrnutí na Tripadvisoru mohou zamlčet špínu, žaloby i zdravotní rizika",
       "title_orig": "AI může zničit dovolenou. Rychlé shrnutí populárního portálu zamlčuje špínu, žaloby i zdravotní rizika",
       "category": "news",
       "summary_cs": [
-        "Automatické AI přehledy recenzí hotelů na portálu Tripadvisor mohou uživatele uvést v omyl.",
-        "Analýza ukázala, že systém při generování shrnutí často ignoruje vážné stížnosti na hygienu či právní spory.",
-        "Spoléhání se na tyto rychlé výtahy tak může turistům snadno zkazit plánovanou dovolenou."
+        "Automatické AI přehledy recenzí hotelů na Tripadvisoru podle výzkumů systematicky vynechávají negativní zkušenosti.",
+        "Zatímco lidé si stěžují na štěnice, plísně či probíhající soudní spory, AI asistent prezentuje ubytování v pozitivním světle.",
+        "Spoléhání se na tato rychlá shrnutí tak může uživatelům snadno zkazit plánovanou dovolenou."
       ],
-      "why_matters": "Upozornění na rizika spojená s nekritickou důvěrou v automatické textové souhrny v běžném životě.",
+      "why_matters": "Praktické varování pro české uživatele před slepou důvěrou v automatické spotřebitelské recenze.",
       "url": "https://cc.cz/ai-muze-znicit-dovolenou-rychle-shrnuti-popularniho-portalu-zamlcuje-spinu-zaloby-i-zdravotni-rizika/",
       "source": "CzechCrunch"
     },
     {
-      "rank": 13,
-      "title_cs": "Jak měřit inteligenci, která přesahuje lidské schopnosti",
-      "title_orig": "Measuring Intelligence Beyond Human Scale",
-      "category": "research",
+      "rank": 12,
+      "title_cs": "Vzdělávání učitelů: OpenAI spouští program pro rozvoj AI dovedností ve školách",
+      "title_orig": "Helping K–12 educators build practical AI skills",
+      "category": "labs",
       "summary_cs": [
-        "Vědci se zabývají otázkou, jak objektivně hodnotit systémy, které jsou chytřejší než jejich lidští tvůrci.",
-        "Tradiční benchmarky vytvořené lidmi narážejí na své limity, protože hodnotitelé nedokážou ověřit správnost složitých úkolů.",
-        "Práce navrhuje nové metodiky hodnocení založené na relativním srovnávání a verifikovatelných herních principech."
+        "OpenAI Academy ve spolupráci s Walton Family Foundation spouští praktické workshopy pro učitele základních a středních škol.",
+        "Iniciativa se zaměřuje na bezpečné a efektivní zapojení umělé inteligence přímo do výuky v učebnách.",
+        "Učitelé získají metodické materiály pro rozvoj digitální gramotnosti studentů."
       ],
-      "why_matters": "Teoretický základ pro testování budoucích systémů obecné umělé inteligence (AGI).",
-      "url": "https://arxiv.org/abs/2607.07040",
-      "source": "ArXiv cs.AI"
+      "why_matters": "Ukazuje, jak systematicky připravovat školství na příchod generace vyrůstající s AI.",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "source": "OpenAI Blog"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title_cs": "Od atomických akcí k procesům: Iterativní optimalizace nástrojů pro vyvíjející se agenty",
       "title_orig": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
       "category": "research",
       "summary_cs": [
-        "Současné AI systémy se často spoléhají na statické nástroje provádějící jednoduché izolované úkony.",
-        "Tento výzkum představuje metodu, jak se agenti mohou sami učit vytvářet komplexní standardní operační postupy.",
-        "Díky iterativní optimalizaci si AI dokáže vybudovat vlastní knihovnu efektivních maker pro složité úkoly."
+        "Vědci představili metodu, která umožňuje AI agentům vytvářet si vlastní komplexní pracovní postupy.",
+        "Místo spoléhání se na jednoduché statické příkazy se agenti učí kombinovat kroky do pokročilých šablon.",
+        "Tento přístup výrazně zvyšuje úspěšnost při řešení složitých softwarových a analytických úkolů."
       ],
-      "why_matters": "Významný krok směrem k autonomním agentům, kteří se dokážou sami učit a zlepšovat své pracovní postupy.",
+      "why_matters": "Posouvá schopnosti AI od pouhého odpovídání k samostatnému řešení komplexních firemních procesů.",
       "url": "https://arxiv.org/abs/2607.07321",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 15,
-      "title_cs": "Zneužití zranitelnosti HalluSquatting umožňuje hackerům ovládnout populární AI nástroje",
-      "title_orig": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "rank": 14,
+      "title_cs": "Profesor z elitní univerzity nařídil kvůli podezření z podvádění osobní zkoušky, úspěšnost klesla o polovinu",
+      "title_orig": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
       "category": "news",
       "summary_cs": [
-        "Bezpečnostní experti objevili metodu pojmenovanou HalluSquatting, která zneužívá halucinace velkých jazykových modelů.",
-        "Útočníci mohou podvrhnout neexistující softwarové balíčky, které modely doporučují uživatelům při dotazech na kód.",
-        "Tato zranitelnost se týká devíti z nejpopulárnějších AI asistentů a může vést k masivnímu šíření malwaru."
+        "Profesor z Ivy League kvůli podezření na masivní využívání ChatGPT zakázal online testy a zavedl klasickou zkoušku v učebně.",
+        "Průměrné výsledky studentů po přechodu na papír a tužku bez přístupu k internetu klesly o padesát procent.",
+        "Akademik varuje, že nekritické spoléhání se na AI při studiu vede k degradaci skutečných znalostí."
       ],
-      "why_matters": "Nové bezpečnostní riziko, na které si musí dát pozor každý vývojář využívající AI k psaní kódu.",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "why_matters": "Ilustruje reálný dopad AI na školství a nutnost změnit způsob ověřování znalostí studentů.",
+      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
       "source": "Ars Technica"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Kenton Varda zakázal svému týmu používat AI pro generování popisů změn v kódu",
+      "title_orig": "Quoting Kenton Varda",
+      "category": "wildcard",
+      "summary_cs": [
+        "Známý vývojář Kenton Varda vyhlásil moratorium na automatické popisy commitů a pull requestů psané umělou inteligencí.",
+        "AI podle něj generuje sice dlouhé, ale pro revizi kódu zcela zbytečné texty, které pouze popisují zjevné věci.",
+        "Důležité kontextuální informace a důvody, proč ke změně došlo, v automatických textech naopak chybí."
+      ],
+      "why_matters": "Důležité vystřízlivění z nadužívání AI tam, kde je stále kriticky potřeba lidský úsudek.",
+      "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/",
+      "source": "Simon Willison's Weblog"
     }
   ]
 }
