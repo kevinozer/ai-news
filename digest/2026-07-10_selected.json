@@ -3,213 +3,213 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "OpenAI představuje novou rodinu modelů GPT-5.6 a spouští ChatGPT Work",
+      "title_cs": "OpenAI uvádí novou rodinu modelů GPT-5.6 a spouští ChatGPT Work",
       "title_orig": "OpenAI launches its new family of models with GPT-5.6",
       "category": "labs",
       "summary_cs": [
-        "Nová vlajková loď od OpenAI přichází ve třech velikostech pojmenovaných Luna, Terra a Sol.",
-        "Nové modely slibují výrazné zvýšení inteligence na token, lepší poměr cena-výkon a pokročilé schopnosti v kybernetické bezpečnosti.",
-        "Souběžně představený agent ChatGPT Work dokáže samostatně pracovat s aplikacemi a soubory na dlouhodobých projektech."
+        "Společnost OpenAI představila novou vlajkovou loď v podobě modelové řady GPT-5.6, která přichází ve třech velikostech pojmenovaných Luna, Terra a Sol.",
+        "Nové modely slibují výrazné zvýšení inteligence na token, lepší poměr ceny a výkonu a pokročilé schopnosti v oblasti kybernetické bezpečnosti.",
+        "Zároveň dochází k rebrandingu platformy Codex na ChatGPT Work, což je autonomní agent schopný pracovat s vašimi soubory a aplikacemi po dobu několika hodin."
       ],
-      "why_matters": "Představení nové generace modelů GPT zásadně posouvá hranice komerčního využití umělé inteligence.",
+      "why_matters": "Nová generace modelů od lídra trhu zásadně posouvá hranice toho, co mohou firmy s AI automatizovat.",
       "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 2,
-      "title_cs": "Anthropic odhaluje vnitřní fungování modelů Claude pomocí metody Jacobian lens",
-      "title_orig": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "category": "research",
-      "summary_cs": [
-        "Výzkumníci z Anthropicu vyvinuli nový nástroj, který poskytuje dosud nejjasnější pohled do nitra velkých jazykových modelů.",
-        "Metoda umožňuje sledovat, jak model v reálném čase váhá nad koncepty a jak formuluje své odpovědi.",
-        "Tento objev pomáhá lépe pochopit chování AI a zvyšuje bezpečnost a předvídatelnost budoucích systémů."
-      ],
-      "why_matters": "Lepší pochopení vnitřních procesů AI je klíčem k bezpečnějšímu a spolehlivějšímu nasazení v citlivých oborech.",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source": "MIT Technology Review"
-    },
-    {
-      "rank": 3,
-      "title_cs": "Fidji Simo odchází z vedení OpenAI v klíčovém období před možným IPO",
+      "title_cs": "Fidji Simo odchází z klíčové role v OpenAI",
       "title_orig": "Fidji Simo steps down from OpenAI’s no. 2 role",
       "category": "business",
       "summary_cs": [
-        "Dvojka ve vedení OpenAI a šéfka divize pro nasazení AGI odstupuje ze své plné role po dlouhé zdravotní dovolené.",
-        "Simo bude ve firmě nadále působit jako externí poradkyně na částečný úvazek.",
-        "Tento odchod vytváří personální vakuum v době, kdy firma čelí ostré konkurenci ze strany Anthropicu."
+        "Dosavadní ředitelka pro nasazení obecné umělé inteligence (AGI) a neoficiální dvojka OpenAI Fidji Simo odchází ze své plné pozice.",
+        "Její odchod přichází po dlouhé zdravotní dovolené a ve firmě bude nadále působit pouze jako externí poradkyně na částečný úvazek.",
+        "Tato personální změna vytváří vedení vakuum v citlivé době, kdy OpenAI zvažuje vstup na burzu a soupeří s Anthropicem o firemní zákazníky."
       ],
-      "why_matters": "Personální změny v nejužším vedení lídra trhu mohou ovlivnit strategické směřování celého odvětví.",
+      "why_matters": "Personální otřesy v nejužším vedení OpenAI mohou ovlivnit rychlost a směr komercializace jejich technologií.",
       "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "source": "TechCrunch AI"
     },
     {
+      "rank": 3,
+      "title_cs": "Anthropic představil metodu Jacobian lens pro nahlédnutí do myšlení modelů",
+      "title_orig": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci ze společnosti Anthropic vyvinuli nový nástroj nazvaný Jacobian lens, který umožňuje sledovat vnitřní procesy velkých jazykových modelů.",
+        "Tato technika odhaluje, jak model Claude v reálném čase analyzuje koncepty a váhá nad odpověďmi předtím, než vygeneruje finální text.",
+        "Výsledky výzkumu ukazují fascinující i mírně znepokojivé detaily o tom, jak se v neuronových sítích formuje reprezentace znalostí."
+      ],
+      "why_matters": "Lepší pochopení vnitřního fungování LLM je klíčem k bezpečnějšímu a spolehlivějšímu nasazení AI v praxi.",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "source": "MIT Technology Review"
+    },
+    {
       "rank": 4,
-      "title_cs": "Meta uvádí programovací model Muse Spark 1.1 s vlastním API",
-      "title_orig": "Meta says its new AI model is ready to compete on coding",
+      "title_cs": "Meta vydává vývojářský model Muse Spark 1.1 pro programování",
+      "title_orig": "Introducing Muse Spark 1.1",
       "category": "open-source",
       "summary_cs": [
-        "Meta otevírá vývojářům dveře k novému modelu Muse Spark 1.1, který je optimalizován pro psaní kódu.",
-        "Model přináší výrazné zlepšení v oblasti volání nástrojů a autonomního ovládání počítače.",
-        "Vývojáři mohou nový model snadno integrovat do svých stávajících programovacích nástrojů pomocí nového API."
+        "Meta představila aktualizovaný model Muse Spark 1.1, který je vůbec prvním modelem z této řady nabízejícím přístup přes API.",
+        "Model přináší zásadní vylepšení v oblasti autonomního volání nástrojů, ovládání počítače a generování zdrojového kódu.",
+        "Vývojáři mohou nový model snadno integrovat do svých stávajících programovacích asistentů a vývojových prostředí."
       ],
-      "why_matters": "Nový bezplatný model od Mety zvyšuje konkurenci mezi nástroji pro automatizaci programování.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "source": "The Verge AI"
+      "why_matters": "Meta posiluje svou pozici v open-source komunitě a nabízí silnou alternativu pro vývojáře softwaru.",
+      "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/",
+      "source": "Simon Willison's Weblog"
     },
     {
       "rank": 5,
-      "title_cs": "Vydavatelé obviňují OpenAI ze skrývání důkazů v autorskoprávním sporu",
-      "title_orig": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "category": "business",
-      "summary_cs": [
-        "Vydavatelé v čele s New York Times tvrdí, že OpenAI záměrně smazala logy a skryla trénovací sady.",
-        "Tyto materiály měly sloužit jako klíčový důkaz o zneužití autorských textů pro trénování ChatGPT.",
-        "Právní zástupci médií proto požadují uvalení sankcí na OpenAI za maření soudního řízení."
-      ],
-      "why_matters": "Výsledek tohoto sporu určí budoucí pravidla pro licencování obsahu pro trénování AI.",
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 6,
-      "title_cs": "Ollama získává investici 65 milionů dolarů a hlásí raketový růst komunity",
+      "title_cs": "Ollama získává investici 65 milionů dolarů a hlásí miliony uživatelů",
       "title_orig": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
       "category": "tools",
       "summary_cs": [
-        "Populární nástroj pro lokální spouštění AI modelů Ollama získal významné finanční prostředky na další rozvoj.",
-        "Platforma již pomáhá téměř 9 milionům uživatelů snadno provozovat umělou inteligenci přímo na jejich počítačích.",
-        "Investice podpořená fondem Benchmark potvrzuje obrovský zájem o nezávislá a lokální AI řešení."
+        "Populární open-source nástroj Ollama, který umožňuje snadné lokální spouštění AI modelů na běžných počítačích, získal investici ve výši 65 milionů dolarů.",
+        "Projekt podporovaný fondem Benchmark již na platformě GitHub nasbíral přes 176 tisíc hvězdiček a jeho komunita se rozrostla na téměř 9 milionů uživatelů.",
+        "Získané finanční prostředky pomohou urychlit vývoj a zjednodušit nasazování lokální umělé inteligence pro běžné vývojáře."
       ],
-      "why_matters": "Snadné lokální spouštění modelů umožňuje českým firmám chránit citlivá data před odesíláním do cloudu.",
+      "why_matters": "Lokální běh modelů bez nutnosti odesílat data do cloudu je klíčový pro soukromí českých firem.",
       "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 7,
-      "title_cs": "Startup Lyzr nechal svého vlastního AI agenta řídit investiční kolo za 100 milionů dolarů",
+      "rank": 6,
+      "title_cs": "Lyzr nechal svého AI agenta řídit investiční kolo za 100 milionů dolarů",
       "title_orig": "An AI agent startup just let its agent run its $100M fundraise",
-      "category": "wildcard",
+      "category": "business",
       "summary_cs": [
-        "Startup Lyzr, který vyvíjí agenty pro podniky, svěřil proces vyjednávání o investici svému vlastnímu softwaru.",
-        "AI agent úspěšně dojednal investiční kolo v celkové hodnotě 100 milionů dolarů.",
-        "Tento krok slouží jako ultimátní praktický důkaz funkčnosti a spolehlivosti jejich technologie."
+        "Startup Lyzr, který se specializuje na vývoj podnikových AI agentů, využil vlastní technologii k zajištění nového financování.",
+        "AI agent kompletně řídil proces vyjednávání a komunikace s investory, což vedlo k úspěšnému získání 100 milionů dolarů.",
+        "Tento krok slouží jako ultimátní důkaz funkčnosti jejich vlastního produktu v reálném a vysoce komplexním byznysovém prostředí."
       ],
-      "why_matters": "Ukázka toho, že autonomní agenti již zvládají i nejsložitější obchodní jednání na nejvyšší úrovni.",
+      "why_matters": "Ukázka toho, že autonomní agenti již dokážou zvládat i takto složité obchodní transakce.",
       "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 8,
-      "title_cs": "Anthropic zavádí Reflect, měsíční přehled využití chatbota Claude",
-      "title_orig": "Say hello to Claude Wrapped",
-      "category": "tools",
-      "summary_cs": [
-        "Po vzoru populárních ročních přehledů hudebních služeb přichází Anthropic s vizualizací dat pro své uživatele.",
-        "Funkce Reflect umožní lidem detailně analyzovat, jakým způsobem a jak často chatbota v uplynulém měsíci využívali.",
-        "Nástroj zároveň nenápadně ukazuje, jak hluboko se AI integrovala do každodenních pracovních postupů uživatelů."
-      ],
-      "why_matters": "Uživatelé získávají lepší přehled o své produktivitě a způsobech interakce s umělou inteligencí.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "source": "The Verge AI"
-    },
-    {
-      "rank": 9,
-      "title_cs": "Estonie vyvinula AI nástroj na hledání chyb v legislativě",
-      "title_orig": "The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
-      "category": "news",
-      "summary_cs": [
-        "Po drahé chybě ve formulaci zákona, která stála stát miliony, nasazuje Estonsko umělou inteligenci.",
-        "Nový systém automaticky analyzuje právní texty a hledá v nich logické rozpory a legislativní chyby.",
-        "Cílem projektu je digitalizovat a maximálně zefektivnit státní správu."
-      ],
-      "why_matters": "Inspirativní ukázka toho, jak může státní správa efektivně využít AI k prevenci drahých chyb.",
-      "url": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
-      "source": "Wired AI"
-    },
-    {
-      "rank": 10,
-      "title_cs": "Google zavádí povinné označování reklam vytvořených pomocí AI",
-      "title_orig": "Google will now tell you if an ad was made with AI",
-      "category": "news",
-      "summary_cs": [
-        "Uživatelé ve vyhledávání Google, YouTube a Discover uvidí jasné označení u reklam vytvořených umělou inteligencí.",
-        "Nová sekce v nastavení reklam transparentně ukáže, zda byl vizuální či textový obsah synteticky upraven.",
-        "Google tímto krokem reaguje na rostoucí obavy z šíření dezinformací a klamavé reklamy."
-      ],
-      "why_matters": "Zvyšování transparentnosti digitálního prostoru pomáhá uživatelům lépe rozpoznat syntetický obsah.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "source": "The Verge AI"
-    },
-    {
-      "rank": 11,
-      "title_cs": "Proaktivní kontextové grafy pro autonomní podnikové agenty",
-      "title_orig": "Context Graphs for Proactive Enterprise Agents",
-      "category": "research",
-      "summary_cs": [
-        "Nová vědecká práce navrhuje posun od reaktivních AI agentů k proaktivním systémům.",
-        "Díky kontextovým grafům mohou agenti předvídat potřeby uživatele a jednat dříve, než dostanou přímý příkaz.",
-        "Tento přístup slibuje výrazné zvýšení produktivity v podnikovém prostředí."
-      ],
-      "why_matters": "Budoucnost AI spočívá v asistentech, kteří nečekají na zadání, ale aktivně pomáhají sami od sebe.",
-      "url": "https://arxiv.org/abs/2607.07721",
-      "source": "ArXiv cs.AI"
-    },
-    {
-      "rank": 12,
-      "title_cs": "OpenAI ukončuje vývoj experimentálního prohlížeče Atlas",
-      "title_orig": "The ChatGPT browser is already dead",
+      "rank": 7,
+      "title_cs": "OpenAI ukončuje projekt webového prohlížeče Atlas",
+      "title_orig": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
       "category": "labs",
       "summary_cs": [
-        "Méně než rok po představení projektu Atlas se OpenAI rozhodla tento specializovaný AI prohlížeč zrušit.",
-        "Funkce pro autonomní procházení webu a plnění úkolů se místo toho přesunou přímo do desktopové aplikace.",
-        "Uživatelé budou moci tyto schopnosti využívat také prostřednictvím nového rozšíření pro Chrome."
+        "Společnost OpenAI se rozhodla po necelém roce ukončit vývoj svého specializovaného AI prohlížeče s názvem Atlas.",
+        "Funkce pro autonomní procházení webu a plnění úkolů na pozadí se však neztrácejí, ale přesouvají se přímo do desktopové aplikace ChatGPT.",
+        "Uživatelé se dočkají také nového rozšíření pro prohlížeč Google Chrome, které tyto agentní schopnosti zpřístupní."
       ],
-      "why_matters": "Ukazuje se, že uživatelé preferují integraci AI do stávajících nástrojů před instalací nových prohlížečů.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "source": "The Verge AI"
+      "why_matters": "Strategický přesun funkcí ukazuje, že OpenAI sází spíše na integraci do stávajících ekosystémů než na vlastní prohlížeč.",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "source": "TechCrunch AI"
     },
     {
-      "rank": 13,
+      "rank": 8,
       "title_cs": "Jihokorejský gigant SK Hynix míří na Nasdaq otestovat zájem o AI hardware",
       "title_orig": "Další akciový velikán z řad umělé inteligence jde na americký trh zkoušet náladu investorů. Tentokrát netradičně",
       "category": "news",
       "summary_cs": [
-        "Klíčový výrobce paměťových čipů pro AI akcelerátory vstupuje na americkou burzu Nasdaq.",
-        "Tento krok ukáže, zda investoři stále věří celému dodavatelskému řetězci kolem umělé inteligence.",
-        "SK Hynix je hlavním dodavatelem pokročilých pamětí pro lídra trhu, společnost Nvidia."
+        "Výrobce paměťových čipů SK Hynix, který je klíčovým dodavatelem pro grafické procesory Nvidia, plánuje vstup na americkou burzu Nasdaq.",
+        "Tento krok ukáže, zda investoři stále věří celému dodavatelskému řetězci kolem umělé inteligence, nebo zda přichází ochlazení trhu.",
+        "SK Hynix drží dominantní postavení v oblasti rychlých pamětí HBM, které jsou nezbytné pro trénování největších AI modelů."
       ],
-      "why_matters": "Vstup na burzu napoví, zda investiční horečka kolem AI hardwaru nadále pokračuje.",
+      "why_matters": "Výsledek tohoto úpisu napoví, zda bude masivní investiční boom do AI hardwaru nadále pokračovat.",
       "url": "https://cc.cz/dalsi-akciovy-velikan-z-rad-umele-inteligence-jde-na-americky-trh-zkouset-naladu-investoru-tentokrat-netradicne/",
       "source": "CzechCrunch"
     },
     {
-      "rank": 14,
-      "title_cs": "Chytrý asistent Gopher v programu FL Studio 2026 pomáhá s produkcí hudby",
-      "title_orig": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-      "category": "tools",
+      "rank": 9,
+      "title_cs": "Google zavádí povinné štítky pro reklamy vytvořené pomocí AI",
+      "title_orig": "Google will now tell you if an ad was made with AI",
+      "category": "news",
       "summary_cs": [
-        "Oblíbený software pro tvorbu hudby FL Studio integruje pokročilého AI asistenta přímo do pracovního prostředí.",
-        "Asistent Gopher již neslouží jen jako nápověda, ale dokáže aktivně pomáhat s technickým nastavením mixu.",
-        "Hudebníci tak mohou delegovat rutinní inženýrskou práci na umělou inteligenci a soustředit se na kreativitu."
+        "Google začne v rámci svého nastavení reklam zobrazovat informaci o tom, zda byl daný inzerát vytvořen nebo upraven pomocí umělé inteligence.",
+        "Nové označení se objeví ve vyhledávání, na YouTube i v kanálu Discover pod záložkou s vysvětlením původu reklamy.",
+        "Tato povinnost se dříve vztahovala pouze na politickou reklamu, nyní se však rozšiřuje na veškerý komerční obsah."
       ],
-      "why_matters": "Praktická ukázka toho, jak AI pomáhá kreativním profesionálům zrychlit jejich každodenní práci.",
-      "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+      "why_matters": "Zvýšení transparentnosti v reklamním prostoru ovlivní všechny české marketéry využívající generativní AI.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
       "source": "The Verge AI"
     },
     {
-      "rank": 15,
-      "title_cs": "Společné selhání více modelů představuje skryté riziko pro firmy",
-      "title_orig": "Enterprises using multiple AI models are underestimating failure rates by 2.25x",
+      "rank": 10,
+      "title_cs": "Anthropic zavádí přehled Reflect pro analýzu využívání Claude",
+      "title_orig": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "category": "labs",
+      "summary_cs": [
+        "Uživatelé chatbota Claude mají nově k dispozici analytický panel Reflect, který funguje podobně jako populární roční přehledy u hudebních služeb.",
+        "Nástroj vizualizuje měsíční data o používání, ukazuje nejčastější témata konverzací a analyzuje interakce uživatele s asistentem.",
+        "Kromě užitečných statistik jde o chytrý marketingový tah, který uživatelům ukazuje, jak moc jsou již na technologii závislí."
+      ],
+      "why_matters": "Zajímavý pohled na to, jak se z AI stává každodenní nepostradatelný nástroj pro práci.",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Bývalý šéf Fedu Ben Bernanke se připojuje k dozorčí radě Anthropicu",
+      "title_orig": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "category": "business",
+      "summary_cs": [
+        "Laureát Nobelovy ceny a bývalý předseda Federálního rezervního systému USA Ben Bernanke byl jmenován do fondu Long-Term Benefit Trust společnosti Anthropic.",
+        "Tento nezávislý orgán má za úkol dohlížet na to, aby vývoj obecné umělé inteligence v Anthropicu probíhal bezpečně a v souladu s lidskými hodnotami.",
+        "Příchod takto významné osobnosti z oblasti globální ekonomiky posiluje důvěryhodnost firmy před regulátory i veřejností."
+      ],
+      "why_matters": "Zapojení špičkových ekonomů ukazuje, že bezpečnost AI se stává tématem nejvyšší makroekonomické úrovně.",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "source": "Anthropic News"
+    },
+    {
+      "rank": 12,
+      "title_cs": "New York Times obviňuje OpenAI ze skrývání důkazů v autorskoprávním sporu",
+      "title_orig": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "category": "news",
+      "summary_cs": [
+        "Vydavatelství New York Times podalo u soudu návrh na sankce proti OpenAI za údajné záměrné odstraňování datových sad a protokolů.",
+        "Podle žalobců OpenAI smazala nástroje a záznamy, které mohly prokázat, že ChatGPT neoprávněně využíval jejich autorský obsah k trénování.",
+        "Právní bitva o autorská práva se tak vyostřuje a přechází do fáze sporů o integritu předložených důkazů."
+      ],
+      "why_matters": "Výsledek tohoto sporu určí budoucí pravidla pro využívání autorských děl při trénování AI.",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Agenti s kontextovými grafy přinášejí proaktivní přístup do firem",
+      "title_orig": "Context Graphs for Proactive Enterprise Agents",
       "category": "research",
       "summary_cs": [
-        "Nová studie ukazuje, že kombinování více různých AI modelů pro zvýšení spolehlivosti často selhává.",
-        "Modely mají tendenci chybovat ve stejných oblastech, což firmy podceňují až více než dvojnásobně.",
-        "Tento fenomén, nazvaný co-failure ceiling, komplikuje návrh stoprocentně spolehlivých agentních systémů."
+        "Nový vědecký článek navrhuje koncept kontextových grafů, které mají změnit chování současných firemních AI agentů z reaktivního na proaktivní.",
+        "Místo pouhého čekání na dotaz uživatele dokážou tito agenti sami analyzovat firemní data a navrhovat řešení dříve, než problém nastane.",
+        "Tento přístup slibuje výrazné zvýšení produktivity díky neustálému monitorování procesů na pozadí."
       ],
-      "why_matters": "Varování pro české vývojáře, že pouhé řetězení modelů automaticky nezajistí bezchybný chod aplikací.",
-      "url": "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x",
-      "source": "VentureBeat AI"
+      "why_matters": "Přechod od reaktivních chatbotů k proaktivním pomocníkům je dalším evolučním krokem pro firemní AI.",
+      "url": "https://arxiv.org/abs/2607.07721",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Estonsko vyvinulo AI nástroj na hledání chyb v legislativě",
+      "title_orig": "The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
+      "category": "wildcard",
+      "summary_cs": [
+        "Po drahé chybě v textu zákona, která stála státní pokladnu miliony, vyvinulo Estonsko specializovaný AI systém pro kontrolu právních dokumentů.",
+        "Nástroj automaticky analyzuje navrhované zákony a hledá v nich logické rozpory, formulační chyby a nezamýšlené právní kličky.",
+        "Estonští úředníci tak chtějí digitalizovat a zabezpečit legislativní proces předtím, než normy vstoupí v platnost."
+      ],
+      "why_matters": "Inspirativní ukázka toho, jak může digitalizovaný stát efektivně využít AI k prevenci drahých chyb.",
+      "url": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Robot Neo od 1X předvádí neuvěřitelně rychlé a obratné prsty",
+      "title_orig": "The 1X Neo Robot Has Freaky Fast Fingers",
+      "category": "news",
+      "summary_cs": [
+        "Společnost 1X představila novou verzi svého humanoidního robota Neo, který je určen pro pomoc v domácnosti.",
+        "Robot dostal do výbavy nové, vysoce citlivé ruce, které mu umožňují manipulovat s drobnými předměty s nevídanou rychlostí a jemností.",
+        "Tento pokrok v oblasti hmatové zpětné vazby přibližuje roboty k bezpečnému nasazení při běžných domácích pracích."
+      ],
+      "why_matters": "Zlepšování jemné motoriky robotů je klíčové pro jejich budoucí integraci do našich domovů.",
+      "url": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+      "source": "Wired AI"
     }
   ]
 }
