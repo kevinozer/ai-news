@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T04:00:45.773793+00:00",
+  "generated_at": "2026-07-10T07:51:40.926449+00:00",
   "date": "2026-07-10",
-  "article_count_unique": 150,
-  "article_count_raw": 150,
+  "article_count_unique": 149,
+  "article_count_raw": 149,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -13,8 +13,8 @@
     {
       "source_id": "verge_ai",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "arstechnica",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "venturebeat_ai",
@@ -169,11 +169,59 @@
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "f9540543864c7d66",
+      "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
+      "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
+      "published_at": "2026-07-10T06:19:40+00:00",
+      "author": "Latent.Space",
+      "summary_raw": "A big day for OpenAI.",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/-MPGU2a67Ls",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "ab76f5f9bb676261",
+      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+      "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+      "published_at": "2026-07-10T06:00:00+00:00",
+      "author": "Chris Stokel-Walker",
+      "summary_raw": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
+      "hero_image": "https://media.wired.com/photos/6a4faec15defba4430906469/master/pass/GettyImages-2284616220.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "f675e89fca672153",
+      "title": "Onsemi se zbavuje dvou továren na čipy, podíl Windows je na historickém minimu, Nvidia našla v zisku přemožitele",
+      "url": "https://www.lupa.cz/clanky/onsemi-se-zbavuje-dvou-tovaren-na-cipy-podil-windows-je-na-historickem-minimu-nvidia-nasla-v-zisku-premozitele/",
+      "published_at": "2026-07-10T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Jatka v divizi Xbox v Microsoftu. Grok 4.5 od Muska je zde. Routery Tenda mají zadní vrátka. Konec prvního Switche v Evropě. Zprávy z IT, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/603/microcosmos.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "25bd0afc7b4bceeb",
+      "title": "Další akciový velikán z řad umělé inteligence jde na americký trh zkoušet náladu investorů. Tentokrát netradičně",
+      "url": "https://cc.cz/dalsi-akciovy-velikan-z-rad-umele-inteligence-jde-na-americky-trh-zkouset-naladu-investoru-tentokrat-netradicne/",
+      "published_at": "2026-07-10T04:16:30+00:00",
+      "author": "Václav Kinský",
+      "summary_raw": "Jihokorejský výrobce pamětí SK Hynix míří na Nasdaq a ukáže, jestli investoři pořád věří nejen Nvidii, ale i celému dodavatelskému řetězci kolem AI. Článek Další akciový velikán z řad umělé inteligence jde na americký trh zkoušet náladu investorů. Tentokrát netradičně se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/money-maker-recap-xyz-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "7a180de8f6cf5df9",
       "title": "Context Graphs for Proactive Enterprise Agents",
@@ -568,18 +616,6 @@
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "baa2470dad05a565",
-      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-      "published_at": "2026-07-09T23:24:04+00:00",
-      "author": "Jay Peters",
-      "summary_raw": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
       "category": "news"
     },
     {
@@ -1327,18 +1363,6 @@
       "category": "commentary"
     },
     {
-      "id": "1bc82e71527828e8",
-      "title": "Má robota Jarmila, rozhoduje za něj digitální mozek Bob a jeho startup zrychluje AI. Nikdo nechce čekat, říká",
-      "url": "https://cc.cz/ma-robota-jarmila-rozhoduje-za-nej-digitalni-mozek-bob-a-jeho-startup-zrychluje-ai-nikdo-nechce-cekat-rika/",
-      "published_at": "2026-07-09T04:04:53+00:00",
-      "author": "Ondřej Holzman",
-      "summary_raw": "Spoluzakladatel startupu BottleCap AI Jaroslav Beck popisuje, jak přemýšlí o budoucnosti i jak se jeho týmu daří zrychlovat umělou inteligenci. Článek Má robota Jarmila, rozhoduje za něj digitální mozek Bob a jeho startup zrychluje AI. Nikdo nechce čekat, říká se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/bob-jarda-jarmil-mvp-x-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "d57c2cf81e005959",
       "title": "Grok 4.5 🤖, GPT-Live 🎙️, SWE-1.7 👨‍💻",
       "url": "https://tldr.tech/ai/2026-07-09",
@@ -1555,18 +1579,6 @@
       "category": "news"
     },
     {
-      "id": "e42aded94b85824c",
-      "title": "Od Taylor Swift po Ewu Farnou. Čeští hudebníci odhalili, že i je vykrádá hudební AI, OSA připravuje žalobu",
-      "url": "https://cc.cz/od-taylor-swift-po-ewu-farnou-cesti-hudebnici-odhalili-ze-i-je-vykrada-hudebni-ai-osa-pripravuje-zalobu/",
-      "published_at": "2026-07-08T14:27:06+00:00",
-      "author": "Martin Samek",
-      "summary_raw": "Společnosti Sony nebo Universal už dříve Suno kvůli stejnému problému žalovaly, teď ale vyplynulo na povrch, že se problém týká i českých interpretů. Článek Od Taylor Swift po Ewu Farnou. Čeští hudebníci odhalili, že i je vykrádá hudební AI, OSA připravuje žalobu se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/ewa-taylor-osa-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "76f9ee79691e2d70",
       "title": "Our approach to government and national security partnerships",
       "url": "https://openai.com/index/government-national-security-partnerships",
@@ -1649,18 +1661,6 @@
       "source_id": "wired_ai",
       "source_name": "Wired AI",
       "category": "news"
-    },
-    {
-      "id": "dfa5914d022186f3",
-      "title": "První operátor v ČR zavede ochranu proti AI podvodům. Poskytne ji jeden z největších talentů Česka",
-      "url": "https://www.lupa.cz/clanky/prvni-operator-v-cr-zavede-ochranu-proti-ai-podvodum-poskytne-ji-jeden-z-nejvetsich-talentu-ceska/",
-      "published_at": "2026-07-08T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Podvody deep fake už jsou tak dobré, že může naletět v podstatě každý. Ochranu proti nim vyvíjí český vědec na Stanfordu a nyní zamíří do první mobilní sítě u nás.",
-      "hero_image": "https://i.iinfo.cz/images/264/matyas-bohacek.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "ba84937ffbe26a79",
@@ -1829,18 +1829,6 @@
       "source_id": "deepmind_blog",
       "source_name": "Google DeepMind Blog",
       "category": "labs"
-    },
-    {
-      "id": "9e31b8f73f3ea307",
-      "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
-      "published_at": "2026-07-03T05:11:43+00:00",
-      "author": "Richard MacManus",
-      "summary_raw": "The AI Engineer World&#8217;s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!M0WA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d4f7346-6688-4240-b077-16bf6f4a4a34_1280x815.jpeg",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "d62961a9e801e74e",
