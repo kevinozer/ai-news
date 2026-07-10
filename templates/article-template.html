@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="cs" data-theme="light">
+<html lang="cs" data-theme="dark">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -199,9 +199,9 @@ footer{background:var(--bg-alt);border-top:1px solid var(--line);padding:clamp(4
    </div>
    <div>
     <h4>Kontakt</h4>
-    <a href="mailto:ainamiru@ainamiru.cz">ainamiru@ainamiru.cz</a>
+    <a href="mailto:vladimir.cruz@aicruz.cz">vladimir.cruz@aicruz.cz</a>
     <a href="tel:+420731104184">+420 731 104 184</a>
-    <a href="https://www.instagram.com/ainamiru/" target="_blank" rel="noopener">Instagram</a>
+    <a href="https://www.instagram.com/aicruz.cz/" target="_blank" rel="noopener">Instagram</a>
     <a href="https://www.linkedin.com/in/mira-cruz/" target="_blank" rel="noopener">LinkedIn</a>
    </div>
   </div>
@@ -217,15 +217,15 @@ footer{background:var(--bg-alt);border-top:1px solid var(--line);padding:clamp(4
 </footer>
 
 <script>
-// Theme (sdílené s webem přes localStorage 'theme')
+// Theme (sdílené s webem přes localStorage 'cruz-theme', default tmavý jako web)
 (function(){
  const tt=document.getElementById('themeToggle');
- const saved=localStorage.getItem('theme');
+ const saved=localStorage.getItem('cruz-theme');
  if(saved==='dark')document.documentElement.setAttribute('data-theme','dark');
  if(tt)tt.addEventListener('click',()=>{
   const dark=document.documentElement.getAttribute('data-theme')==='dark';
   document.documentElement.setAttribute('data-theme',dark?'light':'dark');
-  localStorage.setItem('theme',dark?'light':'dark');
+  localStorage.setItem('cruz-theme',dark?'light':'dark');
  });
 })();
 // Burger (mobil)
