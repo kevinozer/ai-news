@@ -2,18 +2,18 @@ AI News | 11. července 2026
 
 Dnešní novinky:
 
-1. Apple tvrdě chrání své duševní vlastnictví a tato žaloba může ohrozit nedávno oznámené partnerství pro systém Apple Intelligence. Spor o krádež hardwarových tajemství ukazuje, jak agresivně OpenAI bojuje o talenty z konkurenčních laboratoří.
+1. Apple žaluje OpenAI za systematické kradení hardwarových tajemství a přetahování klíčových lidí. Tento ostrý spor přichází v momentě, kdy obě firmy paradoxně jednají o hlubší integraci systémů do iPhonů.
 
-2. Firmy v panice nakoupily drahé čipy od Nvidie, ale nyní 86 % z nich využívá tyto grafické karty na méně než polovinu kapacity. Tento masivní investiční dluh ukazuje, že podniky sice mají hardware, ale chybí jim jasná strategie pro jeho efektivní řízení.
+2. Meta po vlně kritiky okamžitě vypíná funkci Instagramu pro tvorbu deepfake obrázků z veřejných profilů. Ukazuje se, že tlak veřejnosti a regulátorů na ochranu soukromí začíná reálně měnit produktové plány gigantů.
 
-3. Tradiční metody testování softwaru selhávají u autonomních agentů, kteří dělají vlastní rozhodnutí v reálném čase. Polovina firem hlásí incidenty v komunikaci se zákazníky i přesto, že jejich AI pomocníci úspěšně prošli interními testy bezpečnosti.
+3. Polovina firem hlásí selhání AI asistentů před zákazníky, přestože systémy úspěšně prošly interními testy. Rychlý rozvoj autonomních agentů totiž dramaticky předbíhá stávající metody kontroly kvality.
 
-4. Meta musela po vlně kritiky rychle ustoupit a vypnout funkci, která umožňovala klonovat fotky z cizích veřejných profilů na Instagramu. Tento krok podtrhuje dlouhodobé potíže sociálních sítí s ochranou soukromí uživatelů před zneužitím generativní AI.
+4. Google představil model TabFM, který dokáže předpovídat tabulková data bez nutnosti zdlouhavého trénování na konkrétní databázi. Pro firemní analytiky to znamená konec drahého ladění modelů pro každou tabulku zvlášť.
 
-5. Google přichází s revolucí pro firemní analytiky, kteří dosud museli pro každou tabulku složitě trénovat nový model. Novinka TabFM dokáže okamžitě předpovídat trendy ve finančních datech a CRM systémech bez jakéhokoliv předchozího učení.
+5. Šéf platformy Hugging Face potvrzuje masivní odklon firem od pronájmu uzavřených modelů k provozu vlastních open-source řešení. Podniky z žebříčku Fortune 500 tak chtějí získat plnou kontrolu nad daty a náklady.
 
-6. Polovina firem z žebříčku Fortune 500 už raději provozuje vlastní otevřené modely na své infrastruktuře, než aby platila drahé pronájmy. Podniky se tímto krokem snaží vyhnout závislosti na velkých technologických gigantech a získat plnou kontrolu nad daty.
+6. Fidji Simo kvůli vážnému neuroimunitnímu onemocnění opouští vedení divize obecné AI v OpenAI a zůstává jen poradkyní. Pro firmu jde o další citelnou personální ztrátu v klíčové fázi vývoje superinteligence.
 
-7. Bývalý šéf americké centrální banky Fed pomůže dohlížet na bezpečnostní a etické směřování tvůrců modelu Claude. Anthropic tímto krokem posiluje svou pozici nejbezpečnější alternativy k OpenAI a získává silného spojence pro jednání s vládními regulátory.
+7. Kombinování více AI modelů paradoxně nesnižuje chybovost, ale podle nové studie ji zvyšuje až 2,25krát oproti odhadům. Vývojáři tak narážejí na matematické limity slepé důvěry v redundanci systémů.
 
-#AINews #AI #Apple #OpenAI #Meta #Google #Anthropic #OpenSource #AInaMiru
+#AINews #AI #Apple #OpenAI #Meta #Google #HuggingFace #Deepfake #AInaMiru
