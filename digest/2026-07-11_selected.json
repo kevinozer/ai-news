@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-11",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Apple žaluje OpenAI kvůli údajné krádeži obchodního tajemství o hardwaru",
+      "title_orig": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Apple podala žalobu na OpenAI a tvrdí, že její bývalí inženýři systematicky vynášeli přísně tajné informace.",
+        "Mezi ukradenými daty mají být důvěrné prezentace, prototypy a detaily o klíčových dodavatelích pro hardwarové plány.",
+        "Žaloba jmenuje také společnost IO Products, kterou vede designér Jony Ive a která s OpenAI na hardwaru spolupracuje."
+      ],
+      "why_matters": "Soudní spor technologických gigantů může zásadně ovlivnit budoucí vývoj a dostupnost specializovaného AI hardwaru.",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Meta po vlně kritiky stahuje z Instagramu funkci pro tvorbu deepfake snímků",
+      "title_orig": "Meta removes controversial AI feature on Instagram after backlash",
+      "category": "news",
+      "summary_cs": [
+        "Meta deaktivovala nově představený nástroj, který uživatelům umožňoval generovat AI obrázky na základě veřejných profilů.",
+        "K vytvoření syntetického obrazu stačilo pouze označit jakýkoli veřejný účet, což vyvolalo obavy ze zneužití identity.",
+        "Firma přiznala, že s touto funkcí šlápla vedle, a okamžitě ji z platformy odstranila."
+      ],
+      "why_matters": "Ukazuje se, jak tenká je hranice mezi kreativními nástroji a nebezpečným narušením osobního soukromí.",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Evropské konsorcium plánuje obří AI datacentra s vlastními čipy a servery",
+      "title_orig": "Evropa chce postavit obří datacentra pro AI na vlastních čipech a serverech. Toto jsou jejich dodavatelé",
+      "category": "business",
+      "summary_cs": [
+        "Nově zformované konsorcium Aether Infrastructure plánuje v Evropě vybudovat dvě masivní datacentra pro umělou inteligenci.",
+        "Cílem projektu s počáteční kapacitou 42 MW je snížit závislost na amerických technologiích a využít evropský hardware.",
+        "Iniciativa představuje klíčový krok pro posílení technologické suverenity a bezpečnosti dat na evropském kontinentu."
+      ],
+      "why_matters": "Projekt může českým firmám přinést bezpečnější a lokální infrastrukturu pro provoz náročných AI modelů.",
+      "url": "https://www.lupa.cz/aktuality/evropa-chce-postavit-obri-datacentra-pro-ai-na-vlastnich-cipech-a-serverech-toto-jsou-jejich-dodavatele/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Šéf bezpečnosti OpenAI Johannes Heidecke odchází z firmy",
+      "title_orig": "OpenAI’s Head of Safety Is Leaving the Company",
+      "category": "news",
+      "summary_cs": [
+        "Johannes Heidecke oznámil svůj odchod v době, kdy se OpenAI snaží těsněji propojit výzkumné a bezpečnostní týmy.",
+        "Jedná se o dalšího z řady klíčových bezpečnostních expertů, kteří v posledních měsících organizaci opustili.",
+        "Odchody vyvolávají v komunitě otázky ohledně priorit vedení firmy při vývoji pokročilých modelů."
+      ],
+      "why_matters": "Personální nestabilita v bezpečnostních týmech OpenAI může ovlivnit důvěryhodnost a regulaci jejích budoucích produktů.",
+      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Více než polovina firem se setkala s tím, že jejich AI agenti sebevědomě lhali",
+      "title_orig": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
+      "category": "research",
+      "summary_cs": [
+        "Průzkum ukázal, že 57 % podniků zaznamenalo situaci, kdy AI agent poskytl zcela chybná data s absolutní jistotou.",
+        "Chyba obvykle nespočívá v samotném modelu, ale v zastaralém kontextu a špatně nastavených vyhledávacích systémech.",
+        "Řešením má být nová vrstva pro řízení kontextu, která zajistí, že agenti budou pracovat s ověřenými metrikami."
+      ],
+      "why_matters": "Pro české manažery jde o varování, že bez kvalitních datových struktur jsou AI agenti rizikem.",
+      "url": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Firmy nechtějí AI pronajímat, ale vlastnit, říká šéf Hugging Face",
+      "title_orig": "Hugging Face’s CEO on why companies are done renting their AI",
+      "category": "open-source",
+      "summary_cs": [
+        "Clem Delangue upozorňuje na rostoucí trend, kdy podniky opouštějí proprietární API a přecházejí k open-source modelům.",
+        "Vlastní modely umožňují firmám plnou kontrolu nad daty, vyšší bezpečnost a eliminaci závislosti na jednom dodavateli.",
+        "Hugging Face se stal klíčovým centrem pro sdílení otevřených modelů, které dnes využívá polovina firem z Fortune 500."
+      ],
+      "why_matters": "Tento posun dává českým vývojářům možnost stavět nezávislá a nákladově efektivní řešení.",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Podniková AI naráží na propast v hodnocení spolehlivosti autonomních agentů",
+      "title_orig": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
+      "category": "research",
+      "summary_cs": [
+        "Podniky dávají AI agentům stále větší autonomii, ale jejich schopnost testovat a ověřovat chování systémů zaostává.",
+        "Polovina firem nasadila asistenty, kteří prošli interními testy, ale v reálném provozu u zákazníků selhali.",
+        "Důvěra v automatizované testování klesá a firmy hledají nové metodiky pro bezpečné nasazení."
+      ],
+      "why_matters": "Ukazuje nutnost zavést robustní testovací procesy předtím, než AI svěříte přímou komunikaci s klienty.",
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Google představil TabFM pro analýzu tabulkových dat bez nutnosti trénování",
+      "title_orig": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
+      "category": "labs",
+      "summary_cs": [
+        "Nový model TabFM dokáže provádět predikce nad tabulkami, které nikdy předtím neviděl, bez specifického ladění.",
+        "Tradiční analýza firemních dat dosud vyžadovala náročné trénování nového modelu pro každou datovou sadu zvlášť.",
+        "Tato technologie slibuje výrazné zjednodušení a zrychlení práce s databázemi a finančními výkazy."
+      ],
+      "why_matters": "Umožní analytikům okamžitě interpretovat složité tabulky bez asistence datových vědců.",
+      "url": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Emise oxidu uhličitého společnosti Microsoft vzrostly kvůli AI o čtvrtinu",
+      "title_orig": "Microsoft’s carbon emissions went up 25 percent last year",
+      "category": "business",
+      "summary_cs": [
+        "Udržitelnost Microsoftu naráží na limity, jeho emise CO2 vzrostly meziročně o 25 procent na 34 milionů tun.",
+        "Hlavním viníkem je masivní výstavba a provoz energeticky náročných datových center pro umělou inteligenci.",
+        "Firma přiznává, že splnění jejích ambiciózních klimatických cílů do roku 2030 bude extrémně náročné."
+      ],
+      "why_matters": "Rostoucí ekologická stopa AI bude v Evropě čelit stále přísnější regulaci a tlaku na zelenou energii.",
+      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Deutsche Telekom se mění na AI-native operátora díky partnerství s OpenAI",
+      "title_orig": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "category": "business",
+      "summary_cs": [
+        "Telekomunikační gigant integruje modely OpenAI napříč celou svou strukturou včetně zákaznické podpory a správy sítě.",
+        "Cílem je transformovat hlasové služby, zefektivnit interní procesy a zrychlit řešení technických incidentů.",
+        "Spolupráce ukazuje, jak tradiční korporace přecházejí od pilotních projektů k hluboké integraci AI."
+      ],
+      "why_matters": "Změny se přímo dotknou i českého trhu, kde Deutsche Telekom působí prostřednictvím operátora T-Mobile.",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Bývalý šéf Fedu Ben Bernanke se připojuje k dozorčí radě Anthropic Trust",
+      "title_orig": "Jul 9, 2026 Announcements Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "category": "business",
+      "summary_cs": [
+        "Laureát Nobelovy ceny za ekonomii Ben Bernanke byl jmenován do fondu Long-Term Benefit Trust společnosti Anthropic.",
+        "Tento nezávislý orgán má za úkol dohlížet na to, aby vývoj AI v Anthropicu sloužil dlouhodobému prospěchu lidstva.",
+        "Zapojení takto významné osobnosti posiluje pozici Anthropicu jako lídra v oblasti zodpovědného vývoje."
+      ],
+      "why_matters": "Účast elitních ekonomů v AI governance ukazuje, jak vážně se bere vliv technologií na globální stabilitu.",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "source": "Anthropic News"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Domácí datacentrum v obýváku? Sunrun zkouší distribuovaný výpočetní výkon",
+      "title_orig": "Would you host part of an AI data center in your home?",
+      "category": "wildcard",
+      "summary_cs": [
+        "Společnost Sunrun spouští pilotní program, v němž nabízí zákazníkům instalaci AI výpočetních jednotek přímo do domovů.",
+        "Projekt využívá domácí solární systémy a bateriová úložiště k napájení decentralizované sítě pro AI výpočty.",
+        "Uživatelé získají finanční kompenzaci za to, že poskytnou prostor a energii pro zpracování dat."
+      ],
+      "why_matters": "Předznamenává to možný posun od obřích centralizovaných datacenter k lokální, komunitní infrastruktuře.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Domácí robot Neo od 1X dostal neuvěřitelně rychlé a citlivé prsty",
+      "title_orig": "The 1X Neo Robot Has Freaky Fast Fingers",
+      "category": "wildcard",
+      "summary_cs": [
+        "Robot Neo, určený pro pomoc v domácnosti, byl vybaven novou generací vysoce hmatových a rychlých rukou.",
+        "Díky pokročilým senzorům dokáže jemně manipulovat s křehkými předměty a provádět složité domácí práce.",
+        "Výrobce se zaměřuje na přirozenou interakci a bezpečnost robota při pohybu v blízkosti lidí."
+      ],
+      "why_matters": "Pokrok v robotice přibližuje éru, kdy budou autonomní pomocníci běžnou součástí našich domovů.",
+      "url": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "První muzeum umění vytvořeného umělou inteligencí se otevírá v galerii Dataland",
+      "title_orig": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+      "category": "wildcard",
+      "summary_cs": [
+        "Vzniká první muzeum na světě dedikované výhradně AI umění, které kombinuje biometrická data a přírodní motivy.",
+        "Expozice využívá nositelnou elektroniku návštěvníků k tomu, aby se generované umění v reálném čase přizpůsobovalo jejich emocím.",
+        "Projekt se snaží ukázat, že AI může sloužit jako hluboké médium pro lidské vyjádření, nikoli jen jako generátor kopií."
+      ],
+      "why_matters": "Inspirativní ukázka toho, jak moderní technologie redefinují hranice klasické kultury a zážitkového umění.",
+      "url": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Anthropic vyzývá veřejnost k zasílání nejtěžších otázek o umělé inteligenci",
+      "title_orig": "Inviting hard questions Announcements Jul 9, 2026 We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost Anthropic spustila novou iniciativu, ve které žádá veřejnost o zaslání nejpalčivějších dotazů ohledně AI.",
+        "Firma se zavázala transparentně ukázat své interní postupy a výzkum při hledání odpovědí na tyto výzvy.",
+        "Tento krok má posílit důvěru veřejnosti a otevřít debatu o etických aspektech vývoje hraničních modelů."
+      ],
+      "why_matters": "Otevřený dialog dává možnost i českým odborníkům a veřejnosti přímo ovlivnit témata, kterými se vývojáři zabývají.",
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "source": "Anthropic News"
+    }
+  ]
+}
