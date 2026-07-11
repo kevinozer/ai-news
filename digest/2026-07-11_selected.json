@@ -9,206 +9,206 @@
       "summary_cs": [
         "Společnost Apple podala žalobu na OpenAI kvůli údajnému systematickému odcizení obchodních tajemství.",
         "Podle žaloby OpenAI motivovala přetažené zaměstnance k tomu, aby s sebou přinesli tajné prezentace, prototypy a detaily o dodavatelích.",
-        "Tento krok zásadně vyostřuje vztahy mezi oběma technologickými giganty v oblasti vývoje umělé inteligence."
+        "Tento krok zásadně vyostřuje vztahy mezi oběma technologickými giganty v době, kdy se očekávala jejich hlubší spolupráce."
       ],
-      "why_matters": "Soudní spor mezi Applem a OpenAI může zásadně ovlivnit budoucí integraci AI do produktů Apple.",
+      "why_matters": "Soudní spor mezi dvěma nejvlivnějšími hráči může drasticky ovlivnit integraci AI do produktů Apple.",
       "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
       "source": "Wired AI"
     },
     {
       "rank": 2,
-      "title_cs": "Meta vypíná funkci Instagramu umožňující tvorbu deepfake snímků veřejných účtů",
+      "title_cs": "VentureBeat výzkum ukazuje, že 86 procent firemních GPU běží na polovinu kapacity",
+      "title_orig": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less",
+      "category": "business",
+      "summary_cs": [
+        "Průzkum mezi technickými lídry ukázal, že naprostá většina firemních grafických procesorů není plně využita.",
+        "Podniky nasazují pokročilé AI agenty dříve, než mají k dispozici adekvátní kontrolní mechanismy pro jejich řízení.",
+        "Tento nesoulad vyvolává na Wall Street debaty o reálné návratnosti masivních investic do AI infrastruktury."
+      ],
+      "why_matters": "Ukazuje to na obrovskou neefektivitu při nákupu drahého hardwaru ve firemním sektoru.",
+      "url": "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Meta vypíná funkci Instagramu umožňující tvorbu AI deepfake videí veřejných účtů",
       "title_orig": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
       "category": "news",
       "summary_cs": [
-        "Meta po vlně kritiky deaktivovala nově představenou funkci pro generování AI obrázků na základě obsahu z veřejných profilů.",
-        "Původní nastavení umožňovalo komukoliv použít fotky z cizího veřejného účtu pro tvorbu AI obsahu pouhým označením.",
-        "Krok ukazuje na rostoucí citlivost veřejnosti i regulátorů vůči zneužívání osobních dat pro trénování a generování AI."
+        "Meta po silné vlně kritiky deaktivovala nově představenou funkci pro generování AI obrázků na základě obsahu veřejných profilů.",
+        "Původní nastavení umožňovalo komukoliv zneužít fotky z cizích veřejných účtů pouhým označením v příspěvku.",
+        "Rozhodnutí ukazuje na rostoucí citlivost veřejnosti i regulátorů vůči ochraně osobních údajů v éře generativní AI."
       ],
-      "why_matters": "Týká se ochrany soukromí milionů uživatelů Instagramu včetně českých tvůrců a veřejných osobností.",
+      "why_matters": "Zásadní krok pro ochranu soukromí uživatelů na sociálních sítích před zneužitím jejich tváře.",
       "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
       "source": "The Verge AI"
     },
     {
-      "rank": 3,
-      "title_cs": "Hugging Face věří, že open-source AI je nyní důležitější než kdy dříve",
-      "title_orig": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "category": "open-source",
-      "summary_cs": [
-        "Šéf platformy Hugging Face Clem Delangue poukazuje na masivní rozmach otevřených modelů v podnikové sféře.",
-        "Firmy stále častěji odmítají pouhý pronájem proprietárních modelů a raději volí vlastní hostování open-source řešení.",
-        "Hugging Face se stal de facto standardem pro sdílení modelů a datových sad, který využívá polovina firem z žebříčku Fortune 500."
-      ],
-      "why_matters": "Ukazuje trend přechodu firem k nezávislým open-source modelům z důvodu bezpečnosti a kontroly.",
-      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "source": "TechCrunch AI"
-    },
-    {
       "rank": 4,
-      "title_cs": "Podniky narážejí na limity testování: AI agenti získávají autonomii příliš rychle",
+      "title_cs": "Podniková AI naráží na propast v hodnocení, agenti získávají autonomii příliš rychle",
       "title_orig": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
-      "category": "labs",
+      "category": "research",
       "summary_cs": [
-        "Nová studie ukazuje, že polovina firem nasadila AI agenty, kteří prošli interními testy, ale přesto selhali před zákazníky.",
-        "Schopnosti autonomního rozhodování agentů rostou rychleji, než jak je firmy stíhají spolehlivě ověřovat.",
-        "Tento stav vytváří nebezpečnou mezeru v hodnocení rizik, která může ohrozit důvěru v podnikovou umělou inteligenci."
+        "Polovina firem nasadila AI agenty, kteří úspěšně prošli interními testy, ale v reálném provozu způsobili selhání u zákazníků.",
+        "Důvěra v automatizované testování klesá v momentě, kdy týmy dávají agentům stále větší rozhodovací pravomoci.",
+        "Rychlý vývoj schopností předbíhá metodiky, kterými lze bezpečně ověřit chování autonomních systémů."
       ],
-      "why_matters": "Varuje české firmy před unáhleným nasazováním autonomních agentů bez robustních testovacích mechanismů.",
+      "why_matters": "Varování pro české firmy před unáhleným nasazováním agentů bez robustního testování.",
       "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
       "source": "VentureBeat AI"
     },
     {
       "rank": 5,
-      "title_cs": "Google představuje TabFM: Model pro předpovědi v tabulkách bez nutnosti specifického trénování",
+      "title_cs": "Google představuje TabFM pro predikci nad tabulkovými daty bez nutnosti trénování",
       "title_orig": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
-      "category": "research",
+      "category": "labs",
       "summary_cs": [
-        "Google vyvinul model TabFM, který dokáže analyzovat a předpovídat data v tabulkách, jež nikdy předtím neviděl.",
-        "Tradiční přístup vyžadoval pro každou novou tabulku zdlouhavé trénování modelu od nuly a náročnou údržbu.",
-        "Tato novinka může dramaticky zrychlit práci s podnikovými databázemi, CRM systémy a finančními výkazy."
+        "Nový model TabFM od Googlu dokáže analyzovat a předpovídat data v tabulkách, které nikdy předtím neviděl.",
+        "Odstraňuje nutnost trénovat nový model pro každou datovou sadu zvlášť a složitě řešit posun v datech.",
+        "Tato technologie může dramaticky zjednodušit práci s firemními databázemi, CRM systémy a finančními výkazy."
       ],
-      "why_matters": "Zásadně zjednodušuje a zlevňuje analýzu tabulkových dat pro firmy všech velikostí.",
+      "why_matters": "Zpřístupňuje pokročilou datovou analytiku bez nutnosti drahého vývoje vlastních modelů.",
       "url": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
       "source": "VentureBeat AI"
     },
     {
       "rank": 6,
-      "title_cs": "Fidji Simo odchází z vedení divize AGI v OpenAI kvůli nemoci",
-      "title_orig": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "title_cs": "Bývalý šéf Fedu Ben Bernanke jmenován do správní rady Anthropic Long-Term Benefit Trust",
+      "title_orig": "Jul 9, 2026 Announcements Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
       "category": "business",
       "summary_cs": [
-        "Fidji Simo opouští svou plnou roli šéfky nasazení obecné umělé inteligence (AGI) v OpenAI ze zdravotních důvodů.",
-        "Simo trpí neuroimunitním onemocněním a po předchozí lékařské dovolené přechází do role externího poradce.",
-        "Tato personální změna přichází v kritické fázi, kdy OpenAI zrychluje uvádění svých nejpokročilejších modelů."
+        "Laureát Nobelovy ceny a bývalý předseda Federálního rezervního systému se stává klíčovým členem dozorčího orgánu Anthropicu.",
+        "Tento trust má za úkol dohlížet na to, aby vývoj obecné umělé inteligence (AGI) sloužil zájmům celého lidstva.",
+        "Zapojení takto významné osobnosti posiluje důvěryhodnost firmy v oblasti odpovědného přístupu k bezpečnosti AI."
       ],
-      "why_matters": "Odchod klíčové manažerky může ovlivnit strategii OpenAI při uvádění bezpečných AGI systémů na trh.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-      "source": "The Verge AI"
-    },
-    {
-      "rank": 7,
-      "title_cs": "Průzkum odhaluje neefektivitu: Podniky využívají své zakoupené GPU na méně než polovinu",
-      "title_orig": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less",
-      "category": "news",
-      "summary_cs": [
-        "Průzkum mezi technickými lídry ukázal, že 86 procent podniků provozuje své dedikované GPU na polovinu kapacity či méně.",
-        "Firmy často nakupují drahý hardware do zásoby, aniž by měly připravené aplikace a procesy pro jeho plné vytížení.",
-        "Tato data mohou ochladit současnou investiční horečku na akciových trzích spojenou s AI infrastrukturou."
-      ],
-      "why_matters": "Ukazuje na reálné riziko přeinvestování do hardwaru bez odpovídajícího softwarového využití.",
-      "url": "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less",
-      "source": "VentureBeat AI"
-    },
-    {
-      "rank": 8,
-      "title_cs": "Ben Bernanke, nositel Nobelovy ceny, se připojuje k fondu Anthropic Long-Term Benefit Trust",
-      "title_orig": "Jul 9, 2026 Announcements Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-      "category": "labs",
-      "summary_cs": [
-        "Bývalý šéf amerického Fedu Ben Bernanke byl jmenován do dozorčího fondu společnosti Anthropic.",
-        "Tento nezávislý trust má za úkol dohlížet na to, aby vývoj modelů Claude zůstal v souladu s dlouhodobým prospěchem lidstva.",
-        "Zapojení takto významné osobnosti posiluje image Anthropicu jako etické a zodpovědné AI laboratoře."
-      ],
-      "why_matters": "Vlivná ekonomická figura v dozorčí radě posiluje důvěryhodnost a stabilitu hlavního konkurenta OpenAI.",
+      "why_matters": "Ukazuje, jak se správa nejvýkonnějších AI laboratoří propojuje s nejvyššími patry globální politiky a ekonomiky.",
       "url": "https://www.anthropic.com/news/ben-bernanke",
       "source": "Anthropic News"
     },
     {
-      "rank": 9,
-      "title_cs": "Propojování modelů selhává: Studie varuje před falešným optimismem u kombinování AI",
-      "title_orig": "Enterprises using multiple AI models are underestimating failure rates by 2.25x",
-      "category": "research",
+      "rank": 7,
+      "title_cs": "Hugging Face hlásí boom open-source AI, firmy již nechtějí pronajímat cizí modely",
+      "title_orig": "Hugging Face’s CEO on why companies are done renting their AI",
+      "category": "open-source",
       "summary_cs": [
-        "Výzkum ukázal, že firmy výrazně podceňují chybovost při současném využívání více různých AI modelů najednou.",
-        "Předpoklad, že specializované modely navzájem pokryjí své slabiny, naráží na takzvaný strop společného selhání.",
-        "V praxi tak dochází k neočekávaným chybám, které běžné testovací scénáře nedokážou předpovědět."
+        "Ředitel platformy Hugging Face Clem Delangue tvrdí, že éra pouhého pronajímání proprietárních modelů končí.",
+        "Stále více firem přechází na open-source řešení, která si mohou sami hostovat, upravovat a plně kontrolovat.",
+        "Tento trend podporuje rozvoj lokálních aplikací a snižuje závislost na několika málo technologických gigantech."
       ],
-      "why_matters": "Pomáhá českým vývojářům lépe navrhovat a vyhodnocovat komplexní multi-modelové architektury.",
-      "url": "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x",
-      "source": "VentureBeat AI"
-    },
-    {
-      "rank": 10,
-      "title_cs": "Nvidia doplácí na trh s výpočetním výkonem, který sama pomohla stvořit",
-      "title_orig": "Nvidia is a victim of the compute marketplace it created",
-      "category": "business",
-      "summary_cs": [
-        "Nvidia čelí tlaku na trhu s AI čipy, kde se objevuje stále více alternativních řešení a specializovaných cloudů.",
-        "Ačkoliv poptávka po výkonu roste, jednodušší technologie a zprostředkovatelé kapacit začínají generovat vysoké zisky.",
-        "Nvidia se tak ocitá uprostřed vysoce konkurenčního prostředí, které sama nastartovala."
-      ],
-      "why_matters": "Analýza dynamiky trhu s čipy napovídá, jak se budou vyvíjet ceny cloudového AI výkonu.",
-      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+      "why_matters": "Českým vývojářům se otevírají dveře k nezávislým a nákladově efektivnějším AI řešením.",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 11,
-      "title_cs": "Deutsche Telekom se transformuje na AI-nativního operátora ve spolupráci s OpenAI",
-      "title_orig": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "category": "labs",
+      "rank": 8,
+      "title_cs": "Fidji Simo odchází z vedení divize AGI v OpenAI kvůli vážné nemoci",
+      "title_orig": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "category": "news",
       "summary_cs": [
-        "Deutsche Telekom integruje technologie OpenAI napříč celou svou strukturou včetně zákaznické podpory a správy sítě.",
-        "Cílem je vytvořit hlasové asistenty nové generace a zefektivnit interní procesy pro tisíce zaměstnanců.",
-        "Tato hluboká integrace ukazuje praktický směr pro velké telekomunikační hráče v Evropě."
+        "Fidji Simo opouští svou plnou roli šéfky nasazení obecné umělé inteligence v OpenAI ze zdravotních důvodů.",
+        "Její odchod souvisí s neuroimunitním onemocněním, kvůli kterému byla již dříve na lékařské dovolené.",
+        "Ve firmě zůstane působit pouze jako externí poradkyně na částečný úvazek."
       ],
-      "why_matters": "Tato transformace mateřské společnosti T-Mobile přímo ovlivní telekomunikační služby v České republice.",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "source": "OpenAI Blog"
+      "why_matters": "Personální změna na klíčovém postu může ovlivnit rychlost a směr komercializace budoucích modelů OpenAI.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "source": "The Verge AI"
     },
     {
-      "rank": 12,
+      "rank": 9,
+      "title_cs": "Microsoft zaznamenal pětadvacetiprocentní nárůst emisí uhlíku kvůli AI datacentrům",
+      "title_orig": "Microsoft’s carbon emissions went up 25 percent last year",
+      "category": "news",
+      "summary_cs": [
+        "Zpráva o udržitelnosti za rok 2026 odhalila, že emise Microsoftu vzrostly o čtvrtinu na 34 milionů tun.",
+        "Hlavním viníkem je masivní výstavba a provoz energeticky náročných datacenter pro umělou inteligenci.",
+        "Tento vývoj vážně ohrožuje ambiciózní klimatické cíle společnosti dosáhnout uhlíkové neutrality."
+      ],
+      "why_matters": "Upozorňuje na skrytou ekologickou daň za rychlý rozvoj a používání AI služeb.",
+      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 10,
       "title_cs": "Google zavádí povinné označování reklam vytvořených pomocí umělé inteligence",
       "title_orig": "Google will now disclose which ads are made with AI",
       "category": "news",
       "summary_cs": [
-        "Google začne transparentně označovat reklamní formáty, které byly vygenerovány nebo upraveny pomocí AI.",
-        "Opatření má zabránit šíření klamavého obsahu a zvýšit důvěru uživatelů v digitální reklamu.",
-        "Doposud byly tyto povinné deklarace vyžadovány pouze u politických a volebních kampaní."
+        "Google rozšiřuje svá pravidla a bude vyžadovat jasné označení u všech reklam, které využívají syntetický nebo upravený obsah.",
+        "Doposud se tato povinnost vztahovala pouze na politickou inzerci před volbami.",
+        "Cílem je zvýšit transparentnost a bojovat proti dezinformacím a klamavým obchodním praktikám."
       ],
-      "why_matters": "Zásadní změna pro české marketingové agentury a tvůrce obsahu využívající AI generátory.",
+      "why_matters": "Zásadní změna pro české markeťáky a firmy využívající AI ke generování reklamních vizuálů.",
       "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 13,
-      "title_cs": "Anthropic vyzývá veřejnost k zasílání nejtěžších otázek o umělé inteligenci",
-      "title_orig": "Inviting hard questions Announcements Jul 9, 2026 We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+      "rank": 11,
+      "title_cs": "Sunrun nabízí domácnostem peníze za umístění AI serverů přímo do jejich domovů",
+      "title_orig": "Would you host part of an AI data center in your home?",
+      "category": "wildcard",
+      "summary_cs": [
+        "Solární společnost Sunrun spouští pilotní program distribuovaného výpočetního výkonu pro umělou inteligenci.",
+        "Zákazníci dostanou zaplaceno za to, že si doma nechají nainstalovat menší výpočetní uzly napojené na domácí baterie.",
+        "Tento decentralizovaný přístup by mohl zmírnit tlak na přetíženou elektrickou síť a obří datacentra."
+      ],
+      "why_matters": "Ukazuje netradiční budoucnost infrastruktury, kde se domácnosti mohou stát součástí globální sítě pro běh AI.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Deutsche Telekom se transformuje na AI-native operátora ve spolupráci s OpenAI",
+      "title_orig": "How Deutsche Telekom is rewiring telecommunications with AI",
       "category": "labs",
       "summary_cs": [
-        "Společnost Anthropic spustila iniciativu, v níž žádá veřejnost o zaslání nejpalčivějších a nejtěžších dotazů ohledně AI.",
-        "Firma se zavázala transparentně ukázat své interní postupy a výzkum při odpovídání na tyto výzvy.",
-        "Jde o součást snahy o budování důvěry a otevřeného dialogu mezi vývojáři a širokou veřejností."
+        "Telekomunikační gigant integruje technologie OpenAI do všech úrovní svého podnikání.",
+        "AI pomáhá s automatizací zákaznické podpory, optimalizací síťového provozu i zefektivněním interních procesů.",
+        "Spolupráce ukazuje, jak tradiční korporace mohou hluboce integrovat LLM do své každodenní infrastruktury."
       ],
-      "why_matters": "Umožňuje komunitě přímo konfrontovat tvůrce Claude s etickými a technickými obavami.",
-      "url": "https://www.anthropic.com/news/hard-questions",
+      "why_matters": "Tento trend se přímo dotkne i českého trhu, kde Deutsche Telekom působí prostřednictvím T-Mobile.",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Společnost UST přináší modely Claude od Anthropicu do oblasti fyzické robotiky",
+      "title_orig": "Jul 9, 2026 Case Study UST is bringing Claude to physical AI",
+      "category": "labs",
+      "summary_cs": [
+        "Případová studie popisuje integraci jazykových modelů Claude do řízení fyzických robotických systémů.",
+        "Spojení pokročilého uvažování LLM s robotickým hardwarem umožňuje strojům lépe chápat komplexní úkoly v reálném světě.",
+        "Tento přístup otevírá nové možnosti pro automatizaci ve skladech, továrnách i v domácí péči."
+      ],
+      "why_matters": "Předznamenává příchod nové generace inteligentních robotů schopných přirozené interakce s okolím.",
+      "url": "https://www.anthropic.com/news/ust-claude",
       "source": "Anthropic News"
     },
     {
       "rank": 14,
-      "title_cs": "Microsoft využívá AI k rychlejšímu odhalování chyb v aktualizacích Windows",
-      "title_orig": "Microsoft’s patch Tuesdays are about to get bigger",
-      "category": "tools",
-      "summary_cs": [
-        "Microsoft začal nasazovat AI modely k dřívější identifikaci potenciálních bezpečnostních rizik v systému Windows 11.",
-        "Uživatelé mohou v důsledku toho očekávat větší objem bezpečnostních záplat v rámci pravidelných aktualizačních balíčků.",
-        "Cílem je předcházet zneužití nově objevených zranitelností ze strany útočníků, kteří rovněž začínají AI využívat."
-      ],
-      "why_matters": "Zvyšuje bezpečnost stovek tisíc počítačů s Windows v českých domácnostech a firmách.",
-      "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "source": "The Verge AI"
-    },
-    {
-      "rank": 15,
-      "title_cs": "Dataland otevírá první muzeum umění vytvořeného umělou inteligencí",
+      "title_cs": "První muzeum umění vytvořeného umělou inteligencí Dataland propojuje biometrii a přírodu",
       "title_orig": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
       "category": "wildcard",
       "summary_cs": [
-        "Vzniká unikátní zážitková galerie Dataland, která se prezentuje jako první muzeum AI umění na světě.",
-        "Expozice kombinuje biometrická data, nositelnou elektroniku a rozsáhlé datové sady z Amazonie k propojení přírody a technologií.",
-        "Projekt se snaží změnit skeptický pohled veřejnosti na estetickou hodnotu děl generovaných algoritmy."
+        "V galerii Dataland se otevřela expozice prezentovaná jako první muzeum zaměřené výhradně na AI umění.",
+        "Projekt využívá nositelnou elektroniku a obří databáze z Amazonie k propojení lidských biometrických dat s vizuální tvorbou.",
+        "Výstava se snaží změnit skeptický pohled veřejnosti na estetickou hodnotu děl generovaných algoritmy."
       ],
-      "why_matters": "Ukazuje nový směr, jakým se může ubírat moderní digitální umění a interaktivní výstavy.",
+      "why_matters": "Inspirativní ukázka toho, jak lze AI využít pro hluboké umělecké a smyslové zážitky.",
       "url": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Robot Neo od 1X ukazuje neuvěřitelně rychlé a obratné prsty pro domácí práce",
+      "title_orig": "The 1X Neo Robot Has Freaky Fast Fingers",
+      "category": "wildcard",
+      "summary_cs": [
+        "Humanoidní robot Neo, vyvíjený s podporou OpenAI, dostal nové vysoce citlivé a rychlé ruce.",
+        "Díky měkké konstrukci a pokročilé hmatové zpětné vazbě zvládá jemnou manipulaci s předměty v domácnosti.",
+        "Vývoj směřuje k bezpečnému nasazení těchto asistentů přímo v běžném lidském prostředí."
+      ],
+      "why_matters": "Technologický pokrok nás posouvá blíže k reálnému nasazení robotických pomocníků v našich domovech.",
+      "url": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
       "source": "Wired AI"
     }
   ]
