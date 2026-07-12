@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12T04:00:38.124545+00:00",
+  "generated_at": "2026-07-12T06:45:49.724426+00:00",
   "date": "2026-07-12",
-  "article_count_unique": 88,
-  "article_count_raw": 88,
+  "article_count_unique": 85,
+  "article_count_raw": 85,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "venturebeat_ai",
@@ -163,13 +163,13 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 5
+      "count": 1,
+      "raw_count": 4
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "raw_count": 10
     }
   ],
@@ -715,18 +715,6 @@
       "category": "news"
     },
     {
-      "id": "a0ef0384e1d9d38a",
-      "title": "Nejdřív si ho proklepl Trumpův úřad, teď nejsilnější ChatGPT míří mezi lidi. Je opravdu tak výjimečný?",
-      "url": "https://cc.cz/nejdriv-si-ho-proklepl-trumpuv-urad-ted-nejsilnejsi-chatgpt-miri-mezi-lidi-je-opravdu-tak-vyjimecny/",
-      "published_at": "2026-07-10T09:19:50+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "OpenAI oficiálně vydává svou dosud nejlepší AI GPT-5.6. Sází na rychlost a nízkou cenu, trůn však konkurenčnímu Anthropicu jednoznačně nesebrala. Článek Nejdřív si ho proklepl Trumpův úřad, teď nejsilnější ChatGPT míří mezi lidi. Je opravdu tak výjimečný? se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/chatgpt-trump-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "0f9d74b3bd68fc13",
       "title": "Sperm donors need limits, says a European fertility group",
       "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
@@ -761,30 +749,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "ab76f5f9bb676261",
-      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-      "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
-      "published_at": "2026-07-10T06:00:00+00:00",
-      "author": "Chris Stokel-Walker",
-      "summary_raw": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an urgent question: Can global governance catch up before the technology races beyond its control?",
-      "hero_image": "https://media.wired.com/photos/6a4faec15defba4430906469/master/pass/GettyImages-2284616220.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "f675e89fca672153",
-      "title": "Onsemi se zbavuje dvou továren na čipy, podíl Windows je na historickém minimu, Nvidia našla v zisku přemožitele",
-      "url": "https://www.lupa.cz/clanky/onsemi-se-zbavuje-dvou-tovaren-na-cipy-podil-windows-je-na-historickem-minimu-nvidia-nasla-v-zisku-premozitele/",
-      "published_at": "2026-07-10T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Jatka v divizi Xbox v Microsoftu. Grok 4.5 od Muska je zde. Routery Tenda mají zadní vrátka. Konec prvního Switche v Evropě. Zprávy z IT, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/603/microcosmos.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "d25aac8b85ef5d9f",
