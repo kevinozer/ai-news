@@ -3,213 +3,213 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "Český startup jako jeden z prvních prodává robotickým zákazníkům bez lidského souhlasu",
-      "title_orig": "K placení nepotřebují souhlas člověka. Český startup jako jeden z prvních prodává robotickým zákazníkům",
-      "category": "business",
-      "summary_cs": [
-        "Umělá inteligence získává schopnost samostatně nakupovat a platit za služby, které potřebuje ke splnění svých úkolů.",
-        "Český startup se stává průkopníkem v oblasti infrastruktury pro autonomní ekonomické transakce mezi stroji.",
-        "Tento posun přináší obrovské zjednodušení procesů, ale zároveň otevírá nová bezpečnostní a finanční rizika."
-      ],
-      "why_matters": "Ukazuje, jak české firmy reálně utvářejí budoucnost autonomní ekonomiky a platebních systémů pro AI agenty.",
-      "url": "https://cc.cz/k-placeni-nepotrebuji-souhlas-cloveka-cesky-startup-jako-jeden-z-prvnich-prodava-robotickym-zakaznikum/",
-      "source": "CzechCrunch"
-    },
-    {
-      "rank": 2,
-      "title_cs": "OpenAI představuje ChatGPT Work, autonomního agenta pro správu e-mailů a kalendářů",
-      "title_orig": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
-      "category": "labs",
-      "summary_cs": [
-        "Nástroj ChatGPT Work mění chatovací aplikaci na autonomní pracovní platformu schopnou plnit složité úkoly.",
-        "Agent se dokáže integrovat do e-mailů, kalendářů, komunikačních platforem jako Slack a repozitářů kódu.",
-        "Uživatelé mohou zadávat komplexní cíle, na kterých systém pracuje samostatně po dobu několika hodin."
-      ],
-      "why_matters": "Znamená to přechod od pouhého odpovídání na dotazy k plně autonomní kancelářské práci.",
-      "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
-      "source": "VentureBeat AI"
-    },
-    {
-      "rank": 3,
-      "title_cs": "Slopsquatting představuje novou hrozbu pro softwarový dodavatelský řetězec kvůli AI",
-      "title_orig": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
-      "category": "news",
-      "summary_cs": [
-        "Slopsquatting je nový typ útoku na dodavatelský řetězec, který zneužívá halucinace AI programovacích asistentů.",
-        "Útočníci registrují neexistující balíčky, které AI modely často vymýšlejí a doporučují vývojářům k instalaci.",
-        "Vývojáři tak mohou nevědomky integrovat škodlivý kód do svých aplikací hned od prvního dne vývoje."
-      ],
-      "why_matters": "Upozorňuje na kritické bezpečnostní riziko při slepé důvěře v kód generovaný umělou inteligencí.",
-      "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
-      "source": "VentureBeat AI"
-    },
-    {
-      "rank": 4,
-      "title_cs": "SK Hynix získal 26,5 miliardy dolarů v historicky největším zahraničním IPO v USA",
-      "title_orig": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "category": "business",
-      "summary_cs": [
-        "Jihokorejský gigant SK Hynix úspěšně vstoupil na americkou burzu a získal rekordní finanční prostředky.",
-        "Masivní zájem investorů podtrhuje neutichající boom kolem hardwaru pro umělou inteligenci a paměťových čipů.",
-        "Spojené státy nyní na firmu tlačí, aby vybudovala nové továrny na polovodiče přímo na americkém území."
-      ],
-      "why_matters": "Tento rekordní vstup na burzu potvrzuje, že hardware pro AI zůstává hlavním motorem globálního technologického trhu.",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 5,
-      "title_cs": "Hugging Face zdůrazňuje rostoucí význam open-source modelů pro firmy",
-      "title_orig": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "category": "open-source",
-      "summary_cs": [
-        "Ředitel platformy Hugging Face Clem Delangue poukazuje na masivní rozmach otevřených modelů v komerční sféře.",
-        "Přibližně polovina firem z žebříčku Fortune 500 již aktivně stahuje a využívá otevřené modely a datasety.",
-        "Open-source přístup dává firmám větší kontrolu nad jejich daty a snižuje závislost na velkých technologických poskytovatelích."
-      ],
-      "why_matters": "Ukazuje, že otevřená AI se stává standardem pro podniky, které chtějí mít plnou kontrolu nad svým softwarem.",
-      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 6,
-      "title_cs": "OpenAI se zaměřuje na rodiny a domácnosti s novou produktovou rolí",
+      "title_cs": "OpenAI sází na rodiny a hledá manažera pro zapojení domácností do ekosystému ChatGPT",
       "title_orig": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "category": "news",
+      "category": "business",
       "summary_cs": [
-        "OpenAI hledá specializovaného produktového manažera, který bude mít na starosti integraci ChatGPT do rodinného života.",
-        "Cílem je vytvořit specifické funkce pro rodiny, pečovatele a také pro starší dospělé uživatele.",
-        "Tento krok naznačuje snahu o rozšíření uživatelské základny mimo technologické nadšence a firemní sféru."
+        "Společnost OpenAI vypisuje novou pracovní pozici pro produktového manažera, který se bude specializovat na rodiny, pečovatele a starší dospělé.",
+        "Cílem je vytvořit bezpečné a intuitivní prostředí, které usnadní každodenní fungování celé domácnosti s pomocí umělé inteligence.",
+        "Tento krok ukazuje posun od čistě technologických nadšenců k masovému trhu a integraci AI do běžného rodinného života."
       ],
-      "why_matters": "Naznačuje, že AI se brzy stane běžnou součástí každodenního chodu domácností a péče o blízké.",
+      "why_matters": "Ukazuje to přerod ChatGPT z pracovního nástroje v běžného domácího pomocníka pro všechny generace.",
       "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 7,
-      "title_cs": "Evropská unie nařizuje společnosti Meta vypnout nekonečné scrollování a automatické přehrávání",
-      "title_orig": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
-      "category": "news",
-      "summary_cs": [
-        "Evropská unie varuje společnost Meta před obřími pokutami na základě zákona o digitálních službách.",
-        "Regulátoři požadují vypnutí funkcí, které podporují závislost uživatelů, jako je nekonečné scrollování obsahu.",
-        "Meta bude muset výrazně upravit design svých sociálních sítí, aby vyhověla přísným evropským pravidlům."
-      ],
-      "why_matters": "Tento zásah zásadně ovlivní to, jak čeští uživatelé konzumují obsah na Instagramu a Facebooku.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-      "source": "Ars Technica"
-    },
-    {
-      "rank": 8,
-      "title_cs": "Jak funguje trénování AI agentů na datech podle Hugging Face",
-      "title_orig": "Data for Agents",
-      "category": "labs",
-      "summary_cs": [
-        "Hugging Face zveřejnil detailní pohled na datové strategie nezbytné pro efektivní fungování AI agentů.",
-        "Trénování agentů vyžaduje specifické typy interaktivních a zpětnou vazbou podložených datových sad.",
-        "Správná metodika přípravy dat je klíčem k tomu, aby agenti dokázali spolehlivě plnit komplexní úkoly v reálném světě."
-      ],
-      "why_matters": "Poskytuje cenné technické know-how pro české vývojáře, kteří staví vlastní autonomní agenty.",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "rank": 9,
-      "title_cs": "Světový summit OSN o AI ukázal robotické psy i napětí kolem globální regulace",
-      "title_orig": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-      "category": "news",
-      "summary_cs": [
-        "Summit OSN s názvem AI for Good představil nejnovější technologické inovace od robotických psů po záchranné stroje.",
-        "Účastníci z celého světa diskutovali o tom, zda dokáže globální správa držet krok s překotným vývojem technologií.",
-        "Optimismus ze Silicon Valley se střetával s obavami z absence jednotných pravidel pro bezpečné používání AI."
-      ],
-      "why_matters": "Ukazuje globální snahu o nastavení etických mantinelů, které ovlivní i evropskou legislativu.",
-      "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
-      "source": "Wired AI"
-    },
-    {
-      "rank": 10,
-      "title_cs": "Kvantová korekce chyb dokáže neustále kalibrovat procesor pomocí posilovaného učení",
-      "title_orig": "Quantum error correction can constantly recalibrate a processor",
-      "category": "research",
-      "summary_cs": [
-        "Vědci úspěšně aplikovali posilované učení k neustálé kalibraci kvantových procesorů za běhu.",
-        "Systém využívá informace o chybách k okamžité úpravě řídicích algoritmů, což zvyšuje stabilitu výpočtů.",
-        "Tento přístup řeší jeden z největších problémů současné kvantové informatiky, kterým je vysoká chybovost."
-      ],
-      "why_matters": "Přibližuje nás k éře prakticky využitelných kvantových počítačů, které mohou zásadně urychlit vývoj AI.",
-      "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
-      "source": "Ars Technica"
-    },
-    {
-      "rank": 11,
-      "title_cs": "Adam Mosseri z Instagramu obhajuje přítomnost AI obsahu v uživatelských kanálech",
+      "rank": 2,
+      "title_cs": "Šéf Instagramu Adam Mosseri odmítá filtrovat AI obsah a radí uživatelům ho ignorovat",
       "title_orig": "Instagram’s Adam Mosseri: If you don't like AI, 'then you shouldn't have it in your feed'",
       "category": "news",
       "summary_cs": [
-        "Šéf Instagramu Adam Mosseri uvedl, že platforma by neměla plošně filtrovat nebo zakazovat obsah generovaný AI.",
-        "Pokud uživatelé nechtějí vidět AI tvorbu, měli by si podle něj aktivně upravit své preference a chování na síti.",
-        "Tento postoj vyvolává debatu o odpovědnosti sociálních sítí za označování a distribuci syntetických médií."
+        "Ředitel Instagramu Adam Mosseri v podcastu uvedl, že platforma by neměla plošně filtrovat nebo blokovat obsah vytvořený umělou inteligencí.",
+        "Uživatelé, kterým se generované příspěvky nelíbí, by si měli upravit svůj feed tak, aby se jim nezobrazovaly.",
+        "Tento přístup vyvolává diskuse o odpovědnosti sociálních sítí za označování a šíření syntetických médií."
       ],
-      "why_matters": "Definuje přístup jedné z nejpopulárnějších platforem k syntetickému obsahu, který denně sledují miliony Čechů.",
+      "why_matters": "Postoj vedení Instagramu zásadně ovlivní to, kolik generovaného obsahu budeme denně na sociálních sítích vídat.",
       "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
       "source": "The Verge AI"
     },
     {
-      "rank": 12,
-      "title_cs": "Hugging Face spouští integraci se službou Amazon SageMaker Studio na jedno kliknutí",
-      "title_orig": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "category": "tools",
+      "rank": 3,
+      "title_cs": "Evropská unie hrozí Metě obřími pokutami za nekonečné scrollování a automatické přehrávání",
+      "title_orig": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+      "category": "news",
       "summary_cs": [
-        "Nová funkce umožňuje vývojářům okamžitě přenášet modely z Hugging Face do vývojového prostředí Amazonu.",
-        "Tento krok výrazně zjednodušuje proces nasazování a testování open-source modelů v cloudové infrastruktuře AWS.",
-        "Odstraňuje technické překážky a zrychluje cestu od stažení modelu k jeho reálnému nasazení v aplikaci."
+        "Evropská unie varuje společnost Meta, že její funkce jako nekonečné scrollování a automatické přehrávání mohou porušovat Akt o digitálních službách.",
+        "Tyto mechanismy jsou navrženy tak, aby maximalizovaly čas strávený na platformě, což může mít negativní dopad na duševní zdraví uživatelů.",
+        "Pokud Meta nezavede změny, hrozí jí pokuty dosahující až několika procent jejího globálního ročního obratu."
       ],
-      "why_matters": "Výrazně usnadňuje práci českým vývojářům a datovým vědcům pracujícím s cloudovými službami AWS.",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "why_matters": "Evropská regulace může brzy radikálně změnit způsob, jakým fungují sociální sítě v našich telefonech.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Hugging Face spouští datovou strategii pro trénování autonomních AI agentů",
+      "title_orig": "Data for Agents",
+      "category": "labs",
+      "summary_cs": [
+        "Komunita Hugging Face představila nový framework zaměřený na sběr a přípravu vysoce kvalitních dat pro vývoj AI agentů.",
+        "Správná data jsou klíčová pro to, aby agenti dokázali spolehlivě plánovat kroky a interagovat s externími nástroji.",
+        "Iniciativa má pomoci open-source komunitě dohnat náskok uzavřených komerčních laboratoří v oblasti autonomního chování."
+      ],
+      "why_matters": "Kvalitní data jsou palivem pro novou generaci AI asistentů, kteří budou pracovat zcela samostatně.",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "source": "Hugging Face Blog"
     },
     {
-      "rank": 13,
-      "title_cs": "Společnost UST přináší model Claude od Anthropicu do oblasti fyzické umělé inteligence",
-      "title_orig": "Jul 9, 2026 Case Study UST is bringing Claude to physical AI",
-      "category": "labs",
+      "rank": 5,
+      "title_cs": "Kvantová korekce chyb využívá posílené učení k neustálé kalibraci procesorů",
+      "title_orig": "Quantum error correction can constantly recalibrate a processor",
+      "category": "research",
       "summary_cs": [
-        "Případová studie ukazuje, jak se pokročilé jazykové modely Claude integrují do fyzických robotických systémů.",
-        "Spojení softwarové inteligence s fyzickým hardwarem umožňuje robotům lépe chápat a plnit úkoly v reálném prostředí.",
-        "Tento trend otevírá nové možnosti pro automatizaci v průmyslu, logistice i v běžném životě."
+        "Vědci úspěšně aplikovali metody posíleného učení k dynamické korekci chyb v kvantových procesorech.",
+        "Systém dokáže v reálném čase vyhodnocovat chybové stavy a okamžitě upravovat řídicí algoritmy pro stabilizaci qubitů.",
+        "Tento přístup výrazně zkracuje dobu potřebnou pro kalibraci a přibližuje nás k prakticky využitelným kvantovým počítačům."
       ],
-      "why_matters": "Ukazuje, jak se špičkové jazykové modely přesouvají z obrazovek počítačů do reálného fyzického světa.",
-      "url": "https://www.anthropic.com/news/ust-claude",
-      "source": "Anthropic News"
+      "why_matters": "Spojení AI a kvantových počítačů řeší největší překážku této technologie, kterou je extrémní náchylnost k chybám.",
+      "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+      "source": "Ars Technica"
     },
     {
-      "rank": 14,
-      "title_cs": "OpenAI představuje své principy pro vládní partnerství a národní bezpečnost",
+      "rank": 6,
+      "title_cs": "OpenAI pomáhá učitelům základních a středních škol s praktickým využitím AI ve výuce",
+      "title_orig": "Helping K–12 educators build practical AI skills",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI Academy se spojila s nadací Walton Family Foundation za účelem pořádání praktických workshopů pro pedagogy.",
+        "Program se zaměřuje na rozvoj dovedností, které učitelům pomohou efektivně integrovat AI nástroje přímo do školních osnov.",
+        "Iniciativa klade důraz na bezpečné používání technologií a personalizaci výuky pro žáky různých věkových kategorií."
+      ],
+      "why_matters": "Ukazuje, jak se mění přístup ke vzdělávání a jak mohou učitelé využít AI k úspoře času.",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Hugging Face a SkyPilot přinášejí ukládání dat s nulovými poplatky za přenos mezi cloudy",
+      "title_orig": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "category": "tools",
+      "summary_cs": [
+        "Nové partnerství umožňuje spouštět AI výpočty na libovolné cloudové platformě a data bezpečně ukládat na Hugging Face.",
+        "Díky integraci nástroje SkyPilot se uživatelé vyhnou vysokým poplatkům za přenos dat mezi konkurenčními cloudy.",
+        "Tento krok výrazně zjednodušuje a zlevňuje trénování velkých modelů pro menší vývojářské týmy."
+      ],
+      "why_matters": "Odstraňuje finanční bariéru při přenosu obřích AI modelů mezi různými poskytovateli cloudových služeb.",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "OpenAI definuje své principy pro vládní partnerství a národní bezpečnost",
       "title_orig": "Our approach to government and national security partnerships",
       "category": "labs",
       "summary_cs": [
-        "OpenAI zveřejnila svůj oficiální přístup ke spolupráci s vládními institucemi a obranným sektorem.",
-        "Deklaruje principy pro zodpovědné využívání AI, demokratickou odpovědnost a zajištění veřejné bezpečnosti.",
-        "Tento krok potvrzuje rostoucí roli umělé inteligence v oblasti národní bezpečnosti a geopolitiky."
+        "Společnost OpenAI zveřejnila svůj oficiální přístup ke spolupráci s vládními institucemi a obranným sektorem.",
+        "Deklaruje závazek k demokratické odpovědnosti, veřejné bezpečnosti a etickému využívání umělé inteligence.",
+        "Dokument popisuje jasné hranice, za které firma při vývoji vojenských a bezpečnostních aplikací nehodlá zajít."
       ],
-      "why_matters": "Objasňuje, jak nejvýznamnější AI laboratoř světa přistupuje k citlivým vládním a vojenským zakázkám.",
+      "why_matters": "Nastavuje pravidla pro to, jak nejmocnější AI modely světa mohou asistovat při obraně státu.",
       "url": "https://openai.com/index/government-national-security-partnerships",
       "source": "OpenAI Blog"
     },
     {
-      "rank": 15,
-      "title_cs": "SkyPilot přináší nulové poplatky za přenos dat při ukládání modelů na Hugging Face",
-      "title_orig": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "rank": 9,
+      "title_cs": "Vyjednavač s vyděrači pracoval tajně pro útočníky a dostal šest let vězení",
+      "title_orig": "Ransomware negotiator hired to represent victims was working for the attackers",
+      "category": "wildcard",
+      "summary_cs": [
+        "Profesionální vyjednavač najatý k pomoci obětem ransomwarových útoků byl odsouzen k šestiletému trestu odnětí svobody.",
+        "Vyšetřování ukázalo, že tajně spolupracoval s kyberzločinci a tlačil oběti k vyplacení vyššího výkupného.",
+        "Případ odhaluje vážná bezpečnostní rizika v netransparentním odvětví vyjednávání o kybernetických hrozbách."
+      ],
+      "why_matters": "Varovný příběh pro české firmy, které by při kybernetickém útoku slepě důvěřovaly externím prostředníkům.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Hugging Face usnadňuje přechod do Amazon SageMaker Studio na jedno kliknutí",
+      "title_orig": "From Hugging Face to Amazon SageMaker Studio in one click",
       "category": "tools",
       "summary_cs": [
-        "Nové řešení umožňuje spouštět AI výpočty v libovolném cloudu a ukládat výsledky přímo na platformu Hugging Face.",
-        "Díky integraci se SkyPilot odpadají drahé poplatky za přenos dat mezi různými cloudovými poskytovateli.",
-        "Tento krok výrazně snižuje finanční náklady na infrastrukturu při trénování a provozu velkých modelů."
+        "Vývojáři nyní mohou přenášet své modely z platformy Hugging Face přímo do vývojového prostředí Amazon SageMaker.",
+        "Nová integrace odstraňuje nutnost složitého ručního nastavování infrastruktury a psaní propojovacího kódu.",
+        "Zrychluje se tím proces nasazování open-source modelů do produkčního podnikového prostředí."
       ],
-      "why_matters": "Pomáhá českým startupům a výzkumníkům drasticky snížit náklady na cloudovou infrastrukturu.",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "why_matters": "Urychluje a zjednodušuje cestu od stažení open-source modelu po jeho reálné nasazení v cloudu.",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
       "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Profilování v PyTorch se zaměřuje na optimalizaci mechanismu Attention",
+      "title_orig": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "category": "labs",
+      "summary_cs": [
+        "Třetí díl technické série od Hugging Face se podrobně zabývá analýzou výkonu mechanismu Attention v knihovně PyTorch.",
+        "Článek ukazuje, jak identifikovat úzká hrdla při výpočtech a jak efektivněji využívat paměť grafických karet.",
+        "Správná optimalizace může výrazně zrychlit trénování i samotný běh velkých jazykových modelů."
+      ],
+      "why_matters": "Pomáhá českým AI vývojářům optimalizovat kód a ušetřit drahocenný čas na drahém hardwaru.",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Chytré brýle se neobejdou bez neustálého nahrávání kamerou, říká Nilay Patel",
+      "title_orig": "Quoting Nilay Patel",
+      "category": "news",
+      "summary_cs": [
+        "Šéfredaktor serveru The Verge Nilay Patel upozorňuje na technologickou realitu brýlí pro rozšířenou realitu.",
+        "Aby brýle mohly zobrazovat relevantní informace o okolí, musí integrovaná kamera nepřetržitě snímat a analyzovat vše, co uživatel vidí.",
+        "Tento fakt staví vývojáře před obrovskou výzvu v oblasti ochrany soukromí i energetické náročnosti čipů."
+      ],
+      "why_matters": "Upozorňuje na zásadní konflikt mezi technologickým pokrokem nositelné elektroniky a ochranou soukromí.",
+      "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Hugging Face přináší své modely na spravovaný výpočetní výkon Foundry",
+      "title_orig": "Hugging Face Models on Foundry Managed Compute",
+      "category": "tools",
+      "summary_cs": [
+        "Uživatelé Hugging Face mohou nově spouštět výpočty na infrastruktuře Foundry bez nutnosti spravovat servery.",
+        "Služba automaticky škáluje potřebný výkon a optimalizuje náklady na pronájem grafických procesorů.",
+        "Usnadňuje to experimentování s nejnovějšími modely bez nutnosti investic do vlastního drahého hardwaru."
+      ],
+      "why_matters": "Zpřístupňuje masivní výpočetní výkon pro trénování AI i menším projektům bez vlastního hardwaru.",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Vydání sqlite-utils 4.1 přináší možnost spouštění vlastního Python kódu při importu",
+      "title_orig": "sqlite-utils 4.1",
+      "category": "tools",
+      "summary_cs": [
+        "Populární nástroj pro práci s databázemi SQLite od Simona Willisona obdržel novou aktualizaci.",
+        "Verze 4.1 zavádí parametr pro spuštění vlastního bloku Python kódu během vkládání a aktualizace dat.",
+        "Tato funkce výrazně usnadňuje transformaci a čištění datových sad před jejich uložením do databáze."
+      ],
+      "why_matters": "Zjednodušuje přípravu lokálních databází, které vývojáři často používají pro ukládání dat pro AI agenty.",
+      "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Čína úspěšně otestovala návrat opakovaně použitelné rakety novým způsobem",
+      "title_orig": "China recovered its first reusable rocket and showed a new way to do it",
+      "category": "wildcard",
+      "summary_cs": [
+        "Čínský vesmírný program úspěšně zachytil první stupeň své opakovaně použitelné rakety při testovacím letu.",
+        "Inženýři použili odlišnou techniku přistání a stabilizace, než jakou pro své rakety využívá americká společnost SpaceX.",
+        "Tento technologický úspěch potvrzuje rychlý pokrok Číny v oblasti snižování nákladů na lety do vesmíru."
+      ],
+      "why_matters": "Rychlý rozvoj vesmírných technologií v Číně zvyšuje globální konkurenci a urychluje inovace.",
+      "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+      "source": "Ars Technica"
     }
   ]
 }
