@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-13",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Apple žaluje OpenAI kvůli údajné špionáži a krádeži hardwarových tajemství",
+      "title_orig": "Hardwarová divize OpenAI je prohnilá, vzkazuje Apple. Svého konkurenta žaluje kvůli špionáži",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Apple podala žalobu na OpenAI kvůli údajnému systematickému náboru inženýrů s cílem získat tajné hardwarové plány.",
+        "Podle žaloby měli bývalí zaměstnanci Applu přinést do OpenAI fyzické prototypy a schémata budoucích zařízení.",
+        "Tento spor může zásadně ovlivnit budoucí partnerství obou technologických gigantů v oblasti integrace umělé inteligence."
+      ],
+      "why_matters": "Soudní spor mezi dvěma největšími hráči může změnit dostupnost AI funkcí v zařízeních Apple.",
+      "url": "https://cc.cz/hardwarova-divize-openai-je-prohnila-vzkazuje-apple-sveho-konkurenta-zaluje-kvuli-spionazi/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Nová laboratoř Mety čelí kritice kvůli neoprávněnému použití fotek z Instagramu",
+      "title_orig": "Nová laboratoř Mety zpackala představení své očekávané AI. Vaše fotky z Instagramu si mohl „půjčit“ každý",
+      "category": "news",
+      "summary_cs": [
+        "Nová umělá inteligence od společnosti Meta, která dokáže psát kód a ověřovat data, byla spuštěna s vážnou bezpečnostní chybou.",
+        "Systém bez předchozího souhlasu uživatelů pracoval s veřejnými profilovými fotografiemi na sociální síti Instagram.",
+        "Incident opět otevírá debatu o ochraně soukromí a způsobu, jakým technologičtí obři trénují své modely."
+      ],
+      "why_matters": "Ukazuje to, jak zranitelná jsou osobní data uživatelů na sociálních sítích při trénování nových modelů.",
+      "url": "https://cc.cz/nova-laborator-mety-zpackala-predstaveni-sve-ocekavane-ai-vase-fotky-z-instagramu-si-mohl-pujcit-kazdy/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Boj proti datovým centrům pro AI teprve začíná",
+      "title_orig": "The fight against AI data centers is just beginning",
+      "category": "business",
+      "summary_cs": [
+        "Masivní výstavba datových center pro potřeby umělé inteligence naráží na odpor místních komunit a ekologických organizací.",
+        "Hlavními spornými body jsou extrémní spotřeba elektrické energie a nároky na chlazení pitnou vodou.",
+        "Technologické firmy budou muset hledat nové, udržitelnější způsoby napájení a lokalizace své infrastruktury."
+      ],
+      "why_matters": "Energetická náročnost AI infrastruktury se stává klíčovým limitem pro další rozvoj technologií.",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Zděděná architektura po neúspěšném autonomním autu od Applu pohání dnešní AI čipy",
+      "title_orig": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "category": "news",
+      "summary_cs": [
+        "Zrušený projekt autonomního vozidla Apple Car zanechal firmě nečekané dědictví v podobě pokročilého hardwaru.",
+        "Vývoj palubního počítače pro auto položil základy pro extrémně výkonné procesory řady M Ultra.",
+        "Díky tomu má dnes Apple k dispozici křemíkovou architekturu optimalizovanou pro lokální běh velkých modelů."
+      ],
+      "why_matters": "Vysvětluje, proč má Apple tak silnou pozici v oblasti lokálního spouštění AI modelů přímo na zařízeních.",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Snížení cen DeepSeek o 75 procent neřeší strukturální problém s maržemi",
+      "title_orig": "DeepSeek cut prices 75%. The 100x problem remains",
+      "category": "business",
+      "summary_cs": [
+        "Čínský poskytovatel DeepSeek drasticky snížil ceny za volání API u svého nejnovějšího modelu V4-Pro.",
+        "Vývojáři však zjišťují, že levnější inference automaticky neznamená vyšší ziskovost jejich vlastních aplikací.",
+        "Problém spočívá v tom, že komplexní agentické systémy vyžadují exponenciálně více volání modelu pro splnění jednoho úkolu."
+      ],
+      "why_matters": "Cenová válka modelů nemusí stačit k tomu, aby se podnikové AI aplikace staly finančně udržitelnými.",
+      "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Anthropic prodlužuje přístup k modelu Fable 5 v placených tarifech",
+      "title_orig": "Fable gets another bump",
+      "category": "labs",
+      "summary_cs": [
+        "V reakci na konkurenční tlak ze strany OpenAI a jejich modelu GPT-5.6 Sol mění Anthropic svou strategii.",
+        "Přístup k pokročilému modelu Claude Fable 5 bude v rámci předplatného Claude Max zachován po delší dobu.",
+        "Zároveň se zvyšují týdenní limity pro vývojářský nástroj Claude Code, což má udržet náročné uživatele."
+      ],
+      "why_matters": "Pro české uživatele to znamená delší přístup k nejlepším modelům bez nutnosti platit za každé volání.",
+      "url": "https://simonwillison.net/2026/Jul/12/bump/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Mají otevřené modely před sebou posledních 6 měsíců života?",
+      "title_orig": "6 months to live for open models",
+      "category": "news",
+      "summary_cs": [
+        "Analýza se zabývá udržitelností vývoje open-source modelů v porovnání s astronomickými náklady na trénování.",
+        "Nadcházející měsíce ukážou, zda komunita dokáže držet krok s uzavřenými komerčními laboratořemi.",
+        "Klíčovou roli sehraje ochota velkých firem jako Meta nadále investovat miliardy dolarů do volně dostupného softwaru."
+      ],
+      "why_matters": "Rozhodne se o tom, zda budeme moci provozovat špičkovou AI lokálně a pod vlastní kontrolou.",
+      "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+      "source": "Interconnects (Nathan Lambert)"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Sticky Routing přináší efektivní správu paměti pro modely Mixture of Experts",
+      "title_orig": "Sticky Routing: Training MoE Models for Memory-Efficient Inference",
+      "category": "research",
+      "summary_cs": [
+        "Nová metoda trénování MoE modelů řeší problém s neustálým načítáním různých expertů do paměti.",
+        "Sticky Routing nutí po sobě jdoucí tokeny využívat stejné experty, což dramaticky snižuje nároky na přenos dat.",
+        "Tato technika umožňuje plynulejší běh velkých modelů na spotřebním hardwaru a mobilních telefonech."
+      ],
+      "why_matters": "Umožní provozovat mnohem větší a chytřejší modely přímo na běžných noteboocích a telefonech.",
+      "url": "https://arxiv.org/abs/2607.08780",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 9,
+      "title_cs": "KV-PRM zrychluje hodnocení procesů u multiagentních systémů",
+      "title_orig": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+      "category": "research",
+      "summary_cs": [
+        "Metoda KV-PRM přináší optimalizaci pro procesní odměňovací modely, které hodnotí jednotlivé kroky uvažování AI.",
+        "Díky přenosu KV-cache odpadá nutnost opakovaně kódovat celý text trajektorie při každém kroku.",
+        "Tento přístup výrazně snižuje výpočetní nároky a zrychluje uvažování agentů v reálném čase."
+      ],
+      "why_matters": "Zrychluje a zlevňuje provoz pokročilých AI agentů, kteří musí před odpovědí složitě přemýšlet.",
+      "url": "https://arxiv.org/abs/2607.09153",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "L-MAD systematicky hodnotí debaty více AI agentů v právní oblasti",
+      "title_orig": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili framework L-MAD pro testování debat více AI agentů ve vysoce strukturovaném právním prostředí.",
+        "Studie zkoumá, jak různé diskusní struktury ovlivňují přesnost a spolehlivost právní argumentace.",
+        "Ukazuje se, že řízená oponentura mezi agenty výrazně snižuje riziko halucinací u složitých případů."
+      ],
+      "why_matters": "Ukazuje cestu k bezpečnému nasazení AI v oborech s nulovou tolerancí chyb, jako je právo.",
+      "url": "https://arxiv.org/abs/2607.09099",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "LongMedBench testuje schopnosti lékařských agentů v dlouhodobém horizontu",
+      "title_orig": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making",
+      "category": "research",
+      "summary_cs": [
+        "Nový benchmark LongMedBench se zaměřuje na hodnocení AI v reálných klinických scénářích s dlouhým kontextem.",
+        "Na rozdíl od běžných testů vyžaduje analýzu kompletní zdravotní dokumentace pacienta za delší časové období.",
+        "Výsledky ukazují, že současní agenti stále narážejí na limity při dlouhodobém plánování léčby."
+      ],
+      "why_matters": "Pomáhá objektivně měřit, kdy bude AI připravena bezpečně asistovat lékařům při složité diagnostice.",
+      "url": "https://arxiv.org/abs/2607.09322",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Využití kvantových počítačů a AI pro generování nových peptidů v medicíně",
+      "title_orig": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "category": "news",
+      "summary_cs": [
+        "Vědci úspěšně propojili kvantové výpočty s generativní AI pro návrh zcela nových terapeutických peptidů.",
+        "Tento hybridní přístup umožňuje simulovat molekulární interakce s dosud nedosažitelnou přesností.",
+        "Nová metoda by mohla radikálně urychlit vývoj léků na vzácná onemocnění."
+      ],
+      "why_matters": "Spojení kvantových počítačů a AI otevírá novou éru extrémně rychlého vývoje léků na míru.",
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Zpěvačka Lorde kritizuje chytré brýle s umělou inteligencí",
+      "title_orig": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "category": "wildcard",
+      "summary_cs": [
+        "Zpěvačka Lorde se během svého koncertu v Madridu ostře vymezila proti nošení brýlí s integrovanou AI.",
+        "Ačkoliv nejmenovala konkrétní značku, kritika mířila na sponzora festivalu, který spolupracuje s firmou Meta.",
+        "Tento incident poukazuje na rostoucí kulturní odpor vůči neustálé přítomnosti kamer a AI v běžném životě."
+      ],
+      "why_matters": "Ilustruje společenské a kulturní přijetí nositelné AI techniky mimo technologickou bublinu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "OpenProver přináší otevřený systém pro dokazování matematických vět v Lean 4",
+      "title_orig": "OpenProver: Agentic and Interactive Theorem Proving with Lean 4",
+      "category": "open-source",
+      "summary_cs": [
+        "Představen byl OpenProver, open-source nástroj pro automatické dokazování matematických vět s integrací Lean 4.",
+        "Systém využívá architekturu plánovač-pracovník-verifikátor pro systematické řešení složitých úloh.",
+        "Projekt usnadňuje vědcům i nadšencům formální ověřování matematického kódu pomocí LLM."
+      ],
+      "why_matters": "Zpřístupňuje pokročilé nástroje pro formální verifikaci softwaru a matematických modelů širší komunitě.",
+      "url": "https://arxiv.org/abs/2607.09217",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "sqlite-utils 4.1.1 opravuje kritickou chybu při práci s transakcemi",
+      "title_orig": "sqlite-utils 4.1.1",
+      "category": "tools",
+      "summary_cs": [
+        "Byla vydána opravná verze populárního Python nástroje sqlite-utils pro práci s databázemi SQLite.",
+        "Verze 4.1.1 opravuje specifickou chybu v metodě transform, která mohla narušit integritu cizích klíčů.",
+        "Chyba byla objevena během experimentování s modelem Claude při analýze chování databáze."
+      ],
+      "why_matters": "Důležitá aktualizace pro vývojáře používající SQLite v Pythonu pro ukládání dat z AI aplikací.",
+      "url": "https://simonwillison.net/2026/Jul/12/sqlite-utils/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
