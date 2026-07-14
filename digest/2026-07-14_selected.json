@@ -3,212 +3,212 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "Siri se stává hlavním nástrojem celého ekosystému Apple",
+      "title_cs": "Šest nejdivočejších tvrzení v žalobě Apple proti OpenAI kvůli krádeži tajemství",
+      "title_orig": "The 6 wildest claims in Apple's lawsuit against OpenAI",
+      "category": "business",
+      "summary_cs": [
+        "Soudní žaloba společnosti Apple obviňuje OpenAI ze systematického získávání tajných informací a dokumentů.",
+        "Mezi nejvážnější body patří tvrzení, že uchazeči o zaměstnání byli žádáni o přinesení prototypů hardwaru na pohovory.",
+        "Tento spor může zásadně ovlivnit budoucí partnerství a technologický vývoj obou gigantů."
+      ],
+      "why_matters": "Ukazuje rostoucí napětí a právní rizika při přetahování klíčových talentů mezi technologickými lídry.",
+      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Siri se stává hlavním nástrojem pro ovládání celého ekosystému Apple",
       "title_orig": "Siri AI Is Becoming Apple’s Everything Tool",
       "category": "news",
       "summary_cs": [
-        "Nová verze hlasové asistentky Siri, představená v rámci veřejné bety iOS 27, se stává ústředním prvkem uživatelského zážitku na iPhonech.",
-        "Siri již nefunguje pouze jako jednoduchý hlasový pomocník, ale slouží jako hluboce integrovaný systém pro ovládání aplikací a správu dat.",
-        "Uživatelé si mohou novinku vyzkoušet v aktuálně vydané veřejné beta verzi operačního systému."
+        "Nová verze Siri s umělou inteligencí se stává ústředním prvkem uživatelského zážitku v systému iOS.",
+        "Uživatelé si mohou novinku vyzkoušet již nyní v rámci veřejné beta verze systému iOS 27.",
+        "Siri se transformuje z prostého hlasového asistenta na komplexní systémový nástroj."
       ],
-      "why_matters": "Ukazuje, jak Apple mění každodenní interakci s telefony a posouvá AI do role hlavního operačního rozhraní.",
+      "why_matters": "Definuje novou éru interakce s chytrými telefony, kterou brzy pocítí miliony českých uživatelů.",
       "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
       "source": "Wired AI"
     },
     {
-      "rank": 2,
-      "title_cs": "Satya Nadella varuje firmy před přílišnou závislostí na externích AI modelech",
+      "rank": 3,
+      "title_cs": "Varování Satyi Nadelly před závislostí na proprietárních AI modelech",
       "title_orig": "Satya Nadella has issued a shocking warning to companies using AI",
       "category": "business",
       "summary_cs": [
-        "Šéf Microsoftu varoval před rizikem, že se velká technologická studia chovají jako trojští koně v podnikové infrastruktuře.",
-        "Firmy by měly pečlivě zvažovat svou závislost na proprietárních modelech třetích stran, které mohou omezit jejich flexibilitu.",
-        "Tato debata rezonuje v Silicon Valley, kde roste tlak na větší kontrolu nad vlastním softwarovým stackem."
+        "Šéf Microsoftu varuje firmy před rizikem, že se velcí poskytovatelé AI chovají jako trojští koně.",
+        "Závislost na uzavřených modelech třetích stran může ohrozit suverenitu firemních dat.",
+        "Diskuse v Silicon Valley se stále více zaměřuje na rizika spojená s centralizací AI infrastruktury."
       ],
-      "why_matters": "Varování od šéfa Microsoftu podtrhuje nutnost strategické nezávislosti českých firem při implementaci AI.",
+      "why_matters": "Pomáhá českým manažerům správně vyhodnotit rizika při výběru mezi proprietárními a vlastními AI modely.",
       "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 3,
-      "title_cs": "ACRouter optimalizuje náklady na AI výběrem nejvhodnějšího modelu pro daný úkol",
+      "rank": 4,
+      "title_cs": "ACRouter vybírá nejvhodnější model pro daný úkol a snižuje náklady",
       "title_orig": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
-      "category": "open-source",
+      "category": "tools",
       "summary_cs": [
-        "Nový open-source nástroj ACRouter dynamicky směruje uživatelské dotazy na nejvhodnější AI modely podle jejich náročnosti.",
-        "Tento přístup umožňuje dosáhnout až 2.6krát nižších nákladů ve srovnání s provozem na nejvýkonnějších modelech typu Claude Opus.",
-        "Nástroj překonává dosavadní statické směrovací systémy díky flexibilnímu a adaptivnímu vyhodnocování úloh v reálném čase."
+        "Nový open-source framework Agent-as-a-Router dynamicky směruje dotazy na nejvhodnější AI modely.",
+        "Tento přístup překonává statické směrování a přináší výrazné úspory nákladů při zachování kvality.",
+        "Oproti řešením využívajícím výhradně nejdražší modely dosahuje až 2.6-násobného snížení výdajů."
       ],
-      "why_matters": "Pomáhá českým vývojářům a firmám dramaticky snížit náklady na provoz pokročilých AI aplikací.",
+      "why_matters": "Umožňuje českým vývojářům výrazně optimalizovat provozní náklady na provoz komplexních AI aplikací.",
       "url": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
       "source": "VentureBeat AI"
     },
     {
-      "rank": 4,
-      "title_cs": "Video-generační startup PixVerse získal 439 milionů dolarů a jeho hodnota přesáhla 2 miliardy",
-      "title_orig": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "category": "business",
-      "summary_cs": [
-        "Startup PixVerse si zajistil masivní investici ve výši 439 milionů dolarů na rozvoj svých technologií pro generování videa.",
-        "Získané finanční prostředky plánuje firma využít k expanzi svých modelů světa a oslovení zákazníků v nových regionech.",
-        "Tato investice potvrzuje obrovský zájem trhu o pokročilé nástroje pro tvorbu syntetických médií a videoobsahu."
-      ],
-      "why_matters": "Značí další vlnu masivního financování nástrojů, které brzy promění kreativní průmysl i v Česku.",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "source": "TechCrunch AI"
-    },
-    {
       "rank": 5,
-      "title_cs": "Tvůrce agentů Nous Research jedná o investici při valuaci 1,5 miliardy dolarů",
-      "title_orig": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "category": "business",
-      "summary_cs": [
-        "Společnost Nous Research, známá vývojem modelů Hermes, jedná o získání investice ve výši minimálně 75 milionů dolarů.",
-        "Kolo by mělo být vedeno fondem Robot Ventures s výraznou účastí dalších významných investorů jako USV.",
-        "Investice podtrhuje rostoucí význam open-source komunity při vývoji autonomních AI agentů."
-      ],
-      "why_matters": "Posílení open-source alternativ dává českým vývojářům do rukou výkonné nástroje nezávislé na velkých korporacích.",
-      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 6,
-      "title_cs": "Metoda Depth-Entropy Guided Sampling přináší pokročilé uvažování bez nutnosti trénování",
-      "title_orig": "Depth-Entropy Guided Sampling for Training-Free LLM Reasoning",
-      "category": "research",
-      "summary_cs": [
-        "Výzkumníci představili novou metodu vzorkování, která výrazně zlepšuje schopnost logického uvažování u velkých jazykových modelů.",
-        "Na rozdíl od metod založených na zpětnovazebním učení nevyžaduje tento přístup nákladný trénink ani anotovaná data.",
-        "Technika využívá analýzu entropie v různých vrstvách modelu k efektivnějšímu generování správných odpovědí."
-      ],
-      "why_matters": "Umožňuje provozovat chytřejší modely s pokročilým uvažováním bez extrémních nároků na výpočetní výkon.",
-      "url": "https://arxiv.org/abs/2607.09693",
-      "source": "ArXiv cs.LG"
-    },
-    {
-      "rank": 7,
-      "title_cs": "MawForge optimalizuje spouštění lokálních MoE modelů s omezenou pamětí",
-      "title_orig": "MawForge: Memory-Bounded Expert Materialization for Local Mixture-of-Experts Inference",
-      "category": "open-source",
-      "summary_cs": [
-        "Projekt MawForge řeší problém vysokých paměťových nároků při lokálním spouštění modelů s architekturou Mixture-of-Experts.",
-        "Nástroj dynamicky spravuje paměť pro expertní moduly tak, aby se inference vešla do limitů běžného hardwaru.",
-        "Tato optimalizace umožňuje efektivnější běh pokročilých modelů na koncových zařízeních bez ztráty rychlosti."
-      ],
-      "why_matters": "Zjednodušuje lokální nasazení špičkových modelů na běžném hardwaru bez nutnosti drahého cloudového zázemí.",
-      "url": "https://arxiv.org/abs/2607.09686",
-      "source": "ArXiv cs.LG"
-    },
-    {
-      "rank": 8,
-      "title_cs": "Obránci začínají využívat prompt injection k zastavení útočných AI agentů",
+      "title_cs": "Obránci začínají využívat prompt injection k zastavení hackerských agentů",
       "title_orig": "Now, defenders are embracing the prompt injection, too",
       "category": "wildcard",
       "summary_cs": [
-        "Kyberbezpečnostní experti začínají využívat techniku zvanou kontextové bombardování k obraně před škodlivými AI agenty.",
-        "Tato metoda spočívá v podvržení instrukcí, které útočícího agenta přimějí k okamžitému ukončení činnosti.",
-        "Ukazuje se, že zranitelnosti, které dříve ohrožovaly uživatele, lze efektivně otočit proti samotným útočníkům."
+        "Technika zvaná context bombing využívá záměrné podvržení instrukcí k obraně systémů.",
+        "Útočící AI agenti jsou po analýze takto upraveného obsahu donuceni k ukončení své činnosti.",
+        "Tento přístup obrací dřívější zranitelnost velkých jazykových modelů ve prospěch kybernetické bezpečnosti."
       ],
-      "why_matters": "Představuje nový a kreativní způsob, jak mohou české firmy zabezpečit své systémy před automatizovanými útoky.",
+      "why_matters": "Představuje inovativní způsob, jak mohou české firmy chránit své systémy před autonomními útoky.",
       "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
       "source": "Ars Technica"
     },
     {
+      "rank": 6,
+      "title_cs": "Sliby a limity světových modelů v oblasti simulace reality",
+      "title_orig": "Simulating everything, sort of: The promise and limits of world models",
+      "category": "research",
+      "summary_cs": [
+        "Odborníci analyzují současný stav vývoje světových modelů určených k simulaci fyzikálních procesů.",
+        "Tyto modely slibují revoluci v plánování robotů, ale stále narážejí na výpočetní limity.",
+        "Článek shrnuje, co je v této oblasti již reálné a co zůstává neobjasněnou výzvou."
+      ],
+      "why_matters": "Přináší střízlivý pohled na technologii, která bude klíčová pro autonomní řízení a robotiku.",
+      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Tvůrce modelů Hermes Nous Research jedná o investici při evaluaci 1.5 miliardy dolarů",
+      "title_orig": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Nous Research jedná o získání investice ve výši nejméně 75 milionů dolarů.",
+        "Kolo financování vede Robot Ventures za účasti dalších významných venture kapitálových fondů.",
+        "Peníze podpoří vývoj otevřených modelů řady Hermes a posílí pozici firmy na trhu."
+      ],
+      "why_matters": "Potvrzuje, že o otevřené alternativy k proprietárním modelům je mezi investory obrovský zájem.",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Startup PixVerse získal 439 milionů dolarů na generování videa",
+      "title_orig": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "category": "business",
+      "summary_cs": [
+        "PixVerse plánuje využít nové prostředky k expanzi svých světových modelů na globální trhy.",
+        "Valuace nadějného startupu po tomto investičním kole překonala hranici dvou miliard dolarů.",
+        "Investice potvrzuje neutichající zájem o pokročilé generování videa pomocí umělé inteligence."
+      ],
+      "why_matters": "Značí příchod dalšího silného konkurenta v oblasti generování videa, což zvýší tlak na inovace.",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "TechCrunch AI"
+    },
+    {
       "rank": 9,
-      "title_cs": "Jaký kontext kódovací agenti skutečně potřebují pro svou práci?",
-      "title_orig": "What Context Does a Coding Agent Actually Need to Act?",
-      "category": "research",
-      "summary_cs": [
-        "Nová studie zkoumá efektivitu využití obřích kontextových oken u moderních kódovacích AI agentů.",
-        "Ukazuje se, že velká část načteného kontextu z repozitářů je při reálné práci nevyužitá a neefektivní.",
-        "Výzkum se zaměřuje na identifikaci klíčových informací, které agent skutečně potřebuje k úspěšnému provedení úpravy kódu."
-      ],
-      "why_matters": "Pomáhá optimalizovat vývojářské AI nástroje pro rychlejší práci a nižší spotřebu tokenů.",
-      "url": "https://arxiv.org/abs/2607.09691",
-      "source": "ArXiv cs.LG"
-    },
-    {
-      "rank": 10,
-      "title_cs": "Waze integruje nové funkce poháněné asistentem Google Gemini",
-      "title_orig": "Waze is getting a bunch of new AI-powered features",
-      "category": "tools",
-      "summary_cs": [
-        "Populární navigační aplikace Waze dostává sadu nových funkcí, z nichž některé přímo využívají model Gemini.",
-        "Uživatelé se dočkají například vylepšeného hlasového hlášení událostí na cestě formou přirozené konverzace.",
-        "Google tímto krokem pokračuje v integraci svých AI technologií do spotřebitelských produktů pro každodenní použití."
-      ],
-      "why_matters": "Zpříjemní a zjednoduší každodenní cestování autem pro tisíce českých řidičů využívajících Waze.",
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "source": "The Verge AI"
-    },
-    {
-      "rank": 11,
-      "title_cs": "Detekce destilace modelů pomáhá odhalit neoprávněné kopírování schopností AI",
-      "title_orig": "Reference-Based Distillation Detection in LLMs",
-      "category": "research",
-      "summary_cs": [
-        "Vědci vyvinuli metodu pro detekci, zda byl menší jazykový model trénován na výstupech silnějšího proprietárního modelu.",
-        "Tento proces, známý jako destilace, často porušuje licenční podmínky poskytovatelů komerčních AI služeb.",
-        "Nová technika umožňuje identifikovat stopy po destilaci s vysokou přesností pomocí referenčního srovnání."
-      ],
-      "why_matters": "Důležité pro ochranu duševního vlastnictví a právní jistotu při vývoji vlastních firemních modelů.",
-      "url": "https://arxiv.org/abs/2607.09692",
-      "source": "ArXiv cs.LG"
-    },
-    {
-      "rank": 12,
-      "title_cs": "AuditWeave přináší transparentní auditní vrstvu pro AI workflow",
-      "title_orig": "AuditWeave: A Tamper-Evident, Auditor-Navigable Evidence Layer for AI-Assisted and Data-Transformation Workflows",
-      "category": "research",
-      "summary_cs": [
-        "Představený systém AuditWeave umožňuje zpětně rekonstruovat a ověřit, jaká data vedla k rozhodnutí učiněnému s pomocí AI.",
-        "Tato vrstva je odolná proti neoprávněné manipulaci a usnadňuje práci auditorům v regulovaných odvětvích.",
-        "Nástroj reaguje na rostoucí potřebu vysvětlitelnosti a doložitelnosti rozhodnutí v medicíně či financích."
-      ],
-      "why_matters": "Usnadňuje českým firmám plnění regulatorních požadavků při nasazování AI do kritických procesů.",
-      "url": "https://arxiv.org/abs/2607.09682",
-      "source": "ArXiv cs.LG"
-    },
-    {
-      "rank": 13,
-      "title_cs": "DOOMQL ukazuje, jak lze herní engine kompletně postavit na databázi SQLite",
+      "title_cs": "DOOMQL ukazuje netradiční využití databáze SQLite jako herního enginu",
       "title_orig": "DOOMQL",
       "category": "wildcard",
       "summary_cs": [
-        "Vývojář Peter Gostev vytvořil s pomocí modelu GPT-5.6 originální hru inspirovanou klasikou Doom, postavenou na SQLite.",
-        "V tomto projektu databáze neslouží pouze k ukládání dat, ale přímo řídí pohyb, kolize, nepřátele i vykreslování.",
-        "Projekt demonstruje netradiční možnosti využití SQL dotazů pro real-time logiku v herním vývoji."
+        "Vývojář Peter Gostev vytvořil s pomocí modelu GPT-5.6 Sol originální hru podobnou Doom.",
+        "Unikátnost spočívá v tom, že SQL dotazy kompletně řídí pohyb, kolize i samotný boj ve hře.",
+        "Projekt demonstruje kreativní možnosti využití moderních AI modelů při netradičním programování."
       ],
-      "why_matters": "Inspirativní ukázka toho, jak mohou moderní AI modely pomoci s netradičním programováním a prototypováním.",
+      "why_matters": "Inspirativní ukázka toho, jak mohou vývojáři s AI posouvat hranice běžně používaných nástrojů.",
       "url": "https://simonwillison.net/2026/Jul/13/doomql/",
       "source": "Simon Willison's Weblog"
     },
     {
-      "rank": 14,
-      "title_cs": "Studie SciML ukazuje, kdy strukturální priority vědeckému strojovému učení pomáhají a kdy škodí",
-      "title_orig": "SciML in the Wild: A Diagnostic Study of When Structural Priors Help and When They Hurt",
-      "category": "research",
+      "rank": 10,
+      "title_cs": "MawForge optimalizuje paměť pro lokální spouštění MoE modelů",
+      "title_orig": "MawForge: Memory-Bounded Expert Materialization for Local Mixture-of-Experts Inference",
+      "category": "open-source",
       "summary_cs": [
-        "Diagnostická studie se zaměřila na efektivitu fyzikálně informovaných neuronových sítí a univerzálních diferenciálních rovnic.",
-        "Výzkum ukazuje, že vložení pevných fyzikálních předpokladů do modelů může v reálných podmínkách někdy výkon i zhoršit.",
-        "Autoři definují doporučení, kdy je vhodné tyto strukturální priority aplikovat a kdy se raději spolehnout na čistá data."
+        "MoE modely sice šetří výpočetní výkon na token, ale vyžadují uložení celé architektury v paměti.",
+        "MawForge přichází s metodou dynamické materializace expertů s omezením na dostupnou RAM.",
+        "Tento přístup umožňuje efektivnější lokální běh velkých modelů na běžném hardwaru."
       ],
-      "why_matters": "Klíčové pro české vědce a inženýry aplikující AI na simulace reálných fyzikálních systémů.",
-      "url": "https://arxiv.org/abs/2607.09684",
+      "why_matters": "Umožňuje provozovat pokročilé AI modely lokálně i na hardwaru s omezenou kapacitou paměti.",
+      "url": "https://arxiv.org/abs/2607.09686",
       "source": "ArXiv cs.LG"
     },
     {
-      "rank": 15,
-      "title_cs": "Low-Rank Attention Residuals zefektivňují architekturu transformátorů",
-      "title_orig": "Low-Rank Attention Residuals",
+      "rank": 11,
+      "title_cs": "Vzorkování řízené hloubkou a entropií pro uvažování bez trénování",
+      "title_orig": "Depth-Entropy Guided Sampling for Training-Free LLM Reasoning",
       "category": "research",
       "summary_cs": [
-        "Navržená architektura nahrazuje standardní reziduální vazby v transformátorech mechanismem nízkorozměrné pozornosti.",
-        "Tato změna odděluje směrování informací od jejich samotné reprezentace v hlubokých sítích.",
-        "Výsledkem je efektivnější tok informací mezi vrstvami modelu a potenciální snížení výpočetní náročnosti."
+        "Zlepšování logického uvažování modelů obvykle vyžaduje nákladné zpětnovazebné učení.",
+        "Nová metoda dosahuje lepších výsledků pouhou úpravou distribuce vzorkování základního modelu.",
+        "Tento přístup eliminuje potřebu drahých trénovacích dat a externích odměňovacích systémů."
       ],
-      "why_matters": "Přispívá k vývoji rychlejších a úspornějších jazykových modelů nové generace.",
-      "url": "https://arxiv.org/abs/2607.09694",
+      "why_matters": "Přináší levnější cestu k pokročilému uvažování modelů bez nutnosti investic do drahého dotrénování.",
+      "url": "https://arxiv.org/abs/2607.09693",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Detekce destilace modelů pomocí referenčního porovnání",
+      "title_orig": "Reference-Based Distillation Detection in LLMs",
+      "category": "research",
+      "summary_cs": [
+        "Trénování modelů na výstupech silnějších konkurentů je běžné, ale často porušuje licenční podmínky.",
+        "Představená metoda umožňuje spolehlivě detekovat, zda byl model vytvořen pomocí destilace.",
+        "Výzkum otevírá nové možnosti pro ochranu duševního vlastnictví v oblasti umělé inteligence."
+      ],
+      "why_matters": "Důležitý krok pro právní ochranu autorů modelů před neoprávněným kopírováním jejich schopností.",
+      "url": "https://arxiv.org/abs/2607.09692",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Waze integruje asistenta Gemini pro přirozenější hlášení na cestách",
+      "title_orig": "Waze is getting a bunch of new AI-powered features",
+      "category": "news",
+      "summary_cs": [
+        "Google integruje svůj model Gemini do navigace Waze s cílem usnadnit hlášení událostí.",
+        "Uživatelé budou moci nebezpečí na silnici hlásit přirozeným hlasem bez složitého klikání.",
+        "Aktualizace je součástí širší snahy Googlu nasadit AI asistenty do každodenních aplikací."
+      ],
+      "why_matters": "Zvyšuje bezpečnost a pohodlí při řízení pro tisíce českých řidičů využívajících Waze.",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "ATL Saathi přináší asistenta Gemini pro indické učitele robotiky",
+      "title_orig": "Empowering India’s next generation of innovators with ATL Saathi",
+      "category": "labs",
+      "summary_cs": [
+        "Google ve spolupráci s AIM spustil platformu ATL Saathi poháněnou modelem Gemini.",
+        "Nástroj pomáhá pedagogům v technických laboratořích s přípravou výuky robotiky.",
+        "Projekt ukazuje praktické nasazení generativní AI pro podporu technického vzdělávání."
+      ],
+      "why_matters": "Představuje inspirativní model, jak lze AI efektivně zapojit do moderní výuky technických oborů.",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Diagnostická studie SciML ukazuje, kdy strukturální priority pomáhají a kdy škodí",
+      "title_orig": "SciML in the Wild: A Diagnostic Study of When Structural Priors Help and When They Hurt",
+      "category": "research",
+      "summary_cs": [
+        "Vědecké strojové učení kombinuje neuronové sítě s fyzikálními zákony a rovnicemi.",
+        "Studie zkoumá, jak vložení pevných strukturálních předpokladů ovlivňuje přesnost modelů.",
+        "Výsledky ukazují, že nesprávně zvolené priority mohou výkonu modelu spíše uškodit."
+      ],
+      "why_matters": "Pomáhá českým výzkumníkům lépe navrhovat AI modely pro fyzikální a inženýrské simulace.",
+      "url": "https://arxiv.org/abs/2607.09684",
       "source": "ArXiv cs.LG"
     }
   ]
