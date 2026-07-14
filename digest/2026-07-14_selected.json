@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-14",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Apple žaluje OpenAI kvůli údajné krádeži obchodních tajemství a hardwaru",
+      "title_orig": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "category": "business",
+      "summary_cs": [
+        "Apple podal žalobu na OpenAI, kterou obviňuje ze spiknutí s bývalými zaměstnanci s cílem získat tajné dokumenty a hardwarové vzorky.",
+        "Podle žaloby měli kandidáti na pohovorech v OpenAI ukazovat dosud nevydané produkty a součástky, na kterých v Applu pracovali.",
+        "Tento právní spor může zásadně ovlivnit partnerství mezi oběma technologickými giganty a zpomalit integraci AI funkcí."
+      ],
+      "why_matters": "Soudní spor mezi dvěma nejvlivnějšími hráči může změnit pravidla pro přetahování talentů a sdílení technologií.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Rohlík spouští oficiální nákupní aplikaci přímo v ChatGPT",
+      "title_orig": "Závod o nákupy potravin přímo přes ChatGPT nabírá tempo, vstupuje do něj Rohlík",
+      "category": "tools",
+      "summary_cs": [
+        "Online supermarket Rohlík integroval své služby přímo do rozhraní ChatGPT prostřednictvím nové aplikace.",
+        "Zákazníci mohou vyhledávat produkty, sestavovat nákupní košíky na základě receptů a spravovat objednávky přirozenou konverzací.",
+        "Jedná se o významný krok v oblasti konverzační e-commerce na českém trhu, který zjednoduší každodenní nákupy."
+      ],
+      "why_matters": "Český e-commerce lídr ukazuje, jak prakticky integrovat AI do každodenních služeb pro běžné spotřebitele.",
+      "url": "https://www.lupa.cz/aktuality/zavod-o-nakupy-potravin-primo-pres-chatgpt-nabira-tempo-vstupuje-do-nej-rohlik/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Elon Musk ostře útočí na Sama Altmana kvůli žalobě od Applu",
+      "title_orig": "„Scam Altman.“ Elon Musk znovu útočí na šéfa OpenAI, tentokrát kvůli žalobě od Applu a krádeži tajemství",
+      "category": "news",
+      "summary_cs": [
+        "Elon Musk se na sociální síti X pustil do osobních útoků proti šéfovi OpenAI Samu Altmanovi a označil ho za podvodníka.",
+        "Konfrontace reaguje na novou žalobu Applu ohledně krádeže duševního vlastnictví a dřívější spory o akcie SpaceX.",
+        "Napětí mezi bývalými spoluzakladateli OpenAI nadále eskaluje a přitahuje pozornost celého technologického světa."
+      ],
+      "why_matters": "Otevřený konflikt lídrů oboru ilustruje hluboké osobní i strategické rozepře v zákulisí vývoje AI.",
+      "url": "https://cc.cz/scam-altman-elon-musk-znovu-utoci-na-sefa-openai-tentokrat-kvuli-zalobe-od-applu-a-kradezi-tajemstvi/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Evropské obranné AI startupy začínají konkurovat americkým gigantům",
+      "title_orig": "Na začátku byla frustrace, teď šlape evropské trio na paty americkým AI šampionům. A mění způsob války",
+      "category": "business",
+      "summary_cs": [
+        "Tři evropské technologické firmy získaly masivní investice od globálních fondů na vývoj autonomních dronů.",
+        "Jejich technologie jsou aktivně nasazovány na Ukrajině, kde v reálných podmínkách mění taktiku moderního válčení.",
+        "Evropa tak poprvé v oblasti vojenské umělé inteligence dokáže držet krok s největšími americkými konkurenty."
+      ],
+      "why_matters": "Úspěch evropských firem v obraně ukazuje rostoucí technologickou suverenitu kontinentu v kritických aplikacích.",
+      "url": "https://cc.cz/na-zacatku-byla-frustrace-ted-slape-evropske-trio-na-paty-americkym-ai-sampionum-a-meni-zpusob-valky/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Teorie nejnižší autonomie jako nový bezpečnostní standard pro AI agenty",
+      "title_orig": "A Theory of Least Autonomy in AI",
+      "category": "research",
+      "summary_cs": [
+        "Tradiční bezpečnostní koncept minimálních oprávnění již podle vědců nestačí pro autonomní AI agenty.",
+        "Nová teorie navrhuje omezovat samotnou míru autonomie agentů podle citlivosti prováděného úkolu.",
+        "Tento přístup má zabránit tomu, aby AI systémy činily závažná rozhodnutí bez lidského schválení."
+      ],
+      "why_matters": "Definuje nový rámec pro bezpečné nasazení autonomních agentů v podnikovém a regulovaném prostředí.",
+      "url": "https://arxiv.org/abs/2607.09744",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "ACRouter optimalizuje náklady na AI výběrem nejvhodnějšího modelu pro daný úkol",
+      "title_orig": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
+      "category": "open-source",
+      "summary_cs": [
+        "Nový open-source nástroj ACRouter dynamicky směruje uživatelské dotazy na nejvhodnější LLM modely.",
+        "V testech dokázal snížit provozní náklady až o 2,6násobek ve srovnání s používáním pouze nejvýkonnějšího modelu Claude Opus.",
+        "Framework řeší směrování jako dynamický problém, což umožňuje efektivní vyvažování ceny, rychlosti a kvality."
+      ],
+      "why_matters": "Pomáhá českým vývojářům a firmám dramaticky snížit účty za API bez ztráty kvality výstupů.",
+      "url": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Siri se s příchodem iOS 27 mění v univerzální AI nástroj pro ovládání iPhonu",
+      "title_orig": "Siri AI Is Becoming Apple’s Everything Tool",
+      "category": "tools",
+      "summary_cs": [
+        "Apple vydal první veřejnou betu systému iOS 27, která přináší kompletně přepracovanou asistentku Siri.",
+        "Nová Siri funguje jako hluboce integrovaný systémový agent schopný provádět komplexní akce napříč aplikacemi.",
+        "Uživatelé hlásí zásadní změnu v tom, jak s telefonem interagují, přičemž hlasové ovládání začíná nahrazovat dotyky."
+      ],
+      "why_matters": "Ukazuje, jak bude vypadat běžné používání chytrých telefonů v nejbližších letech.",
+      "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Nous Research jedná o investici při evaluaci 1,5 miliardy dolarů",
+      "title_orig": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "category": "business",
+      "summary_cs": [
+        "Tvůrci populární rodiny otevřených modelů Hermes jednají o získání investice ve výši nejméně 75 milionů dolarů.",
+        "Kolo by měl vést fond Robot Ventures s účastí dalších významných venture kapitálových firem.",
+        "Získané prostředky mají urychlit vývoj pokročilých agentických systémů postavených na open-source základech."
+      ],
+      "why_matters": "Financování potvrzuje obrovský komerční zájem o nezávislé open-source alternativy k uzavřeným modelům.",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "MawForge umožňuje lokální běh MoE modelů s omezenou pamětí",
+      "title_orig": "MawForge: Memory-Bounded Expert Materialization for Local Mixture-of-Experts Inference",
+      "category": "research",
+      "summary_cs": [
+        "Modely typu Mixture-of-Experts jsou efektivní při výpočtech, ale vyžadují obrovské množství paměti pro načtení všech expertů.",
+        "Systém MawForge přináší metodu dynamického nahrávání expertů do paměti pouze v případě potřeby.",
+        "To umožňuje spouštět velké a komplexní modely i na hardwaru s omezenou kapacitou RAM."
+      ],
+      "why_matters": "Zpřístupňuje pokročilé otevřené modely pro lokální použití na běžných počítačích bez drahých GPU.",
+      "url": "https://arxiv.org/abs/2607.09686",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 10,
+      "title_cs": "DOOMQL ukazuje, jak lze celou hru pohánět pomocí SQL dotazů",
+      "title_orig": "DOOMQL",
+      "category": "wildcard",
+      "summary_cs": [
+        "Vývojář Peter Gostev vytvořil s pomocí modelu GPT-5.6 Sol originální hru ve stylu klasického Doom.",
+        "Unikátnost projektu spočívá v tom, že herní logika, kolize, pohyb i souboje jsou kompletně řízeny databází SQLite.",
+        "Projekt demonstruje netradiční možnosti využití LLM pro generování komplexního a funkčního kódu."
+      ],
+      "why_matters": "Zábavný experiment ukazuje, jak pokročilé modely pomáhají posouvat hranice kreativního programování.",
+      "url": "https://simonwillison.net/2026/Jul/13/doomql/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Obránci začínají využívat prompt injection k zastavení útočících AI agentů",
+      "title_orig": "Now, defenders are embracing the prompt injection, too",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní experti vyvinuli metodu zvanou context bombing, která využívá zranitelnosti AI modelů k obraně.",
+        "Do citlivých dokumentů vkládají skryté instrukce, které útočícího AI agenta donutí ukončit činnost.",
+        "Tato technika obrací dříve nebezpečný typ útoku v efektivní nástroj kybernetické bezpečnosti."
+      ],
+      "why_matters": "Představuje nový způsob ochrany firemních dat před automatizovanými špionážními AI boty.",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Waze integruje asistenta Gemini pro přirozenější hlášení na cestách",
+      "title_orig": "Waze adds new AI-powered features and customization updates",
+      "category": "tools",
+      "summary_cs": [
+        "Navigační aplikace Waze získává nové funkce poháněné umělou inteligencí Gemini od Google.",
+        "Uživatelé nyní mohou hlásit nebezpečí nebo překážky na silnici běžnou řečí bez klikání na ikony.",
+        "AI porozumí kontextu mluveného slova a automaticky zařadí správný typ hlášení do mapy."
+      ],
+      "why_matters": "Integrace zvyšuje bezpečnost řidičů tím, že minimalizuje potřebu sledovat displej během jízdy.",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "AuditWeave přináší transparentní auditní stopu pro AI rozhodování",
+      "title_orig": "AuditWeave: Tamper-Evident, Auditor-Navigable Evidence Layer for AI-Assisted and Data-Transformation Workflows",
+      "category": "research",
+      "summary_cs": [
+        "Vznikl nový systém AuditWeave, který vytváří nezměnitelnou a snadno navigovatelnou stopu důkazů o rozhodnutích AI.",
+        "Nástroj je navržen pro vysoce regulované oblasti, jako je finančnictví, zdravotnictví a audit.",
+        "Umožňuje zpětně přesně rekonstruovat, jaká data a mezikroky vedly k finálnímu doporučení modelu."
+      ],
+      "why_matters": "Klíčová technologie pro splnění přísných evropských regulací ohledně vysvětlitelnosti AI.",
+      "url": "https://arxiv.org/abs/2607.09682",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Video generátor PixVerse získal obří investici a překonal hodnotu dvou miliard dolarů",
+      "title_orig": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "category": "business",
+      "summary_cs": [
+        "Startup PixVerse zajišťující generování videa z textu získal v novém investičním kole 439 milionů dolarů.",
+        "Tržní ohodnocení mladé firmy tímto krokem bleskově překonalo hranici dvou miliard dolarů.",
+        "Finance budou použity na vývoj pokročilých fyzikálních modelů světa a globální expanzi služeb."
+      ],
+      "why_matters": "Potvrzuje neutichající investiční apetit v oblasti generativního videa a tvorby obsahu.",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Sliby a limity modelů světa v umělé inteligenci",
+      "title_orig": "Simulating everything, sort of: The promise and limits of world models",
+      "category": "news",
+      "summary_cs": [
+        "Analýza se zabývá konceptem world models, které se snaží simulovat fyzikální zákony a chování reálného světa.",
+        "Tyto modely jsou klíčové pro autonomní řízení, robotiku i pokročilé generování realistických videí.",
+        "Odborníci poukazují na současné limity, jako je vysoká výpočetní náročnost a tendence k halucinacím fyziky."
+      ],
+      "why_matters": "Pomáhá pochopit technologii, která stojí za příští generací autonomních systémů a robotů.",
+      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "source": "Ars Technica"
+    }
+  ]
+}
