@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T04:00:46.380743+00:00",
+  "generated_at": "2026-07-14T06:24:17.362351+00:00",
   "date": "2026-07-14",
   "article_count_unique": 123,
   "article_count_raw": 123,
@@ -55,8 +55,8 @@
     {
       "source_id": "deepmind_blog",
       "status": "ok",
-      "count": 0,
-      "raw_count": 0
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "microsoft_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,7 +164,7 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 1,
-      "raw_count": 8
+      "raw_count": 10
     },
     {
       "source_id": "czechcrunch",
@@ -576,7 +576,7 @@
       "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/",
       "published_at": "2026-07-14T00:56:20+00:00",
       "author": "",
-      "summary_raw": "TIL: Using uvx in GitHub Actions in a cache-friendly way I finally found a cache-friendly recipe for using uvx tool-name in GitHub Actions workflows that I like. The trick is setting a UV_EXCLUDE_NEWER: \"2026-07-12\" environment variable at the start of the workflow and then using that as part of the GitHub Actions cache key. This means any uvx tool-name commands will resolve to the most recent version as-of that date, and you can bust the cache and upgrade the tools by bumping the date in the future. My goal here is to use Python tools in GitHub Actions without every run of the workflow hitting PyPI to download a fresh copy of the tool and its dependencies. Tags: packaging , pypi , python , github-actions , uv",
+      "summary_raw": "TIL: Using uvx in GitHub Actions in a cache-friendly way I finally found a cache-friendly recipe for using uvx tool-name in GitHub Actions workflows that I like. The trick is setting a UV_EXCLUDE_NEWER: \"2026-07-12\" environment variable at the start of the workflow and then using that as part of the GitHub Actions cache key. This means any uvx tool-name commands will resolve to the most recent version as-of that date, and you can bust the cache and upgrade the tools by bumping the date in the future. My goal here is to use Python tools in GitHub Actions without every run of the workflow hitting PyPI to download a fresh copy of the tool and its dependencies. Update : Here's an existing issue against the astral-sh/setup-uv repository requesting that they switch the default to cache rather than purge wheels from PyPI. Tags: packaging , pypi , python , github-actions , uv",
       "hero_image": null,
       "source_id": "simonw",
       "source_name": "Simon Willison's Weblog",
@@ -965,6 +965,18 @@
       "source_id": "venturebeat_ai",
       "source_name": "VentureBeat AI",
       "category": "news"
+    },
+    {
+      "id": "cb6b29eea7c363d3",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "published_at": "2026-07-13T12:37:28+00:00",
+      "author": "",
+      "summary_raw": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "hero_image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo",
+      "source_id": "deepmind_blog",
+      "source_name": "Google DeepMind Blog",
+      "category": "labs"
     },
     {
       "id": "0d5a09b17e21d890",
@@ -1505,18 +1517,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "2ebf6269eb6c2fbb",
-      "title": "[AINews] The Field Guide to Fable",
-      "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
-      "published_at": "2026-07-07T04:44:53+00:00",
-      "author": "",
-      "summary_raw": "a quiet day lets us digest the world's most significant model launch... to date.",
-      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/9fubhllmsBU",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "d62961a9e801e74e",
