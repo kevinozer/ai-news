@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T04:00:57.023091+00:00",
+  "generated_at": "2026-07-15T06:27:38.152645+00:00",
   "date": "2026-07-15",
-  "article_count_unique": 146,
-  "article_count_raw": 146,
+  "article_count_unique": 145,
+  "article_count_raw": 145,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -169,7 +169,7 @@
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "raw_count": 10
     }
   ],
@@ -1531,18 +1531,6 @@
       "category": "news"
     },
     {
-      "id": "80fa5d34d053bc9b",
-      "title": "„Scam Altman.“ Elon Musk znovu útočí na šéfa OpenAI, tentokrát kvůli žalobě od Applu a krádeži tajemství",
-      "url": "https://cc.cz/scam-altman-elon-musk-znovu-utoci-na-sefa-openai-tentokrat-kvuli-zalobe-od-applu-a-kradezi-tajemstvi/",
-      "published_at": "2026-07-13T11:08:36+00:00",
-      "author": "Ondřej Holzman",
-      "summary_raw": "Někdejší spoluzakladatelé OpenAI, Elon Musk a Sam Altman, se přes víkend na síti X pustili do osobních útoků kvůli nové žalobě i akciím SpaceX. Článek „Scam Altman.“ Elon Musk znovu útočí na šéfa OpenAI, tentokrát kvůli žalobě od Applu a krádeži tajemství se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/altman-musk-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "bb46f0e8b99b6f60",
       "title": "6 months to live for open models",
       "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
@@ -1687,24 +1675,24 @@
       "category": "labs"
     },
     {
-      "id": "6a0382b125f80de8",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
       "id": "ac2f1e5608dc81b1",
       "title": "GPT-5.5 Bio Bug Bounty",
       "url": "https://openai.com/index/bio-bug-bounty",
       "published_at": "2026-07-09T10:00:00+00:00",
       "author": "",
       "summary_raw": "Details about the OpenAI Bio Bounty program",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "6a0382b125f80de8",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "author": "",
+      "summary_raw": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
