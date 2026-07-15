@@ -3,73 +3,73 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "První hardwarové zařízení od OpenAI má být obrazovkový reproduktor s pohyblivými prvky",
+      "title_cs": "První hardwarové zařízení od OpenAI je údajně bezdisplejový pohybující se reproduktor",
       "title_orig": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
       "category": "news",
       "summary_cs": [
-        "Podle zpráv agentury Bloomberg vyvíjí OpenAI své první hardwarové zařízení v podobě bezobrazovkového reproduktoru.",
-        "Zařízení má obsahovat mechanické prvky, které se dokážou samy pohybovat, a má působit jako fyzický společník.",
-        "Cílem je vytvořit hmatatelné ztělesnění asistenta ChatGPT pro každodenní interakci v domácnosti."
+        "Připravované zařízení od OpenAI má fungovat jako fyzický společník a ztělesnění asistenta ChatGPT.",
+        "Podle uniklých informací bude přístroj obsahovat mechanické prvky, které mu umožní samostatný pohyb.",
+        "Tento krok představuje zásadní posun společnosti OpenAI směrem k vlastnímu spotřebnímu hardwaru."
       ],
-      "why_matters": "Ukazuje to strategický posun OpenAI k vlastnímu hardwaru a fyzické integraci umělé inteligence do našich domovů.",
+      "why_matters": "Ukazuje to, jak chce OpenAI integrovat ChatGPT přímo do našich domovů prostřednictvím fyzického hardwaru.",
       "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 2,
       "title_cs": "New York jako první stát dočasně zakázal stavbu nových obřích datových center",
-      "title_orig": "New York becomes the first state to enact a data center moratorium",
-      "category": "news",
-      "summary_cs": [
-        "Guvernérka Kathy Hochul podepsala první celostátní moratorium na nová hyperscale datová centra v USA.",
-        "Opatření reaguje na obavy z extrémního růstu spotřeby elektřiny, vody a dopadů na lokální komunity kvůli AI boomu.",
-        "Stát nařizuje dočasné zastavení vydávání nových ekologických povolení na dobu až jednoho roku."
-      ],
-      "why_matters": "První zásadní legislativní stopka pro infrastrukturu AI, která může ovlivnit globální dostupnost výpočetního výkonu.",
-      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-      "source": "The Verge AI"
-    },
-    {
-      "rank": 3,
-      "title_cs": "Bývalý výzkumník OpenAI Miles Wang jedná o založení startupu na vývoj léků s hodnotou 2 miliard dolarů",
-      "title_orig": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "title_orig": "New York State halts construction of all new data centers",
       "category": "business",
       "summary_cs": [
-        "Miles Wang, bývalý klíčový vědec z OpenAI, jedná s investory o masivním financování nového projektu.",
-        "Startup se zaměří na využití pokročilých AI modelů pro urychlení objevování nových léčiv a biologický výzkum.",
-        "Plánovaná valuace ve výši 2 miliard dolarů podtrhuje obrovský zájem rizikového kapitálu o propojení AI a věd o živé přírodě."
+        "Guvernérka státu New York podepsala první celostátní moratorium na schvalování nových velkých datových center.",
+        "Důvodem jsou obavy z dramatického nárůstu cen elektřiny, spotřeby vody a ztráty lokální kontroly nad infrastrukturou.",
+        "Opatření dočasně blokuje vydávání nových ekologických povolení pro energeticky náročné projekty."
       ],
-      "why_matters": "Představuje další vlnu talentů odcházejících z OpenAI, kteří transformují obor biotechnologií pomocí generativní AI.",
-      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "why_matters": "První reálný legislativní zásah proti energetickému hladu AI, který může ovlivnit globální rozvoj infrastruktury.",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 4,
-      "title_cs": "Šéf DeepMindu Demis Hassabis navrhuje vznik globálního dozorčího orgánu pro AI pod vedením USA",
+      "rank": 3,
+      "title_cs": "Hassabis z DeepMindu navrhuje globální kontrolní úřad pro AI vedený USA",
       "title_orig": "Google’s Demis Hassabis says it’s time for a global AI watchdog - led by the US",
       "category": "news",
       "summary_cs": [
-        "Demis Hassabis navrhuje vytvoření nezávislého standardizačního úřadu pro testování a regulaci nejvýkonnějších modelů.",
-        "Nový orgán by měl mít pravomoc zpomalit nebo zastavit vydání modelů, pokud by představovaly bezpečnostní riziko.",
-        "Podle Hassabise by měly vedení převzít Spojené státy, které mají nejlepší pozici pro nastavení globálních pravidel."
+        "Šéf Google DeepMind Demis Hassabis vyzval k vytvoření nezávislého mezinárodního orgánu pro regulaci pokročilé AI.",
+        "Nový úřad by měl mít pravomoc pozastavit vývoj modelů na hranici lidských možností, pokud by byly příliš nebezpečné.",
+        "Podle Hassabise by vedení této iniciativy měly převzít Spojené státy americké jakožto technologický lídr."
       ],
-      "why_matters": "Návrh přímo od šéfa přední AI laboratoře ukazuje na rostoucí tlak na systematickou kontrolu hraničních modelů.",
+      "why_matters": "Návrh klíčového hráče na zavedení globální brzdy pro vývoj nejsilnějších modelů umělé inteligence.",
       "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
       "source": "The Verge AI"
     },
     {
-      "rank": 5,
-      "title_cs": "Apple zpřístupnil novou Siri s umělou inteligencí pro veřejnost v beta verzi iOS 27",
+      "rank": 4,
+      "title_cs": "Apple otevírá novou Siri s AI pro veřejnost v beta verzi iOS 27",
       "title_orig": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
       "category": "news",
       "summary_cs": [
-        "Apple vydal první veřejnou beta verzi operačního systému iOS 27, která přináší kompletně přepracovanou Siri.",
-        "Uživatelé si nyní mohou vyzkoušet pokročilé AI funkce a plynulejší konverzaci bez nutnosti instalace vývojářských verzí.",
-        "Oficiální vydání stabilní verze pro širokou veřejnost je naplánováno na podzim tohoto roku."
+        "Apple vydal první veřejnou beta verzi operačního systému iOS 27 pro běžné uživatele.",
+        "Hlavním lákadlem je kompletně přepracovaná asistentka Siri s hlubší integrací umělé inteligence.",
+        "Uživatelé si tak mohou vyzkoušet nové funkce ještě před oficiálním podzimním vydáním."
       ],
-      "why_matters": "Zpřístupnění pokročilé AI od Apple milionům běžných uživatelů zásadně změní každodenní používání chytrých telefonů.",
+      "why_matters": "Zpřístupnění pokročilé AI od Applu široké veřejnosti bez nutnosti instalovat vývojářské verze.",
       "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
       "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Bývalí zaměstnanci žalují společnost Meta za propouštění řízené umělou inteligencí",
+      "title_orig": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "category": "news",
+      "summary_cs": [
+        "Skupina 26 bývalých zaměstnanců žaluje společnost Meta kvůli údajnému zneužití AI algoritmů při hromadném propouštění.",
+        "Žaloba tvrdí, že systém nespravedlivě cílil na pracovníky na nemocenské nebo s handicapem.",
+        "Meta veškerá obvinění odmítá a tvrdí, že rozhodnutí o propouštění činili výhradně lidé."
+      ],
+      "why_matters": "Důležitý precedent pro právní odpovědnost firem při delegování personálních rozhodnutí na algoritmy.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+      "source": "Ars Technica"
     },
     {
       "rank": 6,
@@ -77,137 +77,137 @@
       "title_orig": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
       "category": "tools",
       "summary_cs": [
-        "Služba 1Password představila nový nástroj AI Spend and Consumption Management v rámci své platformy SaaS Manager.",
-        "Novinka umožňuje IT a finančním týmům v reálném čase sledovat a analyzovat výdaje za tokeny u služeb jako OpenAI nebo Anthropic.",
-        "Firma reaguje na nekontrolovaný růst nákladů na AI asistenty a vývojářské nástroje napříč firemními týmy."
+        "Nástroj 1Password představil novou funkci AI Spend and Consumption Management pro monitorování firemních výdajů.",
+        "Služba poskytuje IT a finančním týmům jednotný přehled o spotřebě tokenů u služeb jako OpenAI nebo Anthropic.",
+        "Reaguje tím na rostoucí obavy firem z nekontrolovaných nákladů na zaměstnanecké AI asistenty."
       ],
-      "why_matters": "Pomáhá českým firmám získat kontrolu nad skrytými a rychle rostoucími náklady za API a AI služby.",
+      "why_matters": "Pomáhá českým firmám získat kontrolu nad skrytými náklady za využívání komerčních AI API.",
       "url": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
       "source": "VentureBeat AI"
     },
     {
       "rank": 7,
-      "title_cs": "Canva uvádí Code 2.0 a přináší tvorbu webů pomocí AI pro všechny uživatele zdarma",
+      "title_cs": "Canva Code 2.0 přináší tvorbu webů pomocí AI pro všechny uživatele zdarma",
       "title_orig": "Canva launches Code 2.0, offering AI website building to every user - including free accounts",
       "category": "tools",
       "summary_cs": [
-        "Canva představila zásadní upgrade svého AI nástroje Canva Code 2.0 pro tvorbu interaktivních webů a aplikací.",
-        "Uživatelé mohou generovat funkční weby pomocí jednoduchých textových příkazů a následně je vizuálně upravovat.",
-        "Funkce je okamžitě dostupná pro všech 185 milionů aktivních uživatelů, a to včetně bezplatných tarifů."
+        "Platforma Canva představila zásadní aktualizaci svého nástroje pro generování webových stránek a aplikací.",
+        "Uživatelé mohou vytvářet interaktivní weby pomocí zadávání instrukcí v přirozeném jazyce.",
+        "Funkce je bezplatně dostupná pro všech 200 milionů aktivních uživatelů platformy."
       ],
-      "why_matters": "Demokratizuje tvorbu webových stránek a umožňuje komukoli rychle vytvořit funkční prezentaci bez znalosti programování.",
+      "why_matters": "Zpřístupňuje tvorbu webových stránek široké veřejnosti bez nutnosti ovládat programování.",
       "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
       "source": "VentureBeat AI"
     },
     {
       "rank": 8,
-      "title_cs": "Spotify spouští vlastního AI chatbota pro interaktivní objevování hudby a podcastů",
+      "title_cs": "Spotify spouští vlastního konverzačního AI chatbota pro předplatitele",
       "title_orig": "Spotify expands its AI push with a ChatGPT-like music assistant",
       "category": "news",
       "summary_cs": [
-        "Spotify testuje novou konverzační funkci Talk to Spotify pro předplatitele verze Premium na mobilních zařízeních.",
-        "Uživatelé mohou pomocí chatu přirozeným jazykem vyhledávat hudbu, audioknihy a doporučení na míru.",
-        "Chatbot se integruje přímo do domovské obrazovky a rozhraní přehrávače pro snadný přístup."
+        "Spotify testuje novou funkci Talk to Spotify, která umožňuje vyhledávat hudbu a podcasty pomocí chatu.",
+        "Uživatelé mohou s aplikací komunikovat přirozeným jazykem a nechat si doporučovat obsah na míru.",
+        "Funkce se postupně rozšiřuje mezi předplatitele verze Premium v mobilní aplikaci."
       ],
-      "why_matters": "Ukazuje, jak se konverzační rozhraní stává standardem pro ovládání populárních spotřebitelských aplikací.",
+      "why_matters": "Ukazuje, jak se konverzační rozhraní stává standardem pro ovládání běžných multimediálních aplikací.",
       "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 9,
-      "title_cs": "Bývalí zaměstnanci žalují společnost Meta za to, že o propouštění rozhodovala zaujatá AI",
-      "title_orig": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "title_cs": "Sociální sítě fungují jako brány k aplikacím na svlékání lidí pomocí AI",
+      "title_orig": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
       "category": "news",
       "summary_cs": [
-        "Skupina 26 bývalých zaměstnanců podala žalobu na společnost Meta kvůli údajně nezákonnému propouštění.",
-        "Žaloba tvrdí, že Meta použila interní AI algoritmy, které k propouštění nespravedlivě vybraly lidi na nemocenské či rodičovské dovolené.",
-        "Meta obvinění odmítá a tvrdí, že při rozhodování o ukončení pracovních poměrů umělou inteligenci nepoužila."
+        "Nová studie odhalila, že platformy jako YouTube a X odkazují uživatele na weby vytvářející explicitní deepfakes.",
+        "Tyto služby umožňují vytvořit falešný nahý snímek jakékoli osoby za cenu kolem jednoho dolaru.",
+        "Odborníci varují před snadnou dostupností těchto nástrojů a nedostatečnou moderací reklam na sociálních sítích."
       ],
-      "why_matters": "Zásadní precedent pro právní odpovědnost firem při využívání AI algoritmů v personalistice a HR.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-      "source": "Ars Technica"
+      "why_matters": "Upozorňuje na závažný etický a bezpečnostní problém zneužívání AI k tvorbě neautorizovaného obsahu.",
+      "url": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+      "source": "Wired AI"
     },
     {
       "rank": 10,
-      "title_cs": "Google k 25. výročí radikálně mění vyhledávání obrázků pomocí personalizované AI",
-      "title_orig": "Google revamps image search for its 25th anniversary with more images and more AI",
-      "category": "news",
+      "title_cs": "Hvězda OpenAI Miles Wang jedná o založení startupu na objevování léků s hodnotou 2 miliard dolarů",
+      "title_orig": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "category": "business",
       "summary_cs": [
-        "Google představil nový design domovské stránky Vyhledávání obrázků, který opouští tradiční prázdný vyhledávací řádek.",
-        "Nové rozhraní nabídne personalizovanou galerii doporučeného obsahu na základě zájmů a historie prohlížení uživatele.",
-        "Změna se podobá konceptu Pinterestu a klade důraz na neustálé objevování vizuálního obsahu poháněné AI."
+        "Přední výzkumník z OpenAI Miles Wang plánuje založit vlastní společnost zaměřenou na vývoj léčiv pomocí AI.",
+        "Investoři mají o projekt enormní zájem a jednají o valuaci přesahující dvě miliardy dolarů.",
+        "Tento krok potvrzuje trend, kdy špičkoví vědci opouštějí velké laboratoře a zakládají specializované startupy."
       ],
-      "why_matters": "Mění způsob, jakým vyhledáváme a konzumujeme vizuální inspiraci na největším vyhledávači světa.",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-      "source": "Ars Technica"
+      "why_matters": "Ukazuje obrovský finanční potenciál a zájem investorů o využití AI v biologických vědách.",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 11,
-      "title_cs": "Jak viditelnost dotazu mění hodnocení kompresních metod pro KV-Cache",
+      "title_cs": "Jak se mění hodnocení komprese KV-Cache podle viditelnosti dotazu",
       "title_orig": "How Query Visibility Changes KV-Cache Compression Rankings: A Matched-Budget Audit",
       "category": "research",
       "summary_cs": [
-        "Studie zkoumá efektivitu komprese KV-cache u velkých jazykových modelů při opakovaném použití dokumentů.",
-        "Většina metod se hodnotí tak, že dotaz je připojen před kompresí, což ale neodpovídá reálnému nasazení v praxi.",
-        "Výzkum ukazuje, že pořadí úspěšnosti kompresních algoritmů se dramaticky mění, pokud je dotaz skrytý až do fáze dotazování."
+        "Výzkum analyzuje metody komprese KV-cache, které jsou klíčové pro efektivní práci s dlouhým kontextem.",
+        "Ukazuje se, že hodnocení kompresních algoritmů se dramaticky liší, pokud je dotaz znám předem, nebo až po kompresi.",
+        "Studie navrhuje realističtější metodiku testování pro scénáře, kde se dokument komprimuje jednou a dotazuje opakovaně."
       ],
-      "why_matters": "Klíčový výzkum pro vývojáře, kteří chtějí optimalizovat rychlost a náklady na provoz podnikových RAG systémů.",
+      "why_matters": "Důležitý technický detail pro vývojáře optimalizující rychlost a náklady na provoz LLM.",
       "url": "https://arxiv.org/abs/2607.11942",
       "source": "ArXiv cs.LG"
     },
     {
       "rank": 12,
-      "title_cs": "Navrhování webů připravených pro AI agenty jako nový standard machine readability",
+      "title_cs": "Navrhování webů připravených pro autonomní AI agenty",
       "title_orig": "Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability",
       "category": "research",
       "summary_cs": [
-        "S nástupem AI agentů se nakupování a vyhledávání přesouvá od lidí k autonomním softwarovým entitám.",
-        "Tato práce představuje framework pro tvorbu webů, které jsou optimalizované pro strojové čtení a spolehlivé rozhodování agentů.",
-        "Weby budou muset kromě lidského designu podporovat i standardizovaná rozhraní pro rychlou akci a porovnání produktů."
+        "Studie představuje rámec pro tvorbu webových stránek, které jsou optimalizované pro procházení AI agenty.",
+        "S rostoucím trendem autonomního nakupování musí weby podporovat strojovou čitelnost a spolehlivé rozhodování.",
+        "Návrh se zaměřuje na to, jak by měly e-shopy strukturovat data, aby agenti mohli bezchybně dokončit nákup."
       ],
-      "why_matters": "Definuje budoucnost webdesignu a SEO, kde hlavním zákazníkem na vašem e-shopu může být brzy AI agent.",
+      "why_matters": "Definuje budoucí standardy webdesignu, kde hlavním návštěvníkem webu už nebude člověk, ale AI.",
       "url": "https://arxiv.org/abs/2607.12056",
       "source": "ArXiv cs.AI"
     },
     {
       "rank": 13,
-      "title_cs": "Rámec pro hodnocení rizik zneužití chemických, biologických a jaderných hrozeb u pokročilých modelů",
-      "title_orig": "A Threshold Exceedance Framework for CBRN Uplift Evaluation in Frontier Language Models",
+      "title_cs": "GRID: Gramatická pravidla pro bezpečné generování SQL v podnicích",
+      "title_orig": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
       "category": "research",
       "summary_cs": [
-        "Výzkum přináší metodologii pro hodnocení, zda přístup k pokročilým AI modelům zvyšuje riziko zneužití nebezpečných látek.",
-        "Navržený rámec testuje schopnost laiků plánovat vysoce rizikové scénáře s pomocí AI ve srovnání s běžně dostupným internetem.",
-        "Cílem je poskytnout vývojářům a regulátorům jasné metriky pro bezpečné uvolňování nových verzí modelů."
+        "Představený systém GRID zajišťuje, že LLM generují syntakticky a bezpečnostně stoprocentně validní SQL dotazy.",
+        "Metoda vynucuje dodržování schémat a přístupových práv přímo během procesu dekódování modelu.",
+        "Řešení odstraňuje riziko nebezpečných nebo chybných databázových dotazů bez dopadu na rychlost generování."
       ],
-      "why_matters": "Pomáhá nastavit bezpečnostní standardy pro modely nové generace, což ovlivní jejich dostupnost v EU.",
-      "url": "https://arxiv.org/abs/2607.12200",
+      "why_matters": "Umožňuje bezpečné nasazení AI pro přímou práci s podnikovými databázemi bez rizika úniku dat.",
+      "url": "https://arxiv.org/abs/2607.11951",
       "source": "ArXiv cs.AI"
     },
     {
       "rank": 14,
-      "title_cs": "Sjednocené účtování nákladů na vyhledávání a generování v multi-tenant RAG systémech",
+      "title_cs": "Řízení nákladů v RAG systémech s přesným rozúčtováním na jednotlivé nájemce",
       "title_orig": "Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems",
       "category": "research",
       "summary_cs": [
-        "Podnikové RAG systémy často narážejí na problém s přesným rozúčtováním nákladů mezi jednotlivé klienty či oddělení.",
-        "Zatímco generování textu se snadno měří na tokeny, náklady na vektorovou paměť a embeddingy zůstávají skryté.",
-        "Představený systém Cost-Governed RAG přináší sjednocenou metodiku pro přesné sledování nákladů na každého uživatele."
+        "Práce řeší problém spravedlivého rozdělení nákladů v multi-tenantních RAG systémech.",
+        "Zatímco generování textu se snadno měří na tokeny, náklady na vyhledávací vrstvu a vektorovou paměť byly dosud sdílené.",
+        "Nový framework umožňuje přesně přiřadit náklady na embeddingy, vyhledávání i generování konkrétnímu uživateli."
       ],
-      "why_matters": "Umožňuje českým softwarovým integrátorům přesně fakturovat provoz AI řešení koncovým zákazníkům.",
+      "why_matters": "Klíčové pro české softwarové firmy stavící SaaS aplikace nad velkými jazykovými modely.",
       "url": "https://arxiv.org/abs/2607.12188",
       "source": "ArXiv cs.AI"
     },
     {
       "rank": 15,
-      "title_cs": "Komunita Lobsters úspěšně migrovala z MariaDB na databázi SQLite",
+      "title_cs": "Komunita Lobsters úspěšně migrovala z MariaDB na SQLite",
       "title_orig": "lobste.rs is now running on SQLite",
       "category": "wildcard",
       "summary_cs": [
-        "Populární technologický komunitní web Lobsters dokončil dlouho plánovanou migraci své databázové vrstvy.",
-        "Původní záměr přejít na PostgreSQL byl přehodnocen ve prospěch moderního a vysoce efektivního SQLite.",
-        "Provoz na SQLite se ukázal jako stabilní a dostatečně rychlý pro potřeby středně velkého komunitního portálu."
+        "Známý komunitní web Lobsters dokončil dlouho plánovaný přechod na databázi SQLite.",
+        "Migrace ukazuje rostoucí trend využívání SQLite i pro produkční weby s vyšší návštěvností.",
+        "Provozovatelé potvrdili, že systém je po víkendovém nasazení plně stabilní a vykazuje skvělý výkon."
       ],
-      "why_matters": "Potvrzuje rostoucí trend využívání SQLite pro produkční webové aplikace, což zjednodušuje a zlevňuje vývoj.",
+      "why_matters": "Inspirativní ukázka zjednodušení technologického stacku pro české vývojáře webových aplikací.",
       "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/",
       "source": "Simon Willison's Weblog"
     }
