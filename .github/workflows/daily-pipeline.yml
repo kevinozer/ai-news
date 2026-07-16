@@ -41,7 +41,7 @@ jobs:
           miss=""
           has(){ curl -s -H "Authorization: Bearer $2" "https://api.github.com/repos/$1/commits?sha=main&per_page=6" | grep -q "$3"; }
           has kevinozer/aicruz-web "$GH_TOKEN" "Articles: ${DATE}" || miss="$miss ainamiru"
-          has kevinozer/cbre-marketplace "$GH_TOKEN" "daily sync ${DATE}" || miss="$miss cbre"
+          has CBREcz/cbre-marketplace "$GH_TOKEN" "daily sync ${DATE}" || miss="$miss cbre"
           has cruzmira/stanton-chase-ai-hub "$SC_TOKEN" "sync ${DATE}" || miss="$miss sc"
           TG=$(curl -s -o /dev/null -w "%{http_code}" -H "Authorization: Bearer $GH_TOKEN" "https://api.github.com/repos/kevinozer/ai-news/contents/state/telegram-${DATE}.ok")
           [ "$TG" = "200" ] || miss="$miss telegram"
@@ -215,7 +215,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.CBRE_GEMINI_KEY }}
         run: |
           DATE=${{ steps.d.outputs.date }}
-          git clone --depth=10 "https://x-access-token:${{ secrets.GH_PAT }}@github.com/kevinozer/cbre-marketplace.git" /tmp/cbre
+          git clone --depth=10 "https://x-access-token:${{ secrets.GH_PAT }}@github.com/CBREcz/cbre-marketplace.git" /tmp/cbre
           if git -C /tmp/cbre log -10 --pretty=%s | grep -q "daily sync ${DATE}"; then echo "CBRE ${DATE} uz synced -> preskakuji"; exit 0; fi
           python3 scripts/cbre_sync.py --ainamiru _ainamiru --marketplace /tmp/cbre
           cd /tmp/cbre
@@ -327,7 +327,7 @@ jobs:
           else
             code=$(curl -s -o /dev/null -w "%{http_code}" "https://raw.githubusercontent.com/kevinozer/ai-news/main/instagram/${DATE}/caption.txt")
             chk "slidy na raw (Make.com)" "$([ "$code" = "200" ] && echo OK || echo "HTTP $code")"
-            for repo in kevinozer/aicruz-web kevinozer/cbre-marketplace; do
+            for repo in kevinozer/aicruz-web CBREcz/cbre-marketplace; do
               d=$(curl -s -H "Authorization: Bearer $GH_PAT" "https://api.github.com/repos/$repo/commits/main" | python3 -c "import sys,json;print(json.load(sys.stdin)['commit']['committer']['date'][:10])" 2>/dev/null)
               chk "$repo commit $DATE" "$([ "$d" = "$DATE" ] && echo OK || echo "poslední $d")"
             done
