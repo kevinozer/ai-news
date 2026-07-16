@@ -51,7 +51,7 @@ def parse_article_html(html_path: Path) -> list[dict]:
     if not html_path.exists():
         return []
     soup = BeautifulSoup(html_path.read_text(encoding="utf-8"), "html.parser")
-    body = soup.find("div", class_="a-body")
+    body = soup.find("div", class_="art-body") or soup.find("div", class_="a-body")
     if not body:
         return []
     blocks = []
