@@ -3,29 +3,29 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "Thinking Machines uvádí Inkling, otevřený multimodální model s 975 miliardami parametrů",
+      "title_cs": "Thinking Machines uvádí svůj první otevřený multimodální model Inkling s 975 miliardami parametrů",
       "title_orig": "Thinking Machines Lab Drops Its First Model",
       "category": "open-source",
       "summary_cs": [
-        "Laboratoř Thinking Machines představila svůj první veřejný model Inkling, který disponuje 975 miliardami parametrů.",
-        "Tento masivní multimodální model byl od základu trénován pro hluboké porozumění videu a zvuku.",
-        "Vydání tohoto otevřeného modelu představuje přímou konkurenci pro zavedené proprietární systémy od OpenAI a Anthropic."
+        "Laboratoř Thinking Machines představila svůj první veřejný model Inkling, který disponuje kapacitou 975 miliard parametrů.",
+        "Tento masivní open-source model byl od počátku trénován pro hluboké porozumění videu a zvuku.",
+        "Vydání představuje přímou konkurenci pro zavedené proprietární modely od společností Anthropic a OpenAI."
       ],
-      "why_matters": "Ukazuje, že špičkové multimodální modely s téměř bilionem parametrů mohou být dostupné jako open-source pro vlastní nasazení.",
+      "why_matters": "Ukazuje, že špičkové multimodální modely s téměř bilionem parametrů mohou být dostupné jako open-source pro každého.",
       "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
       "source": "Wired AI"
     },
     {
       "rank": 2,
-      "title_cs": "OpenAI představila GPT-Red, autonomního superhackera pro testování bezpečnosti",
+      "title_cs": "OpenAI představila GPT-Red, autonomního superhackera pro testování bezpečnosti modelů",
       "title_orig": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
       "category": "labs",
       "summary_cs": [
-        "Společnost OpenAI vyvinula specializovaný model GPT-Red, který funguje jako autonomní útočník proti jejím vlastním systémům.",
-        "Tento nástroj simuluje pokročilé kybernetické útoky a pomáhá odhalovat slabiny dříve, než je zneužijí skuteční hackeři.",
-        "Díky tréninku proti tomuto superhackerovi je nejnovější verze GPT-5.6 dosud nejodolnějším modelem firmy."
+        "Společnost OpenAI vyvinula specializovaný model GPT-Red, který funguje jako autonomní útočník simulující kybernetické hrozby.",
+        "Tento nástroj slouží jako sparing partner pro testování a posilování obranyschopnosti ostatních modelů před jejich vydáním.",
+        "Díky tréninku proti tomuto superhackerovi je nová verze GPT-5.6 dosud nejodolnějším modelem firmy vůči zneužití."
       ],
-      "why_matters": "Představuje nový standard v automatizovaném zabezpečení AI systémů pomocí simulace reálných kybernetických hrozeb.",
+      "why_matters": "Defenzivní využití AI k automatickému hledání zranitelností zásadně mění pravidla hry v kybernetické bezpečnosti.",
       "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
       "source": "MIT Technology Review"
     },
@@ -35,11 +35,11 @@
       "title_orig": "Všichni to dělají, nikdo neví, jak správně. Stahování informací z internetu je v Evropě ještě šedá zóna",
       "category": "news",
       "summary_cs": [
-        "Evropské startupy i státní instituce běžně scrapují data z webu, aniž by existoval jasný právní rámec.",
-        "Očekává se, že zásadní rozhodnutí v této oblasti přinese až verdikt Evropského soudního dvora.",
-        "Nejasná pravidla komplikují vývoj lokálních AI modelů a znevýhodňují evropské technologické firmy."
+        "Evropské startupy i státní instituce běžně scrapují webová data, aniž by existoval jasný právní rámec.",
+        "Aktuální spory o autorská práva a ochranu osobních údajů při trénování modelů musí rozseknout až Evropský soudní dvůr.",
+        "Nejasná pravidla komplikují rozvoj evropského AI ekosystému a znevýhodňují lokální firmy oproti americké konkurenci."
       ],
-      "why_matters": "Rozhodnutí o legálnosti scrapování zásadně ovlivní vývoj českých AI aplikací a dostupnost trénovacích dat.",
+      "why_matters": "České firmy a vývojáři získají konečně jasno v tom, jaká data mohou legálně využívat pro své projekty.",
       "url": "https://www.lupa.cz/clanky/vsichni-to-delaji-nikdo-nevi-jak-spravne-stahovani-informaci-z-internetu-je-v-evrope-jeste-seda-zona/",
       "source": "Lupa.cz"
     },
@@ -49,167 +49,167 @@
       "title_orig": "Umělá inteligence dobývá i největší finanční skupiny, PPF nově zřídí post šéfa AI",
       "category": "news",
       "summary_cs": [
-        "Největší česká finanční skupina PPF reaguje na nástup AI vytvořením nové strategické role skupinového CAIO.",
-        "Tuto pozici obsadí Jindřich Fremuth, který dříve úspěšně vedl telekomunikačního operátora O2.",
-        "Jeho úkolem bude koordinovat integraci technologií umělé inteligence napříč všemi obory podnikání skupiny."
+        "Největší česká finanční skupina PPF reaguje na rozmach technologií a zřizuje novou roli skupinového Chief AI Officer.",
+        "Tuto klíčovou pozici obsadí Jindřich Fremuth, který dříve úspěšně vedl telekomunikačního operátora O2.",
+        "Cílem je systematická integrace umělé inteligence napříč všemi obory podnikání skupiny od financí po telekomunikace."
       ],
-      "why_matters": "Jde o jasný signál pro český trh, že největší tuzemské korporace berou integraci AI jako nejvyšší prioritu.",
+      "why_matters": "Jde o jasný signál pro český trh, že největší tuzemští hráči berou transformaci pomocí AI naprosto vážně.",
       "url": "https://cc.cz/umela-inteligence-dobyva-i-nejvetsi-financni-skupiny-ppf-nove-zridi-post-sefa-ai/",
       "source": "CzechCrunch"
     },
     {
       "rank": 5,
+      "title_cs": "OpenAI uvádí na trh Codex Micro, svítící klávesnici za 230 dolarů pro sledování AI agentů",
+      "title_orig": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI překvapivě vydala své první hardwarové zařízení v podobě programovatelné mechanické klávesnice.",
+        "Zařízení s názvem Codex Micro je navrženo tak, aby vývojářům umožňovalo vizuálně sledovat více běžících agentických vláken.",
+        "Produkt přichází na trh uprostřed ostrého právního sporu s Apple ohledně údajné krádeže hardwarových tajemství."
+      ],
+      "why_matters": "První fyzický produkt od OpenAI ukazuje, jak se mění rozhraní pro práci s autonomními agenty.",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
       "title_cs": "Spolehlivost, nikoli schopnosti, je hlavní překážkou pro nasazení AI agentů ve firmách",
       "title_orig": "Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026",
       "category": "business",
       "summary_cs": [
         "Ředitel divize AGI Autonomy v Amazonu upozornil na propastný rozdíl mezi pilotními projekty a reálnou produkcí.",
-        "Ačkoli 85 procent firem agenty testuje, pouhých 5 procent je dokázalo úspěšně nasadit do ostrého provozu.",
-        "Hlavním problémem zůstává nedostatečná konzistence chování agentů při řešení komplexních úkolů."
+        "Zatímco 85 procent podniků agenty aktivně testuje, pouze 5 procent je dokázalo úspěšně nasadit do ostrého provozu.",
+        "Hlavním problémem zůstává nedostatečná spolehlivost a předvídatelnost chování agentů při dlouhodobých úkolech."
       ],
       "why_matters": "Pomáhá českým manažerům pochopit, proč jejich interní AI projekty často narážejí při přechodu do praxe.",
       "url": "https://venturebeat.com/technology/amazon-agi-director-says-ai-agent-reliability-not-capability-is-blocking-enterprise-deployment-at-vb-transform-2026",
       "source": "VentureBeat AI"
     },
     {
-      "rank": 6,
-      "title_cs": "OpenAI překvapivě vydává hardwarovou klávesnici Codex Micro pro vývojáře",
-      "title_orig": "OpenAI's first branded hardware is... a light-up keyboard?",
-      "category": "tools",
-      "summary_cs": [
-        "Společnost OpenAI uvedla na trh svůj první fyzický produkt v podobě programovatelné klávesnice za 230 dolarů.",
-        "Zařízení Codex Micro je navrženo pro úzkou integraci s vývojářským prostředím a agentickými systémy.",
-        "Klávesnice obsahuje speciální světelné indikátory, které umožňují sledovat stav více běžících AI procesů najednou."
-      ],
-      "why_matters": "Ukazuje nečekaný směr, kterým se OpenAI vydává při propojování softwarových agentů s fyzickým hardwarem.",
-      "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-      "source": "Ars Technica"
-    },
-    {
       "rank": 7,
-      "title_cs": "Průzkum ukazuje, že většina firemních AI agentů jsou ve skutečnosti jen pokročilé chatboty",
-      "title_orig": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem - and most are calling chatbots agents",
+      "title_cs": "Microsoft údajně školí své prodejce, aby zpochybňovali modely od OpenAI a Anthropic",
+      "title_orig": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "category": "business",
       "summary_cs": [
-        "Analýza mezi stovkou velkých podniků odhalila, že ambice v oblasti autonomních agentů výrazně předbíhají realitu.",
-        "Většina systémů označovaných jako agenti stále funguje pouze na bázi jednoduchých konverzačních rozhraní.",
-        "V oblasti orchestrace složitých úloh si nejlepší pozici drží modely řady Claude od společnosti Anthropic."
+        "Microsoft podle interních zpráv instruuje své obchodní týmy, aby aktivně nabízely jeho vlastní AI modely.",
+        "Prodejci mají prezentovat in-house řešení Microsoftu jako efektivnější a nákladově výhodnější než modely konkurence.",
+        "Tento krok ukazuje na rostoucí rivalitu mezi Microsoftem a jeho klíčovým partnerem OpenAI."
       ],
-      "why_matters": "Přináší realistický pohled na trh a varuje před marketingovým zneužíváním pojmu AI agent.",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "source": "VentureBeat AI"
+      "why_matters": "Naznačuje, že i největší technologická partnerství mají své limity a zákazníci by měli diverzifikovat své dodavatele.",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 8,
-      "title_cs": "Apple Intelligence získala povolení pro čínský trh díky partnerství s Alibabou",
+      "title_cs": "Apple získal schválení pro Apple Intelligence v Číně díky partnerství s Alibabou",
       "title_orig": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "category": "news",
+      "category": "business",
       "summary_cs": [
-        "Apple úspěšně vyřešil regulatorní překážky pro spuštění svých AI služeb na klíčovém čínském trhu.",
-        "Místo vlastních cloudových modelů bude Apple v Číně využívat lokalizovaný model Qwen od technologického giganta Alibaba.",
-        "Tato dohoda ukazuje nutnost technologické lokalizace a respektování národních regulací v oblasti AI."
+        "Apple úspěšně vyjednal povolení pro spuštění svých AI služeb na klíčovém čínském trhu.",
+        "Vzhledem k místním regulacím bude systém využívat lokální model Qwen od technologického giganta Alibaba.",
+        "Tato dohoda představuje zásadní krok pro udržení konkurenceschopnosti iPhonů v asijském regionu."
       ],
-      "why_matters": "Ukazuje, jak geopolitika a lokální regulace nutí i největší globální hráče k nečekaným technologickým partnerstvím.",
+      "why_matters": "Ukazuje, jak geopolitika a lokální regulace nutí globální hráče k vytváření hybridních technologických aliancí.",
       "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 9,
-      "title_cs": "Microsoft údajně školí prodejce, aby zpochybňovali efektivitu modelů od OpenAI a Anthropic",
-      "title_orig": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "title_cs": "Uniklá data naznačují, že hudební generátor Suno nelegálně scrapoval miliony skladeb z YouTube",
+      "title_orig": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
       "category": "news",
       "summary_cs": [
-        "Interní zprávy naznačují, že Microsoft mění strategii a začíná aktivně konkurovat svým dosavadním partnerům.",
-        "Obchodní zástupci jsou instruováni, aby prezentovali vlastní modely Microsoftu jako úspornější a efektivnější.",
-        "Tento krok podtrhuje rostoucí napětí mezi poskytovateli infrastruktury a tvůrci samotných hraničních modelů."
+        "Bezpečnostní incident odhalil zdrojový kód populárního AI hudebního generátoru Suno.",
+        "Uniklé informace potvrzují, že platforma byla trénována na milionech skladeb stažených z YouTube, Deezeru a Geniusu.",
+        "Zjištění přichází v době, kdy firma čelí masivním žalobám ze strany velkých hudebních vydavatelství."
       ],
-      "why_matters": "Naznačuje budoucí změny v dostupnosti a nacenění AI služeb v rámci ekosystému Microsoft.",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "TechCrunch AI"
+      "why_matters": "Tento spor může zásadně ovlivnit budoucnost generativní hudby a definovat hranice férového užití děl.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "source": "The Verge AI"
     },
     {
       "rank": 10,
-      "title_cs": "xAI uvolňuje grok-build jako open-source po kritice ohledně bezpečnosti dat",
+      "title_cs": "xAI čelí kritice kvůli chybě v CLI nástroji, který nahrával celé složky do cloudu",
       "title_orig": "xai-org/grok-build, now open source",
       "category": "open-source",
       "summary_cs": [
-        "Společnost xAI otevřela zdrojový kód svého vývojářského nástroje pro příkazovou řádku grok-build.",
-        "Krok následuje po ostré kritice uživatelů, kteří si všimli, že nástroj bez varování nahrával celé složky do cloudu.",
-        "Otevření kódu má komunitě umožnit přesnou kontrolu nad tím, jaká data jsou odesílána na servery xAI."
+        "Nový open-source vývojářský nástroj od xAI vyvolal vlnu nevole kvůli závažnému chování při odesílání dat.",
+        "Uživatelé zjistili, že spuštění příkazu v adresáři může bez varování nahrát kompletní obsah složky do cloudových úložišť.",
+        "Mezi nechtěně nahranými soubory se v některých případech ocitly i citlivé privátní SSH klíče."
       ],
-      "why_matters": "Zdůrazňuje důležitost transparentnosti u vývojářských AI nástrojů, které mohou omylem ohrozit citlivá firemní data.",
+      "why_matters": "Důrazné varování pro vývojáře, aby si pečlivě ověřovali chování nových AI nástrojů před spuštěním v lokálním prostředí.",
       "url": "https://simonwillison.net/2026/Jul/15/grok-build/",
       "source": "Simon Willison's Weblog"
     },
     {
       "rank": 11,
-      "title_cs": "Únik dat odhalil, že hudební generátor Suno trénoval na milionech skladeb bez povolení",
-      "title_orig": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-      "category": "news",
+      "title_cs": "Ode s podporou Anthropic sází na novou éru AI konzultací pro velké podniky",
+      "title_orig": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "category": "business",
       "summary_cs": [
-        "Bezpečnostní incident ve společnosti Suno odhalil přesné zdroje použité pro trénování populárního hudebního modelu.",
-        "Data ukazují, že systém masivně scrapoval platformy jako YouTube Music, Deezer nebo textový web Genius.",
-        "Tento objev poskytuje silné důkazy pro probíhající autorskoprávní žaloby ze strany hudebních vydavatelství."
+        "Nový společný podnik Ode, podporovaný Anthropicem a investičními fondy, chce změnit trh podnikového poradenství.",
+        "Startup vysílá specializované inženýry přímo do firem, aby integrovali modely Claude hluboko do jejich infrastruktury.",
+        "Projekt sází na to, že malý tým expertů s pokročilou AI dokáže nahradit armádu tradičních konzultantů."
       ],
-      "why_matters": "Může zásadně ovlivnit budoucnost generativní hudby a nastavit nová pravidla pro licencování autorských děl.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-      "source": "The Verge AI"
+      "why_matters": "Ukazuje nový model poskytování služeb, který může brzy konkurovat i českým konzultačním agenturám.",
+      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 12,
-      "title_cs": "Metoda OriginBlame přináší přesné sledování původu dat v trénovacích setech",
-      "title_orig": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-      "category": "research",
+      "title_cs": "Vint Cerf pracuje na novém standardu pro identifikaci AI agentů na otevřeném internetu",
+      "title_orig": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "category": "news",
       "summary_cs": [
-        "Vědci představili nový systém OriginBlame, který dokáže mapovat trénovací data až na úroveň jednotlivých slov a tokenů.",
-        "Nástroj řeší problém, kdy autoři požadují odstranění svých děl z již natrénovaných neuronových sítí.",
-        "Díky této metodě mohou vývojáři přesně lokalizovat a eliminovat nechtěný obsah bez nutnosti kompletního přetrénování."
+        "Jeden z otců zakladatelů internetu a spolutvůrce protokolu TCP/IP vyvíjí nový síťový standard.",
+        "Cílem iniciativy je vytvořit spolehlivý systém pro identifikaci a ověřování autonomních AI agentů v síti.",
+        "Tento krok by měl zajistit bezpečnější interakci mezi lidmi a automatizovanými systémy na webu."
       ],
-      "why_matters": "Nabízí technické řešení pro splnění přísných evropských požadavků na ochranu autorských práv a GDPR.",
-      "url": "https://arxiv.org/abs/2607.13037",
-      "source": "ArXiv cs.AI"
+      "why_matters": "Vznikající standardy určí, jak budeme v budoucnu rozlišovat lidskou aktivitu od autonomních programů.",
+      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 13,
-      "title_cs": "Rozhodování o spouštění drahých LLM modelů v reálném čase pomocí analýzy nejistoty",
-      "title_orig": "Uncertainty-Aware Sequential Decision Rules for Event-Triggered LLM Invocation in Streaming Systems",
-      "category": "research",
-      "summary_cs": [
-        "Nová studie navrhuje matematický rámec pro efektivní kombinaci levných lokálních modelů s drahými cloudovými LLM.",
-        "Systém v reálném čase vyhodnocuje nejistotu menšího modelu a velký model volá pouze v kritických situacích.",
-        "Tento přístup umožňuje dramaticky snížit provozní náklady v datových proudech při zachování vysoké kvality výstupů."
-      ],
-      "why_matters": "Přináší konkrétní návod, jak optimalizovat náklady na tokeny při provozu náročných firemních aplikací.",
-      "url": "https://arxiv.org/abs/2607.13048",
-      "source": "ArXiv cs.LG"
-    },
-    {
-      "rank": 14,
-      "title_cs": "Grok-mermaid umožňuje vykreslovat diagramy přímo v terminálu pomocí Unicode",
-      "title_orig": "Mermaid to Unicode box art (grok-mermaid)",
+      "title_cs": "Jak jsem přiměl Claude k úniku vašich nejhlubších tajemství přes webový vyhledávač",
+      "title_orig": "How I tricked Claude into leaking your deepest, darkest secrets",
       "category": "tools",
       "summary_cs": [
-        "Z otevřeného kódu asistenta od xAI byl vyčleněn užitečný nástroj pro vizualizaci diagramů v příkazové řádce.",
-        "Knihovna napsaná v jazyce Rust převádí standardní zápis Mermaid přímo do textové grafiky pomocí znaků Unicode.",
-        "Nástroj lze snadno spustit v moderních prohlížečích díky kompilaci do formátu WebAssembly."
+        "Bezpečnostní analytik objevil zranitelnost v mechanismu webového vyhledávání asistenta Claude.",
+        "Útok typu nepřímého podhození promptu umožnil obejít ochrany a exfiltrovat soukromá data z chatu.",
+        "Tento objev ukazuje, že i pokročilé systémy s integrovanými nástroji jsou stále náchylné k sofistikovaným útokům."
       ],
-      "why_matters": "Zjednodušuje dokumentaci a vizualizaci softwarové architektury přímo v terminálu bez nutnosti externích grafických nástrojů.",
-      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/",
+      "why_matters": "Upozorňuje na rizika spojená s propojováním AI asistentů s externími weby a osobními daty.",
+      "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/",
       "source": "Simon Willison's Weblog"
     },
     {
-      "rank": 15,
-      "title_cs": "Vint Cerf pracuje na novém standardu pro identifikaci AI agentů na otevřeném internetu",
-      "title_orig": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "category": "wildcard",
+      "rank": 14,
+      "title_cs": "Microsoft opravil rekordní počet zranitelností díky nasazení umělé inteligence",
+      "title_orig": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "category": "news",
       "summary_cs": [
-        "Jeden ze zakladatelů internetu a spolutvůrce protokolu TCP/IP se zaměřil na problematiku autonomních systémů.",
-        "Vint Cerf navrhuje vytvoření nového standardu, který by umožnil transparentní identifikaci AI agentů v síti.",
-        "Cílem je zajistit bezpečnost a sledovatelnost akcí, které agenti provádějí na veřejných webových stránkách."
+        "V rámci pravidelných bezpečnostních aktualizací opravil Microsoft rekordních 570 zranitelností.",
+        "Společnost uvedla, že za takto masivním odhalením chyb stojí interní nasazení pokročilých AI vyhledávacích nástrojů.",
+        "Tento milník potvrzuje, že automatizované systémy dokážou výrazně urychlit audit zdrojového kódu."
       ],
-      "why_matters": "Formuje budoucí pravidla fungování internetu, kde se autonomní agenti stanou běžnými uživateli sítě.",
-      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "why_matters": "Dokazuje, že AI se stává nepostradatelným pomocníkem při zabezpečování softwaru, který denně používáme.",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
       "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Teorie automatické formalizace aneb od izolovaných tvrzení k uceleným znalostním bázím",
+      "title_orig": "Theory-Level Autoformalization: From Isolated Statements to Unified Formal Knowledge Bases",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili nový přístup k automatickému překladu matematických textů do strojově ověřitelného kódu.",
+        "Na rozdíl od dosavadních metod se nový systém zaměřuje na provázání celých teorií včetně axiomů a definic.",
+        "Tento posun umožňuje vytvářet komplexní a konzistentní vědecké databáze s minimálním lidským úsilím."
+      ],
+      "why_matters": "Otevírá cestu k plně automatickému ověřování vědeckých objevů a matematických důkazů pomocí AI.",
+      "url": "https://arxiv.org/abs/2607.13292",
+      "source": "ArXiv cs.AI"
     }
   ]
 }
