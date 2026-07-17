@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-17",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Čínský startup Moonshot AI vydává model Kimi K3 s 2,8 biliony parametrů",
+      "title_orig": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
+      "category": "open-source",
+      "summary_cs": [
+        "Pekingský startup Moonshot AI, podporovaný gigantem Alibaba, představil svůj dosud nejvýkonnější model Kimi K3.",
+        "S celkovým počtem 2,8 bilionu parametrů se jedná o největší otevřený model na světě, který má konkurovat špičkovým americkým systémům.",
+        "Vydání vah pro veřejnost je naplánováno na konec července 2026, což výrazně posílí globální open-source komunitu."
+      ],
+      "why_matters": "Ukazuje, že čínské otevřené modely technologicky dohánějí nejlepší uzavřené systémy z USA.",
+      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Evropská unie nařídí Googlu sdílet data z vyhledávání a otevřít AI v systému Android",
+      "title_orig": "It's official: EU will force Google to share search data and open up AI on Android",
+      "category": "news",
+      "summary_cs": [
+        "Evropská unie vydala dvě zásadní antimonopolní rozhodnutí, která oslabují kontrolu Googlu nad jeho klíčovými platformami.",
+        "Google bude muset poskytnout konkurenčním vyhledávačům a AI asistentům hlubší přístup k systému Android a vyhledávacím datům.",
+        "Společnost varuje, že tyto vynucené změny mohou ohrozit soukromí a celkovou bezpečnost uživatelů."
+      ],
+      "why_matters": "Rozhodnutí zásadně ovlivní dostupnost a integraci alternativních AI služeb v telefonech evropských uživatelů.",
+      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Claude se integruje s 1Password a dokáže za vás vyplňovat přihlašovací údaje",
+      "title_orig": "Claude can now use your 1Password credentials for you",
+      "category": "tools",
+      "summary_cs": [
+        "Správce hesel 1Password spustil nové rozšíření pro prohlížeč, které umožňuje chatbotu Claude bezpečný přístup k uloženým údajům.",
+        "Uživatelé mohou asistenta autorizovat k provádění komplexních úkolů, jako je správa online účtů nebo rezervace letenek.",
+        "Tento krok představuje významný posun od pouhého chatování k plnohodnotnému agentickému ovládání webu."
+      ],
+      "why_matters": "Přibližuje nás k éře, kdy AI agenti budou bezpečně provádět reálné transakce za uživatele.",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Google Vids představuje AI avatary, které vám umožní hrát ve vlastních videích",
+      "title_orig": "Google Vids now lets you star in your own AI videos",
+      "category": "labs",
+      "summary_cs": [
+        "Služba Google Vids přidává personalizované digitální avatary, které dokážou mluvit a vystupovat jako samotný uživatel.",
+        "Nástroje poháněné modelem Gemini Omni umožňují generovat a upravovat firemní prezentace a videa z textových zadání.",
+        "Funkce je navržena pro snadnou tvorbu školících materiálů a interních videí bez nutnosti fyzického natáčení."
+      ],
+      "why_matters": "Usnadňuje českým firmám tvorbu profesionálního video obsahu a školení bez drahé produkce.",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Průzkum ukazuje bezpečnostní mezery u firemních AI agentů, polovina firem hlásí incidenty",
+      "title_orig": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "category": "business",
+      "summary_cs": [
+        "Průzkum mezi 107 podniky odhalil, že více než polovina z nich již zaznamenala bezpečnostní incident nebo vážné riziko spojené s AI agenty.",
+        "Většina organizací dává agentům reálné přístupy do systémů, ale zanedbává bezpečnostní protokoly a sdílení přihlašovacích údajů.",
+        "Pouze třetina firem přiděluje každému autonomnímu agentovi jeho vlastní striktně omezenou digitální identitu."
+      ],
+      "why_matters": "Varuje české manažery před podceňováním kybernetické bezpečnosti při rychlém nasazování AI do firemních procesů.",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Linus Torvalds vzkazuje kritikům AI kódu v Linuxu, ať projekt forknou nebo odejdou",
+      "title_orig": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "category": "wildcard",
+      "summary_cs": [
+        "Tvůrce operačního systému Linux se ostře ohradil proti výzvám k zákazu používání AI nástrojů při vývoji jádra.",
+        "Torvalds vnímá umělou inteligenci jako běžný nástroj, který vývojářům pomáhá, a odmítá ideologické bojkoty.",
+        "Kritikům doporučil, aby si v případě nesouhlasu vytvořili vlastní verzi systému nebo komunitu opustili."
+      ],
+      "why_matters": "Jasný signál od legendy open-source, že AI má své pevné místo i v nejkritičtějším softwaru světa.",
+      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Google přejmenovává NotebookLM na Gemini Notebook a prohlubuje integraci",
+      "title_orig": "Google is renaming NotebookLM to Gemini Notebook",
+      "category": "tools",
+      "summary_cs": [
+        "Oblíbená aplikace pro chytrou práci s poznámkami NotebookLM mění svůj název na Gemini Notebook.",
+        "Nástroj zůstane samostatnou aplikací, ale získá mnohem těsnější propojení s ekosystémem Gemini a vyhledáváním Google.",
+        "Změna názvu odráží snahu Googlu sjednotit všechny své pokročilé AI produkty pod jednu silnou značku."
+      ],
+      "why_matters": "Uživatelé oblíbeného studijního nástroje získají lepší propojení s dalšími službami od Googlu.",
+      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Zpětná vazba u AI agentů, nová metoda Branching Policy Optimization zrychluje učení",
+      "title_orig": "Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning",
+      "category": "research",
+      "summary_cs": [
+        "Vědci představili nový algoritmus pro posilované učení jazykových agentů v izolovaných softwarových prostředích.",
+        "Na rozdíl od tradičních metod umožňuje nová architektura agentům efektivněji zkoumat alternativní cesty řešení úkolů.",
+        "Tento přístup výrazně snižuje výpočetní nároky a zvyšuje úspěšnost agentů při plnění složitých programátorských zadání."
+      ],
+      "why_matters": "Přináší efektivnější způsob, jak trénovat spolehlivé autonomní agenty pro programování a analýzu dat.",
+      "url": "https://arxiv.org/abs/2607.14171",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Guvernérka státu New York využívá AI k analýze všech státních předpisů a politik",
+      "title_orig": "New York governor says she's using AI to analyze 'every single rule' in the state",
+      "category": "news",
+      "summary_cs": [
+        "Guvernérka Kathy Hochul oznámila, že její administrativa nasadila umělou inteligenci k revizi všech státních regulací.",
+        "Cílem projektu je identifikovat duplicity, zastaralá pravidla a zjednodušit byrokratické procesy pro občany.",
+        "Krok přichází paradoxně krátce poté, co stát New York omezil výstavbu nových energeticky náročných datových center."
+      ],
+      "why_matters": "Ukazuje praktický příklad, jak může moderní státní správa využít AI k odbourávání byrokracie.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "DoorDash otevírá rozhraní pro příkazovou řádku, jídlo mohou objednávat i AI agenti",
+      "title_orig": "Yes, you can now order DoorDash from the command line",
+      "category": "tools",
+      "summary_cs": [
+        "Doručovací služba DoorDash spustila beta verzi nástroje dd-cli určeného pro vývojáře a autonomní agenty.",
+        "Nástroj umožňuje vyhledávat restaurace, plnit nákupní košíky a odesílat objednávky přímo z terminálu.",
+        "Jde o jeden z prvních příkladů infrastruktury přizpůsobené pro komunikaci se softwarem bez lidského rozhraní."
+      ],
+      "why_matters": "Ukazuje přechod od webů pro lidi k API rozhraním navrženým přímo pro AI agenty.",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "OpenAI představuje bezpečnostní iniciativu pro dospívající uživatele ChatGPT",
+      "title_orig": "Why teens deserve access to safe AI",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI popsala svůj přístup k zajištění bezpečného prostředí pro teenagery využívající ChatGPT.",
+        "Zavádí specifická věková omezení, ochranné filtry proti nevhodnému obsahu a nové nástroje pro rodičovskou kontrolu.",
+        "Iniciativa vzniká ve spolupráci s předními odborníky na vzdělávání a dětskou psychologii."
+      ],
+      "why_matters": "Důležité téma pro české rodiče a učitele, kteří řeší bezpečné zapojení AI do výuky.",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Proč výzkumníci z AMI Labs odmítají používat termíny jako AGI nebo superinteligence",
+      "title_orig": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "category": "wildcard",
+      "summary_cs": [
+        "Alexandre LeBrun, šéf startupu AMI Labs zaměřeného na světové modely, kritizuje nadužívání marketingových zkratek.",
+        "Podle něj jsou pojmy jako obecná umělá inteligence vědecky nepřesné a odvádějí pozornost od reálného pokroku.",
+        "Firma se raději soustředí na praktické modelování fyzikálního světa a řešení konkrétních inženýrských výzev."
+      ],
+      "why_matters": "Nabízí střízlivý pohled na AI bez zbytečného mediálního humbuku a nerealistických očekávání.",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "TEDDY představuje nový medicínský model pro včasné varování před dětskými nemocemi",
+      "title_orig": "TEDDY: A Pediatric Foundation Model for Risk Forewarning from ICD-Coded Diagnostic Histories",
+      "category": "research",
+      "summary_cs": [
+        "Vědci vyvinuli medicínský model TEDDY, který analyzuje strukturovanou historii diagnóz dětských pacientů.",
+        "Model dokáže s vysokou přesností předpovídat budoucí zdravotní rizika a včas varovat před rozvojem chronických onemocnění.",
+        "Systém využívá anonymizovaná data z elektronických zdravotních záznamů a respektuje vývojová specifika dětského věku."
+      ],
+      "why_matters": "Ukazuje obrovský potenciál umělé inteligence v oblasti preventivní pediatrické péče.",
+      "url": "https://arxiv.org/abs/2607.14191",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 14,
+      "title_cs": "xAI žaluje uživatele za zneužití chatbota Grok k tvorbě nelegálního obsahu",
+      "title_orig": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+      "category": "news",
+      "summary_cs": [
+        "Společnost xAI podala žalobu na uživatele, který záměrně obcházel filtry chatbota Grok k generování závadného obsahu.",
+        "Firma čelila kritice, že její bezpečnostní pojistky jsou příliš slabé a umožňují zneužití systému.",
+        "Právní krok má demonstrovat nulovou toleranci k porušování podmínek a snahu přenést odpovědnost na útočníky."
+      ],
+      "why_matters": "Ilustruje právní a etické bitvy ohledně odpovědnosti za zneužití generativních modelů.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Uzavřené znalostní smyčky vedou k saturaci a stagnaci schopností LLM modelů",
+      "title_orig": "Closed-Loop Knowledge Dynamics: An Operational Framework for Saturation and Escape",
+      "category": "research",
+      "summary_cs": [
+        "Nová studie zkoumá chování velkých jazykových modelů, které se opakovaně učí ze svých vlastních syntetických dat.",
+        "Výzkum potvrzuje, že bez přísunu nových externích informací dochází k rychlému vyčerpání a degradaci znalostí.",
+        "Autoři navrhují rámec pro efektivní doplňování reálných lidských dat k udržení kvality generovaných výstupů."
+      ],
+      "why_matters": "Vysvětluje limity trénování AI na vlastních datech, což je klíčové pro budoucí vývoj modelů.",
+      "url": "https://arxiv.org/abs/2607.14185",
+      "source": "ArXiv cs.LG"
+    }
+  ]
+}
