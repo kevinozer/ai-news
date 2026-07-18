@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-18",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Apple žaluje OpenAI kvůli obchodnímu tajemství, spor může ohrozit plány na IPO",
+      "title_orig": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Apple podala žalobu na OpenAI kvůli údajnému systematickému zneužívání obchodního tajemství.",
+        "Stížnost tvrdí, že v OpenAI nyní pracuje více než 400 bývalých zaměstnanců Applu, včetně klíčových hardwarových manažerů.",
+        "Tento intenzivní právní spor přichází v nejméně vhodnou dobu a může výrazně zkomplikovat plánovaný vstup OpenAI na burzu."
+      ],
+      "why_matters": "Právní bitva technologických gigantů může zásadně ovlivnit stabilitu, financování a budoucí produkty nejpopulárnější AI platformy světa.",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Thinking Machines uvádí Inkling, špičkový otevřený multimodální model s 975 miliardami parametrů",
+      "title_orig": "Inkling: Our open-weights model",
+      "category": "open-source",
+      "summary_cs": [
+        "Nová laboratoř Miry Murati představila svůj první otevřený model Inkling s licencí Apache 2.0.",
+        "Jedná se o Mixture of Experts model s celkem 975 miliardami parametrů, z nichž je 41 miliard aktivních.",
+        "Model byl natrénován na obrovském multimodálním datasetu obsahujícím text, obrázky, audio i video."
+      ],
+      "why_matters": "Vzniká silná konkurence pro zavedené laboratoře, která dává vývojářům do rukou extrémně výkonný open-source multimodální nástroj.",
+      "url": "https://simonwillison.net/2026/Jul/16/inkling/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Capital One vydává open-source nástroj VulnHunter pro vyhledávání bezpečnostních chyb pomocí AI",
+      "title_orig": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
+      "category": "tools",
+      "summary_cs": [
+        "Finanční dům Capital One uvolnil na GitHubu agentní bezpečnostní nástroj VulnHunter.",
+        "Nástroj automaticky skenuje zdrojový kód, mapuje potenciální cesty útoků a navrhuje konkrétní opravy.",
+        "Cílem je eliminovat zranitelnosti v softwaru ještě předtím, než se kód dostane do produkčního prostředí."
+      ],
+      "why_matters": "Čeští vývojáři a firmy získávají bezplatný, vysoce efektivní nástroj pro automatické zabezpečení svých aplikací.",
+      "url": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Patreon mění strategii a začíná aktivně blokovat AI boty před stahováním obsahu",
+      "title_orig": "Patreon stops asking AI bots not to scrape - and starts blocking them",
+      "category": "business",
+      "summary_cs": [
+        "Platforma Patreon opouští pouhé spoléhání se na soubory robots.txt a přechází k aktivní obraně.",
+        "Ve spolupráci s Cloudflare začíná technicky blokovat roboty, kteří trénují AI modely na autorském obsahu.",
+        "Tento krok reaguje na rostoucí nevoli tvůrců, jejichž placená díla byla bez povolení zneužívána."
+      ],
+      "why_matters": "Ukazuje to posun k tvrdší ochraně autorských práv na internetu, což ovlivní dostupnost dat pro trénování budoucích modelů.",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Český student získal prestižní ocenění za software PANSim popisující rozhodování AI",
+      "title_orig": "Student ČVUT získal světové ocenění za software popisující přemýšlení umělé inteligence",
+      "category": "news",
+      "summary_cs": [
+        "Erol Medenčević z Fakulty elektrotechnické ČVUT uspěl na prestižní mezinárodní konferenci ICAPS 2026 v Dublinu.",
+        "Vyvinul nástroj PANSim, který dokáže vysvětlit, jak umělá inteligence přemýšlí a proč dospěla k danému rozhodnutí.",
+        "Tento výzkum významně přispívá k oblasti vysvětlitelné umělé inteligence, která je klíčová pro důvěru v autonomní systémy."
+      ],
+      "why_matters": "Skvělý úspěch české vědy ukazuje, že tuzmeští výzkumníci hrají důležitou roli v globálním vývoji bezpečné AI.",
+      "url": "https://www.lupa.cz/aktuality/student-cvut-ziskal-svetove-oceneni-za-software-popisujici-premysleni-umele-inteligence/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Claude Fable 5 se stává trvalou součástí předplatného pro náročné uživatele",
+      "title_orig": "Claude make Fable 5 permanent",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic oznámil, že od 20. července bude model Claude Fable 5 trvale dostupný v tarifech Max a Team Premium.",
+        "Uživatelé těchto nejvyšších plánů získají přístup k modelu s limitem nastaveným na 50 % běžné kapacity.",
+        "Pro plány Pro a Team Standard bude model dostupný přes kredity, přičemž uživatelé obdrží jednorázový bonus 100 dolarů."
+      ],
+      "why_matters": "Uživatelé získávají stabilní přístup k jednomu z nejpokročilejších modelů na trhu přímo v rámci svých předplatných.",
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Intuit musel během čtyř měsíců dvakrát kompletně přepsat architekturu svých AI agentů",
+      "title_orig": "Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path",
+      "category": "business",
+      "summary_cs": [
+        "Viceprezidentka Intuitu popsala na konferenci VB Transform náročnou cestu k nasazení agentní AI.",
+        "Firma musela během pouhých čtyř měsíců dvakrát zcela zahodit a od základu předělat svůj systém.",
+        "Přechod od flotily specializovaných agentů k centrálnímu orchestrátoru se nakonec ukázal jako nejrychlejší cesta k úspěchu."
+      ],
+      "why_matters": "Případová studie ukazuje, že i technologičtí lídři při nasazování AI agentů narážejí na vážné architektonické překážky.",
+      "url": "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Zastaralá infrastruktura brzdí AI agenty více než samotné modely",
+      "title_orig": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
+      "category": "news",
+      "summary_cs": [
+        "Lídři z firem LinkedIn, Walmart a Zendesk se shodují, že největší brzdou AI agentů jsou staré systémy.",
+        "Zatímco moderní AI modely dokážou generovat rozhodnutí v řádu milisekund, podnikové databáze na to nejsou stavěné.",
+        "Úspěšná integrace vyžaduje zásadní modernizaci API a datových vrstev, nikoli jen nákup lepších modelů."
+      ],
+      "why_matters": "Pro české firmy je to jasné varování, že bez modernizace IT infrastruktury potenciál AI agentů plně nevyužijí.",
+      "url": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "San Francisco nařizuje Applu a Googlu odstranit ze svých obchodů svlékací AI aplikace",
+      "title_orig": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+      "category": "news",
+      "summary_cs": [
+        "Městský prokurátor v San Franciscu zaslal technologickým gigantům výzvu k okamžitému odstranění takzvaných nudify aplikací.",
+        "Tyto nástroje využívají AI k falešnému svlékání osob na fotografiích a jsou zneužívány k obtěžování žen a dívek.",
+        "Úřady odhadují, že Apple a Google na poplatcích z těchto kontroverzních aplikací vydělaly miliony dolarů."
+      ],
+      "why_matters": "Zpřísňování regulace proti zneužívání deepfake technologií v aplikačních obchodech se dotkne distribuce softwaru po celém světě.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Databricks dosáhl hodnoty 188 miliard dolarů díky úspěšné transformaci na AI platformu",
+      "title_orig": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Databricks výrazně navýšila svou valuaci a potvrdila pozici klíčového hráče v podnikovém AI sektoru.",
+        "Firma boduje zejména svým výzkumem v oblasti finančních úspor při nasazení otevřených modelů pro kódování.",
+        "Úspěšně se jí daří propojovat tradiční datovou analytiku s moderními generativními technologiemi."
+      ],
+      "why_matters": "Rostoucí vliv Databricks ukazuje, že správa dat a efektivní open-source modely jsou pro firemní AI klíčové.",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Zvýšení odolnosti malých modelů pomocí propojení se znalostními grafy",
+      "title_orig": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
+      "category": "research",
+      "summary_cs": [
+        "Vědecká práce zkoumá možnosti, jak zlepšit logické uvažování u menších jazykových modelů.",
+        "Propojením malých modelů se strukturovanými znalostními grafy lze výrazně snížit chybovost a halucinace.",
+        "Tento přístup nabízí ekologicky i finančně udržitelnou alternativu k provozu obřích proprietárních systémů."
+      ],
+      "why_matters": "Pro české vývojáře s omezeným rozpočtem je to cesta, jak provozovat vysoce přesnou AI lokálně a levně.",
+      "url": "https://arxiv.org/abs/2607.14149",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Brex tvoří pravidla pro AI agenty na základě sledování jejich reálného chování",
+      "title_orig": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
+      "category": "news",
+      "summary_cs": [
+        "Fintechový startup Brex přišel s novým přístupem k bezpečnosti při nasazování autonomních agentů.",
+        "Namísto vymýšlení teoretických pravidel předem analyzovali reálné interakce agentů s firemními API.",
+        "Zjistili, že tradiční bezpečnostní mantinely nedokážou efektivně ohlídat, jak agenti nakládají s přístupovými údaji."
+      ],
+      "why_matters": "Ukazuje praktický návod, jak bezpečně integrovat agenty s přístupem k citlivým firemním financím a datům.",
+      "url": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nástroj LLM cliché highlighter odhaluje typické fráze generované umělou inteligencí",
+      "title_orig": "LLM cliché highlighter",
+      "category": "tools",
+      "summary_cs": [
+        "Známý vývojář Simon Willison vytvořil jednoduchou webovou aplikaci pro analýzu textů.",
+        "Nástroj automaticky zvýrazňuje deset nejčastějších klišé a frází, které typicky používají jazykové modely.",
+        "Aplikace byla naprogramována s využitím modelu Claude Fable 5 v prostředí Vibe Code."
+      ],
+      "why_matters": "Užitečná pomůcka pro každého, kdo chce očistit své texty od typického a nudného AI žargonu.",
+      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Google spouští satelity FireSat pro včasnou detekci lesních požárů",
+      "title_orig": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "category": "news",
+      "summary_cs": [
+        "Satelitní program FireSat, podporovaný společností Google, úspěšně odstartoval do vesmíru.",
+        "Systém je navržen tak, aby dokázal lokalizovat rodící se lesní požáry mnohem dříve než běžné družice.",
+        "Projekt přichází v době, kdy Severní Ameriku sužují masivní požáry doprovázené hustým kouřem."
+      ],
+      "why_matters": "Ukázka praktického nasazení AI a vesmírných technologií při řešení globálních ekologických krizí.",
+      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Vysvětlitelnost v AI musí stavět na pevných základech, nikoli na ad-hoc metodách",
+      "title_orig": "Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods",
+      "category": "research",
+      "summary_cs": [
+        "Nová vědecká práce kritizuje současný stav výzkumu v oblasti vysvětlitelné umělé inteligence.",
+        "Autoři tvrdí, že většina dnešních metod generuje vysvětlení, která v praxi nikdo nepoužívá a hned se zahazují.",
+        "Vyzývají komunitu, aby se zaměřila na hlubší teoretické základy namísto rychlých a jednoúčelových řešení."
+      ],
+      "why_matters": "Kritický pohled na to, jak zajistit, aby výstupy z AI byly pro lidi skutečně srozumitelné a prakticky použitelné.",
+      "url": "https://arxiv.org/abs/2607.14123",
+      "source": "ArXiv cs.LG"
+    }
+  ]
+}
