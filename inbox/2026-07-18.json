@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-18T04:01:01.353833+00:00",
+  "generated_at": "2026-07-18T06:18:05.746384+00:00",
   "date": "2026-07-18",
-  "article_count_unique": 145,
-  "article_count_raw": 145,
+  "article_count_unique": 148,
+  "article_count_raw": 148,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -103,14 +103,14 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 11,
+      "raw_count": 11
     },
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,17 +163,77 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 4,
-      "raw_count": 10
+      "count": 3,
+      "raw_count": 9
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "c20e1f3ae3d2bfbe",
+      "title": "Claude make Fable 5 permanent",
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
+      "published_at": "2026-07-18T06:00:13+00:00",
+      "author": "",
+      "summary_raw": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. As I was saying last week , the competition from GPT-5.6 Sol (and maybe to a lesser extent Kimi 3 ) made untenable Anthropic's plan to remove Fable 5 from their subscription accounts and make it available exclusively through API pricing. Why pay $100 or $200/month for a subscription plan that doesn't include Anthropic's best model? Their original plan was driven by concerns over compute capacity. I wonder if they'll have to dial back their training efforts in order to make more GPUs available to help serve the model. A lot of people were losing sleep over trying to make the most of Fable 5 before subscriber access was withdrawn. It's nice not to have to worry about the Fablepocalypse any more. Tags: ai , generative-ai , llms , anthropic , claude , llm-pricing , claude-mythos-fable",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "17f5260dfe77f17d",
+      "title": "nascheme/quixote",
+      "url": "https://simonwillison.net/2026/Jul/18/quixote/",
+      "published_at": "2026-07-18T05:27:49+00:00",
+      "author": "",
+      "summary_raw": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git. Tags: computer-history , python , web-frameworks",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "998d4a0cede96064",
+      "title": "Čínský AI startup nemá manažery a možná o něm ani nevíte. Jeho model Kimi ale poráží americkou špičku",
+      "url": "https://cc.cz/cinsky-ai-startup-nema-manazery-a-mozna-o-nem-ani-nevite-jeho-model-kimi-ale-porazi-americkou-spicku/",
+      "published_at": "2026-07-18T05:02:51+00:00",
+      "author": "David Zlomek",
+      "summary_raw": "Seřízli rozpočty, vyhodili manažery a byrokracii hodili na umělou inteligenci. Pekingský startup přežil krizi a stal se kometou posledních dní. Článek Čínský AI startup nemá manažery a možná o něm ani nevíte. Jeho model Kimi ale poráží americkou špičku se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/kimi-mvp-x-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "ee48aa72ca03d15a",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "published_at": "2026-07-18T04:47:25+00:00",
+      "author": "Connie Loizos",
+      "summary_raw": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "e9545e732b265b8f",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
+      "published_at": "2026-07-18T04:30:21+00:00",
+      "author": "Latent.Space",
+      "summary_raw": "a quiet day",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/OqM67QG_Ikk",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
     {
       "id": "e99854909b306c74",
       "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
@@ -1423,18 +1483,6 @@
       "category": "commentary"
     },
     {
-      "id": "a239ad4911d87a86",
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "published_at": "2026-07-16T13:17:59+00:00",
-      "author": "Sarah Perez",
-      "summary_raw": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "cc7bfc5b500c9a05",
       "title": "I've got an Inkling",
       "url": "https://www.bensbites.com/p/ive-got-an-inkling",
@@ -1553,18 +1601,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "4df1ff0fe66d5eff",
-      "title": "Všichni to dělají, nikdo neví, jak správně. Stahování informací z internetu je v Evropě ještě šedá zóna",
-      "url": "https://www.lupa.cz/clanky/vsichni-to-delaji-nikdo-nevi-jak-spravne-stahovani-informaci-z-internetu-je-v-evrope-jeste-seda-zona/",
-      "published_at": "2026-07-16T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Ministerstvo financí scrapuje realitní inzeráty pro mapu nájmů, startupy sbírají data pro hedgeové fondy a AI firmy trénují modely na veřejně vyvěšených datasetech. Všichni se přitom pohybují v právní šedé zóně, kterou má rozseknout až Evropský soudní dvůr.",
-      "hero_image": "https://i.iinfo.cz/images/193/scraping-dat.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "64bf2db9989340ea",
