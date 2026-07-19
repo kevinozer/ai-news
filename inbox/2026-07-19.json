@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19T04:00:59.793336+00:00",
+  "generated_at": "2026-07-19T06:42:46.586730+00:00",
   "date": "2026-07-19",
-  "article_count_unique": 92,
-  "article_count_raw": 92,
+  "article_count_unique": 93,
+  "article_count_raw": 93,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "latent_space",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
-      "raw_count": 7
+      "count": 2,
+      "raw_count": 5
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "b6c98a22a44859f2",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/",
+      "published_at": "2026-07-19T05:06:21+00:00",
+      "author": "",
+      "summary_raw": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical strategy for an organisation with $2B+ in revenue which was entirely centered around AI. Here's a report from an engineer at a company with a token leaderboard: Checking out a parallel copy of our Go repository and telling the AI to rewrite the whole thing in Zig while I work on something else just so I can keep my job. I particularly enjoyed this report of a conversation with a skeptical executive at an over-enthusiastic company: I asked why this was being repeated without opposition. Was it just sales fluff? The answer was a lot more interesting. It was partially ridiculous sales material being delivered to an easily excitable audience, but this was not the dominant factor constraining honesty. Executives at their customers were saying absurd things about achieving 100x productivity, and this meant that if any executive at the vendor said that these gains were not plausible, it would undermine the credibility of the customer’s executive, be perceived as an attack (or heresy), and possibly result in an enterprise contract cancellation. And getting enterprise contracts cancelled because you wanted to opine on something that doesn’t really matter to your organisation’s mission is a great way to get fired. Via Hacker News Tags: ai , ai-ethics , ai-misuse",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "04b5523113fedb2f",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "published_at": "2026-07-19T03:54:09+00:00",
+      "author": "",
+      "summary_raw": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust. I found these two commands convincing: strings ~/.local/bin/claude | grep -m1 'Bun v1' For me this outputs Bun v1.4.0 (macOS arm64) . The most recent release of Bun on GitHub is currently v1.3.14 from May 12th, so that v1.4.0 version number in Claude supports them shipping a preview of a not-yet-released Bun version. strings ~/.local/bin/claude | grep -Eo 'src/[[:alnum:]_./-]+\\.rs' This outputs a list of 563 filenames , starting with these: src/runtime/bake/dev_server/mod.rs src/runtime/bake/production.rs src/bundler/bundle_v2.rs It looks like Bun in Rust is indeed being run in production across millions of different devices. Like Jarred said, \"Boring is good\". Tags: bun , rust , anthropic , claude-code , jarred-sumner",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
     {
       "id": "c6e1e4221076003b",
       "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
@@ -794,18 +818,6 @@
       "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
       "summary_raw": "Výzkum studenta Fakulty elektrotechnické ČVUT Erola Medenčeviće byl oceněn na nejprestižněj&#353;ím světovém setkání odborníků na automatizované plánování, konferenci ICAPS 2026 v Dublinu. Medenčević vytvořil nástroj PANSim, který odpovídá na otázky, jak přemý&#353;lí umělá inteligence a proč se rozhoduje tak, jak se rozhoduje.",
       "hero_image": "https://i.iinfo.cz/images/61/erol-medencevic.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "29c47c829fd84345",
-      "title": "ČR a Francie staví dodavatele AI z EU, Evropa se technologicky probudila, Intel v EU investuje 120 miliard",
-      "url": "https://www.lupa.cz/clanky/cr-a-francie-stavi-dodavatele-ai-z-eu-evropa-se-technologicky-probudila-intel-v-eu-investuje-120-miliard/",
-      "published_at": "2026-07-17T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Povedený otevřený AI model z Evropy. Finský výrobce kvantových počítačů je na burze. Zprávy z IT, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/128/helsing.png",
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
       "category": "cz"
