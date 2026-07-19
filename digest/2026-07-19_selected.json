@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-19",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Čeští investoři z Look AI Ventures podporují rakouský stavební startup Sodex Innovations",
+      "title_orig": "Čeští investoři zamířili do projektu, který proměňuje stavební stroje v mobilní sběrače dat",
+      "category": "business",
+      "summary_cs": [
+        "Český fond Look AI Ventures investoval do rakouského startupu Sodex Innovations, který digitalizuje stavebnictví.",
+        "Technologie umožňuje přeměnit běžné stavební stroje na mobilní senzory pro sledování terénu a zemních prací v reálném čase.",
+        "Tento krok ukazuje rostoucí zájem českého rizikového kapitálu o praktické průmyslové aplikace umělé inteligence."
+      ],
+      "why_matters": "Ukazuje, jak čeští investoři aktivně vyhledávají a financují inovativní průmyslové AI projekty v evropském regionu.",
+      "url": "https://www.lupa.cz/aktuality/cesti-investori-zamirili-do-projektu-ktery-promenuje-stavebni-stroje-v-mobilni-sberace-dat/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Finanční ředitelka OpenAI představuje metodiku pro měření návratnosti investic do AI",
+      "title_orig": "A scorecard for the AI age",
+      "category": "labs",
+      "summary_cs": [
+        "Sarah Friar, finanční ředitelka OpenAI, představila praktický hodnotící systém pro firemní nasazení umělé inteligence.",
+        "Metodika se zaměřuje na měření reálně vykonané práce, spolehlivosti systémů a nákladů na úspěšně dokončené úkoly.",
+        "Cílem je poskytnout podnikům jasný rámec pro vyhodnocování finanční efektivity a návratnosti výpočetního výkonu."
+      ],
+      "why_matters": "Pomáhá českým manažerům objektivně vyhodnotit, zda se jim investice do pokročilých AI modelů skutečně finančně vyplatí.",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Útoky typu Prompt Injection úspěšně blokují autonomní hackerské AI agenty",
+      "title_orig": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "category": "research",
+      "summary_cs": [
+        "Nová metoda zvaná context bombing dokáže zmást škodlivé AI agenty dříve, než stihnou napáchat škody.",
+        "Technika využívá skryté instrukce v kódu, které přimějí útočící model k okamžitému ukončení činnosti.",
+        "Výzkum ukazuje, že zranitelnost vůči prompt injection lze paradoxně využít jako efektivní obranný mechanismus."
+      ],
+      "why_matters": "Představuje průlomový způsob, jak mohou české firmy chránit svou digitální infrastrukturu před novou vlnou autonomních kybernetických útoků.",
+      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Podniky nakupují AI infrastrukturu rychleji, než stíhají měřit její reálné náklady",
+      "title_orig": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "category": "business",
+      "summary_cs": [
+        "Průzkum mezi stovkou velkých podniků ukázal, že výdaje na AI infrastrukturu dramaticky předbíhají schopnost řídit jejich ekonomiku.",
+        "Většina firem sice stále spoléhá na běžné cloudové poskytovatele, ale plánuje masivní investice do specializovaného hardwaru.",
+        "Nedostatek transparentnosti v nákladech na výpočetní výkon představuje pro finanční oddělení rostoucí riziko."
+      ],
+      "why_matters": "Varuje před neuváženým financováním hardwaru bez jasné kontroly nad provozními náklady spojenými s provozem AI.",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Google DeepMind a Isomorphic Labs představují strategii pro biologickou odolnost",
+      "title_orig": "Our approach to bioresilience",
+      "category": "labs",
+      "summary_cs": [
+        "Společnosti sdílejí svůj společný přístup k využití umělé inteligence pro prevenci a rychlou reakci na biologické hrozby.",
+        "Nové modely pomáhají identifikovat potenciální patogeny a urychlují vývoj účinných vakcín či léčiv.",
+        "Iniciativa klade důraz na bezpečné sdílení vědeckých dat a minimalizaci rizik zneužití biologických technologií."
+      ],
+      "why_matters": "Ukazuje, jak špičkový výzkum AI přispívá k globální bezpečnosti a ochraně zdraví před budoucími pandemiemi.",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Financování AI infrastruktury se mění, investoři sázejí na specializované čipy pro inferenci",
+      "title_orig": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "category": "business",
+      "summary_cs": [
+        "Obří úvěr ve výši 400 milionů dolarů zajištěný křemíkovými čipy naznačuje nový trend ve financování AI projektů.",
+        "Pozornost investorů se přesouvá od extrémně drahého trénování modelů k jejich každodennímu efektivnímu provozu.",
+        "Tento posun může výrazně snížit koncové ceny za využívání pokročilých AI služeb pro běžné uživatele."
+      ],
+      "why_matters": "Značí přechod trhu do fáze masové aplikace, což přinese levnější a dostupnější AI nástroje pro české podnikatele.",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Anthropic představuje specializovanou verzi Claude určenou pro učitele",
+      "title_orig": "Jul 14, 2026 Product Introducing Claude for Teachers",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost Anthropic uvádí na trh přizpůsobené rozhraní svého asistenta navržené speciálně pro pedagogy.",
+        "Nástroj pomáhá s tvorbou učebních plánů, generováním testů a personalizací výuky pro žáky s různými potřebami.",
+        "Důraz je kladen na ochranu soukromí studentů a soulad s metodickými standardy moderního vzdělávání."
+      ],
+      "why_matters": "Nabízí českým učitelům praktický a bezpečný způsob, jak zapojit pokročilou AI do každodenní přípravy výuky.",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "source": "Anthropic News"
+    },
+    {
+      "rank": 8,
+      "title_cs": "TikTok testuje nástroj pro detekci a hlášení zneužití digitální podoby tvůrců",
+      "title_orig": "TikTok is testing an AI likeness detection tool",
+      "category": "news",
+      "summary_cs": [
+        "Sociální síť testuje v USA novou funkci, která dokáže identifikovat neoprávněné použití tváře či hlasu tvůrců.",
+        "Uživatelé mohou systém dobrovolně požádat o skenování platformy a snadno nahlásit deepfake kopie svého obsahu.",
+        "Podobné ochranné mechanismy pro autory digitálního obsahu v současnosti vyvíjí také konkurenční YouTube."
+      ],
+      "why_matters": "Představuje důležitý krok v ochraně osobnostních práv a autorského obsahu před nekontrolovaným generováním deepfakes.",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Jak efektivně řídit investice do umělé inteligence v éře autonomních agentů",
+      "title_orig": "How to manage AI investments in the agentic era",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zveřejnila průvodce pro podniky, které přecházejí od jednoduchých chatbotů k autonomním agentním systémům.",
+        "Klíčem k úspěchu je měření užitečné práce na jeden investovaný dolar a postupné škálování osvědčených procesů.",
+        "Dokument doporučuje zaměřit se na automatizaci komplexních firemních workflow namísto izolovaných úkolů."
+      ],
+      "why_matters": "Poskytuje strategický návod pro české firmy, jak systematicky budovat a škálovat moderní AI agenty.",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "NVIDIA a Hugging Face zjednodušují ladění obrazových a video modelů ve velkém měřítku",
+      "title_orig": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "category": "open-source",
+      "summary_cs": [
+        "Nové partnerství integruje nástroj NVIDIA NeMo Automodel s populární knihovnou Diffusers od Hugging Face.",
+        "Vývojáři nyní mohou snadněji a efektivněji přizpůsobovat generativní modely na vlastních firemních datech.",
+        "Optimalizace výrazně snižuje hardwarové nároky na trénování pokročilých multimediálních aplikací."
+      ],
+      "why_matters": "Zpřístupňuje pokročilé ladění generativních modelů českým vývojářům bez nutnosti vlastnit extrémně drahé výpočetní zázemí.",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Interaktivní vysvětlovač SQL dotazů běžící kompletně ve webovém prohlížeči",
+      "title_orig": "SQLite Query Explainer",
+      "category": "tools",
+      "summary_cs": [
+        "Vývojářka Julia Evans vytvořila s pomocí nástroje Fable interaktivní aplikaci pro analýzu databázových dotazů.",
+        "Nástroj využívá SQLite spuštěný přes WebAssembly přímo v prohlížeči a srozumitelně vizualizuje prováděcí plány.",
+        "Aplikace ukazuje rostoucí trend tvorby užitečných mikro-nástrojů s využitím generativního programování."
+      ],
+      "why_matters": "Skvělý pomocník pro české analytiky a programátory, který usnadňuje pochopení a optimalizaci databázových operací.",
+      "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Hugging Face uvádí VoiceEQ pro měření lidské kvality syntetického hlasu",
+      "title_orig": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "category": "labs",
+      "summary_cs": [
+        "Metodika Real World VoiceEQ přináší nový standard pro hodnocení přirozenosti a emoční věrnosti generovaného hlasu.",
+        "Namísto pouhé srozumitelnosti se zaměřuje na jemné nuance, intonaci a lidské kvality hlasového projevu.",
+        "Tento krok pomůže vývojářům vytvářet mnohem uvěřitelnější a příjemnější hlasové asistenty."
+      ],
+      "why_matters": "Umožní lokálním vývojářům lépe ladit české hlasové syntézy pro přirozenější komunikaci se zákazníky.",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Robotická firma podporovaná Ericem Trumpem zkoumá vojenské využití humanoidů",
+      "title_orig": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+      "category": "wildcard",
+      "summary_cs": [
+        "Společnost Foundation Future Industries potvrdila, že vyvíjí humanoidní roboty pro potenciální bojové nasazení.",
+        "Projekt, v němž figuruje syn bývalého amerického prezidenta, vyvolává intenzivní debaty o etice autonomních zbraní.",
+        "Vývoj ukazuje, že investice do robotiky se stále častěji propojují s obranným průmyslem a vládními zakázkami."
+      ],
+      "why_matters": "Upozorňuje na geopolitické a etické aspekty rychlého vývoje autonomních systémů v armádním sektoru.",
+      "url": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Jak fungují nové limity Google Gemini a jak efektivně sledovat jejich spotřebu",
+      "title_orig": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+      "category": "tools",
+      "summary_cs": [
+        "Google změnil způsob, jakým započítává kvóty pro využívání svých nejnovějších modelů Gemini.",
+        "Změny mohou vést k rychlejšímu vyčerpání bezplatných i placených limitů při zpracování dlouhých textů.",
+        "Návod popisuje, jak správně nastavit monitorování spotřeby tokenů, aby uživatelé předešli nečekaným výpadkům."
+      ],
+      "why_matters": "Důležité pro české uživatele a firmy, kteří integrují Gemini do svých každodenních pracovních postupů.",
+      "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Spisovatel Dave Eggers varoval zaměstnance OpenAI před umlčováním lidské tvořivosti",
+      "title_orig": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+      "category": "wildcard",
+      "summary_cs": [
+        "Známý autor Dave Eggers vystoupil na interní akci OpenAI s kritickým projevem o dopadech generativního psaní.",
+        "Upozornil, že nadměrné spoléhání na ChatGPT při tvorbě textů může oslabit schopnost mladé generace samostatně myslet.",
+        "Setkání ukazuje snahu technologických lídrů vést dialog s kritiky z řad umělecké a literární komunity."
+      ],
+      "why_matters": "Připomíná důležitou debatu o zachování lidské originality v éře, kdy AI dokáže masově generovat texty.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "source": "The Verge AI"
+    }
+  ]
+}
