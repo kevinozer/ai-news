@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-20",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Sam Altman naznačuje vydání lokálního modelu s výkonem GPT-3 pro běžný hardware",
+      "title_orig": "Quoting Sam Altman",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI intenzivně diskutuje o své strategii v oblasti open-source řešení.",
+        "Cílem je v blízké době vydat model s přibližnými schopnostmi GPT-3, který bude schopen běžet lokálně na spotřebitelském hardwaru.",
+        "Tento krok má předběhnout ostatní hráče na trhu a nabídnout uživatelům plnou kontrolu nad jejich daty."
+      ],
+      "why_matters": "Lokální běh výkonných modelů od OpenAI na běžných PC může zásadně změnit ochranu soukromí českých firem.",
+      "url": "https://simonwillison.net/2026/Jul/20/sam-altman/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Nová verze Claude Code přechází na rychlé prostředí Bun napsané v Rustu",
+      "title_orig": "Claude Code uses Bun written in Rust now",
+      "category": "tools",
+      "summary_cs": [
+        "Vývojářský nástroj Claude Code od verze 2.1.181 využívá novou verzi runtime prostředí Bun přepsanou do jazyka Rust.",
+        "Tento přechod přinesl zrychlení startu aplikace o přibližně 10 % na systémech Linux.",
+        "Změna proběhla hladce a bez narušení stability, což potvrzuje vysokou kvalitu nového technologického stacku."
+      ],
+      "why_matters": "Zrychlení klíčového vývojářského nástroje od Anthropicu přímo ovlivní efektivitu práce českých programátorů.",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Cura 1T: Specializovaný medicínský model pro autonomní zdravotnictví",
+      "title_orig": "Cura 1T: Specialized Model for Agentic Healthcare",
+      "category": "research",
+      "summary_cs": [
+        "Představený model Cura 1T je navržen tak, aby zvládal komplexní úkoly v oblasti zdravotní péče.",
+        "Model dokáže zpracovávat konzultace s pacienty, provádět klinické úvahy nad textem i obrazy a asistovat při interaktivní diagnostice.",
+        "Cílem je překonat omezení dosavadních medicínských modelů, které se často soustředily pouze na úzké spektrum úkolů."
+      ],
+      "why_matters": "Tento model ukazuje budoucnost digitalizace českého zdravotnictví a nasazení AI v lékařské diagnostice.",
+      "url": "https://arxiv.org/abs/2607.15314",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "AnovaX: Lokální hlasový asistent s pokročilým plánováním a adaptivní obnovou",
+      "title_orig": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+      "category": "tools",
+      "summary_cs": [
+        "AnovaX představuje lokálního hlasového asistenta pro desktop, který na rozdíl od cloudových řešení zpracovává data přímo v počítači.",
+        "Systém využívá plánování pomocí velkých jazykových modelů a typovaných exekutorů pro bezpečné spouštění příkazů.",
+        "Díky adaptivní obnově dokáže asistent inteligentně reagovat na chyby při provádění úkolů a opravit svůj postup."
+      ],
+      "why_matters": "Lokální hlasoví asistenti nabízejí českým uživatelům maximální soukromí a nezávislost na internetovém připojení.",
+      "url": "https://arxiv.org/abs/2607.15367",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Anthropic investuje 10 milionů dolarů do kanadského výzkumu umělé inteligence",
+      "title_orig": "Jul 14, 2026 Announcements Anthropic commits $10 million to Canadian AI research",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Anthropic oznámila významný finanční závazek na podporu akademického výzkumu v Kanadě.",
+        "Investice má pomoci rozvoji bezpečných a etických AI systémů ve spolupráci s předními kanadskými institucemi.",
+        "Tento krok posiluje globální přítomnost tvůrců modelu Claude mimo území Spojených států."
+      ],
+      "why_matters": "Financování výzkumu mimo USA ovlivňuje globální standardy bezpečnosti AI, které se dotknou i Evropy.",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "source": "Anthropic News"
+    },
+    {
+      "rank": 6,
+      "title_cs": "SeerGuard: Bezpečnostní rámec pro mobilní agenty využívající predikci chování světa",
+      "title_orig": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction",
+      "category": "research",
+      "summary_cs": [
+        "Mobilní agenti ovládající grafické rozhraní přinášejí riziko nevratných chyb při provádění akcí v aplikacích.",
+        "Rámec SeerGuard řeší tento problém pomocí prediktivního modelu světa, který simuluje dopad akce před jejím skutečným provedením.",
+        "Tento proaktivní přístup výrazně snižuje riziko nechtěných nákupů, smazání dat nebo jiných kritických chyb."
+      ],
+      "why_matters": "Bezpečnostní pojistky jsou klíčové pro nasazení autonomních agentů do každodenních mobilních aplikací v Česku.",
+      "url": "https://arxiv.org/abs/2607.15550",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Nenechte RAG opravovat špatná data, varují experti před drahým zlozvykem",
+      "title_orig": "The cleanup trap: Stop asking RAG to fix bad data",
+      "category": "news",
+      "summary_cs": [
+        "Mnoho firemních AI projektů selhává v pilotní fázi kvůli snaze řešit nekvalitní interní data pomocí technologie RAG.",
+        "Techničtí lídři často investují miliony do ladění vyhledávacích algoritmů místo toho, aby nejprve vyčistili zdrojové databáze.",
+        "Úspěšná implementace generativní AI vyžaduje robustní datovou hygienu jako základní předpoklad."
+      ],
+      "why_matters": "Českým firmám toto varování může ušetřit miliony korun vyhozené za neefektivní AI pilotní projekty.",
+      "url": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Kritická analýza nástrojů pro důvěryhodnou AI odhaluje propast v implementaci",
+      "title_orig": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
+      "category": "research",
+      "summary_cs": [
+        "Studie poukazuje na propastný rozdíl mezi abstraktními etickými pravidly a jejich reálným uplatněním v praxi.",
+        "Stávající certifikační rámce a nástroje pro auditování AI často selhávají při nasazení v reálném softwarovém inženýrství.",
+        "Autoři navrhují konkrétní kroky pro překonání těchto bariér a zajištění skutečně bezpečné umělé inteligence."
+      ],
+      "why_matters": "S příchodem evropské regulace AI Act je praktická implementace důvěryhodnosti zásadním tématem pro české vývojáře.",
+      "url": "https://arxiv.org/abs/2607.15480",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "ToolVerse: Prostředí pro trénování AI agentů v masivních světech s dlouhým horizontem úkolů",
+      "title_orig": "ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning",
+      "category": "research",
+      "summary_cs": [
+        "Současní AI agenti excelují v malých simulacích, ale selhávají v dynamických reálných prostředích vyžadujících integraci mnoha nástrojů.",
+        "Platforma ToolVerse přináší rozsáhlé testovací prostředí zaměřené na dlouhodobé plánování a efektivní využívání nástrojů.",
+        "Tento výzkum posouvá hranice učení posilováním směrem k prakticky využitelným autonomním systémům."
+      ],
+      "why_matters": "Pokrok v trénování agentů přiblíží dobu, kdy AI spolehlivě vyřeší složité administrativní procesy.",
+      "url": "https://arxiv.org/abs/2607.15660",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Kritika přesnosti recenzentů v hierarchických systémech pro matematické uvažování",
+      "title_orig": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+      "category": "research",
+      "summary_cs": [
+        "Mnoho multi-agentních systémů spoléhá na specializované role recenzentů, kteří mají opravovat chyby hlavních modelů.",
+        "Test na více než čtyřech tisících komplexních matematických úloh ukázal, že přesná kritika často nevede k nápravě výsledku.",
+        "Výzkum odhaluje slabé místo v komunikaci mezi agenty, kdy generující model nedokáže zpětnou vazbu správně zapracovat."
+      ],
+      "why_matters": "Ukazuje limity skládání více AI modelů dohromady, což je klíčové pro návrh spolehlivých podnikových systémů.",
+      "url": "https://arxiv.org/abs/2607.15388",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Hledání cest s rizikem resetu: Nový algoritmus pro navigaci v grafech s chybami",
+      "title_orig": "Stochastic Reset Pathfinding: Path-Level Regret for Cascading Bandits over Graph Paths",
+      "category": "research",
+      "summary_cs": [
+        "Představen byl problém Stochastic Reset Pathfinding, kde selhání jakékoli hrany na vybrané cestě vrátí agenta na začátek.",
+        "Tento model věrně simuluje reálné situace, jako jsou výpadky v komunikačních sítích nebo přerušení výrobních procesů.",
+        "Navržený algoritmus optimalizuje rozhodování tak, aby minimalizoval celkovou ztrátu i v nepředvídatelných podmínkách."
+      ],
+      "why_matters": "Algoritmus najde uplatnění v logistice, síťové infrastruktuře a optimalizaci dodavatelských řetězců v ČR.",
+      "url": "https://arxiv.org/abs/2607.15440",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Vysvětlitelné učení posilováním pomocí expertních systémů v jazyce Prolog",
+      "title_orig": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
+      "category": "research",
+      "summary_cs": [
+        "Tradiční modely hlubokého učení posilováním fungují jako černé skříňky, u kterých nelze snadno interpretovat jejich rozhodnutí.",
+        "Nový přístup umožňuje přepsat naučené strategie do spustitelného logického programu v jazyce Prolog.",
+        "Výsledný kód je snadno čitelný pro lidi, spustitelný logickými stroji a přístupný pro další optimalizaci."
+      ],
+      "why_matters": "Možnost auditovat rozhodnutí AI v reálném čase otevírá dveře jejímu nasazení v regulovaných průmyslových odvětvích.",
+      "url": "https://arxiv.org/abs/2607.15459",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Neuro-symbolická AI pro kontrolu shody s ekologickým standardem LEED",
+      "title_orig": "Neuro-Symbolic AI for LEED compliance: Document-Centric Benchmarking, Deterministic Numeric Checking, and When Multimodal Hurts",
+      "category": "research",
+      "summary_cs": [
+        "Certifikace budov LEED v4.1 vyžaduje ruční analýzu stovek stránek projektové dokumentace a ověřování číselných limitů.",
+        "Výzkum testoval nasazení malých lokálních modelů v kombinaci s deterministickou kontrolou pro automatizaci tohoto procesu.",
+        "Výsledky ukazují, že čistě multimodální přístup může v některých případech přesnost vyhodnocení spíše zhoršit."
+      ],
+      "why_matters": "Automatizace stavební byrokracie a ekologických certifikací může výrazně urychlit developerské projekty v Česku.",
+      "url": "https://arxiv.org/abs/2607.15647",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Snížení paměťové náročnosti u zacyklených transformátorů pomocí komprese KV cache",
+      "title_orig": "Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers",
+      "category": "research",
+      "summary_cs": [
+        "Zacyklené transformátory šetří parametry opakovaným používáním stejného bloku, ale stále vyžadují obrovskou paměť pro KV cache.",
+        "Metoda Looped Latent Attention využívá nízkohodnostní strukturu těchto vektorů k efektivní kompresi napříč cykly.",
+        "Tato inovace umožňuje provozovat delší kontexty na hardwaru s omezenou kapacitou paměti."
+      ],
+      "why_matters": "Tato technika umožní spouštět pokročilé modely s dlouhým kontextem na levnějším hardwaru přímo ve firmách.",
+      "url": "https://arxiv.org/abs/2607.15456",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 15,
+      "title_cs": "DrawingVQA: První benchmark pro vizuální uvažování nad stavebními výkresy",
+      "title_orig": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
+      "category": "research",
+      "summary_cs": [
+        "Představen byl DrawingVQA, první benchmark určený k testování multimodálních modelů na reálných stavebních výkresech.",
+        "Stavební plány představují extrémní výzvu kvůli vysoké hustotě informací, kombinaci textu a specifických geometrických symbolů.",
+        "Tento nástroj pomůže vývojářům lépe měřit a zlepšovat schopnosti AI při analýze technické dokumentace."
+      ],
+      "why_matters": "Lepší porozumění technickým výkresům ze strany AI usnadní digitalizaci českého stavebnictví a architektury.",
+      "url": "https://arxiv.org/abs/2607.15418",
+      "source": "ArXiv cs.AI"
+    }
+  ]
+}
