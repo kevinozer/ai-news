@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-20T04:00:58.338005+00:00",
+  "generated_at": "2026-07-20T07:28:51.096855+00:00",
   "date": "2026-07-20",
-  "article_count_unique": 96,
-  "article_count_raw": 96,
+  "article_count_unique": 94,
+  "article_count_raw": 94,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "verge_ai",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "latent_space",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 0,
-      "raw_count": 3
+      "count": 1,
+      "raw_count": 4
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "f03c95cffad746c3",
+      "title": "Tomáš Pačinda (Kaya VC): Firmy se potřebují smrsknout a okleštit od lidí, kteří nemají správné AI nastavení",
+      "url": "https://www.lupa.cz/clanky/tomas-pacinda-kaya-vc-firmy-se-potrebuji-smrsknout-a-oklestit-od-lidi-kteri-nemaji-spravne-ai-nastaveni/",
+      "published_at": "2026-07-20T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Nástroje umělé inteligence umožňují jednoduché produkty vytvořit za pár hodin, ale také kladou zásadní požadavky na to, kdo nyní ve startupech může být. Co ještě mění současné technologie, ukazuje investor z fondu s miliardovými firmami.",
+      "hero_image": "https://i.iinfo.cz/images/216/tomas-pacinda-kaya-vc.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "25b7ecc615d7619d",
       "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
@@ -760,42 +772,6 @@
       "hero_image": "https://media.wired.com/photos/6a5a67417083bdea755dfcd2/master/pass/Security_AIInjection-v1.gif",
       "source_id": "wired_ai",
       "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "c20e1f3ae3d2bfbe",
-      "title": "Claude make Fable 5 permanent",
-      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
-      "published_at": "2026-07-18T06:00:13+00:00",
-      "author": "",
-      "summary_raw": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. As I was saying last week , the competition from GPT-5.6 Sol (and maybe to a lesser extent Kimi 3 ) made untenable Anthropic's plan to remove Fable 5 from their subscription accounts and make it available exclusively through API pricing. Why pay $100 or $200/month for a subscription plan that doesn't include Anthropic's best model? Their original plan was driven by concerns over compute capacity. I wonder if they'll have to dial back their training efforts in order to make more GPUs available to help serve the model. A lot of people were losing sleep over trying to make the most of Fable 5 before subscriber access was withdrawn. It's nice not to have to worry about the Fablepocalypse any more. Update : Important to note that users on the $20/month plan will still not have access to Fable 5 on that subscription. The Max plans are $100 and $200/month. Tags: ai , generative-ai , llms , anthropic , claude , llm-pricing , claude-mythos-fable",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "17f5260dfe77f17d",
-      "title": "nascheme/quixote",
-      "url": "https://simonwillison.net/2026/Jul/18/quixote/",
-      "published_at": "2026-07-18T05:27:49+00:00",
-      "author": "",
-      "summary_raw": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git. Tags: computer-history , python , web-frameworks",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "ee48aa72ca03d15a",
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "published_at": "2026-07-18T04:47:25+00:00",
-      "author": "Connie Loizos",
-      "summary_raw": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
       "category": "news"
     },
     {
