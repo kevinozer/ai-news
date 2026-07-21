@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-21",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic schválil historické vyrovnání autorských práv ve výši 1,5 miliardy dolarů",
+      "title_orig": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "category": "business",
+      "summary_cs": [
+        "Soud schválil přelomové vyrovnání mezi společností Anthropic a držiteli autorských práv ve výši 1,5 miliardy dolarů.",
+        "Ačkoli tato dohoda uzavírá jeden konkrétní spor, neřeší širší právní otázky ohledně trénování AI modelů na chráněných dílech.",
+        "Tento krok nastavuje významný finanční a právní precedent pro celý technologický průmysl vyvíjející generativní AI."
+      ],
+      "why_matters": "Tento historický precedent zásadně ovlivní budoucí náklady na vývoj AI a dostupnost trénovacích dat pro všechny tvůrce.",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Čína útočí na dominanci USA s novými modely od Alibaba a Moonshot za zlomek ceny",
+      "title_orig": "China delivers a one-two punch to America’s AI dominance",
+      "category": "news",
+      "summary_cs": [
+        "Přední čínské technologické firmy představily nové modely, které mají konkurovat nejlepším systémům od OpenAI a Anthropic.",
+        "Nové modely slibují srovnatelný výkon s americkou špičkou, avšak za pouhý zlomek provozních a vývojových nákladů.",
+        "Rychlé vydání těchto modelů ukazuje, že technologický náskok Silicon Valley se dramaticky zmenšuje."
+      ],
+      "why_matters": "Nástup levné a extrémně výkonné čínské konkurence může výrazně snížit ceny pokročilých AI služeb pro české firmy.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI sdílí bezpečnostní rizika a ponaučení z nasazení modelů s dlouhým plánováním",
+      "title_orig": "Safety and alignment in an era of long-horizon models",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zveřejnila analýzu rizik spojených s dlouhodobě běžícími modely, které dokážou samostatně řešit komplexní úkoly.",
+        "Zpráva popisuje nová bezpečnostní rizika, pozorovaná selhání v praxi a vylepšené ochranné mechanismy zavedené během testování.",
+        "Firma zdůrazňuje nutnost iterativního nasazování a neustálého monitorování chování autonomních agentů."
+      ],
+      "why_matters": "Pochopení rizik autonomních agentů je klíčové pro české vývojáře, kteří tyto systémy integrují do firemních procesů.",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Investor Tomáš Pačinda z Kaya VC popisuje, jak AI mění nároky na lidi ve startupech",
+      "title_orig": "Tomáš Pačinda (Kaya VC): Firmy se potřebují smrsknout a okleštit od lidí, kteří nemají správné AI nastavení",
+      "category": "news",
+      "summary_cs": [
+        "Nástroje umělé inteligence umožňují vytvářet jednoduché produkty během několika málo hodin.",
+        "Tento technologický posun klade zcela nové nároky na dovednosti a myšlení lidí, kteří chtějí působit v moderních startupech.",
+        "Podle českého investora se firmy budou muset zmenšit a rozloučit se s těmi, kteří se novým technologiím nepřizpůsobí."
+      ],
+      "why_matters": "Pohled předního českého investora ukazuje, jak neúprosně AI transformuje tuzemský pracovní trh a startupové prostředí.",
+      "url": "https://www.lupa.cz/clanky/tomas-pacinda-kaya-vc-firmy-se-potrebuji-smrsknout-a-oklestit-od-lidi-kteri-nemaji-spravne-ai-nastaveni/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Google vyvíjí nový specializovaný čip pro zvýšení efektivity modelů Gemini",
+      "title_orig": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "category": "news",
+      "summary_cs": [
+        "Mateřská společnost Googlu, Alphabet, údajně pracuje na novém křemíkovém čipu navrženém speciálně pro zefektivnění běhu Gemini.",
+        "Cílem vývoje je výrazně snížit energetickou náročnost a zvýšit rychlost zpracování požadavků u klientských aplikací.",
+        "Tento krok posiluje nezávislost Googlu na externích dodavatelích hardwaru a optimalizuje jeho cloudovou infrastrukturu."
+      ],
+      "why_matters": "Vyšší efektivita hardwaru od Googlu může přinést rychlejší a levnější AI služby i pro koncové české uživatele.",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Nástroj od Writer snižuje náklady na tokeny o 40 procent bez ztráty přesnosti",
+      "title_orig": "Writer's AI harness cuts token spend nearly 40% - without sacrificing accuracy",
+      "category": "tools",
+      "summary_cs": [
+        "Podniková AI čelí paradoxu návratnosti investic, kdy jsou náklady na provoz nejvýkonnějších modelů v produkci neúnosně vysoké.",
+        "Výzkumníci ze společnosti Writer představili softwarové řešení, které snižuje výdaje za tokeny o téměř 40 procent.",
+        "Tato metoda je snadno přístupná pro běžné inženýrské týmy a nevyžaduje obětování přesnosti generovaných výsledků."
+      ],
+      "why_matters": "Tento přístup nabízí českým vývojářům okamžitý způsob, jak dramaticky snížit provozní náklady svých AI aplikací.",
+      "url": "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Bezpečnostní filtry zablokovaly obránce Hugging Face při analýze reálného útoku",
+      "title_orig": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní tým platformy Hugging Face se při analýze průniku do své infrastruktury pokusil využít komerční AI modely.",
+        "Bezpečnostní pojistky těchto modelů však zablokovaly forenzní dotazy analytiků, protože vyhodnotily data o útoku jako škodlivá.",
+        "Incident odhalil zásadní slabinu současných bezpečnostních filtrů, které nedokážou rozlišit útočníka od legitimního obránce."
+      ],
+      "why_matters": "Ukazuje to limity komerčních AI modelů při kybernetické obraně, což je varováním pro české bezpečnostní experty.",
+      "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Sony žaluje hudební generátor Udio kvůli porušení autorských práv u 30 tisíc skladeb",
+      "title_orig": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "category": "news",
+      "summary_cs": [
+        "Vydavatelství Sony Music Entertainment podalo žalobu na tvůrce populárního AI generátoru hudby Udio.",
+        "Žaloba obviňuje platformu z nelegálního trénování na více než 30 000 licencovaných skladbách od světoznámých umělců.",
+        "Mezi dotčenými díly jsou hity od Elvise Presleyho, Beyoncé nebo Harryho Stylese."
+      ],
+      "why_matters": "Výsledek tohoto sporu určí, jakým způsobem budou moci generátory hudby v budoucnu legálně fungovat.",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Důvěra firem v připravenost na AI klesla za půl roku o 17 procent",
+      "title_orig": "AI confidence just dropped 17 points in six months. That’s actually great news.",
+      "category": "news",
+      "summary_cs": [
+        "Zatímco před půl rokem považovalo 40 procent IT lídrů nasazení AI ve svých firmách za zralé, dnes je to pouze 23 procent.",
+        "Tento pokles důvěry však odborníci vnímají pozitivně jako známku střízlivění a hlubšího pochopení reálné složitosti AI.",
+        "Organizace, které si uvědomují reálné překážky, mají paradoxně mnohem větší šanci na úspěšnou implementaci v dlouhodobém horizontu."
+      ],
+      "why_matters": "Tento trend ukazuje, že i české firmy přecházejí od počátečního nadšení k realistickému a bezpečnému plánování.",
+      "url": "https://venturebeat.com/security/ai-confidence-just-dropped-17-points-in-six-months-thats-actually-great-news",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Aktivní hodnocení konverzací AI agentů může maskovat nefunkční produkt",
+      "title_orig": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
+      "category": "news",
+      "summary_cs": [
+        "Jednotlivá konverzace s AI agentem může vypadat bezchybně, a přesto může celkový produkt z pohledu byznysu selhávat.",
+        "Lídři z oboru proto prosazují posun v hodnocení od analýzy jednotlivých chatů k porovnávání celých uživatelských kohort.",
+        "Tento přístup pomáhá odhalit systémové chyby v integraci agentů, které běžné testovací scénáře snadno přehlédnou."
+      ],
+      "why_matters": "Pro české firmy je to klíčové vodítko, jak správně měřit skutečný přínos nasazených AI asistentů.",
+      "url": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "PlanFlip odhaluje zranitelnost plánovací fáze u systémů s více AI agenty",
+      "title_orig": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci identifikovali kritické slabé místo v systémech, které využívají více spolupracujících AI agentů.",
+        "Útok nazvaný PlanFlip ukazuje, že jediný škodlivý vstup do plánovací fáze dokáže zcela rozvrátit úkoly pro navazující agenty.",
+        "Tato zranitelnost umožňuje útočníkům převzít kontrolu nad celým procesem bez nutnosti napadat jednotlivé vykonávací agenty."
+      ],
+      "why_matters": "Při návrhu komplexních firemních AI systémů je nutné zabezpečit nejen koncové agenty, ale především jejich plánovací jádro.",
+      "url": "https://arxiv.org/abs/2607.16199",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Deterministické přehrávání běhu AI agentů řeší problém s jejich nestabilitou",
+      "title_orig": "Deterministic Replay for AI Agent Systems",
+      "category": "research",
+      "summary_cs": [
+        "AI agenti využívající externí nástroje a API jsou přirozeně nedeterminističtí kvůli odchylkám v modelech i síťové infrastruktuře.",
+        "Tato nestabilita komplikuje ladění chyb, auditování procesů a replikaci úspěšných i neúspěšných operací v produkci.",
+        "Nový výzkum navrhuje mechanismus deterministického přehrávání, který dokáže přesně rekonstruovat jakýkoli předchozí běh agenta."
+      ],
+      "why_matters": "Tato metoda přináší do vývoje AI aplikací tolik potřebnou stabilitu a usnadňuje auditování jejich činnosti.",
+      "url": "https://arxiv.org/abs/2607.16200",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nová metoda JUMP odhaluje, zda byla data použita k doladění difuzních modelů",
+      "title_orig": "JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models",
+      "category": "research",
+      "summary_cs": [
+        "Vědci představili metodu JUMP, která umožňuje efektivně ověřit, zda konkrétní textový vzorek posloužil k doladění modelu.",
+        "Tato technika se zaměřuje na diskrétní difuzní jazykové modely a funguje na principu jednoprůchodového vyhodnocení.",
+        "Nástroj najde uplatnění při auditech ochrany soukromí a při kontrole neoprávněného využití autorských děl."
+      ],
+      "why_matters": "České organizace mohou tento nástroj využít k ověření, zda jejich interní data neunikla do trénovacích sad.",
+      "url": "https://arxiv.org/abs/2607.16207",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Zpětné inženýrství domácích spotřebičů je díky kódovacím agentům extrémně levné",
+      "title_orig": "Reverse-engineering is cheap now",
+      "category": "news",
+      "summary_cs": [
+        "Pokles nákladů na psaní kódu díky AI agentům dramaticky mění ekonomiku zpětného inženýrství.",
+        "Uživatelé stále častěji využívají AI k analýze a automatizaci starších nebo uzavřených domácích spotřebičů.",
+        "Úkoly, které dříve vyžadovaly desítky hodin expertní práce, nyní dokáže AI vyřešit za zlomek času a téměř zdarma."
+      ],
+      "why_matters": "Tento trend otevírá nové možnosti pro kutily i české firmy při integraci starších zařízení do moderních systémů.",
+      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Zillow doporučuje měřit přínos AI ještě před zahájením samotného vývoje",
+      "title_orig": "At VB Transform 2026, Zillow's engineering chief said AI ROI numbers only hold up if you measure before you build",
+      "category": "business",
+      "summary_cs": [
+        "Technologický ředitel realitní platformy Zillow upozorňuje na častou chybu při vyhodnocování návratnosti investic do AI.",
+        "Podle něj jsou čísla o přínosu AI často zkreslená, pokud firma nemá přesně změřený výchozí stav před nasazením technologie.",
+        "Zillow úspěšně využívá AI k udržení kontextu zákazníka napříč dlouhým procesem od prvního kontaktu až po schválení hypotéky."
+      ],
+      "why_matters": "Tento pragmatický přístup pomůže českým manažerům předejít zklamání z drahých a neefektivních AI projektů.",
+      "url": "https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build",
+      "source": "VentureBeat AI"
+    }
+  ]
+}
