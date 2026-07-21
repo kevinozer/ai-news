@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T04:01:11.665031+00:00",
+  "generated_at": "2026-07-21T06:41:08.262248+00:00",
   "date": "2026-07-21",
-  "article_count_unique": 114,
-  "article_count_raw": 114,
+  "article_count_unique": 115,
+  "article_count_raw": 115,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "latent_space",
@@ -163,17 +163,41 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 1,
-      "raw_count": 9
+      "count": 2,
+      "raw_count": 10
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "97de2a42726853b8",
+      "title": "Půl roku vývoje lze zkrátit na dva týdny. Bez AI a vibe codingu nebudete konkurenceschopní, říká Čuprův ex-parťák",
+      "url": "https://www.lupa.cz/clanky/pul-roku-vyvoje-lze-zkratit-na-dva-tydny-bez-ai-a-vibe-codingu-nebudete-konkurenceschopni-rika-cupruv-ex-partak/",
+      "published_at": "2026-07-21T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Ondřej Štastný spoluzaložil s Tomášem Čuprem vývojářské softwarové studio využívající AI a vibe coding. Nyní vykoupil podíl a dal nahlédnout do fungování firmy a svých zkušeností.",
+      "hero_image": "https://i.iinfo.cz/images/654/ondrej-stastny.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "c959dc2b044a029f",
+      "title": "Chyběl mu srovnávač autoškol, tak ho s AI vyrobil. Řeší cenu i úspěšnost, některé školy v něm ale být nechtějí",
+      "url": "https://cc.cz/chybel-mu-srovnavac-autoskol-tak-ho-s-ai-vyrobil-resi-cenu-i-uspesnost-nektere-skoly-v-nem-ale-byt-nechteji/",
+      "published_at": "2026-07-21T04:23:38+00:00",
+      "author": "Michaela Prešinská",
+      "summary_raw": "Napoprvé u zkoušek pohoří skoro půlka lidí. Nový AI srovnávač autoškol odkrývá skrytá data a šetří finance i nervy studentů. Článek Chyběl mu srovnávač autoškol, tak ho s AI vyrobil. Řeší cenu i úspěšnost, některé školy v něm ale být nechtějí se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/kvalty-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "c79d879ff23b16ba",
       "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
@@ -1109,18 +1133,6 @@
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
       "category": "news"
-    },
-    {
-      "id": "b6c98a22a44859f2",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/",
-      "published_at": "2026-07-19T05:06:21+00:00",
-      "author": "",
-      "summary_raw": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical strategy for an organisation with $2B+ in revenue which was entirely centered around AI. Here's a report from an engineer at a company with a token leaderboard: Checking out a parallel copy of our Go repository and telling the AI to rewrite the whole thing in Zig while I work on something else just so I can keep my job. I particularly enjoyed this conversation with a skeptical executive at an over-enthusiastic company: I asked why this was being repeated without opposition. Was it just sales fluff? The answer was a lot more interesting. It was partially ridiculous sales material being delivered to an easily excitable audience, but this was not the dominant factor constraining honesty. Executives at their customers were saying absurd things about achieving 100x productivity, and this meant that if any executive at the vendor said that these gains were not plausible, it would undermine the credibility of the customer’s executive, be perceived as an attack (or heresy), and possibly result in an enterprise contract cancellation. And getting enterprise contracts cancelled because you wanted to opine on something that doesn’t really matter to your organisation’s mission is a great way to get fired. Via Hacker News Tags: ai , ai-ethics , ai-misuse",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
     },
     {
       "id": "e9545e732b265b8f",
