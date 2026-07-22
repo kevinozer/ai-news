@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-22T04:01:05.890484+00:00",
+  "generated_at": "2026-07-22T06:42:20.977433+00:00",
   "date": "2026-07-22",
-  "article_count_unique": 157,
-  "article_count_raw": 157,
+  "article_count_unique": 155,
+  "article_count_raw": 155,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -163,17 +163,29 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "212e993a60fdce34",
+      "title": "OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know",
+      "url": "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
+      "published_at": "2026-07-22T04:39:00+00:00",
+      "author": "carl.franzen@venturebeat.com (Carl Franzen)",
+      "summary_raw": "Yesterday afternoon, OpenAI and Hugging Face published a joint disclosure outlining a cybersecurity event that redefines the threat landscape for enterprise technology. During an internal benchmark evaluation, frontier artificial intelligence models developed by OpenAI—including GPT-5.6 Sol and an unreleased, higher-capability pre-release model—broke out of their sandboxed research environment, obtained raw internet access, and autonomously executed a complex cyberattack against Hugging Face’s production infrastructure. OpenAI officially categorizes the breach as an &quot;unprecedented cyber incident, involving state-of-the-art cyber capabilities&quot;. This incident fundamentally re-frames global discussions surrounding AI containment, frontier model alignment, commercial guardrails, and enterprise threat modeling. But first thing&#x27;s first: enterprises should understand the situation, evaluate their own AI and computer systems in light of it, and above all, don&#x27;t panic. As we&#x27;ll review, the incident does show the increasing power and danger of frontier AI systems, but it does not mean that enterprise Ai deployments are inherently less secure, nor that they need extensive overhauling. Anatomy of an Autonomous Breakout To understand how a routine benchmark evaluation escalated into a cross-infrastructure breach, one must examine the objective mechanics of the evaluation pipeline. The models were prompted to solve ExploitGym , a benchmark designed to quantify multi-step exploitation capabilities. Hyper-focused on maximizing its evaluation score, the AI agent inferred that Hugging Face likely hosted the answer keys and benchmark solutions. In pursuit of solving the problem, the model determined that breaking out of its container and stealing the answers was an optimal strategy. OpenAI’s evaluation environment is designed to be strictly isolated, limiting network traffic through a proxy used for package caching. However, the models identified and exploited…",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5T1jRqO0ZcT7MeHaDY07CQ/2c7374c1edee4f3292307be027060455/exec-f6451c12-50a2-4f4b-97f1-5f2bc5c59fed.png?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
     {
       "id": "033ac574ffcd2298",
       "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
@@ -1327,18 +1339,6 @@
       "category": "cz"
     },
     {
-      "id": "c959dc2b044a029f",
-      "title": "Chyběl mu srovnávač autoškol, tak ho s AI vyrobil. Řeší cenu i úspěšnost, některé školy v něm ale být nechtějí",
-      "url": "https://cc.cz/chybel-mu-srovnavac-autoskol-tak-ho-s-ai-vyrobil-resi-cenu-i-uspesnost-nektere-skoly-v-nem-ale-byt-nechteji/",
-      "published_at": "2026-07-21T04:23:38+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Napoprvé u zkoušek pohoří skoro půlka lidí. Nový AI srovnávač autoškol odkrývá skrytá data a šetří finance i nervy studentů. Článek Chyběl mu srovnávač autoškol, tak ho s AI vyrobil. Řeší cenu i úspěšnost, některé školy v něm ale být nechtějí se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/kvalty-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "6221a85fa10b4197",
       "title": "[AINews] not much happened today",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
@@ -1567,18 +1567,6 @@
       "category": "news"
     },
     {
-      "id": "accd9862454654e8",
-      "title": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
-      "url": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
-      "published_at": "2026-07-20T18:24:33+00:00",
-      "author": "",
-      "summary_raw": "A single AI agent conversation can look flawless scored on its own and still point to a broken product. That gap is driving a shift in how enterprises evaluate agents, away from scoring individual traces and toward comparing cohorts of users against a baseline. At VB Transform 2026 , Harrison Chase, CEO of LangChain; Hui Zhang, CTO and co-founder of Conviva; and Emmanuel Turlay, director of engineering at CoreWeave, described that shift, along with a parallel move toward cheaper, narrower judge models. Agent-as-judge — judging one AI agent&#x27;s output with another — hasn&#x27;t replaced LLM-as-judge, which Chase said remains the default. The larger tension, Zhang said, is between automated judging, whether by LLM or agent, and human review. &quot;You have scalable but ungrounded, whether it&#x27;s agents as judge or LLMs as judge, you grade the outcome, you grade the work. It still is very difficult to ground it and then you use humans and that&#x27;s just not scalable,&quot; Zhang said. &quot;The whole industry is facing this, which poison you want to pick.&quot; Evaluation criteria now function as the product spec That gap — a conversation that scores well but still signals a broken product — is what teams try to close by building an exhaustive evaluation suite before they ship anything. Chase said that doesn&#x27;t work. &quot;We sometimes see teams that have almost eval paralysis,&quot; Chase said. &quot;They&#x27;re like, this is an eval set, I can&#x27;t launch it. The best teams launch and then iterate.&quot; Chase framed evaluation criteria as a living specification, not a one-time test suite: a product requirements document — the standard software-development spec for what an application should do. &quot;Evals are like the new PRD,&quot; he said. &quot;They define what your agent should and shouldn&#x27;t do.&quot; Turlay described hitting the same failure from a different angle. &quot;I was trying to reach 100% coverage for my tests, and I still had bugs…",
-      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/1DTCiJTCuje8zdGCA4s3Jj/00ed8e1242fd6356d6110f7c51b8d1d3/VBXC2904-X2-llmjudge.jpg?w=300&q=30",
-      "source_id": "venturebeat_ai",
-      "source_name": "VentureBeat AI",
-      "category": "news"
-    },
-    {
       "id": "29af55f189a59fef",
       "title": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
       "url": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/",
@@ -1697,18 +1685,6 @@
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
       "category": "news"
-    },
-    {
-      "id": "f03c95cffad746c3",
-      "title": "Tomáš Pačinda (Kaya VC): Firmy se potřebují smrsknout a okleštit od lidí, kteří nemají správné AI nastavení",
-      "url": "https://www.lupa.cz/clanky/tomas-pacinda-kaya-vc-firmy-se-potrebuji-smrsknout-a-oklestit-od-lidi-kteri-nemaji-spravne-ai-nastaveni/",
-      "published_at": "2026-07-20T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Nástroje umělé inteligence umožňují jednoduché produkty vytvořit za pár hodin, ale také kladou zásadní požadavky na to, kdo nyní ve startupech může být. Co ještě mění současné technologie, ukazuje investor z fondu s miliardovými firmami.",
-      "hero_image": "https://i.iinfo.cz/images/216/tomas-pacinda-kaya-vc.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "e9545e732b265b8f",
