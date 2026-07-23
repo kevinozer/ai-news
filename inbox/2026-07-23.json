@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T04:01:04.122409+00:00",
+  "generated_at": "2026-07-23T06:40:22.374993+00:00",
   "date": "2026-07-23",
-  "article_count_unique": 162,
-  "article_count_raw": 162,
+  "article_count_unique": 164,
+  "article_count_raw": 164,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -103,14 +103,14 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,17 +163,89 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
-      "raw_count": 14
+      "count": 2,
+      "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "4b5b65bfecf09af3",
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "published_at": "2026-07-23T06:09:13+00:00",
+      "author": "Jagmeet Singh",
+      "summary_raw": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "60f996b70d7dae7c",
+      "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
+      "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
+      "published_at": "2026-07-23T05:18:47+00:00",
+      "author": "",
+      "summary_raw": "a quiet day lets us highlight a new neolab win.",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/9_0hs2sxHHo",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "730de598203488d8",
+      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
+      "url": "https://www.latent.space/p/poolside",
+      "published_at": "2026-07-23T05:09:14+00:00",
+      "author": "",
+      "summary_raw": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!RGsJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15a65699-ea93-4572-addd-3c46060cb6b8_1200x822.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "92b870ae58be55f3",
+      "title": "Quoting Seth Larson",
+      "url": "https://simonwillison.net/2026/Jul/23/seth-larson/",
+      "published_at": "2026-07-23T04:50:36+00:00",
+      "author": "",
+      "summary_raw": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware it was possible. &mdash; Seth Larson , PyPI blog Tags: packaging , python , supply-chain , pypi , seth-michael-larson",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "f183c6282153d232",
+      "title": "Kvůli Temu je dnes reklama dražší než samotná výroba trička, říká. Svůj stagnující e-shop nakopl díky AI",
+      "url": "https://cc.cz/kvuli-temu-je-dnes-reklama-drazsi-nez-samotna-vyroba-tricka-rika-svuj-stagnujici-e-shop-nakopl-diky-ai/",
+      "published_at": "2026-07-23T04:16:19+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "E-shop Bastard.cz rozběhl Matez Jindra před dvaceti lety prodejem toaleťáku s Jiřím Paroubkem. Dnes má tržby v desítkách milionů korun. Článek Kvůli Temu je dnes reklama dražší než samotná výroba trička, říká. Svůj stagnující e-shop nakopl díky AI se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/bastard-matez-jindra-1a-vytahovka-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "8e2f205897c22a47",
+      "title": "Orcas team up to ram sunfish until they explode",
+      "url": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
+      "published_at": "2026-07-23T04:00:38+00:00",
+      "author": "Jennifer Ouellette",
+      "summary_raw": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/orcasTOP-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
     {
       "id": "bb926295a1ce729d",
       "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
@@ -1351,18 +1423,6 @@
       "category": "news"
     },
     {
-      "id": "f73ac3f9ef24cf8f",
-      "title": "AI and the rise of the universal entertainment app",
-      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "published_at": "2026-07-21T19:39:30+00:00",
-      "author": "Sarah Perez",
-      "summary_raw": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "ab46ac29e030500b",
       "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
       "url": "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/",
@@ -1454,18 +1514,6 @@
       "author": "Ashley Belanger",
       "summary_raw": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "29310df0d3f4cbec",
-      "title": "Sales of Valve's Steam Deck crater after recent price hike",
-      "url": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
-      "published_at": "2026-07-21T17:12:34+00:00",
-      "author": "Kyle Orland",
-      "summary_raw": "Analysis of bestseller charts shows an 80 percent dip from 2025's sales rate.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
       "category": "news"
@@ -1759,18 +1807,6 @@
       "category": "labs"
     },
     {
-      "id": "97de2a42726853b8",
-      "title": "Půl roku vývoje lze zkrátit na dva týdny. Bez AI a vibe codingu nebudete konkurenceschopní, říká Čuprův ex-parťák",
-      "url": "https://www.lupa.cz/clanky/pul-roku-vyvoje-lze-zkratit-na-dva-tydny-bez-ai-a-vibe-codingu-nebudete-konkurenceschopni-rika-cupruv-ex-partak/",
-      "published_at": "2026-07-21T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Ondřej Štastný spoluzaložil s Tomášem Čuprem vývojářské softwarové studio využívající AI a vibe coding. Nyní vykoupil podíl a dal nahlédnout do fungování firmy a svých zkušeností.",
-      "hero_image": "https://i.iinfo.cz/images/654/ondrej-stastny.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "6221a85fa10b4197",
       "title": "[AINews] not much happened today",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
@@ -1937,18 +1973,6 @@
       "source_id": "deepmind_blog",
       "source_name": "Google DeepMind Blog",
       "category": "labs"
-    },
-    {
-      "id": "d999b5c317f7f5d2",
-      "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
-      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
-      "published_at": "2026-07-16T06:18:05+00:00",
-      "author": "",
-      "summary_raw": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!AvrX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90048da3-a87f-44d8-8ad4-e954031d2721_2540x1692.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "d62961a9e801e74e",
