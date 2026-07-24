@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-24",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Black Forest Labs uvádí FLUX 3 schopný generovat video i zvuk",
+      "title_orig": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio - but in limited release to start",
+      "category": "labs",
+      "summary_cs": [
+        "Tvůrci populárního modelu FLUX představili novou generaci s označením FLUX 3, která rozšiřuje možnosti generování obrazu o tvorbu videa.",
+        "Model dokáže z jednoho textového zadání vygenerovat kombinované audio a video klipy o délce až 20 sekund.",
+        "Architektura je navíc navržena tak, aby ji bylo možné v budoucnu aplikovat i na robotické vidění a fyzickou manipulaci."
+      ],
+      "why_matters": "Nová generace špičkového evropského modelu posouvá hranice open-source generování videa a zvuku na zcela novou úroveň.",
+      "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Microsoft uvádí vlastní AI modely a útočí na ceny OpenAI",
+      "title_orig": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
+      "category": "business",
+      "summary_cs": [
+        "Microsoft představil dva nové interní modely MAI-Image-2.5-Pro pro generování obrázků a MAI-Voice-2-Flash pro hlasové aplikace.",
+        "Společnost zveřejnila data, podle kterých tyto modely snižují provozní náklady pro podniky až o 89 procent ve srovnání s OpenAI.",
+        "Tento krok představuje dosud nejvýraznější snahu Microsoftu o snížení závislosti na technologiích svého hlavního partnera."
+      ],
+      "why_matters": "Agresivní cenová válka Microsoftu výrazně zlevní provoz pokročilých AI aplikací pro firmy všech velikostí.",
+      "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic zpřístupňuje hlasový režim pro modely Opus a Sonnet",
+      "title_orig": "Claude’s voice mode is now available for Opus and Sonnet",
+      "category": "labs",
+      "summary_cs": [
+        "Pokročilý hlasový režim asistenta Claude, který byl dosud omezen pouze na nejrychlejší model Haiku, se rozšiřuje na vlajkové modely.",
+        "Uživatelé nyní mohou využívat schopnosti modelů Opus a Sonnet pro přirozenou hlasovou interakci v reálném čase.",
+        "Anthropic zároveň rozšiřuje integraci tohoto režimu do populárních firemních aplikací jako Gmail, Slack nebo Canva."
+      ],
+      "why_matters": "Uživatelé získávají přístup k nejchytřejším modelům na trhu prostřednictvím plynulého a přirozeného hlasového rozhraní.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI přináší obousměrné hlasové ovládání do vývojářských nástrojů",
+      "title_orig": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI integruje svůj nový audio model GPT-Live s plně duplexními schopnostmi přímo do vývojářských procesů.",
+        "Funkce umožňuje programátorům ovládat ChatGPT na desktopu hlasem bez nutnosti přerušovat poslech nebo psaní kódu.",
+        "Nástroj je dostupný pro macOS i Windows a integruje se přímo s vývojářským prostředím Codex."
+      ],
+      "why_matters": "Hlasové ovládání v reálném čase mění způsob, jakým vývojáři píší a ladí kód za asistence umělé inteligence.",
+      "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI spouští službu ChatGPT Health pro všechny uživatele v USA",
+      "title_orig": "Launching Health in ChatGPT",
+      "category": "labs",
+      "summary_cs": [
+        "Nová specializovaná funkce umožňuje uživatelům bezpečně propojit své lékařské záznamy a zdravotní data s asistentem.",
+        "ChatGPT dokáže analyzovat informace z platforem jako Apple Health nebo MyFitnessPal a poskytovat personalizované rady.",
+        "Podle vyjádření OpenAI vykazují nové modely v oblasti medicínského uvažování výsledky srovnatelné s lidskými specialisty."
+      ],
+      "why_matters": "Ukazuje směr, jakým se bude ubírat osobní zdravotní péče a diagnostika s využitím umělé inteligence.",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Zranitelnost formulářů způsobuje, že si modely vymýšlejí odpovědi",
+      "title_orig": "PhantomFill: When the Form Demands an Answer, Language Models Invent One",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci prokázali, že samotný formát strukturovaného výstupu, jako je JSON nebo argumenty funkcí, nutí modely k halucinacím.",
+        "Při testování třinácti různých modelů vedla pouhá změna požadovaného formátu odpovědi k vymýšlení neexistujících dat.",
+        "Tento fenomén představuje vážné riziko pro produkční systémy, které spoléhají na automatické plnění databází pomocí AI."
+      ],
+      "why_matters": "Odhaluje skrytou systémovou chybu v aplikacích, které nutí jazykové modely vracet striktně strukturovaná data.",
+      "url": "https://arxiv.org/abs/2607.20492",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Vícekrokové útoky dokážou prolomit bezpečnostní filtry v 88 procentech případů",
+      "title_orig": "Multi-turn attacks broke AI models 88% of the time - single-turn testing missed it, Cisco AI security lead warns at VB Transform 2026",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní testy společnosti Cisco odhalily, že adaptivní útočníci dokážou v dlouhé konverzaci snadno obejít ochrany modelů.",
+        "Při testování patnácti předních modelů uspěly vícekrokové útoky v drtivé většině případů, zatímco jednorázové testy toto riziko neodhalily.",
+        "Odborníci varují, že současné metody hodnocení bezpečnosti AI jsou kvůli tomuto rozdílu nebezpečně neadekvátní."
+      ],
+      "why_matters": "Ukazuje, že běžné zabezpečení firemních chatbotů lze snadno obejít promyšleným vedením konverzace.",
+      "url": "https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Více než polovina firem již zaznamenala bezpečnostní incident s AI agenty",
+      "title_orig": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "category": "news",
+      "summary_cs": [
+        "Průzkum mezi stovkou velkých podniků ukázal, že 54 procent z nich již čelilo incidentu nebo vážnému pochybení autonomního agenta.",
+        "Navzdory rizikům většina firem stále umožňuje agentům sdílet přístupové údaje místo přidělování unikátních identit.",
+        "Rychlost nasazování autonomních systémů do ostrého provozu tak výrazně předbíhá rozvoj bezpečnostních standardů."
+      ],
+      "why_matters": "Varovný signál pro české manažery, aby nepodceňovali zabezpečení a přístupová práva autonomních AI systémů.",
+      "url": "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Zákon o nouzovém vypnutí AI by mohl dát vládě USA pravomoc vypnout nebezpečné systémy",
+      "title_orig": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+      "category": "news",
+      "summary_cs": [
+        "Američtí zákonodárci připravují legislativu, která by umožnila ministerstvu vnitřní bezpečnosti nařídit okamžité vypnutí AI systémů.",
+        "Pravomoc by se vztahovala na modely vykazující autonomní chování, které by mohlo ohrozit národní bezpečnost.",
+        "Návrh zákona vyvolává ostré debaty o rozsahu státní kontroly nad technologickým sektorem a inovacemi."
+      ],
+      "why_matters": "Případný americký federální zásah do provozu AI modelů by okamžitě ovlivnil globální dostupnost těchto služeb.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Bílý dům debatuje o regulaci a hrozbách čínských open-source modelů",
+      "title_orig": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+      "category": "news",
+      "summary_cs": [
+        "V americké administrativě sílí debata o tom, jak reagovat na rychlý technologický pokrok čínských otevřených modelů.",
+        "Část poradců prosazuje tvrdé sankce, zatímco jiní varují, že omezování open-source vývoje poškodí samotný západní ekosystém.",
+        "Situaci vyostřují obvinění, že čínské laboratoře trénují své špičkové modely pomocí destilace dat z amerických systémů."
+      ],
+      "why_matters": "Geopolitický boj o AI přímo ovlivňuje, jaké modely a za jakých podmínek budeme moci v Evropě legálně využívat.",
+      "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Zakladatel seznamky Hinge staví nového AI dohazovače",
+      "title_orig": "Kvůli pití přišel o vztah a na truc vytvořil seznamku, co vydělává stamiliony. Zavrhl ji a staví AI dohazovače",
+      "category": "wildcard",
+      "summary_cs": [
+        "Justin McLeod, zakladatel úspěšné seznamovací aplikace Hinge, se rozhodl změnit směr a opustit tradiční model swipování.",
+        "Jeho nový projekt sází na pokročilé algoritmy umělé inteligence, které mají lidem pomáhat hledat skutečně kompatibilní protějšky.",
+        "Cílem je nahradit povrchní procházení profilů hlubší analýzou osobnosti a chování uživatelů."
+      ],
+      "why_matters": "Ukazuje, jak umělá inteligence od základu transformuje i tak osobní oblasti, jako je seznamování a lidské vztahy.",
+      "url": "https://cc.cz/kvuli-piti-prisel-o-vztah-a-na-truc-vytvoril-seznamku-co-vydelava-stamiliony-zavrhl-ji-a-stavi-ai-dohazovace/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Amazon vylepšuje Alexa Plus pro složité ovládání chytré domácnosti",
+      "title_orig": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "category": "tools",
+      "summary_cs": [
+        "Amazon spouští testovací verzi aktualizace pro svého asistenta Alexa Plus s integrovanou umělou inteligencí.",
+        "Nový systém dokáže automaticky směrovat složité požadavky a propojovat zařízení od značek jako Bosch, iRobot nebo Whirlpool.",
+        "Uživatelé budou moci zadávat komplexní instrukce v přirozeném jazyce bez nutnosti nastavovat složité scénáře."
+      ],
+      "why_matters": "Významný krok k plně autonomní a inteligentní domácnosti, která rozumí kontextu lidských potřeb.",
+      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Etched dosahuje obří valuace díky specializovaným čipům pro AI",
+      "title_orig": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "category": "business",
+      "summary_cs": [
+        "Startup Etched, založený studenty z Harvardu, dosáhl valuace přes 10 miliard dolarů díky vývoji specifických čipů pro transformery.",
+        "Společnost tvrdí, že její hardware dokáže dramaticky zrychlit běh velkých jazykových modelů bez nutnosti drahých GPU od Nvidie.",
+        "Investoři sázejí na to, že budoucnost AI infrastruktury leží v jednoúčelových křemíkových čipech."
+      ],
+      "why_matters": "Úspěch tohoto startupu může narušit monopol Nvidie a výrazně zlevnit výpočetní výkon pro provoz AI.",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Proaktivní testování jako cesta k bezpečnějšímu vývoji AI",
+      "title_orig": "Position: Stop Reactively Patching Your Model Every Time and Start Proactive Test-Driven AI Development",
+      "category": "research",
+      "summary_cs": [
+        "Vědecká práce kritizuje současný trend reaktivního záplatování modelů na základě hlášení chyb od uživatelů.",
+        "Autoři navrhují přechod k proaktivnímu vývoji řízenému testy, který je běžný v tradičním softwarovém inženýrství.",
+        "Tento přístup by mohl výrazně zvýšit stabilitu a předvídatelnost nasazovaných AI systémů v reálném provozu."
+      ],
+      "why_matters": "Přináší důležité metodické postupy pro české vývojáře, kteří chtějí stavět spolehlivé a bezpečné AI aplikace.",
+      "url": "https://arxiv.org/abs/2607.20532",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Ochranné filtry AI komplikují práci bezpečnostním expertům",
+      "title_orig": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní experti upozorňují, že přísné filtry modelů od OpenAI a Anthropicu jim brání v legitimním výzkumu zranitelností.",
+        "Při pokusech o simulaci útoků a vývoj obranných nástrojů jsou výzkumníci často zablokováni kvůli podezření ze škodlivé činnosti.",
+        "Tento stav paradoxně nahrává skutečným útočníkům, kteří k obcházení ochran používají vlastní neomezené modely."
+      ],
+      "why_matters": "Upozorňuje na nezamýšlené důsledky regulace AI, které mohou oslabit celkovou kybernetickou bezpečnost.",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
