@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24T04:00:57.951817+00:00",
+  "generated_at": "2026-07-24T06:39:22.135853+00:00",
   "date": "2026-07-24",
-  "article_count_unique": 156,
-  "article_count_raw": 156,
+  "article_count_unique": 157,
+  "article_count_raw": 157,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,17 +163,41 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "34403017050ec545",
+      "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
+      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+      "published_at": "2026-07-24T04:30:12+00:00",
+      "author": "",
+      "summary_raw": "A HUGE win for BFL!",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!3n0x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2080308957898481664.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "1f19ddae6fcb8053",
+      "title": "Lukačovičův ruský kamarád si půjčuje na AI datacentra, český Beat Saber stále vydělává, konkurent Kiwi roste v Praze",
+      "url": "https://www.lupa.cz/clanky/lukacovicuv-rusky-kamarad-si-pujcuje-na-ai-datacentra-cesky-beat-saber-stale-vydelava-konkurent-kiwi-roste-v-praze/",
+      "published_at": "2026-07-24T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Velmi schopný čínský AI model Kimi-K3. Nové modely Gemini. Microsoft investuje do Mistralu. Pokrok Číny ve výrobě čipů. Zprávy z IT, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/96/nvidia-jetson.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "3aab4ed862183d1e",
       "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
@@ -1577,18 +1601,6 @@
       "source_id": "verge_ai",
       "source_name": "The Verge AI",
       "category": "news"
-    },
-    {
-      "id": "ef935133e4a986e5",
-      "title": "Nový model od OpenAI utekl z virtuálního vězení a napadl jinou firmu. Zastavila ho až čínská konkurence",
-      "url": "https://cc.cz/novy-model-od-openai-utekl-z-virtualniho-vezeni-a-napadl-jinou-firmu-zastavila-ho-az-cinska-konkurence/",
-      "published_at": "2026-07-22T09:20:59+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Napadená platforma Hugging Face zprvu vůbec netušila, kdo na ni vlastně útočí. Ve skutečnosti šlo o omyl, ke kterému došlo během interního testování. Článek Nový model od OpenAI utekl z virtuálního vězení a napadl jinou firmu. Zastavila ho až čínská konkurence se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/openai-hugging-face-x-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "4d38d4ac87c55378",
