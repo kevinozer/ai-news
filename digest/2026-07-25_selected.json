@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-25",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic uvádí model Claude Opus 5 s polovičními náklady",
+      "title_orig": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
+      "category": "labs",
+      "summary_cs": [
+        "Nový model Claude Opus 5 přináší inteligenci srovnatelnou s vlajkovou lodí Fable 5, ale za poloviční cenu.",
+        "Model je navržen speciálně pro dlouho běžící agenty, složité programování a podnikové procesy.",
+        "Tento krok ukazuje posun v AI závodech od honby za čistým výkonem k optimalizaci ekonomiky provozu."
+      ],
+      "why_matters": "České firmy mohou nasadit špičkové agenty s polovičními náklady na provoz API.",
+      "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Opus 5 vykazuje extrémní odolnost vůči prompt injection útokům",
+      "title_orig": "Quoting Boris Cherny",
+      "category": "research",
+      "summary_cs": [
+        "Podle interních testů a bezpečnostních analýz je Opus 5 dosud nejodolnějším modelem proti zneužití.",
+        "Útočníci mají velký problém přimět model k obcházení pravidel pomocí manipulativních zadání.",
+        "Zvýšená bezpečnost otevírá dveře pro bezpečnější nasazení autonomních agentů v ostrém provozu."
+      ],
+      "why_matters": "Bezpečnější model snižuje riziko zneužití AI aplikací českých vývojářů.",
+      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Čuprův AI startup Duvo.ai automatizuje procesy v Alze",
+      "title_orig": "Čuprův AI startup jde po velkém retailu. Získal Alzu, kde má pomáhat s automatizací",
+      "category": "business",
+      "summary_cs": [
+        "Startup Duvo.ai, za kterým stojí Tomáš Čupr, uzavřel partnerství s největším českým e-shopem Alza.",
+        "Cílem spolupráce je nasazení AI agentů, kteří budou vykonávat rutinní práci přímo ve vnitřních systémech.",
+        "Duvo.ai se zaměřuje na integraci umělé inteligence do stávajících firemních struktur středoevropského retailu."
+      ],
+      "why_matters": "Ukazuje praktické nasazení pokročilých AI agentů u lídra české e-commerce.",
+      "url": "https://www.lupa.cz/aktuality/cupruv-ai-startup-jde-po-velkem-retailu-ziskal-alzu-kde-ma-zacit-automatizovat/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 4,
+      "title_cs": "AI za víkend vyřešila 80 let starý matematický problém",
+      "title_orig": "Další důkaz, jak AI překonává lidský mozek: za víkend rozluštila 80 let starou matematickou hádanku",
+      "category": "wildcard",
+      "summary_cs": [
+        "Umělá inteligence dokázala během jediného víkendu vyřešit matematickou hádanku, která odolávala lidem desítky let.",
+        "Matematici správnost řešení okamžitě potvrdili a nyní diskutují o budoucnosti svého oboru.",
+        "Tento úspěch ukazuje, že AI začíná překonávat lidské schopnosti i v hluboce teoretických vědách."
+      ],
+      "why_matters": "Dokazuje, že AI dokáže posouvat hranice lidského vědění v rekordním čase.",
+      "url": "https://cc.cz/dalsi-dukaz-jak-ai-prekonava-lidsky-mozek-za-vikend-rozlustila-80-let-starou-matematickou-hadanku/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Meta vylepšuje svého asistenta o plánování a hluboký výzkum",
+      "title_orig": "Meta is making its AI chatbot more like an assistant",
+      "category": "labs",
+      "summary_cs": [
+        "Meta AI získává nové produktivní funkce, které jí umožňují přímé napojení na uživatelský kalendář.",
+        "Uživatelé mohou asistenta využít k plánování událostí, tvorbě denních přehledů a řízenému vyhledávání informací.",
+        "Aktualizace představuje přímý útok na konkurenční nástroje jako ChatGPT, Gemini a Claude."
+      ],
+      "why_matters": "Uživatelé získají v běžných aplikacích od Mety mnohem schopnějšího osobního asistenta.",
+      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Prentis získává 100 milionů dolarů na automatizaci rutinní práce",
+      "title_orig": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "category": "business",
+      "summary_cs": [
+        "Nový AI startup spoluzaložený Reidem Hoffmanem jedná o investici ve výši 100 milionů dolarů.",
+        "Prentis sází na to, že automatizace běžných počítačových úkonů brzy překoná psaní kódu jako hlavní využití AI.",
+        "Cílem je vytvořit agenty, kteří bezproblémově zvládnou každodenní administrativní úkoly."
+      ],
+      "why_matters": "Naznačuje, kam potečou další velké investice v oblasti podnikové produktivity.",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Cognition kupuje startup Poke kvůli osobnosti asistenta Devin",
+      "title_orig": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "category": "business",
+      "summary_cs": [
+        "Tvůrci populárního AI programátora Devin kupují startup Poke zaměřený na konverzační styl.",
+        "Akvizice má přinést přirozenější interakci a lepší komunikaci s uživateli během vývoje softwaru.",
+        "Ukazuje se, že osobnost a styl komunikace AI se stávají klíčovou konkurenční výhodou."
+      ],
+      "why_matters": "Způsob, jakým s námi AI komunikuje, bude brzy stejně důležitý jako její inteligence.",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Runway spouští inteligentní směrovač AI modelů",
+      "title_orig": "Runway launches AI model router as generative media gets crowded",
+      "category": "tools",
+      "summary_cs": [
+        "Nástroj Media Router automaticky vybírá nejvhodnější model pro generování obrazu, videa či zvuku.",
+        "Výběr probíhá v reálném čase na základě priorit vývojáře, jako jsou kvalita, rychlost nebo cena.",
+        "Služba reaguje na přeplněný trh s generativními modely a pomáhá optimalizovat náklady."
+      ],
+      "why_matters": "Čeští tvůrci a vývojáři mohou snadno optimalizovat náklady na generování obsahu.",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Bílý dům čelí tlaku, aby neomezoval open-source modely",
+      "title_orig": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "category": "news",
+      "summary_cs": [
+        "Přední technologické firmy jako Nvidia a Mistral varují před plošným omezováním open-source AI modelů.",
+        "Debata v USA se vyostřuje v reakci na rychlý pokrok čínských modelů a obavy z úniku technologií.",
+        "Zástupci průmyslu tvrdí, že otevřený vývoj je klíčový pro inovace a bezpečnost celého ekosystému."
+      ],
+      "why_matters": "Případné restrikce by mohly omezit přístup českých vývojářů k bezplatným špičkovým modelům.",
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "VentureBeat varuje před chybějící kontrolou nad AI agenty",
+      "title_orig": "VentureBeat Research: Where enterprise AI agent governance hasn't caught up",
+      "category": "research",
+      "summary_cs": [
+        "Průzkum ukazuje, že firmy nasazují AI agenty rychleji, než stíhají zavádět bezpečnostní pravidla.",
+        "Manažeři si jsou vědomi rizik, přesto dávají přednost rychlosti nasazení před kontrolou.",
+        "Nyní se podniky snaží zpětně implementovat mechanismy pro správu a audit těchto systémů."
+      ],
+      "why_matters": "Varovný prst pro české manažery, aby nepodceňovali bezpečnost při zavádění AI.",
+      "url": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Midjourney kupuje astrologickou aplikaci Co-Star",
+      "title_orig": "Midjourney bought the astrology app Co-Star",
+      "category": "wildcard",
+      "summary_cs": [
+        "Populární generátor obrázků Midjourney překvapivě kupuje personalizovanou astrologickou aplikaci.",
+        "Akvizice naznačuje snahu laboratoře expandovat mimo čisté generování médií do oblasti osobních asistentů.",
+        "Co-Star využívá data o postavení hvězd k tvorbě denních horoskopů a sociálnímu propojení."
+      ],
+      "why_matters": "Ukazuje, jak se čistě technologické firmy snaží proniknout do každodenního životního stylu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Vědci využili AlphaFold k bezpečnější editaci genů",
+      "title_orig": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "category": "research",
+      "summary_cs": [
+        "Vědecký tým úspěšně využil model AlphaFold k přepracování proteinů pro editaci genů.",
+        "AI pomohla identifikovat části proteinů, které způsobovaly nechtěné chyby při úpravě DNA.",
+        "Výsledkem jsou bezpečnější nástroje, které minimalizují riziko vedlejších mutací při léčbě."
+      ],
+      "why_matters": "Další důkaz, jak AI zásadně urychluje vývoj bezpečnější medicíny budoucnosti.",
+      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 13,
+      "title_cs": "AegisAI získává investici na boj proti phishingu poháněnému AI",
+      "title_orig": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "category": "tools",
+      "summary_cs": [
+        "Startup AegisAI získal 36 milionů dolarů na vývoj obrany proti sofistikovaným podvodným e-mailům.",
+        "Systém využívá agenty, kteří analyzují zprávy s lidským citem pro detail a odhalují drobné anomálie.",
+        "Tradiční bezpečnostní filtry často selhávají proti textům generovaným na míru pomocí LLM."
+      ],
+      "why_matters": "České firmy čelí stále věrohodnějším podvodům, které pomůže odhalit nová generace AI ochrany.",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Americká vláda spouští obří projekt Genesis pro vědeckou AI",
+      "title_orig": "The tech-broification of American science has officially begun",
+      "category": "news",
+      "summary_cs": [
+        "Vláda USA uvolnila 5 miliard dolarů na stovky vědeckých projektů poháněných umělou inteligencí.",
+        "Iniciativa přirovnávaná k projektu Manhattan má zajistit americký náskok ve strategickém výzkumu.",
+        "Kritici však varují před přílišným vlivem technologických miliardářů na směřování státní vědy."
+      ],
+      "why_matters": "Masivní financování urychlí globální vědecké objevy, které ovlivní i evropský trh.",
+      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Třinecké železárny jako budoucí obří AI datacentrum",
+      "title_orig": "Nečekaný pohled na umírající ocelárnu v Česku. Má něco extra cenného a může z ní být obří datacentrum",
+      "category": "business",
+      "summary_cs": [
+        "Český investor Marek Kříž navrhuje přeměnu areálu Třineckých železáren na datové centrum pro trénink AI.",
+        "Lokalita disponuje masivním elektrickým příkonem a infrastrukturou, která je pro datacentra klíčová.",
+        "Tento krok by mohl transformovat tradiční těžký průmysl na moderní technologické centrum regionu."
+      ],
+      "why_matters": "Představuje inovativní cestu, jak využít českou průmyslovou historii pro AI infrastrukturu.",
+      "url": "https://cc.cz/necekany-pohled-na-umirajici-ocelarnu-v-cesku-ma-neco-extra-cenneho-a-muze-z-ni-byt-obri-datacentrum/",
+      "source": "CzechCrunch"
+    }
+  ]
+}
