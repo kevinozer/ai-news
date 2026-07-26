@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T04:01:04.909242+00:00",
+  "generated_at": "2026-07-26T06:48:45.492385+00:00",
   "date": "2026-07-26",
   "article_count_unique": 102,
   "article_count_raw": 102,
@@ -163,17 +163,29 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
-      "raw_count": 6
+      "count": 2,
+      "raw_count": 5
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "74db012aec207c24",
+      "title": "Práce se mění. Odpočívali jsme u řešení otázek, ale to už dělá AI a my musíme víc přemýšlet, říká Zahradník",
+      "url": "https://cc.cz/prace-se-meni-odpocivali-jsme-u-reseni-otazek-ale-to-uz-dela-ai-a-my-musime-vic-premyslet-rika-zahradnik/",
+      "published_at": "2026-07-26T05:05:18+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Ve společnosti Qminers sázejí na AI už dlouho a vydělávají náramné peníze. Přesto její zakladatel přiznává, že mu rychlost vývoje bere dech. Článek Práce se mění. Odpočívali jsme u řešení otázek, ale to už dělá AI a my musíme víc přemýšlet, říká Zahradník se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/petr-zahradnik5-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "bd4be5097d2ab806",
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
@@ -797,18 +809,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "1f19ddae6fcb8053",
-      "title": "Lukačovičův ruský kamarád si půjčuje na AI datacentra, český Beat Saber stále vydělává, konkurent Kiwi roste v Praze",
-      "url": "https://www.lupa.cz/clanky/lukacovicuv-rusky-kamarad-si-pujcuje-na-ai-datacentra-cesky-beat-saber-stale-vydelava-konkurent-kiwi-roste-v-praze/",
-      "published_at": "2026-07-24T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Velmi schopný čínský AI model Kimi-K3. Nové modely Gemini. Microsoft investuje do Mistralu. Pokrok Číny ve výrobě čipů. Zprávy z IT, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/96/nvidia-jetson.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "08010d508d127854",
