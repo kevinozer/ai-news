@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T04:01:09.987387+00:00",
+  "generated_at": "2026-07-27T07:49:51.366522+00:00",
   "date": "2026-07-27",
-  "article_count_unique": 85,
-  "article_count_raw": 85,
+  "article_count_unique": 87,
+  "article_count_raw": 87,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -164,16 +164,40 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 1,
-      "raw_count": 5
+      "raw_count": 6
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 4,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "42fe31fefe4e46b6",
+      "title": "Bylo nám jasné, že nepřežijeme, přiznává přední český startup. Teď vše sází na umělou inteligenci",
+      "url": "https://cc.cz/bylo-nam-jasne-ze-neprezijeme-priznava-predni-cesky-startup-ted-vse-sazi-na-umelou-inteligenci/",
+      "published_at": "2026-07-27T04:18:19+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Spoluzakladatel miliardového Productboardu Daniel Hejl mluví otevřeně o svém sabatiklu, návratu do firmy a nastolené AI transformaci. Článek Bylo nám jasné, že nepřežijeme, přiznává přední český startup. Teď vše sází na umělou inteligenci se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/productboard-dainel-hejl-1-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "de88880aae430b90",
+      "title": "AI vstoupila do světa knih a na Slovensku rozpoutala bouři. Kauza otevírá debatu, která čeká celý knižní svět",
+      "url": "https://cc.cz/ai-vstoupila-do-sveta-knih-a-na-slovensku-rozpoutala-bouri-kauza-otevira-debatu-ktera-ceka-cely-knizni-svet/",
+      "published_at": "2026-07-27T04:17:25+00:00",
+      "author": "David Zlomek",
+      "summary_raw": "Vlnu nevole nezastavilo ani odmítnutí milionu od státu. Knihkupectví Martinus tak zavedlo novinku, která určuje hranice pro autorskou tvorbu. Článek AI vstoupila do světa knih a na Slovensku rozpoutala bouři. Kauza otevírá debatu, která čeká celý knižní svět se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/siskaci-mvp-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "615ea51219254c4e",
       "title": "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
