@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-28T04:01:14.217781+00:00",
+  "generated_at": "2026-07-28T06:40:14.168100+00:00",
   "date": "2026-07-28",
-  "article_count_unique": 126,
-  "article_count_raw": 126,
+  "article_count_unique": 129,
+  "article_count_raw": 129,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 14,
-      "raw_count": 14
+      "count": 15,
+      "raw_count": 15
     },
     {
       "source_id": "verge_ai",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "venturebeat_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,7 +164,7 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 0,
-      "raw_count": 9
+      "raw_count": 10
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,54 @@
     }
   ],
   "articles": [
+    {
+      "id": "46e659fa05a4e91f",
+      "title": "[AINews] Much ado about Open Weights",
+      "url": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
+      "published_at": "2026-07-28T06:20:13+00:00",
+      "author": "Latent.Space",
+      "summary_raw": "Everyone is writing a lot, but only Kimi K3 shipped today",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!90od!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOR8_rBbEAAhTr6.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "acb52fb8d48bb39d",
+      "title": "Hugging Face Has a Deepfake Nudes Problem",
+      "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+      "published_at": "2026-07-28T05:30:00+00:00",
+      "author": "Matt Burgess",
+      "summary_raw": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+      "hero_image": "https://media.wired.com/photos/6a67cfabae27b42b1eabd681/master/pass/Security_HuggingFaceHasaDeepfakeNudesProblem_v1.gif",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "00b0c578465c876e",
+      "title": "Po prodeji firmy nechal peníze v korporátu, protože jich díky AI vydělá víc. Dokážu se naklonovat, říká",
+      "url": "https://cc.cz/po-prodeji-firmy-nechal-penize-v-korporatu-protoze-jich-diky-ai-vydela-vic-dokazu-se-naklonovat-rika/",
+      "published_at": "2026-07-28T04:34:16+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Dvacátník Jiří Diblík odmítl štědrou nabídku v americkém korporátu a opět buduje vlastní projekty, v nichž místo na lidi spoléhá na AI agenty. Článek Po prodeji firmy nechal peníze v korporátu, protože jich díky AI vydělá víc. Dokážu se naklonovat, říká se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/jiri-diblik-1-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "8f9478a186fd2e57",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "published_at": "2026-07-28T04:30:00+00:00",
+      "author": "Jagmeet Singh",
+      "summary_raw": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
     {
       "id": "dc85f7e0c6a958e6",
       "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
@@ -955,13 +1003,13 @@
       "category": "news"
     },
     {
-      "id": "75abcbe56710fc4a",
-      "title": "Bez počítače a internetu před 40 lety předpověděl nebezpečí umělé inteligence. Bude z toho seriál od Applu",
+      "id": "a5b0aa50b25ea1f8",
+      "title": "Nebezpečí AI předpověděl bez počítače a internetu už před 40 lety. Z jeho kultovního díla bude seriál od Applu",
       "url": "https://cc.cz/pred-40-lety-predpovedel-soucasnost-ai-pomoci-psaciho-stroje-ted-vznika-z-kultovniho-dila-serial-od-applu/",
       "published_at": "2026-07-27T12:36:06+00:00",
       "author": "Michal Mančař",
-      "summary_raw": "Kyberpunková bible Neuromancer od Williama Gibsona se konečně dočká vysokorozpočtového zpracování. Od Apple TV, což je místo sci-fi zaslíbené. Článek Bez počítače a internetu před 40 lety předpověděl nebezpečí umělé inteligence. Bude z toho seriál od Applu se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/neuromancer-apple-tv-15-815x369.jpg",
+      "summary_raw": "Kyberpunková bible Neuromancer od Williama Gibsona se konečně dočká vysokorozpočtového zpracování. Od Apple TV, což je místo sci-fi zaslíbené. Článek Nebezpečí AI předpověděl bez počítače a internetu už před 40 lety. Z jeho kultovního díla bude seriál od Applu se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/neuromancer-armitage-apple-815x509.jpg",
       "source_id": "czechcrunch",
       "source_name": "CzechCrunch",
       "category": "cz"
@@ -1082,18 +1130,6 @@
       "author": "Peter Brejčák",
       "summary_raw": "Spoluzakladatel miliardového Productboardu Daniel Hejl mluví otevřeně o svém sabatiklu, návratu do firmy a nastolené AI transformaci. Článek Bylo nám jasné, že nepřežijeme, přiznává přední český startup. Teď vše sází na umělou inteligenci se nejdříve objevil na CzechCrunch .",
       "hero_image": "https://cc.cz/wp-content/uploads/2026/07/productboard-dainel-hejl-1-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "de88880aae430b90",
-      "title": "AI vstoupila do světa knih a na Slovensku rozpoutala bouři. Kauza otevírá debatu, která čeká celý knižní svět",
-      "url": "https://cc.cz/ai-vstoupila-do-sveta-knih-a-na-slovensku-rozpoutala-bouri-kauza-otevira-debatu-ktera-ceka-cely-knizni-svet/",
-      "published_at": "2026-07-27T04:17:25+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Vlnu nevole nezastavilo ani odmítnutí milionu od státu. Knihkupectví Martinus tak zavedlo novinku, která určuje hranice pro autorskou tvorbu. Článek AI vstoupila do světa knih a na Slovensku rozpoutala bouři. Kauza otevírá debatu, která čeká celý knižní svět se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/siskaci-mvp-815x509.jpg",
       "source_id": "czechcrunch",
       "source_name": "CzechCrunch",
       "category": "cz"
