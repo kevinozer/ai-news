@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-28",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Microsoft a Nvidia spouštějí otevřenou alianci pro bezpečnost AI bez účasti OpenAI a Google",
+      "title_orig": "Nvidia, Microsoft launch open AI security alliance - without OpenAI, Google, or Anthropic",
+      "category": "news",
+      "summary_cs": [
+        "Nvidia se spojila s Microsoftem, SpaceX a dalšími lídry s cílem vytvořit Open Secure AI Alliance.",
+        "Nová iniciativa se zaměřuje na vývoj a sdílení open-source nástrojů pro obranu před útoky z frontier modelů.",
+        "Zajímavostí je absence klíčových hráčů jako OpenAI, Google nebo Anthropic, což naznačuje rozdělení sil v oblasti bezpečnosti."
+      ],
+      "why_matters": "Ukazuje, jak se technologičtí obři snaží standardizovat bezpečnost AI bez přímé účasti tvůrců největších modelů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Moonshot AI uvolňuje plné váhy modelu Kimi K3 s netradiční licencí",
+      "title_orig": "Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know",
+      "category": "open-source",
+      "summary_cs": [
+        "Čínský startup Moonshot AI vydal kompletní váhy svého dosud nejvýkonnějšího modelu Kimi K3 s 2,8 biliony parametrů.",
+        "Model vyvolal vlnu zájmu díky schopnosti konkurovat nejlepším americkým systémům za zlomek nákladů.",
+        "Podniky by si však měly dát pozor na specifickou upravenou licenci, která obsahuje netradiční omezení."
+      ],
+      "why_matters": "Zpřístupnění takto obřího modelu zdarma mění dynamiku trhu, ale licenční podmínky vyžadují opatrnost.",
+      "url": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Soukromé konverzace a artefakty z Claude unikly do vyhledávačů Google a Bing",
+      "title_orig": "Private Claude Chats Exposed in Google and Bing Search Results",
+      "category": "news",
+      "summary_cs": [
+        "Sdílené konverzace a projekty Artifacts z chatbota Claude byly indexovány vyhledávači a staly se veřejně přístupnými.",
+        "Chyba vznikla kvůli způsobu, jakým Anthropic generuje sdílené odkazy, které roboti vyhledávačů dokázali projít.",
+        "Incident podtrhuje rizika spojená s ukládáním citlivých firemních dat do cloudových AI asistentů."
+      ],
+      "why_matters": "Varovný prst pro české firmy, které v Claude sdílejí interní kódy nebo citlivá data.",
+      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Microsoft představuje vlastní model pro kybernetickou bezpečnost a agentní platformu",
+      "title_orig": "Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs",
+      "category": "tools",
+      "summary_cs": [
+        "Microsoft představil svůj první specializovaný model pro kybernetickou bezpečnost a komplexní platformu pro agentní obranu.",
+        "Cílem je radikálně snížit náklady firem na bezpečnostní operace pomocí autonomních agentů.",
+        "Strategie Microsoftu sází na to, že budoucnost patří levnějším a specializovaným modelům spíše než těm největším."
+      ],
+      "why_matters": "Přináší reálné úspory a vyšší efektivitu pro firemní IT oddělení čelící kybernetickým hrozbám.",
+      "url": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Dario Amodei z Anthropicu se nebrání otevřeným modelům, ale varuje před Čínou",
+      "title_orig": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "category": "news",
+      "summary_cs": [
+        "Šéf Anthropicu Dario Amodei vyjasnil svůj postoj k open-weight modelům a rostoucí síle čínské AI.",
+        "Uvedl, že nebrojí proti otevřenému softwaru, ale má obavy z geopolitických dopadů a zneužití technologií.",
+        "Reaguje tak na debaty o regulaci, které se rozhořely po úspěších čínských modelů v uplynulých týdnech."
+      ],
+      "why_matters": "Názory lídrů jako Amodei přímo formují budoucí globální regulace, které ovlivní i český trh.",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Safe Superintelligence Ily Sutskevera se spojuje s Nvidií pro škálování výzkumu",
+      "title_orig": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "category": "business",
+      "summary_cs": [
+        "Nový startup Safe Superintelligence, který založil spoluzakladatel OpenAI Ilya Sutskever, oznámil partnerství s Nvidií.",
+        "Dlouhodobá spolupráce má firmě poskytnout potřebný výpočetní výkon pro další fázi výzkumu bezpečné superinteligence.",
+        "Partnerství potvrzuje dominantní roli Nvidie jako klíčového infrastrukturního partnera pro nejnadějnější AI projekty."
+      ],
+      "why_matters": "Sutskeverův projekt je jedním ze sledovaných adeptů na průlom v oblasti bezpečné obecné umělé inteligence.",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Satya Nadella varuje firmy před závislostí na jediném AI modelu",
+      "title_orig": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "category": "business",
+      "summary_cs": [
+        "Generální ředitel Microsoftu Satya Nadella prohlásil, že firmy spoléhající na jediný AI model pro všechny úkoly riskují přežití.",
+        "Doporučuje budovat vlastní AI brány a infrastrukturu, která oddělí firemní prompty od samotných modelů.",
+        "Tento přístup umožňuje flexibilně střídat poskytovatele a optimalizovat náklady i bezpečnost."
+      ],
+      "why_matters": "Důležité strategické doporučení pro české manažery plánující dlouhodobou AI strategii.",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Nové ransomware útoky cílí přímo na váhy AI modelů",
+      "title_orig": "New ransomware targets AI model weights and can't even collect the ransom",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní experti objevili nový typ ransomwaru, který se zaměřuje na ničení natrénovaných AI modelů.",
+        "Útočníci zneužili nezabezpečené servery Langflow a místo šifrování data rovnou mazali, což znemožňuje zaplacení výkupného.",
+        "Tento trend ukazuje, že duševní vlastnictví v podobě vah modelů se stává primárním terčem hackerů."
+      ],
+      "why_matters": "Upozorňuje na nutnost chránit nejen klientská data, ale i samotnou AI infrastrukturu a modely.",
+      "url": "https://venturebeat.com/security/new-ransomware-targets-ai-model-weights-and-cant-even-collect-the-ransom",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Výzkum OpenAI ukazuje, jak AI mění a rozšiřuje náplň práce",
+      "title_orig": "How AI is expanding what people do at work",
+      "category": "labs",
+      "summary_cs": [
+        "Nová studie od OpenAI analyzuje, jak uživatelé ChatGPT přebírají úkoly mimo své tradiční role.",
+        "AI pomáhá zaměstnancům překonávat bariéry v odbornosti a umožňuje jim věnovat se kreativnější činnosti.",
+        "Výzkum naznačuje, že spíše než k propouštění vede AI k redefinici pracovních pozic a vyšší flexibilitě."
+      ],
+      "why_matters": "Poskytuje optimistický pohled na transformaci trhu práce, který mohou české firmy využít při onboardingu AI.",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Semalith v1.4 překonává Llama Guard v detekci prompt injection při zlomku velikosti",
+      "title_orig": "Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44x Fewer Parameters than Llama-Guard-3-8B",
+      "category": "research",
+      "summary_cs": [
+        "Byl představen model Semalith v1.4, bezpečnostní klasifikátor se 184 miliony parametrů určený pro finanční a agentní systémy.",
+        "I přes svou malou velikost překonává v detekci škodlivých promptů mnohem větší model Llama Guard 3 8B.",
+        "Díky nízkým nárokům na výpočetní výkon umožňuje levné nasazení přímo v produkčních pipeline."
+      ],
+      "why_matters": "Umožňuje českým vývojářům efektivně a levně zabezpečit své aplikace proti zneužití.",
+      "url": "https://arxiv.org/abs/2607.22545",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 11,
+      "title_cs": "ChatGPT začíná blokovat přímé žádosti o kopírování stylu konkrétních autorů",
+      "title_orig": "ChatGPT starts blocking direct requests to copy an author's style",
+      "category": "news",
+      "summary_cs": [
+        "Uživatelé ChatGPT si všimli, že systém odmítá přímé příkazy k napodobení stylu psaní žijících autorů.",
+        "Místo toho nabízí popsat obecné kvality daného stylu, což má zřejmě předejít právním sporům o autorská práva.",
+        "Tento krok ukazuje na rostoucí snahu technologických firem o právní čistotu generovaného obsahu."
+      ],
+      "why_matters": "Mění způsob, jakým mohou marketéři a tvůrci obsahu využívat AI pro napodobování známých stylů.",
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Productboard sází vše na umělou inteligenci, spoluzakladatel popisuje transformaci",
+      "title_orig": null,
+      "category": "wildcard",
+      "summary_cs": [
+        "Spoluzakladatel úspěšného českého startupu Productboard Daniel Hejl otevřeně promluvil o nutnosti radikální transformace.",
+        "Firma si uvědomila, že bez plné integrace AI do svých procesů a produktů by na trhu nepřežila.",
+        "Hejl popisuje svůj návrat ze sabatiklu a novou strategii, která staví umělou inteligenci do samotného centra dění."
+      ],
+      "why_matters": "Inspirativní příběh předního českého startupu ukazuje, že AI transformace je nutností pro každého.",
+      "url": "https://cc.cz/bylo-nam-jasne-ze-neprezijeme-priznava-predni-cesky-startup-ted-vse-sazi-na-umelou-inteligenci/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Google AI Overviews se stává výchozím způsobem vyhledávání",
+      "title_orig": "Google’s AI search is rapidly becoming the default, new data shows",
+      "category": "news",
+      "summary_cs": [
+        "Nová data ukazují, že AI přehledy od Googlu se nyní zobrazují u 43 % všech vyhledávacích dotazů.",
+        "Tento rychlý nástup mění způsob, jakým lidé konzumují informace na internetu, a obchází tradiční weby.",
+        "Pro vydavatele a majitele webů to představuje zásadní výzvu pro udržení organické návštěvnosti."
+      ],
+      "why_matters": "Zásadní zpráva pro české specialisty na SEO a marketing, kteří musí přizpůsobit své strategie.",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Bezpečnostní testování pro kódovací agenty v softwarovém vývoji",
+      "title_orig": "Execution-Grounded Security Testing for Coding Agents in Software Engineering Pipelines",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili framework pro bezpečné spouštění a testování autonomních kódovacích agentů.",
+        "Protože tito agenti mohou modifikovat systémové soubory a spouštět skripty, představují vážné bezpečnostní riziko.",
+        "Navržená metodika izoluje agenty v bezpečném prostředí a monitoruje jejich chování v reálném čase."
+      ],
+      "why_matters": "Klíčový výzkum pro firmy, které chtějí bezpečně nasadit AI agenty do svých vývojových procesů.",
+      "url": "https://arxiv.org/abs/2607.22569",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "AI vstoupila do slovenských knih a vyvolala bouřlivou debatu o autorství",
+      "title_orig": null,
+      "category": "wildcard",
+      "summary_cs": [
+        "Na Slovensku se rozhořel ostrý spor poté, co byla AI využita při tvorbě a ilustraci knih.",
+        "Knihkupectví Martinus reagovalo zavedením nových pravidel a označení, která jasně definují podíl lidské práce.",
+        "Tato kauza předznamenává diskuse o etice a autorských právech, které brzy zasáhnou celý knižní trh."
+      ],
+      "why_matters": "Téma se bezprostředně dotýká českého kulturního prostředí a budoucího vnímání autorských děl.",
+      "url": "https://cc.cz/ai-vstoupila-do-sveta-knih-a-na-slovensku-rozpoutala-bouri-kauza-otevira-debatu-ktera-ceka-cely-knizni-svet/",
+      "source": "CzechCrunch"
+    }
+  ]
+}
