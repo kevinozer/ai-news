@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-30T04:01:17.671052+00:00",
+  "generated_at": "2026-07-30T06:41:09.711215+00:00",
   "date": "2026-07-30",
-  "article_count_unique": 149,
-  "article_count_raw": 149,
+  "article_count_unique": 145,
+  "article_count_raw": 145,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 19,
-      "raw_count": 19
+      "count": 18,
+      "raw_count": 18
     },
     {
       "source_id": "verge_ai",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "venturebeat_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,7 +164,7 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 4,
-      "raw_count": 13
+      "raw_count": 12
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "7a1aa471329c08ed",
+      "title": "Byl to větší průšvih, než OpenAI přiznala. Její zdivočelý model nezaútočil jen na jednu službu",
+      "url": "https://cc.cz/vetsi-prusvih-nez-openai-priznala-jeji-zdivocely-model-nezautocil-jen-na-jednu-sluzbu/",
+      "published_at": "2026-07-30T04:28:28+00:00",
+      "author": "Michaela Prešinská",
+      "summary_raw": "Neúnavný, rychlý a zároveň chaotický. Zdivočelý agent OpenAI, který se tři dny pohyboval v síti Hugging Face, napadl i další služby. Článek Byl to větší průšvih, než OpenAI přiznala. Její zdivočelý model nezaútočil jen na jednu službu se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/openai-hugging-face-x-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "409c96939abf8932",
       "title": "Do Models Fake Alignment Without Clear Consequences?",
@@ -727,8 +739,8 @@
       "category": "news"
     },
     {
-      "id": "f6275aa0d45e18d4",
-      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "id": "6fe637571600d559",
+      "title": "The Hugging Face break-in explained",
       "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
       "published_at": "2026-07-29T19:44:49+00:00",
       "author": "Connie Loizos",
@@ -1531,18 +1543,6 @@
       "category": "labs"
     },
     {
-      "id": "155a61dbde94f3c8",
-      "title": "Kdo stojí za tím, že se USA bojí v závodě o umělou inteligenci? Čínský génius, který miluje rock a odmítl Apple",
-      "url": "https://cc.cz/kdo-stoji-za-tim-ze-se-usa-boji-v-zavode-o-umelou-inteligenci-cinsky-genius-ktery-miluje-rock-a-odmitl-apple/",
-      "published_at": "2026-07-28T14:21:24+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Místo prestižních pozic v USA zvolil nejistotu vlastního byznysu v Číně. Dnes jeho model dohnal špičku a míří k hodnotě bilionu korun. Článek Kdo stojí za tím, že se USA bojí v závodě o umělou inteligenci? Čínský génius, který miluje rock a odmítl Apple se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/kimi-mvp-xyz-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "bcbd698e3a95f698",
       "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
       "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
@@ -1663,30 +1663,6 @@
       "category": "commentary"
     },
     {
-      "id": "acb52fb8d48bb39d",
-      "title": "Hugging Face Has a Deepfake Nudes Problem",
-      "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
-      "published_at": "2026-07-28T05:30:00+00:00",
-      "author": "Matt Burgess",
-      "summary_raw": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
-      "hero_image": "https://media.wired.com/photos/6a67cfabae27b42b1eabd681/master/pass/Security_HuggingFaceHasaDeepfakeNudesProblem_v1.gif",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "8f9478a186fd2e57",
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "published_at": "2026-07-28T04:30:00+00:00",
-      "author": "Jagmeet Singh",
-      "summary_raw": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "ffdf4cdd1c59c59f",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
@@ -1769,30 +1745,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "60f996b70d7dae7c",
-      "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
-      "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
-      "published_at": "2026-07-23T05:18:47+00:00",
-      "author": "",
-      "summary_raw": "a quiet day lets us highlight a new neolab win.",
-      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/9_0hs2sxHHo",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "730de598203488d8",
-      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
-      "url": "https://www.latent.space/p/poolside",
-      "published_at": "2026-07-23T05:09:14+00:00",
-      "author": "",
-      "summary_raw": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!RGsJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15a65699-ea93-4572-addd-3c46060cb6b8_1200x822.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "a7695d4cf39db9d0",
