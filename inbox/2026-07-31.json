@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T04:01:56.884493+00:00",
+  "generated_at": "2026-07-31T07:13:40.383550+00:00",
   "date": "2026-07-31",
-  "article_count_unique": 156,
-  "article_count_raw": 156,
+  "article_count_unique": 157,
+  "article_count_raw": 157,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -169,11 +169,59 @@
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "ad0e53c6fc7626d0",
+      "title": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
+      "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
+      "published_at": "2026-07-31T04:40:54+00:00",
+      "author": "",
+      "summary_raw": "Distillation is all you need!",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!gT87!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOfg3rSWsAACTkR.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "09286f614b909932",
+      "title": "ČR má dalšího dodavatele čipovým gigantům, Cendrova CDN77 vyrostla na pět miliard, Windows mají špehovací kód",
+      "url": "https://www.lupa.cz/clanky/cr-ma-dalsiho-dodavatele-cipovym-gigantum-cendrova-cdn77-vyrostla-na-pet-miliard-windows-maji-spehovaci-kod/",
+      "published_at": "2026-07-31T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Čína má vlastní stroje na výrobu čipů. Evropský správce hesel je z Ruska. AI vytvořila 3D akční hru. Zprávy z IT, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/65/lisa-su-amd.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "56a3ef4f1295f6c0",
+      "title": "Xixoio o sobě zase dalo vědět. A vypadá to, že Richard Watzke si oblíbil umělou inteligenci",
+      "url": "https://cc.cz/xixoio-o-sobe-zase-dalo-vedet-a-vypada-to-ze-richard-watzke-si-oblibil-umelou-inteligenci/",
+      "published_at": "2026-07-31T04:18:40+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Společnost v hromadném mailu oznámila nový projekt Xixobox. Policie mezitím pokračuje ve vyšetřování, tisíce lidí měly přijít o více než 400 milionů. Článek Xixoio o sobě zase dalo vědět. A vypadá to, že Richard Watzke si oblíbil umělou inteligenci se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/watzkerich-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "27fe810b6291331d",
+      "title": "Utrácejte si za AI, kolik chcete, ale musíte na ní vydělat. Technologičtí obři čelí tlaku na návratnost",
+      "url": "https://cc.cz/utracejte-si-za-ai-kolik-chcete-ale-musite-na-ni-vydelat-technologicti-obri-celi-tlaku-na-navratnost/",
+      "published_at": "2026-07-31T04:18:15+00:00",
+      "author": "Václav Kinský",
+      "summary_raw": "Wall Street už u AI investic nesleduje jen růst, ale také jejich dopad na tržby, zákazníky a volný cash flow. Projevilo se to hned třikrát. Článek Utrácejte si za AI, kolik chcete, ale musíte na ní vydělat. Technologičtí obři čelí tlaku na návratnost se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/mmrecap-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "d2f242b1e5aaad9f",
       "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
@@ -1207,18 +1255,6 @@
       "category": "news"
     },
     {
-      "id": "7a1aa471329c08ed",
-      "title": "Byl to větší průšvih, než OpenAI přiznala. Její zdivočelý model nezaútočil jen na jednu službu",
-      "url": "https://cc.cz/vetsi-prusvih-nez-openai-priznala-jeji-zdivocely-model-nezautocil-jen-na-jednu-sluzbu/",
-      "published_at": "2026-07-30T04:28:28+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Neúnavný, rychlý a zároveň chaotický. Zdivočelý agent OpenAI, který se tři dny pohyboval v síti Hugging Face, napadl i další služby. Článek Byl to větší průšvih, než OpenAI přiznala. Její zdivočelý model nezaútočil jen na jednu službu se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/openai-hugging-face-x-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "4c095c56f085c0c7",
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
       "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
@@ -1699,18 +1735,6 @@
       "category": "news"
     },
     {
-      "id": "f5c1fd276c5af097",
-      "title": "Strach, prestiž, FOMO. Firmy v Česku investují do AI, i když někdy nevědí proč",
-      "url": "https://www.lupa.cz/clanky/strach-prestiz-fomo-firmy-v-cesku-investuji-do-ai-i-kdyz-nekdy-nevedi-proc/",
-      "published_at": "2026-07-29T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Umělá inteligence se skloňuje ve firmách mnoha oborů, od výroby po software. Investice do ní ale nemusejí být vždy tak úplně promyšlené, ukazují zkušenosti v Česku.",
-      "hero_image": "https://i.iinfo.cz/images/689/technologie-a-ai-v-tovarnach.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "01b23dbef34e63ad",
       "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
       "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
@@ -1862,18 +1886,6 @@
       "author": "",
       "summary_raw": "ain't nobody beats Anthropic at distilling Fable!",
       "hero_image": "https://substackcdn.com/image/fetch/$s_!FqD_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOBjK6cbIAA2Yph.jpg",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "34403017050ec545",
-      "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
-      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
-      "published_at": "2026-07-24T04:30:12+00:00",
-      "author": "",
-      "summary_raw": "A HUGE win for BFL!",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!3n0x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2080308957898481664.jpg",
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
