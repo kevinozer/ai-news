@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-01",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Cenová válka AI začíná: OpenAI zlevňuje model GPT-5.6 Luna o 80 procent",
+      "title_orig": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI prudce snižuje ceny u svých nejnovějších modelů řady GPT-5.6.",
+        "Nejrychlejší model Luna zlevňuje o masivních 80 procent, zatímco střední třída Terra dostává 20procentní slevu.",
+        "Krok ukazuje, že konkurenční boj se přesouvá od pouhého zvyšování výkonu k drastickému snižování provozních nákladů."
+      ],
+      "why_matters": "Výrazné zlevnění pokročilých modelů dramaticky snižuje náklady na provoz firemních AI aplikací.",
+      "url": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Česká národní banka zakládá nový odbor pro AI a hlásí první propouštění",
+      "title_orig": null,
+      "category": "business",
+      "summary_cs": [
+        "Česká národní banka zřizuje specializovaný odbor pro umělou inteligenci v rámci sekce informatiky.",
+        "Novou sekci povede Janis Aliapulios, který dosud koordinoval inovační hub ČNB Lab.",
+        "Nasazování velkých jazykových modelů v bance již vedlo k prvnímu propouštění nadbytečných zaměstnanců."
+      ],
+      "why_matters": "Český regulátor ukazuje, že AI transformace státní správy a finančního sektoru již reálně mění pracovní trh.",
+      "url": "https://www.lupa.cz/aktuality/cnb-zalozila-sekci-pro-ai-vlivem-nasazovani-umele-inteligence-uz-se-take-propoustelo/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 3,
+      "title_cs": "DeepSeek uvádí model V4-Flash s vylepšenými schopnostmi pro agenty",
+      "title_orig": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "category": "open-source",
+      "summary_cs": [
+        "Čínský DeepSeek vydal nový model V4-Flash o velikosti 304 miliard parametrů.",
+        "Model je navržen s důrazem na pokročilé agentní schopnosti a autonomní řešení úkolů.",
+        "Podle nezávislých testů překonává i výrazně větší proprietární modely při zachování velmi nízké ceny za tokeny."
+      ],
+      "why_matters": "Další vysoce výkonný open-source model, který tlačí na efektivitu a snižování závislosti na amerických gigantech.",
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Kolaps fondu zázračného dítěte AI: Aschenbrennerovi chybí miliardy kvůli sázce na dluh",
+      "title_orig": "Kolaps zázračného dítěte AI. Jeho fondu chybí miliardy dolarů, do kolen ho poslala sázka na dluh",
+      "category": "business",
+      "summary_cs": [
+        "Bývalý výzkumník OpenAI Leopold Aschenbrenner čelí obřímu finančnímu kolapsu svého fondu Situational Awareness.",
+        "Fond doplatil na agresivní sázku na pákový efekt a dluhové financování, které se otočilo proti němu.",
+        "Aschenbrenner byl nucen prodat své veřejné portfolio, stále si však drží cenné podíly v Anthropicu."
+      ],
+      "why_matters": "Ukázka toho, jak obří spekulativní bublina kolem AI může tvrdě zasáhnout i ty nejznámější insider analytiky.",
+      "url": "https://cc.cz/vidim-dal-nez-jini-vydelam-stovky-procent-slibil-investorum-ai-genius-ted-shani-penize-ma-dluhy/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Google po vlně kritiky stáhl AI nástroj pro úpravu satelitních snímků v Google Earth",
+      "title_orig": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "category": "news",
+      "summary_cs": [
+        "Google pouhý den po spuštění zrušil novou funkci v Google Earth, která umožňovala generovat falešné satelitní snímky.",
+        "Uživatelé mohli pomocí textových zadání snadno vytvářet realistické deepfakes, například simulovat uprchlické tábory nebo krátery po bombách.",
+        "Firma reagovala na okamžitou kritiku odborníků, kteří varovali před masivním zneužitím pro šíření dezinformací."
+      ],
+      "why_matters": "Incident ukazuje, jak tenká je hranice mezi užitečným kreativním nástrojem a nebezpečnou zbraní pro informační válku.",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Vědci odhalili fundamentální chybu, kvůli které nelze LLM modely plně zabezpečit",
+      "title_orig": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci na prestižní konferenci ICML prezentovali studii dokazující inherentní zranitelnost velkých jazykových modelů.",
+        "Kvůli samotné matematické architektuře a způsobu zpracování pravděpodobnosti nelze LLM stoprocentně ochránit před jailbreaky.",
+        "Zjištění má zásadní dopady na bezpečnost autonomních agentů, kteří pracují s citlivými daty."
+      ],
+      "why_matters": "České firmy nasazující AI agenty musí počítat s tím, že stoprocentní softwarové zabezpečení LLM neexistuje.",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Okta kupuje bezpečnostní startup Permiso za 200 milionů dolarů",
+      "title_orig": "Okta buys AI security startup Permiso – source says for about $200M",
+      "category": "business",
+      "summary_cs": [
+        "Identitní gigant Okta kupuje startup Permiso zaměřený na detekci hrozeb v cloudových prostředích.",
+        "Akvizice reaguje na rostoucí potřebu zabezpečit netradiční identity, jako jsou autonomní AI agenti.",
+        "Hodnota transakce se podle zdrojů blízkých vyjednávání pohybuje kolem 200 milionů dolarů."
+      ],
+      "why_matters": "Zabezpečení identit AI agentů se stává klíčovým tématem pro firemní IT bezpečnost.",
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Hudební vydavatelství navrhují pravidla pro zákaz AI skladeb v hitparádách",
+      "title_orig": "The major labels propose rules to keep AI slop off the charts",
+      "category": "wildcard",
+      "summary_cs": [
+        "Největší světová hudební vydavatelství včetně Universal, Sony a Warner Music navrhují přísná pravidla pro hudební žebříčky.",
+        "Podle návrhu by písně generované čistě pomocí umělé inteligence neměly nárok na umístění v oficiálních hitparádách.",
+        "Iniciativa jde dál než dosavadní snahy o pouhé označování AI obsahu a snaží se chránit lidské umělce."
+      ],
+      "why_matters": "Tradiční kreativní průmysl staví legislativní a procedurální bariéry proti záplavě syntetického obsahu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Snapchat přestává finančně odměňovat obsah kompletně vytvořený AI",
+      "title_orig": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "category": "news",
+      "summary_cs": [
+        "Sociální síť Snapchat upravila své algoritmy pro doporučování videí v sekci Spotlight.",
+        "Obsah, který je kompletně vygenerován umělou inteligencí, již nebude mít nárok na finanční bonusy.",
+        "Cílem platformy je bojovat proti takzvanému AI balastu a podporovat autentické lidské tvůrce."
+      ],
+      "why_matters": "Další velká platforma aktivně omezuje monetizaci syntetického obsahu, což mění strategii pro tvůrce obsahu.",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Groundcover získal 100 milionů dolarů na telemetrii a dohled nad AI agenty",
+      "title_orig": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Groundcover získal v investičním kole vedeném One Peak 100 milionů dolarů.",
+        "Firma se zaměřuje na dohled a pozorovatelnost AI agentů přímo v podnikovém cloudu bez úniku dat.",
+        "Celkové financování startupu tímto kolem dosáhlo 160 milionů dolarů."
+      ],
+      "why_matters": "S masivním nasazováním agentů roste poptávka po nástrojích, které monitorují jejich chování a náklady.",
+      "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "DataFlow-Harness pomáhá AI agentům stavět složité datové potrubí",
+      "title_orig": "Structured AI data pipelines score 10.9 points below free-form code - DataFlow-Harness closes the gap",
+      "category": "research",
+      "summary_cs": [
+        "Zatímco AI programátoři excelují v psaní jednoduchých skriptů, při tvorbě komplexních datových pipeline často selhávají.",
+        "Nový framework DataFlow-Harness pomáhá překlenout tuto mezeru a zlepšuje spolehlivost agentů při zpracování nestrukturovaných dat.",
+        "Testy ukazují výrazné zlepšení úspěšnosti při integraci složitých podnikových datových toků."
+      ],
+      "why_matters": "Nástroj usnadňuje vývojářům nasazení spolehlivých AI agentů pro zpracování velkých firemních databází.",
+      "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Čínští vědci objevují kouzlo sítě X a začínají otevřeně komunikovat se světem",
+      "title_orig": "Chinese AI Researchers Are Finding Their Voice on X",
+      "category": "wildcard",
+      "summary_cs": [
+        "Zatímco západní výzkumníci z OpenAI či Anthropicu jsou online stále opatrnější, čínští experti míří na platformu X.",
+        "Vědci z předních čínských laboratoří zde aktivně prezentují své vědecké práce a diskutují o inovacích.",
+        "Tento trend jim pomáhá budovat globální reputaci a efektivně rekrutovat mezinárodní talenty."
+      ],
+      "why_matters": "Otevřenější komunikace čínské scény usnadňuje sledování tamního rychlého pokroku v oblasti AI.",
+      "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Smallest.ai získal 13 milionů dolarů na extrémně rychlý a lidsky znějící hlas",
+      "title_orig": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Smallest.ai zajišťuje financování na vývoj nové generace hlasových modelů.",
+        "Technologie se zaměřuje na minimalizaci latence a dosažení maximální přirozenosti lidské řeči.",
+        "Cílem je vytvořit hlasové asistenty, kteří dokážou bez problému projít Turingovým testem při telefonním hovoru."
+      ],
+      "why_matters": "Rychlá a přirozená hlasová AI brzy promění zákaznickou podporu a telefonické služby v Česku.",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Kontroverzní AI přívěsek Friend se vrací s reproduktorem a dvojnásobnou cenou",
+      "title_orig": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "category": "wildcard",
+      "summary_cs": [
+        "Tvůrce hardwarového AI společníka Friend představil novou verzi svého nositelného zařízení.",
+        "Přívěsek nově obsahuje integrovaný reproduktor, takže na uživatele dokáže přímo mluvit.",
+        "Zařízení přichází na trh s výrazně vyšší cenovkou, což opět vyvolává debaty o smysluplnosti dedikovaného AI hardwaru."
+      ],
+      "why_matters": "Ukazuje vývoj na trhu nositelné elektroniky a hledání ideálního fyzického rozhraní pro AI.",
+      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Simon Willison spoluvytvořil smevals, jednoduchý nástroj pro testování modelů",
+      "title_orig": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "category": "tools",
+      "summary_cs": [
+        "Známý vývojář Simon Willison představil open-source framework smevals pro rychlé hodnocení modelů a promptů.",
+        "Nástroj vznikl ve spolupráci s výzkumnou laboratoří Prime Radiant s cílem zjednodušit testování v praxi.",
+        "Umožňuje snadno porovnávat úspěšnost různých LLM na specifických úkolech bez nutnosti složité infrastruktury."
+      ],
+      "why_matters": "Užitečný bezplatný nástroj pro české vývojáře, kteří potřebují efektivně měřit kvalitu svých promptů.",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
