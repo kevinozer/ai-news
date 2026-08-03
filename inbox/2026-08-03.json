@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T04:01:35.465749+00:00",
+  "generated_at": "2026-08-03T07:45:35.764653+00:00",
   "date": "2026-08-03",
   "article_count_unique": 107,
   "article_count_raw": 107,
@@ -163,17 +163,29 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 1,
-      "raw_count": 3
+      "count": 2,
+      "raw_count": 4
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "b6552306a8a47bba",
+      "title": "Většinu aplikace už si zákazníci díky AI vytvoří sami. Zakázková tvorba softwaru přišla o obchodní model, říká česká firma",
+      "url": "https://www.lupa.cz/clanky/vetsinu-aplikace-uz-si-zakaznici-diky-ai-vytvori-sami-zakazkova-tvorba-softwaru-prisla-o-obchodni-model-rika-ceska-firma/",
+      "published_at": "2026-08-03T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Mladá ostravská firma Blaze vyvíjí čistě pomocí promptů a vibe codingu. Její zákazníci si asi 80 procent aplikace vytvoří sami a Blazu zaplatí za zbytek. Další ukázka toho, jak AI mění dlouho zavedené pořádky.",
+      "hero_image": "https://i.iinfo.cz/images/365/jan-netolicka-blaze.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "f37f07a2c6b729ca",
       "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
@@ -821,18 +833,6 @@
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
       "category": "news"
-    },
-    {
-      "id": "7072ec9011ecf73b",
-      "title": "Závod o AI nabírá nečekaný směr. V Číně zveřejňují své modely, konkurence je vylepšuje a Amerika váhá",
-      "url": "https://cc.cz/zavod-o-ai-nabira-necekany-smer-v-cine-zverejnuji-sve-modely-konkurence-je-vylepsuje-a-amerika-vaha/",
-      "published_at": "2026-08-01T11:01:53+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Americké korporace své supermozky tají, Čína je dává všem. Zpřístupnění parametrů umělé inteligence teď rozpoutává novou ideologickou debatu. Článek Závod o AI nabírá nečekaný směr. V Číně zveřejňují své modely, konkurence je vylepšuje a Amerika váhá se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/07/america-x-china-mvp-xyz-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "aa16ba0b99efba8a",
