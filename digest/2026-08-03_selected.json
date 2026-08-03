@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-03",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Většinu aplikace už si zákazníci díky AI vytvoří sami, zakázkový vývoj softwaru ztrácí smysl",
+      "title_orig": "Většinu aplikace už si zákazníci díky AI vytvoří sami. Zakázková tvorba softwaru přišla o obchodní model, říká česká firma",
+      "category": "business",
+      "summary_cs": [
+        "Ostravská softwarová společnost Blaze mění svůj přístup k vývoji a staví aplikace téměř výhradně pomocí promptování a takzvaného vibe codingu.",
+        "Klienti jsou dnes schopni si sami připravit až 80 procent požadovaného softwaru a agenturu platí pouze za finální integraci a nejsložitější úpravy.",
+        "Tento posun zásadně ohrožuje tradiční byznys model softwarových domů, které si účtují hodiny za programování od nuly."
+      ],
+      "why_matters": "Ukazuje reálný dopad AI na český IT trh a transformaci tradičního zakázkového vývoje softwaru.",
+      "url": "https://www.lupa.cz/clanky/vetsinu-aplikace-uz-si-zakaznici-diky-ai-vytvori-sami-zakazkova-tvorba-softwaru-prisla-o-obchodni-model-rika-ceska-firma/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Čeští zakladatelé EquiLibre chtějí s novým AI projektem dobýt Wall Street",
+      "title_orig": "Jejich první AI vyhrávala v pokeru a koupil ji Google. Teď chtějí Češi porazit giganty z Wall Street",
+      "category": "news",
+      "summary_cs": [
+        "Spoluzakladatel úspěšného startupu EquiLibre Martin Schmid popisuje v podcastu novou ambiciózní kapitolu českého AI projektu.",
+        "Tým, jehož předchozí systém porážel profesionály v pokeru a byl akvírován Googlem, se nyní zaměřuje na algoritmické obchodování.",
+        "Hodnota firmy rychle roste a projekt se snaží konkurovat největším světovým hráčům na finančních trzích."
+      ],
+      "why_matters": "Inspirativní úspěch českých vědců, kteří po akvizici Googlem staví další globální AI projekt.",
+      "url": "https://cc.cz/jejich-prvni-ai-vyhravala-v-pokeru-a-koupil-ji-google-ted-chteji-cesi-porazit-giganty-z-wall-street/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Sam Altman a přední AI laboratoře vyzývají k řízenému tempu vývoje",
+      "title_orig": "Sam Altman and AI’s decel debate",
+      "category": "news",
+      "summary_cs": [
+        "Šéf OpenAI Sam Altman překvapivě vyzval technologický průmysl k mírnému zpomalení a regulaci tempa vývoje umělé inteligence.",
+        "Tento krok přichází v době, kdy se debata o bezpečnosti a možných rizicích překotného vývoje stává hlavním tématem oboru.",
+        "Kritici spekulují, zda jde o upřímnou snahu o bezpečnost, nebo o strategický krok k upevnění pozice lídrů na trhu."
+      ],
+      "why_matters": "Změna rétoriky klíčového hráče může předznamenat přísnější globální regulaci a zpomalení technologických inovací.",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Evropané brzy pocítí dopady přísných pravidel pro označování AI obsahu",
+      "title_orig": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "category": "news",
+      "summary_cs": [
+        "Nová pravidla Evropské unie vyžadují, aby byli uživatelé jasně informováni o každé interakci s AI nebo o zobrazení generovaného obsahu.",
+        "Odborníci varují před vznikem takzvané únavy z varování, kdy lidé začnou upozornění kvůli jejich nadměrnému množství ignorovat.",
+        "Nařízení ukáže, jak hluboce je již umělá inteligence integrována do každodenních digitálních služeb v Evropě."
+      ],
+      "why_matters": "Nová legislativa se přímo dotkne každého českého uživatele internetu a změní design digitálních služeb.",
+      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Američané plní kurzy, které je učí, jak vypnout všudypřítomnou AI",
+      "title_orig": "Nestojí o to, přesto mají umělou inteligenci všude. Američané plní kurzy, kde se ji učí vypínat",
+      "category": "news",
+      "summary_cs": [
+        "Mnoho uživatelů pociťuje frustraci z toho, že jim technologické firmy vnucují AI funkce do telefonů a pracovních nástrojů bez jejich souhlasu.",
+        "V USA prudce roste zájem o specializované kurzy a návody, které lidem pomáhají tyto integrované asistenty deaktivovat.",
+        "Tento trend ukazuje rostoucí odpor části veřejnosti vůči překotné a nevynucené integraci generativních nástrojů."
+      ],
+      "why_matters": "Upozorňuje na důležitý trend odporu uživatelů vůči agresivnímu nasazování AI do běžného softwaru.",
+      "url": "https://cc.cz/nestoji-o-to-presto-maji-umelou-inteligenci-vsude-americane-plni-kurzy-kde-se-ji-uci-vypinat/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenAI snižuje ceny modelů GPT-5.6 Luna a Terra díky rekurzivní optimalizaci",
+      "title_orig": "Advancing the price-performance frontier with GPT-5.6",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI oznámila výrazné zlevnění provozu svých nejnovějších modelů řady GPT-5.6, což usnadní jejich nasazení v podnicích.",
+        "Snížení nákladů je výsledkem pokročilé destilace a rekurzivní samooptimalizace, které zefektivnily běh modelů.",
+        "Tento krok dále vyostřuje cenovou válku mezi hlavními poskytovateli komerčních API."
+      ],
+      "why_matters": "Výrazné zlevnění špičkových modelů přímo snižuje náklady českým firmám stavícím na API od OpenAI.",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Proč jsou nečinné grafické karty pro firmy novou noční můrou",
+      "title_orig": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "category": "labs",
+      "summary_cs": [
+        "Hugging Face přirovnává nevyužité grafické procesory v datových centrech k uzemněným letadlům, která generují obrovské ztráty.",
+        "Efektivní správa a orchestrace výpočetního výkonu se stává klíčovou disciplínou pro přežití technologických firem.",
+        "Správné plánování zátěže při trénování a inferenci může firmám ušetřit miliony dolarů ročně."
+      ],
+      "why_matters": "Pomáhá českým technologickým manažerům pochopit ekonomiku provozu a optimalizaci drahého AI hardwaru.",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Návrat ontologií: Proč agentní AI křísí myšlenku sémantického webu",
+      "title_orig": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
+      "category": "news",
+      "summary_cs": [
+        "Vývojáři autonomních agentů znovu objevují význam formálních ontologií a strukturovaných znalostních bází.",
+        "Pevně definovaná pravidla sémantického webu pomáhají udržet pravděpodobnostní chování LLM v bezpečných a předvídatelných mezích.",
+        "Tento přístup kombinuje flexibilitu neuronových sítí s přesností deterministických datových struktur."
+      ],
+      "why_matters": "Ukazuje cestu k budování spolehlivějších a bezpečnějších podnikových AI agentů bez halucinací.",
+      "url": "https://www.latent.space/p/ontologies-agentic-systems",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Audit platnosti bezpečnostních benchmarků pro autonomní agenty",
+      "title_orig": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks",
+      "category": "research",
+      "summary_cs": [
+        "Nová vědecká studie podrobila kritickému auditu čtyři populární benchmarky určené k měření bezpečnosti AI agentů.",
+        "Výzkumníci zjistili, že tyto testy často zaměňují obecné schopnosti modelu za jeho skutečnou bezpečnost a odolnost vůči zneužití.",
+        "Výsledky ukazují, že současné metodiky hodnocení rizik u autonomních systémů jsou stále velmi nespolehlivé."
+      ],
+      "why_matters": "Varuje před slepou důvěrou v deklarovanou bezpečnost komerčních autonomních systémů.",
+      "url": "https://arxiv.org/abs/2607.28685",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Proč může pronájem AI hardwaru v budoucnu extrémně podražit",
+      "title_orig": "Why compute might get 10x+ more expensive in coming years",
+      "category": "news",
+      "summary_cs": [
+        "Analýza Dwarkeshe Patela naznačuje, že cena za pronájem špičkového hardwaru může v příštích letech vzrůst až desetinásobně.",
+        "Pokud AI agent dosáhne úrovně lidského programátora, jeho ekonomická hodnota dramaticky převýší současné ceny pronájmu GPU.",
+        "Tento nepoměr povede k obrovskému tlaku na růst cen výpočetního výkonu ze strany enterprise zákazníků."
+      ],
+      "why_matters": "Upozorňuje na možné budoucí zdražení výpočetního výkonu, což ovlivní rozpočty všech technologických projektů.",
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+      "source": "Dwarkesh Patel"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Jak anti-memorizační testy mění měření vědeckých objevů u AI",
+      "title_orig": "Library Reachability in LSR-Synth: How Anti-Memorization Design Changes the Measurement of Symbolic Discovery",
+      "category": "research",
+      "summary_cs": [
+        "Většina stávajících benchmarků pro objevování fyzikálních rovnic obsahuje známé vzorce, které mají modely v trénovacích datech.",
+        "Nový framework LSR-Synth přináší metodologii, která ověřuje, zda AI skutečně objevuje fyzikální zákony z dat, nebo je jen tupě pamatuje.",
+        "Tento přístup je klíčový pro objektivní hodnocení přínosu umělé inteligence v reálném vědeckém výzkumu."
+      ],
+      "why_matters": "Pomáhá rozlišit skutečnou vědeckou kreativitu strojů od pouhého opakování naučených textů.",
+      "url": "https://arxiv.org/abs/2607.28684",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "LARA: Úsporné adaptéry v reziduálním proudu pro snadné ladění modelů",
+      "title_orig": "LARA: Lightweight Adapters in the Residual Stream for Composable Adaptation and Alignment",
+      "category": "research",
+      "summary_cs": [
+        "Představená metoda LARA nabízí efektivní alternativu k populární metodě LoRA pro jemné ladění velkých jazykových modelů.",
+        "Místo úpravy samotných vah modelu pracuje LARA přímo v reziduálním proudu skrytých stavů zmrazeného modelu.",
+        "Tento přístup výrazně snižuje paměťovou náročnost a umožňuje snadné skládání různých adaptérů za běhu."
+      ],
+      "why_matters": "Přináší vývojářům možnost efektivněji a levněji přizpůsobovat open-source modely pro specifické úkoly.",
+      "url": "https://arxiv.org/abs/2607.28669",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Youtuber Hank Green se omluvil za svou nezdravou závislost na AI",
+      "title_orig": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "category": "news",
+      "summary_cs": [
+        "Známý popularizátor vědy Hank Green zveřejnil osobní omluvu týkající se jeho nadměrného používání velkých jazykových modelů.",
+        "Uvedl, že neustálý přísun dopaminu z okamžitých odpovědí LLM začal negativně ovlivňovat jeho soustředění a kreativitu.",
+        "Jeho vyjádření otevírá širší diskusi o psychologických dopadech dlouhodobé interakce s konverzační umělou inteligencí."
+      ],
+      "why_matters": "Otevírá důležité téma duševního zdraví a závislosti na interaktivních AI technologiích v běžném životě.",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Topologie sítě jako klíč k rychlému přenosu KV cache při distribuované inferenci",
+      "title_orig": "Topology-Aware Data Movement for Disaggregated GPU Inference",
+      "category": "research",
+      "summary_cs": [
+        "Při rozdělení fází prefill a decode na samostatné GPU pooly vzniká kritické úzké hrdlo při přenosu obrovského množství dat KV cache.",
+        "Navržené řešení bere v úvahu fyzickou topologii sítě v datovém centru a optimalizuje cesty pro přenos dat mezi servery.",
+        "Tato optimalizace umožňuje dosáhnout propustnosti přesahující 100 GB/s, což je nezbytné pro plynulý běh velkých modelů."
+      ],
+      "why_matters": "Technické řešení, které přímo ovlivňuje rychlost odezvy a škálovatelnost velkých cloudových AI aplikací.",
+      "url": "https://arxiv.org/abs/2607.28633",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Vydání knihovny condense-json 1.0 pro efektivnější práci s kontextem",
+      "title_orig": "condense-json 1.0",
+      "category": "tools",
+      "summary_cs": [
+        "Známý vývojář Simon Willison vydal stabilní verzi 1.0 své minimalistické knihovny condense-json.",
+        "Nástroj slouží k ořezání a kompresi JSON struktur před jejich odesláním do kontextového okna jazykových modelů.",
+        "Pomáhá tak vývojářům šetřit tokeny a snižovat náklady na API při zachování klíčových informací v datech."
+      ],
+      "why_matters": "Užitečný a prověřený mikro-nástroj pro české vývojáře, který pomáhá optimalizovat spotřebu tokenů.",
+      "url": "https://simonwillison.net/2026/Aug/2/condense-json/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
