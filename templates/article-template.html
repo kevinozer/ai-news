@@ -9,10 +9,12 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="{{TITLE}}">
 <meta property="og:description" content="{{EXCERPT}}">
-<meta property="og:image" content="hero.webp">
+<meta property="og:image" content="https://aicruz.cz/articles/{{SLUG}}/hero.webp">
 <meta property="og:locale" content="cs_CZ">
 <meta property="article:published_time" content="{{DATE_ISO}}">
 <meta property="article:section" content="{{CATEGORY_LABEL}}">
+<meta property="og:url" content="https://aicruz.cz/articles/{{SLUG}}/">
+<link rel="canonical" href="https://aicruz.cz/articles/{{SLUG}}/">
 <link rel="icon" href="../../cruz-favicon.png" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -124,6 +126,24 @@ footer{background:var(--bg-alt);border-top:1px solid var(--line);padding:clamp(4
  .foot-bottom{flex-direction:column;align-items:flex-start}
 }
 </style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "{{TITLE}}",
+  "description": "{{LEAD}}",
+  "mainEntityOfPage": {"@type": "WebPage", "@id": "https://aicruz.cz/articles/{{SLUG}}/"},
+  "image": ["https://aicruz.cz/articles/{{SLUG}}/hero.webp"],
+  "datePublished": "{{DATE_ISO}}",
+  "dateModified": "{{DATE_ISO}}",
+  "inLanguage": "cs-CZ",
+  "articleSection": "{{CATEGORY_LABEL}}",
+  "isBasedOn": "{{SOURCE_URL}}",
+  "author": {"@type": "Organization", "name": "CRUZ", "url": "https://aicruz.cz/"},
+  "publisher": {"@type": "Organization", "name": "CRUZ",
+                "logo": {"@type": "ImageObject", "url": "https://aicruz.cz/cruz-emblem-black-sm.png"}}
+}
+</script>
 </head>
 <body>
 
