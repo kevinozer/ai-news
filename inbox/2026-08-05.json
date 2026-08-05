@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T04:01:16.702651+00:00",
+  "generated_at": "2026-08-05T06:41:25.651663+00:00",
   "date": "2026-08-05",
-  "article_count_unique": 154,
-  "article_count_raw": 154,
+  "article_count_unique": 153,
+  "article_count_raw": 153,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "latent_space",
@@ -163,17 +163,29 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "raw_count": 12
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "b72fdf3389c1e1c0",
+      "title": "Muskův internet Starlink má dvanáct milionů předplatitelů. Ti dotují rakety i jeho sázku na AI",
+      "url": "https://cc.cz/muskuv-internet-starlink-ma-dvanact-milionu-predplatitelu-ti-dotuji-rakety-i-jeho-sazku-na-ai/",
+      "published_at": "2026-08-05T04:10:20+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "První výsledky po rekordním IPO společnosti SpaceX: tržby stouply o 92 procent, ale v ziskovosti firma pokulhává, táhne ji Starlink. Článek Muskův internet Starlink má dvanáct milionů předplatitelů. Ti dotují rakety i jeho sázku na AI se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/spacex-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "8f169c0083f62db2",
       "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
@@ -1577,30 +1589,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "41fba8d8d36d427a",
-      "title": "condense-json 1.1",
-      "url": "https://simonwillison.net/2026/Aug/3/condense-json/",
-      "published_at": "2026-08-03T04:56:26+00:00",
-      "author": "",
-      "summary_raw": "Release: condense-json 1.1 After shipping condense-json 1.0 I started integrating it into LLM, and found there were some desirable new features already: Replacements object can now include values other than strings. These will be identified and used as structural replacements by condense_json() and uncondense_json() . #8 Objects can be used as the basis for merge operations. condense_json() will identify if there are objects that are a close match and will store instructions for keys to update or delete. uncondense_json() can then apply these merges. I also added some round-trip tests using the Hypothesis property-based Python testing library. Tags: json",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "b6552306a8a47bba",
-      "title": "Většinu aplikace už si zákazníci díky AI vytvoří sami. Zakázková tvorba softwaru přišla o obchodní model, říká česká firma",
-      "url": "https://www.lupa.cz/clanky/vetsinu-aplikace-uz-si-zakaznici-diky-ai-vytvori-sami-zakazkova-tvorba-softwaru-prisla-o-obchodni-model-rika-ceska-firma/",
-      "published_at": "2026-08-03T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Mladá ostravská firma Blaze vyvíjí čistě pomocí promptů a vibe codingu. Její zákazníci si asi 80 procent aplikace vytvoří sami a Blazu zaplatí za zbytek. Další ukázka toho, jak AI mění dlouho zavedené pořádky.",
-      "hero_image": "https://i.iinfo.cz/images/365/jan-netolicka-blaze.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "e65cd872f7f9aea9",
