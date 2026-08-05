@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-05",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Boj o tajemství začíná, Apple obviňuje OpenAI z krádeže obchodního tajemství",
+      "title_orig": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Apple v novém soudním podání rozšířila své vyšetřování a tvrdí, že další bývalí zaměstnanci mohli předat citlivá data tvůrcům ChatGPT.",
+        "OpenAI reaguje prohlášením, že žaloba ze strany Applu je agresivní a neobvykle osobní, přičemž jakékoli vědomé převzetí tajemství odmítá.",
+        "Právní bitva mezi dvěma technologickými giganty eskaluje v době, kdy se obě firmy přetahují o klíčové talenty v oblasti umělé inteligence."
+      ],
+      "why_matters": "Ukazuje rostoucí napětí a právní rizika při přetahování AI mozků mezi největšími technologickými hráči světa.",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Nová éra podnikání, v Česku rychle přibývá firem bez zaměstnanců řízených AI agenty",
+      "title_orig": "Nová éra podnikání: Jeden člověk, desítky AI agentů a milionové tržby. Firem bez zaměstnanců rychle přibývá",
+      "category": "business",
+      "summary_cs": [
+        "Virtuální týmy složené z desítek specializovaných AI agentů začínají v českých firmách nahrazovat celá tradiční oddělení.",
+        "Jediný lidský zakladatel dokáže s pomocí automatizace obsluhovat kódování, marketing i zákaznickou podporu a generovat milionové obraty.",
+        "Tento trend zásadně mění pohled na škálování byznysu a odbourává dřívější bariéry vstupu na trh pro začínající podnikatele."
+      ],
+      "why_matters": "Tento trend přímo ovlivňuje českou startupovou scénu a ukazuje reálnou cestu k extrémně efektivnímu podnikání.",
+      "url": "https://cc.cz/nova-era-podnikani-jeden-clovek-desitky-ai-agentu-a-milionove-trzby-firem-bez-zamestnancu-rychle-pribyva/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic uzavírá obří partnerství za 10 miliard dolarů s cloudovým startupem Volta",
+      "title_orig": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "category": "business",
+      "summary_cs": [
+        "Tvůrce modelů Claude, společnost Anthropic, pokračuje v masivní expanzi své infrastruktury a podepisuje obří kontrakt s novým hráčem Volta.",
+        "Cílem této desetimiliardové dohody je zajistit dostatek výpočetního výkonu pro trénování nadcházejících generací modelů.",
+        "Tento krok ukazuje, že hlad po specializovaném AI hardwaru neustupuje a vyžaduje partnerství mimo tradiční trojici hyperscalerů."
+      ],
+      "why_matters": "Zajištění masivního výpočetního výkonu přímo ovlivní rychlost vývoje a dostupnost budoucích modelů řady Claude.",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Nvidia a partneři zakládají alianci pro obranu proti autonomním AI agentům",
+      "title_orig": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "category": "tools",
+      "summary_cs": [
+        "Teprve týden stará aliance Open Secure AI Alliance vedená Nvidií se již rozrostla na více než 120 zapojených technologických firem.",
+        "Skupina představila první konkrétní návrhy a standardy zaměřené na obranu systémů před zneužitím ze strany autonomních AI agentů.",
+        "Rychlost reakce ukazuje, jak vážně průmysl bere bezpečnostní rizika spojená s nekontrolovaným chováním pokročilých modelů."
+      ],
+      "why_matters": "Rychlý vznik bezpečnostních standardů pomůže českým firmám bezpečněji nasazovat autonomní agenty do ostrého provozu.",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Simon Willison vydává přelomovou verzi nástroje LLM 0.32 s podporou pro myšlenkové mapy",
+      "title_orig": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+      "category": "tools",
+      "summary_cs": [
+        "Populární open-source utilita LLM získává v nové verzi 0.32 dosud nejvýznamnější aktualizaci od svého spuštění.",
+        "Nástroj nově plně podporuje zobrazení vnitřních myšlenkových pochodů modelů a integraci serverových nástrojů třetích stran.",
+        "Aktualizace přináší také přepracované ukládání lokálních logů do SQLite a plnou kompatibilitu s novým rozhraním OpenAI Responses."
+      ],
+      "why_matters": "Tento oblíbený vývojářský nástroj výrazně usnadňuje ladění a integraci pokročilých uvažujících modelů do lokálních aplikací.",
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "AI agenti začínají provádět kybernetické útoky autonomně v reálném čase",
+      "title_orig": "Umělá inteligence už útočníkům nepomáhá jen s přípravou útoků, sama je provádí, ukazuje nový report",
+      "category": "news",
+      "summary_cs": [
+        "Nový bezpečnostní report varuje, že role umělé inteligence v kyberkriminalitě se posunula od pouhé asistence k plně autonomnímu vedení útoků.",
+        "Útočné AI systémy dokážou samostatně vyhledávat zranitelnosti a okamžitě na ně reagovat s minimální potřebou lidského zásahu.",
+        "Pro obránce se kvůli tomu dramaticky zkracuje čas na opravu kritických chyb ze dnů na pouhé jednotky hodin."
+      ],
+      "why_matters": "České firmy musí zásadně zrychlit své bezpečnostní procesy, protože útoky vedené AI neposkytují čas na váhání.",
+      "url": "https://www.lupa.cz/aktuality/umela-inteligence-uz-utocnikum-nepomaha-jen-s-pripravou-utoku-sama-je-provadi-ukazuje-novy-report/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Texas zastavuje připojování nových datových center k síti kvůli extrémnímu hladu po elektřině",
+      "title_orig": "Texas halts data center connections to power grid amid overwhelming demand",
+      "category": "news",
+      "summary_cs": [
+        "Texaský guvernér nařídil okamžitý audit všech nových projektů datových center předtím, než jim bude povoleno připojení k energetické síti.",
+        "Stát, který se dříve prezentoval jako hlavní centrum pro rozvoj AI, naráží na fyzické limity své přenosové soustavy.",
+        "Tento krok může výrazně zpomalit budování infrastruktury pro trénování a provoz největších modelů umělé inteligence."
+      ],
+      "why_matters": "Ukazuje, že fyzické limity energetických sítí se stávají hlavní brzdou globálního rozvoje umělé inteligence.",
+      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 8,
+      "title_cs": "AI kódovací agenti drasticky zatěžují rozpočty, firmy hledají cesty k úsporám",
+      "title_orig": "AI coding agents are blowing through budgets - Replit, Kilo Code, and Symbotic explain how they're managing it",
+      "category": "business",
+      "summary_cs": [
+        "Masivní nasazení autonomních vývojářů vede k nečekaně vysokým nákladům na API volání, které začínají ohrožovat firemní rozpočty.",
+        "Přední technologické společnosti jako Replit nebo Kilo Code sdílejí své strategie, jak efektivně řídit spotřebu tokenů.",
+        "Ukazuje se, že klíčem k úspěchu je přechod na multi-modelové architektury a přísnější kontrola nad tím, kdy je agent spuštěn."
+      ],
+      "why_matters": "Pomáhá českým technologickým manažerům předcházet finančnímu vystřízlivění při nasazování AI do vývoje.",
+      "url": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Bílý dům tají podrobnosti o svém novém rámci pro kybernetickou bezpečnost AI",
+      "title_orig": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "category": "news",
+      "summary_cs": [
+        "Americká administrativa představila klíčovým laboratořím jako OpenAI a Anthropic nový plán na ochranu národní AI infrastruktury.",
+        "Detaily této strategie však zůstávají pro veřejnost i mezinárodní partnery utajené, což vyvolává řadu otázek.",
+        "Tento přístup podtrhuje, že umělá inteligence je vládami vnímána jako kritická technologie s nejvyšším stupněm utajení."
+      ],
+      "why_matters": "Naznačuje, jakým směrem se bude ubírat globální regulace a zabezpečení klíčových AI modelů.",
+      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Otevřené modely rychle dohánějí absolutní špičku, bezpečnostní záplaty však chybí",
+      "title_orig": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "category": "open-source",
+      "summary_cs": [
+        "Nová zpráva organizace SaferAI ukazuje, že nejnovější otevřené modely se výkonem téměř vyrovnají uzavřeným komerčním systémům.",
+        "Zároveň však tyto modely postrádají pokročilé bezpečnostní filtry a mechanismy proti zneužití, které mají jejich komerční protějšky.",
+        "Tento stav vyvolává obavy regulátorů, že nebezpečné schopnosti AI se mohou snadno dostat do rukou komukoli bez jakékoli kontroly."
+      ],
+      "why_matters": "Upozorňuje na rizika spojená s integrací volně dostupných modelů do firemních procesů bez vlastního zabezpečení.",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Únik informací z hudební aplikace naznačuje, že letní hit mohl být kompletně vytvořen AI",
+      "title_orig": "Did an AI Music App Just Snitch on the Song of the Summer?",
+      "category": "wildcard",
+      "summary_cs": [
+        "Mezi fanoušky hip-hopu se rozhořela debata o tom, zda je populární skladba Rubberz od Fenix Flexin vytvořena umělou inteligencí.",
+        "Indicie z jedné z populárních hudebních AI platforem naznačují, že struktura a vokály skladby mohou pocházet z generátoru.",
+        "Tento případ ukazuje, jak hluboko již generativní hudba pronikla do mainstreamové kultury, aniž by to posluchači vůbec poznali."
+      ],
+      "why_matters": "Ukazuje, jak generativní AI stírá hranice v kreativním průmyslu a mění definici autorství v hudbě.",
+      "url": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Jak uniknout homogenitě velkých modelů pomocí ukotvení person a škálování teploty",
+      "title_orig": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+      "category": "research",
+      "summary_cs": [
+        "Vědci popsali efekt kolektivního vědomí u velkých jazykových modelů, který způsobuje, že různé modely konvergují ke stejným odpovědím.",
+        "Tento výzkum představuje metodu Meta-Persona Anchoring, která pomáhá modelům udržet si unikátní úhel pohledu a kreativitu.",
+        "Díky sekvenčnímu řízení teploty generování lze dosáhnout výrazně pestřejších a méně předvídatelných výsledků při řešení otevřených úloh."
+      ],
+      "why_matters": "Pomáhá vývojářům překonat stereotypní odpovědi modelů a získat z nich skutečně kreativní a různorodé výstupy.",
+      "url": "https://arxiv.org/abs/2608.02618",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Vysvětlitelné AI pro evropské právo na vysvětlení, kde selhává překlad mezi legislativou a technologií",
+      "title_orig": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
+      "category": "research",
+      "summary_cs": [
+        "Evropská legislativa dává občanům právo na vysvětlení u rozhodnutí učiněných algoritmy, technická realizace však naráží na limity.",
+        "Systematická studie odhaluje hlubokou propast mezi právními požadavky na srozumitelnost a tím, co současné metody vysvětlitelné AI dokážou.",
+        "Většina technických řešení generuje výstupy, které jsou pro běžného člověka i právníky stále příliš komplikované a nepoužitelné."
+      ],
+      "why_matters": "Klíčové téma pro české firmy, které musí splnit přísné požadavky evropského Aktu o AI v oblasti transparentnosti.",
+      "url": "https://arxiv.org/abs/2608.02699",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Nová metoda BAP-SQL optimalizuje rozpočet a kontext při dotazování databází pomocí AI",
+      "title_orig": "BAP-SQL: Budget-Aware Observation Planning for Agentic Text-to-SQL",
+      "category": "research",
+      "summary_cs": [
+        "Při převodu textu na SQL dotazy mohou agenti snadno vyčerpat kontextové okno nebo provádět zbytečně drahé databázové operace.",
+        "Představený rámec BAP-SQL přináší inteligentní plánování pozorování, které bere v úvahu finanční a výpočetní rozpočet.",
+        "Metoda dokáže efektivně filtrovat a komprimovat data ještě předtím, než jsou odeslána modelu, což výrazně snižuje náklady."
+      ],
+      "why_matters": "Umožňuje stavět výrazně levnější a rychlejší podnikové systémy pro analýzu dat pomocí přirozeného jazyka.",
+      "url": "https://arxiv.org/abs/2608.02876",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Výrobci automobilů vylepšují software, Corvette Grand Sport X ukazuje sílu kódu nad hardwarem",
+      "title_orig": "2027 Chevrolet Corvette Grand Sport X proves code is as important as hardware",
+      "category": "wildcard",
+      "summary_cs": [
+        "Nový hybridní model Corvette s výkonem 721 koní ukazuje, že softwarové řízení je pro moderní sportovní vozy stejně důležité jako motor.",
+        "Pokročilé algoritmy v reálném čase optimalizují distribuci výkonu mezi spalovacím motorem a elektrickým pohonem.",
+        "Tento přístup ukazuje, jak se automobilový průmysl transformuje směrem k softwarově definovaným vozidlům s vysokou mírou inteligence."
+      ],
+      "why_matters": "Ilustruje, jak hluboko softwarová optimalizace a chytré algoritmy pronikají do tradičního strojírenského průmyslu.",
+      "url": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
+      "source": "Ars Technica"
+    }
+  ]
+}
