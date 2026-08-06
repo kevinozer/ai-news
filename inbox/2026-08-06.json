@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T04:01:13.521528+00:00",
+  "generated_at": "2026-08-06T06:45:10.406469+00:00",
   "date": "2026-08-06",
   "article_count_unique": 155,
   "article_count_raw": 155,
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,16 +164,28 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 1,
-      "raw_count": 13
+      "raw_count": 12
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "6088724e3b3f80fb",
+      "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+      "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+      "published_at": "2026-08-06T04:34:11+00:00",
+      "author": "Latent.Space",
+      "summary_raw": "The end of an era.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!1S7v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57c9d273-aa50-4bc7-a7c4-caaf9b4952c2_1540x1624.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
     {
       "id": "a2cc73851bfa4f53",
       "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
@@ -1217,18 +1229,6 @@
       "source_id": "venturebeat_ai",
       "source_name": "VentureBeat AI",
       "category": "news"
-    },
-    {
-      "id": "b72fdf3389c1e1c0",
-      "title": "Muskův internet Starlink má dvanáct milionů předplatitelů. Ti dotují rakety i jeho sázku na AI",
-      "url": "https://cc.cz/muskuv-internet-starlink-ma-dvanact-milionu-predplatitelu-ti-dotuji-rakety-i-jeho-sazku-na-ai/",
-      "published_at": "2026-08-05T04:10:20+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "První výsledky po rekordním IPO společnosti SpaceX: tržby stouply o 92 procent, ale v ziskovosti firma pokulhává, táhne ji Starlink. Článek Muskův internet Starlink má dvanáct milionů předplatitelů. Ti dotují rakety i jeho sázku na AI se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/06/spacex-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "bfc030f7bed29e9d",
