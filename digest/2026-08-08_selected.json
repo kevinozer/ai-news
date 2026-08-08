@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-08",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI pozastavuje vývoj modelu Astra kvůli kybernetické bezpečnosti",
+      "title_orig": "OpenAI says it slowed Astra model development over security concerns",
+      "category": "labs",
+      "summary_cs": [
+        "Vývoj připravovaného modelu Astra byl dočasně pozastaven, protože dosáhl kritického prahu pro kybernetickou bezpečnost.",
+        "Model prokázal schopnost samostatně vyhledávat a provádět útoky na reálně zabezpečené systémy.",
+        "Rozhodnutí přichází po nedávném incidentu, kdy systémy OpenAI neúmyslně napadly platformu Hugging Face."
+      ],
+      "why_matters": "Ukazuje to, že přední laboratoře začínají brát bezpečnostní rizika autonomních agentů vážně a raději zpomalují vývoj.",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Stanford spustil 37 tisíc AI agentů jako virtuální biotechnologickou firmu",
+      "title_orig": "Stanford is running 37,000 AI agents as a virtual biotech - and one of its drug designs got independently confirmed by Merck",
+      "category": "research",
+      "summary_cs": [
+        "Vědci ze Stanfordu demonstrovali masivní nasazení tisíců specializovaných AI agentů pro návrh nových léčiv.",
+        "Jeden z navržených léků byl nezávisle otestován a potvrzen farmaceutickým gigantem Merck.",
+        "Tento experiment ukazuje přechod od jednoho univerzálního asistenta k celým koordinovaným týmům agentů."
+      ],
+      "why_matters": "Dokazuje to obrovský potenciál masivních agentních systémů při řešení nejsložitějších vědeckých úkolů v praxi.",
+      "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Cloudflare uvádí Kitesurf, webový prohlížeč navržený přímo pro AI agenty",
+      "title_orig": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "category": "tools",
+      "summary_cs": [
+        "Kitesurf je cloudový prohlížeč optimalizovaný pro automatizované úkoly prováděné umělou inteligencí.",
+        "Spotřebovává výrazně méně výpočetního výkonu než běžné Chromium používané lidmi.",
+        "Vývojářům to umožní stavět efektivnější a levnější agenty pro interakci s webem."
+      ],
+      "why_matters": "Zjednodušuje a zlevňuje vývoj autonomních agentů, kteří potřebují pracovat s běžnými webovými stránkami.",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "České Radiokomunikace instalují na Moravě další servery s nejvýkonnějšími čipy Nvidia",
+      "title_orig": "Pět serverů za 70 milionů. Na Moravě se instalují další stroje s nejvýkonnějšími Nvidiemi",
+      "category": "news",
+      "summary_cs": [
+        "České Radiokomunikace investovaly 70 milionů korun do pěti nových serverů osazených špičkovými kartami Nvidia.",
+        "Technologie míří do datového centra v Lužicích u Hodonína, které má dostatečnou kapacitu pro chlazení.",
+        "Firma tak posiluje svou pozici klíčového poskytovatele infrastruktury pro AI výpočty v tuzemsku."
+      ],
+      "why_matters": "České firmy získávají lepší přístup k lokálnímu výpočetnímu výkonu pro trénování a provoz vlastních modelů.",
+      "url": "https://www.lupa.cz/aktuality/pet-serveru-za-70-milionu-na-morave-se-instaluji-dalsi-stroje-s-nejvykonnejsimi-nvidiemi/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Čtyři koordinovaní AI agenti překonali model Claude Opus 4.8 v kódování",
+      "title_orig": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+      "category": "tools",
+      "summary_cs": [
+        "Nová studie ukazuje, že rozdělení práce mezi čtyři specializované agenty přináší lepší výsledky než jeden obří model.",
+        "Systém dokázal efektivně analyzovat rozsáhlé firemní kódy bez selhání na dlouhém kontextu.",
+        "Klíčem k úspěchu byla nová architektura pro synchronizaci a sdílení úkolů v reálném čase."
+      ],
+      "why_matters": "Ukazuje cestu, jak překonat limity jednotlivých modelů pomocí chytře navržené týmové spolupráce.",
+      "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Rippling spouští nástroj pro sledování návratnosti investic do AI",
+      "title_orig": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "category": "business",
+      "summary_cs": [
+        "Po nekontrolovaném nárůstu vlastních nákladů na AI vyvinula společnost Rippling konzoli AI Spend Console.",
+        "Nástroj umožňuje firmám detailně sledovat výdaje za AI tokeny u jednotlivých zaměstnanců a týmů.",
+        "Pomáhá vyhodnocovat reálnou produktivitu a návratnost investic do licencí a API."
+      ],
+      "why_matters": "Pomáhá manažerům zkrotit rostoucí účty za AI a měřit reálný přínos těchto nástrojů.",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Anthropic bude navrhovat vlastní hardware pro provoz modelů Claude",
+      "title_orig": "Anthropic will design its own hardware to power Claude",
+      "category": "business",
+      "summary_cs": [
+        "Anthropic staví interní tým pro návrh vlastních specializovaných AI čipů.",
+        "Cílem je snížit závislost na hardwaru od společnosti Nvidia a optimalizovat provozní náklady.",
+        "Podobnou cestou vlastního křemíku se již vydaly firmy Google, Amazon i OpenAI."
+      ],
+      "why_matters": "Vlastní čipy mohou v budoucnu výrazně zlevnit a zrychlit používání modelů řady Claude.",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Tencent představil sdílenou paměť pro týmy AI agentů",
+      "title_orig": "Tencent's Team Memory shares AI agent memory across a team - with no governance yet for when it's wrong",
+      "category": "research",
+      "summary_cs": [
+        "Projekt Team Memory umožňuje skupině AI agentů sdílet společný kontext a zkušenosti.",
+        "Technologie řeší problém, kdy agenti v týmu pracovali s nekonzistentními informacemi.",
+        "Výzkumníci však varují, že zatím chybí mechanismus pro opravu, pokud se do společné paměti dostane chyba."
+      ],
+      "why_matters": "Sdílená paměť je klíčová pro nasazení AI do komplexních firemních procesů s více agenty.",
+      "url": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Suno zavádí neviditelné vodoznaky pro boj s masivním zneužíváním",
+      "title_orig": "Suno hopes to go legit with watermarks for AI-generated music",
+      "category": "tools",
+      "summary_cs": [
+        "Populární generátor hudby Suno začíná do svých skladeb integrovat neslyšitelné vodoznaky.",
+        "Opatření má pomoci identifikovat AI původ skladeb a zabránit zahlcování streamovacích platforem.",
+        "Krok přichází v době, kdy firma čelí žalobám od velkých hudebních vydavatelství."
+      ],
+      "why_matters": "Jde o důležitý krok k legalizaci a přijetí generativní hudby tradičním průmyslem.",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Vědci použili umělou inteligenci k vytvoření nových virů pro boj s bakteriemi",
+      "title_orig": "Scientists Used AI to Create 16 New Viruses",
+      "category": "research",
+      "summary_cs": [
+        "Biologové úspěšně navrhli 16 zcela nových virů pomocí generativních modelů.",
+        "Tyto syntetické viry jsou zaměřeny na hubení nebezpečných bakterií odolných vůči antibiotikům.",
+        "Úspěch ukazuje obrovský potenciál AI v medicíně, ale zároveň vyvolává obavy z rychlého předstihu před regulací."
+      ],
+      "why_matters": "AI může pomoci vyřešit globální hrozbu antibiotické rezistence, přináší však i nová biosecurity rizika.",
+      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Google Maps získávají agentní funkce pro objednávání jídla a rezervace",
+      "title_orig": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "category": "tools",
+      "summary_cs": [
+        "Google Maps se mění z pouhé navigace na aktivního asistenta s podporou AI.",
+        "Uživatelé budou moci přímo v aplikaci objednávat jídlo nebo rezervovat hotely pomocí hlasových příkazů.",
+        "Systém využívá pokročilé agenty k provádění akcí na webech třetích stran."
+      ],
+      "why_matters": "Ukazuje to, jak se běžné aplikace mění v autonomní pomocníky pro každodenní úkoly.",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Složitá politika v pozadí velkých personálních změn v Google DeepMind",
+      "title_orig": "The messy politics behind Google’s big AI shakeup",
+      "category": "business",
+      "summary_cs": [
+        "Google se snaží prezentovat reorganizaci své AI divize jako plánovaný krok k budoucímu úspěchu.",
+        "Zákulisní informace však naznačují vnitřní napětí po odchodu klíčových vědeckých kapacit.",
+        "Změny odrážejí tlak investorů na rychlejší komercializaci výsledků výzkumu."
+      ],
+      "why_matters": "Personální otřesy v největší AI laboratoři světa mohou ovlivnit tempo vývoje modelů Gemini.",
+      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Rapper Fenix Flexin přiznal, že jeho hit Rubberz vytvořila umělá inteligence",
+      "title_orig": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "category": "wildcard",
+      "summary_cs": [
+        "Americký rapper přestal popírat použití AI nástroje Treblo pro tvorbu svého populárního singlu.",
+        "Odhalení přišlo poté, co producent Medasin zveřejnil důkazy a vývojáři nástroje potvrdili shodu detektorem.",
+        "Případ vyvolává debatu o autenticitě v moderní populární hudbě."
+      ],
+      "why_matters": "Ukazuje to, jak hluboko již AI pronikla do mainstreamové hudební produkce.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Proč běžní lidé stále nepoužívají autonomní AI agenty",
+      "title_orig": "Why Normal People Aren’t Using AI Agents",
+      "category": "news",
+      "summary_cs": [
+        "Technologický průmysl naráží na bariéru při adopci AI agentů běžnou veřejností.",
+        "Hlavním problémem je složitost nastavení a nedostatek jasných scénářů pro každodenní život.",
+        "Vývojáři se musí zaměřit na to, co lidé skutečně chtějí, nikoli na to, co modely technicky dokážou."
+      ],
+      "why_matters": "Pomáhá pochopit, proč se revoluce v produktivitě zatím nekoná u běžných uživatelů.",
+      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "ByteDance trénuje masivní model s deseti biliony parametrů",
+      "title_orig": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "category": "labs",
+      "summary_cs": [
+        "Vlastník TikToku, čínská společnost ByteDance, vyvíjí obří AI model s cílem konkurovat západní špičce.",
+        "Model má dosahovat velikosti 10 bilionů parametrů, což vyžaduje extrémní výpočetní infrastrukturu.",
+        "Projekt ukazuje, že čínští technologičtí obři nadále masivně investují do základního výzkumu."
+      ],
+      "why_matters": "Potvrzuje to, že globální závod v trénování stále větších modelů zdaleka nekončí.",
+      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "source": "Ars Technica"
+    }
+  ]
+}
