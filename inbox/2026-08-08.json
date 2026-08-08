@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T04:01:13.402645+00:00",
+  "generated_at": "2026-08-08T05:10:04.673032+00:00",
   "date": "2026-08-08",
-  "article_count_unique": 112,
-  "article_count_raw": 112,
+  "article_count_unique": 114,
+  "article_count_raw": 114,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -66,9 +66,9 @@
     },
     {
       "source_id": "huggingface_blog",
-      "status": "error",
-      "error": "RuntimeError: Feed parse error: text/html is not an XML media type",
-      "count": 0
+      "status": "ok",
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "import_ai",
@@ -169,7 +169,7 @@
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "raw_count": 10
     }
   ],
@@ -353,6 +353,18 @@
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
       "category": "news"
+    },
+    {
+      "id": "aea320f0e822e5e4",
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "published_at": "2026-08-07T17:53:32+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
     },
     {
       "id": "872a87c9ffbd5cd2",
@@ -689,18 +701,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "49008ac0e2e2ddad",
-      "title": "Přišel o dvě třetiny portfolia. O týden později údajný AI génius znovu investuje stovky milionů dolarů",
-      "url": "https://cc.cz/prisel-o-dve-tretiny-portfolia-o-tyden-pozdeji-udajny-ai-genius-znovu-investuje-stovky-milionu-dolaru/",
-      "published_at": "2026-08-07T04:33:31+00:00",
-      "author": "Václav Kinský",
-      "summary_raw": "Fond Leopolda Aschenbrennera ztratil během července dvě třetiny hodnoty. O týden později už znovu posílá 400 milionů dolarů do tajemné firmy. Článek Přišel o dvě třetiny portfolia. O týden později údajný AI génius znovu investuje stovky milionů dolarů se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/money-maker-recap-mvp-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "30ddd53d6fdfe92f",
@@ -1183,6 +1183,18 @@
       "category": "labs"
     },
     {
+      "id": "a2c452daa60cfafb",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/baseten",
+      "published_at": "2026-08-06T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
       "id": "bfc030f7bed29e9d",
       "title": "[AINews] Megakernels are so dead and so back",
       "url": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
@@ -1217,6 +1229,18 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
+    },
+    {
+      "id": "0bf32843656c6610",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "published_at": "2026-08-04T13:58:29+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
     },
     {
       "id": "6896f632241eecb4",
