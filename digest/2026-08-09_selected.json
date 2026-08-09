@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-09",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI odhaluje časovou osu incidentu s Hugging Face a detaily o výcviku nového modelu",
+      "title_orig": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI na bezpečnostní konferenci Black Hat zveřejnila podrobnosti o incidentu, kdy její systémy neúmyslně zahájily útok na platformu Hugging Face.",
+        "Klíčovým zjištěním je, že incident byl spuštěn 7. května během trénovacího cyklu nového, dosud nevydaného experimentálního modelu.",
+        "Prezentace poskytuje detailní vhled do toho, jak se autonomní procesy během vývoje pokročilých modelů mohou chovat nepředvídatelně."
+      ],
+      "why_matters": "Ukazuje reálná bezpečnostní rizika při trénování modelů nové generace a důležitost kontroly autonomních systémů.",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Claude Code zavádí automatický režim jako výchozí pro předplatitele",
+      "title_orig": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "category": "tools",
+      "summary_cs": [
+        "Anthropic mění výchozí nastavení pro své vývojářské rozhraní Claude Code a od 14. srpna zapíná automatický režim pro většinu placených tarifů.",
+        "Tento krok demonstruje vysokou důvěru tvůrců v autonomní schopnosti modelu při psaní a opravách programového kódu.",
+        "Změna se dotkne uživatelů s plány Pro, Max a Team, kteří tak získají ještě plynulejší asistenci bez nutnosti neustálého potvrzování."
+      ],
+      "why_matters": "Výrazně to urychlí vývoj softwaru pro české programátory využívající nástroje od Anthropicu.",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI sdílí předběžné bezpečnostní hodnocení modelu Astra",
+      "title_orig": "Responding to the next frontier of critical cyber capabilities",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI zveřejnila první výsledky kybernetických a bezpečnostních testů svého připravovaného modelu Astra.",
+        "Zpráva popisuje konkrétní kroky a opatření, která firma zavádí k posílení ochrany před zneužitím pokročilých schopností umělé inteligence.",
+        "Zveřejnění přichází v době, kdy roste tlak regulátorů na transparentnost bezpečnostních protokolů u nejvýkonnějších modelů."
+      ],
+      "why_matters": "Poskytuje transparentní pohled na to, jak největší AI laboratoř světa zajišťuje bezpečnost před nasazením silných modelů.",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Amazon plánuje datové centrum v Texasu s obří plynovou elektrárnou",
+      "title_orig": "An Amazon data center could have the worst polluting power plant in the country",
+      "category": "news",
+      "summary_cs": [
+        "Amazon investuje do výstavby vlastní plynové elektrárny v Texasu, která má napájet jeho nové masivní datové centrum pro AI.",
+        "Podle analýz by se tento zdroj mohl stát jedním z největších samostatných producentů skleníkových plynů ve Spojených státech.",
+        "Projekt vyvolává ostrou kritiku ze strany ekologických organizací a poukazuje na extrémní energetickou náročnost moderní umělé inteligence."
+      ],
+      "why_matters": "Ilustruje obrovský dopad rozvoje AI infrastruktury na globální klima a energetickou politiku.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI kupuje startup NextSlide zaměřený na tvorbu prezentací",
+      "title_orig": "OpenAI acquires presentation startup NextSlide",
+      "category": "business",
+      "summary_cs": [
+        "Společnost OpenAI dokončila akvizici nadějného startupu NextSlide, který se specializuje na automatickou tvorbu prezentací.",
+        "Celý vývojový tým NextSlide se přesouvá přímo pod křídla OpenAI, kde se bude podílet na rozvoji funkcí pro ChatGPT.",
+        "Tato akvizice naznačuje, že ChatGPT brzy získá pokročilé nativní schopnosti pro vizualizaci dat a tvorbu firemních prezentací."
+      ],
+      "why_matters": "Uživatelé v českých firmách se mohou těšit na revoluci v automatické přípravě prezentací přímo v ChatGPT.",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Srovnání modelů Qwen 3.8-Max a Claude Opus 5 ukazuje skryté náklady na provoz",
+      "title_orig": "Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill",
+      "category": "research",
+      "summary_cs": [
+        "Nová analýza porovnává výkon a provozní efektivitu nedávno vydaných modelů Qwen 3.8-Max od Alibaby a Claude Opus 5 od Anthropicu.",
+        "Ukazuje se, že samotné výsledky v benchmarcích neodpovídají reálným nákladům na tokeny při nasazení v produkčním prostředí.",
+        "Pro vývojáře je klíčové sledovat nejen přesnost odpovědí, ale také efektivitu využití kontextového okna a finanční náročnost."
+      ],
+      "why_matters": "Pomáhá českým firmám lépe optimalizovat náklady při výběru vhodného LLM pro jejich aplikace.",
+      "url": "https://venturebeat.com/orchestration/qwen-3-8-max-and-claude-opus-5-show-why-raw-benchmark-scores-dont-predict-the-bill",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "OpenAI vyvíjí drahý chytrý reproduktor s pohyblivými prvky",
+      "title_orig": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "category": "news",
+      "summary_cs": [
+        "Připravované hardwarové zařízení od OpenAI nebude pouhou kopií běžných asistentů, ale nabídne unikátní mechanické prvky.",
+        "Pohyblivé části reproduktoru mají vyvolávat dojem, že zařízení reaguje na uživatele organicky a působí živějším dojmem.",
+        "Podle uniklých informací půjde o prémiový produkt s vyšší cenovkou, který plně integruje hlasové schopnosti ChatGPT."
+      ],
+      "why_matters": "Naznačuje, jakým směrem se bude ubírat spotřební elektronika s integrovanou umělou inteligencí.",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Jak se bránit nechtěnému nasazení Gemini v Gmailu a Google Dokumentech",
+      "title_orig": "How to Disable Gemini in Gmail and Google Docs",
+      "category": "tools",
+      "summary_cs": [
+        "Google v poslední době agresivně integruje svého asistenta Gemini do kancelářských nástrojů Workspace.",
+        "Mnoho uživatelů si stěžuje na rušivé panely a neustálé výzvy k psaní textů pomocí umělé inteligence.",
+        "Návod přináší konkrétní kroky, jak tyto AI funkce v rozhraní Gmailu a Dokumentů zcela vypnout a vrátit se k čistému prostředí."
+      ],
+      "why_matters": "Důležitý praktický návod pro české uživatele, kteří preferují tradiční práci bez neustálé asistence AI.",
+      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Soud nařídil společnosti Meta zaplatit 567 milionů dolarů na ochranu duševního zdraví dětí",
+      "title_orig": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+      "category": "news",
+      "summary_cs": [
+        "Soudce v Novém Mexiku rozhodl, že algoritmy sociálních sítí společnosti Meta prokazatelně poškozují mládež.",
+        "Firma musí vložit 567 milionů dolarů do speciálního fondu, který bude financovat léčbu duševního zdraví dětí.",
+        "Rozhodnutí představuje významný precedens v právní odpovědnosti technologických gigantů za dopady jejich algoritmů."
+      ],
+      "why_matters": "Tento rozsudek může ovlivnit regulaci sociálních sítí a ochranu dětí před algoritmy i v Evropě.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Umělá inteligence přináší revoluci do realitního trhu",
+      "title_orig": null,
+      "category": "wildcard",
+      "summary_cs": [
+        "V podcastu Money Maker Hedge experti Marek Cifr a Kirill Juran rozebrali aktuální stav a budoucnost realitního trhu.",
+        "Diskuse se zaměřila na to, jak nástroje umělé inteligence mění analýzu dat a oceňování nemovitostí.",
+        "AI dává běžným lidem i profesionálům přístup k hlubokým analýzám, které byly dříve dostupné jen velkým fondům."
+      ],
+      "why_matters": "Ukazuje konkrétní dopady a příležitosti využití AI v českém realitním sektoru.",
+      "url": "https://cc.cz/umela-inteligence-a-nemovitosti-dava-lidem-uplne-jinou-uroven-expertizy-i-v-realitach-je-to-revoluce/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 11,
+      "title_cs": "TutorMoments zkoumá, kdy mají AI asistenti pomáhat a kdy nechat studenta přemýšlet",
+      "title_orig": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "category": "labs",
+      "summary_cs": [
+        "Nový výzkumný projekt na platformě Hugging Face se zaměřuje na pedagogickou citlivost výukových AI modelů.",
+        "Cílem je naučit digitální tutory rozpoznat moment, kdy je nápověda užitečná a kdy naopak brání rozvoji kritického myšlení.",
+        "Správné načasování pomoci je klíčem k tomu, aby se z AI stali skutečně efektivní partneři ve vzdělávání."
+      ],
+      "why_matters": "Zásadní téma pro český vzdělávací systém, který se snaží smysluplně integrovat AI do výuky.",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Jak německá poradenská skupina HSP Gruppe nasazuje ChatGPT Enterprise",
+      "title_orig": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "category": "business",
+      "summary_cs": [
+        "Případová studie ukazuje, jak velká daňová a poradenská kancelář integrovala ChatGPT Enterprise do svých procesů.",
+        "Nástroj pomáhá zvyšovat produktivitu při analýze legislativy a uvolňuje kapacitu pro osobní klientský servis.",
+        "Projekt dokazuje, že i v silně regulovaném prostředí financí a daní lze bezpečně a efektivně využívat LLM."
+      ],
+      "why_matters": "Slouží jako skvělá inspirace pro české daňové poradce, účetní a právní kanceláře.",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Vozítko Perseverance na Marsu úspěšně otestovalo autonomní řízení",
+      "title_orig": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "category": "news",
+      "summary_cs": [
+        "Robotické vozítko Perseverance na Marsu urazilo většinu své trasy zcela bez přímých pokynů ze Země.",
+        "Téměř 90 procent ujeté vzdálenosti bylo navigováno pomocí pokročilých palubních systémů autonomního řízení.",
+        "Úspěch mise potvrzuje, že umělá inteligence je nezbytná pro průzkum vzdálených vesmírných těles v reálném čase."
+      ],
+      "why_matters": "Demonstruje extrémní spolehlivost autonomních systémů v nejnáročnějších možných podmínkách.",
+      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Airbnb zrychluje vývoj díky AI a testuje nové vyhledávání",
+      "title_orig": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "category": "news",
+      "summary_cs": [
+        "Ubytovací platforma Airbnb potvrdila, že interní nasazení AI nástrojů výrazně urychlilo nasazování nových funkcí.",
+        "Aktuálně firma testuje inovativní vyhledávání poháněné umělou inteligencí, které uživatelům nabídne intuitivnější filtrování.",
+        "Nové rozhraní bude obsahovat jednoduchý přepínač pro aktivaci inteligentního našeptávače a personalizovaných výsledků."
+      ],
+      "why_matters": "Ukazuje, jak AI mění uživatelské rozhraní populárních globálních služeb, které využívají miliony Čechů.",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Anthropic jmenuje nového ředitele pro globální záležitosti",
+      "title_orig": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "category": "business",
+      "summary_cs": [
+        "Do vedení společnosti Anthropic přichází Mariano-Florentino Cuéllar jako nový Chief Global Affairs Officer.",
+        "Jeho úkolem bude vést dialog s vládami a mezinárodními institucemi ohledně regulace a bezpečného vývoje AI.",
+        "Tento krok podtrhuje snahu Anthropicu profilovat se jako zodpovědný partner pro státní správu po celém světě."
+      ],
+      "why_matters": "Personální posílení v oblasti vládních vztahů ovlivní to, jak bude Anthropic vyjednávat o regulacích v EU.",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "source": "Anthropic News"
+    }
+  ]
+}
