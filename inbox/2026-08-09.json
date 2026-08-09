@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T04:01:19.413988+00:00",
+  "generated_at": "2026-08-09T05:18:19.101262+00:00",
   "date": "2026-08-09",
-  "article_count_unique": 92,
-  "article_count_raw": 92,
+  "article_count_unique": 93,
+  "article_count_raw": 93,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -164,16 +164,28 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 1,
-      "raw_count": 5
+      "raw_count": 4
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "50a380f261cb0b4a",
+      "title": "Umělá inteligence a nemovitosti? Dává lidem úplně jinou úroveň expertízy, i v realitách je to revoluce",
+      "url": "https://cc.cz/umela-inteligence-a-nemovitosti-dava-lidem-uplne-jinou-uroven-expertizy-i-v-realitach-je-to-revoluce/",
+      "published_at": "2026-08-09T05:13:11+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Marek Cifr a Kirill Juran v aktuálním dílu podcastu Money Maker Hedge debatovali o realitním trhu. A probrali i dopady AI na něj. Článek Umělá inteligence a nemovitosti? Dává lidem úplně jinou úroveň expertízy, i v realitách je to revoluce se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/money-maker-hedge-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "377d997fe0e87def",
       "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
