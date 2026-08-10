@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T04:01:25.043844+00:00",
+  "generated_at": "2026-08-10T05:43:39.093329+00:00",
   "date": "2026-08-10",
-  "article_count_unique": 100,
-  "article_count_raw": 100,
+  "article_count_unique": 102,
+  "article_count_raw": 102,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -163,17 +163,41 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 0,
-      "raw_count": 0
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "94557dff8d0873c9",
+      "title": "Počet objednávek, které přivedla AI, se v českých e-shopech od ledna zdvojnásobil. Viditelnost v chatbotech má být zásadní",
+      "url": "https://www.lupa.cz/clanky/pocet-objednavek-ktere-privedla-ai-se-v-ceskych-e-shopech-od-ledna-zdvojnasobil-viditelnost-v-chatbotech-ma-byt-zasadni/",
+      "published_at": "2026-08-10T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Počet objednávek, které přináší umělá inteligence českým e-shopům, se od letošního ledna už zdvojnásobil. U některých obchodníků vyrostl na podíly srovnatelné s jinými marketingovými kanály.",
+      "hero_image": "https://i.iinfo.cz/images/270/prodeje-v-e-commerce-podle-ai.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "ee23eb45ad3ec5e6",
+      "title": "Přijal obří výzvu: otočit potápějící se Pilulku a dostat ji do zisku. Pomáhá mu v tom AI od Tomáše Čupra",
+      "url": "https://cc.cz/prijal-obri-vyzvu-otocit-potapejici-se-pilulku-a-dostat-ji-do-zisku-pomaha-mu-v-tom-ai-od-tomase-cupra/",
+      "published_at": "2026-08-10T04:09:04+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Petr Toupal vede e-commerce byznys od loňského podzimu. Zaměření Pilulky se má změnit v očích zákazníků a ve velkém i samotná firma zevnitř. Článek Přijal obří výzvu: otočit potápějící se Pilulku a dostat ji do zisku. Pomáhá mu v tom AI od Tomáše Čupra se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/pilulka-petr-toupal-1-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "75b911bbd163e0bb",
       "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
