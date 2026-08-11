@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T04:01:15.726990+00:00",
+  "generated_at": "2026-08-11T05:23:29.205374+00:00",
   "date": "2026-08-11",
-  "article_count_unique": 133,
-  "article_count_raw": 133,
+  "article_count_unique": 135,
+  "article_count_raw": 135,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,16 +164,40 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 2,
-      "raw_count": 8
+      "raw_count": 9
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "2e71a044b3d3f7e0",
+      "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
+      "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+      "published_at": "2026-08-11T05:16:41+00:00",
+      "author": "",
+      "summary_raw": "a small win for american open models - Glimmer runs on a fits on a single RTX 3090!",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!k-nI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHPWkSuDbkAExHc7.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "d8f9d61a35d78a15",
+      "title": "Nenašli seniorní lidi do firmy, tak zapojili AI. Zbytku týmu díky tomu chtějí zkrátit práci na čtyři dny",
+      "url": "https://cc.cz/nenasli-seniorni-lidi-do-firmy-tak-zapojili-ai-zbytku-tymu-diky-tomu-chteji-zkratit-praci-na-ctyri-dny/",
+      "published_at": "2026-08-11T04:16:56+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Petra Šindlerová třináct let buduje módní značku Buga. Do konce září chce mít ve firmě aktivních 37 AI agentů, kteří budou působit napříč pozicemi. Článek Nenašli seniorní lidi do firmy, tak zapojili AI. Zbytku týmu díky tomu chtějí zkrátit práci na čtyři dny se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/buga-petra-sindlerova-26-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "89c0c82bfdb9471e",
       "title": "Towards an Argumentative Foundation for Evaluative AI",
