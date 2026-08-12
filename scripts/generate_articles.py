@@ -178,13 +178,15 @@ def _gemini_image_call(model: str, prompt: str) -> tuple[bytes | None, str | Non
 def gemini_image(prompt: str, retries_per_model: int = 2) -> bytes | None:
     """Robustní Gemini Image s fallbacky.
 
-    Strategie: primary 2.5-flash-image (2× retry) → safe prompt na primary →
-               fallback model 2.0-flash-exp-image-generation (2× retry).
+    Strategie: primary 2.5-flash-image (retry s backoffem) → safe prompt na
+               primary → fallback model gemini-3.1-flash-image (retry).
     """
     if not GEMINI_API_KEY:
         return None
     primary_models = ["gemini-2.5-flash-image"]
-    fallback_models = ["gemini-2.0-flash-exp-image-generation"]
+    # POZOR: gemini-2.0-flash-exp-image-generation byl Googlem vyřazen (404) —
+    # fallback byl měsíce mrtvý, ověřeno 12.8.2026. Držet aktuální model.
+    fallback_models = ["gemini-3.1-flash-image"]
     errors = []
 
     for m in primary_models:
@@ -194,7 +196,7 @@ def gemini_image(prompt: str, retries_per_model: int = 2) -> bytes | None:
                 return data_bytes
             errors.append(f"[{m} t{attempt+1}] {err}")
             if err and any(s in err for s in ("503", "429", "504", "502", "500")):
-                time.sleep(3 + attempt * 2)
+                time.sleep(5 + attempt * 10)
             else:
                 break
 
@@ -221,6 +223,26 @@ def gemini_image(prompt: str, retries_per_model: int = 2) -> bytes | None:
     for e in errors[-6:]:
         print(f"     • {e}", file=sys.stderr)
     return None
+
+
+def looks_like_gradient(image_bytes: bytes) -> bool:
+    """Heuristika: je obrázek jen hladký gradient (fallback), ne fotka?
+
+    Gradient fallback má po downsamplu velmi málo unikátních barev a nízkou
+    směrodatnou odchylku kanálů; reálné fotky řádově víc. Změřeno na incidentu
+    12.8.2026: gradienty ~820 uniq / sd ~11, skutečné fotky 3000+ uniq / sd 25+.
+    """
+    try:
+        import statistics
+
+        from PIL import Image
+        im = Image.open(io.BytesIO(image_bytes)).convert("RGB").resize((100, 60))
+        px = list(im.getdata())
+        uniq = len(set(px))
+        sd = sum(statistics.pstdev([p[c] for p in px]) for c in range(3)) / 3
+        return uniq < 1500 and sd < 18
+    except Exception:
+        return False
 
 
 # ---------- Article LLM prompt ----------
@@ -722,7 +744,15 @@ def generate_one_article(art: dict, date_iso: str, no_text: bool, no_image: bool
         if ig_bg.exists():
             try:
                 img_bytes = ig_bg.read_bytes()
-                print(f"  ✓ použitá IG bg fotka → {len(img_bytes)} bytes ({ig_bg.name})")
+                # Anti-gradient guard (incident 12.8.2026): když IG pipeline
+                # spadla do gradient fallbacku, převzali bychom gradient jako
+                # "fotku" bez .placeholder markeru a audit by mlčel.
+                if looks_like_gradient(img_bytes):
+                    print(f"  ⚠ IG bg {ig_bg.name} vypadá jako gradient fallback → "
+                          f"generuji vlastní hero přes Gemini")
+                    img_bytes = None
+                else:
+                    print(f"  ✓ použitá IG bg fotka → {len(img_bytes)} bytes ({ig_bg.name})")
             except Exception as e:
                 print(f"  ⚠ chyba při čtení IG bg: {e}")
                 img_bytes = None
