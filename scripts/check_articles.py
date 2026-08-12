@@ -30,6 +30,28 @@ def md5_bytes(p: Path) -> str:
     return h.hexdigest()
 
 
+def looks_like_gradient(p: Path) -> bool:
+    """Heuristika: hero je jen hladký gradient (fallback), ne fotka.
+
+    Marker .placeholder nestačí — když gradient přiteče přes bg-clean reuse
+    z IG pipeline, žádný marker nevznikne a audit mlčí (incident 12.8.2026).
+    Gradienty mají po downsamplu ~820 unikátních barev / sd ~11,
+    skutečné fotky 3000+ / sd 25+.
+    """
+    try:
+        import statistics
+
+        from PIL import Image
+        with Image.open(p) as img:
+            im = img.convert("RGB").resize((100, 60))
+        px = list(im.getdata())
+        uniq = len(set(px))
+        sd = sum(statistics.pstdev([q[c] for q in px]) for c in range(3)) / 3
+        return uniq < 1500 and sd < 18
+    except Exception:
+        return False
+
+
 def check(date_iso: str, articles_root: Path) -> tuple[list[str], list[str]]:
     """Vrátí (errors, warnings). Errors → exit 1."""
     errors: list[str] = []
@@ -62,6 +84,12 @@ def check(date_iso: str, articles_root: Path) -> tuple[list[str], list[str]]:
         size = hero.stat().st_size
         if size < 5000:
             errors.append(f"{d.name}: hero.webp je podezřele malý ({size} B)")
+            continue
+        if looks_like_gradient(hero):
+            errors.append(
+                f"{d.name}: hero.webp vypadá jako gradient fallback "
+                f"(málo barev / nízká variance) — Gemini image selhal"
+            )
             continue
         # rozměry zkusíme pouze pokud máme PIL
         try:

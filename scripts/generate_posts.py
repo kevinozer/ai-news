@@ -212,6 +212,8 @@ def gemini_generate_image(
     Raises:
         RuntimeError pokud API odpoví chybou nebo nevrátí inline image.
     """
+    import time
+
     import requests  # lokální import, aby --no-gemini režim nevyžadoval requests
 
     url = GEMINI_URL_TMPL.format(model=GEMINI_MODEL, key=api_key)
@@ -224,21 +226,43 @@ def gemini_generate_image(
             "imageConfig": {"aspectRatio": aspect_ratio},
         },
     }
-    resp = requests.post(url, json=payload, timeout=timeout)
-    if resp.status_code != 200:
-        raise RuntimeError(
-            f"Gemini API {resp.status_code}: {resp.text[:500]}"
-        )
-    data = resp.json()
-    # odpověď: candidates[0].content.parts[*].inlineData.data (base64)
-    for cand in data.get("candidates", []):
-        for part in cand.get("content", {}).get("parts", []):
-            inline = part.get("inlineData") or part.get("inline_data")
-            if inline and inline.get("data"):
-                return base64.b64decode(inline["data"])
-    raise RuntimeError(
-        f"Gemini odpověď neobsahuje inline image: {json.dumps(data)[:500]}"
-    )
+    # Retry s backoffem — 12.8.2026 vracel Gemini plošně HTTP 500 (transientní
+    # výpadek na straně Googlu) a jediný pokus bez retry poslal celý den do
+    # gradient fallbacku. 5xx/429/network chyby proto zkoušíme opakovaně.
+    attempts = 4
+    last_err: Exception | None = None
+    for attempt in range(1, attempts + 1):
+        try:
+            resp = requests.post(url, json=payload, timeout=timeout)
+        except requests.RequestException as exc:
+            last_err = RuntimeError(f"Gemini network error: {exc}")
+        else:
+            if resp.status_code == 200:
+                data = resp.json()
+                # odpověď: candidates[0].content.parts[*].inlineData.data (base64)
+                for cand in data.get("candidates", []):
+                    for part in cand.get("content", {}).get("parts", []):
+                        inline = part.get("inlineData") or part.get("inline_data")
+                        if inline and inline.get("data"):
+                            return base64.b64decode(inline["data"])
+                last_err = RuntimeError(
+                    f"Gemini odpověď neobsahuje inline image: {json.dumps(data)[:500]}"
+                )
+            elif resp.status_code in (429, 500, 502, 503, 504):
+                last_err = RuntimeError(
+                    f"Gemini API {resp.status_code}: {resp.text[:300]}"
+                )
+            else:
+                # ne-retryovatelná chyba (auth, bad request…) — rovnou nahoru
+                raise RuntimeError(
+                    f"Gemini API {resp.status_code}: {resp.text[:500]}"
+                )
+        if attempt < attempts:
+            wait_s = 10 * attempt
+            print(f"[gemini retry {attempt}/{attempts - 1}] {last_err} → čekám {wait_s}s",
+                  file=sys.stderr)
+            time.sleep(wait_s)
+    raise RuntimeError(str(last_err))
 
 
 def get_or_generate_bg(
@@ -282,6 +306,7 @@ def get_or_generate_bg(
             w, h = 1080, 1920
         img = make_brand_gradient_bg(w, h, seed=key)
         img.save(cache_path)
+        img.is_gradient_fallback = True  # marker pro downstream (bg-clean)
         return img
 
     try:
@@ -297,7 +322,10 @@ def get_or_generate_bg(
         if aspect_ratio == "16:9":
             w, h = 1920, 1080
         img = make_brand_gradient_bg(w, h, seed=key)
-        img.save(cache_path)
+        # POZOR: gradient v gemini módu NEcachujeme — cache by "otrávila"
+        # všechny další kroky běhu (compose slidů, bg-clean, články) a po
+        # obnovení API by se už nic nezkusilo vygenerovat znovu (incident 12.8.).
+        img.is_gradient_fallback = True
         return img
 
 
@@ -1294,6 +1322,17 @@ def process_articles_for_day(
     bg_clean_dir.mkdir(parents=True, exist_ok=True)
     for i, bg in enumerate(shared_bgs, start=1):
         out_path = bg_clean_dir / f"article-bg-{i:02d}.webp"
+        # Gradient fallback NIKDY neukládat jako "čistou fotku" pro články —
+        # generate_articles.py by ho převzal jako regulérní hero (bez
+        # .placeholder markeru) a audit by nic nepoznal (incident 12.8.).
+        if getattr(bg, "is_gradient_fallback", False):
+            print(f"[bg-clean SKIP] {out_path.name} je gradient fallback — "
+                  f"články si vygenerují vlastní hero.", file=sys.stderr)
+            try:
+                out_path.unlink()  # smaž případný starý soubor
+            except OSError:
+                pass
+            continue
         try:
             bg.save(out_path, format="WEBP", quality=85, method=6)
             print(f"[bg-clean] {out_path.relative_to(ROOT)}")
