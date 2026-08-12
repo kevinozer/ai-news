@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-12",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Grok Bot od SpaceXAI mění agenty v permanentní digitální spolupracovníky za 120 dolarů měsíčně",
+      "title_orig": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost SpaceXAI, dříve známá jako xAI, spouští beta verzi nástroje Grok Bot, který funguje jako autonomní digitální kolega.",
+        "Místo pouhého odpovídání na dotazy dokáže tento agent nepřetržitě vykonávat práci přímo v softwarových aplikacích, které zaměstnanci běžně používají.",
+        "Služba bude nabízena za předplatné ve výši 120 dolarů měsíčně a představuje posun od chatbotů k plnohodnotným agentům."
+      ],
+      "why_matters": "Ukazuje přechod od jednoduchých asistentů k autonomním agentům integrovaným přímo do firemních aplikací.",
+      "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "ChatGPT a Gemini shodně překonaly hranici jedné miliardy uživatelů",
+      "title_orig": "ChatGPT and Gemini both just passed 1 billion users",
+      "category": "news",
+      "summary_cs": [
+        "Google potvrdil, že jeho aplikace Gemini dosáhla milníku jedné miliardy aktivních uživatelů měsíčně.",
+        "Gemini se tak stala nejrychleji rostoucím produktem v historii Googlu, přičemž 63 procent uživatelů využívá hlasové funkce.",
+        "Tento historický milník překonal také konkurenční ChatGPT od OpenAI, což potvrzuje masivní globální adopci spotřebitelské AI."
+      ],
+      "why_matters": "Potvrzuje, že generativní AI se definitivně stala masovou technologií s miliardovým publikem.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic bude kvůli evropské regulaci neviditelně označovat texty a obrázky z modelu Claude",
+      "title_orig": "Claude will apply invisible watermarks to AI text and images",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost Anthropic zavádí neviditelné strojově čitelné vodoznaky pro texty a metadata pro obrázky generované modelem Claude.",
+        "Tento krok je přímou reakcí na požadavky evropského nařízení o umělé inteligenci (AI Act) ohledně transparentnosti.",
+        "Značení bude implementováno globálně pro všechny uživatele bez ohledu na jejich geografickou polohu."
+      ],
+      "why_matters": "První velká reakce na evropský AI Act, která ovlivní detekci AI obsahu po celém světě.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Český provozovatel infrastruktury se připojil k výzvě stovek firem za otevřené AI modely",
+      "title_orig": "Open source pohání většinu internetu, AI musí následovat. Česká naděje se připojila k volání gigantů po otevřené AI",
+      "category": "news",
+      "summary_cs": [
+        "Více než 200 globálních technologických subjektů podepsalo výzvu požadující zachování přístupu k AI modelům s otevřenými váhami.",
+        "Signatáři argumentují tím, že otevřenost namísto uzavírání technologií zajistí vyšší bezpečnost a rychlejší inovace.",
+        "K této iniciativě se připojil také významný český provozovatel infrastruktury pro umělou inteligenci."
+      ],
+      "why_matters": "Česká stopa v globální debatě o budoucnosti open-source umělé inteligence.",
+      "url": "https://www.lupa.cz/clanky/open-source-pohani-vetsinu-internetu-ai-musi-nasledovat-ceska-nadeje-se-pripojila-k-volani-gigantu-po-otevrene-ai/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "General Catalyst vede obří investici 1.1 miliardy dolarů do dvouměsíčního startupu River AI",
+      "title_orig": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "category": "business",
+      "summary_cs": [
+        "Nově založený startup River AI získal v investičním kole vedeném fondem General Catalyst astronomickou částku 1,1 miliardy dolarů.",
+        "Za projektem stojí Igor Babuschkin, spoluzakladatel xAI, který se chce zaměřit na novou generaci osobních AI agentů.",
+        "Tato investice podtrhuje neutichající zájem venture kapitálu o ambiciózní projekty v oblasti agentické AI."
+      ],
+      "why_matters": "Ukazuje extrémní valuace a důvěru investorů v zakladatele s historií v předních laboratořích.",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Nvidia představuje Switchyard, inteligentní router pro optimalizaci nákladů na AI agenty",
+      "title_orig": "Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests",
+      "category": "tools",
+      "summary_cs": [
+        "Nvidia vyvinula router Switchyard, který dokáže dynamicky měnit AI modely v průběhu plnění jednoho úkolu.",
+        "Nástroj automaticky posílá jednodušší podúkoly levnějším modelům a složité výpočty předává pokročilým systémům.",
+        "Podle interních testů Nvidie dokáže tato technologie snížit provozní náklady na provoz agentů až na třetinu."
+      ],
+      "why_matters": "Řeší největší bariéru nasazení AI agentů ve firmách, kterou jsou vysoké provozní náklady.",
+      "url": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Dlouholetý provozní ředitel OpenAI Brad Lightcap odchází založit nový projekt",
+      "title_orig": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "category": "business",
+      "summary_cs": [
+        "Brad Lightcap, který v OpenAI působil osm let a naposledy vedl speciální projekty, oznámil svůj odchod z firmy.",
+        "Ve svém interním memorandu uvedl, že se chce soustředit na nové výzvy a plánuje založit vlastní startup.",
+        "Jde o dalšího z řady klíčových manažerů a výzkumníků, kteří v poslední době opustili vedení OpenAI."
+      ],
+      "why_matters": "Pokračující personální otřesy v OpenAI mohou ovlivnit strategické směřování nejvýznamnější AI firmy.",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Nová metoda umožňuje ukrást myšlenkové postupy z uzavřených API předních modelů",
+      "title_orig": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci objevili zranitelnost v tom, jak Anthropic, OpenAI a Google posílají šifrované bloky řetězců úvah (chain-of-thought).",
+        "Tyto bloky lze zachytit a přehrát v jiných relacích, což umožňuje odhalit skryté myšlenkové procesy modelů.",
+        "Tato zranitelnost naznačuje, že některé konkurenční modely mohly být trénovány na ukradených datech z amerických systémů."
+      ],
+      "why_matters": "Zásadní bezpečnostní objev, který ohrožuje duševní vlastnictví největších AI laboratoří.",
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Spotify zavádí štítky pro AI umělce a vyřadí je z doporučovacích algoritmů",
+      "title_orig": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "category": "news",
+      "summary_cs": [
+        "Hudební platforma Spotify začne od poloviny září označovat profily virtuálních umělců štítkem AI Persona.",
+        "Skladby od těchto neživých interpretů budou automaticky vyloučeny z redakčních i personalizovaných doporučení.",
+        "Cílem opatření je chránit lidské tvůrce a omezit zahlcení platformy synteticky generovaným obsahem."
+      ],
+      "why_matters": "Důležitý krok v boji proti zaplavení streamovacích služeb nekvalitní AI hudbou.",
+      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Chyba v Zoomu umožňovala ovládnout cizí zařízení, k jejímu nalezení stačilo 20 AI promptů",
+      "title_orig": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní experti odhalili kritickou zranitelnost ve sdílení obrazovky aplikace Zoom, která již byla opravena.",
+        "Útočník mohl během hovoru převzít kontrolu nad zařízením jiného účastníka bez jeho vědomí.",
+        "K nalezení této závažné chyby stačilo výzkumníkům zadat méně než 20 instrukcí do veřejně dostupného AI modelu."
+      ],
+      "why_matters": "Ukazuje, jak snadno lze zneužít běžně dostupné AI nástroje k hledání kybernetických zranitelností.",
+      "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Mistral AI plánuje vybudovat v Evropě výpočetní výkon o kapacitě 1 gigawattu",
+      "title_orig": "Mistral AI wants to build 1 gigawatt of European compute by 2030 - and lock in customers now.",
+      "category": "business",
+      "summary_cs": [
+        "Francouzský startup Mistral AI oznámil ambiciózní plán na vybudování vlastní infrastruktury s kapacitou 1 GW do roku 2030.",
+        "Firma chce nabídnout evropským zákazníkům plnou datovou suverenitu a garantovanou dostupnost výpočetního výkonu.",
+        "Služba bude zahrnovat regionální koncové body, které zajistí, že data neopustí vybrané evropské lokality."
+      ],
+      "why_matters": "Klíčový projekt pro posílení evropské nezávislosti na amerických cloudových gigantech.",
+      "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Apple vyvíjí systém pro ověřování pravosti fotografií přímo v iPhonu",
+      "title_orig": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "category": "tools",
+      "summary_cs": [
+        "V testovací verzi systému iOS 27 se objevily zmínky o nové funkci nazvané Apple Reference Image.",
+        "Tento systém by měl ukládat metadata o původu fotografie přímo v momentě stisknutí spouště fotoaparátu.",
+        "Uživatelé tak budou moci snadno prokázat, že jejich snímky jsou autentické a nejedná se o AI generované deepfakes."
+      ],
+      "why_matters": "Praktické řešení narůstajícího problému s důvěryhodností digitálního obsahu.",
+      "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Unikátní příběh DDN, firmy která dravě roste díky dodávkám úložišť pro superpočítače",
+      "title_orig": "Úplně jiný AI šampion. Je mu 65 let, šokuje obleky a jeho firma dravě roste. Přitom málem zkrachovala",
+      "category": "news",
+      "summary_cs": [
+        "Zakladatel Alex Bouzari vybudoval společnost DDN, která se specializuje na extrémně rychlá datová úložiště pro AI.",
+        "Firma, která v minulosti čelila bankrotu, letos poprvé překročí v tržbách hranici jedné miliardy dolarů.",
+        "DDN těží z masivního rozvoje superpočítačů a potřeby zpracovávat obrovské objemy dat pro trénování modelů."
+      ],
+      "why_matters": "Inspirativní byznysový příběh o hardwarovém pilíři, bez kterého by moderní AI nemohla fungovat.",
+      "url": "https://cc.cz/uplne-jiny-ai-sampion-je-mu-65-let-sokuje-obleky-a-jeho-firma-drave-roste-pritom-malem-zkrachovala/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Otevřený video model LTX-2.5 generuje video z obrázku za necelých sedm sekund",
+      "title_orig": "LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips - and it's open weights",
+      "category": "open-source",
+      "summary_cs": [
+        "Společnost LTX vydala novou verzi svého otevřeného generátoru videa s označením LTX-2.5.",
+        "Model dokáže vytvořit desetisekundové video z předlohy za pouhých 6,8 sekundy při použití čipů Nvidia.",
+        "Novinka přichází s nativní integrací do populárního vizuálního editoru ComfyUI pro snadné nasazení v kreativních týmech."
+      ],
+      "why_matters": "Demokratizuje tvorbu vysoce kvalitního videa díky otevřenému kódu a extrémní rychlosti generování.",
+      "url": "https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "OpenAI začíná v ChatGPT testovat reklamy pro bezplatné uživatele",
+      "title_orig": "Testing ads in ChatGPT",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI oznámila spuštění testovacího provozu reklamních sdělení v rámci bezplatné verze ChatGPT.",
+        "Firma slibuje přísné standardy ochrany soukromí, jasné označování sponzorovaného obsahu a nezávislost odpovědí.",
+        "Tento krok má pomoci financovat obrovské provozní náklady spojené s poskytováním bezplatného přístupu k AI."
+      ],
+      "why_matters": "Značí začátek nové éry monetizace AI vyhledávání, která ovlivní digitální marketing.",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI Blog"
+    }
+  ]
+}
