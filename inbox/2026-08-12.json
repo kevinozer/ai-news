@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T04:01:15.201434+00:00",
+  "generated_at": "2026-08-12T05:46:09.093372+00:00",
   "date": "2026-08-12",
   "article_count_unique": 150,
   "article_count_raw": 150,
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "latent_space",
@@ -169,11 +169,23 @@
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "7f82489dbea897cc",
+      "title": "Open source pohání většinu internetu, AI musí následovat. Česká naděje se připojila k volání gigantů po otevřené AI",
+      "url": "https://www.lupa.cz/clanky/open-source-pohani-vetsinu-internetu-ai-musi-nasledovat-ceska-nadeje-se-pripojila-k-volani-gigantu-po-otevrene-ai/",
+      "published_at": "2026-08-12T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Přes 200 firem a subjektů volá po dostupných AI modelech s otevřenými váhami. To a nikoliv uzavírání má zajistit bezpečnost a další rozvoj. Připojil se i český provozovatel AI infrastruktury.",
+      "hero_image": "https://i.iinfo.cz/images/221/ai-umela-inteligence.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "3ed186094d95aceb",
       "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
@@ -653,6 +665,18 @@
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
       "category": "news"
+    },
+    {
+      "id": "76b6b22cd9ac210e",
+      "title": "datasette-upload-dbs 0.5a0",
+      "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
+      "published_at": "2026-08-11T20:35:13+00:00",
+      "author": "",
+      "summary_raw": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that instance. It can also be used to atomically swap a database with a more recent version. The uploaded database is saved to a file, verified, then swapped in so /name starts serving the new one. The new release adds a formalized API, so you can replace an existing database (or add a new one) like this: curl -X POST \\ -H \"Authorization: Bearer $API_TOKEN\" \\ -H \"Accept: application/json\" \\ -F \"db=@content.db\" \\ -F \"db_name=content\" \\ https://your-instance.example.com/-/upload-dbs This means you can build fresh databases in an environment such as GitHub Actions and swap them in production as soon as that build has completed. Tags: datasette",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
     },
     {
       "id": "868685b9af737c71",
@@ -1183,18 +1207,6 @@
       "category": "commentary"
     },
     {
-      "id": "d8f9d61a35d78a15",
-      "title": "Nenašli seniorní lidi do firmy, tak zapojili AI. Zbytku týmu díky tomu chtějí zkrátit práci na čtyři dny",
-      "url": "https://cc.cz/nenasli-seniorni-lidi-do-firmy-tak-zapojili-ai-zbytku-tymu-diky-tomu-chteji-zkratit-praci-na-ctyri-dny/",
-      "published_at": "2026-08-11T04:16:56+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "Petra Šindlerová třináct let buduje módní značku Buga. Do konce září chce mít ve firmě aktivních 37 AI agentů, kteří budou působit napříč pozicemi. Článek Nenašli seniorní lidi do firmy, tak zapojili AI. Zbytku týmu díky tomu chtějí zkrátit práci na čtyři dny se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/buga-petra-sindlerova-26-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "9f4e40da1a302030",
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
       "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
@@ -1565,18 +1577,6 @@
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
       "category": "news"
-    },
-    {
-      "id": "94557dff8d0873c9",
-      "title": "Počet objednávek, které přivedla AI, se v českých e-shopech od ledna zdvojnásobil. Viditelnost v chatbotech má být zásadní",
-      "url": "https://www.lupa.cz/clanky/pocet-objednavek-ktere-privedla-ai-se-v-ceskych-e-shopech-od-ledna-zdvojnasobil-viditelnost-v-chatbotech-ma-byt-zasadni/",
-      "published_at": "2026-08-10T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Počet objednávek, které přináší umělá inteligence českým e-shopům, se od letošního ledna už zdvojnásobil. U některých obchodníků vyrostl na podíly srovnatelné s jinými marketingovými kanály.",
-      "hero_image": "https://i.iinfo.cz/images/270/prodeje-v-e-commerce-podle-ai.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "d4cc3fe2ac21f996",
