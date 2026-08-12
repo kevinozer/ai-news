@@ -148,6 +148,40 @@ jobs:
           DATE=${{ steps.d.outputs.date }}
           python3 scripts/make_ig_variant.py --date "$DATE" --ai-news . --mode caption
 
+      - name: IG slidy — anti-gradient kontrola (incident 12.8.2026)
+        run: |
+          DATE=${{ steps.d.outputs.date }}
+          python3 - <<'PY'
+          import os, statistics, sys
+          from pathlib import Path
+          from PIL import Image
+          date = os.environ.get("DATE") or __import__("datetime").datetime.now().strftime("%Y-%m-%d")
+          slides = sorted(Path(f"instagram/{date}").glob("slide_0*.png"))
+          if not slides:
+              print(f"::error::žádné slidy pro {date}"); sys.exit(1)
+          bad = []
+          for s in slides:
+              with Image.open(s) as img:
+                  w, h = img.size
+                  im = img.convert("RGB").crop((40, 40, w - 40, int(h * 0.52))).resize((120, 70))
+              px = list(im.getdata())
+              uniq = len(set(px))
+              sd = sum(statistics.pstdev([q[c] for q in px]) for c in range(3)) / 3
+              flag = uniq < 1200 and sd < 15
+              print(f"{s.name}: uniq={uniq} sd={sd:.1f}{'  <- GRADIENT' if flag else ''}")
+              if flag:
+                  bad.append(s.name)
+          # slide_08 (outro) je designový, gradient tam nevadí
+          bad = [b for b in bad if not b.startswith("slide_08")]
+          if len(bad) >= 3:
+              print(f"::error::{len(bad)} slidů má gradient fallback místo fotky "
+                    f"({', '.join(bad)}) — Gemini image zřejmě selhal. "
+                    f"Neposílám gradientový karusel; catch-up to zkusí znovu.")
+              sys.exit(1)
+          PY
+        env:
+          DATE: ${{ steps.d.outputs.date }}
+
       - name: Push slidů na GitHub (pro Make.com)
         run: python3 scripts/push_today_slides.py "${{ steps.d.outputs.date }}"
 

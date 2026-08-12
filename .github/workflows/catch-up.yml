@@ -35,8 +35,8 @@ jobs:
           # 1) Je dnešek publikovaný na všech kanálech?
           miss=""
           has(){ curl -s -H "Authorization: Bearer $2" "https://api.github.com/repos/$1/commits?sha=main&per_page=6" | grep -q "$3"; }
-          has cruzmira/ainamiru "$GH_TOKEN" "Articles: ${DATE}" || miss="$miss ainamiru"
-          has kevinozer/cbre-marketplace "$GH_TOKEN" "daily sync ${DATE}" || miss="$miss cbre"
+          has kevinozer/aicruz-web "$GH_TOKEN" "Articles: ${DATE}" || miss="$miss ainamiru"
+          has CBREcz/cbre-marketplace "$GH_TOKEN" "daily sync ${DATE}" || miss="$miss cbre"
           has cruzmira/stanton-chase-ai-hub "$SC_TOKEN" "sync ${DATE}" || miss="$miss sc"
           TG=$(curl -s -o /dev/null -w "%{http_code}" -H "Authorization: Bearer $GH_TOKEN" "https://api.github.com/repos/kevinozer/ai-news/contents/state/telegram-${DATE}.ok")
           [ "$TG" = "200" ] || miss="$miss telegram"
