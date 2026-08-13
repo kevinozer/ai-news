@@ -206,9 +206,8 @@ def main() -> int:
         'name': f'Tydenni AI novinky {args.end}',
         'segment_id': SEGMENT,
         'from': ODESILATEL,
-        'reply_to': [ODPOVED],
+        'reply_to': [ODPOVED],   # nazvy poli dle dokumentace: segment_id, reply_to
         'subject': predmet,
-        'preview_text': p[0]['nadpis'][:90],
         'html': html,
         'text': text,
     }, klic)
