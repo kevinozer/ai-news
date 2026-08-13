@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T04:01:19.398351+00:00",
+  "generated_at": "2026-08-13T05:49:06.151458+00:00",
   "date": "2026-08-13",
-  "article_count_unique": 167,
-  "article_count_raw": 167,
+  "article_count_unique": 168,
+  "article_count_raw": 168,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,16 +164,40 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 2,
-      "raw_count": 14
+      "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 4,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "9e0aff0c7765774c",
+      "title": "Zní to jako sci-fi, ale nakupovat online za nás budou AI agenti. Nejsou leniví a najdou tu nejlepší cenu",
+      "url": "https://cc.cz/zni-to-jako-sci-fi-ale-nakupovat-online-za-nas-budou-ai-agenti-nejsou-lenivi-a-najdou-tu-nejlepsi-cenu/",
+      "published_at": "2026-08-13T04:23:21+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Budoucnost nakupování se pro zákazníky i e-shopy pod vlivem umělé inteligence změní. Jak? Vysvětluje šéf společnosti Visa Marcel Gajdoš. Článek Zní to jako sci-fi, ale nakupovat online za nás budou AI agenti. Nejsou leniví a najdou tu nejlepší cenu se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/ai-agenti-na-nakupech-cc-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "ad7f9c31f0a5b0da",
+      "title": "Navenek „obyčejná“ česká značka batohů, uvnitř všechno frčí na AI. Náklady nám klesly o desítky procent, hlásí",
+      "url": "https://cc.cz/navenek-obycejna-ceska-znacka-batohu-uvnitr-vsechno-frci-na-ai-naklady-nam-klesly-o-desitky-procent-hlasi/",
+      "published_at": "2026-08-13T04:20:46+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Značka Playbag ročně utrží sedm milionů. Její šéf Jan Boruta vysvětluje, jak se mu díky vibe codingu podařilo udělat firmu efektivnější. Článek Navenek „obyčejná“ česká značka batohů, uvnitř všechno frčí na AI. Náklady nám klesly o desítky procent, hlásí se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/playbag-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "4ddf52741115b9cf",
       "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
@@ -1997,18 +2021,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "6088724e3b3f80fb",
-      "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
-      "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
-      "published_at": "2026-08-06T04:34:11+00:00",
-      "author": "Latent.Space",
-      "summary_raw": "The end of an era.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!1S7v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57c9d273-aa50-4bc7-a7c4-caaf9b4952c2_1540x1624.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "a7695d4cf39db9d0",
