@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-13",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "SpaceXAI představuje Grok 4.6 a novou službu Grok Bot pro autonomní agenty",
+      "title_orig": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost SpaceXAI vydala svůj nejnovější vlajkový model Grok 4.6, který se zaměřuje na dlouhodobě běžící agenty, programování a komplexní znalostní práci.",
+        "Model dosáhl skvělých výsledků v nezávislých testech a vyrovnal se špičkovému modelu GPT-5.6 Sol, přičemž přichází s agresivní cenovou politikou zaměřenou na zlevnění agentních úloh.",
+        "Současně s tím byla představena služba Grok Bot, která umožňuje spouštět agenty jako permanentní digitální spolupracovníky schopné ovládat běžné webové aplikace."
+      ],
+      "why_matters": "Nový model a platforma od SpaceXAI výrazně zlevňují a usnadňují nasazení autonomních AI agentů do každodenní firemní praxe.",
+      "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Google představil řadu Pixel 11 s hlubokou integrací Gemini a novým hardwarem",
+      "title_orig": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "category": "news",
+      "summary_cs": [
+        "Google na své každoroční akci představil chytré telefony řady Pixel 11, hodinky Pixel Watch 5 a lokalizační čip Pixel Tag.",
+        "Nové telefony se zaměřují na maximální integraci asistenta Gemini, který má uživatelům ušetřit čas a snížit nutnost přímého dotyku s obrazovkou.",
+        "Mezi novinky patří pokročilé fotografické funkce jako Magic Capture, okamžitý noční režim a vestavěný teleprompter pro tvorbu videa."
+      ],
+      "why_matters": "Ukazuje, jak se spotřební elektronika mění v zařízení navržená primárně pro bezproblémový běh umělé inteligence.",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Navenek obyčejná česká značka batohů Playbag díky AI a vibe codingu výrazně snížila náklady",
+      "title_orig": "Navenek „obyčejná“ česká značka batohů, uvnitř všechno frčí na AI. Náklady nám klesly o desítky procent, hlásí",
+      "category": "wildcard",
+      "summary_cs": [
+        "Zlínská značka batohů Playbag s ročním obratem sedm milionů korun úspěšně transformovala své interní procesy pomocí umělé inteligence.",
+        "Zakladatel Jan Boruta popsal, jak díky metodě takzvaného vibe codingu dokázal zefektivnit provoz a snížit náklady o desítky procent.",
+        "Tento příběh ukazuje, že pokročilé AI nástroje mohou přinést obrovskou konkurenční výhodu i tradičním řemeslným dílnám a menším lokálním firmám."
+      ],
+      "why_matters": "Skvělý český příklad toho, jak může malá tradiční firma radikálně zvýšit efektivitu pomocí moderních AI metod.",
+      "url": "https://cc.cz/navenek-obycejna-ceska-znacka-batohu-uvnitr-vsechno-frci-na-ai-naklady-nam-klesly-o-desitky-procent-hlasi/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Nvidia a přední světové fondy skládají obří úvěr 500 miliard dolarů na financování AI infrastruktury",
+      "title_orig": "Takový úvěr tu ještě nebyl. Nvidia a největší fondy poskládaly 500 miliard dolarů, aby poháněly boom AI",
+      "category": "business",
+      "summary_cs": [
+        "Finanční giganti jako Apollo, Blackstone, BlackRock, Goldman Sachs a KKR se spojili s Nvidií, aby vytvořili bezprecedentní úvěrový rámec.",
+        "Tento masivní objem kapitálu bude sloužit výhradně k financování nákupu drahého výpočetního výkonu a budování specializovaných datových center.",
+        "Dluhové financování navázané na rozvoj umělé inteligence zažívá prudký růst a mění dynamiku investic v celém technologickém sektoru."
+      ],
+      "why_matters": "Tato gigantická finanční injekce zajistí další masivní rozvoj hardwarové infrastruktury pro nejnáročnější AI modely.",
+      "url": "https://cc.cz/takovy-uver-tu-jeste-nebyl-nvidia-a-nejvetsi-fondy-poskladaly-500-miliard-dolaru-aby-pohanely-boom-ai/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Při zabezpečení AI agentů selhává většina firem, ukazuje průzkum VentureBeat",
+      "title_orig": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
+      "category": "news",
+      "summary_cs": [
+        "Prezident technologií společnosti Visa demonstroval, jak autonomní model dokázal najít drobné slabiny a zřetězit je do funkčního útoku na platební síť.",
+        "Průzkum mezi firmami ukázal, že i když se organizace snaží zabezpečit identity svých AI agentů, čtyři z pěti je nedokážou včas izolovat, pokud se vymknou kontrole.",
+        "Visa v reakci na tyto bezpečnostní výzvy uvolnila jako open-source svůj vlastní framework, který slouží k bezpečnému testování a řízení agentů."
+      ],
+      "why_matters": "Upozorňuje na kritická bezpečnostní rizika spojená s nasazováním autonomních agentů do ostrého firemního provozu.",
+      "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Skan AI získal 63 milionů dolarů na analýzu reálné práce zaměstnanců pro potřeby AI",
+      "title_orig": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
+      "category": "business",
+      "summary_cs": [
+        "Startup Skan AI získal v investičním kole Series C celkem 63 milionů dolarů od investorů jako Cathay Innovation a Dell Technologies Capital.",
+        "Firma se zaměřuje na vytváření takzvaného kontextového grafu práce pomocí pasivního sledování toho, jak zaměstnanci reálně plní úkoly v podnikovém softwaru.",
+        "Tento detailní kontext je podle zakladatelů klíčovým chybějícím článkem pro úspěšné nasazení a správné fungování podnikových AI agentů."
+      ],
+      "why_matters": "Ukazuje nový směr, jak firmy mohou sbírat přesná data o procesech pro efektivní trénování vlastních asistentů.",
+      "url": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "ShieldFont představuje novou zbraň webů proti neoprávněnému stahování dat pro trénování AI",
+      "title_orig": "The web’s newest weapon against AI scrapers is a font",
+      "category": "tools",
+      "summary_cs": [
+        "Nový projekt ShieldFont nabízí inovativní metodu ochrany webového obsahu před automatickými roboty, kteří sbírají data pro trénování modelů.",
+        "Technologie využívá speciálně upravené fonty, které pro lidského čtenáře zobrazují text normálně, ale pro automatické skenery představují nesrozumitelnou směs znaků.",
+        "Tento přístup se snaží otrávit trénovací sady AI modelů, aniž by jakkoli narušil čitelnost a přístupnost stránek pro běžné uživatele."
+      ],
+      "why_matters": "Přináší elegantní technické řešení pro autory a vydavatele, kteří chtějí chránit své texty před zneužitím bez blokování uživatelů.",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Amazon začne trénovat své modely na obsahu ze služby Twitch, uživatelé se musí sami odhlásit",
+      "title_orig": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "category": "news",
+      "summary_cs": [
+        "Streamovací platforma Twitch patřící Amazonu oznámila, že uživatelský obsah bude automaticky využíván k trénování generativních AI modelů.",
+        "Trénování se týká samotného videa, klipů, chatu i textových popisů na kanálech, pokud uživatelé ručně nevyužijí nově zavedenou možnost opt-out.",
+        "Představitelé platformy přiznali, že pokud by systém nastavili jako opt-in, většina tvůrců by se dobrovolně nepřihlásila."
+      ],
+      "why_matters": "Ilustruje pokračující trend velkých platforem, které automaticky využívají uživatelská data pro vývoj svých AI systémů.",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Unikátní metoda personalizace jazykových modelů bez nutnosti měnit jejich váhy",
+      "title_orig": "Weightless Fine-Tuning: Personalizing LLMs via Logit-Space Transport",
+      "category": "research",
+      "summary_cs": [
+        "Vědci navrhli novou metodu nazvanou Weightless Fine-Tuning, která umožňuje přizpůsobit velký jazykový model konkrétnímu uživateli bez úpravy jeho parametrů.",
+        "Metoda funguje na principu transformace pravděpodobností v logitovém prostoru, což eliminuje extrémní náklady na ukládání a spouštění unikátních modelů pro každého autora.",
+        "Tento přístup řeší zásadní infrastrukturní problém spojený s personalizací AI v masovém měřítku, například u osobních asistentů nebo editorů."
+      ],
+      "why_matters": "Tento výzkum může dramaticky zlevnit a zrychlit fungování vysoce personalizovaných AI asistentů na míru.",
+      "url": "https://arxiv.org/abs/2608.11342",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Zranitelnost v balíčku pro umělou inteligenci vedla k masivnímu úniku přístupových údajů",
+      "title_orig": "Terabytes of credentials leaked in massive supply-chain attack",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní experti odhalili rozsáhlý útok na dodavatelský řetězec, při kterém byly zneužity přístupové údaje tisíců uživatelů populárního AI balíčku.",
+        "Útočníci dokázali zkompromitovat knihovnu a následně exfiltrovat terabyty citlivých dat včetně hesel a API klíčů od více než 2 500 vývojářů.",
+        "Incident podtrhuje rostoucí rizika spojená s rychlým a často neprověřeným nasazováním open-source nástrojů pro vývoj umělé inteligence."
+      ],
+      "why_matters": "Důrazné varování pro české vývojáře, aby důsledně prověřovali bezpečnost knihoven používaných v AI projektech.",
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Většinu změn v nové verzi populárního českého databázového nástroje Adminer vytvořila AI",
+      "title_orig": "Populární český nástroj pro PHP má novou verzi. Většinu z 130 změn udělala AI",
+      "category": "news",
+      "summary_cs": [
+        "Známý český vývojář Jakub Vrána vydal po delší době šestou verzi oblíbeného open-source nástroje Adminer pro správu databází.",
+        "Nová verze přináší přibližně 130 změn a oprav, přičemž naprostou většinu z nich vygenerovala a implementovala umělá inteligence.",
+        "Projekt ukazuje, jak mohou starší a stabilní open-source nástroje chytit druhý dech díky efektivnímu zapojení AI do údržby kódu."
+      ],
+      "why_matters": "Praktická ukázka z českého prostředí, jak AI pomáhá udržovat a modernizovat široce používaný open-source software.",
+      "url": "https://www.lupa.cz/aktuality/popularni-cesky-nastroj-pro-php-ma-novou-verzi-vetsinu-z-130-zmen-udelala-ai/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Proč detektory umělé inteligence selhávají při posuzování akademické integrity",
+      "title_orig": "Why AI Detection Fails for Academic Integrity",
+      "category": "research",
+      "summary_cs": [
+        "Nová studie analyzovala spolehlivost komerčních detektorů AI textu při kontrole akademických prací a odhalila zásadní nedostatky.",
+        "Detektory nedokážou spolehlivě rozlišit mezi textem kompletně napsaným AI a textem, který autor pouze nechal stylisticky vylepšit.",
+        "To vede k falešným obviněním studentů a vědců z podvádění, což vážně narušuje důvěru v akademické prostředí a spravedlivé hodnocení."
+      ],
+      "why_matters": "Důležité varování pro české školy a univerzity před slepou důvěrou v nespolehlivé detektory plagiátů.",
+      "url": "https://arxiv.org/abs/2608.11256",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Předpovídání vedlejších účinků při ovlivňování vnitřních stavů jazykových modelů",
+      "title_orig": "Forecasting Side Effects of Activation Steering",
+      "category": "research",
+      "summary_cs": [
+        "Metoda activation steering umožňuje měnit chování jazykových modelů přidáním naučeného směru do jejich skrytých vrstev bez nutnosti přetrénování.",
+        "Tento zásah však často způsobuje nečekané vedlejší účinky a zhoršuje schopnosti modelu v jiných, nesouvisejících oblastech.",
+        "Výzkumníci představili nový způsob, jak tyto negativní dopady dopředu předpovídat a lépe tak kontrolovat bezpečnost a stabilitu modelů."
+      ],
+      "why_matters": "Pomáhá vývojářům lépe a bezpečněji ohýbat chování modelů pro specifické firemní úkoly.",
+      "url": "https://arxiv.org/abs/2608.11227",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Chytré prsteny s hlasovým ovládáním sázejí na budoucnost bez displejů",
+      "title_orig": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "category": "tools",
+      "summary_cs": [
+        "Výrobce hardwaru Sandbar věří, že budoucnost nositelné AI elektroniky nepatří brýlím ani odznáčkům, ale minimalistickým prstenům.",
+        "Jejich nový prsten se zaměřuje na hlasové ovládání a zaznamenávání poznámek, které následně AI na pozadí analyzuje a shrnuje.",
+        "Tento koncept se snaží vyhnout chybám předchozích AI zařízení tím, že se nesnaží nahradit telefon, ale slouží jako jeho specializovaný doplněk."
+      ],
+      "why_matters": "Zajímavý pohled na to, jak by mohl vypadat praktický a neotravný AI hardware pro každodenní nošení.",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Google DeepMind představil model pro okamžitý překlad znakového jazyka do textu",
+      "title_orig": "Putting sign language AI into users’ hands",
+      "category": "labs",
+      "summary_cs": [
+        "Laboratoř Google DeepMind vyvinula průlomový model SL2T určený pro rychlý a přesný překlad znakového jazyka do psaného textu.",
+        "Technologie je navržena tak, aby mohla běžet přímo na mobilních zařízeních uživatelů a usnadnila komunikaci neslyšícím.",
+        "Model představuje významný krok vpřed v oblasti počítačového vidění a inkluzivních technologií pomáhajících překonávat bariéry."
+      ],
+      "why_matters": "Ukazuje, jak pokročilé AI modely mohou reálně pomáhat handicapovaným lidem v běžném životě.",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind Blog"
+    }
+  ]
+}
