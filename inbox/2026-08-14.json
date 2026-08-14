@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T04:01:19.101240+00:00",
+  "generated_at": "2026-08-14T05:46:06.031310+00:00",
   "date": "2026-08-14",
-  "article_count_unique": 175,
-  "article_count_raw": 175,
+  "article_count_unique": 174,
+  "article_count_raw": 174,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -169,11 +169,47 @@
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "144612155b544c36",
+      "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
+      "url": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+      "published_at": "2026-08-14T05:30:39+00:00",
+      "author": "",
+      "summary_raw": "Down, but not out!",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!dQiQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d28d24c-21c5-4e67-a9e6-00b50421ddfe_2112x1214.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "bfde6b3104a58dcd",
+      "title": "Investice Onsemi v Rožnově ve velkých problémech, zdražení Windows, Nvidia si půjčuje 500 miliard dolarů",
+      "url": "https://www.lupa.cz/clanky/investice-onsemi-v-roznove-ve-velkych-problemech-zdrazeni-windows-nvidia-si-pujcuje-500-miliard-dolaru/",
+      "published_at": "2026-08-14T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Muskův Terafab má být největší budova světa. Bezplatný ChatGPT bez omezení. Gemini má miliardu uživatelů. Watermarking v Claude. Zprávy z IT, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/272/tesla-terafab.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "a8a26c7bdeaa40e7",
+      "title": "Místo počítání oveček mě AI vyzvala, abych mlčela. Vyzkoušeli jsme, jak ChatGPT pomáhá se spánkem",
+      "url": "https://cc.cz/misto-pocitani-ovecek-me-ai-vyzvala-abych-mlcela-vyzkouseli-jsme-jak-chatgpt-pomaha-se-spankem/",
+      "published_at": "2026-08-14T04:17:29+00:00",
+      "author": "Michaela Prešinská",
+      "summary_raw": "AI umí roztřídit starosti i vést meditaci. Cesta ke spánku ale může skončit půlnočním počítáním limitů předplatného. Článek Místo počítání oveček mě AI vyzvala, abych mlčela. Vyzkoušeli jsme, jak ChatGPT pomáhá se spánkem se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/openai-815x509.jpeg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "dc3e16b205a1fae3",
       "title": "Position: Reasoning is a Learnable Rule-Based Process",
@@ -1159,18 +1195,6 @@
       "category": "cz"
     },
     {
-      "id": "ad7f9c31f0a5b0da",
-      "title": "Navenek „obyčejná“ česká značka batohů, uvnitř všechno frčí na AI. Náklady nám klesly o desítky procent, hlásí",
-      "url": "https://cc.cz/navenek-obycejna-ceska-znacka-batohu-uvnitr-vsechno-frci-na-ai-naklady-nam-klesly-o-desitky-procent-hlasi/",
-      "published_at": "2026-08-13T04:20:46+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "Značka Playbag ročně utrží sedm milionů. Její šéf Jan Boruta vysvětluje, jak se mu díky vibe codingu podařilo udělat firmu efektivnější. Článek Navenek „obyčejná“ česká značka batohů, uvnitř všechno frčí na AI. Náklady nám klesly o desítky procent, hlásí se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/playbag-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "f49494708aabbde9",
       "title": "alchemy-utils 0.1a1",
       "url": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
@@ -1615,18 +1639,6 @@
       "category": "labs"
     },
     {
-      "id": "2f6317ab9b2833ef",
-      "title": "Nový Google Pixel chce, abyste na něj nesahali. Telefon slibuje méně pokynů a více odvedené práce",
-      "url": "https://cc.cz/novy-google-pixel-chce-abyste-na-nej-nesahali-telefon-slibuje-mene-pokynu-a-vice-odvedene-prace/",
-      "published_at": "2026-08-12T14:00:22+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Nová řada Pixel 11 tak trochu jde sama proti sobě. Jejím cílem je donutit uživatele, aby sahal po telefonu co nejméně. Sází totiž na AI. Článek Nový Google Pixel chce, abyste na něj nesahali. Telefon slibuje méně pokynů a více odvedené práce se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/pixel-11-2-2-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "f8c20b42d49fdc08",
       "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
       "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
@@ -1769,18 +1781,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "7f82489dbea897cc",
-      "title": "Open source pohání většinu internetu, AI musí následovat. Česká naděje se připojila k volání gigantů po otevřené AI",
-      "url": "https://www.lupa.cz/clanky/open-source-pohani-vetsinu-internetu-ai-musi-nasledovat-ceska-nadeje-se-pripojila-k-volani-gigantu-po-otevrene-ai/",
-      "published_at": "2026-08-12T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Přes 200 firem a subjektů volá po dostupných AI modelech s otevřenými váhami. To a nikoliv uzavírání má zajistit bezpečnost a další rozvoj. Připojil se i český provozovatel AI infrastruktury.",
-      "hero_image": "https://i.iinfo.cz/images/221/ai-umela-inteligence.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "3ec9c910edaf5fc6",
@@ -2093,18 +2093,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "a8d8a76745e54f45",
-      "title": "[AINews] AMD buys Taalas",
-      "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
-      "published_at": "2026-08-07T05:13:46+00:00",
-      "author": "",
-      "summary_raw": "The Inference Inflection is HEATING up.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!qA0L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b60b0e-d47f-4723-bb40-be9594e9bab4_786x754.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "a7695d4cf39db9d0",
