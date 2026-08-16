@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-16",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Google uvádí Gemini 3.7 Flash se zaměřením na kódování a agenty",
+      "title_orig": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
+      "category": "labs",
+      "summary_cs": [
+        "Google představuje novou verzi svého klíčového modelu Gemini 3.7 Flash pouhé tři týdny po předchozí verzi.",
+        "Novinka se zaměřuje na výrazné zlepšení v oblasti programování, autonomních agentů a komplexní práce se znalostmi.",
+        "Pro podporu adopce Google dočasně snižuje ceny za používání API tohoto modelu na polovinu."
+      ],
+      "why_matters": "Rychlé vydání a poloviční cena nového modelu od Googlu výrazně zlevní vývoj pokročilých AI aplikací v Česku.",
+      "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "SpaceX dokončuje akvizici populárního AI editoru kódu Cursor",
+      "title_orig": "SpaceX officially closes its Cursor acquisition",
+      "category": "business",
+      "summary_cs": [
+        "Vesmírná společnost SpaceX oficiálně dokončila akvizici jednoho z nejpopulárnějších AI nástrojů pro programátory.",
+        "Cursor se stal klíčovou součástí softwarového ekosystému SpaceX pro vývoj komplexních systémů.",
+        "Transakce ukazuje rostoucí význam specializovaných AI vývojářských nástrojů pro strategický průmysl."
+      ],
+      "why_matters": "Spojení nejúspěšnějšího AI programátorského nástroje s vesmírným gigantem může zásadně změnit dostupnost této technologie pro běžné vývojáře.",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Celovečerní film vytvořený pomocí AI za pouhý měsíc",
+      "title_orig": "Umělá inteligence místo filmového štábu. Celovečerák vznikl za měsíc, herce potřebovali na dvě minuty",
+      "category": "tools",
+      "summary_cs": [
+        "Technologický startup dokázal vytvořit kompletní 110minutový snímek během pouhých čtyř týdnů.",
+        "Skuteční herci nemuseli trávit dny na place, pro produkci stačily jen jejich fotografie a krátká nahrávka hlasu.",
+        "Tento projekt ukazuje revoluční posun v možnostech generování videoobsahu a dramatické snížení nákladů na filmovou produkci."
+      ],
+      "why_matters": "Tento průlomový český úspěch ukazuje, jak dramaticky AI mění tradiční filmový průmysl a snižuje náklady na produkci.",
+      "url": "https://cc.cz/umela-inteligence-misto-filmoveho-stabu-celovecerak-vznikl-za-mesic-herce-potrebovali-na-dve-minuty/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI představuje model GPT-5.6-Cyber pro pokročilou kybernetickou bezpečnost",
+      "title_orig": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI uvádí na trh specializovaný model GPT-5.6-Cyber určený výhradně pro oblast kybernetické bezpečnosti.",
+        "Model je dostupný v rámci programu Daybreak Red a slouží k autorizovanému výzkumu zranitelností a testování zabezpečení.",
+        "Tento krok reaguje na zkracující se časové okno, které mají obránci na reakci proti novým typům kybernetických hrozeb."
+      ],
+      "why_matters": "Specializovaný bezpečnostní model od OpenAI poskytne českým firmám silný nástroj pro obranu proti moderním kybernetickým útokům.",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Průvodce pro vývojáře na modelu GPT-5.6 od OpenAI",
+      "title_orig": "The builder’s guide to GPT‑5.6",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI vydala oficiální návod pro startupy a vývojáře, jak efektivně stavět agenty na novém modelu GPT-5.6.",
+        "Příručka se zaměřuje na optimalizaci nákladů, správný výběr modelů a využití nových funkcí Responses API.",
+        "Cílem je umožnit tvorbu rychlejších a autonomnějších AI agentů s minimálními vývojovými náklady."
+      ],
+      "why_matters": "Praktický návod pomůže českým vývojářům efektivněji integrovat nejnovější model od OpenAI do jejich vlastních produktů.",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Zhodnocení stavu otevřených modelů pro léto 2026",
+      "title_orig": "State of Open Models: Summer 2026 Observations",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face přináší detailní analýzu aktuálního trhu s otevřenými jazykovými modely pro polovinu roku 2026.",
+        "Zpráva mapuje rostoucí kvalitu open-source alternativ, které se výkonem stále více přibližují proprietárním řešením.",
+        "Analýza se zaměřuje na efektivitu lokálního spouštění a nové možnosti přizpůsobení modelů pro specifické firemní účely."
+      ],
+      "why_matters": "Přehled ukazuje, jak mohou české firmy ušetřit za licenční poplatky přechodem na bezplatné otevřené modely.",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Proč Capital One staví svou agentní platformu na modelech s otevřenými váhami",
+      "title_orig": "Why Capital One built its multi-agent AI platform around open-weight models",
+      "category": "business",
+      "summary_cs": [
+        "Přední finanční instituce Capital One vysvětluje své rozhodnutí nepoužívat uzavřená komerční API pro své AI agenty.",
+        "Banka vybudovala robustní multiagentní architekturu postavenou na hluboce upravených open-weight modelech.",
+        "Tento přístup jim zajišťuje plnou kontrolu nad daty, vyšší bezpečnost a výraznou úsporu provozních nákladů."
+      ],
+      "why_matters": "Případová studie ukazuje českým bankám a regulovaným institucím, jak bezpečně nasadit AI bez úniku citlivých dat.",
+      "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Vlajkový model Palmyra X6 od společnosti Writer snižuje náklady na agenty o polovinu",
+      "title_orig": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
+      "category": "tools",
+      "summary_cs": [
+        "Platforma Writer vydává model Palmyra X6 určený pro podnikové nasazení, který slibuje snížení nákladů na tokeny o 52 procent.",
+        "Součástí vydání je také kompletně přepracované prostředí pro orchestraci agentů a nové nástroje pro správu výdajů.",
+        "Nástroj reaguje na rostoucí obavy IT ředitelů z nekontrolovaných výdajů za provoz autonomních AI systémů."
+      ],
+      "why_matters": "Tento model nabízí českým podnikům možnost nasadit agenty s polovičními provozními náklady a lepší kontrolou rozpočtu.",
+      "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Amazon trénuje AI na obsahu z platformy Twitch, pokud se uživatelé sami neodhlásí",
+      "title_orig": "Amazon Can Use Your Twitch Content to Train Its AI-Unless You Opt Out",
+      "category": "news",
+      "summary_cs": [
+        "Amazon začal automaticky využívat vysílání a data ze své platformy Twitch pro trénování vlastních AI modelů.",
+        "Uživatelé a tvůrci obsahu vyjadřují nevoli nad tím, že je tato funkce zapnutá jako výchozí a musí se z ní ručně odhlásit.",
+        "Tento krok opět otevírá debatu o etice sběru dat a autorských právech v éře generativní umělé inteligence."
+      ],
+      "why_matters": "Čeští tvůrci na platformě Twitch by si měli zkontrolovat nastavení soukromí, pokud nechtějí poskytovat svá videa pro trénování AI.",
+      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Cenová válka mezi OpenAI a Anthropicem graduje pod tlakem čínské konkurence",
+      "title_orig": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "category": "business",
+      "summary_cs": [
+        "Přední americké laboratoře OpenAI a Anthropic jsou nuceny dramaticky snižovat ceny svých API rozhraní.",
+        "Důvodem je rostoucí tlak ze strany čínských technologických firem, které nabízejí srovnatelně výkonné modely za zlomek ceny.",
+        "Tento konkurenční boj vede k rychlé komoditizaci inteligence a zpřístupnění pokročilých modelů širšímu spektru vývojářů."
+      ],
+      "why_matters": "Cenová válka globálních lídrů přináší českým vývojářům a firmám výrazně levnější přístup k nejlepším modelům na trhu.",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 11,
+      "title_cs": "AI modely jsou nejvíce sebevědomé právě tehdy, když se mýlí",
+      "title_orig": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
+      "category": "research",
+      "summary_cs": [
+        "Nové testování odhalilo znepokojivý trend v chování velkých jazykových modelů při generování odpovědí.",
+        "Modely vykazují nejvyšší míru jistoty a přesvědčivosti v případech, kdy poskytují fakticky zcela nesprávné informace.",
+        "Tento objev komplikuje snahy o automatické ověřování pravdivosti výstupů bez lidského dohledu."
+      ],
+      "why_matters": "Tato vlastnost modelů zvyšuje riziko nepozorovaných chyb v aplikacích, které české firmy nasazují bez lidské kontroly.",
+      "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Čínský humanoidní robot Unitree G1 se stává hitem internetu",
+      "title_orig": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+      "category": "wildcard",
+      "summary_cs": [
+        "Čtyřstopý robot Unitree G1 si získává obrovskou popularitu na sociálních sítích díky své obratnosti a relativní cenové dostupnosti.",
+        "Ačkoliv je prezentován jako pomocník pro domácnost, experti pochybují o jeho okamžitém reálném využití v běžném zaměstnání.",
+        "Rychlý vývoj v oblasti hardwaru nicméně ukazuje, že masová produkce osobních robotů se stává realitou."
+      ],
+      "why_matters": "Dostupná robotika se rychle blíží běžným domácnostem, což brzy ovlivní i český trh s elektronikou.",
+      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Jak farmaceutický průmysl začíná masivně platit za AI nástroje",
+      "title_orig": "🔬The BioAI Phase Shift - Matthew McPartlon & Neil Patil, Chai Discovery",
+      "category": "research",
+      "summary_cs": [
+        "Společnost Chai Discovery uzavřela během léta čtyři významné kontrakty s farmaceutickými giganty.",
+        "Obor biologie kombinované s AI zažívá zásadní posun od akademického výzkumu k reálnému komerčnímu využití.",
+        "Nové modely umožňují výrazně urychlit návrh nových léčiv a predikci chování proteinů."
+      ],
+      "why_matters": "Propojení AI a biologie otevírá obrovské příležitosti pro český farmaceutický a biotechnologický výzkum.",
+      "url": "https://www.latent.space/p/chai-discovery",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Nová metoda učení robotů s otevřeným ekosystémem od Hugging Face",
+      "title_orig": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face integruje nástroje Strands Agents a LeRobot do své platformy pro snadnější vývoj fyzické robotiky.",
+        "Vývojáři nyní mohou nahrávat data, trénovat modely a nasazovat je do robotů z jednoho centralizovaného místa.",
+        "Tento krok výrazně demokratizuje přístup k vývoji softwaru pro autonomní stroje a robotická ramena."
+      ],
+      "why_matters": "Zjednodušení vývoje robotiky usnadní českým průmyslovým firmám a univerzitám experimentování s automatizací.",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Zkušenosti z budování finančního oddělení postaveného na AI",
+      "title_orig": "What building an AI-native finance function taught me",
+      "category": "business",
+      "summary_cs": [
+        "Finanční ředitelka OpenAI Sarah Friar sdílí pět hlavních lekcí z transformace finančních procesů pomocí AI.",
+        "Mezi hlavní přínosy patří automatizované předpovídání vývoje trhu, silnější kontrolní mechanismy a jasné měření návratnosti investic.",
+        "Úspěšné nasazení vyžaduje změnu myšlení týmu a integraci AI přímo do jádra finančních systémů."
+      ],
+      "why_matters": "Praktické rady přímo od CFO OpenAI mohou inspirovat české finanční manažery k modernizaci jejich vlastních oddělení.",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI Blog"
+    }
+  ]
+}
