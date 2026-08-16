@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16T04:01:22.422824+00:00",
+  "generated_at": "2026-08-16T04:50:21.422941+00:00",
   "date": "2026-08-16",
-  "article_count_unique": 105,
-  "article_count_raw": 105,
+  "article_count_unique": 104,
+  "article_count_raw": 104,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 5
+      "count": 1,
+      "raw_count": 4
     },
     {
       "source_id": "czechcrunch",
@@ -761,18 +761,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "bfde6b3104a58dcd",
-      "title": "Investice Onsemi v Rožnově ve velkých problémech, zdražení Windows, Nvidia si půjčuje 500 miliard dolarů",
-      "url": "https://www.lupa.cz/clanky/investice-onsemi-v-roznove-ve-velkych-problemech-zdrazeni-windows-nvidia-si-pujcuje-500-miliard-dolaru/",
-      "published_at": "2026-08-14T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Muskův Terafab má být největší budova světa. Bezplatný ChatGPT bez omezení. Gemini má miliardu uživatelů. Watermarking v Claude. Zprávy z IT, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/272/tesla-terafab.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "57cb8524bbfaa90c",
