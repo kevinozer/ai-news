@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-17",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Stripe údajně kupuje startup OpenRouter za více než 7 miliard dolarů",
+      "title_orig": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "category": "business",
+      "summary_cs": [
+        "Platební gigant Stripe podle zákulisních informací plánuje akvizici populárního AI gateway startupu OpenRouter.",
+        "OpenRouter funguje jako agregátor různých jazykových modelů, který vývojářům zjednodušuje správu API a plateb za tokeny.",
+        "Tato transakce v hodnotě přesahující 7 miliard dolarů by znamenala jeden z největších obchodů v oblasti AI infrastruktury tohoto roku."
+      ],
+      "why_matters": "Ukazuje to obrovskou hodnotu agregačních vrstev v AI a posiluje pozici Stripe v technologickém ekosystému.",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI údajně rozpustila svůj tým pro připravenost na rizika",
+      "title_orig": "OpenAI reportedly disbanded its preparedness team",
+      "category": "news",
+      "summary_cs": [
+        "Podle deníku Financial Times rozpustila společnost OpenAI na konci minulého měsíce svůj specializovaný tým pro připravenost.",
+        "Úkolem tohoto týmu bylo vyhodnocovat, zda nové modely nepředstavují vážná bezpečnostní rizika, a navrhovat opatření k jejich zmírnění.",
+        "Tento krok přichází v době, kdy se OpenAI potýká s odchody klíčových bezpečnostních manažerů a mění svou organizační strukturu."
+      ],
+      "why_matters": "Rozpuštění klíčového bezpečnostního týmu vyvolává nové otázky ohledně priorit OpenAI v oblasti bezpečnosti.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Nová funkce ChatGPT Computer History zaznamenává vaše kliknutí a údery do klávesnice",
+      "title_orig": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "category": "tools",
+      "summary_cs": [
+        "Desktopová aplikace ChatGPT pro macOS přichází s novou funkcí Computer History, která převádí akce uživatele na tréninková data.",
+        "Nástroj sleduje aktivitu na počítači, učí se pracovní postupy uživatele a navrhuje automatizace pro nedokončené úkoly.",
+        "Uživatelé mají možnost tuto funkci v nastavení soukromí vypnout, pokud nechtějí svá data sdílet pro trénování modelů."
+      ],
+      "why_matters": "Představuje to významný krok k autonomním agentům, ale zároveň přináší velká rizika pro ochranu soukromí.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Qwen 3.8 27B je vynikající model, ale má tendenci nad věcmi příliš přemýšlet",
+      "title_orig": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "category": "open-source",
+      "summary_cs": [
+        "Nový open-source model Qwen 3.8 27B od čínské laboratoře Alibaba nabízí skvělé schopnosti zpracování obrazu a textu.",
+        "Analýza ukazuje, že model dosahuje skvělých výsledků, ale u jednodušších úkolů generuje zbytečně dlouhé myšlenkové řetězce.",
+        "Velikost 27 miliard parametrů je ideální pro provoz na výkonnějších noteboocích, což z něj dělá silného konkurenta pro lokální nasazení."
+      ],
+      "why_matters": "Čínské open-source modely se stávají reálnou a vysoce výkonnou alternativou k placeným americkým službám.",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Osm let vývoje jazykových modelů přineslo kolaps nákladové křivky",
+      "title_orig": "From BERT to Frontier Agents: Eight Years of Language-Model Progress, the Collapse of the Capability-Cost Curve, and the Rise of Task-Targeted Models",
+      "category": "research",
+      "summary_cs": [
+        "Nová studie mapuje vývoj od modelu BERT v roce 2018 až po současné pokročilé agenty schopné řešit složitou matematiku.",
+        "Schopnost modelů řešit reálné programátorské úkoly se od konce roku 2024 zvyšuje téměř šestinásobně každý rok.",
+        "Zároveň došlo k dramatickému poklesu finančních nákladů na provoz těchto modelů, což umožňuje jejich masové nasazení."
+      ],
+      "why_matters": "Dokumentuje neuvěřitelné tempo zlevňování a zdokonalování AI, které zásadně mění ekonomiku softwarového vývoje.",
+      "url": "https://arxiv.org/abs/2608.13675",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Měli druhý nejlepší rok, přesto propouštěli. Nesvádíme to na AI, říká šéf Trezoru",
+      "title_orig": null,
+      "category": "wildcard",
+      "summary_cs": [
+        "Šéf české kryptoměnové společnosti Trezor Matěj Žák hodnotí uplynulý rok a dopady technologických změn na firmu.",
+        "Navzdory finančnímu úspěchu musela firma přistoupit k propouštění, což však podle vedení není přímým důsledkem nasazení AI.",
+        "Trezor se zaměřuje na integraci moderních technologií a optimalizaci procesů pro udržení globální konkurenceschopnosti."
+      ],
+      "why_matters": "Pohled úspěšného českého zakladatele ukazuje reálný dopad technologické transformace na tuzemský byznys.",
+      "url": "https://cc.cz/meli-druhy-nejlepsi-rok-v-historii-presto-propousteli-nesvadime-to-na-ai-rika-sef-miliardoveho-trezoru/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Jak bude Claude označovat generované texty? Anthropic vysvětluje fungování vodoznaků",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Společnost Anthropic upřesnila detaily o novém systému neviditelných vodoznaků, které bude vkládat do textů generovaných modelem Claude.",
+        "Označení jako AI text se uplatní i v případech, kdy uživatel nechal model pouze přeložit nebo gramaticky opravit vlastní text.",
+        "Tento krok vyvolal obavy mezi studenty a profesionály, kteří se obávají falešných obvinění z plagiátorství."
+      ],
+      "why_matters": "Vysvětluje, jak se změní detekce AI textů, což ovlivní každého, kdo používá model Claude k práci.",
+      "url": "https://cc.cz/jak-bude-claude-oznacovat-generovane-texty-nalepku-ai-dostanou-i-kdyz-jen-preklada-nebo-opravuje/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Generální ředitel společnosti Anthropic označuje odpor vůči AI za krizi důvěry",
+      "title_orig": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "category": "news",
+      "summary_cs": [
+        "Dario Amodei reaguje na rostoucí kritiku a negativní vnímání umělé inteligence ze strany široké veřejnosti.",
+        "Podle něj není problém v tom, že by lídři oboru příliš varovali před riziky, ale v celkovém nedostatku důvěry v technologické firmy.",
+        "Amodei zdůrazňuje potřebu transparentnosti a budování lepších vztahů mezi vývojáři AI, vládami a běžnými občany."
+      ],
+      "why_matters": "Ukazuje, jak přední tvůrci AI přemýšlejí o společenském dopadu a regulaci svých technologií.",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "V reálných testech agentů model DeepSeek V4 Flash selhává, zatímco jeho ceny rostou",
+      "title_orig": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+      "category": "news",
+      "summary_cs": [
+        "Model V4 Flash od společnosti DeepSeek sice dominuje syntetickým žebříčkům, ale v praktických testech narazil na limity.",
+        "Při testování na komplexních úlohách v prostředí jako Claude Code nebo Codex dokončil model úspěšně pouze necelých 54 % úkolů.",
+        "Tento pokles reálné úspěšnosti přichází v momentě, kdy poskytovatel navyšuje ceny za přístup k API."
+      ],
+      "why_matters": "Upozorňuje na propast mezi teoretickými benchmarky a reálnou použitelností AI v podnikovém prostředí.",
+      "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Jak snížit náklady na RAG systémy až šestkrát",
+      "title_orig": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
+      "category": "tools",
+      "summary_cs": [
+        "Většina vývojářů posílá všechny nejasné dotazy přímo do jazykového modelu, což výrazně prodražuje provoz RAG systémů.",
+        "Klíčem k úspoře je zavedení klasifikační vrstvy, která rozhodne, které dotazy vůbec nemusí k drahému LLM dorazit.",
+        "Tento přístup umožňuje stabilní nasazení v produkčním prostředí s výrazně nižšími náklady na tokeny."
+      ],
+      "why_matters": "Nabízí praktický návod pro české vývojáře, jak radikálně zlevnit provoz firemních AI aplikací.",
+      "url": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Vznik modulární kognitivní architektury v rozsáhlých jazykových modelech",
+      "title_orig": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "category": "research",
+      "summary_cs": [
+        "Vědecký výzkum zkoumá, zda se v LLM objevuje podobná funkční specializace, jakou známe z lidského mozku.",
+        "Analýza ukazuje, že v modelech spontánně vznikají specializované sítě pro jazyk, formální uvažování a fyzikální svět.",
+        "Tento objev naznačuje, že modulární organizace může být univerzálním principem pro rozvoj pokročilé inteligence."
+      ],
+      "why_matters": "Pomáhá nám lépe pochopit vnitřní fungování neuronových sítí a přibližuje nás k efektivnější architektuře AI.",
+      "url": "https://arxiv.org/abs/2608.13567",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Stabilní špatná kalibrace aneb proč jsou modely sebevědomé při chybách",
+      "title_orig": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
+      "category": "research",
+      "summary_cs": [
+        "Studie se zaměřuje na fenomén, kdy AI modely dělají chyby s extrémně vysokou mírou jistoty.",
+        "Výzkumníci zjistili, že tyto sebevědomé chyby nejsou náhodné anomálie, ale jsou vnitřně stabilní i při drobných změnách zadání.",
+        "Tato stabilní špatná kalibrace představuje vážnou překážku pro nasazení AI v kritických oblastech, jako je medicína nebo finance."
+      ],
+      "why_matters": "Varuje před slepou důvěrou v odpovědi AI, i když se model tváří naprosto neomylně.",
+      "url": "https://arxiv.org/abs/2608.13591",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Agentao přináší bezpečné lokální prostředí pro agenty využívající nástroje",
+      "title_orig": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "category": "tools",
+      "summary_cs": [
+        "Představen byl nový runtime Agentao, který umožňuje bezpečné spouštění AI agentů přímo na lokálním zařízení.",
+        "Systém řeší rizika spojená s nadměrnými oprávněními agentů a nabízí robustní auditní stopu pro všechny prováděné akce.",
+        "Díky lokálnímu přístupu k paměti a nástrojům minimalizuje únik citlivých dat do externích cloudových služeb."
+      ],
+      "why_matters": "Řeší zásadní bezpečnostní problém firem, které chtějí využívat agenty, ale bojí se úniku dat.",
+      "url": "https://arxiv.org/abs/2608.13574",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Zapomeňte na ChatGPT. Nový hit je chatbot, kde odpovídá obyčejný člověk",
+      "title_orig": null,
+      "category": "wildcard",
+      "summary_cs": [
+        "Projekt ChatTJB získává popularitu tím, že paroduje moderní AI chatboty a vrací do hry lidský faktor.",
+        "Uživatelé komunikují přes rozhraní, které vypadá jako AI, ale na druhé straně sedí skuteční lidé a ručně píší odpovědi.",
+        "Tento koncept ukazuje rostoucí únavu společnosti z automatizovaného obsahu a touhu po autentické lidské interakci."
+      ],
+      "why_matters": "Zajímavý sociální experiment, který ukazuje, že lidský kontakt má v době AI stále obrovskou hodnotu.",
+      "url": "https://cc.cz/zapomente-na-chatgpt-novy-hit-mezi-chatboty-je-proste-obycejny-chlapek-ktery-rucne-odpovida-na-otazky/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Jak se firmy učí využívat agenty od asistence až po samotnou realizaci",
+      "title_orig": "From assistance to execution: How enterprises put AI to work",
+      "category": "labs",
+      "summary_cs": [
+        "Průzkum společnosti OpenAI ukazuje, jak moderní podniky přecházejí od jednoduchých chatbotů k autonomním agentům.",
+        "Firmy integrují nástroje jako ChatGPT Work a Codex přímo do svých klíčových operačních a inženýrských procesů.",
+        "Průkopnické organizace díky tomu dosahují výrazného zrychlení vývoje produktů a centralizace firemních znalostí."
+      ],
+      "why_matters": "Poskytuje cenné příklady z praxe, jak efektivně transformovat firemní procesy pomocí agentické AI.",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI Blog"
+    }
+  ]
+}
