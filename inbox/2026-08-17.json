@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T04:01:27.590244+00:00",
+  "generated_at": "2026-08-17T04:57:57.191937+00:00",
   "date": "2026-08-17",
-  "article_count_unique": 109,
-  "article_count_raw": 109,
+  "article_count_unique": 110,
+  "article_count_raw": 110,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -164,16 +164,28 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 0,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "ac5fe84beef51dc5",
+      "title": "Měli druhý nejlepší rok v historii, přesto propouštěli. Nesvádíme to na AI, říká šéf miliardového Trezoru",
+      "url": "https://cc.cz/meli-druhy-nejlepsi-rok-v-historii-presto-propousteli-nesvadime-to-na-ai-rika-sef-miliardoveho-trezoru/",
+      "published_at": "2026-08-17T04:26:25+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Šéf české kryptopeněženky Trezor Matěj Žák popisuje, jak na firmu dopadá cena bitcoinu, nástup umělé inteligence a co plánuje v dalších letech. Článek Měli druhý nejlepší rok v historii, přesto propouštěli. Nesvádíme to na AI, říká šéf miliardového Trezoru se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/matej-zak01-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "c7671a52575c9991",
       "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
