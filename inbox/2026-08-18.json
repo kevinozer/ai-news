@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T04:01:42.799731+00:00",
+  "generated_at": "2026-08-18T04:51:49.874938+00:00",
   "date": "2026-08-18",
-  "article_count_unique": 125,
-  "article_count_raw": 125,
+  "article_count_unique": 124,
+  "article_count_raw": 124,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -164,12 +164,12 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 1,
-      "raw_count": 5
+      "raw_count": 6
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "raw_count": 10
     }
   ],
@@ -1109,18 +1109,6 @@
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
       "category": "news"
-    },
-    {
-      "id": "258eca21ea008060",
-      "title": "Miliardový byznys s relé, luxusní byty u Vltavy a neutajitelné AI texty. Tohle jsou top články týdne",
-      "url": "https://cc.cz/miliardovy-byznys-s-rele-luxusni-byty-u-vltavy-a-neutajitelne-ai-texty-tohle-jsou-top-clanky-tydne/",
-      "published_at": "2026-08-16T15:34:10+00:00",
-      "author": "Gabriela Lukášková",
-      "summary_raw": "Jako každou neděli vám přinášíme pravidelný přehled toho nejzajímavějšího, co jsme v končícím týdnu na CzechCrunchi napsali a natočili. Článek Miliardový byznys s relé, luxusní byty u Vltavy a neutajitelné AI texty. Tohle jsou top články týdne se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/weekly-160826-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "25b7e72b5b33a670",
