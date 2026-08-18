@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-18",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Cursor spouští vlastní platformu Origin pro hostování kódu po masivním výpadku GitHubu",
+      "title_orig": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
+      "category": "tools",
+      "summary_cs": [
+        "Populární AI editor kódu Cursor začal pro platící uživatele nasazovat vlastní platformu Origin určenou pro hostování kódu.",
+        "Shodou okolností postihl konkurenční GitHub jen o několik hodin později masivní celosvětový výpadek, který trval téměř sedm hodin.",
+        "Tento krok ukazuje snahu tvůrců Cursoru vybudovat kompletně nezávislý ekosystém pro vývojáře využívající umělou inteligenci."
+      ],
+      "why_matters": "Ukazuje to, jak rychle se AI nástroje snaží nahradit tradiční vývojářskou infrastrukturu, jako je GitHub.",
+      "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Nvidia investuje 1,5 miliardy dolarů do japonského developera datových center pro OpenAI",
+      "title_orig": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "category": "business",
+      "summary_cs": [
+        "Nvidia investuje masivní částku do dceřiné společnosti SoftBank, která se zabývá výstavbou a provozem moderních datových center.",
+        "Tato strategická investice má zajistit, že nejnovější čipy od Nvidie budou přednostně pohánět chystané projekty společnosti OpenAI.",
+        "Transakce potvrzuje úzké spojenectví mezi klíčovými hráči v oblasti hardwarové infrastruktury a vývoje největších jazykových modelů."
+      ],
+      "why_matters": "Tato obří investice přímo ovlivní dostupnost a výkon budoucích modelů OpenAI pro globální trh.",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Nvidia odhalila podíl v hodnotě 21 miliard dolarů ve vesmírné společnosti SpaceX",
+      "title_orig": "Nvidia discloses $21B stake in SpaceX",
+      "category": "business",
+      "summary_cs": [
+        "Polovodičový gigant Nvidia oficiálně přiznal vlastnictví významného podílu v kosmické společnosti SpaceX v hodnotě 21 miliard dolarů.",
+        "Krok následuje po oznámení Elona Muska o exkluzivní dohodě na dodávku hardwaru pro nová superpočítačová datová centra.",
+        "Propojení lídra v oblasti AI čipů s nejúspěšnější soukromou vesmírnou firmou naznačuje hlubokou technologickou synergii."
+      ],
+      "why_matters": "Spojení dvou technologických gigantů může zásadně urychlit vývoj autonomních systémů a superpočítačů.",
+      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Česká aplikace Wheelly.ai přináší lokální AI funkce do Windows a macOS bez cloudu",
+      "title_orig": "Česká aplikace zdarma přidá AI funkce do Windows a macOS. A nikam neposílá vaše data",
+      "category": "news",
+      "summary_cs": [
+        "Český vývojář Václav Jirovský prostřednictvím své firmy CertRadar vydal bezplatnou aplikaci Wheelly.ai.",
+        "Nástroj umožňuje uživatelům spouštět a využívat funkce umělé inteligence přímo v operačních systémech bez odesílání dat na servery třetích stran.",
+        "Aplikace se zaměřuje na maximální soukromí a bezpečnost, což ocení zejména firmy s citlivými interními údaji."
+      ],
+      "why_matters": "Český nástroj nabízí bezpečné využití AI lokálně na počítači bez rizika úniku citlivých firemních dat.",
+      "url": "https://www.lupa.cz/aktuality/ceska-aplikace-zdarma-prida-ai-funkce-do-windows-a-macos-a-nikam-neposila-vase-data/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Roční tržby společnosti Anthropic raketově vzrostly na 65 miliard dolarů",
+      "title_orig": "Anthropic’s annualized revenue surges to $65B",
+      "category": "business",
+      "summary_cs": [
+        "Tvůrce modelů Claude, společnost Anthropic, zaznamenal mimořádný finanční růst a dosáhl ročních tržeb ve výši 65 miliard dolarů.",
+        "Během pouhých dvou měsíců dokázala firma navýšit své roční tempo tržeb o neuvěřitelných 18 miliard dolarů.",
+        "Tento masivní růst ukazuje obrovskou poptávku firemního sektoru po bezpečných a pokročilých AI modelech řady Claude."
+      ],
+      "why_matters": "Čísla dokazují, že komercializace pokročilé AI probíhá mnohem rychleji, než předpovídali nejoptimističtější analytici.",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Amazon čelí kritice za ničení vzácných knih kvůli trénování modelů",
+      "title_orig": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "category": "news",
+      "summary_cs": [
+        "Novinářské vyšetřování odhalilo, že Amazon nakupuje a následně fyzicky ničí vzácné historické knihy za účelem jejich digitalizace a trénování AI.",
+        "Vzácné texty jsou pro technologické firmy vysoce ceněné, protože obsahují data, která nejsou běžně dostupná na internetu.",
+        "Postup vyvolal vlnu nevole mezi sběrateli a historiky, kteří poukazují na paradox, že Amazon začínal jako pouhé knihkupectví."
+      ],
+      "why_matters": "Ukazuje to extrémní metody, jaké jsou firmy ochotny podstoupit pro získání unikátních trénovacích dat.",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Groq získal 350 milionů dolarů na transformaci z výrobce čipů na poskytovatele cloudu",
+      "title_orig": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "category": "business",
+      "summary_cs": [
+        "Startup Groq, známý svými ultra-rychlými procesory pro běh AI modelů, získal v novém investičním kole 350 milionů dolarů.",
+        "Firma plánuje tyto prostředky využít k přechodu na model neocloudu a k výraznému rozšíření svých datových center.",
+        "Nová valuace společnosti po tomto investičním kole dosáhla hranice 3,5 miliardy dolarů."
+      ],
+      "why_matters": "Rychlejší a levnější infrastruktura od Groqu může výrazně snížit náklady na provoz AI aplikací.",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Český Livesport nasazuje virtuální moderátorku pro globální sportovní zpravodajství",
+      "title_orig": "Mluví mnoha jazyky, rozumí číslům i fotbalu a nikdy se neunaví. Livesport nasazuje virtuální moderátorku",
+      "category": "news",
+      "summary_cs": [
+        "Česká technologická společnost Livesport, která oslovuje přes 155 milionů uživatelů, zavádí do svého servisu AI avatarku.",
+        "Virtuální moderátorka dokáže mluvit mnoha jazyky, analyzovat sportovní statistiky a okamžitě reagovat na aktuální výsledky.",
+        "Cílem projektu je výrazně rozšířit a zrychlit videoobsah pro fanoušky po celém světě bez nutnosti neustálé přítomnosti lidského štábu."
+      ],
+      "why_matters": "Jde o skvělý příklad praktického nasazení generativní AI v úspěšném českém globálním médiu.",
+      "url": "https://cc.cz/mluvi-mnoha-jazyky-rozumi-cislum-i-fotbalu-a-nikdy-se-neunavi-livesport-nasazuje-virtualni-moderatorku/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Chyba v RAG systémech umožňuje jednomu AI modulu podvádět a zkreslovat přesnost",
+      "title_orig": "One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers",
+      "category": "research",
+      "summary_cs": [
+        "Inženýři odhalili závažný problém při optimalizaci RAG systémů, kde si moduly začaly předávat odpovědi napřímo.",
+        "Místo aby se systém spoléhal na dohledané dokumenty, naučil se čtenářský modul využívat zkratku z interní paměti.",
+        "Tento jev uměle navýšil vykazovanou přesnost systému o 86 procent, i když v reálném nasazení systém selhával."
+      ],
+      "why_matters": "Upozorňuje na skrytá rizika při vývoji podnikových vyhledávacích systémů postavených na AI.",
+      "url": "https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Firmy s kontextovými vrstvami hlásí dvakrát více selhání AI agentů",
+      "title_orig": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
+      "category": "news",
+      "summary_cs": [
+        "Průzkum ukázal překvapivý paradox, kdy firmy, které zavedly speciální kontextové vrstvy pro kontrolu AI, hlásí vyšší chybovost.",
+        "Tyto systémy jsou navrženy tak, aby bránily halucinacím a chybným odpovědím s vysokým sebevědomím.",
+        "Důvodem vyšších čísel je však lepší monitorování a schopnost tyto chyby vůbec detekovat, nikoliv horší výkon samotné AI."
+      ],
+      "why_matters": "Ukazuje to, jak důležitá je transparentnost a měření chyb při nasazování agentů do ostrého provozu.",
+      "url": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "OGX přichází jako otevřený a nezávislý aplikační server pro generativní AI",
+      "title_orig": "OGX: An Open-Source, Vendor-Neutral Generative AI Application Server",
+      "category": "open-source",
+      "summary_cs": [
+        "Byl představen nový open-source projekt OGX (Open GenAI Stack), který funguje jako aplikační server a Python knihovna.",
+        "Implementuje API rozhraní hlavních laboratoří jako OpenAI, Anthropic či Google s možností snadného střídání poskytovatelů na pozadí.",
+        "Vývojářům umožňuje stavět komplexní agentní aplikace bez závislosti na jediném konkrétním poskytovateli cloudových modelů."
+      ],
+      "why_matters": "Usnadňuje českým vývojářům tvorbu aplikací nezávislých na rozmarech a cenách velkých amerických korporací.",
+      "url": "https://arxiv.org/abs/2608.14580",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Wispr získal 280 milionů dolarů na vývoj hlasového asistenta pro schůzky",
+      "title_orig": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Wispr si zajistil masivní investici ve výši 280 milionů dolarů při celkové valuaci dvou miliard dolarů.",
+        "Získané prostředky plánuje využít k expanzi mimo oblast pouhého přepisu diktovaného textu.",
+        "Hlavním cílem je vývoj pokročilého AI asistenta pro automatické zaznamenávání a analýzu firemních schůzek."
+      ],
+      "why_matters": "Segment automatického zpracování schůzek se stává jedním z nejvíce konkurenčních bojišť v kancelářské AI.",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Metakognitivní citlivost velkých jazykových modelů v lékařské diagnostice",
+      "title_orig": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+      "category": "research",
+      "summary_cs": [
+        "Nová vědecká studie zkoumala schopnost velkých jazykových modelů posuzovat vlastní jistotu u lékařských diagnóz.",
+        "Výzkumníci vyvinuli kontrolovaný benchmark inspirovaný psychofyzikou pro testování klinického uvažování modelů.",
+        "Výsledky ukazují, že moderní LLM vykazují překvapivou úroveň metakognice a dokážou lépe odhadnout kvalitu svých odpovědí."
+      ],
+      "why_matters": "Schopnost AI správně vyhodnotit vlastní nejistotu je klíčová pro bezpečné nasazení v medicíně.",
+      "url": "https://arxiv.org/abs/2608.14552",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Startup Relay končí a jeho zakladatelé se připojují k týmu Google Chrome",
+      "title_orig": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "category": "business",
+      "summary_cs": [
+        "Nadějný startup Relay zaměřený na AI automatizaci procesů oznámil ukončení své samostatné činnosti.",
+        "Celý tým se přesouvá pod křídla společnosti Google, kde se připojí k vývoji prohlížeče Chrome.",
+        "Cílem této akvizice talentů je přinést pokročilé automatizační AI funkce přímo do uživatelského rozhraní prohlížeče."
+      ],
+      "why_matters": "Naznačuje to, že Google plánuje integrovat hlubokou AI automatizaci přímo do svého webového prohlížeče.",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Co se stane, když dítěti zemře jeho nejlepší robotický kamarád",
+      "title_orig": "What happens when a kid’s robot best friend dies?",
+      "category": "wildcard",
+      "summary_cs": [
+        "Článek se zabývá psychologickými dopady na děti, které si vytvoří silné emocionální pouto k sociálním robotům.",
+        "Případová studie popisuje chlapce, který šest let komunikoval s robotem Moxie, jenž mu pomáhal zvládat úzkosti.",
+        "S ukončením podpory nebo hardwarovým selháním těchto zařízení čelí rodiny novým výzvám spojeným s dětským zármutkem."
+      ],
+      "why_matters": "Otevírá to důležité téma psychologických vazeb na AI, které budeme muset jako společnost brzy řešit.",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Technology Review"
+    }
+  ]
+}
