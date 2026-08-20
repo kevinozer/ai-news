@@ -18,6 +18,10 @@ on:
         description: "Testovací příjemce (prázdné = šéf z BOSS_EMAIL)"
         required: false
         default: ""
+      bez_sefa:
+        description: "true = neposílat PDF šéfovi (pro ladění rozesílky)"
+        required: false
+        default: "false"
 
 permissions:
   contents: read
@@ -65,8 +69,11 @@ jobs:
           P=$(python3 -c "from pypdf import PdfReader; print(len(PdfReader('digest/news_${DATE}.pdf').pages))")
           echo "stran: $P"; [ "$P" -le 100 ]
 
+      # bez_sefa umoznuje ladit rozesilku newsletteru, aniz by sefovi pokazde
+      # prisel dalsi tydenni prehled. 20. 8. 2026 mu kvuli testovani odesly tri.
+      # Planovany pondelni beh vstupy nema, takze pro nej plati puvodni chovani.
       - name: Odeslat e-mail šéfovi
-        if: ${{ inputs.dry_run != 'true' }}
+        if: ${{ inputs.dry_run != 'true' && inputs.bez_sefa != 'true' }}
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
