@@ -18,7 +18,7 @@ Spusteni:
 Promenne prostredi: RESEND_API_KEY
 """
 from __future__ import annotations
-import argparse, json, os, re, sys, urllib.parse, urllib.request
+import argparse, json, os, re, sys, urllib.error, urllib.parse, urllib.request
 from datetime import datetime
 from pathlib import Path
 
@@ -220,8 +220,19 @@ def posli(cesta: str, telo: dict, klic: str) -> dict:
         data=json.dumps(telo, ensure_ascii=False).encode('utf-8'),
         headers={'Authorization': f'Bearer {klic}', 'Content-Type': 'application/json'},
         method='POST')
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read().decode('utf-8') or '{}')
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.loads(r.read().decode('utf-8') or '{}')
+    except urllib.error.HTTPError as e:
+        # Bez tela odpovedi je v logu jen "HTTP Error 403: Forbidden" a hada se,
+        # jestli je spatne klic, workspace, domena nebo tarif. Resend posila duvod
+        # v JSONu, tak ho vypsat.
+        try:
+            duvod = e.read().decode('utf-8', 'replace')[:600]
+        except Exception:
+            duvod = '(telo odpovedi se nepodarilo precist)'
+        print(f'❌ Resend {e.code} na POST {cesta}: {duvod}', file=sys.stderr)
+        raise
 
 
 def main() -> int:
@@ -256,6 +267,9 @@ def main() -> int:
         return 0
 
     klic = os.environ.get('RESEND_API_KEY')
+    if klic:
+        # diagnostika bez prozrazeni klice: kratky paste nebo prazdno je hned videt
+        print(f'[newsletter] klic: prefix={klic[:3]!r}, delka={len(klic)}')
     if not klic:
         print('❌ chybi RESEND_API_KEY', file=sys.stderr)
         return 2
