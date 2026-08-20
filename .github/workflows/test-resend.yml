@@ -1,0 +1,60 @@
+# DOCASNY workflow - overuje, ze z GitHub Action projde pozadavek na Resend.
+# Nic neodesila, jen cte seznam broadcastu (GET). Az bude overeno, smazat.
+#
+# Kontext: 17. a 20. 8. 2026 padala rozesilka na 403 s telem "error code: 1010",
+# coz je blokace Cloudflarem kvuli hlavicce User-Agent "Python-urllib/3.x".
+# Tenhle test posila stejne hlavicky jako opraveny newsletter_send.py.
+name: Test spojeni s Resendem
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Zkusit oba User-Agenty
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.error, urllib.request
+
+          klic = os.environ.get('RESEND_API_KEY') or ''
+          print(f'klic: prefix={klic[:3]!r}, delka={len(klic)}')
+
+          def zkus(popis, ua):
+              req = urllib.request.Request(
+                  'https://api.resend.com/broadcasts',
+                  headers={'Authorization': f'Bearer {klic}',
+                           'Accept': 'application/json',
+                           'User-Agent': ua},
+                  method='GET')
+              try:
+                  with urllib.request.urlopen(req, timeout=30) as r:
+                      telo = r.read().decode('utf-8', 'replace')
+                      print(f'{popis}: HTTP {r.status} OK, odpoved {telo[:120]}')
+                      return r.status
+              except urllib.error.HTTPError as e:
+                  print(f'{popis}: HTTP {e.code}, telo: {e.read().decode("utf-8","replace")[:200]}')
+                  return e.code
+
+          stary = zkus('A) puvodni UA (Python-urllib)', 'Python-urllib/3.12')
+          novy = zkus('B) opraveny UA (aicruz-newsletter)', 'aicruz-newsletter/1.0 (+https://aicruz.cz)')
+
+          print()
+          if novy == 200:
+              print('✓ Z GitHub Action se pozadavek k Resendu dostane a klic je platny.')
+          else:
+              print('✗ Ani s opravenym UA to neprochazi, viz kody vyse.')
+              raise SystemExit(1)
+          if stary == 403:
+              print('✓ Potvrzeno, ze puvodni User-Agent byl ta pricina (403 od Cloudflare).')
+          PY
