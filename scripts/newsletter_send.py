@@ -218,7 +218,17 @@ def posli(cesta: str, telo: dict, klic: str) -> dict:
     req = urllib.request.Request(
         f'{API}{cesta}',
         data=json.dumps(telo, ensure_ascii=False).encode('utf-8'),
-        headers={'Authorization': f'Bearer {klic}', 'Content-Type': 'application/json'},
+        headers={
+            'Authorization': f'Bearer {klic}',
+            'Content-Type': 'application/json',
+            'Accept': 'application/json',
+            # Vlastni User-Agent je nutnost, ne kosmetika: s vychozim
+            # "Python-urllib/3.x" vraci Cloudflare pred Resendem 403 s telem
+            # "error code: 1010" (zabanovany podpis klienta). Chyba se tvarila
+            # jako spatny API klic - 17. a 20. 8. 2026 kvuli tomu nevysla
+            # rozesilka a v logach Resendu neni po tech pozadavcich ani stopa.
+            'User-Agent': 'aicruz-newsletter/1.0 (+https://aicruz.cz)',
+        },
         method='POST')
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
