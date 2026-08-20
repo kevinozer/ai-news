@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T04:01:57.496269+00:00",
+  "generated_at": "2026-08-20T04:53:06.669870+00:00",
   "date": "2026-08-20",
-  "article_count_unique": 151,
-  "article_count_raw": 151,
+  "article_count_unique": 152,
+  "article_count_raw": 152,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -169,11 +169,23 @@
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "8c0c60594c432815",
+      "title": "Kvůli aplikaci na neznámá čísla vstával v pět ráno. Pak dal v práci výpověď a staví z ní velký byznys",
+      "url": "https://cc.cz/kvuli-aplikaci-na-neznama-cisla-vstaval-v-pet-rano-pak-dal-v-praci-vypoved-a-stavi-z-ni-velky-byznys/",
+      "published_at": "2026-08-20T04:19:28+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Zakladatel aplikace Zvednout to? Jan Čislinský popisuje, jak se z vedlejšího projektu stal byznys na plný úvazek. Pustil se do něj i díky AI. Článek Kvůli aplikaci na neznámá čísla vstával v pět ráno. Pak dal v práci výpověď a staví z ní velký byznys se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/zvednout-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "a89ca4275d639a20",
       "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
