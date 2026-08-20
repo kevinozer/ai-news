@@ -116,3 +116,43 @@ jobs:
             exit 0
           fi
           python3 scripts/newsletter_send.py --ai-news . --end "$DATE"
+
+      # Pojistka: kdyz cokoliv v tomhle jobu selze, prijde o tom e-mail.
+      # 17. 8. 2026 spadla rozesilka na 403 z Resendu (spatny klic v secrets)
+      # a nikdo o tom dva dny nevedel - selhani workflow je videt jen v GitHubu.
+      # Zamerne pres Gmail SMTP, ne pres Resend: kdyz je rozbity prave Resend,
+      # upozorneni musi jit jinudy.
+      - name: Upozornit na selhani
+        if: failure()
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          BEH: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          python3 - <<'PY'
+          import os, ssl, smtplib
+          from email.message import EmailMessage
+          uzivatel = os.environ.get("GMAIL_USER")
+          heslo = os.environ.get("GMAIL_APP_PASSWORD")
+          if not (uzivatel and heslo):
+              print("chybi GMAIL_USER/GMAIL_APP_PASSWORD, upozorneni se neposila")
+              raise SystemExit(0)
+          msg = EmailMessage()
+          msg["From"] = uzivatel
+          msg["To"] = "kevin.ozer@aicruz.cz"
+          msg["Cc"] = uzivatel
+          msg["Subject"] = "Tydenni AI News: rozesilka SELHALA"
+          msg.set_content(
+              "Workflow 'AI News weekly digest' skoncilo chybou, takze tenhle tyden "
+              "newsletter odberatelum nejspis neodesel.\n\n"
+              f"Log behu: {os.environ.get('BEH','')}\n\n"
+              "Nejcastejsi pricina: neplatny nebo omezeny RESEND_API_KEY v secrets repa "
+              "ai-news (Resend na broadcasty vraci 403). Klic musi byt z workspace aicruz "
+              "a mit Full access.")
+          ctx = ssl.create_default_context()
+          with smtplib.SMTP("smtp.gmail.com", 587) as s:
+              s.starttls(context=ctx)
+              s.login(uzivatel, heslo)
+              s.send_message(msg)
+          print("upozorneni na selhani odeslano")
+          PY
