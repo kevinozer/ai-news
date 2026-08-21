@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T04:01:31.066778+00:00",
+  "generated_at": "2026-08-21T04:54:13.704031+00:00",
   "date": "2026-08-21",
-  "article_count_unique": 150,
-  "article_count_raw": 150,
+  "article_count_unique": 151,
+  "article_count_raw": 151,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -163,7 +163,7 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 12
     },
     {
@@ -174,6 +174,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "e0c7f95021a4f92d",
+      "title": "Češi mají medaile z olympiády v IT, mladíci z ČR se sešli s šéfem OpenAI, další čipový vzestup Číny",
+      "url": "https://www.lupa.cz/clanky/cesi-maji-medaile-z-olympiady-v-it-mladici-z-cr-se-sesli-s-sefem-openai-dalsi-cipovy-vzestup-ciny/",
+      "published_at": "2026-08-21T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Anthropic má velmi slušné příjmy. Další hromady peněz pro AI startupy. AI model Gemini 3.7 Flash je zde. Zprávy z IT, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/603/etched.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "7889d78f5b6342a6",
       "title": "Active Inference as Context Acquisition for AI Agents",
