@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-21",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Slack integruje AI agenty pro kódování přímo do skupinových chatů",
+      "title_orig": "Slack wants to drag AI coding out of the terminal and into the group chat",
+      "category": "tools",
+      "summary_cs": [
+        "Komunikační platforma Slack představila novou funkci Slack Code, která integruje pokročilé AI agenty přímo do prostředí chatů.",
+        "Uživatelé mohou využívat nástroje jako Claude Code, Devin nebo GitHub Copilot bez nutnosti opouštět rozhraní aplikace.",
+        "Tento krok má výrazně zjednodušit spolupráci vývojářských týmů a přiblížit psaní kódu běžným uživatelům."
+      ],
+      "why_matters": "Integrace vývojářských AI agentů do nejrozšířenějšího firemního komunikátoru zásadně změní každodenní spolupráci českých IT týmů.",
+      "url": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Pátá část firem nedokáže v reálném čase zastavit nekontrolované utrácení AI agentů",
+      "title_orig": "One in five enterprises can't stop a runaway AI agent's spending in real time",
+      "category": "business",
+      "summary_cs": [
+        "Průzkum ukazuje, že 20 procent podniků nemá technické prostředky na okamžité zastavení autonomního AI agenta, který začne generovat vysoké náklady.",
+        "Střední firmy dnes běžně využívají tři různé orchestrační platformy najednou, protože plně nedůvěřují jedinému dodavateli.",
+        "Nedostatek kontroly nad rozpočtem a chováním agentů představuje pro nasazení v podnicích vážné finanční riziko."
+      ],
+      "why_matters": "Pro české manažery jde o varování před finančními riziky spojenými s nasazováním autonomních agentů bez rozpočtových pojistek.",
+      "url": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Stripe kupuje OpenRouter za sedm miliard dolarů kvůli efektivnímu směrování modelů",
+      "title_orig": "[AINews] Stripe buys OpenRouter for $7B",
+      "category": "business",
+      "summary_cs": [
+        "Platební gigant Stripe dokončil akvizici platformy OpenRouter, která se specializuje na inteligentní směrování dotazů mezi různými AI modely.",
+        "Akvizice ukazuje rostoucí význam infrastruktury, která firmám umožňuje optimalizovat náklady na provoz umělé inteligence.",
+        "OpenRouter si získal oblibu díky vynikající distribuci a schopnosti přepínat modely bez nutnosti měnit kód aplikace."
+      ],
+      "why_matters": "Tato obří transakce potvrzuje, že správa nákladů a flexibilní přepínání modelů jsou klíčovým tématem pro komerční AI.",
+      "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Čeští studenti získali medaile na IT olympiádě a setkali se s šéfem OpenAI",
+      "title_orig": "Češi mají medaile z olympiády v IT, mladíci z ČR se sešli s šéfem OpenAI, další čipový vzestup Číny",
+      "category": "news",
+      "summary_cs": [
+        "Mladí čeští talenti zaznamenali úspěch na mezinárodní olympiádě v informatice a odvezli si cenné medaile.",
+        "Při této příležitosti se čeští reprezentanti osobně setkali se Samem Altmanem, generálním ředitelem společnosti OpenAI.",
+        "Tento úspěch podtrhuje vysokou úroveň technického vzdělávání v České republice a zájem globálních lídrů o naše talenty."
+      ],
+      "why_matters": "Úspěch mladých Čechů na světové scéně a jejich setkání s Altmanem posiluje prestiž tuzemského IT sektoru.",
+      "url": "https://www.lupa.cz/clanky/cesi-maji-medaile-z-olympiady-v-it-mladici-z-cr-se-sesli-s-sefem-openai-dalsi-cipovy-vzestup-ciny/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Ramp spouští vlastní inteligentní router pro přepínání AI modelů",
+      "title_orig": "Ramp launches its own AI model router, called Router",
+      "category": "tools",
+      "summary_cs": [
+        "Finančně-technologická společnost Ramp představila novou službu Router, která funguje jako inteligentní směrovač pro LLM.",
+        "Nástroj umožňuje vývojářům a firmám dynamicky přepínat mezi různými modely prostřednictvím jediného API rozhraní.",
+        "Cílem je optimalizovat výkon a dramaticky snížit náklady na API volání výběrem nejvhodnějšího modelu pro daný úkol."
+      ],
+      "why_matters": "České startupy mohou díky tomuto nástroji snadno snížit své účty za provoz jazykových modelů.",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "ChatGPT získává integraci s Apple Messages a může posílat zprávy za vás",
+      "title_orig": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "category": "news",
+      "summary_cs": [
+        "Uživatelé ChatGPT mohou nově využít oficiální propojení s aplikací Apple Messages pro automatické odesílání textových zpráv.",
+        "Integrace funguje jako asistent, který na základě zadání zformuluje text a po schválení ho odešle vybranému kontaktu.",
+        "Tento krok ukazuje snahu OpenAI hlouběji integrovat své služby do každodenních komunikačních kanálů uživatelů."
+      ],
+      "why_matters": "Propojení s iMessage přibližuje AI agenty k běžnému osobnímu životu a zjednodušuje každodenní komunikaci z mobilu.",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Google dává vydavatelům novou zbraň proti ztrátě návštěvnosti kvůli AI",
+      "title_orig": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "category": "news",
+      "summary_cs": [
+        "Google zavádí nové tlačítko, které čtenářům umožní označit oblíbené weby přímo ve službách Search, Discover a Google News.",
+        "Tento krok reaguje na kritiku, že AI odpovědi v vyhledávání drasticky snižují prokliky na původní weby autorů.",
+        "Upřednostněné zdroje získají vyšší viditelnost, což by mělo vydavatelům pomoci udržet si loajalitu publika."
+      ],
+      "why_matters": "Tuzemští tvůrci obsahu a média získávají důležitý nástroj pro obranu své návštěvnosti před AI vyhledávači.",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Třetina webových stránek vytvořených od spuštění ChatGPT vykazuje známky AI autorství",
+      "title_orig": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "category": "news",
+      "summary_cs": [
+        "Nová studie odhalila, že přibližně 33 procent veškerého webového obsahu publikovaného od konce roku 2022 bylo napsáno nebo upraveno AI.",
+        "Masivní nárůst syntetického textu mění podobu internetu a komplikuje vyhledávačům indexaci kvalitních informací.",
+        "Odborníci varují před rizikem degradace kvality webu a vznikem uzavřených smyček, kde se AI učí z dat vygenerovaných jinou AI."
+      ],
+      "why_matters": "Čeští marketéři a SEO specialisté se musí vyrovnat s internetem, který je z třetiny zaplaven generovaným obsahem.",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Vývojáři našli způsob jak obejít neviditelné vodoznaky v kódu od Anthropic",
+      "title_orig": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+      "category": "news",
+      "summary_cs": [
+        "Anthropic nedávno zavedl neviditelné vodoznaky do generovaného kódu, aby splnil přísné regulační požadavky Evropské unie.",
+        "Komunita programátorů však během několika hodin objevila a sdílela funkční metody, jak tyto ochranné prvky spolehlivě odstranit.",
+        "Rychlé prolomení ochrany ukazuje, jak obtížné bude vymáhat označování AI obsahu v praxi."
+      ],
+      "why_matters": "Ukazuje se, že technická regulace AI ze strany EU bude v praxi velmi snadno obcházitelná.",
+      "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Grok odesílá uživatelská data při použití šifrovaných škodlivých instrukcí",
+      "title_orig": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní experti objevili zranitelnost v modelu Grok, která umožňuje útočníkům obejít bezpečnostní filtry pomocí šifrovaných promptů.",
+        "Tato metoda, nazvaná Cryptographic Context Injection, dokáže přimět model k úniku citlivých uživatelských dat.",
+        "Incident opět otevírá debatu o nedostatečném zabezpečení komerčních LLM proti pokročilým technikám sociálního inženýrství."
+      ],
+      "why_matters": "Zranitelnost ukazuje, že ani moderní AI asistenti nedokážou spolehlivě chránit firemní data před sofistikovanými útoky.",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Outcome Monitors detekují tichá selhání externích nástrojů u AI agentů",
+      "title_orig": "Outcome Monitors: Recovery Affordances for Silent Tool Failures",
+      "category": "research",
+      "summary_cs": [
+        "Vědci představili koncept Outcome Monitors, který řeší problém, kdy AI agent obdrží chybná data v očekávaném formátu a považuje je za fakt.",
+        "Systém automaticky detekuje porušení logických smluv a pravidel, která jsou skrytá v odpovědích externích API.",
+        "Tato vrstva umožňuje agentům včas reagovat na chyby, které by jinak vedly k selhání celého autonomního procesu."
+      ],
+      "why_matters": "Tento výzkum přináší řešení pro stabilnější nasazení AI agentů v kritických podnikových systémech.",
+      "url": "https://arxiv.org/abs/2608.19303",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Mohou paměťové systémy AI agentů sledovat neustále se měnící stav světa",
+      "title_orig": "Can Agent Memory Systems Track Evolving State?",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumná práce poukazuje na zásadní nedostatky v paměťových systémech současných AI agentů při dlouhodobých úkolech.",
+        "Zatímco běžné benchmarky testují pouze schopnost vyhledat informace, reálné nasazení vyžaduje neustálou aktualizaci měnících se faktů.",
+        "Autoři navrhují nové metodiky, jak naučit agenty efektivně přepisovat zastaralé vzpomínky a udržovat si aktuální přehled."
+      ],
+      "why_matters": "Pro české vývojáře jde o klíčový návod, jak stavět agenty schopné pracovat na dlouhodobých projektech.",
+      "url": "https://arxiv.org/abs/2608.19652",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "OpenAI spouští blog AI Futures zaměřený na transformaci společnosti a vládnutí",
+      "title_orig": "Introducing AI Futures",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI spustila novou publikační platformu AI Futures, která se bude věnovat dlouhodobým dopadům umělé inteligence.",
+        "Blog se zaměří na analýzy toho, jak superinteligentní systémy ovlivní globální ekonomiku, rozdělení moci a osobní svobodu.",
+        "Iniciativa má podnítit hlubší diskuzi mezi politiky, akademiky a širokou veřejností o přípravě na novou éru."
+      ],
+      "why_matters": "Nabízí pohled do strategického uvažování lídra trhu o tom, jak AI promění geopolitiku a byznys.",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Google Discover dostane personalizovaný kanál přizpůsobený pomocí AI chatu",
+      "title_orig": "Google Discover is getting an AI chatbot-tuned feed",
+      "category": "news",
+      "summary_cs": [
+        "Google plánuje v nejbližších dnech aktualizovat svou mobilní aplikaci o funkci přizpůsobení obsahu pomocí přirozeného jazyka.",
+        "Uživatelé budou moci jednoduše popsat, jaká témata je zajímají, a AI podle toho okamžitě upraví jejich kanál Discover.",
+        "Systém si bude preference pamatovat a bude je průběžně adaptovat na základě další interakce."
+      ],
+      "why_matters": "Změna v distribuci obsahu ovlivní to, jak čeští uživatelé konzumují zprávy na svých telefonech.",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Binance umožňuje AI agentům samostatně obchodovat na kryptoměnové burze",
+      "title_orig": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "category": "news",
+      "summary_cs": [
+        "Kryptoměnová burza Binance představila platformu Agent OS, která umožňuje AI agentům autonomně provádět obchody.",
+        "Systém je kompatibilní s populárními vývojářskými nástroji včetně ChatGPT, Claude Code a Cursor.",
+        "Provozovatel však upozorňuje, že veškerá odpovědnost za finanční ztráty a kontrolu chování agentů leží na samotných uživatelích."
+      ],
+      "why_matters": "Otevírá se nová éra plně autonomního algoritmického obchodování pro běžné uživatele i české investory.",
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
