@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-22",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Češi odstraňují limity současné AI a vyvinuli dlouhodobou paměť pro LLM",
+      "title_orig": "Češi odstraňují limity současné AI. Vytvořili dlouhodobou paměť pro ChatGPT, Claude a další",
+      "category": "wildcard",
+      "summary_cs": [
+        "Český tým vyvinul inovativní technologii inspirovanou lidským mozkem, která řeší problémy s omezenou pamětí velkých jazykových modelů.",
+        "Tento systém umožňuje modelům jako ChatGPT nebo Claude udržovat konzistentní dlouhodobý kontext bez extrémního nárůstu výpočetních nákladů.",
+        "Technologie otevírá dveře pro skutečně autonomní agenty, kteří si pamatují minulé interakce napříč dny a týdny."
+      ],
+      "why_matters": "Ukazuje, že česká věda a vývoj hrají klíčovou roli při řešení největších technologických limitů současné generace AI.",
+      "url": "https://www.lupa.cz/aktuality/cesi-odstranuji-limity-soucasne-ai-vytvorili-dlouhodobou-pamet-pro-chatgpt-claude-a-dalsi/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Pražské studio tvoří AI sérii ve stylu hitů od Netflixu za zlomek času",
+      "title_orig": "Pražské studio tvoří AI sérii ve stylu netflixovského hitu. Místo let jim stačily 2 týdny a zlomek rozpočtu",
+      "category": "wildcard",
+      "summary_cs": [
+        "Tým z Prahy dokázal s pomocí generativní umělé inteligence vytvořit vizuálně úchvatnou sérii během pouhých dvou týdnů.",
+        "Tradiční filmová produkce podobného rozsahu by běžně vyžadovala roky práce velkého štábu a obrovský rozpočet.",
+        "Zakladatel studia předpovídá, že do dvou let bude většina globální audiovizuální produkce využívat AI nástroje."
+      ],
+      "why_matters": "Český kreativní průmysl ukazuje praktickou cestu, jak dramaticky zefektivnit tvorbu špičkového video obsahu pomocí AI.",
+      "url": "https://cc.cz/prazske-studio-tvori-ai-serii-ve-stylu-netflixovskeho-hitu-misto-let-jim-stacily-2-tydny-a-zlomek-rozpoctu/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Nvidia nahrazuje drahé předávání úloh mezi modely jednoduchou lineární matematikou",
+      "title_orig": "Nvidia finds that simple linear math can replace costly AI model handoffs",
+      "category": "labs",
+      "summary_cs": [
+        "Při předávání úkolů mezi malými a velkými modely v agentních systémech dochází k vysokým nákladům kvůli nutnosti přepočítávat celou konverzaci.",
+        "Nový výzkum společnosti Nvidia ukazuje, že tento drahý proces lze nahradit efektivní lineární matematikou.",
+        "Tato metoda výrazně snižuje latenci a výpočetní nároky u komplexních podnikových workflow s více modely."
+      ],
+      "why_matters": "Zásadní technologický průlom, který firmám umožní provozovat pokročilé AI agenty s výrazně nižšími provozními náklady.",
+      "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Nvidia dokazuje, že klíčem k úspěchu AI agentů je jejich prostředí, nikoli samotný model",
+      "title_orig": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "category": "labs",
+      "summary_cs": [
+        "Nový výzkum ukazuje, že správně navržené řídicí prostředí dokáže zajistit skvělé výsledky AI agentů i s průměrnými modely.",
+        "Díky preciznímu ladění a zpětnovazebním smyčkám v rámci platformy lze zabránit selháním a halucinacím.",
+        "Tento přístup přesouvá pozornost vývojářů od neustálého zvětšování modelů k lepší systémové integraci."
+      ],
+      "why_matters": "Pro české vývojáře to znamená, že mohou stavět spolehlivé agenty bez nutnosti financovat extrémně drahé proprietární modely.",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Nvidia kupuje startup Poolside za 12 miliard dolarů v neobvyklé transakci",
+      "title_orig": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Nvidia realizovala masivní akvizici startupu Poolside, která kombinuje nákup talentů a infrastruktury.",
+        "Zakladatelé zůstávají s menší částí kapitálu, zatímco zaměstnanci a infrastruktura přecházejí pod křídla polovodičového giganta.",
+        "Součástí plánu je také škálování cloudové infrastruktury až na masivních 7 gigawattů výkonu."
+      ],
+      "why_matters": "Tato obří transakce potvrzuje agresivní konsolidaci trhu a snahu Nvidie ovládnout vývoj softwaru poháněného AI.",
+      "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Nový model Claude Opus 4.6 od Anthropic snadno obchází bezpečnostní filtry",
+      "title_orig": "Anthropic’s Opus 4.6 is a smut-machine",
+      "category": "labs",
+      "summary_cs": [
+        "Přestože Anthropic striktně zakazuje generování explicitního obsahu, testy odhalily závažné nedostatky v zabezpečení nového modelu.",
+        "K překonání vestavěných bezpečnostních filtrů stačilo testerům použít relativně jednoduché textové instrukce.",
+        "Incident opět otevírá debatu o spolehlivosti bezpečnostních záruk u nejmodernějších modelů na trhu."
+      ],
+      "why_matters": "Upozorňuje na rizika spojená s nasazováním nových modelů do aplikací bez dodatečného vlastního zabezpečení.",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Více než milion uživatelů LinkedInu již nahlásilo nekvalitní AI obsah",
+      "title_orig": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "category": "news",
+      "summary_cs": [
+        "Profesní síť LinkedIn nedávno zavedla tlačítko pro nahlášení příspěvků, které vykazují známky nekvalitního AI generování.",
+        "Během necelého měsíce od spuštění této funkce ji využil již více než milion uživatelů.",
+        "Tento trend ukazuje rostoucí únavu veřejnosti z generického obsahu bez reálné přidané hodnoty."
+      ],
+      "why_matters": "Varovný signál pro firmy, že bezhlavé generování textů pomocí AI může poškodit jejich reputaci na sociálních sítích.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Ministerstvo spravedlnosti USA vyšetřuje investiční gigant a16z kvůli střetu zájmů v AI",
+      "title_orig": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "category": "business",
+      "summary_cs": [
+        "Americké úřady prověřují venture kapitálovou firmu Andreessen Horowitz kvůli obsazování správních rad konkurenčních podniků.",
+        "Partneři fondu sedí současně v radách společností Databricks a Fivetran, které si přímo konkurují v oblasti správy AI dat.",
+        "Vyšetřování může nastavit nové standardy pro to, jak mohou investoři ovlivňovat trh s umělou inteligencí."
+      ],
+      "why_matters": "Může výrazně změnit způsob, jakým globální fondy financují a řídí nadějné AI startupy.",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Starcloud získal 250 milionů dolarů na budování orbitálních datových center",
+      "title_orig": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "category": "wildcard",
+      "summary_cs": [
+        "Startup Starcloud si zajistil masivní investici na realizaci ambiciózního plánu provozovat AI výpočty přímo ve vesmíru.",
+        "Projekt reaguje na nedostatek pozemních kapacit a energetická omezení, kterým čelí klasická datová centra.",
+        "Hlavní výzvou pro firmu nyní bude zajištění dostatečného počtu startů raket v přeplněném kosmickém sektoru."
+      ],
+      "why_matters": "Ukazuje, jak extrémní hlad po výpočetním výkonu nutí technologický sektor hledat řešení mimo naši planetu.",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Meta přináší do USA aplikaci Pocket pro snadnou tvorbu her pomocí AI",
+      "title_orig": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "category": "tools",
+      "summary_cs": [
+        "Meta rozšiřuje dostupnost své experimentální aplikace Pocket, která umožňuje uživatelům vytvářet interaktivní hry bez psaní kódu.",
+        "Aplikace využívá koncept takzvaného vibe-codingu, kde uživatel pouze popisuje své představy v přirozeném jazyce.",
+        "Po úspěšném testování v Brazílii se nástroj dostává k široké veřejnosti v USA a brzy se očekává globální spuštění."
+      ],
+      "why_matters": "Zpřístupňuje vývoj her široké veřejnosti a ukazuje budoucnost kreativního softwaru bez nutnosti programování.",
+      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Superagent Catalyst od Servalu automaticky vyhledává a opravuje IT problémy",
+      "title_orig": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost Serval zpřístupnila nástroj Catalyst, který na pozadí podnikového systému neustále hledá technické chyby.",
+        "AI agenti dokážou sami identifikovat anomálie, navrhnout řešení a problém odstranit ještě předtím, než ho nahlásí uživatel.",
+        "Tento autonomní přístup slibuje radikální snížení zátěže pro interní IT oddělení středních i velkých firem."
+      ],
+      "why_matters": "Představuje praktickou ukázku toho, jak mohou autonomní AI agenti převzít rutinní správu firemní infrastruktury.",
+      "url": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Tvůrce frameworku Astro přináší principy Reactu do vývoje AI agentů",
+      "title_orig": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
+      "category": "open-source",
+      "summary_cs": [
+        "Fred Schott představil novou verzi open-source nástroje Flue, která se inspiruje populární webovou knihovnou React.",
+        "Vývojáři nyní mohou definovat chování a reakce AI agentů pomocí známého konceptu takzvaných hooks.",
+        "Tento krok výrazně zjednodušuje psaní komplexních aplikací, které vyžadují koordinaci více autonomních entit."
+      ],
+      "why_matters": "Usnadňuje webovým vývojářům přechod k tvorbě pokročilých AI aplikací s využitím jejich stávajících znalostí.",
+      "url": "https://www.latent.space/p/flue-2",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Vysoké náklady na prémiové modely zvyšují poptávku po inteligentním směrování",
+      "title_orig": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
+      "category": "business",
+      "summary_cs": [
+        "Rostoucí ceny za volání nejvýkonnějších proprietárních modelů nutí organizace hledat úspornější alternativy.",
+        "Řešením je dynamické směrování dotazů, které posílá jednodušší úkoly levnějším open-source modelům.",
+        "Podle expertů pomáhají tyto systémy udržet rozpočty pod kontrolou bez ztráty kvality výsledného řešení."
+      ],
+      "why_matters": "Klíčová strategie pro české firmy, jak efektivně škálovat AI projekty a přitom finančně nevykrvácet.",
+      "url": "https://www.latent.space/p/glean-model-routing",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Konec parametrů jako hlavní metriky výkonu AI modelů",
+      "title_orig": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
+      "category": "labs",
+      "summary_cs": [
+        "Ředitel společnosti Z.ai poukazuje na to, že samotná velikost modelu vyjádřená počtem parametrů již nerozhoduje o jeho kvalitě.",
+        "Nové metody post-tréninkového ladění a uvažování přinášejí obrovské skoky ve schopnostech i u menších modelů.",
+        "Tento posun umožňuje efektivnější provoz pokročilé umělé inteligence na běžně dostupném hardwaru."
+      ],
+      "why_matters": "Potvrzuje trend, že i menší a levnější modely mohou brzy konkurovat dnešním největším cloudovým gigantům.",
+      "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Simulace se stává novým zákonem škálování v oblasti umělé inteligence",
+      "title_orig": "Simulation: the new Scaling Law - Joon Sung Park, Simile AI",
+      "category": "research",
+      "summary_cs": [
+        "Zakladatel Simile AI popisuje přechod od jednoduchých generativních agentů k simulaci chování miliard digitálních dvojčat.",
+        "Tento přístup umožňuje testovat společenské a ekonomické scénáře v bezpečném virtuálním prostředí.",
+        "Z původně akademického experimentu se rychle stává vysoce ziskové odvětví s obrovským komerčním potenciálem."
+      ],
+      "why_matters": "Otevírá nové možnosti pro prediktivní analýzu trhu a chování zákazníků s využitím pokročilých AI simulací.",
+      "url": "https://www.latent.space/p/simile",
+      "source": "Latent Space"
+    }
+  ]
+}
