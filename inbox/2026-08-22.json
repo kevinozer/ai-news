@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T04:02:24.870885+00:00",
+  "generated_at": "2026-08-22T04:49:11.388770+00:00",
   "date": "2026-08-22",
   "article_count_unique": 119,
   "article_count_raw": 119,
@@ -164,7 +164,7 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 2,
-      "raw_count": 8
+      "raw_count": 7
     },
     {
       "source_id": "czechcrunch",
@@ -415,24 +415,24 @@
       "category": "newsletter"
     },
     {
-      "id": "b722bc4fec17fce8",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "published_at": "2026-08-21T14:00:00+00:00",
-      "author": "Tim Fernholz",
-      "summary_raw": "There's about to be a big fight to secure access to space.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "180c95626eb90e3e",
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "published_at": "2026-08-21T14:00:00+00:00",
       "author": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
       "summary_raw": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16z first invested [&#8230;]",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "b722bc4fec17fce8",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "published_at": "2026-08-21T14:00:00+00:00",
+      "author": "Tim Fernholz",
+      "summary_raw": "There's about to be a big fight to secure access to space.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
