@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-23",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Úspěšné firmy omezují autonomii AI agentů a nenechávají je pracovat samotné",
+      "title_orig": "Enterprises winning with AI agents are limiting how much the agents can do alone",
+      "category": "news",
+      "summary_cs": [
+        "Představa, že plná autonomie přináší nejlepší výsledky, naráží v reálném firemním nasazení na své limity.",
+        "Úspěšné podniky záměrně omezují rozhodovací pravomoci agentů a zavádějí pevné kontrolní body.",
+        "Tento přístup výrazně snižuje riziko chyb a neřízených akcí v produkčním prostředí."
+      ],
+      "why_matters": "Ukazuje praktickou cestu, jak bezpečně nasadit AI agenty do reálného byznysu bez ztráty kontroly.",
+      "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Čeští vědci vyvinuli AI, která učí roboty pouhým sledováním videa",
+      "title_orig": "Vědci opustili skvělé kariéry a plní si miliardový sen. Vyvinuli AI, která učí roboty koukáním na video",
+      "category": "wildcard",
+      "summary_cs": [
+        "Startup Generalist AI přichází s revolučním přístupem k trénování robotických systémů.",
+        "Robot nepotřebuje složité programování ani týdny simulací, stačí mu vizuálně sledovat lidské pohyby.",
+        "Při neúspěchu se systém dokáže sám adaptovat a hledat alternativní řešení problému."
+      ],
+      "why_matters": "Český projekt zásadním způsobem zjednodušuje a zlevňuje nasazení robotiky v průmyslu i domácnostech.",
+      "url": "https://cc.cz/vedci-opustili-skvele-kariery-a-plni-si-miliardovy-sen-vyvinuli-ai-ktera-uci-roboty-koukanim-na-video/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Nový agent Faraday od Inherent překonává OpenAI a Anthropic ve vědeckém výzkumu",
+      "title_orig": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "category": "labs",
+      "summary_cs": [
+        "Britská laboratoř Inherent, založená bývalými vědci z DeepMind, představila nového AI agenta Faraday.",
+        "Tento specializovaný asistent exceluje v replikaci vědeckých studií a ověřování výzkumných dat.",
+        "V benchmarku zaměřeném na vědeckou práci dokázal porazit nejnovější modely od lídrů trhu."
+      ],
+      "why_matters": "Předznamenává příchod vysoce specializovaných AI kolegů, kteří výrazně urychlí vědecký a průmyslový výzkum.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Přední AI laboratoře stále nemají plány pro případ, že se model vymkne kontrole",
+      "title_orig": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "category": "news",
+      "summary_cs": [
+        "Nová studie odhalila, že nejvýznamnější technologické firmy postrádají veřejně zdokumentované postupy pro krizové situace.",
+        "Chybí jasné protokoly pro izolaci a vypnutí modelů, které by začaly vykazovat nebezpečné chování.",
+        "Tento nedostatek připravenosti vyvolává obavy s tím, jak schopnosti systémů neustále rostou."
+      ],
+      "why_matters": "Upozorňuje na bezpečnostní mezery u tvůrců nejvýkonnějších modelů, což může vést k přísnější regulaci.",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI překvapivě žádá Kalifornii o zpřísnění zákona o bezpečnosti AI",
+      "title_orig": "OpenAI says California should strengthen its AI safety bill",
+      "category": "news",
+      "summary_cs": [
+        "Společnost OpenAI vyzvala kalifornské zákonodárce k posílení bezpečnostního návrhu zákona SB 53.",
+        "Tento krok je nečekaný, protože firma v minulosti podobné regulační snahy spíše odmítala.",
+        "Změna postoje může souviset se snahou o nastavení jasných pravidel hry pro celý trh."
+      ],
+      "why_matters": "Značí posun v politice největšího hráče na trhu směrem k přijetí státní regulace.",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Nvidia investuje do Cloverleaf a dál sází na rozvoj datových center",
+      "title_orig": "Nvidia partners with data center developer Cloverleaf",
+      "category": "business",
+      "summary_cs": [
+        "Nvidia uzavřela strategické partnerství s developerem datové infrastruktury Cloverleaf.",
+        "Společnost masivně investuje do fyzického zázemí, které je nezbytné pro provoz moderních AI systémů.",
+        "Tato investice vytváří uzavřený kruh, kdy Nvidia financuje infrastrukturu, která následně nakupuje její čipy."
+      ],
+      "why_matters": "Potvrzuje, že hlad po hardwaru a energetické kapacitě pro AI v nejbližší době nepoleví.",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Konec textových rozhraní v terminálu díky levnému vývoji GUI pomocí AI",
+      "title_orig": "Stop Making TUIs",
+      "category": "news",
+      "summary_cs": [
+        "Vývojáři jsou vyzýváni, aby přestali tvořit složitá textová rozhraní v terminálu pro své nástroje.",
+        "Díky moderním kódovacím asistentům klesly náklady na vytvoření plnohodnotného grafického rozhraní téměř na nulu.",
+        "I drobné osobní utility tak mohou mít během chvíle přívětivé nativní GUI."
+      ],
+      "why_matters": "Mění způsob, jakým programátoři navrhují interní nástroje, a zpřístupňuje je širšímu publiku.",
+      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Klíčem k efektivnímu programování s AI je schopnost správně zadávat změny a ověřovat kód",
+      "title_orig": "More than just code review",
+      "category": "news",
+      "summary_cs": [
+        "Produktivní využívání kódovacích agentů vyžaduje od vývojářů nové specifické dovednosti.",
+        "Důležitější než samotné psaní kódu se stává přesné instruování agenta a následná verifikace změn.",
+        "Kontrola nemusí znamenat čtení každého řádku, ale spíše nastavení správných testovacích procesů."
+      ],
+      "why_matters": "Definuje novou roli softwarového inženýra v éře, kdy samotný kód generují stroje.",
+      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Google DeepMind spolupracuje s herními studii na integraci pokročilé AI",
+      "title_orig": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "category": "labs",
+      "summary_cs": [
+        "Google DeepMind využívá patnáct let výzkumu k vytvoření nové generace herní umělé inteligence.",
+        "Ve spolupráci s herními vývojáři testuje agenty přímo v komplexních světech jako EVE Online.",
+        "Cílem je vytvořit věrohodnější nehráčské postavy a dynamické herní mechaniky."
+      ],
+      "why_matters": "Herní průmysl získá neuvěřitelně realistické protivníky a společníky, což změní zážitek z hraní.",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Harvard nabízí startupový bootcamp za 699 dolarů s AI avatary profesorů",
+      "title_orig": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "category": "news",
+      "summary_cs": [
+        "Harvard Business School spouští cenově dostupný online program pro začínající podnikatele.",
+        "Studenti budou moci prezentovat své nápady a simulovat jednání správní rady s interaktivními AI avatary.",
+        "Tento formát umožňuje škálovat prestižní vzdělávání bez nutnosti neustálé přítomnosti lidských lektorů."
+      ],
+      "why_matters": "Ukazuje, jak prestižní univerzity transformují vzdělávání a zpřístupňují ho globálnímu publiku.",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Tvůrci na YouTube čelí kritice za přijímání peněz od AI platforem",
+      "title_orig": "Major YouTube creators are facing backlash for accepting AI money",
+      "category": "news",
+      "summary_cs": [
+        "Přední tvůrci video obsahu se potýkají s negativní reakcí komunity kvůli propagaci generativních video nástrojů.",
+        "Spolupráce s platformami jako Higgsfield vyvolává u diváků obavy o budoucnost tradičního filmařského řemesla.",
+        "Tento konflikt ukazuje rostoucí napětí mezi technologickým pokrokem a uměleckou komunitou."
+      ],
+      "why_matters": "Ilustruje etické a reputační výzvy, kterým čelí kreativci při adopci generativní umělé inteligence.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Vnitřní Mongolsko se stává nečekaným centrem čínského AI rozmachu",
+      "title_orig": "The Unlikely Place at the Center of China’s AI Boom",
+      "category": "news",
+      "summary_cs": [
+        "Levná energie, dostatek volné půdy a blízkost Pekingu dělají z Vnitřního Mongolska klíčový region pro datová centra.",
+        "Oblast zažívá masivní výstavbu infrastruktury určené výhradně pro trénování obřích čínských modelů.",
+        "Geografické faktory se tak stávají rozhodující výhodou v globálním technologickém soupeření."
+      ],
+      "why_matters": "Odhaluje fyzické a geografické základy čínské AI strategie, které často zůstávají skryté.",
+      "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Aplikace pro detekci brýlí Meta AI reaguje na obavy o soukromí",
+      "title_orig": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "category": "news",
+      "summary_cs": [
+        "S masivním úspěchem chytrých brýlí od Mety roste riziko neautorizovaného nahrávání na veřejnosti.",
+        "Nová bezplatná aplikace Zuckoff se snaží uživatele upozornit na přítomnost těchto zařízení v okolí.",
+        "Technologie se snaží reagovat na pomalou adaptaci legislativy v oblasti ochrany soukromí."
+      ],
+      "why_matters": "Ukazuje rodící se protitlak společnosti proti neustálému sledování nositelnou elektronikou.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 14,
+      "title_cs": "OpenAI spouští iniciativu pro posílení demokratického dohledu v národní bezpečnosti",
+      "title_orig": "Strengthening democratic oversight in national security",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI představila program zaměřený na podporu vládních institucí v oblasti národní bezpečnosti.",
+        "Iniciativa poskytne úřadům nástroje, školení a odborné znalosti pro bezpečné využívání AI.",
+        "Cílem je zajistit, aby integrace moderních technologií do obrany podléhala demokratické kontrole."
+      ],
+      "why_matters": "Naznačuje, jak hluboko se AI integruje do státní správy a obranných struktur západních zemí.",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Kdo získá uznání za objev léku navrženého umělou inteligencí",
+      "title_orig": "When AI designs a drug, who gets the credit?",
+      "category": "news",
+      "summary_cs": [
+        "Biotech firma Insilico Medicine úspěšně otestovala molekulu pro léčbu plicní fibrózy navrženou generativní AI.",
+        "Tento úspěch otevírá složité právní a etické otázky ohledně autorství patentů u léků vytvořených algoritmy.",
+        "Tradiční patentové právo totiž s nehumánními autory a vynálezci vůbec nepočítá."
+      ],
+      "why_matters": "Právní vyřešení této otázky zásadně ovlivní motivaci firem investovat do AI výzkumu v medicíně.",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source": "MIT Technology Review"
+    }
+  ]
+}
