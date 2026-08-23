@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T04:01:34.851793+00:00",
+  "generated_at": "2026-08-23T04:52:18.233153+00:00",
   "date": "2026-08-23",
-  "article_count_unique": 94,
-  "article_count_raw": 94,
+  "article_count_unique": 93,
+  "article_count_raw": 93,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 5
+      "count": 1,
+      "raw_count": 4
     },
     {
       "source_id": "czechcrunch",
@@ -737,18 +737,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "e0c7f95021a4f92d",
-      "title": "Češi mají medaile z olympiády v IT, mladíci z ČR se sešli s šéfem OpenAI, další čipový vzestup Číny",
-      "url": "https://www.lupa.cz/clanky/cesi-maji-medaile-z-olympiady-v-it-mladici-z-cr-se-sesli-s-sefem-openai-dalsi-cipovy-vzestup-ciny/",
-      "published_at": "2026-08-21T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Anthropic má velmi slušné příjmy. Další hromady peněz pro AI startupy. AI model Gemini 3.7 Flash je zde. Zprávy z IT, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/603/etched.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "a5a81b64ca19c332",
