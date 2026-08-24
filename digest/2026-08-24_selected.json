@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-24",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Jak vibecoding mění byznysmodel vývojářských firem",
+      "title_orig": "„Máme hotových 90 procent. Dodělejte nám zbytek“, žádají klienti vývojáře. Jak to vypadá, když vibecoding mění byznysmodel?",
+      "category": "news",
+      "summary_cs": [
+        "Umělá inteligence dramaticky zlevnila a zrychlila psaní kódu, což zásadně mění tradiční softwarový trh.",
+        "Klienti stále častěji přicházejí s prototypy vytvořenými pomocí AI a od vývojářů požadují pouze dokončení zbývajících deseti procent práce.",
+        "Tento trend nutí softwarové domy kompletně přehodnotit způsob nacenění, předávání a garance kvality softwaru."
+      ],
+      "why_matters": "Ukazuje, jak AI reálně transformuje český IT byznys a mění vztahy mezi klienty a vývojáři.",
+      "url": "https://www.lupa.cz/clanky/mame-hotovych-90-procent-dodelejte-nam-zbytek-zadaji-klienti-vyvojare-jak-to-vypada-kdyz-vibecoding-meni-byznysmodel/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Záhadný model Ox Alpha vyvolává spekulace o nové špičkové AI",
+      "title_orig": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "category": "wildcard",
+      "summary_cs": [
+        "Na internetu se objevil tajemný AI model s názvem Ox Alpha, který svými schopnostmi okamžitě zaujal komunitu.",
+        "Mezi odborníky se množí spekulace o tom, která z předních technologických laboratoří za tímto projektem stojí.",
+        "Model vykazuje mimořádné výsledky v komplexních úlohách, což naznačuje příchod nové generace systémů."
+      ],
+      "why_matters": "Sledování nových utajovaných modelů často předznamenává další velký technologický skok v AI.",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Podnikové AI agenty brzdí neuspořádané firemní dokumenty",
+      "title_orig": "Enterprise AI agents are only as reliable as the messiest documents behind them",
+      "category": "news",
+      "summary_cs": [
+        "Spolehlivost firemních AI agentů přímo závisí na kvalitě a struktuře interních dokumentů, které mají k dispozici.",
+        "Současný přístup založený na pouhém propojování systémů a tvorbě embeddingů naráží na limity u chaotických dat.",
+        "Pro úspěšné nasazení autonomních agentů je nezbytné nejprve vyčistit a systematizovat firemní znalostní bázi."
+      ],
+      "why_matters": "Pomáhá českým manažerům pochopit, proč jejich investice do AI agentů nemusí přinášet očekávané výsledky.",
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Nejlepší model od Anthropic bojuje o uživatele kvůli levnější konkurenci",
+      "title_orig": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "category": "business",
+      "summary_cs": [
+        "Nejvýkonnější model společnosti Anthropic čelí slabšímu zájmu uživatelů, kteří dávají přednost levnějším alternativám.",
+        "Roční příjmy společnosti sice v červenci vzrostly na 65 miliard dolarů, ale tlak na snižování cen modelů sílí.",
+        "Trh se začíná výrazně orientovat na efektivitu a poměr ceny a výkonu namísto absolutní technologické dominance."
+      ],
+      "why_matters": "Naznačuje posun priorit firem od nejdražších modelů k ekonomicky udržitelnějším AI řešením.",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Kdo deleguje úkoly na AI? Analýza 53 tisíc konfigurací agentů",
+      "title_orig": "Who Delegates to AI? Evidence from 53,000 Agent Configurations",
+      "category": "research",
+      "summary_cs": [
+        "Nová studie zkoumá reálné přijetí AI mezi pracovníky namísto pouhého teoretického odhadu ohrožení pracovních míst.",
+        "Výzkum analyzuje data z tisíců konfigurací a ukazuje, které úkoly lidé nejčastěji a nejraději delegují na autonomní agenty.",
+        "Výsledky pomáhají lépe pochopit skutečnou integraci umělé inteligence do každodenních pracovních procesů."
+      ],
+      "why_matters": "Přináší tvrdá data o tom, jak lidé v praxi spolupracují s AI agenty.",
+      "url": "https://arxiv.org/abs/2608.20425",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "NanoClaw přichází do Slacku a umožňuje snadnou tvorbu týmů AI agentů",
+      "title_orig": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
+      "category": "tools",
+      "summary_cs": [
+        "Populární open-source framework NanoClaw nově integruje své autonomní agenty přímo do komunikační platformy Slack.",
+        "Uživatelé mohou pomocí jediné zprávy vytvářet persistentní týmy AI kolegů pro řešení komplexních úkolů.",
+        "Nástroj se snaží odbourat složitost a těžkopádnost, která nasazení agentů v podnikovém prostředí často provází."
+      ],
+      "why_matters": "Zjednodušuje nasazení užitečných AI pomocníků do nástroje, který denně používá většina českých firem.",
+      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Zpověď Linuse Torvaldse o tom, jak mu AI pomohla při složitém ladění kódu",
+      "title_orig": "Quoting Linus Torvalds",
+      "category": "wildcard",
+      "summary_cs": [
+        "Tvůrce Linuxu popsal své zkušenosti s využitím umělé inteligence během extrémně náročného ladění systému.",
+        "AI mu výrazně pomohla s rutinní a zdlouhavou prací, i když občas tvrdila, že problém je zcela neřešitelný.",
+        "Torvaldsův komentář ukazuje, jak i největší skeptici a technologické ikony začínají integrovat AI do svých postupů."
+      ],
+      "why_matters": "Názor zakladatele Linuxu má v komunitě vývojářů obrovskou váhu a definuje limity spolupráce s AI.",
+      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Nvidia chce, abyste si stavěli vlastní modely, namísto nákupu od OpenAI",
+      "title_orig": "Teaching Everyone to Fish for Tokens",
+      "category": "business",
+      "summary_cs": [
+        "Strategie společnosti Nvidia se zaměřuje na podporu firem v budování a ladění vlastních proprietárních modelů.",
+        "Cílem je snížit závislost trhu na velkých poskytovatelích cloudových služeb jako jsou Anthropic nebo OpenAI.",
+        "Tento přístup přímo podporuje prodej specializovaného hardwaru Nvidia pro lokální trénování a provoz AI."
+      ],
+      "why_matters": "Může zásadně ovlivnit strategická rozhodnutí českých firem ohledně vlastnictví a bezpečnosti jejich AI dat.",
+      "url": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+      "source": "Interconnects (Nathan Lambert)"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Je legální trénovat AI modely na knihách chráněných autorským právem?",
+      "title_orig": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "category": "news",
+      "summary_cs": [
+        "Většina publikovaných autorů přispěla k vývoji moderních LLM bez svého vědomí či výslovného souhlasu.",
+        "Právní spory kolem autorských práv a trénovacích dat zůstávají extrémně komplikované a bez jasného precedentu.",
+        "Výsledek těchto debat určí budoucí ekonomické podmínky pro autory i technologické společnosti."
+      ],
+      "why_matters": "Právní rámec trénování AI ovlivní i české tvůrce a dostupnost lokálního obsahu v modelech.",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Stampli zkrátilo čas spuštění projektů o dvě třetiny díky ChatGPT Work",
+      "title_orig": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost Stampli využila nástroje Codex a ChatGPT Work k radikálnímu zrychlení vývojového cyklu.",
+        "Díky zapojení AI se podařilo zkrátit týdny plánované produkční práce na pouhé dny při zachování kvality.",
+        "Případová studie demonstruje reálné úspory nákladů a lidských zdrojů při nasazení podnikových verzí AI."
+      ],
+      "why_matters": "Praktický příklad pro české manažery, jak efektivně zkrátit dobu uvedení produktů na trh.",
+      "url": "https://openai.com/index/stampli",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Odhalování padělků na Vintedu s pomocí rozumu i přes zapojení AI",
+      "title_orig": "Nakupujete na Vintedu? Ani jeho AI vás neochrání před padělky. Takto je odhalíte za pár minut",
+      "category": "news",
+      "summary_cs": [
+        "Automatizované kontrolní mechanismy na populární platformě Vinted nejsou stoprocentní ochranou před podvody.",
+        "Ačkoli platforma aktivně využívá AI k detekci padělků, sofistikované podvody stále dokážou systémem projít.",
+        "Článek přináší praktické rady, jak mohou sami uživatelé během několika minut odhalit neoriginální zboží."
+      ],
+      "why_matters": "Užitečný návod pro širokou českou veřejnost, která na této platformě aktivně nakupuje.",
+      "url": "https://cc.cz/nakupujete-na-vintedu-ani-jeho-ai-vas-neochrani-pred-padelky-takto-je-odhalite-za-par-minut/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Nové bezpečnostní riziko v neuronových operátorech pro fyzikální rovnice",
+      "title_orig": "Wrong-Physics Backdoors in Neural PDE Operators",
+      "category": "research",
+      "summary_cs": [
+        "Vědci objevili novou metodu otravy dat, která umožňuje vložit zadní vrátka do neuronových PDE operátorů.",
+        "Tento útok dokáže donutit model k chybným fyzikálním předpovědím, aniž by to odhalily běžné testy přesnosti.",
+        "Zjištění zdůrazňuje nutnost přísnější kontroly a validace otevřených knihoven s předtrénovanými modely."
+      ],
+      "why_matters": "Klíčové varování pro české inženýry a vědce využívající AI pro simulace fyzikálních dějů.",
+      "url": "https://arxiv.org/abs/2608.20439",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nexus zrychluje odezvu AI agentů díky efektivnímu směrování nástrojů",
+      "title_orig": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+      "category": "research",
+      "summary_cs": [
+        "S rostoucím počtem dostupných nástrojů pro AI agenty se dramaticky prodlužuje čas do vygenerování prvního tokenu.",
+        "Systém Nexus řeší tento problém oddělením směrování od samotného generování a optimalizací práce s vyrovnávací pamětí.",
+        "Tato architektura umožňuje bleskovou reakci agentů i při integraci stovek různých externích funkcí."
+      ],
+      "why_matters": "Technické řešení pro vývojáře, kteří bojují s pomalou odezvou u komplexních agentických systémů.",
+      "url": "https://arxiv.org/abs/2608.20397",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Cena paměti pro AI servery vzrostla za poslední rok o 500 procent",
+      "title_orig": "[AINews] Memory prices up 500% in 12 months",
+      "category": "business",
+      "summary_cs": [
+        "Globální trh čelí extrémnímu nedostatku a zdražování paměťových čipů optimalizovaných pro běh AI modelů.",
+        "Během pouhých dvanácti měsíců vzrostly ceny těchto klíčových komponent o pětinásobek původní hodnoty.",
+        "Tento růst nákladů komplikuje plány na rozšiřování infrastruktury pro menší poskytovatele a startupy."
+      ],
+      "why_matters": "Upozorňuje na skryté infrastrukturní náklady, které mohou prodražit provoz vlastních AI řešení.",
+      "url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Jak správně vyvážit rychlost a přesnost pomocí simulací v AI",
+      "title_orig": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+      "category": "news",
+      "summary_cs": [
+        "Využití simulací se stává dominantním přístupem pro rychlé testování a optimalizaci AI systémů.",
+        "Přijetí mírně horších výsledků výměnou za stonásobné zlevnění a extrémní zrychlení dává obrovský smysl.",
+        "Tento trend mění způsob, jakým firmy přistupují k iteracím a nasazování nových modelů do praxe."
+      ],
+      "why_matters": "Pomáhá českým projektům optimalizovat náklady na vývoj a testování AI aplikací.",
+      "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "source": "Latent Space"
+    }
+  ]
+}
