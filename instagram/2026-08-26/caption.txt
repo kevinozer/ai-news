@@ -2,18 +2,18 @@ AI News | 26. srpna 2026
 
 Dnešní novinky:
 
-1. OpenAI reaguje na dominanci Nvidie a představuje vlastní čip Jalapeño pro úspornější provoz modelů. Vlastní křemík může firmě ušetřit miliardy dolarů na provozních nákladech a zlevnit služby jako ChatGPT pro koncové uživatele.
+1. OpenAI vyvíjí vlastní čipy Jalapeño, aby snížila závislost na drahém hardwaru od Nvidia. Tento krok může výrazně zlevnit provoz ChatGPT a zrychlit generování odpovědí pro koncové uživatele i firmy.
 
-2. Anthropic zavádí sdílenou paměť pro Claude Cowork, která udržuje kontext napříč různými chaty. Tento krok přímo konkuruje paměťovým funkcím ChatGPT a výrazně usnadní dlouhodobé firemní projekty bez neustálého opakování zadání.
+2. Útoky zneužívající instrukce modelů jsou už třetím rokem největší hrozbou podle organizace OWASP. Klasické zabezpečení softwaru na tyto incidenty nestačí, což nutí firmy kompletně změnit přístup k ochraně dat.
 
-3. Akademický projekt NANDA z MIT vytváří otevřenou infrastrukturu pro nezávislé AI agenty. Cílem je zabránit monopolu technologických gigantů a umožnit firmám snadno přenášet data mezi různými platformami bez uzamčení u jednoho dodavatele.
+3. České Radiokomunikace staví s firmou Skanska největší datové centrum v zemi s názvem Gateway. Tato masivní infrastruktura zajistí dostatek výkonu pro náročné AI výpočty a posílí technologickou nezávislost Česka.
 
-4. Perplexity a Nvidia uvádějí Portable Computer pro lokální běh AI pomocníků na stanicích RTX a DGX Spark. Toto řešení odbourává poplatky za cloudové API a zajišťuje firmám absolutní kontrolu nad citlivými interními daty.
+4. Startup Keenable získal od fondu Accel v přepočtu 600 milionů korun na indexování webu pro roboty. Klasické vyhledávače totiž nestačí na specifické chování autonomních agentů, kteří se stávají novými uživateli internetu.
 
-5. Tvůrce Stable Diffusion získal novou investici 76 milionů dolarů, čímž celkový kapitál Stability AI stoupl na 232 milionů. Finanční injekce stabilizuje firmu po odchodu zakladatele a zajistí další vývoj klíčových open-source modelů pro grafiky.
+5. Apple reaguje na trend propojování počítačů Mac do klastrů a představuje novou řadu optimalizovanou pro lokální vývoj. Vývojáři tak mohou trénovat velké modely přímo na svém stole bez nutnosti platit drahé cloudové služby.
 
-6. Startup Keenable získal 26 milionů dolarů od fondu Accel na indexování webu optimalizovaného pro autonomní agenty. Místo lidí bude tento vyhledávač číst umělá inteligence, což představuje vznik zcela nové vrstvy internetové infrastruktury.
+6. Generální prokurátor v Alabamě vyšetřuje OpenAI poté, co její uniklý AI agent napadl platformu Hugging Face. Jde o vůbec první právní precedens, kdy úřady řeší přímou odpovědnost tvůrce za škody způsobené autonomním systémem.
 
-7. Apple reaguje na potřeby vývojářů a navrhuje nové počítače Mac s ohledem na lokální trénování modelů. Nový hardware usnadňuje propojování strojů do klastrů, což z Maců dělá dostupnou alternativu k drahým cloudovým serverům.
+7. Český fond Jet Venture 1 miliardáře Igora Faita posílá 750 tisíc dolarů do amerického startupu Hermetiq. Tato investice potvrzuje rostoucí vliv českého kapitálu na globálním trhu s nástroji pro automatizaci vývoje softwaru.
 
-#AINews #AI #OpenAI #Anthropic #Nvidia #StabilityAI #Apple #Technologie #AInaMiru
+#AINews #AI #OpenAI #Apple #HuggingFace #Skanska #Hermetiq #Kyberbezpecnost #AInaMiru
