@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-28T04:01:31.730710+00:00",
+  "generated_at": "2026-08-28T16:39:12.753997+00:00",
   "date": "2026-08-28",
-  "article_count_unique": 158,
-  "article_count_raw": 158,
+  "article_count_unique": 153,
+  "article_count_raw": 153,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 20,
-      "raw_count": 20
+      "count": 18,
+      "raw_count": 18
     },
     {
       "source_id": "verge_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "wired_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 11,
-      "raw_count": 11
+      "count": 12,
+      "raw_count": 12
     },
     {
       "source_id": "anthropic_news",
@@ -55,8 +55,8 @@
     {
       "source_id": "deepmind_blog",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "microsoft_ai",
@@ -79,8 +79,8 @@
     {
       "source_id": "tldr_ai",
       "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "bens_bites",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "latent_space",
@@ -163,7 +163,7 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "raw_count": 13
     },
     {
@@ -174,6 +174,210 @@
     }
   ],
   "articles": [
+    {
+      "id": "fff21d3212a75971",
+      "title": "Trump’s EPA wants to let data centers hide their air pollution",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "published_at": "2026-08-28T16:28:40+00:00",
+      "author": "Justine Calma",
+      "summary_raw": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "43254b3a250839ca",
+      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+      "published_at": "2026-08-28T15:42:24+00:00",
+      "author": "Ashley Belanger",
+      "summary_raw": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2235448062-1024x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "bc6d46a2fa8f1771",
+      "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
+      "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
+      "published_at": "2026-08-28T15:30:05+00:00",
+      "author": "",
+      "summary_raw": "Enterprises trying to feed PDFs, slides and scanned documents into AI pipelines keep running into the same wall: the tools either miss the structure — tables, charts, layout — or cost too much to run at scale. Cohere released Parse 5 on Thursday , positioning it on price-to-performance, not raw accuracy — the right cost-capability mix for enterprise scale. Parse 5 is a 2.3-billion-parameter vision language model built to convert PDFs, slides and images into structured Markdown at enterprise scale. Cohere&#x27;s own published benchmark comparison puts Parse 5 behind three larger, general-purpose frontier models on accuracy. GPT-5.5, Opus 4.8 and Gemini 3.5 Flash all score higher than Parse on the three ParseBench dimensions Cohere reports. Cohere is not claiming the top score. It is claiming the best price for a score close to the top.The company priced the model at $1.50 per 1,000 pages through its API, with Model Vault, Cohere&#x27;s secure, single-tenant platform for managed inference, available for higher-volume deployment. &quot;Document parsing isn&#x27;t solved because the hard part isn&#x27;t reading text, it&#x27;s preserving structure and meaning,&quot; Nils Reimers, VP of AI Search at Cohere, told VentureBeat. &quot;Enterprise documents mix tables, diagrams, charts, and formatting that change the interpretation of the data. Most tools still drop structure or hallucinate content, and even frontier models break on layout‑heavy pages.&quot; Inside the single-pass architecture Parse 5 takes a page as an image, runs it through a single vision-language model pass and returns structured Markdown, collapsing the OCR-plus-model pipeline most tools run as separate steps. Architecture. It is a 2.3-billion-parameter vision language model built on Cohere Labs&#x27; North-Micro-Vision-Instruct architecture, with an 8,192-token context window and roughly a 4.6-gigabyte footprint. It accepts a PDF, PowerPoint or JPEG page as a base64-encoded image and returns Markdown in …",
+      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/4TjUlY3MRMwpmf1ws6gLXB/37ddd10b337d50ad97e92ba8900cd831/ai-parsing-smk1.jpeg?w=300&q=30",
+      "source_id": "venturebeat_ai",
+      "source_name": "VentureBeat AI",
+      "category": "news"
+    },
+    {
+      "id": "18c13e90a5b209e7",
+      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
+      "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+      "published_at": "2026-08-28T15:00:00+00:00",
+      "author": "Steven Levy",
+      "summary_raw": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
+      "hero_image": "https://media.wired.com/photos/6a909d466b1fcc4b68700cd4/master/pass/Backchannel-AI-Doctors-Business-1267508918.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "d1cbdaba490b35bd",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "published_at": "2026-08-28T12:46:12+00:00",
+      "author": "Rebecca Bellan",
+      "summary_raw": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "cc712fcb24c2a702",
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "published_at": "2026-08-28T12:35:27+00:00",
+      "author": "Thomas Macaulay",
+      "summary_raw": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Neanderthals_finals-top.jpg?fit=2128,1196",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "838542f370e90d40",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "published_at": "2026-08-28T12:21:06+00:00",
+      "author": "Jagmeet Singh",
+      "summary_raw": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "ffa39359c6ae2891",
+      "title": "How I built this",
+      "url": "https://www.bensbites.com/p/how-i-built-this-21f",
+      "published_at": "2026-08-28T12:14:10+00:00",
+      "author": "",
+      "summary_raw": "Ben&#8217;s session #4",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!GjCp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcee4c3df-b79e-45f7-a7d0-7684153e144f_3164x1946.png",
+      "source_id": "bens_bites",
+      "source_name": "Ben's Bites",
+      "category": "newsletter"
+    },
+    {
+      "id": "2cf75f5fa52c8bfd",
+      "title": "První Čech se dostal do vedení jedné z nejstarších mezinárodních vědeckých AI organizací",
+      "url": "https://www.lupa.cz/aktuality/prvni-cech-se-dostal-do-vedeni-jedne-z-nejstarsich-mezinarodnich-vedeckych-ai-organizaci/",
+      "published_at": "2026-08-28T11:35:57+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Česká republika má poprvé v historii zastoupení ve vedení jedné z nejstar&#353;ích organizací na světě zaměřených na umělou inteligenci. Profesor Roman Barták z Matematicko-fyzikální fakulty Univerzity Karlovy (Katedra teoretické informatiky a matematické logiky) se stal členem řídícího orgánu Evropské asociace pro umělou inteligenci (European Association for Artificial Intelligence, EurAI).",
+      "hero_image": "https://i.iinfo.cz/images/339/roman-bartak.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "a14169caff9ac2cc",
+      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+      "published_at": "2026-08-28T11:15:05+00:00",
+      "author": "Dan Goodin",
+      "summary_raw": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teampcp-member-arrest-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "bd015f2aac161cf5",
+      "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
+      "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
+      "published_at": "2026-08-28T11:00:39+00:00",
+      "author": "Eric Berger",
+      "summary_raw": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/European_Launcher_Challenge_launch_service_providers_initial_capacity_pillars-1152x648.png",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "90c26fbf527a197e",
+      "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
+      "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
+      "published_at": "2026-08-28T11:00:00+00:00",
+      "author": "Miles Klee",
+      "summary_raw": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
+      "hero_image": "https://media.wired.com/photos/6a8f719f1780b42ea22395f3/master/pass/Anti-AI-Artists-Gathered-to-Share-Their-Handmade-Work-Culture.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "07fcfd87b0bcd547",
+      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
+      "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+      "published_at": "2026-08-28T10:56:22+00:00",
+      "author": "Paresh Dave",
+      "summary_raw": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
+      "hero_image": "https://media.wired.com/photos/6a8778d3964ec62bf0f4c98f/master/pass/Inside-Meta-Experiments-with-Data-Center-Robots-Business.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "aa6890e0c671c45b",
+      "title": "How to sign up for a virtual power plant—and decide whether you should",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "author": "Eshan Raul",
+      "summary_raw": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "712d10745cacaef7",
+      "title": "[AINews] OpenAI to reach AGI bar by end-2026",
+      "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+      "published_at": "2026-08-28T07:12:10+00:00",
+      "author": "",
+      "summary_raw": "It&#8217;s Time. We&#8217;re in the Endgame now.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "09a71b55e34678f5",
+      "title": "Češi postaví AI datacentra za 90 miliard, AliExpress tajně nahrává lidi, Nvidia kupuje Hugging Face",
+      "url": "https://www.lupa.cz/clanky/cesi-postavi-ai-datacentra-za-90-miliard-aliexpress-tajne-nahrava-lidi-nvidia-kupuje-hugging-face/",
+      "published_at": "2026-08-28T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "ChatGPT umí obrázky s průhledným pozadím. Tvůrci AI ve velkém skenují a ničí knihy. Meta se poměrně lacino vyhnula soudu kvůli dětem na sociálních sítích. Zprávy z IT, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/660/openai-jalapeno.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "db1080c2d1a5ebe0",
+      "title": "Přes tisíc agentů OpenAI si tajně psalo zprávy a pak napadli Hugging Face aneb Jak se AI utrhla ze řetězu",
+      "url": "https://cc.cz/pres-tisic-agentu-openai-si-tajne-psalo-zpravy-a-pak-napadli-hugging-face-aneb-jak-se-ai-utrhla-ze-retezu/",
+      "published_at": "2026-08-28T04:27:38+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Společnost OpenAI popsala nedávný útok svých AI agentů jako varovný signál. Modely obešly izolaci, sdílely triky a pronikly do cizí infrastruktury. Článek Přes tisíc agentů OpenAI si tajně psalo zprávy a pak napadli Hugging Face aneb Jak se AI utrhla ze řetězu se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/openai-agent-x-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "758ada6ae415a964",
       "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
@@ -559,6 +763,30 @@
       "category": "news"
     },
     {
+      "id": "125626fbbc0a848d",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "published_at": "2026-08-28T02:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "e147fc02d5db7890",
+      "title": "Gemini Omni 1.1 🎬, Cohere Parse 📄, Codex persistent mode 👨‍💻",
+      "url": "https://tldr.tech/ai/2026-08-28",
+      "published_at": "2026-08-28T00:00:00+00:00",
+      "author": "TLDR",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "tldr_ai",
+      "source_name": "TLDR AI",
+      "category": "newsletter"
+    },
+    {
       "id": "73994f956d4e3e5e",
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
@@ -660,7 +888,7 @@
       "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
       "published_at": "2026-08-27T19:48:13+00:00",
       "author": "Antonio Regalado",
-      "summary_raw": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that&#8230;",
+      "summary_raw": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that&#8230;",
       "hero_image": null,
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
@@ -1111,18 +1339,6 @@
       "category": "labs"
     },
     {
-      "id": "4bb2ae5608030a2c",
-      "title": "Email.cz na mobilech shrne poštu a vygeneruje předmět zprávy, Seznam pokračuje v zavádění AI",
-      "url": "https://www.lupa.cz/aktuality/email-cz-na-mobilech-shrne-postu-a-vygeneruje-predmet-zpravy-seznam-pokracuje-v-zavadeni-ai/",
-      "published_at": "2026-08-27T08:57:43+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Seznam pokračuje v zavádění prvků umělé inteligence v rámci svých produktů. Mobilní aplikace Email.cz nově umí shrnout e-maily do stručného textu. AI také zvládne na základě rozepsaného e-mailu navrhnout vhodný předmět.",
-      "hero_image": "https://i.iinfo.cz/images/446/email-cz.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "9081cf0916e66781",
       "title": "Nvidia closes in on Hugging Face acquisition",
       "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
@@ -1133,30 +1349,6 @@
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
       "category": "news"
-    },
-    {
-      "id": "03e795417b7df7f0",
-      "title": "The UK Power Grid Has a Phantom Data Center Problem",
-      "url": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
-      "published_at": "2026-08-27T06:00:00+00:00",
-      "author": "Joel Khalili",
-      "summary_raw": "The UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI ambitions hang in the balance.",
-      "hero_image": "https://media.wired.com/photos/6a8e39f99a6c30f92d1621f3/master/pass/Phantom-Data-Centers-Clog-UK-Power-Grid-Business.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "35627906cbd067ba",
-      "title": "Dvojnásobný zisk i tržby, pohádková marže a Nvidia dál roste do AI nebe. Bude to ale stačit?",
-      "url": "https://cc.cz/dvojnasobny-zisk-i-trzby-pohadkova-marze-a-nvidia-dal-roste-do-ai-nebe-bude-to-ale-stacit/",
-      "published_at": "2026-08-27T04:36:39+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Za tři měsíce utržila 96,2 miliardy dolarů, meziročně o 106 procent víc. Její akcie ale letos přidaly jen 12 procent, zatímco Micron 227 procent. Článek Dvojnásobný zisk i tržby, pohádková marže a Nvidia dál roste do AI nebe. Bude to ale stačit? se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2025/08/jensen-huang-nvidia-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "2ec991194604e197",
@@ -1339,30 +1531,6 @@
       "category": "news"
     },
     {
-      "id": "d8ba2c5289b4cd2a",
-      "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
-      "published_at": "2026-08-26T19:50:52+00:00",
-      "author": "Jon Brodkin",
-      "summary_raw": "Meta to impose daily limit on child social media use in deal with nearly every state.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "72819e6264a236fa",
-      "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
-      "url": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
-      "published_at": "2026-08-26T19:39:24+00:00",
-      "author": "Beth Mole",
-      "summary_raw": "The bishops' snub comes as the state continues to attack vaccines.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-178446892-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
       "id": "579b26593ad58bfe",
       "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
       "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
@@ -1384,30 +1552,6 @@
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "94dc3547cd34606d",
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "published_at": "2026-08-26T19:19:22+00:00",
-      "author": "Ryan Whitwam",
-      "summary_raw": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "124be5f5795816b9",
-      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
-      "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-      "published_at": "2026-08-26T19:16:42+00:00",
-      "author": "Maxwell Zeff, Lily Hay Newman",
-      "summary_raw": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
-      "hero_image": "https://media.wired.com/photos/6a8ec12c77fbaae8f5a47365/master/pass/OpenAIFaceHug.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
       "category": "news"
     },
     {
@@ -1435,18 +1579,6 @@
       "category": "news"
     },
     {
-      "id": "d528a2c77d226f84",
-      "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
-      "url": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
-      "published_at": "2026-08-26T18:15:00+00:00",
-      "author": "Will Knight",
-      "summary_raw": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
-      "hero_image": "https://media.wired.com/photos/6a8dc4dc21bb5a1c3d158388/master/pass/AI-Lab-Robot-Games-Business.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "8d66ff05806beb08",
       "title": "Intelligent transcription with Gemini 3.5 Transcribe",
       "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
@@ -1457,18 +1589,6 @@
       "source_id": "deepmind_blog",
       "source_name": "Google DeepMind Blog",
       "category": "labs"
-    },
-    {
-      "id": "9d1a690fd22c82df",
-      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "published_at": "2026-08-26T17:00:00+00:00",
-      "author": "Jess Weatherbed",
-      "summary_raw": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
     },
     {
       "id": "766e4e16756d0f03",
@@ -1495,30 +1615,6 @@
       "category": "news"
     },
     {
-      "id": "13cfbde6a6826134",
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "published_at": "2026-08-26T15:47:28+00:00",
-      "author": "Sarah Perez",
-      "summary_raw": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "75c61f878ffea5a0",
-      "title": "Vlčkův AI startup Aisle má další zářez. Může přidělovat CVE, mezinárodní čísla zranitelností softwaru a hardwaru",
-      "url": "https://www.lupa.cz/aktuality/vlckuv-ai-startup-aisle-ma-dalsi-zarez-muze-pridelovat-cve-mezinarodni-cisla-zranitelnosti-softwaru-a-hardwaru/",
-      "published_at": "2026-08-26T15:25:51+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Česká republika má nového hráče, který může přidělovat standardizované mezinárodní identifikátory k objeveným zranitelnostem v softwaru, hardwaru a digitálních službách. Pražský startup Aisle získal statut takzvané CVE Numbering Authority (CNA), takže může udělovat obecně známé údaje CVE neboli Common Vulnerabilities and Exposures.",
-      "hero_image": "https://i.iinfo.cz/images/121/aisle.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "b6a327c9ab9ec508",
       "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
       "url": "https://www.latent.space/p/anima",
@@ -1529,66 +1625,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "a338b880cc61c6b7",
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "published_at": "2026-08-26T15:00:00+00:00",
-      "author": "Lucas Ropek",
-      "summary_raw": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "ec2238a93028f316",
-      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-      "published_at": "2026-08-26T14:37:01+00:00",
-      "author": "Russell Brandom",
-      "summary_raw": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "b3d168dece564e1a",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "published_at": "2026-08-26T14:30:00+00:00",
-      "author": "",
-      "summary_raw": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications. &quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,&quot; Anand says. &quot;As a result, while many enterprises have adopted digital tools, very few have platforms that are truly integrated, scaled, and capable of seamless orchestration.&quot; That gap creates a heavy cognitive load for human agents who must piece together context across disjointed tools to understand what an AI system has already told a customer. The challenge is not simply access to data, but the absence of a shared enterprise context that connects customer identities, interactions, transactions, policies, journeys, and operational systems into a common understanding. Traditional CX architecture was built for linear, human-driven routing, not for managing real-time data flows between autonomous AI systems, data lakes, and human workers. &quot;Today&#x27;s operational complexity is no longer about adding more intelligence,&quot; he adds. &quot;It is about coordinating the existing intelligence across the enterprise, so the enterprise customer never feels the friction of those internal silos. That requires a shared context layer that allows AI systems, applications, and people to operate from the same understanding of the customer and the business.&quot; Why orchestration is replacing automation as the top CX priority As that coordination problem grows, Anand says the strategic priority inside enterprises is shifting from automation to orchestration. &quot;Automation solves individual tasks, whereas orchestration connects them into end-to-end outcomes,&quot; Anand says. &…",
-      "hero_image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30",
-      "source_id": "venturebeat_ai",
-      "source_name": "VentureBeat AI",
-      "category": "news"
-    },
-    {
-      "id": "f8141de3aa72c4e6",
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "published_at": "2026-08-26T14:19:29+00:00",
-      "author": "Rebecca Bellan",
-      "summary_raw": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "82fcaffb54eba0a1",
-      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-      "published_at": "2026-08-26T12:10:00+00:00",
-      "author": "Thomas Macaulay",
-      "summary_raw": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/mirror-dna.webp?w=840",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
     },
     {
       "id": "9ceb17c4d5466dc4",
@@ -1613,66 +1649,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "009643f168e6b1d3",
-      "title": "Raised on AI",
-      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "published_at": "2026-08-26T09:00:00+00:00",
-      "author": "Mat Honan",
-      "summary_raw": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief.png?w=840",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "e5c7688bf8747726",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "published_at": "2026-08-26T09:00:00+00:00",
-      "author": "Grace Huckins",
-      "summary_raw": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "2cc7b97ca96ca3c0",
-      "title": "Quoting Paul Dix",
-      "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
-      "published_at": "2026-08-26T08:07:55+00:00",
-      "author": "",
-      "summary_raw": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short. If you can build a verification system and give proper direction, AI can produce a highly complex, highly sophisticated piece of software and it can continue to refine it until it just works. &mdash; Paul Dix , The end of programming Tags: coding-agents , ai-assisted-programming , generative-ai , bun , ai , llms",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "b4c6fabbbb9e9cbd",
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "published_at": "2026-08-26T07:01:00+00:00",
-      "author": "Mat Honan",
-      "summary_raw": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "3f69d869fb2577a0",
-      "title": "Ekonomiku postavenou na AI agentech ovládne ten, od koho nepůjde odejít. Začíná snaha, aby to nebylo pár gigantů",
-      "url": "https://www.lupa.cz/clanky/ekonomiku-postavenou-na-ai-agentech-ovladne-ten-od-koho-nepujde-odejit-zacina-snaha-aby-to-nebylo-par-gigantu/",
-      "published_at": "2026-08-26T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Petr Heller)",
-      "summary_raw": "Projekt NANDA z MIT se snaží vytvořit otevřenou infrastrukturu pro agenty dříve, než vše ovládne několik globálních platforem.",
-      "hero_image": "https://i.iinfo.cz/images/242/ekonomika-ai-agentu.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "17e2040ed1e7589f",
@@ -1886,42 +1862,6 @@
       "author": "",
       "summary_raw": "Simile&#8217;s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it&#8217;s gone from fun exploration to very serious business.",
       "hero_image": null,
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "5a02ae039fdbf566",
-      "title": "How I built this",
-      "url": "https://www.bensbites.com/p/how-i-built-this",
-      "published_at": "2026-08-21T14:08:34+00:00",
-      "author": "",
-      "summary_raw": "Ben&#8217;s session #3",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!iMJv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2c84f63-35e5-45ea-ad5e-8612443261a8_1584x1321.png",
-      "source_id": "bens_bites",
-      "source_name": "Ben's Bites",
-      "category": "newsletter"
-    },
-    {
-      "id": "42bb1f69381a380e",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "published_at": "2026-08-21T11:59:48+00:00",
-      "author": "",
-      "summary_raw": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "hero_image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo",
-      "source_id": "deepmind_blog",
-      "source_name": "Google DeepMind Blog",
-      "category": "labs"
-    },
-    {
-      "id": "e53971effc694642",
-      "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
-      "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
-      "published_at": "2026-08-21T05:45:21+00:00",
-      "author": "",
-      "summary_raw": "Yes, we&#8217;re confused too.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!mQfw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a668ad4-aca6-4c1c-ac78-5132b8f3d7a8_834x844.png",
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
