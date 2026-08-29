@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-29T04:01:57.207159+00:00",
+  "generated_at": "2026-08-29T11:04:46.524489+00:00",
   "date": "2026-08-29",
-  "article_count_unique": 132,
-  "article_count_raw": 132,
+  "article_count_unique": 128,
+  "article_count_raw": 128,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 15,
-      "raw_count": 15
+      "count": 14,
+      "raw_count": 14
     },
     {
       "source_id": "verge_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "wired_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,16 +164,52 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 2,
-      "raw_count": 12
+      "raw_count": 10
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "d8922b55f4a47998",
+      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "published_at": "2026-08-29T10:30:00+00:00",
+      "author": "Maddy Varner",
+      "summary_raw": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+      "hero_image": "https://media.wired.com/photos/6a921e363b3f20c2f80986f3/master/pass/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "093e403edbe99efb",
+      "title": "How to Run a Chatbot on Your Own Computer",
+      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+      "published_at": "2026-08-29T10:00:00+00:00",
+      "author": "David Nield",
+      "summary_raw": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+      "hero_image": "https://media.wired.com/photos/6a915ae02fa9a47ca7d480c1/master/pass/RunAChatbot.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "d46f78754aed581e",
+      "title": "[AINews] OpenAI shuts off Cursor",
+      "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+      "published_at": "2026-08-29T05:11:52+00:00",
+      "author": "",
+      "summary_raw": "Elon v Altman has a real consequence.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
     {
       "id": "758ada6ae415a964",
       "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
@@ -715,18 +751,6 @@
       "category": "cz"
     },
     {
-      "id": "db1080c2d1a5ebe0",
-      "title": "Přes tisíc agentů OpenAI si tajně psalo zprávy a pak napadli Hugging Face aneb Jak se AI utrhla ze řetězu",
-      "url": "https://cc.cz/pres-tisic-agentu-openai-si-tajne-psalo-zpravy-a-pak-napadli-hugging-face-aneb-jak-se-ai-utrhla-ze-retezu/",
-      "published_at": "2026-08-28T04:27:38+00:00",
-      "author": "Ondřej Holzman",
-      "summary_raw": "Společnost OpenAI popsala nedávný útok svých AI agentů jako varovný signál. Modely obešly izolaci, sdílely triky a pronikly do cizí infrastruktury. Článek Přes tisíc agentů OpenAI si tajně psalo zprávy a pak napadli Hugging Face aneb Jak se AI utrhla ze řetězu se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/openai-agent-x-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "1a481d8a2db94a7c",
       "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
       "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
@@ -1243,42 +1267,6 @@
       "category": "news"
     },
     {
-      "id": "f7187905ecd50dba",
-      "title": "Submit Your Questions: The Great Data Center Backlash",
-      "url": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
-      "published_at": "2026-08-27T11:00:00+00:00",
-      "author": "Tim Marchman, Maxwell Zeff, Molly Taft, Hugo Lowell",
-      "summary_raw": "You have questions about data centers, and WIRED has answers. Join our livestream on September 10 and our panel of experts will tell you everything you need to know.",
-      "hero_image": "https://media.wired.com/photos/6a90aa0673ca164d2fe0f4a5/master/pass/livestream_data_centers.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "7c8f6e802840cf87",
-      "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
-      "url": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/",
-      "published_at": "2026-08-27T10:30:00+00:00",
-      "author": "Julian Chokkattu",
-      "summary_raw": "The Relay Q, due next year, is the latest attempt to reposition voice as the most seamless method for human-computer interaction.",
-      "hero_image": "https://media.wired.com/photos/6a8effc5f304a7db06ecb9ee/master/pass/118.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "1e08e58a71e6533d",
-      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
-      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
-      "published_at": "2026-08-27T10:00:00+00:00",
-      "author": "Casey Crownhart",
-      "summary_raw": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn that around? Slate Auto’s new truck—a vehicle that seems&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "b3817b53d65313dc",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
@@ -1289,18 +1277,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "9081cf0916e66781",
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "published_at": "2026-08-27T06:32:51+00:00",
-      "author": "Connie Loizos",
-      "summary_raw": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
     },
     {
       "id": "2ec991194604e197",
@@ -1589,30 +1565,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "6673acf82a8f0576",
-      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
-      "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
-      "published_at": "2026-08-22T07:36:00+00:00",
-      "author": "",
-      "summary_raw": "Did you think RSI stopped at model training?",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!Vw9p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc661e612-544b-4eaa-9603-78e5f28276b7_1956x1228.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "bf271ef4ea0506e4",
-      "title": "The Evolution of the Agent Harness",
-      "url": "https://www.latent.space/p/attention-interface",
-      "published_at": "2026-08-22T07:30:52+00:00",
-      "author": "Dan McAteer",
-      "summary_raw": "Models keep absorbing the harness into their weights &#8212; soon, it will be a harness for human attention rather than for the model.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!bUv7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F758de9a0-631f-43a0-a331-fd871432a60b_1280x720.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "2354f48ec45c3cd5",
