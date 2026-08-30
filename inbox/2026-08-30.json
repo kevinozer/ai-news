@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T04:01:32.393532+00:00",
+  "generated_at": "2026-08-30T09:56:26.927710+00:00",
   "date": "2026-08-30",
   "article_count_unique": 86,
   "article_count_raw": 86,
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "wired_ai",
@@ -163,17 +163,41 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 4
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 0,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "a3efcd094ec4fe26",
+      "title": "Na pohled hračka, ve skutečnosti AI nástroj. Robotická kachna se stala nečekaným prodejním hitem",
+      "url": "https://cc.cz/na-pohled-hracka-ve-skutecnosti-ai-nastroj-roboticka-kachna-se-stala-necekanym-prodejnim-hitem/",
+      "published_at": "2026-08-30T09:04:28+00:00",
+      "author": "David Zlomek",
+      "summary_raw": "Majitel může Microduck v počítačové simulaci naučit nové pohyby a robot je pak přenese do skutečného světa. Programovat přitom nemusí umět. Článek Na pohled hračka, ve skutečnosti AI nástroj. Robotická kachna se stala nečekaným prodejním hitem se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/microduck3-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "fcbf5c15ce0a100d",
+      "title": "Vydělávají víc než obří banky, přitom nemají šéfa. Teď přišli o 300 miliard, i kvůli sázce na proroka AI",
+      "url": "https://cc.cz/vydelavaji-vic-nez-obri-banky-pritom-nemaji-sefa-ted-prisli-o-300-miliard-i-kvuli-sazce-na-proroka-ai/",
+      "published_at": "2026-08-30T06:22:56+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Společnost Jane Street má na Wall Street kultovní, ale zároveň tajemstvím obestřené renomé. To se nyní nakřáplo kvůli muži, který neuřídil své půjčky. Článek Vydělávají víc než obří banky, přitom nemají šéfa. Teď přišli o 300 miliard, i kvůli sázce na proroka AI se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/jane-street-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "ddf375434786b6a4",
       "title": "Introducing Hy4 Preview",
@@ -619,18 +643,6 @@
       "category": "news"
     },
     {
-      "id": "aa6890e0c671c45b",
-      "title": "How to sign up for a virtual power plant—and decide whether you should",
-      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-      "published_at": "2026-08-28T09:00:00+00:00",
-      "author": "Eshan Raul",
-      "summary_raw": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "712d10745cacaef7",
       "title": "[AINews] OpenAI to reach AGI bar by end-2026",
       "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
@@ -653,18 +665,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "09a71b55e34678f5",
-      "title": "Češi postaví AI datacentra za 90 miliard, AliExpress tajně nahrává lidi, Nvidia kupuje Hugging Face",
-      "url": "https://www.lupa.cz/clanky/cesi-postavi-ai-datacentra-za-90-miliard-aliexpress-tajne-nahrava-lidi-nvidia-kupuje-hugging-face/",
-      "published_at": "2026-08-28T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "ChatGPT umí obrázky s průhledným pozadím. Tvůrci AI ve velkém skenují a ničí knihy. Meta se poměrně lacino vyhnula soudu kvůli dětem na sociálních sítích. Zprávy z IT, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/660/openai-jalapeno.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "125626fbbc0a848d",
