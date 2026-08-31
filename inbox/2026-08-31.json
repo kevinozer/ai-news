@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-31T04:01:14.303624+00:00",
+  "generated_at": "2026-08-31T10:51:18.734637+00:00",
   "date": "2026-08-31",
-  "article_count_unique": 90,
-  "article_count_raw": 90,
+  "article_count_unique": 88,
+  "article_count_raw": 88,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -19,8 +19,8 @@
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "mit_tech_review",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "venturebeat_ai",
@@ -91,8 +91,8 @@
     {
       "source_id": "last_week_ai",
       "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "one_useful_thing",
@@ -164,16 +164,40 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 0,
-      "raw_count": 2
+      "raw_count": 6
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "91bf5b1f7f402b3b",
+      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "published_at": "2026-08-31T10:30:00+00:00",
+      "author": "Kate Taylor",
+      "summary_raw": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+      "hero_image": "https://media.wired.com/photos/6a90caf6df5e45f6df862f92/master/pass/You-Know-Who-Really-Hates-AI-Business.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "4381c0db878ba436",
+      "title": "LWiAI Podcast #255 - Gemini 3.7, Jalapeño, Qwen 3.8, Drones",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-255-gemini-37-jalapeno",
+      "published_at": "2026-08-31T08:20:04+00:00",
+      "author": "Last Week in AI",
+      "summary_raw": "Google announces Gemini 3.7 Flash, Jalape&#241;o&#8217;s first results show industry-leading speed, A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!a22F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9feb67e-d790-44f8-8bc1-f1f3057fb185_783x461.png",
+      "source_id": "last_week_ai",
+      "source_name": "Last Week in AI",
+      "category": "newsletter"
+    },
     {
       "id": "b5deb4dad0593364",
       "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
@@ -523,18 +547,6 @@
       "category": "cz"
     },
     {
-      "id": "fcbf5c15ce0a100d",
-      "title": "Vydělávají víc než obří banky, přitom nemají šéfa. Teď přišli o 300 miliard, i kvůli sázce na proroka AI",
-      "url": "https://cc.cz/vydelavaji-vic-nez-obri-banky-pritom-nemaji-sefa-ted-prisli-o-300-miliard-i-kvuli-sazce-na-proroka-ai/",
-      "published_at": "2026-08-30T06:22:56+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Společnost Jane Street má na Wall Street kultovní, ale zároveň tajemstvím obestřené renomé. To se nyní nakřáplo kvůli muži, který neuřídil své půjčky. Článek Vydělávají víc než obří banky, přitom nemají šéfa. Teď přišli o 300 miliard, i kvůli sázce na proroka AI se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/jane-street-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "ddf375434786b6a4",
       "title": "Introducing Hy4 Preview",
       "url": "https://simonwillison.net/2026/Aug/29/hy4/",
@@ -616,42 +628,6 @@
       "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479",
       "source_id": "verge_ai",
       "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "77e210677a0bb824",
-      "title": "I asked 100 companies for my data. Some deleted it instead.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-      "published_at": "2026-08-29T10:50:31+00:00",
-      "author": "Reece Rodgers, wired.com",
-      "summary_raw": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-1024x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "d8922b55f4a47998",
-      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "published_at": "2026-08-29T10:30:00+00:00",
-      "author": "Maddy Varner",
-      "summary_raw": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-      "hero_image": "https://media.wired.com/photos/6a921e363b3f20c2f80986f3/master/pass/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "093e403edbe99efb",
-      "title": "How to Run a Chatbot on Your Own Computer",
-      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-      "published_at": "2026-08-29T10:00:00+00:00",
-      "author": "David Nield",
-      "summary_raw": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
-      "hero_image": "https://media.wired.com/photos/6a915ae02fa9a47ca7d480c1/master/pass/RunAChatbot.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
       "category": "news"
     },
     {
