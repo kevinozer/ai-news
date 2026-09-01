@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T04:00:51.902273+00:00",
+  "generated_at": "2026-09-01T09:24:19.649078+00:00",
   "date": "2026-09-01",
-  "article_count_unique": 124,
-  "article_count_raw": 124,
+  "article_count_unique": 127,
+  "article_count_raw": 127,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "wired_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 12,
-      "raw_count": 12
+      "count": 11,
+      "raw_count": 11
     },
     {
       "source_id": "anthropic_news",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 1,
-      "raw_count": 11
+      "count": 3,
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,66 @@
     }
   ],
   "articles": [
+    {
+      "id": "ee042268017de181",
+      "title": "How engineered microbes could help feed the world’s crops",
+      "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+      "published_at": "2026-09-01T09:00:00+00:00",
+      "author": "Casey Crownhart",
+      "summary_raw": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/IMG_9577-2.jpg?w=840",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "f8e414b944ee3d96",
+      "title": "Seznam na Zboží.cz spouští nakupování pomocí AI agentů",
+      "url": "https://www.lupa.cz/aktuality/seznam-na-zbozi-cz-spousti-nakupovani-pomoci-ai-agentu/",
+      "published_at": "2026-09-01T06:37:27+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Seznam je dal&#353;í tuzemskou internetovou společností, která si pohrává s nakupováním pomocí agentů umělé inteligence. V rámci testování spou&#353;tí AI funkce pro agentní nakupování. Zatím se to týká služby Zboží.cz a novinka v dohledné době dorazí také na dal&#353;í stránky Seznamu.",
+      "hero_image": "https://i.iinfo.cz/images/490/seznam-cz-podsvicene-logo.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "203c904c268f4f73",
+      "title": "ČTÚ rozjíždí dohled nad umělou inteligencí, nové oddělení zahájilo provoz",
+      "url": "https://www.lupa.cz/aktuality/ctu-rozjizdi-dohled-nad-umelou-inteligenci-nove-oddeleni-zahajilo-provoz/",
+      "published_at": "2026-09-01T06:26:23+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Český telekomunikační úřad (ČTÚ) podle plánů od prvního září rozjel nové oddělení pro dohled nad umělou inteligencí, jehož založení vyplývá z evropského Aktu o umělé inteligenci (AI Act). ČTÚ je jedním z orgánů dozoru nad trhem.",
+      "hero_image": "https://i.iinfo.cz/images/510/cesky-telekomunikacni-urad-ctu.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "569d4941baa281f1",
+      "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
+      "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+      "published_at": "2026-09-01T04:36:54+00:00",
+      "author": "",
+      "summary_raw": "You can now create decent video faster than you watch it. This is the start of... something. We&#8217;re not sure what.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!hV5N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHQ7UHClW4AA2I6L.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "60f9ea20ed3b1350",
+      "title": "Vyrůst za čtyři roky na miliardu? To už je nuda. Jak AI mění přístup investorů k rychlosti startupů",
+      "url": "https://cc.cz/vyrust-za-ctyri-roky-na-miliardu-to-uz-je-nuda-jak-ai-meni-pristup-investoru-k-rychlosti-startupu/",
+      "published_at": "2026-09-01T04:28:55+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Čeští investoři se shodují, že nová očekávání nejde aplikovat na všechny projekty, ale díky umělé inteligenci se laťka pro rychlost růstu zvedla. Článek Vyrůst za čtyři roky na miliardu? To už je nuda. Jak AI mění přístup investorů k rychlosti startupů se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/investori-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "fc89896f19709f97",
       "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
@@ -943,6 +1003,18 @@
       "category": "newsletter"
     },
     {
+      "id": "f842e4214cd43c2e",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
       "id": "8bf8267f830429a4",
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
       "url": "https://openai.com/index/polimill",
@@ -1085,18 +1157,6 @@
       "source_id": "verge_ai",
       "source_name": "The Verge AI",
       "category": "news"
-    },
-    {
-      "id": "d036c5da4291c1c0",
-      "title": "Umělá inteligence utržená ze řetězu, až bije na poplach i Bill Gates, a chrlič nových projektů",
-      "url": "https://cc.cz/umela-inteligence-utrzena-ze-retezu-az-bije-na-poplach-i-bill-gates-a-chrlic-novych-projektu/",
-      "published_at": "2026-08-30T15:00:43+00:00",
-      "author": "Ondřej Holzman",
-      "summary_raw": "Jako každou neděli vám přinášíme pravidelný přehled toho nejzajímavějšího, co jsme v končícím týdnu na CzechCrunchi napsali a natočili. Článek Umělá inteligence utržená ze řetězu, až bije na poplach i Bill Gates, a chrlič nových projektů se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/08/weekly-300826-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "616e51bee7198f1a",
@@ -1363,24 +1423,24 @@
       "category": "commentary"
     },
     {
-      "id": "914d5c706d69c88d",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "published_at": "2026-08-26T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
       "id": "9ceb17c4d5466dc4",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "published_at": "2026-08-26T10:00:00+00:00",
       "author": "",
       "summary_raw": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "914d5c706d69c88d",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "published_at": "2026-08-26T10:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
@@ -1480,30 +1540,6 @@
       "hero_image": null,
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
-      "category": "labs"
-    },
-    {
-      "id": "949c2398b92090af",
-      "title": "The full stack behind abundant intelligence",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "published_at": "2026-08-25T07:05:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "6be7226f803db20a",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "published_at": "2026-08-25T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
       "category": "labs"
     },
     {
