@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:00:55.863199+00:00",
+  "generated_at": "2026-09-04T08:50:59.899666+00:00",
   "date": "2026-09-04",
   "article_count_unique": 162,
   "article_count_raw": 162,
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 13,
-      "raw_count": 13
+      "count": 12,
+      "raw_count": 12
     },
     {
       "source_id": "anthropic_news",
@@ -164,16 +164,100 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 2,
-      "raw_count": 11
+      "raw_count": 12
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "d65cae1336456055",
+      "title": "Risk, který se vyplatil. Startup loni odmítl 10 miliard od Nvidie, teď od ní inkasuje skoro 30krát tolik",
+      "url": "https://cc.cz/risk-ktery-se-vyplatil-startup-loni-odmitl-10-miliard-od-nvidie-ted-od-ni-inkasuje-skoro-30krat-tolik/",
+      "published_at": "2026-09-04T08:19:06+00:00",
+      "author": "David Zlomek",
+      "summary_raw": "Ještě nedávno Hugging Face odmítl od Nvidie investici 500 milionů dolarů. Během léta ji ale sám oslovil s nabídkou na dohodu. Článek Risk, který se vyplatil. Startup loni odmítl 10 miliard od Nvidie, teď od ní inkasuje skoro 30krát tolik se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/jensen-nvidia-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "5e269a3a57686fb2",
+      "title": "Nová éra umělé inteligence je tady. OpenAI představilo převratný model, který dokáže zastat práci člověka",
+      "url": "https://cc.cz/nova-era-umele-inteligence-je-tady-openai-predstavilo-prevratny-model-ktery-dokaze-zastat-praci-cloveka/",
+      "published_at": "2026-09-04T06:56:09+00:00",
+      "author": "David Zlomek",
+      "summary_raw": "OpenAI ukazuje Astru, která sama ovládá počítač, vyřizuje úkoly napříč aplikacemi a podle firmy může zvládnout práci, kterou dosud dělal člověk. Článek Nová éra umělé inteligence je tady. OpenAI představilo převratný model, který dokáže zastat práci člověka se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/astra-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "fd366562e5aa2c6b",
+      "title": "August newsletter is out",
+      "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+      "published_at": "2026-09-04T05:54:40+00:00",
+      "author": "",
+      "summary_raw": "The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl's accidental cyberattacks One-shotting Raccoon Heist games with Fable 5 and Sol 5.6 Claude auto mode Understanding ChatGPT Work Model releases Miscellaneous bits and bobs My projects What I'm using at the moment Here's a copy of the July newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "f8fe8818d679ebb3",
+      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "published_at": "2026-09-04T05:18:11+00:00",
+      "author": "",
+      "summary_raw": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI&#8217;s new frontier model class.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!75mH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e58156f-49e2-48e8-af49-ce5edd8e68b6_1118x1118.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "0f1999f58817bf28",
+      "title": "Češi dodají jeden z nejrychlejších superpočítačů, tvůrci Gray Zone Warfare spadli do ztráty, DLSS 5 je nářez",
+      "url": "https://www.lupa.cz/clanky/cesi-dodaji-jeden-z-nejrychlejsich-superpocitacu-tvurci-gray-zone-warfare-spadli-do-ztraty-dlss-5-je-narez/",
+      "published_at": "2026-09-04T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Nové modely Gemini, Fable, Mythos a Muse Spark. Vyšel OpenClaw 2.0. Apple má nového šéfa. Nové paměti od Nvidie. Zprávy z IT, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/309/john-ternus-a-tim-cook-apple.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "2873b923b1e03eaa",
+      "title": "GoPro bývalo burzovní hvězdou. Příběh teď oživil influencer, firma má i nečekaného zachránce",
+      "url": "https://cc.cz/gopro-byvalo-burzovni-hvezdou-pribeh-ted-ozivil-influencer-firma-ma-i-necekaneho-zachrance/",
+      "published_at": "2026-09-04T04:25:46+00:00",
+      "author": "Václav Kinský",
+      "summary_raw": "GoPro po letech propadů spojuje svou budoucnost s optikou pro umělou inteligenci a obranný průmysl. Bude to ale stačit? Článek GoPro bývalo burzovní hvězdou. Příběh teď oživil influencer, firma má i nečekaného zachránce se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/money-maker-recap-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "e4ea5a65c6e2d782",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "published_at": "2026-09-04T04:21:03+00:00",
+      "author": "Amanda Silberling",
+      "summary_raw": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
     {
       "id": "8e3eb73bba6d59a2",
       "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
@@ -1123,30 +1207,6 @@
       "category": "news"
     },
     {
-      "id": "59b357f8713ec3a2",
-      "title": "Za rok vyrostli z nuly na 100 miliard korun. AI raketu hned v začátcích podpořili také Češi",
-      "url": "https://cc.cz/za-rok-vyrostli-z-nuly-na-100-miliard-korun-ai-raketu-hned-v-zacatcich-podporili-take-cesi/",
-      "published_at": "2026-09-03T05:26:05+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "Český fond United Founders už loni podpořil startup Wonderful, který teď za půl roku více než zdvojnásobil svou valuaci. Článek Za rok vyrostli z nuly na 100 miliard korun. AI raketu hned v začátcích podpořili také Češi se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/wonderful-ai-edit-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "722fc6842ebace78",
-      "title": "V USA vydělával výrazně víc než vývojáři, ale nedělal tak cool věci. Proto už před lety vše vsadil na agenty",
-      "url": "https://cc.cz/v-usa-vydelaval-vyrazne-vic-nez-vyvojari-ale-nedelal-tak-cool-veci-proto-uz-pred-lety-vse-vsadil-na-agenty/",
-      "published_at": "2026-09-03T04:59:07+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "Jan Beránek se svou čtvrtmiliardovou agenturou U+ prorazil za oceánem a přemýšlel, co s ní dál. AI mu umožnila udělat krok novým směrem. Článek V USA vydělával výrazně víc než vývojáři, ale nedělal tak cool věci. Proto už před lety vše vsadil na agenty se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/jan-beranek-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "b624e3f4ae95e907",
       "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
       "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
@@ -1567,18 +1627,6 @@
       "category": "news"
     },
     {
-      "id": "122cac9bb51a80e0",
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "published_at": "2026-09-02T14:56:34+00:00",
-      "author": "Sarah Perez",
-      "summary_raw": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "459a3b27b9b67d8e",
       "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
       "url": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
@@ -1685,30 +1733,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "39f61c6730f8f1cb",
-      "title": "Quoting Rick Brewster",
-      "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
-      "published_at": "2026-09-02T05:50:57+00:00",
-      "author": "",
-      "summary_raw": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE (triggered by using /wine ). It lives in PaintDotNet.Windows.Direct2D1.Managed.dll . This was written by our good friend Claude , without whom this would NOT have been possible and would NEVER have happened. [...] Most of this code is, as they say, \"vibe coded.\" By that I mean that it has not been thoroughly reviewed, it's more \"trust me bro\" style. I cannot possibly review 180,000 lines of code, it's just way way way too much. For reference, the rest of Paint.NET is about 700,000 lines of code and I've been working on it for over 20 years. [...] At times, Claude was working with the fury of 10 freshly unshackled Einstein genius-level 10x coders. And other times ... well, not so much. I had to babysit Claude quite a bit to make sure it did resource management correctly (for awhile it just wasn't doing the COM equivalent of AddRef() for reference counted objects, oops). I had to slap it a few times when I found some really bad design or architecture decisions. And I was also impressed at some rather clever and tireless reverse engineering work it did to figure out all the formulas needed for implementing Direct2D's built-in effects library. &mdash; Rick Brewster , author of Paint.NET Tags: reverse-engineering , coding-agents , claude , generative-ai , ai , llms , dotnet , linux , vibe-coding",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "8e7adc505fca9ddf",
-      "title": "Musíme omezit nové algoritmy, výrobu čipů a regulovat výpočetní výkon. V ČR vznikly neziskovky bojující s riziky AI",
-      "url": "https://www.lupa.cz/clanky/musime-omezit-nove-algoritmy-vyrobu-cipu-a-regulovat-vypocetni-vykon-v-cr-vznikly-neziskovky-bojujici-s-riziky-ai/",
-      "published_at": "2026-09-02T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Jedna ze dvou nových organizací v Praze uspořádala první demonstraci. Zájem veřejnosti je zatím malý.",
-      "hero_image": "https://i.iinfo.cz/images/580/demonstrace-pauseai-v-praze.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "31cc7c4597ddbefd",
@@ -1949,30 +1973,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "712d10745cacaef7",
-      "title": "[AINews] OpenAI to reach AGI bar by end-2026",
-      "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
-      "published_at": "2026-08-28T07:12:10+00:00",
-      "author": "",
-      "summary_raw": "It&#8217;s Time. We&#8217;re in the Endgame now.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "45159aeebfe89e9d",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "published_at": "2026-08-28T06:00:00+00:00",
-      "author": "",
-      "summary_raw": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
     },
     {
       "id": "df05f2a400608a82",
