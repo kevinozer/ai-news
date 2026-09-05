@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-05T04:00:58.371261+00:00",
+  "generated_at": "2026-09-05T08:21:15.047450+00:00",
   "date": "2026-09-05",
-  "article_count_unique": 129,
-  "article_count_raw": 129,
+  "article_count_unique": 128,
+  "article_count_raw": 128,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,7 +164,7 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 2,
-      "raw_count": 11
+      "raw_count": 10
     },
     {
       "source_id": "czechcrunch",
@@ -1564,18 +1564,6 @@
       "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/30186662-5010-4c83-a672-e33c53deeaa3_1080x669.webp",
       "source_id": "dwarkesh",
       "source_name": "Dwarkesh Patel",
-      "category": "commentary"
-    },
-    {
-      "id": "d46f78754aed581e",
-      "title": "[AINews] OpenAI shuts off Cursor",
-      "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
-      "published_at": "2026-08-29T05:11:52+00:00",
-      "author": "",
-      "summary_raw": "Elon v Altman has a real consequence.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
       "category": "commentary"
     },
     {
