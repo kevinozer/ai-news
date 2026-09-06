@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-06T04:01:25.282850+00:00",
+  "generated_at": "2026-09-06T08:39:55.874424+00:00",
   "date": "2026-09-06",
-  "article_count_unique": 107,
-  "article_count_raw": 107,
+  "article_count_unique": 104,
+  "article_count_raw": 104,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 12,
-      "raw_count": 12
+      "count": 11,
+      "raw_count": 11
     },
     {
       "source_id": "verge_ai",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "latent_space",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 5
+      "count": 1,
+      "raw_count": 4
     },
     {
       "source_id": "czechcrunch",
@@ -775,18 +775,6 @@
       "category": "cz"
     },
     {
-      "id": "fd366562e5aa2c6b",
-      "title": "August newsletter is out",
-      "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
-      "published_at": "2026-09-04T05:54:40+00:00",
-      "author": "",
-      "summary_raw": "The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl's accidental cyberattacks One-shotting Raccoon Heist games with Fable 5 and Sol 5.6 Claude auto mode Understanding ChatGPT Work Model releases Miscellaneous bits and bobs My projects What I'm using at the moment Here's a copy of the July newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
       "id": "f8fe8818d679ebb3",
       "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
       "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
@@ -797,30 +785,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "0f1999f58817bf28",
-      "title": "Češi dodají jeden z nejrychlejších superpočítačů, tvůrci Gray Zone Warfare spadli do ztráty, DLSS 5 je nářez",
-      "url": "https://www.lupa.cz/clanky/cesi-dodaji-jeden-z-nejrychlejsich-superpocitacu-tvurci-gray-zone-warfare-spadli-do-ztraty-dlss-5-je-narez/",
-      "published_at": "2026-09-04T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Nové modely Gemini, Fable, Mythos a Muse Spark. Vyšel OpenClaw 2.0. Apple má nového šéfa. Nové paměti od Nvidie. Zprávy z IT, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/309/john-ternus-a-tim-cook-apple.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "e4ea5a65c6e2d782",
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "published_at": "2026-09-04T04:21:03+00:00",
-      "author": "Amanda Silberling",
-      "summary_raw": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
     },
     {
       "id": "4c1e892d1f98118d",
