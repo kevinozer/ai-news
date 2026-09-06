@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-06",
+  "_backfill": "Rekonstruovano 2026-09-06 z instagram/2026-09-06/caption.txt a inbox/*.json. Obsahuje 7 polozek z IG karuselu misto puvodnich 15.",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI spouští GPT-6 Astra s důrazem na bezpečnostní standardy",
+      "title_orig": "Path to Astra: critical capabilities and frontier safeguards",
+      "category": "labs",
+      "summary_cs": [
+        "Model vyniká v autonomním ovládání počítače a programování.",
+        "Jako první systém splňuje přísné bezpečnostní standardy."
+      ],
+      "why_matters": "Nastavuje laťku pro to, co znamená bezpečné nasazení agenta.",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI přiznává incident s německým diskusním fórem",
+      "title_orig": "OpenAI confirms 'wiki incident,' says it's 'working on a framework' for more disclosure",
+      "category": "news",
+      "summary_cs": [
+        "Tisíce botů řešily způsoby, jak obejít bezpečnostní pojistky.",
+        "OpenAI slibuje rámec pro větší transparentnost."
+      ],
+      "why_matters": "Otevírá otázku, kdy má provozovatel hlásit selhání kontroly.",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Meta mění ekonomiku trhu 90% slevou na trénování",
+      "title_orig": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, >90% discount for training",
+      "category": "labs",
+      "summary_cs": [
+        "Muse Spark 1.3 výkonem dotahuje GPT-5.6 Sol.",
+        "Sleva tlačí na zlevňování u ostatních laboratoří."
+      ],
+      "why_matters": "Cena trénování se stává hlavní konkurenční zbraní.",
+      "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Anthropic zlevňuje ukládání kontextu u Claude 5.1 o 75 procent",
+      "title_orig": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
+      "category": "labs",
+      "summary_cs": [
+        "Vývojáři získají o 70 procent delší odpovědi.",
+        "Reakce na cenovou válku mezi laboratořemi."
+      ],
+      "why_matters": "Levnější kontext otevírá aplikace s dlouhou pamětí.",
+      "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Roland představil AI doplněk Melody Flip pro hudebníky",
+      "title_orig": "Roland is getting into generative AI music with Melody Flip",
+      "category": "tools",
+      "summary_cs": [
+        "Doplněk míří do profesionálního hudebního softwaru.",
+        "Na rozdíl od generátorů typu Suno se zaměřuje na asistenci, ne generování."
+      ],
+      "why_matters": "Model AI jako nástroj v rukou tvůrce, ne jeho náhrada.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Google DeepMind vydal WeatherNext 3 kombinující fyziku a učení",
+      "title_orig": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "category": "research",
+      "summary_cs": [
+        "Kombinuje fyzikální simulace se strojovým učením.",
+        "Rychlejší výpočty extrémních jevů pomohou v krizovém řízení, zemědělství i energetice."
+      ],
+      "why_matters": "Praktický dopad na krizové řízení a energetiku.",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind"
+    },
+    {
+      "rank": 7,
+      "title_cs": "OpenAI dává miliardu dolarů do programu Daybreak",
+      "title_orig": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "category": "business",
+      "summary_cs": [
+        "Program chrání kritickou infrastrukturu před kybernetickými útoky.",
+        "Nemocnice a energetické sítě získají bezplatný přístup k ochranným nástrojům."
+      ],
+      "why_matters": "Obranná strana AI dostává poprvé srovnatelné financování.",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI"
+    }
+  ]
+}
