@@ -75,36 +75,43 @@ jobs:
       - name: Odeslat e-mail šéfovi
         if: ${{ inputs.dry_run != 'true' && inputs.bez_sefa != 'true' }}
         env:
-          GMAIL_USER: ${{ secrets.GMAIL_USER }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           BOSS_EMAIL: ${{ secrets.BOSS_EMAIL }}
+          # GMAIL_USER uz neslouzi k prihlaseni, jen jako adresa pro kopii Kevinovi.
+          KOPIE_EMAIL: ${{ secrets.GMAIL_USER }}
           TO_OVERRIDE: ${{ inputs.test_to }}
           DATE: ${{ steps.d.outputs.date }}
         run: |
           python3 - <<'PY'
-          import os, ssl, smtplib
-          from email.message import EmailMessage
+          import os, json, base64, urllib.request, urllib.error
           from datetime import datetime
           months=['','ledna','února','března','dubna','května','června','července','srpna','září','října','listopadu','prosince']
           DATE=os.environ["DATE"]; d=datetime.strptime(DATE,"%Y-%m-%d")
           datum_cs=f"{d.day}. {months[d.month]} {d.year}"
-          msg=EmailMessage()
           TO=os.environ.get("TO_OVERRIDE") or os.environ["BOSS_EMAIL"]
-          msg["From"]=os.environ["GMAIL_USER"]; msg["To"]=TO
-          if not os.environ.get("TO_OVERRIDE"):
-              me=os.environ.get("GMAIL_USER")
-              if me and me!=TO: msg["Cc"]=me
-          msg["Subject"]=f"AI News — týdenní přehled k {datum_cs}"
-          msg.set_content(
-              "Dobrý den,\n\nv příloze posílám týdenní přehled nejdůležitějších a "
-              "nejzajímavějších novinek ze světa AI za uplynulý týden.\n\nHezký týden.")
-          with open(f"digest/news_{DATE}.pdf","rb") as f: data=f.read()
-          msg.add_attachment(data, maintype="application", subtype="pdf",
-                             filename=f"AI-News-tydenni-{DATE}.pdf")
-          ctx=ssl.create_default_context()
-          with smtplib.SMTP("smtp.gmail.com",587) as s:
-              s.starttls(context=ctx); s.login(os.environ["GMAIL_USER"], os.environ["GMAIL_APP_PASSWORD"]); s.send_message(msg)
-          print("E-mail odeslán na", TO)
+          telo={
+            "from": "CRUZ <newsletter@send.aicruz.cz>",
+            "to": [TO],
+            "reply_to": ["vladimir.cruz@aicruz.cz"],
+            "subject": f"AI News — týdenní přehled k {datum_cs}",
+            "text": ("Dobrý den,\n\nv příloze posílám týdenní přehled nejdůležitějších a "
+                     "nejzajímavějších novinek ze světa AI za uplynulý týden.\n\nHezký týden."),
+          }
+          kopie=os.environ.get("KOPIE_EMAIL")
+          if kopie and not os.environ.get("TO_OVERRIDE") and kopie!=TO:
+              telo["cc"]=[kopie]
+          with open(f"digest/news_{DATE}.pdf","rb") as f:
+              telo["attachments"]=[{"filename": f"AI-News-tydenni-{DATE}.pdf",
+                                    "content": base64.b64encode(f.read()).decode()}]
+          rq=urllib.request.Request("https://api.resend.com/emails",
+                                    data=json.dumps(telo).encode(), method="POST")
+          rq.add_header("Authorization","Bearer "+os.environ["RESEND_API_KEY"])
+          rq.add_header("Content-Type","application/json")
+          try:
+              with urllib.request.urlopen(rq) as x:
+                  print("E-mail odeslán na", TO, "| id:", json.loads(x.read()).get("id"))
+          except urllib.error.HTTPError as e:
+              print("Resend HTTP", e.code, e.read().decode()[:400]); raise
           PY
 
       # Stejny tydenni vyber posleme i odberatelum newsletteru na aicruz.cz,
@@ -113,7 +120,7 @@ jobs:
       # Preskakuje se pri dry_run i pri testovacim prijemci, at test nerozesle
       # newsletter cele databazi.
       - name: Rozeslat newsletter odberatelum
-        if: ${{ inputs.dry_run != 'true' && inputs.test_to == '' }}
+        if: ${{ !cancelled() && inputs.dry_run != 'true' && inputs.test_to == '' }}
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DATE: ${{ steps.d.outputs.date }}
@@ -124,42 +131,32 @@ jobs:
           fi
           python3 scripts/newsletter_send.py --ai-news . --end "$DATE"
 
-      # Pojistka: kdyz cokoliv v tomhle jobu selze, prijde o tom e-mail.
-      # 17. 8. 2026 spadla rozesilka na 403 z Resendu (spatny klic v secrets)
-      # a nikdo o tom dva dny nevedel - selhani workflow je videt jen v GitHubu.
-      # Zamerne pres Gmail SMTP, ne pres Resend: kdyz je rozbity prave Resend,
-      # upozorneni musi jit jinudy.
+      # Pojistka: kdyz cokoliv v tomhle jobu selze, prijde o tom zprava.
+      # 17. 8. 2026 spadla rozesilka na 403 z Resendu a nikdo o tom dva dny nevedel.
+      # 31. 8. 2026 spadl sefovsky e-mail na vyprsenem Gmail app passwordu — a protoze
+      # tohle upozorneni jelo taky pres Gmail, nedoslo ani ono. Proto ted Telegram:
+      # nezavisly kanal na Resendu i na Gmailu, ktery denni pipeline pouziva kazdy den.
       - name: Upozornit na selhani
         if: failure()
         env:
-          GMAIL_USER: ${{ secrets.GMAIL_USER }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           BEH: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           python3 - <<'PY'
-          import os, ssl, smtplib
-          from email.message import EmailMessage
-          uzivatel = os.environ.get("GMAIL_USER")
-          heslo = os.environ.get("GMAIL_APP_PASSWORD")
-          if not (uzivatel and heslo):
-              print("chybi GMAIL_USER/GMAIL_APP_PASSWORD, upozorneni se neposila")
+          import os, json, urllib.request
+          tok=os.environ.get("TELEGRAM_BOT_TOKEN"); chat=os.environ.get("TELEGRAM_CHAT_ID")
+          if not (tok and chat):
+              print("chybi TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID, upozorneni se neposila")
               raise SystemExit(0)
-          msg = EmailMessage()
-          msg["From"] = uzivatel
-          msg["To"] = "kevin.ozer@aicruz.cz"
-          msg["Cc"] = uzivatel
-          msg["Subject"] = "Tydenni AI News: rozesilka SELHALA"
-          msg.set_content(
-              "Workflow 'AI News weekly digest' skoncilo chybou, takze tenhle tyden "
-              "newsletter odberatelum nejspis neodesel.\n\n"
-              f"Log behu: {os.environ.get('BEH','')}\n\n"
-              "Nejcastejsi pricina: neplatny nebo omezeny RESEND_API_KEY v secrets repa "
-              "ai-news (Resend na broadcasty vraci 403). Klic musi byt z workspace aicruz "
-              "a mit Full access.")
-          ctx = ssl.create_default_context()
-          with smtplib.SMTP("smtp.gmail.com", 587) as s:
-              s.starttls(context=ctx)
-              s.login(uzivatel, heslo)
-              s.send_message(msg)
-          print("upozorneni na selhani odeslano")
+          text=("Tydenni AI News: rozesilka SELHALA.\n\n"
+                "Workflow 'AI News weekly digest' skoncilo chybou — tenhle tyden nejspis "
+                "nedostal PDF sef ani newsletter odberatele.\n\n"
+                f"Log behu: {os.environ.get('BEH','')}")
+          rq=urllib.request.Request(f"https://api.telegram.org/bot{tok}/sendMessage",
+                                    data=json.dumps({"chat_id":chat,"text":text}).encode(),
+                                    method="POST")
+          rq.add_header("Content-Type","application/json")
+          with urllib.request.urlopen(rq) as x:
+              print("upozorneni odeslano na Telegram")
           PY
