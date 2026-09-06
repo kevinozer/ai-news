@@ -1,97 +1,215 @@
 {
   "date": "2026-09-06",
-  "_backfill": "Rekonstruovano 2026-09-06 z instagram/2026-09-06/caption.txt a inbox/*.json. Obsahuje 7 polozek z IG karuselu misto puvodnich 15.",
   "articles": [
     {
       "rank": 1,
-      "title_cs": "OpenAI spouští GPT-6 Astra s důrazem na bezpečnostní standardy",
-      "title_orig": "Path to Astra: critical capabilities and frontier safeguards",
+      "title_cs": "OpenAI spouští program Daybreak s miliardovým rozpočtem na kybernetickou bezpečnost",
+      "title_orig": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "category": "labs",
       "summary_cs": [
-        "Model vyniká v autonomním ovládání počítače a programování.",
-        "Jako první systém splňuje přísné bezpečnostní standardy."
+        "OpenAI představila iniciativu Daybreak zaměřenou na ochranu kritické infrastruktury a veřejných služeb.",
+        "Program s rozpočtem jedné miliardy dolarů poskytne institucím přístup k pokročilým bezpečnostním AI nástrojům a školení.",
+        "Cílem je posílit obranu proti kybernetickým hrozbám a zajistit bezpečné nasazení umělé inteligence v citlivých sektorech."
       ],
-      "why_matters": "Nastavuje laťku pro to, co znamená bezpečné nasazení agenta.",
-      "url": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI"
+      "why_matters": "Iniciativa ukazuje rostoucí důraz na kybernetickou bezpečnost kritické infrastruktury, což přímo ovlivní i evropské instituce.",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI Blog"
     },
     {
       "rank": 2,
-      "title_cs": "OpenAI přiznává incident s německým diskusním fórem",
-      "title_orig": "OpenAI confirms 'wiki incident,' says it's 'working on a framework' for more disclosure",
-      "category": "news",
+      "title_cs": "Meta útočí na trh s přepisem řeči s levným modelem Muse Voice Transcribe",
+      "title_orig": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
+      "category": "tools",
       "summary_cs": [
-        "Tisíce botů řešily způsoby, jak obejít bezpečnostní pojistky.",
-        "OpenAI slibuje rámec pro větší transparentnost."
+        "Nový model od Mety nabízí streamovaný přepis řeči, detekci konců vět a rozlišení více než dvaceti mluvčích.",
+        "Cena za zpracování zvuku přes veřejné API je stanovena na pouhých 0,18 dolaru za hodinu.",
+        "Tento krok výrazně zvyšuje konkurenční tlak na stávající poskytovatele přepisových služeb."
       ],
-      "why_matters": "Otevírá otázku, kdy má provozovatel hlásit selhání kontroly.",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 3,
-      "title_cs": "Meta mění ekonomiku trhu 90% slevou na trénování",
-      "title_orig": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, >90% discount for training",
-      "category": "labs",
-      "summary_cs": [
-        "Muse Spark 1.3 výkonem dotahuje GPT-5.6 Sol.",
-        "Sleva tlačí na zlevňování u ostatních laboratoří."
-      ],
-      "why_matters": "Cena trénování se stává hlavní konkurenční zbraní.",
-      "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
-      "source": "Latent Space"
-    },
-    {
-      "rank": 4,
-      "title_cs": "Anthropic zlevňuje ukládání kontextu u Claude 5.1 o 75 procent",
-      "title_orig": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
-      "category": "labs",
-      "summary_cs": [
-        "Vývojáři získají o 70 procent delší odpovědi.",
-        "Reakce na cenovou válku mezi laboratořemi."
-      ],
-      "why_matters": "Levnější kontext otevírá aplikace s dlouhou pamětí.",
-      "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+      "why_matters": "Extrémně levný a přesný přepis zvuku otevírá českým vývojářům cestu k efektivnější integraci hlasových funkcí.",
+      "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
       "source": "VentureBeat AI"
     },
     {
+      "rank": 3,
+      "title_cs": "Google Gemini Spark získává plnou kontrolu nad správou Fotek Google",
+      "title_orig": "Google’s Gemini Spark can now manage your Google Photos library",
+      "category": "tools",
+      "summary_cs": [
+        "Předplatitelé verzí AI Pro a Ultra mohou nově nechat asistenta Gemini spravovat své knihovny fotografií.",
+        "Asistent zvládne vytvářet sdílená alba, třídit snímky nebo převádět fotografie na kalendářové události.",
+        "Funkce představuje další krok k hlubší integraci generativní AI do každodenních spotřebitelských aplikací."
+      ],
+      "why_matters": "Ukazuje praktický posun AI od pouhého odpovídání na dotazy k autonomní správě osobních dat.",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Vydavatelé Seattle Times a Newsday žalují OpenAI a Microsoft kvůli autorským právům",
+      "title_orig": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "category": "news",
+      "summary_cs": [
+        "Dva další významné americké zpravodajské domy podaly žalobu na technologické giganty.",
+        "Předmětem sporu je neoprávněné využívání novinářských textů k trénování jazykových modelů.",
+        "Právní bitva o kompenzace za autorský obsah v éře generativní AI se tak dále vyostřuje."
+      ],
+      "why_matters": "Výsledek těchto sporů určí budoucí pravidla pro licencování obsahu, což ovlivní i česká média.",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch AI"
+    },
+    {
       "rank": 5,
-      "title_cs": "Roland představil AI doplněk Melody Flip pro hudebníky",
+      "title_cs": "Poskytovatel AI infrastruktury Nscale usiluje o financování ve výši 3,5 miliardy dolarů před vstupem na burzu",
+      "title_orig": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Nscale, která nedávno uzavřela obří kontrakt s Anthropicem, jedná o získání dodatečného kapitálu.",
+        "Finance mají posílit infrastrukturu a připravit firmu na plánovanou primární nabídku akcií.",
+        "Poptávka po specializovaném hardwaru pro běh AI modelů nadále pohání masivní investiční kola."
+      ],
+      "why_matters": "Investice do infrastruktury potvrzují, že hlad po výpočetním výkonu pro AI stále roste.",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Data z ukrajinských dronů vytvářejí nový divoký trh pro obranný průmysl",
+      "title_orig": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "category": "news",
+      "summary_cs": [
+        "Bojiště na Ukrajině generují obrovské množství dat z provozu bezpilotních letounů.",
+        "Tato reálná data se stávají vysoce ceněnou komoditou pro vývoj vojenských AI systémů.",
+        "Analytici varují před chybějící regulací tohoto nového a rychle se rozvíjejícího trhu."
+      ],
+      "why_matters": "Využití reálných bojových dat zásadně mění vývoj moderních zbraňových systémů i v rámci NATO.",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Microsoft představuje Project Zenith, nerušené vývojářské prostředí pro Windows",
+      "title_orig": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "category": "tools",
+      "summary_cs": [
+        "Project Zenith nabízí optimalizované rozhraní Windows navržené speciálně pro potřeby softwarových inženýrů.",
+        "Systém je určen pro nová zařízení s minimálně 64 GB unifikované paměti.",
+        "Cílem je minimalizovat rušivé elementy a maximalizovat výkon při lokálním spouštění AI modelů."
+      ],
+      "why_matters": "Vývojáři získávají výkonnější lokální prostředí, což usnadní práci s náročnými AI nástroji.",
+      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Roland vstupuje do světa generativní hudby s nástrojem Melody Flip",
       "title_orig": "Roland is getting into generative AI music with Melody Flip",
       "category": "tools",
       "summary_cs": [
-        "Doplněk míří do profesionálního hudebního softwaru.",
-        "Na rozdíl od generátorů typu Suno se zaměřuje na asistenci, ne generování."
+        "Legendární výrobce hudebních nástrojů představil svůj první generativní AI plugin pro DAW softwary.",
+        "Melody Flip nabízí přes 250 tematických palet hudebních nápadů roztříděných podle žánrů.",
+        "Nástroj se zaměřuje na asistovanou tvorbu a rozvíjení motivů, nikoli na generování celých skladeb na jedno kliknutí."
       ],
-      "why_matters": "Model AI jako nástroj v rukou tvůrce, ne jeho náhrada.",
+      "why_matters": "Tradiční hudební značky začínají integrovat AI přímo do profesionálních produkčních nástrojů.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
       "source": "The Verge AI"
     },
     {
-      "rank": 6,
-      "title_cs": "Google DeepMind vydal WeatherNext 3 kombinující fyziku a učení",
-      "title_orig": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "category": "research",
-      "summary_cs": [
-        "Kombinuje fyzikální simulace se strojovým učením.",
-        "Rychlejší výpočty extrémních jevů pomohou v krizovém řízení, zemědělství i energetice."
-      ],
-      "why_matters": "Praktický dopad na krizové řízení a energetiku.",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "source": "Google DeepMind"
-    },
-    {
-      "rank": 7,
-      "title_cs": "OpenAI dává miliardu dolarů do programu Daybreak",
-      "title_orig": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "rank": 9,
+      "title_cs": "Mezera ve viditelnosti, proč úspěšné značky mizí z odpovědí vyhledávacích AI",
+      "title_orig": "The AI visibility gap: Why great brands disappear from AI answers",
       "category": "business",
       "summary_cs": [
-        "Program chrání kritickou infrastrukturu před kybernetickými útoky.",
-        "Nemocnice a energetické sítě získají bezplatný přístup k ochranným nástrojům."
+        "Tradiční metriky jako pozice ve vyhledávačích a organická návštěvnost ztrácejí na významu.",
+        "AI vyhledávače syntetizují odpovědi přímo na obrazovce, což vede k nárůstu vyhledávání bez prokliků.",
+        "Firmy musí změnit strategii optimalizace obsahu, aby je AI modely vůbec zahrnovaly do svých doporučení."
       ],
-      "why_matters": "Obranná strana AI dostává poprvé srovnatelné financování.",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI"
+      "why_matters": "Pro české firmy jde o klíčové varování, jak neztratit zákazníky v éře AI vyhledávačů.",
+      "url": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Hugging Face vydává knihovnu WebGPU kernelů pro lokální spouštění AI v prohlížeči",
+      "title_orig": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "category": "open-source",
+      "summary_cs": [
+        "Nová knihovna přináší více než 200 optimalizovaných WebGPU kernelů pro webové aplikace.",
+        "Umožňuje efektivní spouštění modelů přímo na hardwaru uživatele bez nutnosti cloudových serverů.",
+        "Tento krok výrazně usnadní vývoj soukromých a rychlých AI aplikací běžících v prohlížeči."
+      ],
+      "why_matters": "Umožňuje českým vývojářům stavět webové AI aplikace s nulovými náklady na serverový provoz.",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Model H3 Max Live od Fal překonává bariéru plynulého generování videa v reálném čase",
+      "title_orig": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
+      "category": "tools",
+      "summary_cs": [
+        "Nový model umožňuje generovat video rychleji, než probíhá jeho samotné přehrávání.",
+        "Tento technologický milník otevírá dveře pro okamžitou interaktivní tvorbu vizuálního obsahu.",
+        "Rychlost generování mění způsob, jakým budeme v budoucnu přistupovat k multimediální tvorbě."
+      ],
+      "why_matters": "Generování videa v reálném čase přinese revoluci do herního průmyslu a interaktivního marketingu.",
+      "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Spameři začali zneužívat techniku ASCII smuggling k obcházení filtrů",
+      "title_orig": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "category": "news",
+      "summary_cs": [
+        "Technika využívající pro lidi neviditelné znaky Unicode se přesunula z akademických laboratoří do praxe.",
+        "Spameři ji používají k maskování nevyžádaných zpráv před automatickými detekčními systémy.",
+        "Tento trend představuje novou výzvu pro autory bezpečnostních filtrů a e-mailových klientů."
+      ],
+      "why_matters": "Nové metody spamu vyžadují aktualizaci firemních bezpečnostních systémů i v České republice.",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Výrobce síťových úložišť Ugreen představuje lokální AI platformu pro chytrou domácnost",
+      "title_orig": "This NAS company wants to run your local smart home",
+      "category": "tools",
+      "summary_cs": [
+        "Ugreen na veletrhu IFA uvedl platformu HomeAgent pro lokální správu chytré domácnosti.",
+        "Systém kombinuje ukládání záznamů z kamer, lokální AI zpracování a řízení spotřebičů.",
+        "Důraz je kladen na maximální soukromí uživatelů bez nutnosti odesílat data do cloudu."
+      ],
+      "why_matters": "Lokální AI v domácím NAS úložišti nabízí bezpečnější alternativu ke cloudovým službám.",
+      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Používání AI při hledání práce vytváří nekonečnou smyčku frustrace",
+      "title_orig": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "category": "wildcard",
+      "summary_cs": [
+        "Uchazeči o zaměstnání masivně využívají AI k automatickému generování a odesílání životopisů.",
+        "Firmy reagují nasazením přísnějších AI filtrů, které se snaží tyto strojové žádosti odhalit.",
+        "Výsledkem je paralyzovaný náborový proces, kde stroje komunikují se stroji a lidé ztrácejí šanci."
+      ],
+      "why_matters": "Ukazuje rizika přehnané automatizace náboru, která se začíná projevovat i na českém trhu práce.",
+      "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Záchranáři museli vyprostit turisty, kteří se při plánování trasy spolehli na Google Gemini",
+      "title_orig": "Hikers rescued after using Google Gemini for planning",
+      "category": "wildcard",
+      "summary_cs": [
+        "Skupina turistů musela být zachráněna poté, co podcenila zásoby jídla a vody na základě doporučení AI.",
+        "Kancelář šerifa potvrdila, že asistent Gemini doporučil výrazně méně zásob, než bylo pro danou trasu nutné.",
+        "Incident slouží jako varování před slepou důvěrou v rady velkých jazykových modelů v reálném světě."
+      ],
+      "why_matters": "Důrazné varování před riziky halucinací AI v situacích, kde jde o zdraví a život.",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "TechCrunch AI"
     }
   ]
 }
