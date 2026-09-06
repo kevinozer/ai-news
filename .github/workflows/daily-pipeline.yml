@@ -35,7 +35,7 @@ jobs:
         id: g
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
-          SC_TOKEN: ${{ secrets.SC_GITHUB_PAT }}
+          SC_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           DATE="${{ inputs.date }}"; [ -n "$DATE" ] || DATE=$(TZ=Europe/Prague date +%Y-%m-%d)
           miss=""
@@ -289,7 +289,7 @@ jobs:
           AINAMIRU_DIR: ${{ github.workspace }}/_ainamiru
           SC_NEWS_DATE: ${{ steps.d.outputs.date }}
         run: |
-          git clone --depth=10 "https://x-access-token:${{ secrets.SC_GITHUB_PAT }}@github.com/cruzmira/stanton-chase-ai-hub.git" /tmp/sc
+          git clone --depth=10 "https://x-access-token:${{ secrets.GH_PAT }}@github.com/cruzmira/stanton-chase-ai-hub.git" /tmp/sc
           if git -C /tmp/sc log -10 --pretty=%s | grep -q "sync ${{ steps.d.outputs.date }}"; then echo "SC uz synced -> preskakuji"; exit 0; fi
           cd /tmp/sc
           npm ci >/dev/null 2>&1 || npm install --no-audit --no-fund >/dev/null 2>&1
@@ -314,7 +314,7 @@ jobs:
           else echo "SC: bez změn"; fi
 
       - name: Persist selected.json (historie pro dedup)
-        if: ${{ success() && inputs.dry_run != 'true' }}
+        if: ${{ !cancelled() && inputs.dry_run != 'true' }}
         env:
           DATE: ${{ steps.d.outputs.date }}
         run: |
@@ -343,7 +343,7 @@ jobs:
         if: ${{ always() }}
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-          SC_GITHUB_PAT: ${{ secrets.SC_GITHUB_PAT }}
+          SC_GITHUB_PAT: ${{ secrets.GH_PAT }}
         run: |
           DATE=${{ steps.d.outputs.date }}
           DRY="${{ inputs.dry_run }}"

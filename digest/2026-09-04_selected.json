@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-04",
+  "_backfill": "Rekonstruovano 2026-09-06 z instagram/2026-09-04/caption.txt a inbox/*.json. Puvodni soubor se neulozil kvuli selhani kroku Stanton Chase (mrtvy SC_GITHUB_PAT) + persist podmineny success(). Obsahuje 7 polozek z IG karuselu misto puvodnich 15.",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI vydává GPT-6 Astra, model pro autonomní ovládání počítače",
+      "title_orig": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
+      "category": "labs",
+      "summary_cs": [
+        "GPT-6 Astra překonává dosavadní limity v programování a kybernetické bezpečnosti.",
+        "Přibližuje OpenAI k plně autonomním agentům schopným samostatně ovládat počítač."
+      ],
+      "why_matters": "Zásadní posun ke skutečně autonomním agentům v běžné práci.",
+      "url": "https://www.latent.space/p/astra",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Nvidia kupuje Hugging Face za 12,9 miliardy dolarů",
+      "title_orig": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "category": "business",
+      "summary_cs": [
+        "Nvidia získává kontrolu nad největším repozitářem AI modelů.",
+        "Posiluje dominanci na trhu s hardwarem i softwarem pro 18 milionů vývojářů."
+      ],
+      "why_matters": "Největší akvizice v open-source AI, mění rozložení sil na trhu.",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Souběžný výpadek ChatGPT, Claude, Grok a Gemini odhalil zranitelnost infrastruktury",
+      "title_orig": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "category": "news",
+      "summary_cs": [
+        "Výpadek zasáhl konkurenční služby ve stejnou dobu.",
+        "Vyvolal spekulace o závislosti na stejných cloudových dodavatelích."
+      ],
+      "why_matters": "Ukazuje systémové riziko koncentrace AI infrastruktury.",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "source": "WIRED AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Meta útočí modelem Muse Spark 1.3 a 95% slevou na API",
+      "title_orig": "Meta says Muse Spark 1.3 has frontier performance",
+      "category": "labs",
+      "summary_cs": [
+        "Muse Spark 1.3 cílí na konkurenční GPT-5.6-Sol.",
+        "Výměnou za levný provoz Meta požaduje přístup k uživatelským datům pro trénování."
+      ],
+      "why_matters": "Cenová válka mění ekonomiku provozu jazykových modelů.",
+      "url": "https://venturebeat.com/technology/meta-says-muse-spark-1-3-has-frontier-performance-but-its-best-results-come-from-a-model-developers-cant-broadly-use-yet",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Google vydal Gemini 3.8 Flash, třetí odlehčený model za šest týdnů",
+      "title_orig": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "category": "labs",
+      "summary_cs": [
+        "Nový Flash model má lepší uvažování.",
+        "Rychlé tempo ukazuje snahu udržet náskok v levných a rychlých aplikacích."
+      ],
+      "why_matters": "Levné modely rozhodují o nákladech firemních nasazení.",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Google DeepMind představil WeatherNext 3 pro přesnější předpovědi počasí",
+      "title_orig": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "category": "research",
+      "summary_cs": [
+        "Model výrazně zpřesní předpovědi deště a sněhu po celém světě.",
+        "Technologie se integruje do Map a vyhledávání."
+      ],
+      "why_matters": "Hmatatelný přínos hlubokého učení pro běžný život.",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Microsoft sráží cenu přepisu řeči na 10 centů za hodinu",
+      "title_orig": "Microsoft AI's MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
+      "category": "tools",
+      "summary_cs": [
+        "Nový model MAI-Transcribe-2 drasticky snižuje cenu přepisu.",
+        "Vytváří tlak na specializované startupy jako ElevenLabs."
+      ],
+      "why_matters": "Zlevnění umožní masové nasazení hlasových asistentů.",
+      "url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed",
+      "source": "VentureBeat AI"
+    }
+  ]
+}

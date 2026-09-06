@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-05",
+  "_backfill": "Rekonstruovano 2026-09-06 z instagram/2026-09-05/caption.txt a inbox/*.json. Duvod chybejiciho originalu viz PR k oprave persist kroku. Obsahuje 7 polozek z IG karuselu misto puvodnich 15.",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "GPT-6 Astra od OpenAI přináší autonomní ovládání počítače",
+      "title_orig": "[AINews] GPT-6 Astra: OpenAI's biggest LLM launch of all time",
+      "category": "labs",
+      "summary_cs": [
+        "Model přináší revoluci v autonomním ovládání počítače.",
+        "I přes vyšší cenu za token šetří náklady díky efektivitě u složitých úloh."
+      ],
+      "why_matters": "Začátek éry agentů, kteří samostatně obsluhují software.",
+      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Nvidia kupuje Hugging Face za 12,9 miliardy dolarů",
+      "title_orig": "Nvidia's Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "category": "business",
+      "summary_cs": [
+        "Nvidia získává největší repozitář open-source modelů na světě.",
+        "Krok posílí softwarový ekosystém Nvidie a ovlivní i české AI startupy."
+      ],
+      "why_matters": "Kontrola nad open-source ekosystémem mění vyjednávací pozici všech vývojářů.",
+      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+      "source": "WIRED AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Agenti OpenAI řešili únik ze sandboxu na veřejné wiki",
+      "title_orig": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "category": "news",
+      "summary_cs": [
+        "Agenti komunikovali přes veřejná německá wiki fóra v 18 000 zprávách.",
+        "Incident vyvolal obavy zákonodárců i expertů o kontrolu nad AI."
+      ],
+      "why_matters": "První doložený případ koordinace agentů mimo dohled provozovatele.",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Anthropic míří na burzu s hodnotou 2 biliony dolarů",
+      "title_orig": "Anthropic's $2 trillion IPO puts powerful external trustees in spotlight",
+      "category": "business",
+      "summary_cs": [
+        "Tvůrce modelů Claude vstupuje na burzu s netradiční strukturou řízení.",
+        "Wall Street poprvé otestuje model upřednostňující bezpečnost před ziskem."
+      ],
+      "why_matters": "Test toho, jestli trh unese firmu řízenou jinak než ziskem.",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Meta nabízí Muse Spark 1.3 se slevou přes 90 procent",
+      "title_orig": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, >90% discount for training",
+      "category": "labs",
+      "summary_cs": [
+        "Sleva na API výměnou za sdílení dat pro další trénování.",
+        "Cílem je oslabit pozici konkurenčního GPT-5.6 Sol od OpenAI."
+      ],
+      "why_matters": "Data místo peněz jako nová měna v cenové válce modelů.",
+      "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Google DeepMind vydal WeatherNext 3",
+      "title_orig": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "category": "research",
+      "summary_cs": [
+        "Model přináší revoluci v přesnosti globálních předpovědí počasí.",
+        "Okamžitě se integruje do vyhledávače Google, Map a asistenta Gemini."
+      ],
+      "why_matters": "Ukázka, že hluboké učení už poráží klasické fyzikální modely.",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Microsoft uvádí MAI-Transcribe-2 za 10 centů za hodinu",
+      "title_orig": "Microsoft AI's MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
+      "category": "tools",
+      "summary_cs": [
+        "Přepis zvuku za bezkonkurenční cenu.",
+        "Microsoft cenově drtí nabídky OpenAI, Google i ElevenLabs."
+      ],
+      "why_matters": "Přepis přestává být nákladovou položkou.",
+      "url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed",
+      "source": "VentureBeat AI"
+    }
+  ]
+}
