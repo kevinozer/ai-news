@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08T04:02:17.191747+00:00",
+  "generated_at": "2026-09-08T08:52:04.343023+00:00",
   "date": "2026-09-08",
-  "article_count_unique": 77,
-  "article_count_raw": 77,
+  "article_count_unique": 74,
+  "article_count_raw": 74,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -103,14 +103,14 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,12 +164,12 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 1,
-      "raw_count": 9
+      "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "raw_count": 10
     }
   ],
@@ -331,18 +331,6 @@
       "category": "cz"
     },
     {
-      "id": "432999d6b6a9fb0e",
-      "title": "Firmu prodal Slovákům, spolu byznys zdvojnásobili. Teď jde do startupu, který za rok přesáhl 10 milionů",
-      "url": "https://cc.cz/firmu-prodal-slovakum-spolu-byznys-zdvojnasobili-ted-jde-do-startupu-ktery-za-rok-presahl-10-milionu/",
-      "published_at": "2026-09-07T04:23:23+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "Pavel Pinkas coby partner naskakuje do startupu Ranketta, která firmám radí, jak být vidět v nástrojích umělé inteligence. Článek Firmu prodal Slovákům, spolu byznys zdvojnásobili. Teď jde do startupu, který za rok přesáhl 10 milionů se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/ranketta-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "27136f77a65b0f5d",
       "title": "Supporting independent journalism in Ukraine",
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -497,18 +485,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "7fa8172dd2499c62",
-      "title": "Quoting Zach Kehs",
-      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
-      "published_at": "2026-09-06T08:42:49+00:00",
-      "author": "",
-      "summary_raw": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performance. &mdash; Zach Kehs , There's No Limit to How Bad Code Can Get Tags: technical-debt",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
     },
     {
       "id": "86fa40f3aa4ffe44",
@@ -941,18 +917,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "569d4941baa281f1",
-      "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
-      "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
-      "published_at": "2026-09-01T04:36:54+00:00",
-      "author": "",
-      "summary_raw": "You can now create decent video faster than you watch it. This is the start of... something. We&#8217;re not sure what.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!hV5N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHQ7UHClW4AA2I6L.jpg",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "df05f2a400608a82",
