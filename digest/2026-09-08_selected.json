@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-08",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Fei-Fei Li a její startup World Labs mění svět AI s 3D světy z jediné fotky",
+      "title_orig": "Do Ameriky přijela s 20 dolary, teď mění svět AI. Její nový model postaví z jediné fotky autentický 3D svět",
+      "category": "business",
+      "summary_cs": [
+        "Startup World Labs, který vede uznávaná vědkyně Fei-Fei Li, dosáhl během pouhých tří měsíců hodnoty jedné miliardy dolarů.",
+        "Nová technologie dokáže z jediné obyčejné fotografie vygenerovat kompletní a fyzikálně věrný trojrozměrný svět.",
+        "Projekt získal masivní finanční podporu od technologických gigantů v čele s firmou Nvidia."
+      ],
+      "why_matters": "Ukazuje rychlý posun generativní AI od plochých obrázků k plnohodnotným 3D prostorům s obřím komerčním potenciálem.",
+      "url": "https://cc.cz/do-ameriky-prijela-s-20-dolary-ted-meni-svet-ai-jeji-novy-model-postavi-z-jedine-fotky-autenticky-3d-svet/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic uvádí model Claude Fable 5.1 s výraznou slevou pro agenty",
+      "title_orig": "Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic představil novou verzi svého špičkového modelu Claude Fable 5.1, která přináší výrazné vylepšení schopností.",
+        "Provozní náklady na práci s kontextovou pamětí klesly o 75 procent, což dramaticky zlevňuje nasazení autonomních agentů.",
+        "Model sice generuje o 70 procent více výstupních tokenů, ale celková efektivita z něj dělá nového lídra trhu."
+      ],
+      "why_matters": "Zásadní zlevnění a zrychlení nejpokročilejšího modelu pro programování a agentické úkoly na trhu.",
+      "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Pavel Pinkas vstupuje do startupu Ranketta a pomáhá firmám s viditelností v AI vyhledávačích",
+      "title_orig": "Firmu prodal Slovákům, spolu byznys zdvojnásobili. Teď jde do startupu, který za rok přesáhl 10 milionů",
+      "category": "news",
+      "summary_cs": [
+        "Úspěšný český podnikatel Pavel Pinkas se stává partnerem v rychle rostoucím tuzemském startupu Ranketta.",
+        "Ranketta se specializuje na optimalizaci pro vyhledávací AI systémy, což je nová a kriticky důležitá disciplína marketingu.",
+        "Startup dokázal za pouhý rok fungování překonat hranici obratu 10 milionů korun a plánuje další expanzi."
+      ],
+      "why_matters": "Představuje praktický příklad úspěšného českého byznysu postaveného na optimalizaci pro AI vyhledávače.",
+      "url": "https://cc.cz/firmu-prodal-slovakum-spolu-byznys-zdvojnasobili-ted-jde-do-startupu-ktery-za-rok-presahl-10-milionu/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Ivan Utěšil z Košík.cz tvrdí, že v samotném ChatGPT zatím byznys není",
+      "title_orig": "Ivan Utěšil (Košík.cz): V ChatGPT zatím byznys opravdu není. Umělá inteligence může e-shopům vzít vztah se zákazníkem",
+      "category": "news",
+      "summary_cs": [
+        "Generální ředitel online supermarketu Košík.cz sdílí střízlivý pohled na integraci velkých jazykových modelů do e-commerce.",
+        "Varuje, že neuvážené nasazení AI asistentů může e-shopům narušit přímý a cenný vztah se zákazníky.",
+        "Sám se snaží pomocí technologií automatizovat vlastní manažerskou agendu a totéž vyžaduje od svých podřízených."
+      ],
+      "why_matters": "Důležité varování před slepým nadšením z AI od šéfa jednoho z největších českých e-shopů.",
+      "url": "https://www.lupa.cz/clanky/ivan-utesil-kosik-cz-v-chatgpt-zatim-byznys-opravdu-neni-umela-inteligence-muze-e-shopum-vzit-vztah-se-zakaznikem/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Jak se vyvíjí trendy v optimalizaci pro AI vyhledávače pod taktovkou GPT-6 Astra",
+      "title_orig": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
+      "category": "tools",
+      "summary_cs": [
+        "Nový analytický nástroj sleduje, jaké zdroje a značky preferuje model GPT-6 Astra při odpovídání uživatelům.",
+        "Optimalizace pro vyhledávací AI motory se stává klíčovou strategií pro udržení online viditelnosti firem.",
+        "Analýza nabízí konkrétní doporučení pro tvůrce obsahu a marketingové lídry, jak se přizpůsobit novým algoritmům."
+      ],
+      "why_matters": "Pomáhá pochopit, jak zajistit, aby vaše značka nezmizela z odpovědí nejmodernějších AI modelů.",
+      "url": "https://www.latent.space/p/aeo",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenAI spouští program na podporu nezávislé žurnalistiky na Ukrajině",
+      "title_orig": "Supporting independent journalism in Ukraine",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI se spojila s organizacemi AIRPPU a WAN-IFRA za účelem spuštění speciálního akceleračního programu.",
+        "Iniciativa má pomoci ukrajinským zpravodajským redakcím zavádět AI nástroje pro zvýšení jejich odolnosti a efektivity.",
+        "Cílem je podpořit udržitelnost nezávislých médií v krizových oblastech pomocí moderních technologií."
+      ],
+      "why_matters": "Ukazuje, jak může AI pomáhat v krizových oblastech a podporovat svobodu slova.",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Hlasové stížnosti do telefonu mohou být budoucností zákaznické zpětné vazby",
+      "title_orig": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+      "category": "wildcard",
+      "summary_cs": [
+        "Nový systém Voicebox umožňuje zákazníkům nahrávat rychlé hlasové poznámky s jejich stížnostmi či pochvalami.",
+        "AI následně tyto nahrávky analyzuje, extrahuje klíčové problémy a automaticky je předává k řešení.",
+        "Tato metoda nahrazuje zdlouhavé vyplňování e-mailových dotazníků a čekání na zákaznických linkách."
+      ],
+      "why_matters": "Představuje praktickou ukázku toho, jak AI zjednoduší a zlidští komunikaci mezi firmami a zákazníky.",
+      "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Vydavatelé Seattle Times a Newsday podali žalobu na OpenAI a Microsoft",
+      "title_orig": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "category": "news",
+      "summary_cs": [
+        "Dva významné americké deníky žalují technologické firmy kvůli neoprávněnému použití jejich článků k trénování modelů.",
+        "Žaloba tvrdí, že systémy umělé inteligence často doslova reprodukují celé pasáže z jejich autorských textů.",
+        "Tento spor doplňuje dlouhou řadu právních bitev o autorská práva mezi vydavateli a vývojáři AI."
+      ],
+      "why_matters": "Výsledek těchto sporů zásadně ovlivní to, jakým způsobem budou AI modely v budoucnu přistupovat k informacím.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Složitá korporátní síť v pozadí datového centra za tři miliardy dolarů",
+      "title_orig": "The complex corporate web behind a $3.2 billion AI data center",
+      "category": "news",
+      "summary_cs": [
+        "Analýza odkrývá nepřehlednou strukturu firem, které se podílejí na výstavbě obřích AI datových center.",
+        "Složitá vlastnická struktura komplikuje určení odpovědnosti v případě technických či ekologických problémů.",
+        "Rostoucí nároky na infrastrukturu nutí investory k vytváření složitých finančních a právních schémat."
+      ],
+      "why_matters": "Pohled do zákulisí financování infrastruktury, která je pro fungování moderní AI naprosto nezbytná.",
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Fable 5.1 dokazuje Fermatovu větu a přináší efektivní čip Z1",
+      "title_orig": "Claude proves Fermat, automated AI researcher, Z1 efficiency chip",
+      "category": "labs",
+      "summary_cs": [
+        "Nový model od Anthropic úspěšně vyřešil složitý matematický důkaz související s Fermatovou větou.",
+        "Souběžně se objevují první specializované čipy Z1 zaměřené na maximální energetickou efektivitu při běhu agentů.",
+        "Automatizovaný výzkum se tak posouvá od teoretických konceptů k reálným vědeckým objevům."
+      ],
+      "why_matters": "Ukazuje, že AI začíná překonávat lidské schopnosti i v hlubokém vědeckém a matematickém výzkumu.",
+      "url": "https://tldr.tech/ai/2026-09-07",
+      "source": "TLDR AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Jak AI nativní firmy transformují pracovní postupy do provozních schopností",
+      "title_orig": "How AI-native companies turn workflows into operating capability",
+      "category": "labs",
+      "summary_cs": [
+        "Společnosti jako Basis, Clay a Exa Labs úspěšně integrují AI agenty do svých každodenních procesů.",
+        "Technologie pomáhá automatizovat onboarding nových klientů, správu účtů i integraci pro vývojáře.",
+        "Případové studie ukazují konkrétní návody, jak mohou tradiční podniky transformovat své fungování."
+      ],
+      "why_matters": "Praktická inspirace pro české manažery, jak efektivně nasadit agenty do firemní praxe.",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Fine-tuning malého modelu pro strukturované výstupy v pouhých sto krocích",
+      "title_orig": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face publikoval návod, jak výrazně zlepšit schopnosti malého 350M modelu generovat přesný JSON.",
+        "Díky metodě GRPO stačí k dosažení skvělých výsledků pouhých sto tréninkových kroků.",
+        "Tento přístup umožňuje provozovat vysoce specializované a levné modely lokálně s minimálními nároky."
+      ],
+      "why_matters": "Návod, jak extrémně levně a efektivně přizpůsobit malé modely pro specifické firemní úkoly.",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nástroj pro vizualizaci přechodu mezi kartografickými projekcemi vytvořený v GPT-6 Astra",
+      "title_orig": "Tool: Mercator ↔ Equal Earth",
+      "category": "tools",
+      "summary_cs": [
+        "Vývojář Simon Willison nechal model GPT-6 Astra vytvořit interaktivní animaci přechodu mezi mapovými projekcemi.",
+        "Kód byl vygenerován kompletně na základě textového zadání s využitím vizualizační knihovny D3.",
+        "Ukázka demonstruje sílu takzvaného vibe-codingu, kdy člověk pouze koriguje směr a AI píše veškerý kód."
+      ],
+      "why_matters": "Demonstruje, jak snadno mohou i netechničtí uživatelé vytvářet komplexní vizuální nástroje.",
+      "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Slovník pojmů z oblasti umělé inteligence, které byste měli znát",
+      "title_orig": "Opaque recurrence, and other AI terms that you should probably know",
+      "category": "wildcard",
+      "summary_cs": [
+        "S rychlým rozvojem AI se objevuje obrovské množství nového slangu a technických termínů.",
+        "Přehledný glosář vysvětluje klíčové koncepty jako neprůhledná rekurence a další moderní fráze.",
+        "Porozumění těmto pojmům je zásadní pro sledování aktuálních trendů a diskusí v oboru."
+      ],
+      "why_matters": "Pomáhá čtenářům zorientovat se v rychle se měnící terminologii moderních technologií.",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Knihovna llm verze 0.35 přináší podporu pro model GPT-6 Astra",
+      "title_orig": "llm 0.35",
+      "category": "tools",
+      "summary_cs": [
+        "Populární open-source nástroj pro práci s jazykovými modely z příkazové řádky byl aktualizován na verzi 0.35.",
+        "Nová verze přináší nativní integraci pro nejnovější vlajkový model GPT-6 Astra od OpenAI.",
+        "Uživatelé tak mohou snadno experimentovat s nejmodernější AI přímo ve svém terminálu."
+      ],
+      "why_matters": "Umožňuje českým vývojářům okamžitě začít testovat nejnovější model od OpenAI v jejich stávajících skriptech.",
+      "url": "https://simonwillison.net/2026/Sep/7/llm/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
