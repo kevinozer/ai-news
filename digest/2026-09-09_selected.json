@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-09",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI vyřešila jeden z miléniových problémů matematiky, čelí však kritice akademiků",
+      "title_orig": "On the Navier–Stokes Millennium Prize Problem",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI oznámila vyřešení Navier-Stokesovy rovnice hladkosti a existence, což je jeden ze sedmi nejsložitějších matematických problémů tisíciletí.",
+        "K dosažení tohoto milníku výzkumníci využili dosud nevydaný model, který vygeneroval kompletní řešení včetně formálního důkazu v jazyce Lean.",
+        "Oznámení okamžitě vyvolalo vlnu kontroverze a akademici zpochybňují etiku postupu i samotnou čistotu vědeckého objevu."
+      ],
+      "why_matters": "První vyřešení miléniového problému pomocí AI představuje historický zlom v možnostech strojového uvažování.",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Meta představuje osobního asistenta Muse a sází na něj v boji o nadvládu v AI",
+      "title_orig": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Meta uvedla na scénu nového osobního AI agenta Muse, který má uživatelům pomáhat s každodenními úkoly od prodeje auta po nákup letenek.",
+        "Nový asistent vyžaduje hluboký přístup k osobním datům uživatelů, jako jsou e-maily, kalendáře, platby či zdravotní záznamy.",
+        "Tento krok představuje pro firmu Meta zásadní zkoušku důvěry spotřebitelů v oblasti ochrany soukromí."
+      ],
+      "why_matters": "Nový agent od Mety přímo ovlivní miliardy uživatelů a definuje standardy integrace AI do osobního života.",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Google DeepMind představil AlphaGenome Atlas, mapu genetických mutací lidstva",
+      "title_orig": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "category": "labs",
+      "summary_cs": [
+        "Nový model AlphaGenome Atlas od DeepMindu mapuje molekulární dopady devíti miliard jednotlivých změn v lidské DNA.",
+        "Tato prediktivní mapa má vědcům pomoci odhalit příčiny dosud neprobádaných genetických onemocnění.",
+        "Technologie slibuje výrazné zrychlení biologického výzkumu a vývoje personalizovaných léků."
+      ],
+      "why_matters": "Tento průlomový medicínský model může zásadně urychlit vývoj léků na vzácné genetické choroby.",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Evropská AI naděje Mistral získala v obří investici přes 70 miliard korun",
+      "title_orig": "Evropa zažila dosud největší technologickou investici, zdejší naděje v AI má nově hodnotu půl bilionu korun",
+      "category": "news",
+      "summary_cs": [
+        "Francouzský startup Mistral získal investici ve výši tří miliard eur, což z něj činí největší technologické financování v historii Evropy.",
+        "Investiční kolo vedla společnost Samsung a hodnota evropského vyzyvatele OpenAI se díky tomu zdvojnásobila na půl bilionu korun.",
+        "Získané finanční prostředky plánuje firma využít především na budování vlastních robustních datových center."
+      ],
+      "why_matters": "Evropa získává silného suverénního hráče schopného konkurovat americkým technologickým gigantům.",
+      "url": "https://www.lupa.cz/aktuality/evropa-zazila-dosud-nejvetsi-technologickou-investici-zdejsi-nadeje-v-ai-ma-nove-hodnotu-pul-bilionu-korun/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI uvádí ChatGPT Images 2.5 s novou funkcí kreslení Sketch",
+      "title_orig": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI vydala novou verzi svého generátoru obrázků ChatGPT Images 2.5, která přináší vyšší rychlost a lepší udržení konzistence objektů.",
+        "Klíčovou novinkou je nástroj Sketch, který umožňuje uživatelům načrtnout jednoduchou čmáranici přímo v rozhraní a nechat ji AI detailně překreslit.",
+        "Model také výrazně lépe reaguje na upřesňující textové pokyny v rámci dlouhé konverzace."
+      ],
+      "why_matters": "Nová funkce Sketch mění způsob, jakým běžní uživatelé mohou vizuálně komunikovat s umělou inteligencí.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Uživatelé žalují Anthropic za klamavé předplatné u prémiových účtů",
+      "title_orig": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "category": "news",
+      "summary_cs": [
+        "Skupina náročných uživatelů podala hromadnou žalobu na tvůrce modelu Claude, společnost Anthropic.",
+        "Žalobci tvrdí, že je firma nalákala na drahé předplatné slibující neomezený přístup, který byl následně skrytě omezován.",
+        "Soudní spor přichází v době, kdy Anthropic dává prioritu podnikovým zákazníkům před běžnými platícími uživateli."
+      ],
+      "why_matters": "Spor ukazuje na rostoucí napětí mezi limity infrastruktury a sliby marketingu u předních AI laboratoří.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Hackeři kradou přístupové tokeny předplatitelům asistenta Claude",
+      "title_orig": "Hackers are stealing Claude tokens from subscribers",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Anthropic varovala své uživatele před novou vlnou kybernetických útoků zaměřených na krádeže aktivních relací.",
+        "Útočníci zneužívají ukradené tokeny k bezplatnému využívání výpočetního výkonu na účet obětí.",
+        "Bezpečnostní experti doporučují okamžitou kontrolu aktivních přihlášení a zvýšenou obezřetnost při používání doplňků prohlížeče."
+      ],
+      "why_matters": "Čeští uživatelé populárního modelu Claude by si měli okamžitě zabezpečit své účty před zneužitím.",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Valuace vývojářského startupu Cognition vystřelila na 48 miliard dolarů",
+      "title_orig": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "category": "business",
+      "summary_cs": [
+        "Tvůrci autonomního programátora Devin, startup Cognition, dosáhli v novém investičním kole astronomického ohodnocení.",
+        "Tato valuace překonává i nedávné úspěchy konkurenčních nástrojů pro psaní kódu, jako je například Cursor.",
+        "Investoři tím dávají jasně najevo, že trh s AI vývojáři nepovažují za monopol jednoho vítěze."
+      ],
+      "why_matters": "Obrovský příliv kapitálu do autonomního programování předznamenává rychlou proměnu práce softwarových vývojářů.",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Model GPT-5.6 Sol pomáhá MIT s autonomním řízením kvantových experimentů",
+      "title_orig": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "category": "labs",
+      "summary_cs": [
+        "Vědci z MIT úspěšně integrovali model GPT-5.6 Sol do procesů kalibrace kvantových počítačů.",
+        "AI dokáže samostatně navrhovat experimenty, analyzovat složité fyzikální výsledky a ladit citlivé qubity.",
+        "Tento přístup dramaticky zkracuje čas potřebný k přípravě kvantového hardwaru pro reálné výpočty."
+      ],
+      "why_matters": "Spojení umělé inteligence a kvantových počítačů otevírá cestu k dříve nepředstavitelným výpočetním výkonům.",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Adobe Premiere zjednodušuje tvorbu videa pomocí integrovaných generátorů",
+      "title_orig": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "category": "tools",
+      "summary_cs": [
+        "Adobe kompletně přepracovalo integraci generativní umělé inteligence ve svém profesionálním programu Premiere.",
+        "Nový nástroj Generative Media umožňuje střihačům vytvářet video, hudbu a ruchy přímo na časové ose bez složitého nastavování.",
+        "Cílem aktualizace je maximální zjednodušení celého procesu, aby byl přístupný i méně zkušeným tvůrcům."
+      ],
+      "why_matters": "Profesionální čeští střihači a tvůrci obsahu získávají extrémně rychlou cestu k tvorbě podkladů.",
+      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Pokrok v trénování modelů pohání hlavně kvalita dat, nikoli architektura",
+      "title_orig": "Pretraining progress is mostly coming from data",
+      "category": "research",
+      "summary_cs": [
+        "Analýza posledních šesti let vývoje jazykových modelů ukazuje, kde leží skutečné jádro jejich zlepšování.",
+        "Většina zaznamenaného pokroku pramení z lepších metod filtrace, kurátorství a syntézy trénovacích dat.",
+        "Samotné změny v architektuře neuronových sítí hrají ve srovnání s datovou přípravou sekundární roli."
+      ],
+      "why_matters": "Pro české vývojáře to znamená, že klíčem k úspěchu je investice do kvalitních datových sad.",
+      "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+      "source": "Dwarkesh Patel"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Google Cloud spojuje síly s Accenture pro masivní nasazení AI ve firmách",
+      "title_orig": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "category": "business",
+      "summary_cs": [
+        "Google Cloud uzavřel strategické partnerství s poradenskou společností Accenture s cílem urychlit adopci podnikové AI.",
+        "Společný plán sází na vyslání specializovaných inženýrů přímo do klientských firem, kde budou pomáhat s integrací.",
+        "Tento krok má Googlu pomoci překonat logistické překážky, které dosud bránily masovému nasazení jeho modelů."
+      ],
+      "why_matters": "Tato aliance usnadní i českým korporacím bezpečné a rychlé zavádění pokročilých cloudových AI řešení.",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Chrome zrychluje vydávání bezpečnostních záplat kvůli hrozbám spojeným s AI",
+      "title_orig": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "category": "news",
+      "summary_cs": [
+        "Prohlížeč Google Chrome přechází na nový dvoutýdenní cyklus vydávání bezpečnostních aktualizací.",
+        "Důvodem je dramatická proměna kybernetických hrozeb, které útočníci stále častěji generují s pomocí umělé inteligence.",
+        "Rychlejší tempo vydávání verzí má zajistit, že kritické zranitelnosti budou opraveny dříve, než je stihnou zneužít automatizované systémy."
+      ],
+      "why_matters": "Rychlejší záplaty prohlížeče přímo chrání osobní data a bankovní účty českých uživatelů internetu.",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Startup Vaire vyvíjí čipy, které recyklují energii a nevytvářejí odpadní teplo",
+      "title_orig": "This founder is teaching chips how to recycle (their energy)",
+      "category": "news",
+      "summary_cs": [
+        "Mladá zakladatelka Hannah Earley vyvíjí v rámci startupu Vaire Computing revoluční architekturu procesorů.",
+        "Nové čipy dokážou recyklovat energii, která se u běžných počítačů bez užitku vyzařuje ve formě tepla.",
+        "Tento přístup by mohl drasticky snížit energetickou náročnost budoucích superpočítačů trénujících AI."
+      ],
+      "why_matters": "Technologie slibuje vyřešit největší limit současného rozvoje AI, kterým je extrémní spotřeba elektřiny.",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Zneužívání webových scraperů extrémně zatěžuje infrastrukturu Linuxu",
+      "title_orig": "Creepy crawlies",
+      "category": "wildcard",
+      "summary_cs": [
+        "Správci oficiálního repozitáře Linux kernelu upozorňují na neúnosný nárůst agresivních botů stahujících data.",
+        "Servery aktuálně spotřebují více procesorového výkonu na obsluhu AI scraperů než na legitimní požadavky vývojářů.",
+        "Tento trend ohrožuje stabilitu klíčových open-source platforem, na kterých stojí celý moderní internet."
+      ],
+      "why_matters": "Nekontrolovaný hlad po datech pro trénování AI začíná ohrožovat základy celosvětové softwarové infrastruktury.",
+      "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
