@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-10",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI představuje GPT-6 Astra, novou generaci inteligence pro práci",
+      "title_orig": "GPT-6 Astra: The next generation in intelligence for work",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI oficiálně uvádí svůj nejnovější a nejvýkonnější model GPT-6 Astra navržený speciálně pro firemní nasazení.",
+        "Model přináší pokročilé schopnosti uvažování, přímé ovládání počítače a výrazně lepší úsudek při psaní textů i návrhu designu.",
+        "Astra představuje klíčový posun směrem k plně autonomním agentům, kteří dokážou samostatně řešit komplexní kancelářské úkoly."
+      ],
+      "why_matters": "Nový vlajkový model od OpenAI definuje budoucí standardy pro automatizaci kancelářské práce a firemních procesů.",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Výzkumník Anthropicu rezignoval s varováním, že vyvíjená AI by mohla zahubit lidstvo",
+      "title_orig": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní výzkumník Jacob Coxon odešel z laboratoře Anthropic kvůli obavám z nekontrolovaného vývoje superinteligence.",
+        "Varuje, že přední laboratoře se ženou do nebezpečného závodu ve vývoji systémů, které nebudou schopny bezpečně ovládat.",
+        "Podle jeho slov existuje reálná šance, že by samočinně se zlepšující umělá inteligence mohla do konce dekády zničit lidstvo."
+      ],
+      "why_matters": "Otevřené varování insidera ze špičkové laboratoře ukazuje na extrémní napětí mezi rychlým vývojem a bezpečností.",
+      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Apple představil skládací iPhone Duo a hodinky, které neustále naslouchají okolí",
+      "title_orig": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "category": "news",
+      "summary_cs": [
+        "Apple na své podzimní konferenci odhalil dlouho očekávaný první ohebný telefon s názvem iPhone Duo za dva tisíce dolarů.",
+        "Nové modely Apple Watch přicházejí s funkcemi ambientního poslechu, které transkribují řeč a shrnují konverzace na pozadí.",
+        "Zařízení využívají pokročilé lokální modely Apple Intelligence, což vyvolává nové otázky ohledně ochrany soukromí a souhlasu s nahráváním."
+      ],
+      "why_matters": "Vstup technologického giganta do segmentu skládaček a ambientního poslechu zásadně ovlivní spotřebitelský trh.",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Nová funkce fotoaparátu od Apple má dokázat, že snímek nevytvořila umělá inteligence",
+      "title_orig": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+      "category": "news",
+      "summary_cs": [
+        "Apple zavádí novou funkci Reference Image pro řadu iPhone 18 Pro, která má bojovat proti šíření syntetických podvrhů.",
+        "Technologie využívá nový hardwarový senzor k digitálnímu podepisování každého pixelu přímo při pořízení snímku.",
+        "Tento kryptografický podpis umožní uživatelům jednoznačně ověřit, že fotografie nebyla manipulována nebo vygenerována pomocí AI."
+      ],
+      "why_matters": "Jde o první masové hardwarové řešení pro ověřování autenticity fotografií v éře generativní AI.",
+      "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Paul Christiano posiluje správní radu OpenAI a její bezpečnostní výbor",
+      "title_orig": "Paul Christiano joins OpenAI Foundation Board",
+      "category": "labs",
+      "summary_cs": [
+        "Vlivný výzkumník v oblasti zarovnání a bezpečnosti umělé inteligence Paul Christiano se připojuje k nadaci OpenAI.",
+        "Christiano bude působit jako člen správní rady a zároveň se stane součástí klíčového Výboru pro bezpečnost a zabezpečení.",
+        "Jeho příchod má posílit důvěryhodnost OpenAI v době, kdy firma čelí kritice za upřednostňování komerčních zájmů před bezpečností."
+      ],
+      "why_matters": "Návrat respektovaného pionýra bezpečnosti do struktur OpenAI může změnit přístup firmy k rizikům superinteligence.",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Suno vydává hudební model v6 vytvořený poprvé ve spolupráci s nahrávacím průmyslem",
+      "title_orig": "Suno releases its first AI music model made with record industry help",
+      "category": "news",
+      "summary_cs": [
+        "Populární generátor hudby Suno představil novou verzi svého modelu v6, která byla od základu natrénována na novém souboru dat.",
+        "Na rozdíl od předchozích verzí tento model nevyužívá sporná autorská díla a spoléhá se výhradně na licencovaný obsah.",
+        "Krok přichází v době, kdy firma čelí masivním žalobám ze strany velkých hudebních vydavatelství kvůli porušování autorských práv."
+      ],
+      "why_matters": "Ukazuje to posun celého odvětví k legálnímu trénování modelů na licencovaných datech.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "České Radiokomunikace získaly obřího zákazníka pro své nové AI datacentrum Gateway",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Německá společnost Polarise si závazně rezervovala kapacitu 15 megawattů v chystaném datovém centru u Prahy.",
+        "Tato kapacita bude dedikována výhradně pro provoz vysoce výkonných serverů určených pro výpočty umělé inteligence.",
+        "Obě strany již podepsaly oficiální dohodu o záměru, což potvrzuje rostoucí roli Česka v evropské AI infrastruktuře."
+      ],
+      "why_matters": "Jde o zásadní milník pro českou infrastrukturu, který přitáhne masivní výpočetní výkon do tuzemska.",
+      "url": "https://www.lupa.cz/aktuality/nejvetsi-datacentrum-v-cr-ulovilo-zakaznika-pro-ai-servery-ziska-kapacitu-15-mw/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Výzkumný startup Listen Labs zrušil obří investiční kolo kvůli jednání o akvizici se Salesforce",
+      "title_orig": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "category": "business",
+      "summary_cs": [
+        "Startup Listen Labs se rozhodl nepodepsat již připravené investiční kolo Series C vedené fondem Menlo Ventures.",
+        "Investice měla firmu ohodnotit na 1,5 miliardy dolarů, ale zakladatelé dali přednost exkluzivnímu vyjednávání o prodeji.",
+        "O akvizici tohoto nadějného výzkumného týmu usiluje softwarový gigant Salesforce, který chce posílit své AI portfolio."
+      ],
+      "why_matters": "Akviziční apetit velkých hráčů začíná dominovat nad samostatným financováním nadějných startupů.",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "SCAFFOLD: Sebezdokonalující se weboví agenti pomocí rekurzivní abstrakce dovedností",
+      "title_orig": "SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction",
+      "category": "research",
+      "summary_cs": [
+        "Představený framework SCAFFOLD umožňuje webovým agentům překonat omezení izolovaného učení jednotlivých úkolů.",
+        "Systém rekurzivně extrahuje a ukládá procedurální znalosti do podoby opakovaně použitelných parametrických dovedností.",
+        "Agent se tak s každou další interakcí na internetu stává schopnějším a dokáže se snadno adaptovat na neznámá webová rozhraní."
+      ],
+      "why_matters": "Tento přístup výrazně přibližuje agenty k samostatnému a efektivnímu ovládání internetu bez lidské pomoci.",
+      "url": "https://arxiv.org/abs/2609.05511",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Učení s uvažováním: Identifikace a ochrana kritických obvodů pro úsporné nasazení LLM",
+      "title_orig": "Reasoning-Aware Compression: Identifying and Protecting Vulnerable Reasoning Circuits for Energy-Efficient LLM Deployment",
+      "category": "research",
+      "summary_cs": [
+        "Běžné kompresní metody jako kvantizace snižují energetickou náročnost modelů plošně, což často poškozuje jejich schopnost logického uvažování.",
+        "Nový výzkum představuje metodu, která dokáže v neuronové síti přesně lokalizovat specifické obvody zodpovědné za uvažování.",
+        "Tyto kritické části jsou při kompresi chráněny, což umožňuje drasticky snížit spotřebu energie při zachování vysoké inteligence modelu."
+      ],
+      "why_matters": "Technologie řeší největší bariéru moderních modelů, kterou je extrémní energetická náročnost jejich provozu.",
+      "url": "https://arxiv.org/abs/2609.05512",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Jak vývoj softwaru pomocí AI nabourává tradiční autorskoprávní ochranu",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Současná právní úprava ochrany softwaru je postavena na předpokladu, že autorem programu je vždy konkrétní fyzická osoba.",
+        "S masivním nástupem generativních nástrojů, které píší kód autonomně, se tato premisa začíná právně rozpadat.",
+        "Článek analyzuje, jak se česká i evropská legislativa bude muset vyrovnat s otázkou vlastnictví kódu generovaného strojem."
+      ],
+      "why_matters": "Pro české vývojáře a firmy jde o zásadní právní otázku ohledně vlastnictví jejich duševního vlastnictví.",
+      "url": "https://www.lupa.cz/clanky/kdyz-kod-nepise-clovek-aneb-jak-vyvoj-pomoci-ai-nabourava-autorskopravni-ochranu-softwaru/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 12,
+      "title_cs": "První zero-click červ WeWorm se šíří přes hovory v aplikaci WeChat",
+      "title_orig": "Quoting Calif Research",
+      "category": "wildcard",
+      "summary_cs": [
+        "Bezpečnostní experti demonstrovali prvního červa schopného infikovat telefony se systémy iOS a Android bez jakékoli interakce uživatele.",
+        "K nákaze stačí pouhé uskutečnění hovoru přes WeChat, přičemž oběť nemusí hovor vůbec přijmout ani si ničeho všimnout.",
+        "Při vývoji tohoto sofistikovaného exploitu pomáhala výzkumníkům umělá inteligence, což ukazuje na nová rizika v kyberbezpečnosti."
+      ],
+      "why_matters": "Ukázka zneužití AI k tvorbě extrémně nebezpečného malwaru, který obchází běžné bezpečnostní návyky.",
+      "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Data Scout: Cílené prohledávání webu pro trénování doménově specifických modelů",
+      "title_orig": "Data Scout: Targeted Web Crawling for Domain-Specific Pretraining Corpora",
+      "category": "open-source",
+      "summary_cs": [
+        "Filtrování obřích webových archivů jako CommonCrawl selhává u vysoce specializovaných oborů, kde je relevantní obsah vzácný.",
+        "Představený nástroj Data Scout využívá inteligentní agenty k aktivnímu vyhledávání a stahování specifických dokumentů přímo z webu.",
+        "Tento přístup dramaticky zvyšuje kvalitu trénovacích dat pro úzce zaměřené modely při zlomku nákladů na přenos dat."
+      ],
+      "why_matters": "Umožňuje efektivnější vývoj specializovaných AI modelů pro medicínu, právo nebo specifické průmyslové obory.",
+      "url": "https://arxiv.org/abs/2609.05766",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 14,
+      "title_cs": "AhaBench: Učí se autonomní agenti ze svých předchozích zkušeností?",
+      "title_orig": "AhaBench: Do Agents Learn from Prior Experience? A Benchmark for Long-Horizon Continual Learning",
+      "category": "research",
+      "summary_cs": [
+        "Nový benchmark AhaBench se zaměřuje na hodnocení schopnosti dlouhodobého učení u autonomních jazykových agentů.",
+        "Tradiční testy agenty po každém úkolu resetují, což neodpovídá reálnému nasazení, kde je nutné reagovat na zpětnou vazbu.",
+        "AhaBench měří, zda si agent dokáže zapamatovat chyby z minulých pokusů a efektivně upravit své chování v budoucnu."
+      ],
+      "why_matters": "Schopnost učit se za pochodu bez nutnosti neustálého přetrénování celého modelu je klíčem k praktickému nasazení.",
+      "url": "https://arxiv.org/abs/2609.05435",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Výdaje na umělou inteligenci na zaměstnance v srpnu poklesly",
+      "title_orig": "AI spend per employee slumped at top firms in August - summer doldrums or a warning sign?",
+      "category": "business",
+      "summary_cs": [
+        "Statistiky z předních světových firem ukazují nečekaný srpnový pokles finančních prostředků vynakládaných na AI nástroje.",
+        "Důvodem může být kombinace letního útlumu, klesajících cen za tokeny u poskytovatelů API a přechodu na levnější modely.",
+        "Analytici však varují, že by mohlo jít o první signál vystřízlivění z nerealistických očekávání ohledně rychlé návratnosti investic."
+      ],
+      "why_matters": "První náznaky ochlazení AI horečky mohou ovlivnit rozpočty a strategické plánování českých firem.",
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
