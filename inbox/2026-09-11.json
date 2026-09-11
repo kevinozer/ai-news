@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-11T04:02:06.549199+00:00",
+  "generated_at": "2026-09-11T08:55:29.476214+00:00",
   "date": "2026-09-11",
-  "article_count_unique": 154,
-  "article_count_raw": 154,
+  "article_count_unique": 152,
+  "article_count_raw": 152,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "wired_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "marcus_on_ai",
@@ -174,6 +174,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "5b5c0dfda9644268",
+      "title": "Nervozita kolem rekordní investice Onsemi v ČR, skládací iPhone Duo je zde, jak Čech prodal dvě IT firmy",
+      "url": "https://www.lupa.cz/clanky/nervozita-kolem-rekordni-investice-onsemi-v-cr-skladaci-iphone-duo-je-zde-jak-cech-prodal-dve-it-firmy/",
+      "published_at": "2026-09-11T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "LG chce do Dukovan. Mistral získal tři miliardy eur. Vyšel model OpenAI GTP-6. Množí se varování před AI. Zprávy z IT, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/416/apple-iphone-duo.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "552fb666e7cbf7b8",
       "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
@@ -600,7 +612,7 @@
       "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "published_at": "2026-09-10T21:35:00+00:00",
       "author": "TechCrunch Events",
-      "summary_raw": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "summary_raw": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -1087,24 +1099,24 @@
       "category": "news"
     },
     {
-      "id": "8d797930d9acc143",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "author": "",
-      "summary_raw": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
       "id": "207f15eebea770e0",
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "published_at": "2026-09-10T00:00:00+00:00",
       "author": "",
       "summary_raw": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "8d797930d9acc143",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
@@ -1579,18 +1591,6 @@
       "category": "news"
     },
     {
-      "id": "879bc1cf4bbaeb04",
-      "title": "Understanding the thermal ceiling in portable power",
-      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-      "published_at": "2026-09-09T08:18:13+00:00",
-      "author": "Shuo Yang",
-      "summary_raw": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will accept, because heat accelerates the chemical degradation that permanently reduces&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Anker_US_DTC_no-copy_683x382px.jpg",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "02540d423a3acd93",
       "title": "LWiAI Podcast #256 - Fable 5.1, Astra Tease, Gemini 3.8 Flash",
       "url": "https://lastweekin.ai/p/lwiai-podcast-256-fable-51-astra",
@@ -1613,18 +1613,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "514856a4824849f7",
-      "title": "Když kód nepíše člověk aneb Jak vývoj pomocí AI nabourává autorskoprávní ochranu softwaru",
-      "url": "https://www.lupa.cz/clanky/kdyz-kod-nepise-clovek-aneb-jak-vyvoj-pomoci-ai-nabourava-autorskopravni-ochranu-softwaru/",
-      "published_at": "2026-09-09T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Josef Aujezdský)",
-      "summary_raw": "Koncepce právní ochrany softwaru je založena na ochraně literárních děl a tedy na premise, že počítačové programy vždy mají svého „lidského” autora. Jak to obstojí v době AI?",
-      "hero_image": "https://i.iinfo.cz/images/212/ai-robot-programovani-kod-zakon-paragraf.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "a0c000983b7a473b",
@@ -1865,18 +1853,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "f8fe8818d679ebb3",
-      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
-      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "published_at": "2026-09-04T05:18:11+00:00",
-      "author": "",
-      "summary_raw": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI&#8217;s new frontier model class.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!75mH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e58156f-49e2-48e8-af49-ce5edd8e68b6_1118x1118.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "a599c81bd1213815",
