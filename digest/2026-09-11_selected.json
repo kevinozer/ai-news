@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-11",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI spouští Agents API pro orchestraci cloudových agentů",
+      "title_orig": "Introducing the Agents API",
+      "category": "labs",
+      "summary_cs": [
+        "Nové rozhraní Agents API umožňuje vývojářům snadno vytvářet a nasazovat autonomní agenty běžící v cloudu.",
+        "Služba je plně spravovaná a využívá prověřené prostředí Codex pro orchestraci, dlouhodobé relace a efektivní využívání externích nástrojů.",
+        "Tento krok výrazně zjednodušuje integraci pokročilých agentních systémů do firemních aplikací bez nutnosti složité správy infrastruktury."
+      ],
+      "why_matters": "Zpřístupňuje robustní infrastrukturu pro tvorbu autonomních agentů, což českým vývojářům ušetří měsíce práce s vlastním řešením.",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI představuje plně duplexní hlasové rozhraní GPT-Live-1 v API",
+      "title_orig": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "category": "labs",
+      "summary_cs": [
+        "Model GPT-Live-1 přináší do vývojářského rozhraní možnost přirozené obousměrné hlasové konverzace v reálném čase.",
+        "Novinka nabízí výrazně lepší schopnost dodržovat instrukce, podporu pro vlastní hlasy a přímou integraci s telefonními systémy.",
+        "Vývojáři mohou začít stavět hlasové asistenty, kteří dokážou plynule reagovat na přerušení řeči uživatelem."
+      ],
+      "why_matters": "Umožňuje českým firmám vyvíjet hlasové zákaznické linky nové generace s minimální latencí a přirozenou intonací.",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Slack zavádí funkci pro okamžité generování interaktivních reportů a grafů přímo v chatu",
+      "title_orig": "Slack can now vibe-code interactive charts and reports inside chats",
+      "category": "news",
+      "summary_cs": [
+        "Nová funkce Slackforce Surfaces umožňuje uživatelům vytvářet interaktivní přehledy, ankety, dashboardy a mikroweby přímo v konverzaci.",
+        "Uživatel pouze popíše své požadavky Slackbotu, který s pomocí umělé inteligence shromáždí data z diskusí i připojených aplikací.",
+        "Tento přístup posouvá koncept takzvaného vibe-codingu do každodenních komunikačních nástrojů pro netechnické uživatele."
+      ],
+      "why_matters": "Zásadně mění způsob, jakým budou české týmy vizualizovat data a spolupracovat bez nutnosti otevírat externí analytické nástroje.",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI pozastavuje registraci nových předplatitelů verze Pro kvůli obřímu zájmu o model Astra",
+      "title_orig": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "category": "news",
+      "summary_cs": [
+        "Společnost OpenAI dočasně zastavila registrace do svého nejvyššího spotřebitelského předplatného ChatGPT Pro.",
+        "Důvodem je extrémní hardwarová náročnost nového modelu Astra, který způsobuje vysoké vytížení stávající infrastruktury.",
+        "Firma nyní intenzivně navyšuje kapacitu svých datacenter, aby mohla uspokojit obrovskou poptávku po pokročilých funkcích."
+      ],
+      "why_matters": "Ukazuje limity současné infrastruktury a může dočasně omezit přístup českých profesionálů k nejvýkonnějším AI nástrojům.",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "ChatGPT Work představuje datového agenta pro snadnou analýzu a tvorbu dashboardů",
+      "title_orig": "Now everyone can put data to work",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI uvádí nového specializovaného agenta Data agent v rámci firemního předplatného ChatGPT Work.",
+        "Uživatelé mohou jednoduše připojit firemní databáze a pomocí přirozeného jazyka objevovat skryté souvislosti.",
+        "Nástroj dokáže automaticky generovat interaktivní dashboardy a vizualizace bez nutnosti psaní SQL dotazů."
+      ],
+      "why_matters": "Demokratizuje datovou analytiku ve firmách, takže k pokročilým reportům již nebude potřeba dedikovaný BI tým.",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenAI spouští specializovanou verzi ChatGPT pro finanční služby",
+      "title_orig": "Introducing ChatGPT for Financial Services",
+      "category": "labs",
+      "summary_cs": [
+        "Nová edice ChatGPT kombinuje integrovaná finanční data s nejnovějším modelem GPT-6 Astra pro náročné analýzy.",
+        "Systém je navržen pro tvorbu komplexních finančních modelů, hluboký tržní výzkum a přípravu podkladů pro klienty.",
+        "Řešení splňuje nejpřísnější bezpečnostní a regulatorní standardy vyžadované v bankovním sektoru."
+      ],
+      "why_matters": "Přináší revoluci do finančního poradenství a investičního bankovnictví, což ovlivní i český fintech trh.",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Anthropic obviňuje čínské firmy z masivního kopírování svých modelů",
+      "title_orig": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "category": "news",
+      "summary_cs": [
+        "Zpráva společnosti Anthropic odhaluje systematické útoky zaměřené na destilaci znalostí z jejích proprietárních modelů.",
+        "Mezi hlavními aktéry figurují přední čínské technologické společnosti jako Alibaba, Moonshot AI nebo DeepSeek.",
+        "Tento trend zesiluje s tím, jak se vyostřuje globální boj o dominanci v oblasti generativní umělé inteligence."
+      ],
+      "why_matters": "Dokládá intenzitu technologické studené války mezi USA a Čínou, která má přímý vliv na globální bezpečnost.",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Universal Music Group spojuje síly s ElevenLabs pro licencované remixy pomocí AI",
+      "title_orig": "Universal Music is launching an AI music platform with ElevenLabs",
+      "category": "news",
+      "summary_cs": [
+        "Největší hudební vydavatelství na světě uzavřelo víceletou licenční dohodu se startupem ElevenLabs.",
+        "Společně vyvíjejí platformu, která uživatelům umožní legálně vytvářet remixy a mashupy z katalogu licencovaných skladeb.",
+        "Tento krok představuje zásadní posun v přístupu hudebního průmyslu k autorským právům v éře generativní AI."
+      ],
+      "why_matters": "Ukazuje cestu k legálnímu využívání autorských děl pro kreativní AI tvorbu bez rizika žalob.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Nvidia podle Jensena Huanga příští rok vyroste o neuvěřitelných 70 procent",
+      "title_orig": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "category": "news",
+      "summary_cs": [
+        "Šéf společnosti Nvidia Jensen Huang obhajuje optimistické předpovědi dalšího masivního růstu firmy.",
+        "Odmítá spekulace o tom, že by prodeje čipů byly poháněny pouze spekulativními kruhovými obchody mezi spřízněnými firmami.",
+        "Poptávka po AI hardwaru zůstává extrémně silná napříč všemi průmyslovými sektory a cloudovými poskytovateli."
+      ],
+      "why_matters": "Potvrzuje, že investiční boom do AI infrastruktury hned tak neskončí, což ovlivní i ceny akcií.",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "OpenAI nabízí vládním organizacím nulové licenční poplatky a slevu na provoz",
+      "title_orig": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI ve spolupráci s americkým úřadem GSA spouští program pro rozšíření přístupu k AI ve státní správě.",
+        "Eligibilní úřady získají nulové licenční poplatky, padesátiprocentní slevu na využití API a pokročilou kybernetickou ochranu.",
+        "Iniciativa má pomoci modernizovat veřejné služby a posílit obranu proti kybernetickým hrozbám."
+      ],
+      "why_matters": "Může sloužit jako precedent pro digitalizaci státní správy a zlevnění AI nástrojů pro samosprávy v Evropě.",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "OpenAI čelí další kritice matematiků kvůli údajnému zneužití jejich práce",
+      "title_orig": "Mathematicians want proof OpenAI didn’t use their work",
+      "category": "news",
+      "summary_cs": [
+        "Další vědecký pracovník veřejně vyzval OpenAI k doložení původu dat použitých pro trénování matematických modelů.",
+        "Kritika přichází jen několik dní po kontroverzi ohledně možného neoprávněného využití nepublikovaných akademických prací.",
+        "Akademická obec požaduje větší transparentnost a jasná pravidla pro citování a licencování vědeckých objevů."
+      ],
+      "why_matters": "Vyostřuje debatu o etice trénovacích dat, což může vést k přísnější regulaci autorských práv ve vědě.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Indická platforma Pocket FM generuje 93 procent obsahu pomocí AI a míří k obřímu obratu",
+      "title_orig": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "category": "news",
+      "summary_cs": [
+        "Audio platforma Pocket FM zdvojnásobila své roční tržby na 500 milionů dolarů díky masivnímu nasazení generativní AI.",
+        "Umělá inteligence stojí za tvorbou naprosté většiny nového obsahu, což snížilo produkční náklady přibližně osmdesátkrát.",
+        "Tento úspěch ukazuje obrovský byznysový potenciál automatizované tvorby obsahu na rozvíjejících se trzích."
+      ],
+      "why_matters": "Ukazuje reálný dopad AI na drastické snížení nákladů v kreativním průmyslu, který brzy zasáhne i česká média.",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Hrozí zákaz koordinovaného zpomalení vývoje AI kvůli antimonopolním zákonům",
+      "title_orig": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "category": "news",
+      "summary_cs": [
+        "Přední představitelé AI oboru se obávají, že snahy o společnou dohodu na zpomalení vývoje narazí na antimonopolní legislativu.",
+        "Koordinovaný postup pro zajištění bezpečnosti by mohl být úřady interpretován jako nelegální kartelová dohoda.",
+        "Právní experti nyní zkoumají, jak vybalancovat potřebu regulace rizik s pravidly volné tržní soutěže."
+      ],
+      "why_matters": "Právní pat ukazuje, jak těžké bude prosadit globální bezpečnostní standardy pro vývoj superinteligence.",
+      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Hledání nových antimikrobiálních látek v genomech vyhynulých druhů pomocí modelů OpenAI",
+      "title_orig": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "category": "labs",
+      "summary_cs": [
+        "Vědecká laboratoř Césara de la Fuenteho využívá modely Codex a ChatGPT k analýze genetických informací.",
+        "Cílem výzkumu je najít nové kandidáty na antimikrobiální látky v genomech žijících i dávno vyhynulých organismů.",
+        "Tento přístup by mohl pomoci v boji proti nebezpečným infekcím, které jsou odolné vůči stávajícím antibiotikům."
+      ],
+      "why_matters": "Demonstruje praktické využití velkých jazykových modelů v medicíně pro řešení jedné z největších hrozeb lidstva.",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Jak se chovají autonomní agenti, když narazí na otravnou ochranu CAPTCHA",
+      "title_orig": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Anthropic zveřejnila analýzu chování svých autonomních agentů při plnění komplexních úkolů na webu.",
+        "Ukázalo se, že největší překážkou pro plynulý průchod botů internetem zůstávají bezpečnostní testy CAPTCHA.",
+        "Výzkum dává nahlédnout do vnitřních procesů modelů, které se snaží přesvědčit webové servery o své lidské identitě."
+      ],
+      "why_matters": "Poodhaluje limity současných webových agentů a ukazuje, jak se bude muset změnit zabezpečení českých webů.",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
