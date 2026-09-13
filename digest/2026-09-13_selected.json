@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-13",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Sam Altman vylučuje vstup OpenAI na burzu v roce 2026",
+      "title_orig": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "category": "business",
+      "summary_cs": [
+        "Ředitel OpenAI Sam Altman potvrdil, že firma letos ani příští rok neplánuje vstoupit na veřejný akciový trh.",
+        "Ačkoliv OpenAI podala důvěrnou žádost o IPO, podle Altmana by byl takový krok v roce 2026 neuvážený.",
+        "V rozhovoru se dotkl také témat rekurzivního sebezdokonalování modelů a rizik spojených s nekontrolovatelnou AI."
+      ],
+      "why_matters": "Rozhodnutí o odkladu IPO zásadně ovlivní investiční dynamiku a financování celého globálního trhu s umělou inteligencí.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Šéf Anthropicu navrhuje plán na zpomalení vývoje umělé inteligence",
+      "title_orig": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "category": "news",
+      "summary_cs": [
+        "Dario Amodei navrhuje tříkrokový plán pro postupné tempo vývoje, který má zajistit dodržování bezpečnostních závazků.",
+        "Anthropic plánuje poskytnout externím hodnotitelům, jako je organizace METR, přístup ke svým nejnovějším modelům.",
+        "Tento krok přichází v době, kdy se lídři předních laboratoří shodují na potřebě regulovat rychlost posouvání technologických hranic."
+      ],
+      "why_matters": "Iniciativa může vést k dobrovolné regulaci vývoje nejvýkonnějších modelů, což ovlivní dostupnost budoucích technologií.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Odchod výzkumníka z Anthropicu rozpoutal debatu o rizicích superinteligence",
+      "title_orig": "One resignation turned the embers of AI fear into a wildfire",
+      "category": "wildcard",
+      "summary_cs": [
+        "Rezignace klíčového výzkumníka, který varoval před rychlým vývojem sebezdokonalující se AI, vyvolala vlnu obav.",
+        "Jeho varovné poselství překvapivě podpořil i samotný vedoucí týmu pro alignment v Anthropicu.",
+        "Událost ukazuje na rostoucí napětí a etické pochybnosti uvnitř nejvýznamnějších laboratoří světa."
+      ],
+      "why_matters": "Rostoucí obavy samotných tvůrců AI mohou urychlit přísnější státní regulace a změnit směr výzkumu.",
+      "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+      "source": "Interconnects (Nathan Lambert)"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Český podnikatel nahrazuje drahé kurzy vlastním vývojem s AI za cenu tramvajenky",
+      "title_orig": "Z koučů na život jsou mentoři AI, zlobí se muž, který s ní překopává svou firmu. Za cenu tramvajenky",
+      "category": "news",
+      "summary_cs": [
+        "Jakub Lohniský si během půl roku dokázal sám postavit web, rezervační systém i vlastní ERP řešení.",
+        "Za provoz těchto systémů platí zhruba dva tisíce korun měsíčně a kritizuje předražené kurzy pochybných AI mentorů.",
+        "Jeho příběh ukazuje, jak mohou malé české firmy reálně transformovat své fungování s minimálními náklady."
+      ],
+      "why_matters": "Praktický příklad ukazuje českým manažerům, jak efektivně využít AI bez drahých konzultantů.",
+      "url": "https://cc.cz/z-koucu-na-zivot-jsou-mentori-ai-zlobi-se-muz-ktery-s-ni-prekopava-svou-firmu-za-cenu-tramvajenky/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 5,
+      "title_cs": "DeepSeek uvádí model v4.1-Flash s inovativní architekturou",
+      "title_orig": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+      "category": "open-source",
+      "summary_cs": [
+        "Čínský vyzyvatel DeepSeek představil nový model s unikátní architekturou kombinující encoder a decoder.",
+        "Model disponuje pokročilými vizuálními schopnostmi a podle odborníků představuje zásadní technologický skok.",
+        "Komunita spekuluje, že parametry a výkon novinky odpovídají spíše plnohodnotné generaci DeepSeek v5."
+      ],
+      "why_matters": "Nové open-weight modely z Asie dramaticky snižují náklady na provoz pokročilých AI systémů.",
+      "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenAI vyřešila matematický problém tisíciletí pomocí agentů a modelu Astra",
+      "title_orig": "OpenAI just wants to win",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI dosáhla historického milníku vyřešením jednoho z legendárních problémů Millennium Prize.",
+        "K úspěchu využila masivní nasazení tisíců agentů a miliard tokenů v rámci nové architektury Astra.",
+        "Část matematické komunity však vyjadřuje obavy ohledně transparentnosti a uznání autorských práv."
+      ],
+      "why_matters": "Schopnost AI řešit nejsložitější matematické problémy světa předznamenává novou éru vědeckých objevů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Trump plánuje uvolnit ekologické regulace pro rychlejší stavbu datových center",
+      "title_orig": "Trump is giving data centers a pass to pollute",
+      "category": "news",
+      "summary_cs": [
+        "Bývalí úředníci EPA varují před oslabováním ekologických pravidel ve jménu urychlení výstavby AI infrastruktury.",
+        "Tento krok by mohl zvýšit zdravotní rizika pro obyvatele v okolí nově budovaných obřích datacenter.",
+        "Odborníci naléhavě vyzývají k přijetí standardů pro ochranu zdraví v souvislosti s energetickým hladem AI."
+      ],
+      "why_matters": "Změna americké politiky může urychlit technologický náskok USA, ale za cenu vysokých ekologických škod.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Právník dostal pokutu za vymyšlené svědky vygenerované ChatGPT",
+      "title_orig": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "category": "news",
+      "summary_cs": [
+        "Nejvyšší soud v Novém Mexiku potrestal obhájce v případu vraždy pokutou 5 000 dolarů za předložení falešných důkazů.",
+        "Právník do odvolání zahrnul halucinované svědky a fiktivní policejní výpovědi vytvořené chatbotem.",
+        "Odsouzený obhájce se hájil tím, že netušil, že si umělá inteligence může fakta kompletně vymyslet."
+      ],
+      "why_matters": "Případ zdůrazňuje nutnost ověřování výstupů z AI v profesionální praxi pod hrozbou právních postihů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Meta čelí žalobě za trénování AI na fotkách uživatelů z Facebooku a Instagramu",
+      "title_orig": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "category": "news",
+      "summary_cs": [
+        "Hromadná žaloba obviňuje společnost Meta z nelegálního sběru osobních fotografií pro trénování generativních modelů.",
+        "Data měla být zneužita také pro vývoj dosud nevydané funkce rozpoznávání obličejů s názvem NameTag.",
+        "Soudní spor se opírá o porušení zákonů na ochranu soukromí uživatelů sociálních sítí."
+      ],
+      "why_matters": "Výsledek sporu určí, jakým způsobem mohou technologičtí giganti legálně využívat data běžných uživatelů.",
+      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Generování běžeckých tras pomocí GPT-6 Astra a ChatGPT Work v praxi",
+      "title_orig": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "category": "tools",
+      "summary_cs": [
+        "Vývojář Simon Willison demonstroval praktické využití ChatGPT Work s modelem GPT-6 Astra pro plánování sportovních aktivit.",
+        "Systém dokázal během 27 minut zanalyzovat mapová data OpenStreetMap a vygenerovat přesné trasy včetně vizualizace.",
+        "Výstupem byl nejen interaktivní náhled přímo v chatu, ale také hotový GPX soubor ke stažení do sportovních hodinek."
+      ],
+      "why_matters": "Ukazuje, jak pokročilí agenti dokážou samostatně řešit komplexní úkoly vyžadující analýzu externích dat.",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "IBM vydává špičkový model Granite pro časové řady s komerční licencí",
+      "title_orig": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost IBM uvolnila novou verzi svého specializovaného modelu Granite pro analýzu a předpovídání časových řad.",
+        "Model dosahuje špičkových výsledků v benchmarkách a je k dispozici pod licencí umožňující bezplatné komerční využití.",
+        "Tento krok posiluje pozici IBM v oblasti podnikového open-source softwaru pro datovou analytiku."
+      ],
+      "why_matters": "České firmy získávají bezplatný přístup k pokročilému nástroji pro předpovídání prodejů, spotřeby či finančních trendů.",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Oracle se snaží uklidnit odpůrce obřího datacentra slibem obnovitelných zdrojů",
+      "title_orig": "Oracle tries to appease Stargate data center opponents with renewables push",
+      "category": "business",
+      "summary_cs": [
+        "Oracle se zavázal k podpoře obnovitelné energie v reakci na kritiku plánovaného datacentra Stargate pro OpenAI.",
+        "Aktivisté poukazují na to, že ani tento slib nezabrání masivnímu využívání plynu pro napájení serverů.",
+        "Projekt ilustruje obrovské energetické nároky, které s sebou přináší provoz nové generace AI modelů."
+      ],
+      "why_matters": "Energetická náročnost AI datacenter se stává klíčovým tématem pro stabilitu přenosových soustav i v Evropě.",
+      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Čínský startup Moonshot AI cílí na roční obrat dvě miliardy dolarů",
+      "title_orig": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "category": "business",
+      "summary_cs": [
+        "Tvůrce populárního asistenta Kimi plánuje dosáhnout ambiciózního finančního cíle díky masivnímu firemnímu nasazení.",
+        "Data z platformy OpenRouter ukazují, že modely řady K3 generují až 300 miliard tokenů denně.",
+        "Moonshot AI se tak stává jedním z nejrychleji rostoucích globálních hráčů v oblasti generativní AI."
+      ],
+      "why_matters": "Rychlý růst čínských alternativ zvyšuje konkurenční tlak a nutí západní firmy k rychlejším inovacím.",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Jak se vyrovnat s existenciální krizí z rychlého nástupu AI",
+      "title_orig": "Feeling sad about AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Simon Willison sdílí osobní pohled na pocity zmaru a úzkosti, které vývojáři zažívají při pohledu na schopnosti AI agentů.",
+        "Mnoho profesionálů prochází fází existenční krize, kdy mají pocit, že jejich dlouho budované dovednosti ztrácejí hodnotu.",
+        "Cesta ven spočívá v přijetí AI jako partnera a posunu role programátora směrem k architektuře a kreativnímu myšlení."
+      ],
+      "why_matters": "Článek nabízí důležitou psychologickou perspektivu pro české IT profesionály čelící transformaci oboru.",
+      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Knihovna wrapture pro Python usnadňuje opičí záplatování kódu",
+      "title_orig": "Don't sleep on wrapture",
+      "category": "tools",
+      "summary_cs": [
+        "Nový balíček wrapture od Grahama Dumpletona se stává nepostradatelným nástrojem pro pokročilé vývojáře v Pythonu.",
+        "Nástroj umožňuje elegantní monkey patching a modifikaci chování existujícího kódu za běhu programu.",
+        "Autor pravidelně vydává detailní návody, které pomáhají vývojářům plně využít potenciál této knihovny."
+      ],
+      "why_matters": "Užitečný nástroj pro české softwarové inženýry, kteří potřebují efektivně ohýbat a testovat komplexní Python aplikace.",
+      "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
