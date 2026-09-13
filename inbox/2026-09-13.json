@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-13T04:01:42.668516+00:00",
+  "generated_at": "2026-09-13T09:34:23.489552+00:00",
   "date": "2026-09-13",
-  "article_count_unique": 105,
-  "article_count_raw": 105,
+  "article_count_unique": 101,
+  "article_count_raw": 101,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 22,
-      "raw_count": 22
+      "count": 20,
+      "raw_count": 20
     },
     {
       "source_id": "anthropic_news",
@@ -163,13 +163,13 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 1,
-      "raw_count": 2
+      "count": 0,
+      "raw_count": 1
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
@@ -185,6 +185,18 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
+    },
+    {
+      "id": "1fe0149a3b7a9c86",
+      "title": "Schopnosti AI začaly děsit i šéfy firem, které ji vyvíjí. Výjimečně se shodli a slibují: Zpomalíme",
+      "url": "https://cc.cz/schopnosti-ai-zacaly-desit-i-sefy-firem-ktere-ji-vyviji-vyjimecne-se-shodli-a-slibuji-zpomalime/",
+      "published_at": "2026-09-13T05:21:32+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Sílí hlasy, že rozvoj AI by neměl být tak překotný. A ke zpomalení vyzvali i ti, kdo tempo inovací přímo určují – šéfové OpenAI a Anthropicu. Článek Schopnosti AI začaly děsit i šéfy firem, které ji vyvíjí. Výjimečně se shodli a slibují: Zpomalíme se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/03/altman-amodei-mvp-x2-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
     },
     {
       "id": "aa7916b7df97c31e",
@@ -847,42 +859,6 @@
       "category": "labs"
     },
     {
-      "id": "31b0fe7cf9141234",
-      "title": "Meet the under-35s shaping the future of biotech",
-      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-      "published_at": "2026-09-11T09:00:00+00:00",
-      "author": "Jessica Hamzelou",
-      "summary_raw": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "68f2f87fe01808de",
-      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "published_at": "2026-09-11T09:00:00+00:00",
-      "author": "Will Knight",
-      "summary_raw": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
-      "hero_image": "https://media.wired.com/photos/6aa1c85ef107c265a15668ae/master/pass/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "5b5c0dfda9644268",
-      "title": "Nervozita kolem rekordní investice Onsemi v ČR, skládací iPhone Duo je zde, jak Čech prodal dvě IT firmy",
-      "url": "https://www.lupa.cz/clanky/nervozita-kolem-rekordni-investice-onsemi-v-cr-skladaci-iphone-duo-je-zde-jak-cech-prodal-dve-it-firmy/",
-      "published_at": "2026-09-11T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "LG chce do Dukovan. Mistral získal tři miliardy eur. Vyšel model OpenAI GPT-6. Množí se varování před AI. Zprávy z IT, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/416/apple-iphone-duo.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "5f7cc863a51498a3",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -1261,30 +1237,6 @@
       "published_at": "2026-09-07T00:00:00+00:00",
       "author": "",
       "summary_raw": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "e9a2bd6449894c56",
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "published_at": "2026-09-06T09:00:00+00:00",
-      "author": "",
-      "summary_raw": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "86fa40f3aa4ffe44",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "published_at": "2026-09-06T08:00:00+00:00",
-      "author": "",
-      "summary_raw": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
