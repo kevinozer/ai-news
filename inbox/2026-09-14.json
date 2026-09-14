@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-14T04:01:20.275531+00:00",
+  "generated_at": "2026-09-14T09:51:47.699204+00:00",
   "date": "2026-09-14",
-  "article_count_unique": 87,
-  "article_count_raw": 87,
+  "article_count_unique": 89,
+  "article_count_raw": 89,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "venturebeat_ai",
@@ -67,8 +67,8 @@
     {
       "source_id": "huggingface_blog",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "import_ai",
@@ -164,7 +164,7 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 0,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "9af337afab7cecf8",
+      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "published_at": "2026-09-14T09:00:00+00:00",
+      "author": "Joel Khalili",
+      "summary_raw": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+      "hero_image": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/master/pass/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
     {
       "id": "166d87482f8e13b7",
       "title": "Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems",
@@ -787,6 +799,18 @@
       "category": "commentary"
     },
     {
+      "id": "8d797930d9acc143",
+      "title": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
       "id": "207f15eebea770e0",
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
@@ -799,15 +823,15 @@
       "category": "labs"
     },
     {
-      "id": "8d797930d9acc143",
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
+      "id": "f2aed7fe0a800409",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
       "published_at": "2026-09-10T00:00:00+00:00",
       "author": "",
-      "summary_raw": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "summary_raw": "",
       "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
       "category": "labs"
     },
     {
