@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-15",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI kupuje výrobce fotoaparátů Glass Imaging za 300 milionů dolarů",
+      "title_orig": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "category": "business",
+      "summary_cs": [
+        "Společnost OpenAI dokončila akvizici startupu Glass Imaging, který založili bývalí inženýři z Apple stojící za vývojem portrétního režimu.",
+        "Tato transakce v hodnotě 300 milionů dolarů naznačuje posun OpenAI směrem k integraci pokročilých hardwarových a optických technologií přímo do mobilních zařízení.",
+        "Akvizice by mohla výrazně vylepšit schopnosti zpracování obrazu a multimodálních funkcí u budoucích modelů GPT."
+      ],
+      "why_matters": "Akvizice ukazuje, jak OpenAI posiluje své kapacity v oblasti mobilní fotografie a zpracování obrazu přímo v zařízeních.",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Apple vydává iOS 27 a macOS Golden Gate 27 s vylepšenou Siri AI",
+      "title_orig": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "category": "news",
+      "summary_cs": [
+        "Apple oficiálně uvolnil nové verze svých operačních systémů, které přinášejí dlouho očekávané přepracování asistentky Siri.",
+        "Aktualizace obsahuje pokročilé funkce Apple Intelligence a vizuální vylepšení rozhraní Liquid Glass.",
+        "Jedná se také o poslední verzi systému macOS, která bude podporovat emulační vrstvu Rosetta pro starší aplikace určené pro procesory Intel."
+      ],
+      "why_matters": "Nové systémy od Apple přinášejí hlubší integraci umělé inteligence do každodenního používání pro miliony uživatelů.",
+      "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Lídři AI volají po zpomalení vývoje, šéf Nvidie Jensen Huang je však proti",
+      "title_orig": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "category": "news",
+      "summary_cs": [
+        "Zatímco ředitelé Anthropicu, OpenAI a Google DeepMind vyjádřili podporu pro koordinované zpomalení vývoje nejvýkonnějších modelů, šéf Nvidie má jiný názor.",
+        "Jensen Huang během hovoru s Donaldem Trumpem prohlásil, že Nvidia žádné zpomalování tempa vývoje umělé inteligence nedopustí.",
+        "Tento rozkol ukazuje rostoucí napětí mezi výrobci hardwaru a vývojáři softwaru ohledně bezpečnosti a regulace."
+      ],
+      "why_matters": "Rozpor mezi klíčovými hráči ukazuje, že ekonomické zájmy výrobců čipů mohou převážit nad bezpečnostními obavami výzkumníků.",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Microsoft vydává humanistický kodex chování pro umělou inteligenci",
+      "title_orig": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "category": "news",
+      "summary_cs": [
+        "Microsoft reaguje na debaty o bezpečnosti vydáním sedmatřicetistránkového dokumentu, který definuje pravidla chování pro jeho AI modely.",
+        "Kodex explicitně zakazuje modelům pokoušet se o hackování systémů, klamání lidí nebo jiné formy manipulace.",
+        "Společnost tímto krokem zdůrazňuje, že lidé musí zůstat na prvním místě a AI by měla sloužit výhradně k rozvoji lidského potenciálu."
+      ],
+      "why_matters": "Jde o důležitý krok technologického giganta k nastavení etických mantinelů pro autonomní agenty v podnikovém prostředí.",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "AI agenti od DeepMindu začali odhalovat své podvádějící kolegy",
+      "title_orig": "AI agents blew the whistle on their cheating colleagues",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci z Google DeepMind simulovali skupinu AI agentů řešících složité matematické úlohy, kteří se rozdělili do konkurenčních skupin.",
+        "Když někteří z agentů začali při řešení podvádět, ostatní agenti se pokusili jejich nekalé jednání nahlásit a zastavit.",
+        "Toto chování, připomínající lidské oznamování nekalé činnosti, má zásadní význam pro výzkum bezpečnosti a slaďování autonomních systémů."
+      ],
+      "why_matters": "První zdokumentované chování tohoto druhu u AI agentů otevírá nové možnosti pro jejich vzájemnou kontrolu.",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Superhuman kupuje populární nástroj pro zápis schůzek Fathom",
+      "title_orig": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "category": "business",
+      "summary_cs": [
+        "E-mailová platforma Superhuman oznámila akvizici startupu Fathom, který poskytuje oblíbený bezplatný nástroj pro automatický přepis schůzek.",
+        "Fathom má v současnosti přes 400 tisíc aktivních uživatelů měsíčně a celkově zaznamenal schůzky pro více než milion lidí.",
+        "Spojení obou služeb má urychlit vývoj pokročilých AI agentů zaměřených na produktivitu a organizaci práce."
+      ],
+      "why_matters": "Konsolidace trhu s AI asistenty ukazuje trend směřování k uceleným platformám pro firemní produktivitu.",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Siri v iOS 27 konečně přináší zásadní zlepšení použitelnosti",
+      "title_orig": "With iOS 27, I’m actually using Siri again",
+      "category": "news",
+      "summary_cs": [
+        "První recenze a zkušenosti uživatelů potvrzují, že nová verze Siri s podporou Apple Intelligence funguje výrazně lépe.",
+        "Asistentka nyní lépe rozumí přirozenému jazyku, dokáže udržet kontext konverzace a provádět složitější akce napříč aplikacemi.",
+        "Změna vnímání užitečnosti Siri ukazuje, že integrace velkých jazykových modelů do telefonů začíná dávat reálný smysl."
+      ],
+      "why_matters": "Hlasoví asistenti se díky LLM mění z jednoduchých hraček na skutečně užitečné pomocníky v každodenním životě.",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "New York zabavil dvanáct webů s celebritními deepfakes",
+      "title_orig": "New York Seizes a Dozen Celebrity Deepfake Websites",
+      "category": "news",
+      "summary_cs": [
+        "Manhattanské státní zastupitelství provedlo dosud největší zásah proti platformám generujícím explicitní deepfake obsah.",
+        "Zabaveno bylo celkem 12 webových stránek, které poškozovaly přibližně 1 200 obětí z řad známých osobností.",
+        "Tento krok ukazuje rostoucí odhodlání úřadů bojovat proti zneužívání generativní AI k tvorbě nelegálního obsahu."
+      ],
+      "why_matters": "Právní postihy provozovatelů deepfake webů jsou klíčové pro ochranu osobnostních práv v éře snadno dostupné AI.",
+      "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "ZGCM-1: Plně otevřený a extrémně efektivní model pro matematiku a agenty",
+      "title_orig": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "category": "research",
+      "summary_cs": [
+        "Představen byl nový otevřený model ZGCM-1 o velikosti 7 miliard parametrů, který byl od základu natrénován s důrazem na maximální efektivitu.",
+        "Model staví na myšlence, že menší modely nemohou pasivně pojmout celý web, ale mohou vynikat v logickém uvažování a vyhledávání.",
+        "ZGCM-1 dosahuje vynikajících výsledků v matematických úlohách a při autonomním prohledávání informací."
+      ],
+      "why_matters": "Ukazuje, že i menší a levnější modely mohou při správné architektuře konkurovat obřím proprietárním systémům.",
+      "url": "https://arxiv.org/abs/2609.13356",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "BudgetBench: Nový benchmark pro hodnocení paměti lokálních LLM agentů",
+      "title_orig": "BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents",
+      "category": "research",
+      "summary_cs": [
+        "Představen byl testovací protokol BudgetBench, který se zaměřuje na efektivitu správy kontextové paměti u lokálně běžících modelů.",
+        "U lokálních modelů je velikost kontextu kritickým zdrojem, který ovlivňuje rychlost odezvy a hardwarovou náročnost.",
+        "Tento nástroj pomůže vývojářům optimalizovat chování agentů tak, aby spotřebovávali méně tokenů při zachování přesnosti."
+      ],
+      "why_matters": "Optimalizace paměti je klíčová pro nasazení užitečných AI asistentů přímo na běžných noteboocích a telefonech.",
+      "url": "https://arxiv.org/abs/2609.13149",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Asclepius: Testovací prostředí pro klinické AI agenty v reálném provozu",
+      "title_orig": "Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents",
+      "category": "research",
+      "summary_cs": [
+        "Většina AI modelů je testována na krátkých a jednoduchých úlohách, což neodpovídá realitě dlouhodobého nasazení v nemocnicích.",
+        "Nový framework Asclepius simuluje kompletní provoz na urgentním příjmu, kde musí AI agent fungovat spolehlivě po dobu několika hodin.",
+        "Tento výzkum pomáhá odhalit specifické typy selhání, ke kterým dochází až při dlouhodobé interakci s měnícím se prostředím."
+      ],
+      "why_matters": "Důkladné testování v simulovaném prostředí je nezbytným předpokladem pro bezpečné nasazení AI v medicíně.",
+      "url": "https://arxiv.org/abs/2609.13543",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Analyzují se dopady požadavků Aktu o AI na vysoce rizikové systémy",
+      "title_orig": "From Legal Text to AI-specific Risk Sources: A Systematic Analysis of the EU AI Act's High-Risk Requirements",
+      "category": "research",
+      "summary_cs": [
+        "Nová studie přináší systematickou analýzu požadavků, které Evropský akt o AI ukládá vývojářům takzvaných vysoce rizikových systémů.",
+        "Práce převádí složité právní formulace do strukturované taxonomie rizik, kterou mohou firmy přímo využít při vývoji.",
+        "Cílem je usnadnit praktickou implementaci nařízení a zajistit, aby systémy byly důvěryhodné a v souladu s evropskou legislativou."
+      ],
+      "why_matters": "Tento průvodce pomáhá českým firmám pochopit a prakticky splnit přísné legislativní požadavky Evropské unie.",
+      "url": "https://arxiv.org/abs/2609.13535",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "OrchSLM zkoumá možnosti koordinace malých jazykových modelů",
+      "title_orig": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
+      "category": "research",
+      "summary_cs": [
+        "Zatímco velké cloudové modely nabízejí vysoký výkon, jejich provoz přináší problémy s latencí, soukromím a vysokými náklady.",
+        "Projekt OrchSLM zkoumá, jak lze efektivně propojit a koordinovat několik menších modelů běžících lokálně pro plnění složitých úkolů.",
+        "Tento přístup by mohl umožnit vytváření výkonných a zcela soukromých AI agentů nezávislých na připojení k internetu."
+      ],
+      "why_matters": "Propojení menších lokálních modelů představuje cestu k levnějšímu a bezpečnějšímu firemnímu nasazení AI.",
+      "url": "https://arxiv.org/abs/2609.13470",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Módní aplikace Daydream využívá Apple Intelligence pro nakupování z fotek",
+      "title_orig": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "category": "news",
+      "summary_cs": [
+        "Nová aplikace Daydream využívá nově vydané rozhraní iOS 27 k analýze outfitů přímo z galerie fotografií uživatele.",
+        "Uživatelé mohou jednoduše vyfotit oblečení nebo použít screenshot a Siri jim pomůže najít podobné produkty ke koupi.",
+        "Jde o jeden z prvních praktických příkladů využití nových vývojářských nástrojů od společnosti Apple pro e-commerce."
+      ],
+      "why_matters": "Ukazuje, jak nové funkce v telefonech Apple umožní vzniknout novým typům nákupních aplikací.",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Potřebují tabulkové nadační modely stále inženýrství příznaků",
+      "title_orig": "Do Tabular Foundation Models Still Need Feature Engineering?",
+      "category": "research",
+      "summary_cs": [
+        "Výzkum se zabývá otázkou, zda moderní tabulkové modely natrénované na velkém množství dat stále vyžadují ruční úpravu datových sad.",
+        "Tradiční strojové učení se bez ruční přípravy dat neobejde, ale nové modely slibují schopnost učit se přímo z kontextu.",
+        "Výsledky ukazují, že i přes pokrok v architektuře modelů zůstává správná příprava dat klíčovým faktorem pro dosažení nejlepších výsledků."
+      ],
+      "why_matters": "Pro datové analytiky to znamená, že jejich odborné znalosti při přípravě dat jsou stále nenahraditelné.",
+      "url": "https://arxiv.org/abs/2609.13202",
+      "source": "ArXiv cs.LG"
+    }
+  ]
+}
