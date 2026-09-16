@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-16",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Google uvádí Gemini 3.8 Live a verzi s rozšířeným přemýšlením",
+      "title_orig": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "category": "labs",
+      "summary_cs": [
+        "Google představil novou generaci hlasových modelů Gemini 3.8 Live a verzi Extended Thinking zaměřenou na hlubší uvažování.",
+        "Nové modely nabízejí pokročilé schopnosti přímého zpracování řeči a konkurují nejnovějším hlasovým funkcím od OpenAI.",
+        "Uživatelé mohou novinku okamžitě testovat v praxi prostřednictvím nově vznikajících webových rozhraní."
+      ],
+      "why_matters": "Nová generace hlasových modelů od Googlu přináší přirozenější interakci a pokročilé uvažování přímo do každodenních aplikací.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Lídři OpenAI, Anthropicu a Googlu tajně jednají o bezpečnosti AI",
+      "title_orig": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "category": "news",
+      "summary_cs": [
+        "Přední technologické laboratoře vedou již několik týdnů intenzivní rozhovory o bezpečnostních standardech a koordinaci vývoje.",
+        "Tato iniciativa přichází v době, kdy politická reprezentace v USA tlačí na rychlé tempo vývoje bez ohledu na rizika.",
+        "Společný postup gigantů by mohl definovat nová pravidla pro bezpečné nasazování budoucích modelů na globálním trhu."
+      ],
+      "why_matters": "Koordinace největších hráčů může zásadně ovlivnit budoucí regulaci a bezpečnostní standardy umělé inteligence v Evropě.",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Nvidia odmítá regulaci, bezpečnost mají podle Huanga řešit sami výrobci",
+      "title_orig": "We don’t need AI regulation - leave safety to us, Nvidia’s Jensen Huang says",
+      "category": "business",
+      "summary_cs": [
+        "Šéf Nvidie Jensen Huang se ostře vymezil proti státní regulaci umělé inteligence a označil ji za zbytečnou.",
+        "Podle něj není AI cizí inteligencí, ale běžným softwarem a hardwarem, u kterého mají bezpečnost garantovat sami tvůrci.",
+        "Tento postoj kontrastuje s voláním ostatních lídrů po zpomalení vývoje a zavedení přísnějších pravidel."
+      ],
+      "why_matters": "Názor nejvlivnějšího dodavatele AI čipů na světě ukazuje hluboký rozkol v pohledu na regulaci technologií.",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Salesforce a Nvidia představují model Koa, který ohrožuje tradiční AI laboratoře",
+      "title_orig": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "category": "open-source",
+      "summary_cs": [
+        "Nový model Salesforce Koa staví na otevřené architektuře Nemotron od Nvidie a přináší pokročilé schopnosti uvažování.",
+        "Model je úzce specializovaný na podnikovou sféru, zejména na automatizaci prodeje, marketingu a zákaznické podpory.",
+        "Úspěch tohoto otevřeného modelu ukazuje, že specializované firemní nástroje mohou konkurovat drahým obecným modelům."
+      ],
+      "why_matters": "Ukazuje trend, kdy otevřené a úzce zaměřené modely efektivně nahrazují drahá proprietární řešení pro firmy.",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "V Česku vzniká centrální systém pro posuzování státních IT a AI zakázek",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Česká vláda schválila usnesení, které zavádí centrální evidenci a posuzování všech významnějších IT a AI projektů.",
+        "Cílem je zamezit duplicitním nákupům na různých úřadech a nastavit jednotnou prioritu pro digitalizaci státní správy.",
+        "Nové projekty budou muset před vyhlášením zakázky projít schvalovacím procesem na jednom centrálním místě."
+      ],
+      "why_matters": "Zásadní změna v tom, jak bude český stát nakupovat a implementovat moderní softwarové a AI technologie.",
+      "url": "https://www.lupa.cz/aktuality/v-cesku-se-maji-krotit-it-zakazky-stat-bude-zavadet-system-jak-je-posuzovat-na-jednom-centralnim-miste/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Virtuální pacient učí Čechy první pomoc s cílem vytrénovat milion lidí",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Český projekt využívá virtuální realitu a umělou inteligenci k simulaci krizových situací a výuce resuscitace.",
+        "Během patnáctiminutového tréninku v brýlích si uživatelé vyzkouší správný postup bez strachu z reálného pochybení.",
+        "Iniciativa nyní míří do škol, knihoven i na úřady s ambiciózním plánem vyškolit širokou veřejnost."
+      ],
+      "why_matters": "Praktická ukázka toho, jak může AI v kombinaci s virtuální realitou zachraňovat lidské životy v Česku.",
+      "url": "https://cc.cz/virtualni-pacient-nikdy-nezemre-umela-inteligence-uci-cechy-prvni-pomoc-cilem-je-vytrenovat-milion-lidi/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Česká vzdělávací aplikace StudyFi zaujala už 300 tisíc uživatelů",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Brněnský medik Daniel Rys a jeho kolega Filip Till vyvinuli úspěšnou studijní aplikaci StudyFi.",
+        "Nástroj umožňuje studentům efektivně se učit z vlastních nahraných podkladů a vytvářet personalizované materiály.",
+        "Projekt se vymezuje vůči běžným AI chatbotům a soustředí se na strukturované a bezpečné zpracování znalostí."
+      ],
+      "why_matters": "Úspěšný příklad českého AI startupu, který dokázal bez masivního financování oslovit statisíce uživatelů.",
+      "url": "https://cc.cz/v-brne-studuje-medicinu-a-k-tomu-rozbehl-startup-ktery-se-az-prekvapive-uchytil-zaujal-300-tisic-lidi/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Meta zavádí předplatné Meta One s neomezeným přístupem k AI",
+      "title_orig": "Meta’s new One subscriptions put a price on social media and AI",
+      "category": "business",
+      "summary_cs": [
+        "Meta globálně spouští předplatné Meta One, které kombinuje prémiové funkce sociálních sítí s rozšířeným přístupem k AI.",
+        "Uživatelé získají větší limity pro generování obsahu a pokročilé funkce nového asistenta Muse napříč platformami.",
+        "Tento krok představuje přechod k novému obchodnímu modelu, kde je pokročilá AI nabízena jako placená služba."
+      ],
+      "why_matters": "Zpoplatnění pokročilých AI funkcí na Facebooku a Instagramu mění způsob, jakým budeme tyto sítě používat.",
+      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Meta usnadňuje firmám nastavení WhatsApp Business pomocí AI agentů",
+      "title_orig": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "category": "tools",
+      "summary_cs": [
+        "Nový MCP server pro WhatsApp Business umožňuje vývojářům delegovat technické nastavení na autonomní AI agenty.",
+        "Agenti jako Claude nebo ChatGPT nyní mohou samostatně vytvářet šablony zpráv, testovat integrace a řešit chyby.",
+        "Tato integrace výrazně zkracuje čas potřebný ke spuštění komunikace se zákazníky na populární platformě."
+      ],
+      "why_matters": "Zjednodušuje a zrychluje nasazení automatizované zákaznické komunikace pro české firmy a e-shopy.",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Podle průzkumů veřejnost odmítá výstavbu obřích AI datových center",
+      "title_orig": "AI and data centers are incredibly unpopular in every poll",
+      "category": "news",
+      "summary_cs": [
+        "Nová data z průzkumů ukazují, že většina veřejnosti se staví negativně k masivní výstavbě infrastruktury pro AI.",
+        "Více než 60 procent dotázaných vyjádřilo obavy z energetické náročnosti a dopadů datových center na životní prostředí.",
+        "Tento odpor začíná ovlivňovat politická rozhodnutí a plánování nových technologických parků po celém světě."
+      ],
+      "why_matters": "Rostoucí odpor veřejnosti k infrastruktuře může zpomalit rozvoj AI služeb a zvýšit jejich koncovou cenu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Spotřeba zemního plynu pro datová centra v USA může překonat Německo i Japonsko",
+      "title_orig": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "category": "news",
+      "summary_cs": [
+        "Analýza varuje, že do roku 2035 mohou americká datová centra spotřebovat více plynu než dvě velké průmyslové země dohromady.",
+        "Extrémní energetické nároky nových AI modelů nutí provozovatele spoléhat se na fosilní paliva i přes ekologické závazky.",
+        "Tento trend vyvolává ostré debaty o udržitelnosti současného tempa technologického rozvoje."
+      ],
+      "why_matters": "Obrovský hlad AI po energii má přímý vliv na globální trh s energiemi a plnění klimatických cílů.",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "OpenAI nakupuje biologická data z krachujících biotechnologických firem",
+      "title_orig": "AI models need more data about biology, and OpenAI is paying to create it",
+      "category": "business",
+      "summary_cs": [
+        "OpenAI začala vykupovat detailní výzkumné a regulatorní záznamy z insolvenčních řízení neúspěšných biotech firem.",
+        "Cílem je získat unikátní vědecká data, která nejsou běžně dostupná na internetu, pro trénování specializovaných modelů.",
+        "Tento přístup otevírá novou cestu k vývoji AI systémů schopných pomáhat s návrhem léků a klinických studií."
+      ],
+      "why_matters": "Ukazuje, jak agresivně lídři trhu vyhledávají nová nestrukturovaná data pro udržení náskoku ve vývoji.",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Levné otevřené modely dohánějí špičku s pouhým čtyřměsíčním zpožděním",
+      "title_orig": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "category": "open-source",
+      "summary_cs": [
+        "Zpráva organizace Mozilla odhaluje, že komerční modely si udržují technologický náskok před otevřenými alternativami jen krátce.",
+        "Otevřené modely dokážou smazat výkonnostní rozdíl během přibližně čtyř měsíců, a to za zlomek provozních nákladů.",
+        "Pro mnoho firem tak přestává být finančně rentabilní platit za drahé proprietární API rozhraní."
+      ],
+      "why_matters": "Potvrzuje, že pro většinu běžných firemních aplikací jsou dnes otevřené modely ekonomicky nejvýhodnější volbou.",
+      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Nové standardy pro nezávislé hodnocení AI získávají podporu gigantů",
+      "title_orig": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+      "category": "labs",
+      "summary_cs": [
+        "Společnosti OpenAI, Anthropic a xAI se shodly na podpoře nového standardu AEF-1 pro nezávislé testování modelů.",
+        "Standard definuje jednotná pravidla, podle kterých mohou třetí strany hodnotit bezpečnost a schopnosti systémů.",
+        "Tento krok má zvýšit důvěru veřejnosti a regulátorů v deklarované vlastnosti nových verzí umělé inteligence."
+      ],
+      "why_matters": "Jednotný standard hodnocení usnadní bezpečné nasazování AI systémů v regulovaných odvětvích.",
+      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Humanoidní robot od Agility se přikrčí, aby neohrozil lidské spolupracovníky",
+      "title_orig": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "category": "wildcard",
+      "summary_cs": [
+        "Společnost Agility představila novou bezpečnostní funkci pro své humanoidní roboty pracující v průmyslu.",
+        "Pokud se v blízkosti robota objeví člověk, stroj automaticky zastaví a sníží své těžiště, aby předešel kolizi.",
+        "Tento pokrok umožňuje nasazení robotů přímo po boku lidí bez nutnosti instalovat ochranné bariéry a klece."
+      ],
+      "why_matters": "Významný krok k bezpečné integraci pokročilé robotiky do běžného pracovního prostředí českých továren.",
+      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "source": "Ars Technica"
+    }
+  ]
+}
