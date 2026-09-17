@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17T04:01:15.756219+00:00",
+  "generated_at": "2026-09-17T09:27:29.114425+00:00",
   "date": "2026-09-17",
-  "article_count_unique": 146,
-  "article_count_raw": 146,
+  "article_count_unique": 145,
+  "article_count_raw": 145,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 13,
-      "raw_count": 13
+      "count": 11,
+      "raw_count": 11
     },
     {
       "source_id": "anthropic_news",
@@ -91,8 +91,8 @@
     {
       "source_id": "last_week_ai",
       "status": "ok",
-      "count": 0,
-      "raw_count": 0
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "one_useful_thing",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,17 +163,77 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 5,
-      "raw_count": 15
+      "count": 6,
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 1,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "f567ebea35610ebc",
+      "title": "Češi se investičně zapojili do startupu, který s AI předpovídá chování uživatelů aplikací i to, kolik asi utratí",
+      "url": "https://www.lupa.cz/aktuality/cesi-se-investicne-zapojili-do-startupu-ktery-s-ai-predpovida-chovani-uzivatelu-aplikaci-i-to-kolik-asi-utrati/",
+      "published_at": "2026-09-17T08:33:12+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Brněnská skupina Jet Investment založená miliardářem Igorem Faitem investovala do americké firmy AppNava, jejíž produkt předpovídá způsob, jakým se uživatelé mobilních aplikací budou chovat. Platforma využívá umělou inteligenci a podle investora dokáže už od prvního kontaktu uživatele s aplikací v reálném čase předpovídat jeho budoucí ekonomickou hodnotu pro aplikaci, pravděpodobnost odchodu i potenciál monetizace.",
+      "hero_image": "https://i.iinfo.cz/images/64/igor-fait.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "f356a2ee77751f1f",
+      "title": "Last Week in AI #344 - Navier–Stokes, Pacing the Frontier, AI Misuse",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-344-navierstokes",
+      "published_at": "2026-09-17T08:02:55+00:00",
+      "author": "Last Week in AI",
+      "summary_raw": "OpenAI claims a Millennium Prize proof amid a feud with mathematicians, Anthropic's CEO calls to pace the frontier, extinction warnings spur a regulation push, and more!",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!8O1b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e0a37b2-d2dd-46ec-8a9b-2526c35b5a86_1254x1254.webp",
+      "source_id": "last_week_ai",
+      "source_name": "Last Week in AI",
+      "category": "newsletter"
+    },
+    {
+      "id": "3e0529d690d69120",
+      "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+      "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "published_at": "2026-09-17T07:28:25+00:00",
+      "author": "",
+      "summary_raw": "A dash of cold water keeps the foomers away.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!7Cec!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSP7dfeaEAAQZs_.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "69be87e3de13990b",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "published_at": "2026-09-17T05:00:00+00:00",
+      "author": "Ivan Mehta",
+      "summary_raw": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "be699a63391161b3",
+      "title": "Vývojáři díky AI píšou dvakrát víc kódu. Proč z toho firma nemá dvojnásobný zisk?",
+      "url": "https://www.lupa.cz/clanky/vyvojari-diky-ai-pisou-dvakrat-vic-kodu-proc-z-toho-firma-nema-dvojnasobny-zisk/",
+      "published_at": "2026-09-17T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jiří Bachel)",
+      "summary_raw": "Tvrdá data firem Google, Meta nebo OpenAI analyzovaná českou společností ukazují, že tempo vývoje díky nasazení AI raketově roste. Jaké jsou další dopady?",
+      "hero_image": "https://i.iinfo.cz/images/103/programatori.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "5ebd53aab140ae69",
       "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
@@ -583,8 +643,8 @@
       "category": "commentary"
     },
     {
-      "id": "07b9178ef01b1b96",
-      "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+      "id": "20cdcc7f9c0583fa",
+      "title": "Al Gore says the real AI risk isn’t data centers",
       "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
       "published_at": "2026-09-16T23:43:09+00:00",
       "author": "Connie Loizos",
@@ -799,12 +859,12 @@
       "category": "news"
     },
     {
-      "id": "72fd1be120e956aa",
-      "title": "The Specialized Diverge Pro 4 makes rough gravel your playground",
+      "id": "05c17394764bb321",
+      "title": "The Specialized Diverge 4 Pro makes rough gravel your playground",
       "url": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
       "published_at": "2026-09-16T18:11:53+00:00",
       "author": "Eric Bangeman",
-      "summary_raw": "The Diverge Pro 4 is happiest when the road gets ugly.",
+      "summary_raw": "The Diverge 4 Pro is happiest when the road gets ugly.",
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/divergepro-2-1152x648.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
@@ -1255,18 +1315,6 @@
       "category": "labs"
     },
     {
-      "id": "6e60d8c685fceb80",
-      "title": "Je reálné zpomalení AI? Pche, přijde bramboračka místo debaty o tom, co rozhodne o budoucnosti lidstva",
-      "url": "https://cc.cz/je-realne-zpomaleni-ai-pche-prijde-bramboracka-misto-debaty-o-tom-co-rozhodne-o-budoucnosti-lidstva/",
-      "published_at": "2026-09-16T07:56:38+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Lídři umělé inteligence vyzvali, aby se zpomalil její rozvoj. Bohužel jim nikdo nevěří, za což si mohou částečně sami. Ale to není jediný problém. Článek Je reálné zpomalení AI? Pche, přijde bramboračka místo debaty o tom, co rozhodne o budoucnosti lidstva se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/ai-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "de0b482d01845e5a",
       "title": "Dominance Nvidie není zdravá. Podívejte se na netradiční a v mnohém lepší čipy pro AI",
       "url": "https://www.lupa.cz/clanky/dominance-nvidie-neni-zdrava-podivejte-se-na-netradicni-a-v-mnohem-lepsi-cipy-pro-ai/",
@@ -1276,18 +1324,6 @@
       "hero_image": "https://i.iinfo.cz/images/312/ai-cip-hyperaccel-bertha.png",
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "8906d816dda885e5",
-      "title": "AI mění firmy rychleji než nájemní smlouvy. Kancelář pronajatá na řadu let je proto stále větší sázka",
-      "url": "https://cc.cz/ai-meni-firmy-rychleji-nez-najemni-smlouvy-kancelar-pronajata-na-radu-let-je-proto-stale-vetsi-sazka/",
-      "published_at": "2026-09-16T04:25:55+00:00",
-      "author": "Markéta Veselá",
-      "summary_raw": "Výběr kanceláře přestal být otázkou adresy a ceny za metr. „Firmy zohledňují růst, nábor i to, jaký bude vklad,“ říká Kristýna Truksová z WorkLounge. Článek AI mění firmy rychleji než nájemní smlouvy. Kancelář pronajatá na řadu let je proto stále větší sázka se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/worklounge_15-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
       "category": "cz"
     },
     {
@@ -1447,18 +1483,6 @@
       "category": "news"
     },
     {
-      "id": "77bdd73838414978",
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "published_at": "2026-09-15T18:29:20+00:00",
-      "author": "Tim De Chant",
-      "summary_raw": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "0c9116cdbe0023c9",
       "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
       "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
@@ -1565,18 +1589,6 @@
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
       "category": "news"
-    },
-    {
-      "id": "855b7ad00bf38e30",
-      "title": "V Česku se mají krotit IT zakázky. Stát bude zavádět systém, jak je posuzovat na jednom centrálním místě",
-      "url": "https://www.lupa.cz/aktuality/v-cesku-se-maji-krotit-it-zakazky-stat-bude-zavadet-system-jak-je-posuzovat-na-jednom-centralnim-miste/",
-      "published_at": "2026-09-15T09:23:42+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Stát hodlá dostat plánování a zadávání IT projektů na jedno místo. Vláda schválila nové usnesení, podle nějž mají být IT a AI projekty předem evidovány, dostávat prioritu a významněj&#353;í záměry budou před vyhlá&#353;ením zakázky procházet centrálním posouzením. Jednotlivé úřady by tak už neměly objednávat podobná ře&#353;ení nezávisle na sobě.",
-      "hero_image": "https://i.iinfo.cz/images/174/digitalizace-zmatek-e-government.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "365b3405c4382cb0",
@@ -1757,30 +1769,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "404e0364a637104b",
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "9e9c946a77c4c5bb",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
     },
     {
       "id": "a599c81bd1213815",
