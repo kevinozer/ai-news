@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T04:01:54.670636+00:00",
+  "generated_at": "2026-09-18T09:00:31.724553+00:00",
   "date": "2026-09-18",
-  "article_count_unique": 141,
-  "article_count_raw": 141,
+  "article_count_unique": 147,
+  "article_count_raw": 147,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -19,8 +19,8 @@
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 15,
-      "raw_count": 15
+      "count": 20,
+      "raw_count": 20
     },
     {
       "source_id": "mit_tech_review",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,17 +163,41 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 6,
-      "raw_count": 14
+      "count": 5,
+      "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "cf836a8e645a2460",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+      "published_at": "2026-09-18T06:28:43+00:00",
+      "author": "",
+      "summary_raw": "a quiet day",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "5d209f7718d2342e",
+      "title": "Knihy od AI budou lepší než od lidí. Čtenáři už generují nové díly mých sérií, říká český autor bestsellerů",
+      "url": "https://cc.cz/knihy-od-ai-budou-lepsi-nez-od-lidi-ctenari-uz-generuji-nove-dily-mych-serii-rika-cesky-autor-bestselleru/",
+      "published_at": "2026-09-18T04:11:19+00:00",
+      "author": "Michal Mančař",
+      "summary_raw": "Leoš Kyša neboli František Kotleta je autorem úspěšných knih jako Syndikát a Nástupci, v nichž předpovídá budoucnost Česka. I svou vlastní. Článek Knihy od AI budou lepší než od lidí. Čtenáři už generují nové díly mých sérií, říká český autor bestsellerů se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/leos-kysa-frantisek-kotleta-2-1-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "9d8bb0c36bb12df0",
       "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
@@ -595,6 +619,18 @@
       "category": "news"
     },
     {
+      "id": "0c1538491c075e00",
+      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+      "published_at": "2026-09-17T22:31:28+00:00",
+      "author": "Beth Mole",
+      "summary_raw": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
       "id": "f99668fe25f5bcc6",
       "title": "Here’s What the AI Apocalypse Could Look Like",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
@@ -616,6 +652,18 @@
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "998fd56648568763",
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "published_at": "2026-09-17T22:12:58+00:00",
+      "author": "Jeremy Hsu",
+      "summary_raw": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Scaleout-Systems-ALMA-demo-1152x648.png",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
       "category": "news"
     },
     {
@@ -655,6 +703,18 @@
       "category": "news"
     },
     {
+      "id": "0ad782056c0d34a6",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "published_at": "2026-09-17T20:24:34+00:00",
+      "author": "Ryan Whitwam",
+      "summary_raw": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-1152x648.png",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
       "id": "a6564ffcde0de302",
       "title": "Is the AI safety debate about safety or control?",
       "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
@@ -664,6 +724,18 @@
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "26f092670d08516b",
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "published_at": "2026-09-17T20:10:41+00:00",
+      "author": "Ashley Belanger",
+      "summary_raw": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-907415308-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
       "category": "news"
     },
     {
@@ -715,6 +787,18 @@
       "category": "news"
     },
     {
+      "id": "f86bc09a8bfadb45",
+      "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+      "url": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+      "published_at": "2026-09-17T19:07:28+00:00",
+      "author": "Jon Brodkin",
+      "summary_raw": "Bill would help rightsholders obtain court orders to block foreign piracy sites.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-1152x648-1738189217.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
       "id": "b7705f9c08120129",
       "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
@@ -736,6 +820,42 @@
       "hero_image": "https://media.wired.com/photos/6aab113b6146f3a3b3e310bc/master/pass/Model-Behavior-Year-Dreamforce-Was-Overtaken-by--Debate-Over-Existential-AI-Fears-Business.jpg",
       "source_id": "wired_ai",
       "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "45340541883aa2e2",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "published_at": "2026-09-17T18:33:13+00:00",
+      "author": "Dan Goodin",
+      "summary_raw": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "03eedcaa13a7218f",
+      "title": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
+      "url": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
+      "published_at": "2026-09-17T17:43:50+00:00",
+      "author": "Beth Mole",
+      "summary_raw": "The IV drips included glutathione, which was not made to be injected.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1155940802-1024x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "77ee2930c906c21e",
+      "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
+      "url": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
+      "published_at": "2026-09-17T17:30:30+00:00",
+      "author": "Jonathan M. Gitlin",
+      "summary_raw": "It’s spacious, efficient, and charges very quickly. But what about reliability concerns?",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Hyundai-Ioniq-5-1-of-10-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
       "category": "news"
     },
     {
@@ -775,6 +895,18 @@
       "category": "news"
     },
     {
+      "id": "2f43ac8ec9570342",
+      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+      "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+      "published_at": "2026-09-17T16:18:34+00:00",
+      "author": "Kyle Orland",
+      "summary_raw": "Model maker commits to new framework for reporting misaligned models.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-875641-001-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
       "id": "8bddbd5bd5feab14",
       "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
       "url": "https://www.dwarkesh.com/p/noam-brown",
@@ -785,6 +917,30 @@
       "source_id": "dwarkesh",
       "source_name": "Dwarkesh Patel",
       "category": "commentary"
+    },
+    {
+      "id": "586354c14c13ca91",
+      "title": "EPA immediately sued over plans to repeal climate rules for power plants",
+      "url": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
+      "published_at": "2026-09-17T15:38:04+00:00",
+      "author": "Ashley Belanger",
+      "summary_raw": "Public health groups warn EPA rule will cost Americans billions in health bills.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2261166461-1024x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "d0f30a65b14e781d",
+      "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
+      "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
+      "published_at": "2026-09-17T14:37:37+00:00",
+      "author": "Eric Berger",
+      "summary_raw": "\"They should fly their capsule. The government paid a lot of money for that.\"",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/starliner-rise-from-your-grave-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
     },
     {
       "id": "75ce639ef623f3d3",
@@ -832,6 +988,18 @@
       "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/pew-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source_id": "verge_ai",
       "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "41cf48fd3f3c7688",
+      "title": "A dolphin named Bubbles makes other fish vomit, then eats it",
+      "url": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
+      "published_at": "2026-09-17T13:57:14+00:00",
+      "author": "Jennifer Ouellette",
+      "summary_raw": "\"Dolphins are predators and actively hunt their prey, whether it's been stolen from another species or not.”",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/dolphin1-1152x648-1789497589.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
       "category": "news"
     },
     {
@@ -929,6 +1097,18 @@
       "source_id": "czechcrunch",
       "source_name": "CzechCrunch",
       "category": "cz"
+    },
+    {
+      "id": "deae382f0d5ed3c2",
+      "title": "Hackers reveal how Flock cameras really track cars and people",
+      "url": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
+      "published_at": "2026-09-17T09:43:46+00:00",
+      "author": "Dhruv Mehrotra, Joseph Cox, wired.com",
+      "summary_raw": "One hacked camera captured 1.6 million images and could detect people as well as cars.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
     },
     {
       "id": "f567ebea35610ebc",
@@ -1231,30 +1411,6 @@
       "category": "news"
     },
     {
-      "id": "86ea279800a78290",
-      "title": "Scientists develop new method for deciphering ancient scrolls",
-      "url": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
-      "published_at": "2026-09-16T18:43:23+00:00",
-      "author": "Jennifer Ouellette",
-      "summary_raw": "Even a handheld XRF scanner is sufficient to determine most promising scrolls for further analysis.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/scrollTOP-1152x648-1789248616.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "05c17394764bb321",
-      "title": "The Specialized Diverge 4 Pro makes rough gravel your playground",
-      "url": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
-      "published_at": "2026-09-16T18:11:53+00:00",
-      "author": "Eric Bangeman",
-      "summary_raw": "The Diverge 4 Pro is happiest when the road gets ugly.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/divergepro-2-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
       "id": "5a788af62456694d",
       "title": "Claude Cowork and chat are now one Claude",
       "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
@@ -1291,18 +1447,6 @@
       "category": "news"
     },
     {
-      "id": "6aacf427e639cbab",
-      "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
-      "url": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
-      "published_at": "2026-09-16T17:06:06+00:00",
-      "author": "Ashley Belanger",
-      "summary_raw": "Man wins fight to block ICE threat over off-the-cuff angry email.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/David-Streever-via-FIRE.jpeg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
       "id": "ed97c6a449c01f2e",
       "title": "Google will now let any AI agent run your smart home",
       "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
@@ -1327,24 +1471,12 @@
       "category": "labs"
     },
     {
-      "id": "396ae2590daf303c",
-      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-      "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-      "published_at": "2026-09-16T16:40:11+00:00",
-      "author": "Jeremy Hsu",
-      "summary_raw": "War damage to data centers exceeded what AWS services are designed to withstand.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AWS-data-center-in-Abu-Dhabi-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
       "id": "af7eab8744aff8a0",
       "title": "Quoting Mustafa Suleyman",
       "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
       "published_at": "2026-09-16T16:00:54+00:00",
       "author": "",
-      "summary_raw": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment and alignment challenge even harder. &mdash; Mustafa Suleyman , A warning about ‘model welfare’ Tags: ai-ethics , generative-ai , ai , microsoft , llms",
+      "summary_raw": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment and alignment challenge even harder. &mdash; Mustafa Suleyman , A warning about ‘model welfare’ Tags: ai-ethics , generative-ai , ai , microsoft , llms , mustafa-suleyman",
       "hero_image": null,
       "source_id": "simonw",
       "source_name": "Simon Willison's Weblog",
@@ -1363,18 +1495,6 @@
       "category": "labs"
     },
     {
-      "id": "45e038e1fef6d1cf",
-      "title": "What happens when neutrinos swap identities inside a supernova?",
-      "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
-      "published_at": "2026-09-16T15:17:43+00:00",
-      "author": "John Timmer",
-      "summary_raw": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1152x600.png",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
       "id": "a09092b3efcc0aa1",
       "title": "Meet a mouse whose brain cortex is made up of human cells",
       "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
@@ -1384,30 +1504,6 @@
       "hero_image": null,
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "d42d232dc0e9a729",
-      "title": "macOS 27 Golden Gate: The Ars Technica review",
-      "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-      "published_at": "2026-09-16T14:50:06+00:00",
-      "author": "Andrew Cunningham",
-      "summary_raw": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/golden-gate-wallpaper-1152x648-1789126743.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "9456f34c595d12b5",
-      "title": "The world’s best racing driver is about to race 100 karts at once",
-      "url": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
-      "published_at": "2026-09-16T14:19:01+00:00",
-      "author": "Jonathan M. Gitlin",
-      "summary_raw": "Red Bull, Disney+, and ESPN are streaming the race at noon Eastern today.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/SI202608250383-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
       "category": "news"
     },
     {
@@ -1421,18 +1517,6 @@
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
       "category": "cz"
-    },
-    {
-      "id": "0279c1b84613ada2",
-      "title": "Lawmakers target Flock cameras with a threat to highway funding",
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
-      "published_at": "2026-09-16T14:03:39+00:00",
-      "author": "Paresh Dave, wired.com",
-      "summary_raw": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/noflock-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
     },
     {
       "id": "03fb7170d34abc36",
@@ -1541,18 +1625,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "de0b482d01845e5a",
-      "title": "Dominance Nvidie není zdravá. Podívejte se na netradiční a v mnohém lepší čipy pro AI",
-      "url": "https://www.lupa.cz/clanky/dominance-nvidie-neni-zdrava-podivejte-se-na-netradicni-a-v-mnohem-lepsi-cipy-pro-ai/",
-      "published_at": "2026-09-16T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Tři zajímavé firmy z Jižní Koreji se snaží prorazit v gigantickém byznysu s AI čipy, kde zatím dominuje Nvidia s přispěním hyperscalerů. Uvnitř: GALERIE.",
-      "hero_image": "https://i.iinfo.cz/images/312/ai-cip-hyperaccel-bertha.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "9be180df21a46973",
