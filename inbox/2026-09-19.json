@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:01:58.972284+00:00",
+  "generated_at": "2026-09-19T08:48:29.089016+00:00",
   "date": "2026-09-19",
   "article_count_unique": 114,
   "article_count_raw": 114,
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 11,
+      "raw_count": 11
     },
     {
       "source_id": "anthropic_news",
@@ -163,17 +163,41 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 9
+      "count": 0,
+      "raw_count": 7
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "27102210aa6aab98",
+      "title": "[AINews] Here are 6 Clones of Jev in 2 days",
+      "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+      "published_at": "2026-09-19T05:48:28+00:00",
+      "author": "",
+      "summary_raw": "Imitation is the sincerest form of Flattery",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!0a7_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSiGtZba0AEezOP.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "f234a9256e4c6035",
+      "title": "Vůbec nestudoval obor, který teď s AI mění. Jeho firma má už po třech letech cenu 118 miliard",
+      "url": "https://cc.cz/vubec-nestudoval-obor-ktery-ted-s-ai-meni-jeho-firma-ma-uz-po-trech-letech-cenu-118-miliard/",
+      "published_at": "2026-09-19T05:17:45+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Švédská Legora vybrala letos 600 milionů dolarů při ocenění 5,6 miliardy. Už ale jedná o dvojnásobku a dotahuje amerického konkurenta Harveyho. Článek Vůbec nestudoval obor, který teď s AI mění. Jeho firma má už po třech letech cenu 118 miliard se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/legora-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "7889460a00cb6386",
       "title": "India forces caller-ID apps to feed spam reports to telcos",
@@ -667,6 +691,18 @@
       "category": "news"
     },
     {
+      "id": "0b9c3c9338a4cecb",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "published_at": "2026-09-18T12:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
       "id": "9258494058b6e5f5",
       "title": "Could AI really kill us all? Your questions, answered.",
       "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
@@ -1135,18 +1171,6 @@
       "category": "news"
     },
     {
-      "id": "f567ebea35610ebc",
-      "title": "Češi se investičně zapojili do startupu, který s AI předpovídá chování uživatelů aplikací i to, kolik asi utratí",
-      "url": "https://www.lupa.cz/aktuality/cesi-se-investicne-zapojili-do-startupu-ktery-s-ai-predpovida-chovani-uzivatelu-aplikaci-i-to-kolik-asi-utrati/",
-      "published_at": "2026-09-17T08:33:12+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Brněnská skupina Jet Investment založená miliardářem Igorem Faitem investovala do americké firmy AppNava, jejíž produkt předpovídá způsob, jakým se uživatelé mobilních aplikací budou chovat. Platforma využívá umělou inteligenci a podle investora dokáže už od prvního kontaktu uživatele s aplikací v reálném čase předpovídat jeho budoucí ekonomickou hodnotu pro aplikaci, pravděpodobnost odchodu i potenciál monetizace.",
-      "hero_image": "https://i.iinfo.cz/images/64/igor-fait.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "f356a2ee77751f1f",
       "title": "Last Week in AI #344 - Navier–Stokes, Pacing the Frontier, AI Misuse",
       "url": "https://lastweekin.ai/p/last-week-in-ai-344-navierstokes",
@@ -1169,18 +1193,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "be699a63391161b3",
-      "title": "Vývojáři díky AI píšou dvakrát víc kódu. Proč z toho firma nemá dvojnásobný zisk?",
-      "url": "https://www.lupa.cz/clanky/vyvojari-diky-ai-pisou-dvakrat-vic-kodu-proc-z-toho-firma-nema-dvojnasobny-zisk/",
-      "published_at": "2026-09-17T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jiří Bachel)",
-      "summary_raw": "Tvrdá data firem Google, Meta nebo OpenAI analyzovaná českou společností ukazují, že tempo vývoje díky nasazení AI raketově roste. Jaké jsou další dopady?",
-      "hero_image": "https://i.iinfo.cz/images/103/programatori.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "957bdba29e88dbb6",
@@ -1394,18 +1406,6 @@
       "author": "Vinoo Ganesh",
       "summary_raw": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline &#8212; a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs.",
       "hero_image": "https://substackcdn.com/image/fetch/$s_!5LAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ad2af0-b40a-433d-bd78-0514683c9eb4_2560x1440.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "e1c096e03fa3dfcb",
-      "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
-      "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
-      "published_at": "2026-09-12T05:56:05+00:00",
-      "author": "",
-      "summary_raw": "We agree with Sebastian: this should have been DeepSeek v5",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!dYdZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F149285a5-df59-4df7-8ba9-4653b68c5f0b_2316x1122.png",
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
