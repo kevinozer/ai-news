@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-19",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Bezpečnostní výzkumníci využili model Claude k úspěšnému průniku do OpenAI",
+      "title_orig": "Security researchers used Claude to help them hack into OpenAI",
+      "category": "news",
+      "summary_cs": [
+        "Tým nezávislých bezpečnostních expertů dokázal za méně než 72 hodin proniknout do zaměstnaneckých účtů OpenAI.",
+        "K odhalení zranitelností a získání přístupu do interního repozitáře kódů GitHub využili konkurenční model Claude od Anthropicu.",
+        "Incident ukazuje, jak snadno mohou být pokročilé jazykové modely zneužity k automatizovaným kybernetickým útokům na samotné tvůrce AI."
+      ],
+      "why_matters": "Ukazuje reálné riziko zneužití umělé inteligence k sofistikovaným kybernetickým útokům na klíčovou technologickou infrastrukturu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI a Microsoft věděly, že trénováním AI spouští destruktivní smyčku pro web",
+      "title_orig": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "category": "news",
+      "summary_cs": [
+        "Nově odpečetěné soudní dokumenty v žalobě deníku New York Times odhalily interní obavy obou technologických gigantů.",
+        "Vlastní dokumentace firem varovala před vznikem destruktivní smyčky, která by mohla zničit zpravodajské weby a poškodit internet.",
+        "Interní e-maily dokonce označily plošné stahování dat bez svolení autorů za největší krádež práce v lidské historii."
+      ],
+      "why_matters": "Odhaluje zákulisní vědomí technologických lídrů o negativních dopadech jejich chování na budoucnost internetu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic provozuje vlastní laboratoř pro biologické experimenty",
+      "title_orig": "Anthropic is operating a lab that conducts biology experiments",
+      "category": "labs",
+      "summary_cs": [
+        "Tvůrce modelu Claude provozuje specializované pracoviště zaměřené na biologický výzkum a testování.",
+        "Cílem je prozkoumat potenciál umělé inteligence při léčbě lidských nemocí a zároveň lépe pochopit rizika jejího zneužití.",
+        "Krok přichází v době, kdy přední výzkumníci varují před rizikem vzniku biologických zbraní s pomocí AI."
+      ],
+      "why_matters": "Přední AI laboratoř poprvé přímo propojuje digitální vývoj s fyzickým biologickým výzkumem pro zajištění bezpečnosti.",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Nový typ AI modelu Jev slibuje vývojářům levnější a rychlejší cestu k inteligenci",
+      "title_orig": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "category": "tools",
+      "summary_cs": [
+        "Model Jev představuje nový přístup k architektuře umělé inteligence zaměřený na rychlé rozhodování a směrování úloh.",
+        "Tento model funguje jako rychlý klasifikátor a vyhodnocovací systém bez nutnosti spouštět robustní generativní procesy.",
+        "Pro specifické úkoly nabízí výrazně vyšší rychlost a dramatické snížení provozních nákladů oproti běžným LLM."
+      ],
+      "why_matters": "Přináší revoluční úsporu nákladů a zrychlení pro české vývojáře, kteří integrují AI do svých aplikací.",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Guvernérka Virginie omezuje schvalování nových datových center kvůli energetické síti",
+      "title_orig": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "category": "news",
+      "summary_cs": [
+        "Guvernérka amerického státu Virginie podepsala nařízení, které dává místním komunitám větší slovo při schvalování obřích projektů.",
+        "Nové opatření zakazuje úředníkům podepisovat smlouvy, které by obcházely standardní posuzování vlivu na životní prostředí a síť.",
+        "Virginie je největším světovým centrem pro datová úložiště a toto rozhodnutí může výrazně zpomalit expanzi AI infrastruktury."
+      ],
+      "why_matters": "Ukazuje, jak naráží rozvoj AI na fyzické limity elektrických sítí a odpor místních samospráv.",
+      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Kalifornie směřuje k zavedení nouzového vypínače pro nejvýkonnější AI modely",
+      "title_orig": "Gavin Newsom is pushing for an AI kill switch",
+      "category": "news",
+      "summary_cs": [
+        "Kalifornský guvernér Gavin Newsom vydal nařízení, které má státu zajistit vedoucí roli v dohledu nad bezpečností AI.",
+        "Nové nařízení ukládá expertům vypracovat do dvou měsíců doporučení pro zavedení takzvaného nouzového vypínače.",
+        "Tento mechanismus by umožnil okamžitě odstavit hraniční modely v případě bezprostředního ohrožení veřejnosti."
+      ],
+      "why_matters": "Zavádí bezprecedentní regulační mechanismus v srdci globálního technologického průmyslu.",
+      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Halucinace umělé inteligence málem vedla k americkému vojenskému útoku",
+      "title_orig": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "category": "news",
+      "summary_cs": [
+        "Jazykový model nesprávně vyhodnotil data a halucinoval přítomnost čínských jaderných komponentů v citlivé oblasti.",
+        "Tato chybná analýza téměř vyústila v reálnou vojenskou operaci ozbrojených sil Spojených států.",
+        "Analytici varují před přílišným spoléháním na LLM v armádním rozhodování bez dostatečné lidské kontroly."
+      ],
+      "why_matters": "Důrazné varování před nasazováním nepredikovatelných jazykových modelů do kritických vojenských systémů.",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Anthropic spouští program pro ověřování v oblasti věd o živé přírodě",
+      "title_orig": "Introducing the Life Sciences Verification Program",
+      "category": "labs",
+      "summary_cs": [
+        "Nový program se zaměřuje na bezpečné a přesné využívání modelů Claude v medicíně a biologickém výzkumu.",
+        "Cílem je vytvořit standardy pro ověřování výstupů, které zabrání nebezpečným chybám při práci s medicínskými daty.",
+        "Iniciativa reaguje na rostoucí zájem farmaceutických firem o integraci generativní AI do vývoje nových léčiv."
+      ],
+      "why_matters": "Zvyšuje důvěryhodnost a bezpečnost nasazení umělé inteligence v kritickém sektoru zdravotnictví.",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "source": "Anthropic News"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Český autor bestsellerů tvrdí, že knihy od AI budou brzy lepší než od lidí",
+      "title_orig": null,
+      "category": "wildcard",
+      "summary_cs": [
+        "Spisovatel Leoš Kyša uvedl, že jeho čtenáři již sami generují úspěšná pokračování jeho knižních sérií pomocí AI.",
+        "Podle něj technologie brzy překoná lidské autory v konzistenci a rychlosti tvorby komplexních příběhů.",
+        "Tento trend zásadně mění pohled na autorská práva a budoucnost knižního trhu v České republice."
+      ],
+      "why_matters": "Pohled úspěšného českého spisovatele na nevyhnutelnou transformaci kreativního psaní pod vlivem AI.",
+      "url": "https://cc.cz/knihy-od-ai-budou-lepsi-nez-od-lidi-ctenari-uz-generuji-nove-dily-mych-serii-rika-cesky-autor-bestselleru/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Google představuje asistenta CC pro chytrou správu domácnosti a rodiny",
+      "title_orig": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "category": "tools",
+      "summary_cs": [
+        "Nový experimentální AI agent od Googlu je navržen tak, aby pomáhal s koordinací každodenního chodu domácnosti.",
+        "Členové rodiny mohou sdílet e-maily, kalendáře a úkoly, ze kterých AI automaticky sestavuje plány a nákupní seznamy.",
+        "Nástroj dokáže také samostatně vyplňovat formuláře, plánovat jídla a spravovat rodinné rozpočty."
+      ],
+      "why_matters": "Ukazuje posun AI od pouhého odpovídání na otázky k aktivní pomoci v běžném rodinném životě.",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Anthropic jmenuje společnost Accenture jako svého prvního externího hodnotitele bezpečnosti",
+      "title_orig": "Anthropic’s first embedded evaluator is … Accenture?",
+      "category": "business",
+      "summary_cs": [
+        "Poradenský gigant Accenture bude přímo integrován do procesů hodnocení bezpečnosti modelů Anthropic.",
+        "Tato spolupráce má zajistit nezávislý audit a testování modelů před jejich uvolněním pro firemní zákazníky.",
+        "Jde o dosud nejvýznamnější zapojení tradiční konzultační firmy do hodnocení rizik pokročilé umělé inteligence."
+      ],
+      "why_matters": "Zavádí nový standard pro nezávislé audity bezpečnosti AI systémů ve firemním prostředí.",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Vládní web USA krátce používal čínský vyhledávací nástroj označený FBI za hrozbu",
+      "title_orig": "US government website used Chinese model the FBI called \"malicious\"",
+      "category": "news",
+      "summary_cs": [
+        "Oficiální webový portál amerického federálního registru integroval open source vyhledávací nástroj z Číny.",
+        "Tento konkrétní software byl přitom dříve Federálním úřadem pro vyšetřování označen za potenciálně škodlivý.",
+        "Incident vyvolal vážné otázky ohledně kontroly dodavatelského řetězce softwaru ve státní správě."
+      ],
+      "why_matters": "Upozorňuje na bezpečnostní rizika při neuváženém nasazování cizích open source AI nástrojů ve státní správě.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Startup Manus usiluje o valuaci čtyři miliardy dolarů po obnovení nezávislého provozu",
+      "title_orig": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "category": "business",
+      "summary_cs": [
+        "Vývojář AI agentů Manus jedná o získání investice ve výši 500 milionů dolarů.",
+        "Firma se letos osamostatnila poté, co musela kvůli regulačním překážkám zrušit plánovanou fúzi s Meta.",
+        "Investoři nadále masivně sázejí na startupy, které vyvíjejí autonomní agenty schopné ovládat počítač."
+      ],
+      "why_matters": "Potvrzuje obrovský investiční zájem o technologii autonomních AI agentů i přes přísnější regulaci fúzí.",
+      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Disney jmenuje svého prvního technického ředitele z řad zakladatelů Character.AI",
+      "title_orig": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "category": "business",
+      "summary_cs": [
+        "Zábavní gigant Disney jmenoval svého vůbec prvního technologického ředitele pro celou skupinu.",
+        "Do funkce nastupuje bývalý šéf startupu Character.AI, se kterým měl Disney dříve právní spory kvůli autorským právům.",
+        "Tento krok signalizuje snahu tradičního hollywoodského studia hluboce integrovat generativní AI do své tvorby."
+      ],
+      "why_matters": "Ukazuje, jak se tradiční mediální domy propojují s tvůrci AI namísto dlouhodobého válčení u soudů.",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Letecký úřad FAA nasazuje AI systém za 875 milionů dolarů pro řízení provozu",
+      "title_orig": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "category": "tools",
+      "summary_cs": [
+        "Federální letecký úřad USA plánuje nasadit pokročilý AI nástroj pro optimalizaci letových tras a snížení zpoždění.",
+        "Systém bude nejprve testován v přetížené oblasti kolem Washingtonu, D.C., před celostátním spuštěním.",
+        "Projekt představuje jednu z největších investic do praktického využití AI v kritické dopravní infrastruktuře."
+      ],
+      "why_matters": "Příklad masivního nasazení AI v reálném čase pro zvýšení bezpečnosti a efektivity civilního letectví.",
+      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "source": "Ars Technica"
+    }
+  ]
+}
