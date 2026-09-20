@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-20T04:01:17.507012+00:00",
+  "generated_at": "2026-09-20T09:17:31.719272+00:00",
   "date": "2026-09-20",
-  "article_count_unique": 100,
-  "article_count_raw": 100,
+  "article_count_unique": 99,
+  "article_count_raw": 99,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "venturebeat_ai",
@@ -164,16 +164,40 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 0,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 5,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "9c9721e970a8bb58",
+      "title": "V OpenAI roste moc jednoho muže, ale Altman to není. Nenápadný stratég je oddaný superaplikaci",
+      "url": "https://cc.cz/v-openai-roste-moc-jednoho-muze-ale-altman-to-neni-nenapadny-strateg-je-oddany-superaplikaci/",
+      "published_at": "2026-09-20T09:07:04+00:00",
+      "author": "David Zlomek",
+      "summary_raw": "Roky pracoval v pozadí a málokdo znal jeho jméno. Dnes má Greg Brockman pod sebou produkt i infrastrukturu OpenAI a také stále větší slovo. Článek V OpenAI roste moc jednoho muže, ale Altman to není. Nenápadný stratég je oddaný superaplikaci se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/greg-brockman-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "6d8d60fad4577490",
+      "title": "Odvrácená tvář AI. Může být jako droga, je to nejnebezpečnější hra, říkají muži, kteří s ní staví byznys",
+      "url": "https://cc.cz/odvracena-tvar-ai-muze-byt-jako-droga-je-to-nejnebezpecnejsi-hra-rikaji-muzi-kteri-s-ni-stavi-byznys/",
+      "published_at": "2026-09-20T05:15:50+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Dušan Šenkypl a Jan Černý patří k nejvášnivějším uživatelům AI v tuzemském byznysu. V podcastu Money Maker mluví i o tom, jaká jsou rizika. Článek Odvrácená tvář AI. Může být jako droga, je to nejnebezpečnější hra, říkají muži, kteří s ní staví byznys se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/senkypl-cerny5-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "c06111b919727072",
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
@@ -926,42 +950,6 @@
       "author": "Vittoria Elliott, Molly Taft",
       "summary_raw": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be.",
       "hero_image": "https://media.wired.com/photos/6aa9a061b69918de8da37621/master/pass/DSA-split-AI-regulation.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "4be50814914b2d40",
-      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-      "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-      "published_at": "2026-09-18T09:15:00+00:00",
-      "author": "Iain Akerman",
-      "summary_raw": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
-      "hero_image": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/master/pass/Napster_lead.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "fae6e1b2d6d99ac4",
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "author": "Jessica Hamzelou",
-      "summary_raw": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "c26dedd9fe6fd12d",
-      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-      "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "author": "Kate Knibbs, Emily Mullin",
-      "summary_raw": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-      "hero_image": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/master/pass/091526-Bioweapon%20AI.jpg",
       "source_id": "wired_ai",
       "source_name": "Wired AI",
       "category": "news"
