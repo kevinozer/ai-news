@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-21",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "V OpenAI roste vliv spoluzakladatele Grega Brockmana, který se zaměřuje na superaplikaci",
+      "title_orig": "V OpenAI roste moc jednoho muže, ale Altman to není. Nenápadný stratég je oddaný superaplikaci",
+      "category": "news",
+      "summary_cs": [
+        "Greg Brockman se po návratu do OpenAI stává klíčovou postavou s přímou kontrolou nad vývojem produktů i technickou infrastrukturou.",
+        "Jeho hlavním cílem je transformace stávajících modelů do podoby komplexní superaplikace, která změní způsob interakce s AI.",
+        "Tato změna v rozložení sil oslabuje absolutní vliv Sama Altmana a ukazuje na nový strategický směr celé společnosti."
+      ],
+      "why_matters": "Změny ve vedení nejvýznamnější AI laboratoře světa přímo ovlivní budoucí podobu nástrojů, které denně používáme.",
+      "url": "https://cc.cz/v-openai-roste-moc-jednoho-muze-ale-altman-to-neni-nenapadny-strateg-je-oddany-superaplikaci/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Donald Trump prosazuje vznik jednotek AI Force a odmítá regulaci vývoje",
+      "title_orig": "Trump now says he wants to form an ‘AI Force’",
+      "category": "news",
+      "summary_cs": [
+        "Donald Trump oznámil plán na jmenování vládního zmocněnce pro AI a vytvoření nové vojensko-technologické složky AI Force.",
+        "Prezident se ostře vymezil proti snahám o zpomalení vývoje a deklaroval, že jeho administrativa nebude technologický pokrok nijak omezovat.",
+        "Tento krok přichází v době, kdy část odborné veřejnosti i konkurenčních politiků volá po přísnějším dohledu nad hraničními modely."
+      ],
+      "why_matters": "Americká vládní politika v oblasti AI zásadně ovlivňuje globální tempo vývoje i bezpečnostní standardy.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Odvrácená tvář AI jako drogy, varují čeští investoři a podnikatelé",
+      "title_orig": "Odvrácená tvář AI. Může být jako droga, je to nejnebezpečnější hra, říkají muži, kteří s ní staví byznys",
+      "category": "news",
+      "summary_cs": [
+        "Přední čeští podnikatelé Dušan Šenkypl a Jan Černý sdílejí své zkušenosti s intenzivním využíváním umělé inteligence v byznysu.",
+        "Upozorňují na riziko závislosti na okamžité produktivitě a na psychologické dopady, které může nekontrolovaná adopce AI přinést.",
+        "Technologie je označována za fascinující, ale zároveň za potenciálně nejnebezpečnější hru současného podnikatelského světa."
+      ],
+      "why_matters": "Pohled úspěšných českých lídrů přináší realistické varování před psychologickými a provozními riziky překotné adopce AI.",
+      "url": "https://cc.cz/odvracena-tvar-ai-muze-byt-jako-droga-je-to-nejnebezpecnejsi-hra-rikaji-muzi-kteri-s-ni-stavi-byznys/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Aplikace Muse od Mety čelí kritice kvůli agresivnímu sběru osobních dat",
+      "title_orig": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "category": "news",
+      "summary_cs": [
+        "Nový asistent Muse pro macOS od společnosti Meta vyvolává vážné obavy ohledně ochrany soukromí uživatelů.",
+        "Aplikace aktivně motivuje uživatele ke sdílení citlivých informací, jako jsou bankovní účty, e-maily nebo pasy.",
+        "Kritici upozorňují, že nástroj slouží spíše jako propracovaný sledovací systém pro trénování budoucích modelů Mety."
+      ],
+      "why_matters": "Ukazuje na rostoucí rizika ztráty soukromí při integraci AI asistentů přímo do operačních systémů.",
+      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Boj o regulaci AI nekončí, laboratoře se přou o zpomalení vývoje",
+      "title_orig": "The AI regulation smackdown isn’t over",
+      "category": "news",
+      "summary_cs": [
+        "Debata o regulaci AI se vyostřuje po návrhu šéfa Anthropicu na koordinované zpomalení vývoje a zapojení nezávislých hodnotitelů.",
+        "Zatímco některé laboratoře volají po opatrnosti, jiní lídři průmyslu považují obavy z existenčních rizik za silně nadhodnocené.",
+        "Rozkol v názorech komplikuje snahy vlád o vytvoření jednotného legislativního rámce pro bezpečnost pokročilých modelů."
+      ],
+      "why_matters": "Výsledek tohoto souboje určí, zda bude vývoj AI podléhat státní kontrole, nebo zůstane plně v rukou korporací.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Samočinná komunikace agentů při testování dramaticky urychluje vědecké objevy",
+      "title_orig": "Scaling Discovery through Test-Time Communication",
+      "category": "research",
+      "summary_cs": [
+        "Nová vědecká práce ukazuje, že umožnění vzájemné komunikace AI agentů během testování výrazně zvyšuje jejich úspěšnost.",
+        "Spolupracující agenti dokážou překonat limity samostatně pracujících modelů a efektivněji řešit komplexní vědecké úkoly.",
+        "Tento přístup otevírá cestu k novému způsobu automatizovaného výzkumu bez nutnosti neustálého lidského dohledu."
+      ],
+      "why_matters": "Spolupráce AI agentů představuje klíčový krok k plně autonomnímu vědeckému výzkumu a vývoji.",
+      "url": "https://arxiv.org/abs/2609.21032",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Detekce halucinací v LLM pomocí analýzy informačních toků v grafech pozornosti",
+      "title_orig": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili novou metodu detekce halucinací založenou na analýze topologie informačních toků v modelech.",
+        "Využitím matematického konceptu Forman-Ricciho křivosti dokážou identifikovat úzká hrdla, kde dochází k selhání sdílení kontextu.",
+        "Tento přístup umožňuje odlišit pravdivé odpovědi od vymyslených bez nutnosti externího ověřování faktů."
+      ],
+      "why_matters": "Matematicky přesná detekce halucinací je zásadní pro nasazení AI v kritických oblastech, jako je zdravotnictví či právo.",
+      "url": "https://arxiv.org/abs/2609.21096",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Firmy vyvíjející modely fyzického světa tají své plány i zdroje dat",
+      "title_orig": "World model companies are keeping a lot of secrets",
+      "category": "news",
+      "summary_cs": [
+        "Startupy zaměřené na tvorbu modelů fyzického světa získávají miliardové investice, ale odmítají sdílet detaily o svém vývoji.",
+        "Tajemstvím zůstává nejen samotná architektura systémů, ale především zdroje dat používané pro trénování prostorové inteligence.",
+        "Tento nedostatek transparentnosti vyvolává otázky ohledně autorských práv a reálné připravenosti těchto technologií pro trh."
+      ],
+      "why_matters": "Modely fyzického světa jsou klíčem k pokročilé robotice a autonomním vozidlům, jejich vývoj je však netransparentní.",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Nvidia Jensen Huang označil obavy z existenčních rizik AI za neopodstatněné",
+      "title_orig": "No one is surprised that Nvidia's Jensen Huang thinks AI fears are overblown.",
+      "category": "news",
+      "summary_cs": [
+        "Šéf společnosti Nvidia Jensen Huang v rozhovoru uvedl, že riziko konce lidstva kvůli umělé inteligenci je prakticky nulové.",
+        "Jeho vyjádření vyvolalo kritiku ze strany vědců, kteří se výzkumu bezpečnosti AI věnují desítky let a varují před riziky.",
+        "Nvidia jako hlavní dodavatel hardwaru pro AI infrastrukturu má přímý finanční zájem na pokračování současného překotného tempa."
+      ],
+      "why_matters": "Názorový střet mezi dodavateli hardwaru a bezpečnostními výzkumníky definuje současnou debatu o budoucnosti lidstva s AI.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "AI agenti pro návrh čipů dosahují lepších výsledků s vyšší úrovní abstrakce",
+      "title_orig": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+      "category": "research",
+      "summary_cs": [
+        "Studie zkoumala, zda mohou AI agenti navrhovat lepší mikročipy, pokud pracují s vyšší úrovní abstrakce namísto přímého zápisu RTL.",
+        "Výsledky ukazují, že využití pokročilých návrhových metod umožňuje agentům dosahovat vyšší efektivity a méně chybovat.",
+        "Tento posun v metodice může výrazně urychlit vývoj specializovaného hardwaru pro specifické AI aplikace."
+      ],
+      "why_matters": "Zrychlení a zlevnění návrhu čipů pomocí AI může vyřešit současný globální nedostatek specializovaného hardwaru.",
+      "url": "https://arxiv.org/abs/2609.21157",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Rozkol mezi Donaldem Trumpem a jeho voliči v otázce výstavby datových center",
+      "title_orig": "It’s Donald Trump Versus MAGA on Data Centers",
+      "category": "news",
+      "summary_cs": [
+        "Prezident Donald Trump masivně podporuje výstavbu nových datových center pro AI jako klíčový zájem národní bezpečnosti.",
+        "Jeho voličská základna se však staví proti těmto projektům kvůli obavám z přetížení energetické sítě a ekologických dopadů.",
+        "Tento konflikt ukazuje na hluboký rozpor mezi politickými ambicemi v oblasti AI a realitou lokální infrastruktury."
+      ],
+      "why_matters": "Energetická náročnost AI naráží na odpor veřejnosti, což může zpomalit budování nezbytné infrastruktury.",
+      "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Dynamické přizpůsobení pozornosti snižuje paměťové nároky při práci s dlouhým kontextem",
+      "title_orig": "Elastic Threshold Attention: Learned Contextual Sparsity for Long-Context Decoding",
+      "category": "research",
+      "summary_cs": [
+        "Představena byla metoda Elastic Threshold Attention, která dynamicky filtruje klíčové informace v paměti během generování textu.",
+        "Tradiční přístupy k úspoře paměti často degradují kvalitu výstupu, zatímco tato novinka se učí zachovat důležitý kontext.",
+        "Technologie výrazně snižuje hardwarové nároky na provoz velkých jazykových modelů s extrémně dlouhými texty."
+      ],
+      "why_matters": "Umožní levnější a rychlejší zpracování rozsáhlých dokumentů a knih na běžně dostupném hardwaru.",
+      "url": "https://arxiv.org/abs/2609.20888",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Hrozba kolapsu vědeckého hodnocení při rekurzivním trénování AI recenzentů",
+      "title_orig": "When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation",
+      "category": "research",
+      "summary_cs": [
+        "Studie varuje před rizikem kolapsu kvality vědeckých recenzí, pokud jsou budoucí AI modely trénovány na posudcích generovaných AI.",
+        "Tento rekurzivní proces vede ke ztrátě kritického úsudku, unifikaci názorů a přehlížení netradičních vědeckých myšlenek.",
+        "Autoři navrhují první strategie, jak tomuto znehodnocení vědecké databáze předcházet a zachovat diverzitu hodnocení."
+      ],
+      "why_matters": "Nekontrolované používání AI ve vědeckém publikování může ohrozit důvěryhodnost a pokrok celého lidského vědění.",
+      "url": "https://arxiv.org/abs/2609.20942",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Chytrý prsten Vocci přináší nový způsob diskrétního nahrávání schůzek",
+      "title_orig": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Vocci představil lehký chytrý prsten v ceně 249 dolarů určený k automatickému přepisu a analýze schůzek.",
+        "Zařízení nabízí nový elegantní formát pro zaznamenávání poznámek, který je méně rušivý než telefony či diktafony.",
+        "Novinka však okamžitě vyvolala diskuse o ochraně soukromí a možnosti nepozorovaného nahrávání cizích osob."
+      ],
+      "why_matters": "Nové nositelné formáty AI asistentů mění společenské normy v oblasti soukromí a nahrávání konverzací.",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Lidský faktor zůstává největší kybernetickou hrozbou pro energetické sítě",
+      "title_orig": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "category": "news",
+      "summary_cs": [
+        "Navzdory mediálnímu zájmu o hrozbu zneužití AI k útokům na infrastrukturu zůstávají největším rizikem lidské chyby.",
+        "Energetické systémy jsou dlouhodobě zranitelné kvůli zastaralému softwaru a nedostatečnému proškolení personálu.",
+        "Odborníci varují před přeceňováním schopností autonomních AI virů na úkor řešení základních bezpečnostních nedostatků."
+      ],
+      "why_matters": "Připomíná, že největší bezpečnostní slabinou kritické infrastruktury je stále člověk, nikoli fiktivní superinteligence.",
+      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "source": "The Verge AI"
+    }
+  ]
+}
