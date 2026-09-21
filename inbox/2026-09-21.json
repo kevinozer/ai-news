@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-21T04:01:20.178589+00:00",
+  "generated_at": "2026-09-21T09:56:23.816640+00:00",
   "date": "2026-09-21",
-  "article_count_unique": 105,
-  "article_count_raw": 105,
+  "article_count_unique": 108,
+  "article_count_raw": 108,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -13,8 +13,8 @@
     {
       "source_id": "verge_ai",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "arstechnica",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "venturebeat_ai",
@@ -163,17 +163,77 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 1,
-      "raw_count": 2
+      "count": 2,
+      "raw_count": 7
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 5,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "1190b50ee50d0772",
+      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "published_at": "2026-09-21T09:21:47+00:00",
+      "author": "Jess Weatherbed",
+      "summary_raw": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Amazon_Prime_Illo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "015e054363ef1e71",
+      "title": "Omyl kvůli stejnému jménu. Z testu utekla už i umělá inteligence Gemini od Googlu a napadla tři firmy",
+      "url": "https://cc.cz/omyl-kvuli-stejnemu-jmenu-z-testu-utekla-uz-i-umela-inteligence-gemini-od-googlu-a-napadla-tri-firmy/",
+      "published_at": "2026-09-21T08:26:54+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Po OpenAI nebo Anthropicu se vymkla z rukou také AI od Googlu. Ten incident nereportoval, prý i proto, že se testování samo zastavilo. Článek Omyl kvůli stejnému jménu. Z testu utekla už i umělá inteligence Gemini od Googlu a napadla tři firmy se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/04/gemini-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "73da9d8ce840ccee",
+      "title": "Řídí pětimiliardový byznys, kvůli AI měl FOMO. Ve firmách to není tak růžové, jak vidíte na LinkedInu, říká",
+      "url": "https://cc.cz/nez-jsem-zacal-s-vibe-codingem-mel-jsem-fomo-rika-braverman-ve-firmach-to-neni-tak-ruzove-jako-na-linkedinu/",
+      "published_at": "2026-09-21T04:34:04+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Tomáš Braverman ze Slevomatu mluví o nástupu AI a radikálních změnách ve firmě, ale i o plánech, jak chce pětimiliardový byznys v pár letech znásobit. Článek Řídí pětimiliardový byznys, kvůli AI měl FOMO. Ve firmách to není tak růžové, jak vidíte na LinkedInu, říká se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/tomas-braverman-slevomat-26-2-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "3440dd31f6796ccc",
+      "title": "Rozjel už čtyři miliardové firmy. Jeho roboti teď vyrazili uklízet a stlát postele desítkám lidí",
+      "url": "https://cc.cz/rozjel-uz-ctyri-miliardove-firmy-jeho-roboti-ted-vyrazili-uklizet-a-stlat-postele-desitkam-lidi/",
+      "published_at": "2026-09-21T04:33:42+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Brett Adcock je prototypem sériového podnikatele. Se svým startupem Figure AI vyvíjí roboty, kteří se umí chovat jako lidé. Článek Rozjel už čtyři miliardové firmy. Jeho roboti teď vyrazili uklízet a stlát postele desítkám lidí se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/brett-adcock-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "95e384b9a8118171",
+      "title": "Produkt zahodit, firmu zeštíhlit a přeskládat. Nové technologie nutí firmy začít znovu",
+      "url": "https://www.lupa.cz/clanky/produkt-zahodit-firmu-zestihlit-a-preskladat-nove-technologie-nuti-firmy-zacit-znovu/",
+      "published_at": "2026-09-21T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Řada technologických firem dlouho slavila úspěchy s řešením, které s rozvojem umělé inteligence přestalo dávat smysl. Přinášíme příběh jedné z těch, které zavřely oči a pustily se do vývoje znovu. I když to znamená propouštět a nechat být produkt, do kterého šlo čtvrt miliardy.",
+      "hero_image": "https://i.iinfo.cz/images/629/startupy-a-vyvoj-na-zelene-louce.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "3045c04a46eb4129",
       "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
@@ -595,8 +655,8 @@
       "category": "news"
     },
     {
-      "id": "78ab398f761feb29",
-      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "id": "5224e243373e8de2",
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "published_at": "2026-09-20T18:50:18+00:00",
       "author": "Terrence O’Brien",
@@ -883,18 +943,6 @@
       "category": "news"
     },
     {
-      "id": "76a18a0b1bd69cca",
-      "title": "Být chytrý a rozumět emocím už nestačí. Je tu nová vlastnost, bez které v době AI možná neuspějete",
-      "url": "https://cc.cz/byt-chytry-a-rozumet-emocim-uz-nestaci-je-tu-nova-vlastnost-bez-ktere-v-dobe-ai-mozna-neuspejete/",
-      "published_at": "2026-09-19T14:22:31+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Pracovní svět se mění rychleji než kdy dřív a s ním i představa o tom, co člověku zajistí úspěch. Některé schopnosti totiž rychle ztrácejí na ceně. Článek Být chytrý a rozumět emocím už nestačí. Je tu nová vlastnost, bez které v době AI možná neuspějete se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/aq-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "f1ee4eecb1f4a423",
       "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
       "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
@@ -986,18 +1034,6 @@
       "author": "Isabella Ward",
       "summary_raw": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
       "hero_image": "https://media.wired.com/photos/6aad73fd03ca378a32980599/master/pass/091826-Math%20Hate%20AI.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "cbb225a1956b5869",
-      "title": "Join the WIRED World Fair in Miami on November 4",
-      "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-      "published_at": "2026-09-19T09:00:00+00:00",
-      "author": "WIRED Staff",
-      "summary_raw": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
-      "hero_image": "https://media.wired.com/photos/6aad7180245943a17ceca34d/master/pass/WWF_2026_META__1080x1350_Phase%202.jpg",
       "source_id": "wired_ai",
       "source_name": "Wired AI",
       "category": "news"
