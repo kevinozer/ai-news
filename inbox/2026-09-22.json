@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T04:01:21.754536+00:00",
+  "generated_at": "2026-09-22T09:19:01.775200+00:00",
   "date": "2026-09-22",
   "article_count_unique": 132,
   "article_count_raw": 132,
@@ -19,8 +19,8 @@
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 13,
-      "raw_count": 13
+      "count": 12,
+      "raw_count": 12
     },
     {
       "source_id": "mit_tech_review",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "venturebeat_ai",
@@ -67,8 +67,8 @@
     {
       "source_id": "huggingface_blog",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "import_ai",
@@ -163,17 +163,53 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 9
+      "count": 3,
+      "raw_count": 15
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 4,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "27efed858356f829",
+      "title": "How to Use AI With Your Privacy Intact",
+      "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+      "published_at": "2026-09-22T09:00:00+00:00",
+      "author": "Andy Greenberg",
+      "summary_raw": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
+      "hero_image": "https://media.wired.com/photos/6aa859b2e4f947f2c71d66cb/master/pass/Security_TheWIREDguidetoUsingAIWhileProtectingYourPrivacy_v-ezgif.com-video-to-gif-converter.gif",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "25db519c9f2efead",
+      "title": "Křišťálová Lupa 2026 otevírá hlasování. Ve hře je 140 projektů",
+      "url": "https://www.lupa.cz/clanky/kristalova-lupa-2026-otevira-hlasovani-ve-hre-je-140-projektu/",
+      "published_at": "2026-09-22T06:48:04+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Redakce)",
+      "summary_raw": "Startuje finálové hlasování 21. ročníku Ceny českého Internetu. O přízeň veřejnosti a porot se uchází 140 projektů v 15 kategoriích. Nově se soutěží také v kategoriích AI projekt, Startup roku a Cena studentské poroty ČVUT.",
+      "hero_image": "https://i.iinfo.cz/images/43/kristalova-lupa-2026-start-hlasovani.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "3a899a50fb54b7b0",
+      "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+      "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+      "published_at": "2026-09-22T06:30:56+00:00",
+      "author": "",
+      "summary_raw": "crowning a new Chinese frontier lab",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!qfA0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSxCs7wa0AANR91.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
     {
       "id": "3045c04a46eb4129",
       "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
@@ -533,6 +569,18 @@
       "source_id": "arxiv_cs_lg",
       "source_name": "ArXiv cs.LG",
       "category": "research"
+    },
+    {
+      "id": "ae2592d4c2d7cee5",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
     },
     {
       "id": "9bbda7c912c34338",
@@ -1063,30 +1111,6 @@
       "category": "labs"
     },
     {
-      "id": "73da9d8ce840ccee",
-      "title": "Řídí pětimiliardový byznys, kvůli AI měl FOMO. Ve firmách to není tak růžové, jak vidíte na LinkedInu, říká",
-      "url": "https://cc.cz/nez-jsem-zacal-s-vibe-codingem-mel-jsem-fomo-rika-braverman-ve-firmach-to-neni-tak-ruzove-jako-na-linkedinu/",
-      "published_at": "2026-09-21T04:34:04+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "Tomáš Braverman ze Slevomatu mluví o nástupu AI a radikálních změnách ve firmě, ale i o plánech, jak chce pětimiliardový byznys v pár letech znásobit. Článek Řídí pětimiliardový byznys, kvůli AI měl FOMO. Ve firmách to není tak růžové, jak vidíte na LinkedInu, říká se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/tomas-braverman-slevomat-26-2-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "3440dd31f6796ccc",
-      "title": "Rozjel už čtyři miliardové firmy. Jeho roboti teď vyrazili uklízet a stlát postele desítkám lidí",
-      "url": "https://cc.cz/rozjel-uz-ctyri-miliardove-firmy-jeho-roboti-ted-vyrazili-uklizet-a-stlat-postele-desitkam-lidi/",
-      "published_at": "2026-09-21T04:33:42+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Brett Adcock je prototypem sériového podnikatele. Se svým startupem Figure AI vyvíjí roboty, kteří se umí chovat jako lidé. Článek Rozjel už čtyři miliardové firmy. Jeho roboti teď vyrazili uklízet a stlát postele desítkám lidí se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/brett-adcock-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "95e384b9a8118171",
       "title": "Produkt zahodit, firmu zeštíhlit a přeskládat. Nové technologie nutí firmy začít znovu",
       "url": "https://www.lupa.cz/clanky/produkt-zahodit-firmu-zestihlit-a-preskladat-nove-technologie-nuti-firmy-zacit-znovu/",
@@ -1322,18 +1346,6 @@
       "author": "Jonathan M. Gitlin",
       "summary_raw": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "b88f6f8c1c92980f",
-      "title": "T. rex teeth indicate it ran as warm as an elephant",
-      "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
-      "published_at": "2026-09-20T09:00:11+00:00",
-      "author": "Jacek Krywko",
-      "summary_raw": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-1152x648-1789756447.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
       "category": "news"
@@ -1613,18 +1625,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "365b3405c4382cb0",
-      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
-      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-      "published_at": "2026-09-15T04:50:36+00:00",
-      "author": "",
-      "summary_raw": "Pacing gathers pace.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!iik6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c4317a9-8fa4-4cf0-8705-b6746229cb83_1820x2052.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "a599c81bd1213815",
