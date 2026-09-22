@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-22",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Kalifornie zpřísňuje pravidla pro spotřebu energie a vody v datových centrech AI",
+      "title_orig": "California tightens rules on AI data center energy and water use",
+      "category": "news",
+      "summary_cs": [
+        "Kalifornský guvernér Gavin Newsom podepsal balíček sedmi zákonů, které mají zabránit přenášení vysokých nákladů na infrastrukturu datových center na běžné obyvatele.",
+        "Nová legislativa nařizuje zavedení speciální tarifní třídy pro datová centra a vyžaduje přísnější sledování spotřeby vody i elektrické energie.",
+        "Tento krok reaguje na enormní energetické nároky moderních AI modelů a může výrazně ovlivnit budoucí lokalizaci a provoz velkých výpočetních středisek."
+      ],
+      "why_matters": "Nastavuje globální precedens pro regulaci infrastruktury, který může brzy ovlivnit i evropský trh s datovými centry.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI zakládá matematický poradní sbor poté, co její AI vyřešila přes sto otevřených problémů",
+      "title_orig": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "category": "labs",
+      "summary_cs": [
+        "Nezávislá skupina expertů bude OpenAI pomáhat s hodnocením a komunikací nových vědeckých výsledků na pomezí matematiky a umělé inteligence.",
+        "Poradní sbor však nebude mít pravomoc zpomalovat nebo jakkoliv přesměrovávat probíhající výzkum společnosti.",
+        "Tento krok přichází v době, kdy pokročilé uvažovací modely dosahují významných úspěchů při řešení dříve nezdolaných matematických výzev."
+      ],
+      "why_matters": "Ukazuje rychlý posun AI od pouhého generování textů k reálným vědeckým objevům v exaktních vědách.",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Český nástroj Macaly po stamilionovém exitu roste a integruje ChatGPT i Claude",
+      "title_orig": "Po stamilionovém exitu dál rostou. Na českém řešení jede 100 tisíc aplikací, propojilo se s ChatGPT a Claudem",
+      "category": "news",
+      "summary_cs": [
+        "Uživatelé úspěšné české platformy Macaly mohou nyní přímo v rozhraní chatu vytvářet a publikovat kompletní webové stránky i aplikace.",
+        "Nástroj, na kterém v současnosti běží přes 100 tisíc aplikací, nově nabízí přímé napojení na pokročilé modely od OpenAI a Anthropicu.",
+        "Nová funkce umožňuje automatické generování databází a hostingu na vlastní doméně bez nutnosti psaní kódu."
+      ],
+      "why_matters": "Skvělý příklad úspěšného českého projektu, který efektivně integruje nejnovější AI technologie pro koncové uživatele.",
+      "url": "https://cc.cz/po-stamilionovem-exitu-dal-rostou-na-ceskem-reseni-jede-100-tisic-aplikaci-propojilo-se-s-chatgpt-a-claudem/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Amazon zablokoval přístup novému AI asistentovi Muse od Mety",
+      "title_orig": "Amazon blocks Meta’s Muse AI agent",
+      "category": "news",
+      "summary_cs": [
+        "Internetový gigant Amazon začal blokovat AI agenta Muse od společnosti Meta, který se pokoušel nakupovat zboží jménem svých uživatelů.",
+        "Uživatelům se začalo zobrazovat upozornění, že přístup neautorizovaných AI agentů porušuje smluvní podmínky Amazonu.",
+        "Tento krok podtrhuje rostoucí napětí mezi technologickými platformami ohledně přístupu k datům a autonomního chování AI asistentů."
+      ],
+      "why_matters": "Začíná boj o to, kteří autonomní agenti budou mít přístup do největších světových e-shopů.",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Google představuje Googlebook, notebook navržený přímo pro éru Gemini",
+      "title_orig": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "category": "tools",
+      "summary_cs": [
+        "Nový přenosný počítač v ceně od 899 dolarů sází na hlubokou integraci umělé inteligence Gemini přímo do operačního systému.",
+        "AI asistent je propojen s kurzorem, diktováním, widgety a dalšími klíčovými prvky uživatelského rozhraní.",
+        "Google se tímto zařízením snaží nabídnout uživatelům Androidu podobně plynulé propojení ekosystému, jaké mají majitelé iPhonů a Maců."
+      ],
+      "why_matters": "Ukazuje, jak se AI stává hlavním prodejním argumentem pro nákup nového hardwaru.",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "OSN varuje před nečinností a volá po okamžitých pravidlech pro agenty AI",
+      "title_orig": "UN says AI safeguards can’t wait for certainty",
+      "category": "news",
+      "summary_cs": [
+        "Vědecký panel OSN vydal varování, že vlády musí začít regulovat pokročilé AI agenty ještě předtím, než plně pochopí všechna rizika.",
+        "Zpráva výslovně zmiňuje nedávné bezpečnostní incidenty a zdůrazňuje, že globální koordinace je nezbytná pro zachování bezpečnosti.",
+        "Téma regulace a bezpečnosti autonomních systémů se tak stává jedním z hlavních bodů diplomatických jednání na půdě OSN."
+      ],
+      "why_matters": "Tlak na regulaci AI se přesouvá na nejvyšší mezinárodní úroveň, což ovlivní i českou legislativu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Analýza rovnováhy sil v oblasti otevřených modelů umělé inteligence",
+      "title_orig": "The current balance of power in open models",
+      "category": "news",
+      "summary_cs": [
+        "Rozsáhlá analýza mapuje aktuální stav vývoje open-source modelů a jejich schopnost konkurovat proprietárním řešením.",
+        "Text vychází z podkladů připravených pro slyšení v americkém Kongresu a hodnotí geopolitické i bezpečnostní aspekty otevřeného výzkumu.",
+        "Autor poukazuje na to, že otevřené modely rychle dohánějí komerční špičku, což přináší nové výzvy pro regulátory."
+      ],
+      "why_matters": "Pomáhá pochopit, zda se vyplatí stavět firemní řešení na otevřených modelech, nebo spoléhat na API velkých hráčů.",
+      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "source": "Interconnects (Nathan Lambert)"
+    },
+    {
+      "rank": 8,
+      "title_cs": "V7 dává AI agentům institucionální paměť díky modelu GPT-5.6",
+      "title_orig": "How V7 gives AI agents institutional memory",
+      "category": "labs",
+      "summary_cs": [
+        "Platforma V7 využívá nový model GPT-5.6 k transformaci roztříštěných firemních souborů do uceleného kontextu.",
+        "AI agenti díky tomu získávají dlouhodobou paměť a dokáží plnit složité úkoly s přesným odkazováním na interní zdroje.",
+        "Tento přístup výrazně snižuje chybovost a halucinace při práci s citlivými firemními daty."
+      ],
+      "why_matters": "Představuje klíčový krok k nasazení skutečně spolehlivých AI asistentů do každodenní firemní praxe.",
+      "url": "https://openai.com/index/v7",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "USA a Čína jednají o mechanismu vzájemného varování před hrozbami AI",
+      "title_orig": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "category": "news",
+      "summary_cs": [
+        "Představitelé obou velmocí diskutovali o zřízení komunikačního kanálu pro hlášení incidentů spojených s AI, které by mohly ohrozit národní bezpečnost.",
+        "Jednání se zaměřila na rizika spojená s nekontrolovaným nasazením autonomních systémů ve vojenském a kritickém sektoru.",
+        "Tato iniciativa připomíná horké linky z dob studené války a ukazuje, jak vážně obě strany rizika vnímají."
+      ],
+      "why_matters": "Dokládá, že rizika spojená s AI jsou již vnímána na úrovni jaderných či kybernetických hrozeb.",
+      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Metoda RBS-Attention zrychluje zpracování dlouhého kontextu u velkých modelů",
+      "title_orig": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "category": "research",
+      "summary_cs": [
+        "Nový výzkum představuje metodu RBS-Attention, která řeší neefektivitu fáze prefill při zpracování extrémně dlouhých textů.",
+        "Algoritmus využívá ohraničenou řídkou pozornost, čímž výrazně snižuje paměťové i výpočetní nároky bez ztráty důležitých informací.",
+        "Tato technika umožňuje levnější a rychlejší analýzu rozsáhlých dokumentů nebo dlouhých programových kódů."
+      ],
+      "why_matters": "Přináší technologické řešení pro levnější a rychlejší zpracování velkých objemů dat v podnikových aplikacích.",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Hledání rovnováhy mezi spravedlností a přesností AI modelů v medicíně",
+      "title_orig": "Toward Fairness in Machine Learning Models for Predicting Treatment Retention and Premature Discontinuation in Medication for Opioid Use Disorder",
+      "category": "research",
+      "summary_cs": [
+        "Studie zkoumá spravedlnost a přesnost algoritmů strojového učení používaných k předpovídání úspěšnosti léčby závislostí.",
+        "Výzkumníci upozorňují na riziko, kdy modely mohou vykazovat zkreslení vůči určitým skupinám pacientů na základě demografických údajů.",
+        "Práce navrhuje nové postupy pro auditování a úpravu algoritmů tak, aby byla zajištěna jejich etická nezávadnost v klinické praxi."
+      ],
+      "why_matters": "Důležité varování před slepou důvěrou v medicínská doporučení generovaná algoritmy bez průběžné kontroly.",
+      "url": "https://arxiv.org/abs/2609.22113",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Nová metoda pro detekci trénovacích dat v difuzních jazykových modelech",
+      "title_orig": "Weak Ties, Strong Signals: Efficient Training Data Detection in Diffusion LLMs via Independent Token Sampling",
+      "category": "research",
+      "summary_cs": [
+        "Vědci vyvinuli efektivní metodu pro ověření, zda difuzní jazykové modely neoprávněně nevyužily chráněná data během svého tréninku.",
+        "Na rozdíl od autoregresivních modelů je u difuzních modelů detekce složitější, nová technika však využívá nezávislé vzorkování tokenů.",
+        "Tento postup může výrazně usnadnit právní spory týkající se porušování autorských práv při vývoji umělé inteligence."
+      ],
+      "why_matters": "Poskytuje nástroj pro ochranu duševního vlastnictví před neautorizovaným zneužitím pro trénování AI.",
+      "url": "https://arxiv.org/abs/2609.22145",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Metoda PRQuant přináší efektivní kvantizaci modelů s minimální ztrátou přesnosti",
+      "title_orig": "PRQuant: Permutation Residual Quantization for Low-Overhead Inference",
+      "category": "research",
+      "summary_cs": [
+        "Představena byla nová kvantizační metoda PRQuant, která umožňuje výrazně zmenšit velikost modelů pro efektivní provoz.",
+        "Metoda úspěšně řeší problém s odlehlými hodnotami v lineárních vrstvách, které u běžných metod způsobují drastický pokles přesnosti.",
+        "Díky tomu lze provozovat pokročilé modely s nízkými hardwarovými nároky přímo na koncových zařízeních."
+      ],
+      "why_matters": "Umožní spouštět výkonnější modely lokálně na běžných firemních počítačích a telefonech.",
+      "url": "https://arxiv.org/abs/2609.22106",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Hugging Face vydává tokenizers verze 1 s důrazem na rychlost a škálování",
+      "title_orig": "tokenizers v1: encode, decode and scaling, measured",
+      "category": "labs",
+      "summary_cs": [
+        "Platforma Hugging Face vydala zásadní aktualizaci své knihovny pro tokenizaci textu, která je klíčovou součástí přípravy dat pro LLM.",
+        "Nová verze přináší optimalizaci procesů kódování a dekódování s důrazem na maximální propustnost při masivním paralelním zpracování.",
+        "Aktualizace pomůže vývojářům zkrátit čas potřebný pro předzpracování datových sad před samotným trénováním modelů."
+      ],
+      "why_matters": "Zrychluje a zlevňuje technickou přípravu dat pro všechny, kdo trénují vlastní modely.",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Apple čelí žalobě za 250 milionů dolarů kvůli slibům o vylepšení Siri pomocí AI",
+      "title_orig": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "category": "news",
+      "summary_cs": [
+        "Majitelé vybraných modelů iPhonů v USA mohou žádat o odškodnění v rámci urovnání hromadné žaloby na společnost Apple.",
+        "Žaloba tvrdila, že Apple nesplnil své marketingové sliby ohledně včasného dodání pokročilých AI funkcí pro asistentku Siri.",
+        "Apple se rozhodl pro mimosoudní vyrovnání ve výši čtvrt miliardy dolarů, aby se vyhnul vleklým právním sporům."
+      ],
+      "why_matters": "Ukazuje, že přehnaný marketing kolem AI funkcí může mít pro technologické firmy drahé právní následky.",
+      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "source": "The Verge AI"
+    }
+  ]
+}
