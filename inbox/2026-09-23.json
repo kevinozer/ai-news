@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:01:53.845511+00:00",
+  "generated_at": "2026-09-23T09:19:04.495007+00:00",
   "date": "2026-09-23",
   "article_count_unique": 160,
   "article_count_raw": 160,
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 18,
-      "raw_count": 18
+      "count": 17,
+      "raw_count": 17
     },
     {
       "source_id": "anthropic_news",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "marcus_on_ai",
@@ -174,6 +174,42 @@
     }
   ],
   "articles": [
+    {
+      "id": "7ce03b2c28184c84",
+      "title": "Startup Marka Miltnera a Johany von der Leyen má nových 300 tisíc od Kijonkových",
+      "url": "https://www.lupa.cz/aktuality/startup-marka-miltnera-a-johany-von-der-leyen-ma-novych-300-tisic-od-kijonkovych/",
+      "published_at": "2026-09-23T07:55:34+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Startup PangeAI, který tvoří vlastní model planety Země v podobě, které rozumějí AI agenti, zaujal v rámci Nápadu roku &#8211; nejstar&#353;í startupové soutěže v Česku. Jako vítěz získal 300 tisíc Kč od JSK Investments manželů Kijonkových.",
+      "hero_image": "https://i.iinfo.cz/images/65/johanna-von-der-leyen-a-marek-miltner-pangeai.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "3f2dba7bbc99c2c3",
+      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "published_at": "2026-09-23T06:41:41+00:00",
+      "author": "",
+      "summary_raw": "overshadowing more efficient GPT6 models from OpenAI",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!tLrK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2102432417352929280.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "bf05e1fd152f5add",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "published_at": "2026-09-23T04:59:08+00:00",
+      "author": "Connie Loizos",
+      "summary_raw": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
     {
       "id": "5097f575805f8a7d",
       "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
@@ -1519,18 +1555,6 @@
       "category": "news"
     },
     {
-      "id": "8cfdb9570be5de29",
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "published_at": "2026-09-21T15:00:00+00:00",
-      "author": "TechCrunch Events",
-      "summary_raw": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "7758c76911afc460",
       "title": "Can John Ternus find Apple’s next big thing?",
       "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
@@ -1697,18 +1721,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "95e384b9a8118171",
-      "title": "Produkt zahodit, firmu zeštíhlit a přeskládat. Nové technologie nutí firmy začít znovu",
-      "url": "https://www.lupa.cz/clanky/produkt-zahodit-firmu-zestihlit-a-preskladat-nove-technologie-nuti-firmy-zacit-znovu/",
-      "published_at": "2026-09-21T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Řada technologických firem dlouho slavila úspěchy s řešením, které s rozvojem umělé inteligence přestalo dávat smysl. Přinášíme příběh jedné z těch, které zavřely oči a pustily se do vývoje znovu. I když to znamená propouštět a nechat být produkt, do kterého šlo čtvrt miliardy.",
-      "hero_image": "https://i.iinfo.cz/images/629/startupy-a-vyvoj-na-zelene-louce.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "741a88e9c29ce406",
@@ -1949,18 +1961,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "2b40cf40614f2c3f",
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "published_at": "2026-09-16T09:00:00+00:00",
-      "author": "",
-      "summary_raw": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
     },
     {
       "id": "a599c81bd1213815",
