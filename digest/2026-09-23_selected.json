@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-23",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic vydává model Claude Opus 5.5 s nižší cenou a špičkovým výkonem",
+      "title_orig": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost Anthropic představila svůj dosud nejvýkonnější model Claude Opus 5.5, který překonává předchozí verze v testech programování a logického uvažování.",
+        "Nový model přichází s výrazně nižší cenou za tokeny a vylepšenými bezpečnostními mechanismy, které mají zabránit zneužití v kyberbezpečnosti.",
+        "Opus 5.5 je navržen tak, aby minimalizoval riziko neautorizovaného úniku z testovacích sandboxů, což byla slabina starších verzí."
+      ],
+      "why_matters": "Přináší výrazně levnější přístup k nejvýkonnějšímu modelu na trhu, což sníží náklady českým vývojářům.",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI uvádí modely GPT-6 Sol a Luna, slibuje nižší náklady a méně chyb",
+      "title_orig": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI nečekaně reaguje na konkurenci a vydává dva nové modely z rodiny GPT-6 s názvy Sol a Luna.",
+        "Modely jsou navrženy tak, aby nabízely optimální rovnováhu mezi pokročilou inteligencí a provozními náklady pro každodenní nasazení.",
+        "Nové verze výrazně snižují chybovost a přinášejí efektivnější zpracování komplexních firemních úloh."
+      ],
+      "why_matters": "Nové modely GPT-6 Sol a Luna dělají pokročilou AI dostupnější pro běžné firemní integrace.",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Cenová válka v plném proudu: Claude Opus 5.5 a GPT-6 Sol a Luna mění trh",
+      "title_orig": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "category": "news",
+      "summary_cs": [
+        "Vydání modelů od Anthropicu a OpenAI v rozmezí jedné hodiny odstartovalo novou vlnu cenové války mezi technologickými giganty.",
+        "Analýza prvních testů ukazuje, že oba tábory se zaměřily na drastické snižování cen za volání API při zachování vysoké přesnosti.",
+        "Vývojáři nyní získávají bezprecedentní možnosti volby mezi extrémně rychlými a levnými modely nové generace."
+      ],
+      "why_matters": "Rychlý pokles cen špičkových modelů otevírá dveře masivnímu nasazení AI v českých podnicích.",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Jev představuje nový typ modelů zaměřených čistě na rozhodování a směrování",
+      "title_orig": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "category": "open-source",
+      "summary_cs": [
+        "Startup TypeSafe AI představil model Jev, který definuje novou kategorii takzvaných rozhodovacích modelů.",
+        "Místo generování dlouhých textů se Jev soustředí výhradně na klasifikaci, směrování úloh a rychlé binární rozhodování.",
+        "Díky této specializaci je model až stokrát rychlejší a dvěstěkrát levnější než běžné univerzální jazykové modely."
+      ],
+      "why_matters": "Umožňuje extrémně levné a rychlé větvení AI agentů bez nutnosti platit za drahé generativní modely.",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Xiaomi vydává špičkový open-weights model MiMo-V2.6-Pro vytrénovaný za 3 miliony dolarů",
+      "title_orig": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+      "category": "open-source",
+      "summary_cs": [
+        "Čínské výzkumné laboratoře Xiaomi uvolnily model MiMo-V2.6-Pro s otevřenými váhami, který nabízí vynikající parametry.",
+        "Trénink tohoto modelu stál přibližně 3 miliony dolarů a řadí ho na špičku aktuálně dostupných otevřených řešení.",
+        "Model vykazuje mimořádné výsledky v porozumění kontextu a představuje silnou alternativu k uzavřeným komerčním API."
+      ],
+      "why_matters": "Další silný open-source model, který mohou české firmy provozovat lokálně na vlastní infrastruktuře.",
+      "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Nové technologie nutí české firmy zahazovat staré produkty a začít znovu",
+      "title_orig": "Produkt zahodit, firmu zeštíhlit a přeskládat. Nové technologie nutí firmy začít znovu",
+      "category": "news",
+      "summary_cs": [
+        "Nástup pokročilé generativní AI likviduje byznys modely zavedených technologických firem, které stavěly na starších řešeních.",
+        "Článek popisuje reálný příběh firmy, která musela odepsat produkt za čtvrt miliardy korun a propustit část zaměstnanců.",
+        "Transformace a kompletní pivot na moderní AI architekturu se stává jedinou možností, jak přežít na měnícím se trhu."
+      ],
+      "why_matters": "Klíčová případová studie pro české manažery o nutnosti rychlé adaptace na AI éru.",
+      "url": "https://www.lupa.cz/clanky/produkt-zahodit-firmu-zestihlit-a-preskladat-nove-technologie-nuti-firmy-zacit-znovu/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 7,
+      "title_cs": "VZP umožní testování a dočasné proplácení nových AI technologií ve zdravotnictví",
+      "title_orig": "VZP pootevírá dveře technologiím a startupům, umožní je otestovat a na zkoušku hradit",
+      "category": "news",
+      "summary_cs": [
+        "Všeobecná zdravotní pojišťovna spouští inovativní program pro rychlejší vstup digitálních technologií do českých nemocnic.",
+        "Nové postupy využívající umělou inteligenci nebo vzdálený monitoring pacientů budou moci získat dočasnou úhradu.",
+        "Tento krok výrazně usnadní českým medicínským startupům klinické testování a nasazení jejich řešení v reálné praxi."
+      ],
+      "why_matters": "Zásadní příležitost pro české medtech startupy, jak dostat svá AI řešení k pacientům.",
+      "url": "https://www.lupa.cz/aktuality/vzp-pootevira-dvere-technologiim-a-startupum-umozni-je-otestovat-a-na-zkousku-hradit/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Rabbit se vrací s novou aplikací pro AI agenty, která nepotřebuje speciální hardware",
+      "title_orig": "Rabbit Is Back, This Time With an AI Agent App",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Rabbit, který dříve neuspěl se svým fyzickým zařízením R1, spouští agentní operační systém OS3.",
+        "Nový systém běží v cloudu a funguje jako aplikace přímo na obrazovkách systémů Windows, Mac a Linux.",
+        "Uživatelé tak mohou ovládat aplikace a automatizovat úkoly na svých stávajících počítačích bez nutnosti kupovat nový hardware."
+      ],
+      "why_matters": "Ukazuje posun od neúspěšného hardwaru k čistě softwarovým AI agentům pro každodenní práci.",
+      "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Snorkel AI trojnásobně zvyšuje svou hodnotu na 3,5 miliardy dolarů díky hladu po trénovacích datech",
+      "title_orig": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "category": "business",
+      "summary_cs": [
+        "Startup Snorkel AI získal v investičním kole Series E celkem 350 milionů dolarů, čímž jeho valuace vystřelila na 3,5 miliardy.",
+        "Firma se specializuje na automatizované štítkování a přípravu kvalitních trénovacích dat pro podnikové AI modely.",
+        "Masivní investice potvrzuje, že největší hodnotu v současné fázi AI boomu mají právě strukturovaná a čistá data."
+      ],
+      "why_matters": "Potvrzuje, že kvalitní příprava dat je momentálně nejvýnosnějším a nejdůležitějším sektorem v AI průmyslu.",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Nový nástroj odhalil malware řízený kolektivní inteligencí AI bez lidského zásahu",
+      "title_orig": "A New Tool Found Malware That’s Guided by an AI Hive Mind-No Humans in Sight",
+      "category": "wildcard",
+      "summary_cs": [
+        "Bezpečnostní analytici z týmu Cisco Talos vyvinuli nový framework pro detekci škodlivého kódu komunikujícího s AI chatboty.",
+        "Při testování objevili autonomní malware, který se při rozhodování o dalším postupu radí s koordinovanou sítí AI modelů.",
+        "Tento objev představuje první zdokumentovaný případ, kdy útoky neřídí přímo lidé, ale decentralizovaná AI infrastruktura."
+      ],
+      "why_matters": "Varovný signál pro české kyberbezpečnostní experty před novou érou autonomních hrozeb.",
+      "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "AI modely postavené na krysích mozcích se díky AWS přibližují realitě",
+      "title_orig": "AI Models Built From Rat Brains Just Got Closer to Reality",
+      "category": "research",
+      "summary_cs": [
+        "Společnost Biological Computing Company oznámila strategické partnerství s Amazon Web Services pro škálování biologických výpočtů.",
+        "Projekt se zaměřuje na propojení živých neuronových kultur z krysích mozků s klasickým křemíkovým kódem.",
+        "Integrace do cloudové infrastruktury AWS má tomuto dříve okrajovému vědeckému oboru poskytnout potřebný výpočetní výkon."
+      ],
+      "why_matters": "Fascinující pohled do budoucnosti biopočítačů, které mohou jednou nahradit energeticky náročné křemíkové čipy.",
+      "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Qualcomm uvádí nové mobilní čipy s důrazem na lokální běh 30B modelů",
+      "title_orig": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "category": "tools",
+      "summary_cs": [
+        "Qualcomm představil dva nové procesory pro chytré telefony, které jsou od základu optimalizované pro úkoly umělé inteligence.",
+        "Nejvyšší model dokáže přímo na zařízení lokálně spouštět komplexní Mixture-of-Experts modely o velikosti až 30 miliard parametrů.",
+        "Tento pokrok umožní používat pokročilé AI asistenty bez nutnosti odesílat citlivá data na vzdálené servery."
+      ],
+      "why_matters": "Umožní českým uživatelům provozovat vysoce bezpečné a rychlé AI aplikace přímo v kapse.",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Křišťálová Lupa 2026 spouští hlasování a nově oceňuje nejlepší AI projekty",
+      "title_orig": "Křišťálová Lupa 2026 otevírá hlasování. Ve hře je 140 projektů",
+      "category": "news",
+      "summary_cs": [
+        "Začalo finálové hlasování 21. ročníku prestižní ankety Křišťálová Lupa, která oceňuje nejzajímavější projekty českého internetu.",
+        "Letošní ročník nově reaguje na technologické trendy a zavádí specializovanou kategorii zaměřenou na AI projekty.",
+        "O přízeň veřejnosti a odborné poroty se uchází celkem 140 nominovaných projektů v patnácti různých kategoriích."
+      ],
+      "why_matters": "Skvělá příležitost pro zviditelnění a oslavu nejlepších tuzemských AI inovací.",
+      "url": "https://www.lupa.cz/clanky/kristalova-lupa-2026-otevira-hlasovani-ve-hre-je-140-projektu/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Shoda mezi AI hodnotiteli neznamená správnost kvůli systémové závislosti chyb",
+      "title_orig": "Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus",
+      "category": "research",
+      "summary_cs": [
+        "Nová vědecká studie zpochybňuje praxi, kdy se shoda několika AI hodnotitelů bere jako nezvratný důkaz správnosti výsledku.",
+        "Výzkumníci zjistili, že jelikož jsou modely trénovány na podobných datech, mají tendenci dělat naprosto stejné systematické chyby.",
+        "Spoléhání se na konsenzus AI soudců bez lidské supervize tak může vést k přehlížení závažných nedostatků v aplikacích."
+      ],
+      "why_matters": "Varuje české vývojáře před slepou důvěrou v automatizované testování kvality AI výstupů.",
+      "url": "https://arxiv.org/abs/2609.22512",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Jak šablony chatů ovlivňují sebeuvědomělý tón jazykových modelů",
+      "title_orig": "\"As a Language Model...\": Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It",
+      "category": "research",
+      "summary_cs": [
+        "Výzkum se zaměřil na to, proč modely často reagují frázemi typu Jako umělá inteligence nemohu splnit tento úkol.",
+        "Studie ukazuje, že toto chování je silně ovlivněno nastavením systémových šablon a lze jej snadno replikovat či potlačit.",
+        "Pochopení těchto mechanismů pomůže vývojářům lépe kontrolovat tón a osobnost nasazených konverzačních asistentů."
+      ],
+      "why_matters": "Pomáhá lépe odstraňovat otravné a repetitivní fráze z firemních chatbotů.",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "source": "ArXiv cs.LG"
+    }
+  ]
+}
