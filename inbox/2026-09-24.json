@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-24T04:01:53.251997+00:00",
+  "generated_at": "2026-09-24T09:19:13.831801+00:00",
   "date": "2026-09-24",
-  "article_count_unique": 167,
-  "article_count_raw": 167,
+  "article_count_unique": 169,
+  "article_count_raw": 169,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -164,16 +164,100 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 4,
-      "raw_count": 14
+      "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "0798f95704cc2b14",
+      "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
+      "published_at": "2026-09-24T09:12:28+00:00",
+      "author": "Last Week in AI",
+      "summary_raw": "A belated discussion of Astra&#8217;s release, a bunch of AI incidents, and the broader situation we are in with regards to AI safety.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!a22F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9feb67e-d790-44f8-8bc1-f1f3057fb185_783x461.png",
+      "source_id": "last_week_ai",
+      "source_name": "Last Week in AI",
+      "category": "newsletter"
+    },
+    {
+      "id": "62fede13dad5d24d",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "published_at": "2026-09-24T09:04:18+00:00",
+      "author": "Jess Weatherbed",
+      "summary_raw": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "1591b2a579f8642e",
+      "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+      "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+      "published_at": "2026-09-24T08:12:59+00:00",
+      "author": "",
+      "summary_raw": "Team Zuck is absolutely on fire.",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/JvyVwlP_nlw",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "05fb6818e9e7b54c",
+      "title": "Jak obstát pracovně i mentálně v době AI a geopolitického napětí? Poradí úspěšní čeští byznysmeni i vědci",
+      "url": "https://cc.cz/jak-obstat-pracovne-i-mentalne-v-dobe-ai-a-geopolitickeho-napeti-poradi-uspesni-cesti-byznysmeni-i-vedci/",
+      "published_at": "2026-09-24T08:11:18+00:00",
+      "author": "CzechCrunch",
+      "summary_raw": "Konference Innoforum v pražském DOXu nese téma odolnosti. Řeší, jak růst v nejistotě, rozhodovat pod tlakem a co čeká Evropu v bezpečnosti. Článek Jak obstát pracovně i mentálně v době AI a geopolitického napětí? Poradí úspěšní čeští byznysmeni i vědci se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/hofmanova-rogerova-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "2b1bbd3ab66f87c5",
+      "title": "AI agent OpenAI pronikl k neveřejným datům na vládním webu, oznámil australský premiér",
+      "url": "https://www.lupa.cz/aktuality/ai-agent-openai-pronikl-k-neverejnym-datum-na-vladnim-webu-oznamil-australsky-premier/",
+      "published_at": "2026-09-24T06:32:09+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: David Slížek)",
+      "summary_raw": "AI agent americké firmy OpenAI obe&#353;el zabezpečení a dostal se k neveřejným datům na jednom z webů provozovaných australským státním úřadem Services Australia. Na tiskové konferenci to oznámil australský premiér Anthony Albanese.",
+      "hero_image": "https://i.iinfo.cz/images/258/ai-sam-altman-openai.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "a6f7160219cd919a",
+      "title": "Tomáš Mikolov a Jaroslav Beck vydali druhý AI model. Opět výrazně snižuje „žravost“",
+      "url": "https://www.lupa.cz/aktuality/tomas-mikolov-a-jaroslav-beck-vydali-druhy-ai-model-opet-vyrazne-snizuje-zravost/",
+      "published_at": "2026-09-24T06:00:46+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Česká společnost BottleCap AI, za níž stojí Tomá&#353; Mikolov, Jaroslav Beck a Stanislav Fořt, vydala svůj druhý jazykový model pro umělou inteligenci (LLM). Řadí se do vznikající série modelů pojmenovaných ThinkingCap. I tentokrát jde o výrazně vylep&#353;enou verzi volně dostupného modelu Qwen od čínské společnosti Alibaba.",
+      "hero_image": "https://i.iinfo.cz/images/17/bottlecap-ai.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "57dfa355c7a5b962",
+      "title": "Válka o AI se už měří na minuty. Anthropic i OpenAI vydaly levnější modely, které méně klábosí a více pracují",
+      "url": "https://cc.cz/valka-o-ai-se-uz-meri-na-minuty-anthropic-i-openai-vydaly-levnejsi-modely-ktere-mene-klabosi-a-vice-pracuji/",
+      "published_at": "2026-09-24T04:30:31+00:00",
+      "author": "Michaela Prešinská",
+      "summary_raw": "Závod o dominanci v umělé inteligenci i přes obavy zrychluje. OpenAI i Anthropic ve stejný den ukázaly nové modely a srazily ceny o desítky procent. Článek Válka o AI se už měří na minuty. Anthropic i OpenAI vydaly levnější modely, které méně klábosí a více pracují se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/claude-chatgpt-x-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "77442959e7c82432",
       "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
@@ -967,18 +1051,6 @@
       "category": "commentary"
     },
     {
-      "id": "b65732e0990aab3a",
-      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-      "published_at": "2026-09-23T16:23:05+00:00",
-      "author": "Emma Roth",
-      "summary_raw": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the Ban Artificial Superintelligence Act, AI leaders would face up to 20 years [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294931488.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
       "id": "02302fecc9776d3d",
       "title": "Advancing Private AI Compute with secure, server-side memory",
       "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -1039,24 +1111,24 @@
       "category": "news"
     },
     {
-      "id": "8e7f653f1578dea4",
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "published_at": "2026-09-23T14:30:00+00:00",
-      "author": "Ivan Mehta",
-      "summary_raw": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "d08ab8809dd4774d",
       "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
       "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
       "published_at": "2026-09-23T14:30:00+00:00",
       "author": "TechCrunch Events",
       "summary_raw": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "8e7f653f1578dea4",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "published_at": "2026-09-23T14:30:00+00:00",
+      "author": "Ivan Mehta",
+      "summary_raw": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -1663,18 +1735,6 @@
       "category": "commentary"
     },
     {
-      "id": "02d116990bd663ba",
-      "title": "VZP pootevírá dveře technologiím a startupům, umožní je otestovat a na zkoušku hradit",
-      "url": "https://www.lupa.cz/aktuality/vzp-pootevira-dvere-technologiim-a-startupum-umozni-je-otestovat-a-na-zkousku-hradit/",
-      "published_at": "2026-09-22T13:07:34+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "V&#353;eobecná zdravotní poji&#353;ťovna (VZP) spou&#353;tí nový mechanismus pro vstup technologických inovací do českého zdravotnictví. Technologie typu umělá inteligence, vzdálený monitoring pacientů a nové digitální postupy tím mají získat rychlej&#353;í cestu do praxe, dočasně se zařadit mezi hrazené služby a případně být zařazeny do systému natrvalo.",
-      "hero_image": "https://i.iinfo.cz/images/146/zdarvotnictvi-lekar-vysetreni-1.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "fff55fa52c69b06d",
       "title": "What can you build with Jev",
       "url": "https://www.bensbites.com/p/what-can-you-build-with-jev",
@@ -1745,18 +1805,6 @@
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
       "category": "news"
-    },
-    {
-      "id": "25db519c9f2efead",
-      "title": "Křišťálová Lupa 2026 otevírá hlasování. Ve hře je 140 projektů",
-      "url": "https://www.lupa.cz/clanky/kristalova-lupa-2026-otevira-hlasovani-ve-hre-je-140-projektu/",
-      "published_at": "2026-09-22T06:48:04+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Redakce)",
-      "summary_raw": "Startuje finálové hlasování 21. ročníku Ceny českého Internetu. O přízeň veřejnosti a porot se uchází 140 projektů v 15 kategoriích. Nově se soutěží také v kategoriích AI projekt, Startup roku a Cena studentské poroty ČVUT.",
-      "hero_image": "https://i.iinfo.cz/images/43/kristalova-lupa-2026-start-hlasovani.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "3a899a50fb54b7b0",
@@ -2021,30 +2069,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "f356a2ee77751f1f",
-      "title": "Last Week in AI #344 - Navier–Stokes, Pacing the Frontier, AI Misuse",
-      "url": "https://lastweekin.ai/p/last-week-in-ai-344-navierstokes",
-      "published_at": "2026-09-17T08:02:55+00:00",
-      "author": "Last Week in AI",
-      "summary_raw": "OpenAI claims a Millennium Prize proof amid a feud with mathematicians, Anthropic's CEO calls to pace the frontier, extinction warnings spur a regulation push, and more!",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!8O1b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e0a37b2-d2dd-46ec-8a9b-2526c35b5a86_1254x1254.webp",
-      "source_id": "last_week_ai",
-      "source_name": "Last Week in AI",
-      "category": "newsletter"
-    },
-    {
-      "id": "3e0529d690d69120",
-      "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
-      "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
-      "published_at": "2026-09-17T07:28:25+00:00",
-      "author": "",
-      "summary_raw": "A dash of cold water keeps the foomers away.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!7Cec!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSP7dfeaEAAQZs_.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "6ecec0651dc509c4",
