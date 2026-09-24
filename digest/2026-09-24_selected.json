@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-24",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Mokrá laboratoř Anthropic hlásí průlom: Claude objevil nový enzymatický systém podobný CRISPR",
+      "title_orig": "Anthropic's biolab made a discovery it's comparing to Crispr",
+      "category": "labs",
+      "summary_cs": [
+        "Výzkumná laboratoř společnosti Anthropic oznámila, že model Claude autonomně objevil nový enzymatický systém s opakujícími se sekvencemi podobnými technologii CRISPR.",
+        "Jedná se o vůbec první významný vědecký objev z nově otevřené biologické laboratoře Anthropic, kde lidé stále fungují jako supervizoři v uzavřené smyčce.",
+        "Tento milník ukazuje reálný potenciál umělé inteligence při urychlování biologického výzkumu a objevování nových genetických nástrojů."
+      ],
+      "why_matters": "První reálný vědecký objev autonomně učiněný AI modelem otevírá novou éru syntetické biologie a medicíny.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Meta Connect 2026: Představení brýlí bez kamer a nového hardwaru pro AI agenta Muse",
+      "title_orig": "Meta Connect 2026: The biggest news and announcements",
+      "category": "news",
+      "summary_cs": [
+        "Meta na své výroční konferenci představila novou generaci chytrých brýlí Ray-Ban Meta, které záměrně neobsahují kamery pro vyšší soukromí a delší výdrž baterie.",
+        "Představen byl také fyzický gadget Muse Charm připomínající hodinky bez řemínku, který slouží jako dedikovaný domov pro AI asistenta Muse.",
+        "Zuckerberg potvrdil masivní integraci agenta Muse do všech nositelných zařízení včetně VR headsetů, což má změnit každodenní interakci s technologií."
+      ],
+      "why_matters": "Ukazuje přechod AI z cloudových chatů do fyzického světa prostřednictvím specializovaného a soukromí chránícího hardwaru.",
+      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Vláda posílá 700 milionů korun do nového fondu IP Lab Ventures na podporu univerzitních spin-offů",
+      "title_orig": "Vláda posílá 700 milionů do nového fondu, zaměří se i na AI. Řídí ho bývalý šéf Dáme jídlo",
+      "category": "news",
+      "summary_cs": [
+        "Česká vláda schválila investici 700 milionů korun do fondu IP Lab Ventures I, který se zaměří na přenos vědeckých nápadů z univerzit do komerčního byznysu.",
+        "Fond s cílovou částkou 1,2 miliardy korun využívá prostředky Evropského investičního fondu a Národního plánu obnovy.",
+        "Projekt, který vede bývalý šéf platformy Dáme jídlo, se bude významně soustředit na rozvoj českých projektů v oblasti umělé inteligence."
+      ],
+      "why_matters": "Zásadní finanční injekce pro českou akademickou scénu, která pomůže komercializovat tuzemské AI patenty a výzkum.",
+      "url": "https://cc.cz/vlada-posila-700-milionu-do-noveho-druhu-fondu-zameri-se-i-na-ai-ridi-ho-byvaly-sef-dame-jidlo/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Google uvádí Gemini 3.8 TTS s knihovnou hlasů a klonováním z krátké ukázky",
+      "title_orig": "Gemini 3.8 text-to-speech says hello",
+      "category": "labs",
+      "summary_cs": [
+        "Google představil dva nové modely zaměřené na převod textu na řeč, konkrétně gemini-3.8-flash-tts a odlehčenou verzi lite.",
+        "Modely přicházejí s rozsáhlou knihovnou obsahující více než 2 000 předpřipravených hlasů pro různé scénáře použití.",
+        "Nová technologie umožňuje vytvořit věrný vlastní hlas na základě pouhých 30 sekund zvukové nahrávky, ke které má uživatel práva."
+      ],
+      "why_matters": "Extrémně rychlé a levné klonování hlasu posouvá možnosti lokalizovaných hlasových asistentů pro české firmy.",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Český startup PangeAI získal investici od Kijonkových za model planety pro AI agenty",
+      "title_orig": "Startup Marka Miltnera a Johanny von der Leyen má nových 300 tisíc od Kijonkových",
+      "category": "news",
+      "summary_cs": [
+        "Tuzemský startup PangeAI, za kterým stojí Marek Miltner a Johanna von der Leyen, získal ocenění a finanční podporu v soutěži Nápad roku.",
+        "Investiční skupina JSK Investments manželů Kijonkových podpořila projekt částkou 300 tisíc korun na další technologický rozvoj.",
+        "PangeAI vyvíjí unikátní digitální model planety Země, který je optimalizovaný pro čtení a rozhodování autonomních AI agentů."
+      ],
+      "why_matters": "Úspěch českého projektu ukazuje, že i u nás vznikají globálně konkurenceschopné prostorové modely pro budoucí AI infrastrukturu.",
+      "url": "https://www.lupa.cz/aktuality/startup-marka-miltnera-a-johany-von-der-leyen-ma-novych-300-tisic-od-kijonkovych/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Bernie Sanders navrhuje zákaz vývoje superinteligence pod hrozbou vězení",
+      "title_orig": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "category": "news",
+      "summary_cs": [
+        "Americký senátor Bernie Sanders a kongresman Greg Casar představili návrh zákona, který by zcela zakázal vývoj umělé superinteligence.",
+        "Legislativa definuje superinteligenci jako technologii schopnou sebezničení nebo zbavení moci lidstva, včetně svržení vládních institucí.",
+        "Porušení tohoto zákazu by bylo klasifikováno jako závažný federální zločin s trestem odnětí svobody pro vývojáře i manažery."
+      ],
+      "why_matters": "Ukazuje rostoucí politický tlak na nejtvrdší možnou regulaci hraničních AI modelů v USA.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "YouTube zavádí tvorbu vlastních algoritmů doporučování pomocí Gemini",
+      "title_orig": "YouTube will let you build your own algorithm with AI",
+      "category": "news",
+      "summary_cs": [
+        "Platforma YouTube představila funkci uživatelských kanálů, která umožňuje popsat požadovaný obsah běžným přirozeným jazykem.",
+        "Integrovaný model Gemini následně na základě tohoto popisu sestaví personalizovaný doporučovací algoritmus na míru.",
+        "Uživatelé tak poprvé získávají přímou kontrolu nad tím, jaké typy videí jim platforma ve feedu nabízí."
+      ],
+      "why_matters": "Zásadní posun od pasivního konzumování algoritmů k aktivnímu řízení obsahu pomocí konverzační AI.",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Vážná bezpečnostní chyba v agentu Muse od Mety umožňovala ovládnutí počítačů Mac",
+      "title_orig": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "category": "news",
+      "summary_cs": [
+        "Nově vydaný AI asistent Muse od společnosti Meta obsahoval kritickou zranitelnost typu zero-day hned při svém spuštění.",
+        "Chyba umožňovala útočníkům vzdáleně spustit libovolný kód a získat plnou kontrolu nad operačním systémem macOS oběti.",
+        "Meta sice bleskově vydala opravu, ale incident zvýraznil bezpečnostní rizika spojená s integrací AI agentů hluboko do systému."
+      ],
+      "why_matters": "Varovný prst pro české administrátory a firmy nasazující autonomní agenty s přístupem k lokálním souborům.",
+      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Tichá selhání v interakci agentů s nástroji odhalují limity automatizace",
+      "title_orig": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+      "category": "research",
+      "summary_cs": [
+        "Nová studie podrobila auditu chování AI agentů v prostředí ToolUniverse se zaměřením na jejich schopnost volat externí nástroje.",
+        "Výzkum odhalil vysokou míru takzvaných tichých selhání, kdy agent věří, že úkol úspěšně splnil, ačkoliv nástroj vrátil chybu.",
+        "Autoři navrhují robustnější protokoly pro zpětnou vazbu, které by zabránily řetězení neviditelných chyb v automatických procesech."
+      ],
+      "why_matters": "Klíčový výzkum pro vývojáře, kteří staví agenty pro automatizaci firemních procesů a potřebují stoprocentní spolehlivost.",
+      "url": "https://arxiv.org/abs/2609.26836",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Kalifornie schválila přísnou regulaci transparentnosti datových center",
+      "title_orig": "Data centers are black boxes, but California wants to change that",
+      "category": "news",
+      "summary_cs": [
+        "Guvernér Gavin Newsom podepsal balík zákonů, které nutí provozovatele datových center zveřejňovat spotřebu vody a elektřiny.",
+        "Lokální komunity získají větší pravomoci při schvalování nových projektů s ohledem na zatížení místní rozvodné sítě.",
+        "Opatření reaguje na masivní rozvoj infrastruktury pro trénování a provoz energeticky náročných AI modelů."
+      ],
+      "why_matters": "Tento legislativní krok pravděpodobně ovlivní globální standardy reportování udržitelnosti u cloudových poskytovatelů.",
+      "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "TwinCheck zavádí verifikaci negativních scénářů pro spolehlivější AI agenty",
+      "title_orig": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
+      "category": "research",
+      "summary_cs": [
+        "Představená metoda TwinCheck řeší problém, kdy jedno chybné rozhodnutí agenta vykolejí celý dlouhý pracovní postup.",
+        "Systém během inference generuje a testuje alternativní negativní scénáře, aby ověřil správnost plánovaného kroku.",
+        "Tento přístup výrazně snižuje riziko nechtěných zásahů a zvyšuje autonomii agentů v dynamických prostředích."
+      ],
+      "why_matters": "Přináší novou vrstvu spolehlivosti pro nasazení AI v kritických systémech, kde jsou chyby nepřípustné.",
+      "url": "https://arxiv.org/abs/2609.26911",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Google DeepMind přichází se zabezpečenou serverovou pamětí pro osobní AI",
+      "title_orig": "Advancing Private AI Compute with secure, server-side memory",
+      "category": "labs",
+      "summary_cs": [
+        "Google DeepMind představil novou architekturu pro Private AI Compute, která přináší bezpečné ukládání osobních dat na straně serveru.",
+        "Technologie umožňuje modelům udržovat dlouhodobou paměť o uživateli bez rizika úniku citlivých informací třetím stranám.",
+        "Řešení kombinuje hardwarově šifrovaná úložiště s pokročilými kryptografickými protokoly pro ochranu soukromí."
+      ],
+      "why_matters": "Umožňuje vznik skutečně osobních asistentů s dlouhodobou pamětí, kteří splňují nejpřísnější standardy ochrany dat.",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Matematické uvažování v LLM se organizuje podle metody, nikoli podle tématu",
+      "title_orig": "Math Reasoning in LLMs is Organized by Approach, Not Topic",
+      "category": "research",
+      "summary_cs": [
+        "Analýza vnitřních reprezentací matematicky zdatných modelů ukázala, že jejich neurony se neorganizují podle témat jako aritmetika či algebra.",
+        "Místo toho modely seskupují své výpočty podle univerzálních metodických přístupů a algoritmických vzorců.",
+        "Tento objev může pomoci při efektivnějším trénování a ladění modelů pro komplexní logické úlohy."
+      ],
+      "why_matters": "Pomáhá lépe pochopit vnitřní fungování neuronových sítí a optimalizovat jejich schopnosti řešit složité úkoly.",
+      "url": "https://arxiv.org/abs/2609.27041",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Propose, Don't Judge: Nový přístup k autonomnímu finančnímu výzkumu s AI",
+      "title_orig": "Propose, Don't Judge: An Anytime-Valid Referee for LLM Agents That Mine Investment Factors",
+      "category": "research",
+      "summary_cs": [
+        "Vědci navrhli nový rámec pro zapojení AI agentů do kvantitativního finančního výzkumu a hledání investičních faktorů.",
+        "Podle studie by agenti měli sloužit výhradně k navrhování nových strategií, nikoliv k jejich finálnímu hodnocení a schvalování.",
+        "Zavedení nezávislého statistického rozhodčího výrazně snižuje riziko přeoptimování modelů na historických datech."
+      ],
+      "why_matters": "Definuje bezpečné hranice pro využití AI v investičním rozhodování a algoritmickém obchodování.",
+      "url": "https://arxiv.org/abs/2609.27051",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Nvidia Warp a MjWarp urychlují simulace pro robotické učení",
+      "title_orig": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "category": "labs",
+      "summary_cs": [
+        "Nvidia a Hugging Face vydaly průvodce pro integraci nástrojů Warp a MjWarp do procesů trénování robotů.",
+        "Tyto knihovny umožňují masivně paralelní simulace fyzikálního světa přímo na grafických kartách s minimální režií.",
+        "Nové postupy dramaticky zkracují čas potřebný pro učení posilováním v robotických úlohách z týdnů na hodiny."
+      ],
+      "why_matters": "Zrychluje vývoj fyzických robotů a jejich schopnost adaptovat se na reálné prostředí pomocí simulací.",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face Blog"
+    }
+  ]
+}
