@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-25T04:01:50.185695+00:00",
+  "generated_at": "2026-09-25T09:37:02.007711+00:00",
   "date": "2026-09-25",
-  "article_count_unique": 167,
-  "article_count_raw": 167,
+  "article_count_unique": 164,
+  "article_count_raw": 164,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "wired_ai",
@@ -163,17 +163,77 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 5,
+      "count": 4,
       "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "52b84798e49bd640",
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "author": "Jessica Hamzelou",
+      "summary_raw": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "e5446772cc21338d",
+      "title": "[AINews] The Future of Latent Space",
+      "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+      "published_at": "2026-09-25T05:37:00+00:00",
+      "author": "",
+      "summary_raw": "A quiet day lets us discuss the work behind the scenes - now open for business!",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!Ndvv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eb94ca5-a315-4307-9f69-724a59c08af1_2132x1120.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "7548decc84c3249e",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "published_at": "2026-09-25T05:00:00+00:00",
+      "author": "Jagmeet Singh",
+      "summary_raw": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "47784393f2e96325",
+      "title": "Cendra za miliardy prodal část CDN77, pro Mistral a Palantir budou dělat Češi, evropský procesor je zde",
+      "url": "https://www.lupa.cz/clanky/cendra-za-miliardy-prodal-cast-cdn77-pro-mistral-a-palantir-budou-delat-cesi-evropsky-procesor-je-zde/",
+      "published_at": "2026-09-25T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Nové grafické karty asi až v roce 2028. Nové modely OpenAI a Anthropic. Googlebooky přichází. Meta VR Glasses. Zprávy z IT, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/658/meta-vr-glasses.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "fac4a84dfa5c760b",
+      "title": "Chytrá aplikace přidala Metě 200 miliard dolarů. Uživatele v USA nabrala, teď musí ukázat i výdělky",
+      "url": "https://cc.cz/chytra-aplikace-pridala-mete-200-miliard-dolaru-uzivatele-v-usa-nabrala-ted-musi-ukazat-i-vydelky/",
+      "published_at": "2026-09-25T04:16:38+00:00",
+      "author": "Václav Kinský",
+      "summary_raw": "Nový AI agent změnil pohled investorů na Metu a nabídl první přímou cestu, jak vydělávat na jejích obřích investicích do umělé inteligence. Článek Chytrá aplikace přidala Metě 200 miliard dolarů. Uživatele v USA nabrala, teď musí ukázat i výdělky se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/money-maker-recap-final-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "98a42f77fae839d2",
       "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
@@ -595,6 +655,18 @@
       "category": "news"
     },
     {
+      "id": "57d31eb9350d3e19",
+      "title": "Víc než 300krát levněji. Zdejší e-shop vyměnil AI agenty za model, který pobláznil IT komunitu, a ukázal výsledky",
+      "url": "https://www.lupa.cz/aktuality/vic-nez-300krat-levneji-zdejsi-e-shop-vymenil-ai-agenty-za-model-ktery-poblaznil-it-komunitu-a-ukazal-vysledky/",
+      "published_at": "2026-09-24T19:40:40+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "E-shop Mironet nasadil nový druh umělé inteligence s názvem Jev od vývojářského studia TypeSafe AI. Jde o umělou inteligenci zveřejněnou 15. září, která neumí napsat ani větu, zato odpoví na otázku ano/ne nebo třeba vybere z daných možností, popisuje Patrick Zandl. Vzhledem k tomu, že &#353;etří výkon a čas tím, že nesestavuje slova a věty, je podle dosavadních výsledků výrazně rychlej&#353;í a levněj&#353;í a zároveň nehalucinuje. Mironet se podělil o své zku&#353;enosti: náklady mají být až 343krát niž&#353;í, přesnost o 30 až 40 % vy&#353;&#353;í a rozhodování 19krát rychlej&#353;í.",
+      "hero_image": "https://i.iinfo.cz/images/41/robert-novotny-mironet.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
       "id": "54eb4cf3159731b7",
       "title": "I Think I Found an AI Agent Worth the Risk",
       "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
@@ -607,6 +679,18 @@
       "category": "news"
     },
     {
+      "id": "2b1bbd3ab66f87c5",
+      "title": "AI agent OpenAI pronikl k neveřejným datům na vládním webu, oznámil australský premiér",
+      "url": "https://www.lupa.cz/aktuality/ai-agent-openai-pronikl-k-neverejnym-datum-na-vladnim-webu-oznamil-australsky-premier/",
+      "published_at": "2026-09-24T19:32:09+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: David Slížek)",
+      "summary_raw": "AI agent americké firmy OpenAI obe&#353;el zabezpečení a dostal se k neveřejným datům na jednom z webů provozovaných australským státním úřadem Services Australia. Na tiskové konferenci to oznámil australský premiér Anthony Albanese.",
+      "hero_image": "https://i.iinfo.cz/images/258/ai-sam-altman-openai.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
       "id": "7034b20c42ea6aaf",
       "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
       "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
@@ -617,6 +701,18 @@
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
       "category": "news"
+    },
+    {
+      "id": "a6f7160219cd919a",
+      "title": "Tomáš Mikolov a Jaroslav Beck vydali druhý AI model. Opět výrazně snižuje „žravost“",
+      "url": "https://www.lupa.cz/aktuality/tomas-mikolov-a-jaroslav-beck-vydali-druhy-ai-model-opet-vyrazne-snizuje-zravost/",
+      "published_at": "2026-09-24T19:28:46+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Česká společnost BottleCap AI, za níž stojí Tomá&#353; Mikolov a Jaroslav Beck, vydala svůj druhý jazykový model pro umělou inteligenci (LLM). Řadí se do vznikající série modelů pojmenovaných ThinkingCap. I tentokrát jde o výrazně vylep&#353;enou verzi volně dostupného modelu Qwen od čínské společnosti Alibaba.",
+      "hero_image": "https://i.iinfo.cz/images/17/bottlecap-ai.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
     },
     {
       "id": "063b1d069b90a8d6",
@@ -979,18 +1075,6 @@
       "category": "cz"
     },
     {
-      "id": "57d31eb9350d3e19",
-      "title": "Víc než 300krát levněji. Zdejší e-shop vyměnil AI agenty za model, který pobláznil IT komunitu, a ukázal výsledky",
-      "url": "https://www.lupa.cz/aktuality/vic-nez-300krat-levneji-zdejsi-e-shop-vymenil-ai-agenty-za-model-ktery-poblaznil-it-komunitu-a-ukazal-vysledky/",
-      "published_at": "2026-09-24T14:40:40+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "E-shop Mironet nasadil nový druh umělé inteligence s názvem Jev od vývojářského studia TypeSafe AI. Jde o umělou inteligenci zveřejněnou 15. září, která neumí napsat ani větu, zato odpoví na otázku ano/ne nebo třeba vybere z daných možností, popisuje Patrick Zandl. Vzhledem k tomu, že &#353;etří výkon a čas tím, že nesestavuje slova a věty, je podle dosavadních výsledků výrazně rychlej&#353;í a levněj&#353;í a zároveň nehalucinuje. Mironet se podělil o své zku&#353;enosti: náklady mají být až 343krát niž&#353;í, přesnost o 30 až 40 % vy&#353;&#353;í a rozhodování 19krát rychlej&#353;í.",
-      "hero_image": "https://i.iinfo.cz/images/41/robert-novotny-mironet.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "16f8744989f2b5bd",
       "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
       "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
@@ -1207,54 +1291,6 @@
       "category": "commentary"
     },
     {
-      "id": "05fb6818e9e7b54c",
-      "title": "Jak obstát pracovně i mentálně v době AI a geopolitického napětí? Poradí úspěšní čeští byznysmeni i vědci",
-      "url": "https://cc.cz/jak-obstat-pracovne-i-mentalne-v-dobe-ai-a-geopolitickeho-napeti-poradi-uspesni-cesti-byznysmeni-i-vedci/",
-      "published_at": "2026-09-24T08:11:18+00:00",
-      "author": "CzechCrunch",
-      "summary_raw": "Konference Innoforum v pražském DOXu nese téma odolnosti. Řeší, jak růst v nejistotě, rozhodovat pod tlakem a co čeká Evropu v bezpečnosti. Článek Jak obstát pracovně i mentálně v době AI a geopolitického napětí? Poradí úspěšní čeští byznysmeni i vědci se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/hofmanova-rogerova-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "2b1bbd3ab66f87c5",
-      "title": "AI agent OpenAI pronikl k neveřejným datům na vládním webu, oznámil australský premiér",
-      "url": "https://www.lupa.cz/aktuality/ai-agent-openai-pronikl-k-neverejnym-datum-na-vladnim-webu-oznamil-australsky-premier/",
-      "published_at": "2026-09-24T06:32:09+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: David Slížek)",
-      "summary_raw": "AI agent americké firmy OpenAI obe&#353;el zabezpečení a dostal se k neveřejným datům na jednom z webů provozovaných australským státním úřadem Services Australia. Na tiskové konferenci to oznámil australský premiér Anthony Albanese.",
-      "hero_image": "https://i.iinfo.cz/images/258/ai-sam-altman-openai.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "a6f7160219cd919a",
-      "title": "Tomáš Mikolov a Jaroslav Beck vydali druhý AI model. Opět výrazně snižuje „žravost“",
-      "url": "https://www.lupa.cz/aktuality/tomas-mikolov-a-jaroslav-beck-vydali-druhy-ai-model-opet-vyrazne-snizuje-zravost/",
-      "published_at": "2026-09-24T06:00:46+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Česká společnost BottleCap AI, za níž stojí Tomá&#353; Mikolov, Jaroslav Beck a Stanislav Fort, vydala svůj druhý jazykový model pro umělou inteligenci (LLM). Řadí se do vznikající série modelů pojmenovaných ThinkingCap. I tentokrát jde o výrazně vylep&#353;enou verzi volně dostupného modelu Qwen od čínské společnosti Alibaba.",
-      "hero_image": "https://i.iinfo.cz/images/17/bottlecap-ai.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "57dfa355c7a5b962",
-      "title": "Válka o AI se už měří na minuty. Anthropic i OpenAI vydaly levnější modely, které méně klábosí a více pracují",
-      "url": "https://cc.cz/valka-o-ai-se-uz-meri-na-minuty-anthropic-i-openai-vydaly-levnejsi-modely-ktere-mene-klabosi-a-vice-pracuji/",
-      "published_at": "2026-09-24T04:30:31+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Závod o dominanci v umělé inteligenci i přes obavy zrychluje. OpenAI i Anthropic ve stejný den ukázaly nové modely a srazily ceny o desítky procent. Článek Válka o AI se už měří na minuty. Anthropic i OpenAI vydaly levnější modely, které méně klábosí a více pracují se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/claude-chatgpt-x-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "5939c752fdcb9f7d",
       "title": "Everything new coming to Meta’s AI agent Muse",
       "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
@@ -1408,18 +1444,6 @@
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Andurils-fire-retardant-balls-explode-on-fire-target-1152x648.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "f314b1a96a353958",
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "published_at": "2026-09-23T19:31:28+00:00",
-      "author": "Marina Temkin",
-      "summary_raw": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
       "category": "news"
     },
     {
@@ -1627,18 +1651,6 @@
       "category": "labs"
     },
     {
-      "id": "653d50bcbb2e1b95",
-      "title": "České univerzitní nápady mají dostat až miliardu na cestu z laboratoře do byznysu, většina peněz jde z Evropy",
-      "url": "https://www.lupa.cz/aktuality/ceske-univerzitni-napady-maji-dostat-az-miliardu-na-cestu-z-laboratore-do-byznysu-vetsina-penez-jde-z-evropy/",
-      "published_at": "2026-09-23T10:48:52+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Nápady z českých univerzit mají dostat nový kapitál na cestu z laboratoře do byznysu. Rozvoj takzvaných spin-offů, tedy firem, které vznikly na univerzitě, chce podpořit i Ministerstvo průmyslu a obchodu. Vznikl proto fond IP Lab Ventures I, který s penězi Evropského investičního fondu (EIF) a z Národního plánu obnovy dosáhne podle předpokladů spolu se soukromým kapitálem velikosti až 40 milionů eur (skoro miliarda Kč). Investovat má do umělé inteligence, robotiky, polovodičů, biotechnologií nebo nových materiálů.",
-      "hero_image": "https://i.iinfo.cz/images/651/euro-penize-1.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "379693480b231da8",
       "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
       "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
@@ -1661,42 +1673,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "0dd842dcfb14be04",
-      "title": "The AI Hype Index: AI loves cheating",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "published_at": "2026-09-23T09:00:00+00:00",
-      "author": "Michelle Kim",
-      "summary_raw": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "ff1f6ae092a6a510",
-      "title": "Smart glasses are already causing havoc in India",
-      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
-      "published_at": "2026-09-23T09:00:00+00:00",
-      "author": "Anuj Behal",
-      "summary_raw": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "a337aedbcf611980",
-      "title": "Startup Marka Miltnera a Johanny von der Leyen má nových 300 tisíc od Kijonkových",
-      "url": "https://www.lupa.cz/aktuality/startup-marka-miltnera-a-johany-von-der-leyen-ma-novych-300-tisic-od-kijonkovych/",
-      "published_at": "2026-09-23T07:55:34+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Startup PangeAI, který tvoří vlastní model planety Země v podobě, které rozumějí AI agenti, zaujal v rámci Nápadu roku &#8211; nejstar&#353;í startupové soutěže v Česku. Jako vítěz získal 300 tisíc Kč od JSK Investments manželů Kijonkových.",
-      "hero_image": "https://i.iinfo.cz/images/65/johanna-von-der-leyen-a-marek-miltner-pangeai.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "3f2dba7bbc99c2c3",
@@ -1963,8 +1939,8 @@
       "category": "labs"
     },
     {
-      "id": "741a88e9c29ce406",
-      "title": "How V7 gives AI agents institutional memory",
+      "id": "d6dda8ca096ae7e4",
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
       "url": "https://openai.com/index/v7",
       "published_at": "2026-09-21T00:00:00+00:00",
       "author": "",
@@ -2033,18 +2009,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "cf836a8e645a2460",
-      "title": "[AINews] not much happened today",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
-      "published_at": "2026-09-18T06:28:43+00:00",
-      "author": "",
-      "summary_raw": "a quiet day",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "6ecec0651dc509c4",
