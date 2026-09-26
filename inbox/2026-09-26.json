@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-26T04:02:07.209435+00:00",
+  "generated_at": "2026-09-26T09:21:38.697403+00:00",
   "date": "2026-09-26",
-  "article_count_unique": 130,
-  "article_count_raw": 130,
+  "article_count_unique": 128,
+  "article_count_raw": 128,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 11,
-      "raw_count": 11
+      "count": 10,
+      "raw_count": 10
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,12 +164,12 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 3,
-      "raw_count": 12
+      "raw_count": 11
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "raw_count": 10
     }
   ],
@@ -784,18 +784,6 @@
       "hero_image": "https://i.iinfo.cz/images/658/meta-vr-glasses.png",
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "fac4a84dfa5c760b",
-      "title": "Chytrá aplikace přidala Metě 200 miliard dolarů. Uživatele v USA nabrala, teď musí ukázat i výdělky",
-      "url": "https://cc.cz/chytra-aplikace-pridala-mete-200-miliard-dolaru-uzivatele-v-usa-nabrala-ted-musi-ukazat-i-vydelky/",
-      "published_at": "2026-09-25T04:16:38+00:00",
-      "author": "Václav Kinský",
-      "summary_raw": "Nový AI agent změnil pohled investorů na Metu a nabídl první přímou cestu, jak vydělávat na jejích obřích investicích do umělé inteligence. Článek Chytrá aplikace přidala Metě 200 miliard dolarů. Uživatele v USA nabrala, teď musí ukázat i výdělky se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/money-maker-recap-final-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
       "category": "cz"
     },
     {
@@ -1588,18 +1576,6 @@
       "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/db8863aa-02d1-4312-af95-965ef0d7ca9b_3182x1790.png",
       "source_id": "interconnects",
       "source_name": "Interconnects (Nathan Lambert)",
-      "category": "commentary"
-    },
-    {
-      "id": "27102210aa6aab98",
-      "title": "[AINews] Here are 6 Clones of Jev in 2 days",
-      "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
-      "published_at": "2026-09-19T05:48:28+00:00",
-      "author": "",
-      "summary_raw": "Imitation is the sincerest form of Flattery",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!0a7_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSiGtZba0AEezOP.jpg",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
       "category": "commentary"
     },
     {
