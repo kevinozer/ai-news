@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27T04:01:20.747237+00:00",
+  "generated_at": "2026-09-27T10:00:30.888754+00:00",
   "date": "2026-09-27",
-  "article_count_unique": 112,
-  "article_count_raw": 112,
+  "article_count_unique": 108,
+  "article_count_raw": 108,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "wired_ai",
@@ -163,13 +163,13 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 11
+      "count": 1,
+      "raw_count": 10
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "raw_count": 10
     }
   ],
@@ -763,18 +763,6 @@
       "category": "cz"
     },
     {
-      "id": "bf2b723280b543fe",
-      "title": "AI pomáhá sázkovému kolosu vytipovat problémové gamblery. A ty pak zasypává bonusy, aby sázeli ještě víc",
-      "url": "https://cc.cz/ai-pomaha-sazkovemu-kolosu-vytipovat-problemove-gamblery-a-ty-pak-zasypava-bonusy-aby-sazeli-jeste-vic/",
-      "published_at": "2026-09-25T13:18:05+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Známá americká sázkovka pomocí AI hledá hráče s nejvyšším potenciálem prohrávat. Těm pak nabízí bonusy, aby u ní utráceli více peněz. Článek AI pomáhá sázkovému kolosu vytipovat problémové gamblery. A ty pak zasypává bonusy, aby sázeli ještě víc se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/ai-1-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "04ad49093f6c6b99",
       "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
       "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
@@ -835,30 +823,6 @@
       "category": "news"
     },
     {
-      "id": "5b35f0494714a915",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "published_at": "2026-09-25T09:16:25+00:00",
-      "author": "Amit Katwala",
-      "summary_raw": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Altec_Poly_2.jpeg",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "52b84798e49bd640",
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-      "published_at": "2026-09-25T09:00:00+00:00",
-      "author": "Jessica Hamzelou",
-      "summary_raw": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "e5446772cc21338d",
       "title": "[AINews] The Future of Latent Space",
       "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
@@ -869,18 +833,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "47784393f2e96325",
-      "title": "Cendra za miliardy prodal část CDN77, pro Mistral a Palantir budou dělat Češi, evropský procesor je zde",
-      "url": "https://www.lupa.cz/clanky/cendra-za-miliardy-prodal-cast-cdn77-pro-mistral-a-palantir-budou-delat-cesi-evropsky-procesor-je-zde/",
-      "published_at": "2026-09-25T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Nové grafické karty asi až v roce 2028. Nové modely OpenAI a Anthropic. Googlebooky přichází. Meta VR Glasses. Zprávy z IT, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/658/meta-vr-glasses.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "cbe07494fe91e4ca",
