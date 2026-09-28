@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28T04:01:59.752472+00:00",
+  "generated_at": "2026-09-28T10:54:26.946598+00:00",
   "date": "2026-09-28",
-  "article_count_unique": 88,
-  "article_count_raw": 88,
+  "article_count_unique": 90,
+  "article_count_raw": 90,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -19,20 +19,20 @@
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 0,
-      "raw_count": 0
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 19,
-      "raw_count": 19
+      "count": 17,
+      "raw_count": 17
     },
     {
       "source_id": "anthropic_news",
@@ -67,8 +67,8 @@
     {
       "source_id": "huggingface_blog",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "import_ai",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "latent_space",
@@ -164,16 +164,100 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 0,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "302c80a762ccaa03",
+      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+      "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+      "published_at": "2026-09-28T10:00:00+00:00",
+      "author": "Kate Taylor",
+      "summary_raw": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
+      "hero_image": "https://media.wired.com/photos/6ab67a543b15d40264a17301/master/pass/092526-AI%20Coworker.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "d2414d5a7ea39f18",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "published_at": "2026-09-28T09:44:05+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "e5eda21227a2e6cf",
+      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+      "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+      "published_at": "2026-09-28T09:30:00+00:00",
+      "author": "Sophia Chen",
+      "summary_raw": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
+      "hero_image": "https://media.wired.com/photos/6ab66fcabccfe76e77e84940/master/pass/092526-Math%20Art%20AI.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "3ab7be245cf2b8fd",
+      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+      "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "author": "Joel Khalili",
+      "summary_raw": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
+      "hero_image": "https://media.wired.com/photos/6ab2c77aa4511820fe187b66/master/pass/People-Training-AI-to-Understand-Physical-World-With-Video-Games-Business.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "e1d9b25988216e4e",
+      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+      "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "author": "Lauren Goode, Lily Hay Newman",
+      "summary_raw": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+      "hero_image": "https://media.wired.com/photos/6aba2329e8d78c42cabc4ad2/master/pass/092826-Nvidia%20OpenShell.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "a48a080004fce727",
+      "title": "Who’s liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "published_at": "2026-09-28T08:06:22+00:00",
+      "author": "Michelle Kim",
+      "summary_raw": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "f914f2735b2dd1af",
+      "title": "Quoting Muse AI Agent",
+      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "published_at": "2026-09-28T04:01:30+00:00",
+      "author": "",
+      "summary_raw": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't available, which is on me. That's a bad look and it made the no-show worse. I've sent him an apology from your account owning it and offering to try again another day. But the negative rating is real, and I should probably stop the auto-replies from claiming you're home when I can't verify that. Want me to change the pickup replies so they don't promise you're there? &mdash; Muse AI Agent , working on behalf of @matt.j.robb Tags: meta , generative-ai , muse-agent , ai , general-agents , llms",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
     {
       "id": "60f1d463fcbd1eeb",
       "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
@@ -360,7 +444,7 @@
       "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
       "published_at": "2026-09-27T23:54:15+00:00",
       "author": "",
-      "summary_raw": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube ; here are my annotated slides and notes to accompany the talk. # I'm going to give a lightning tour of everything that has happened so far in 2026. The year isn't over yet! # For me, 2026 started a couple of months earlier in November 2025. # November saw the release of two important models: Claude Opus 4.5 and GPT-5.1. As is usually the case with new models, these were incremental improvements on the models that came before them. But every now and then when a model improves, it crosses an invisible line where something that didn't really work starts working. In this case, the thing that started working was their coding agents. Claude Code had been around since February 2025, Codex was a little younger. These two new models, when paired with their respective coding agent harnesses, improved from \"often make mistakes\" to \"reliable enough to use on a day-to-day basis\". # For a couple of years now I've been evaluating new models by asking them to \"Generate an SVG of a pelican riding a bicycle\". It's probably the world's stupidest benchmark - there's only so much you can learn from it. But it's still a challenge for models, because drawing pelicans is difficult, drawing bicycles is difficult, and pelicans can't ride bicycles in the first place. Here's the state of the art for November. Claude still couldn't really draw a bicycle! The GPT-5.1 bicycle frame is pretty crap too. # Also in November, we had the first commit to an obscure GitHub repository called \"Warelay\". We'll come back to this repository shortly. # An then there were the December holidays, and individual developers took some time off and many started tinkering with these new coding agent model combinations... and it began to dawn on us quite how much they could do…",
+      "summary_raw": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube ; here are my annotated slides and notes to accompany the talk. And as an annotated presentation : # I'm going to give a lightning tour of everything that has happened so far in 2026. The year isn't over yet! # For me, 2026 started a couple of months earlier in November 2025. # November saw the release of two important models: Claude Opus 4.5 and GPT-5.1. As is usually the case with new models, these were incremental improvements on the models that came before them. But every now and then when a model improves, it crosses an invisible line where something that didn't really work starts working. In this case, the thing that started working was their coding agents. Claude Code had been around since February 2025, Codex was a little younger. These two new models, when paired with their respective coding agent harnesses, improved from \"often make mistakes\" to \"reliable enough to use on a day-to-day basis\". # For a couple of years now I've been evaluating new models by asking them to \"Generate an SVG of a pelican riding a bicycle\". It's probably the world's stupidest benchmark - there's only so much you can learn from it. But it's still a challenge for models, because drawing pelicans is difficult, drawing bicycles is difficult, and pelicans can't ride bicycles in the first place. Here's the state of the art for November. Claude still couldn't really draw a bicycle! The GPT-5.1 bicycle frame is pretty crap too. # Also in November, we had the first commit to an obscure GitHub repository called \"Warelay\". We'll come back to this repository shortly. # An then there were the December holidays, and individual developers took some time off and many started tinkering with these new coding agent model combinations... and it began to dawn…",
       "hero_image": "https://static.simonwillison.net/static/2026/2026-in-llms/simon-willison-2026-in-llms-png.001.webp",
       "source_id": "simonw",
       "source_name": "Simon Willison's Weblog",
@@ -532,42 +616,6 @@
       "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source_id": "verge_ai",
       "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "f15a89333b027495",
-      "title": "Výuku angličtiny obrátil naruby. Se startupem poprvé neuspěl, teď mu vývoj ulehčila umělá inteligence",
-      "url": "https://cc.cz/vyuku-anglictiny-obratil-naruby-se-startupem-poprve-neuspel-ted-mu-vyvoj-ulehcila-umela-inteligence/",
-      "published_at": "2026-09-26T11:06:27+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "„Když se učíte jazyk, dostanete hromadu textu a zkoušíte si výslovnost vydedukovat. To je problém,“ popisuje Čech Adam Carson. Článek Výuku angličtiny obrátil naruby. Se startupem poprvé neuspěl, teď mu vývoj ulehčila umělá inteligence se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/adam-carson-say-worcester-2-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "c9bfa380fdc102fa",
-      "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
-      "published_at": "2026-09-26T10:45:09+00:00",
-      "author": "Aarian Marshall, wired.com",
-      "summary_raw": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/teslasemi-1024x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "491d7732fa51614f",
-      "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-      "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
-      "published_at": "2026-09-26T10:30:00+00:00",
-      "author": "Reece Rogers",
-      "summary_raw": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
-      "hero_image": "https://media.wired.com/photos/6ab6a33ebc7793cf754905a1/master/pass/GettyImages-2296209094.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
       "category": "news"
     },
     {
@@ -1073,30 +1121,6 @@
       "source_id": "interconnects",
       "source_name": "Interconnects (Nathan Lambert)",
       "category": "commentary"
-    },
-    {
-      "id": "b21a34e8102fc287",
-      "title": "Building standards for the next phase of AI",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "published_at": "2026-09-21T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "604a06939b57c9fd",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "published_at": "2026-09-21T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
     },
     {
       "id": "6ecec0651dc509c4",
