@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T04:02:07.685439+00:00",
+  "generated_at": "2026-09-29T10:41:21.759057+00:00",
   "date": "2026-09-29",
-  "article_count_unique": 144,
-  "article_count_raw": 144,
+  "article_count_unique": 147,
+  "article_count_raw": 147,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 18,
-      "raw_count": 18
+      "count": 19,
+      "raw_count": 19
     },
     {
       "source_id": "anthropic_news",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 12,
-      "raw_count": 12
+      "count": 11,
+      "raw_count": 11
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,16 +164,64 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 0,
-      "raw_count": 1
+      "raw_count": 5
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "5e38b1221dfb756c",
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "published_at": "2026-09-29T10:36:22+00:00",
+      "author": "Isabella Ward",
+      "summary_raw": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+      "hero_image": "https://media.wired.com/photos/6abb79f89de9cbda7c9ca7ba/master/pass/092926-OpenAI%20Scrap.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "0a7a36fd7cc21f57",
+      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+      "published_at": "2026-09-29T10:30:00+00:00",
+      "author": "Lauren Goode",
+      "summary_raw": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
+      "hero_image": "https://media.wired.com/photos/6ab58bd8630fd3fdf523eab4/master/pass/Big-Interview-UV-Solo-Timnit-Gebru-2266305419-Business.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "1c41dc6c638290b7",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "published_at": "2026-09-29T05:13:43+00:00",
+      "author": "Connie Loizos",
+      "summary_raw": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "171a871a0d002ef1",
+      "title": "Nejlepší týmy mají až milion dolarů tržeb na člověka. Propouštění kvůli AI je často nevyhnutelné, říká investor",
+      "url": "https://cc.cz/nejlepsi-tymy-maji-az-milion-dolaru-trzeb-na-cloveka-propousteni-kvuli-ai-je-casto-nevyhnutelne-rika/",
+      "published_at": "2026-09-29T04:16:31+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Investor Tomáš Pačinda ze startupového fondu Kaya VC v rozhovoru mluví o změnách, které s sebou přináší umělá inteligence. Článek Nejlepší týmy mají až milion dolarů tržeb na člověka. Propouštění kvůli AI je často nevyhnutelné, říká investor se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/tomas-pacinda-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "60f1d463fcbd1eeb",
       "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
@@ -799,6 +847,18 @@
       "category": "labs"
     },
     {
+      "id": "af60a5fb197a6933",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "published_at": "2026-09-28T19:00:00+00:00",
+      "author": "",
+      "summary_raw": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
       "id": "047fd6c4676ef44f",
       "title": "OpenAI’s AI agents need to catch up",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
@@ -1327,18 +1387,6 @@
       "category": "news"
     },
     {
-      "id": "6a14ae48509afb3e",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "published_at": "2026-09-27T19:57:30+00:00",
-      "author": "Anthony Ha",
-      "summary_raw": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "a40740b84969fd9a",
       "title": "Bluesky reply bot checker",
       "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
@@ -1579,30 +1627,6 @@
       "category": "labs"
     },
     {
-      "id": "3dfa5204002c862f",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "author": "",
-      "summary_raw": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "cf1e4800f1e3152b",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "author": "",
-      "summary_raw": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
       "id": "ea13d1bf6b450e0b",
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
       "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
@@ -1615,12 +1639,36 @@
       "category": "labs"
     },
     {
+      "id": "3dfa5204002c862f",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "author": "",
+      "summary_raw": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
       "id": "13a277e8c615ec4b",
       "title": "Sam Altman’s remarks at the United Nations Security Council",
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "published_at": "2026-09-23T12:00:00+00:00",
       "author": "",
       "summary_raw": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "cf1e4800f1e3152b",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "author": "",
+      "summary_raw": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
@@ -1757,18 +1805,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "3a899a50fb54b7b0",
-      "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
-      "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
-      "published_at": "2026-09-22T06:30:56+00:00",
-      "author": "",
-      "summary_raw": "crowning a new Chinese frontier lab",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!qfA0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSxCs7wa0AANR91.jpg",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "6ecec0651dc509c4",
