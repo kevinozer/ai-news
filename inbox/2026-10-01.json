@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T04:01:55.574738+00:00",
+  "generated_at": "2026-10-01T10:57:42.772996+00:00",
   "date": "2026-10-01",
-  "article_count_unique": 147,
-  "article_count_raw": 147,
+  "article_count_unique": 149,
+  "article_count_raw": 149,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "venturebeat_ai",
@@ -91,20 +91,20 @@
     {
       "source_id": "last_week_ai",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "one_useful_thing",
       "status": "ok",
-      "count": 0,
-      "raw_count": 0
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "latent_space",
@@ -163,17 +163,125 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
-      "raw_count": 14
+      "count": 4,
+      "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "3a9198cda61b93fb",
+      "title": "The Dot and the Swarm",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "published_at": "2026-10-01T10:54:12+00:00",
+      "author": "Ethan Mollick",
+      "summary_raw": "Benefitting from the Bitter Lesson",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!Narw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3014425-47c2-47aa-848b-3528f4dc9517_2912x1632.png",
+      "source_id": "one_useful_thing",
+      "source_name": "One Useful Thing (Mollick)",
+      "category": "newsletter"
+    },
+    {
+      "id": "08ba18376ec6b06f",
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "published_at": "2026-10-01T10:32:24+00:00",
+      "author": "Jessica Hamzelou",
+      "summary_raw": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of each pair is what&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "61d1771785b918df",
+      "title": "How smaller, distributed batteries could help the grid",
+      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "published_at": "2026-10-01T10:00:00+00:00",
+      "author": "Casey Crownhart",
+      "summary_raw": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Copper-Sept-2026-NolanCalischPhoto-9.jpg?w=840",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "4ea476d311d7c586",
+      "title": "Čech hodlá s AI namlouvat audioknihy pro světové vydavatele, s novými miliony to chce zkusit z Ameriky",
+      "url": "https://www.lupa.cz/aktuality/cech-hodla-s-ai-namlouvat-audioknihy-pro-svetove-vydavatele-s-novymi-miliony-to-chce-zkusit-z-ameriky/",
+      "published_at": "2026-10-01T09:36:35+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Český startup Elredo, který vyvíjí technologii pro automatizovanou produkci audioknih pomocí umělé inteligence, získal investici přesahující milion eur, tedy zhruba 25 milionů korun. Peníze teď chce firma využít ke svému startu ve Spojených státech, právě tam sídlí řada velkých světových vydavatelství. Firma uvádí, že jeho technologie může vydavatelům zlevnit a zrychlit výrobu audioknih.",
+      "hero_image": "https://i.iinfo.cz/images/225/matej-schmalz.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "edb9b827025f516c",
+      "title": "Dřív je v USA ignorovali, teď už uzavírají obří kontrakty a stěhují se tam. Navíc získali další investory",
+      "url": "https://cc.cz/driv-je-v-usa-ignorovali-ted-uz-uzaviraji-obri-kontrakty-a-stehuji-se-tam-navic-ziskali-dalsi-investory/",
+      "published_at": "2026-10-01T07:09:01+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "České Elredo pod vedením Matěje Schmalze získalo novou investici. Jejich AI nástroj na tvorbu audioknih používají už i největší světoví hráči. Článek Dřív je v USA ignorovali, teď už uzavírají obří kontrakty a stěhují se tam. Navíc získali další investory se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2025/12/matej-elredo-1-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "38d6542dc949ffd3",
+      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+      "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+      "published_at": "2026-10-01T06:45:05+00:00",
+      "author": "",
+      "summary_raw": "... but you can&#8217;t try it yet unless you are &#8220;government users and trusted cyber defenders in the Fairwind Program&#8221;",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!wmoR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTfV52SWgAIlX3W.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "cb328899d0e77af9",
+      "title": "Quoting Matthew Green",
+      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+      "published_at": "2026-10-01T06:29:01+00:00",
+      "author": "",
+      "summary_raw": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared package cache, and those instructions changed what the recipients did. Replace the package cache with email, Slack and shared documents or WhatsApp, and replace independently-sandboxed training runs with independently-deployed personal agents like Muse, and you have exactly the ingredients that a worm needs. &mdash; Matthew Green , Is sandboxing sufficient to contain rogue agents? Tags: accidental-cyberattacks , ai-misuse , generative-ai , ai-security-research , sandboxing , ai , llms",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "10a39317137802a7",
+      "title": "Umělá inteligence se chystá nakupovat za nás. Seznam chce do konce roku dostat agenty k tisícům e-shopů",
+      "url": "https://www.lupa.cz/clanky/umela-inteligence-se-chysta-nakupovat-za-cechy-seznam-chce-do-konce-roku-dostat-agenty-k-tisicum-e-shopu/",
+      "published_at": "2026-10-01T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Pojem „agentní nakupování“ je nová mantra e-commerce. Jen si pod ním každý představuje něco jiného. V Česku už se ale začínají prohánět oficiální i neoficiální AI nákupčí.",
+      "hero_image": "https://i.iinfo.cz/images/473/agentni-nakupovani-v-e-commerce.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "16d56a46a9931681",
+      "title": "Na přemýšlení je lepší u počítače nesedět, říká Čech, jehož AI agenti pracují i ve chvíli, kdy on spí",
+      "url": "https://cc.cz/na-premysleni-je-lepsi-u-pocitace-nesedet-rika-cech-jehoz-ai-agenti-pracuji-i-ve-chvili-kdy-on-spi/",
+      "published_at": "2026-10-01T04:16:15+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Zakladatel designového nástroje Pen Tom Krcha popisuje, jak mu agenti změnili den, proč nevěří v práci od devíti do pěti a co ho na tom znervózňuje. Článek Na přemýšlení je lepší u počítače nesedět, říká Čech, jehož AI agenti pracují i ve chvíli, kdy on spí se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/krcha-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "aea7bf846c48d3d1",
       "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
@@ -1207,18 +1315,6 @@
       "category": "labs"
     },
     {
-      "id": "78603d41aa2b8e72",
-      "title": "Zadejte úkol, odejděte a vraťte se k hotovému. OpenAI spouští agenty, kteří vás už skoro nebudou potřebovat",
-      "url": "https://cc.cz/zadejte-ukol-odejdete-a-vratte-se-k-hotovemu-openai-spousti-agenty-kteri-vas-uz-skoro-nebudou-potrebovat/",
-      "published_at": "2026-09-30T08:09:22+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Místo neustálého psaní promptů stačí načrtnout cíl. Noví autonomní agenti propojují aplikace a odevzdávají kompletně odbavenou práci. Článek Zadejte úkol, odejděte a vraťte se k hotovému. OpenAI spouští agenty, kteří vás už skoro nebudou potřebovat se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/sam-altman-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "e2420f438da98428",
       "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
       "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
@@ -1423,18 +1519,6 @@
       "category": "commentary"
     },
     {
-      "id": "4deefe38e3afada1",
-      "title": "Šikanovali ho jako imigranta. Dnes díky AI šéfuje nejhodnotnější firmě světa a v češtině o něm vychází kniha",
-      "url": "https://www.lupa.cz/aktuality/sikanovali-ho-jako-imigranta-dnes-diky-ai-sefuje-nejhodnotnejsi-firme-sveta-a-v-cestine-o-nem-vychazi-kniha/",
-      "published_at": "2026-09-29T15:37:48+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "V druhé polovině října vyjde v če&#353;tině kniha Myslící stroj o Jensenovi Huangovi, zakladateli a výkonném řediteli společnosti Nvidia. Jde o překlad původního titulu The Thinking Machine, který v roce 2025 získal cenu za nejlep&#353;í byznysovou knihu Financial Times. Autorem je novinář Stephen Witt. Vydavatelem české verze je nakladatelství Shelfie.",
-      "hero_image": "https://i.iinfo.cz/images/412/myslici-stroj.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "41b0c4a69a31fcf1",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
@@ -1492,42 +1576,6 @@
       "hero_image": null,
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "369f0d1a32c32281",
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "published_at": "2026-09-29T10:43:45+00:00",
-      "author": "Cheri Williams",
-      "summary_raw": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?w=840",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "5e38b1221dfb756c",
-      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-      "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-      "published_at": "2026-09-29T10:36:22+00:00",
-      "author": "Isabella Ward",
-      "summary_raw": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
-      "hero_image": "https://media.wired.com/photos/6abb79f89de9cbda7c9ca7ba/master/pass/092926-OpenAI%20Scrap.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "0a7a36fd7cc21f57",
-      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-      "published_at": "2026-09-29T10:30:00+00:00",
-      "author": "Lauren Goode",
-      "summary_raw": "One of AI’s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
-      "hero_image": "https://media.wired.com/photos/6ab58bd8630fd3fdf523eab4/master/pass/Big-Interview-UV-Solo-Timnit-Gebru-2266305419-Business.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
       "category": "news"
     },
     {
@@ -1783,28 +1831,16 @@
       "category": "newsletter"
     },
     {
-      "id": "0798f95704cc2b14",
-      "title": "LWiAI Podcast #257 - GPT 6 Astra, AI Extinction, Security Incidents",
-      "url": "https://lastweekin.ai/p/lwiai-podcast-257-gpt-6-astra-ai",
-      "published_at": "2026-09-24T09:12:28+00:00",
-      "author": "Last Week in AI",
-      "summary_raw": "A belated discussion of Astra&#8217;s release, a bunch of AI incidents, and the broader situation we are in with regards to AI safety.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!a22F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9feb67e-d790-44f8-8bc1-f1f3057fb185_783x461.png",
-      "source_id": "last_week_ai",
-      "source_name": "Last Week in AI",
-      "category": "newsletter"
-    },
-    {
-      "id": "1591b2a579f8642e",
-      "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
-      "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
-      "published_at": "2026-09-24T08:12:59+00:00",
+      "id": "777eaea1904b0c50",
+      "title": "Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "published_at": null,
       "author": "",
-      "summary_raw": "Team Zuck is absolutely on fire.",
-      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/JvyVwlP_nlw",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
     },
     {
       "id": "6ecec0651dc509c4",
@@ -1906,18 +1942,6 @@
       "id": "93291af1dc3e20d8",
       "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
       "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "published_at": null,
-      "author": "",
-      "summary_raw": "",
-      "hero_image": null,
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "category": "labs"
-    },
-    {
-      "id": "b24f34be0a797695",
-      "title": "Aug 7, 2026 Product Improving Fable 5&#x27;s biology safeguards",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
       "published_at": null,
       "author": "",
       "summary_raw": "",
