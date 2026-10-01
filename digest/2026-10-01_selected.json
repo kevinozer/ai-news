@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-01",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Google představuje model Gemini 4 Argon pro kybernetickou bezpečnost a vývoj softwaru",
+      "title_orig": "Google announces Gemini 4 and says it's so capable that only 'trusted cyber defenders' can have it right now",
+      "category": "labs",
+      "summary_cs": [
+        "Google odhalil svůj nejnovější vlajkový model Gemini 4 Argon, který přináší špičkový výkon v komplexních úlohách.",
+        "Model je navržen pro softwarové inženýrství, analýzu podnikových dat a pokročilou obranu v oblasti kybernetické bezpečnosti.",
+        "Kvůli vysokým schopnostem a potenciálním rizikům Google omezuje počáteční přístup pouze na prověřené kybernetické obránce."
+      ],
+      "why_matters": "Nový vlajkový model od Googlu posouvá hranice autonomního programování a zabezpečení, ale zůstává zatím pod zámkem.",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI odkládá IPO a hledá dalších 30 miliard dolarů v soukromém sektoru",
+      "title_orig": "OpenAI delays IPO over AI safety concerns",
+      "category": "business",
+      "summary_cs": [
+        "Společnost OpenAI se rozhodla odložit svůj plánovaný vstup na burzu kvůli přetrvávajícím obavám o bezpečnost svých modelů.",
+        "Místo veřejné nabídky akcií se firma snaží získat dodatečných 30 miliard dolarů od soukromých investorů.",
+        "Tento krok přichází v době, kdy se valuace společnosti odhaduje na astronomických 1,4 bilionu dolarů."
+      ],
+      "why_matters": "Rozhodnutí OpenAI odložit IPO ukazuje, jak moc bezpečnostní rizika ovlivňují finanční strategii největšího AI startupu světa.",
+      "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 3,
+      "title_cs": "České IT firmy omezují klasické programování a přecházejí na AI agenty",
+      "title_orig": "Programátorům jsme zakázali psát kód, některé jsme museli propustit. AI vyhraje, hlásí další české IT firmy",
+      "category": "news",
+      "summary_cs": [
+        "Tuzemské softwarové domy začínají radikálně měnit své procesy a zakazují vývojářům psát kód ručně bez asistence AI.",
+        "Některé společnosti již kvůli extrémnímu nárůstu efektivity přistoupily k propouštění části svých programátorů.",
+        "Transformace směrem k plně autonomním AI agentům se stává hlavním trendem českého technologického trhu."
+      ],
+      "why_matters": "Tento trend přímo ovlivňuje český pracovní trh a ukazuje, že éra manuálního psaní kódu v IT rychle končí.",
+      "url": "https://www.lupa.cz/aktuality/programatorum-jsme-zakazali-psat-kod-nektere-jsme-museli-propustit-ai-vyhraje-hlasi-dalsi-ceske-it-firmy/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Prezident Trump uzavřel s technologickými giganty dohodu o dobrovolné kontrole AI",
+      "title_orig": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "category": "news",
+      "summary_cs": [
+        "Přední technologické firmy podepsaly s Bílým domem dohodu o společném závazku k odpovědnosti u hraničních modelů.",
+        "Dohoda spoléhá především na to, že firmy budou samy testovat a hlídat bezpečnost svých pokročilých systémů.",
+        "Kritici však upozorňují, že dobrovolné závazky bez právní vymahatelnosti nemusí k ochraně veřejnosti stačit."
+      ],
+      "why_matters": "Nová americká politika výrazně ovlivní globální regulaci a rychlost, jakou budou firmy uvolňovat nové modely.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Google DeepMind představuje SynthID Bio pro vodoznaky u umělých proteinů",
+      "title_orig": "Introducing SynthID Bio",
+      "category": "labs",
+      "summary_cs": [
+        "Výzkumníci vyvinuli metodu pro vkládání neviditelných vodoznaků do proteinů navržených umělou inteligencí.",
+        "Tato technologie pomáhá identifikovat syntetický původ biologických struktur, aniž by narušila jejich přirozenou funkci.",
+        "Jedná se o klíčový krok k zajištění biologické bezpečnosti a prevenci zneužití generativní AI v medicíně."
+      ],
+      "why_matters": "Vodoznaky pro proteiny představují zásadní bezpečnostní pojistku proti nebezpečné syntetické biologii a bioterorismu.",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "ElevenLabs zdvojnásobuje svou hodnotu na 22 miliard dolarů",
+      "title_orig": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "category": "business",
+      "summary_cs": [
+        "Lídr v oblasti generování hlasu ElevenLabs získal v novém investičním kole vedeném Wellingtonem další kapitál.",
+        "Valuace startupu se díky masivnímu zájmu o hlasové technologie vyšplhala na 22 miliard dolarů.",
+        "Financování bude použito na další výzkum a expanzi v oblasti multilingválního klonování hlasu."
+      ],
+      "why_matters": "Hlasová AI zažívá obrovský boom a ElevenLabs si tímto upevňuje pozici dominantního hráče na trhu.",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Český fond Look AI Ventures investuje do švýcarského robotického startupu",
+      "title_orig": "České peníze podpoří roboty, kteří se přímo u výrobní linky učí třeba montovat elektroniku",
+      "category": "news",
+      "summary_cs": [
+        "Pražský fond Look AI Ventures podpořil švýcarskou firmu vyvíjející roboty pro průmyslovou výrobu.",
+        "Tito roboti se učí jemnou motoriku napodobováním lidských pohybů přímo na pracovišti.",
+        "Systém umožňuje bezpečné sdílení prostoru s lidskými operátory bez nutnosti ochranných bariér."
+      ],
+      "why_matters": "Český kapitál se podílí na rozvoji fyzické AI, která může transformovat tuzemskou průmyslovou výrobu.",
+      "url": "https://www.lupa.cz/aktuality/ceske-penize-podpori-roboty-kteri-se-primo-u-vyrobni-linky-uci-treba-montovat-elektroniku/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 8,
+      "title_cs": "OpenAI zasahuje proti kampaním zaměřeným na reverzní inženýrství jejích modelů",
+      "title_orig": "Disrupting a coordinated model-distillation campaign",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI odhalila a zablokovala organizovanou kampaň, která se snažila extrahovat chráněné uvažování jejích modelů.",
+        "Útočníci využívali metodu destilace k tomu, aby levně přenesli schopnosti pokročilých modelů do vlastních systémů.",
+        "Společnost v reakci na to posiluje své technické obranné mechanismy v API rozhraní."
+      ],
+      "why_matters": "Ukazuje to, jak tvrdě si tvůrci AI chrání své know-how před konkurencí a neautorizovaným kopírováním.",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "AI agenti jsou náchylní k radikalizaci při vzájemné komunikaci",
+      "title_orig": "AI Agents are Vulnerable to Radicalization",
+      "category": "research",
+      "summary_cs": [
+        "Nová studie simulovala rozhovory mezi dvěma AI agenty s cílem zjistit, jak se mohou navzájem ovlivňovat.",
+        "Výzkumníci zjistili, že cílená manipulace může u agentů vyvolat extrémní postoje a radikalizaci názorů.",
+        "Tento fenomén představuje nové riziko pro nasazení autonomních komunikačních systémů v praxi."
+      ],
+      "why_matters": "Pokud budou AI agenti komunikovat mezi sebou bez dozoru, mohou snadno podlehnout dezinformacím a manipulaci.",
+      "url": "https://arxiv.org/abs/2609.38296",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "OpenAI spouští Decisions API pro efektivnější řízení agentů",
+      "title_orig": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "category": "tools",
+      "summary_cs": [
+        "V rámci DevDay představila OpenAI nové rozhraní Decisions API zaměřené na rychlé a levné rozhodování.",
+        "Tento nástroj pomáhá kontrolovat chování autonomních agentů a předcházet jejich nekontrolovanému větvení.",
+        "Vývojáři tak získávají lepší kontrolu nad náklady a bezpečností při nasazení agentických systémů."
+      ],
+      "why_matters": "Nástroj řeší zásadní problém s nekontrolovaným chováním a vysokými náklady u komplexních AI agentů.",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Restate získává 20 milionů dolarů na odolnou infrastrukturu pro AI agenty",
+      "title_orig": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "category": "business",
+      "summary_cs": [
+        "Startup Restate vyvinul vlastní lehkou architekturu pro ukládání a replikaci dat bez externích databází.",
+        "Tento přístup umožňuje extrémně rychlé a spolehlivé spouštění distribuovaných aplikací.",
+        "Rostoucí popularita AI agentů vyžaduje novou úroveň odolnosti infrastruktury, což Restate přímo řeší."
+      ],
+      "why_matters": "Spolehlivá infrastruktura je klíčová pro to, aby AI agenti mohli bezpečně provádět dlouhotrvající transakce.",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Zarovnaná data mohou u modelů způsobit zmatení kontextu",
+      "title_orig": "Aligned Data Can Induce Misalignment via Context Confusion",
+      "category": "research",
+      "summary_cs": [
+        "Výzkum ukazuje, že odstraňování nevhodných vzorků z trénovacích dat nemusí vždy zabránit špatnému chování modelu.",
+        "Bezpečnostní pravidla jsou silně závislá na kontextu, což může u modelů po aktualizaci vyvolat zmatení.",
+        "Doporučení, které je bezpečné v jednom scénáři, může být v jiném kontextu vyhodnoceno jako škodlivé."
+      ],
+      "why_matters": "Výzkum upozorňuje na limity současných metod ladění bezpečnosti a vysvětluje, proč AI stále občas selhává.",
+      "url": "https://arxiv.org/abs/2609.38379",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Grokipedia od xAI mění design a spouští verzi nula tečka tři",
+      "title_orig": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "category": "news",
+      "summary_cs": [
+        "Grokipedia, encyklopedie poháněná umělou inteligencí od SpaceXAI, prošla vizuální proměnou.",
+        "Aktualizace v0.3 přináší nové logo, přepracovanou domovskou stránku a vylepšené zobrazení živých úprav.",
+        "Projekt se snaží konkurovat tradiční Wikipedii pomocí automatizovaného generování a ověřování obsahu."
+      ],
+      "why_matters": "Muskův pokus o vytvoření AI alternativy k Wikipedii dostává stabilnější obrysy a lepší uživatelské rozhraní.",
+      "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Binarizace hodnocení omezuje schopnosti AI soudců",
+      "title_orig": "Binarization Flattens the Score Space",
+      "category": "research",
+      "summary_cs": [
+        "Používání LLM jako hodnotitelů se často redukuje na jednoduché binární rozhodnutí typu ano nebo ne.",
+        "Tento přístup sice zjednodušuje vyhodnocení, ale zcela maže informaci o tom, jak dobře model úkol splnil.",
+        "Vědci navrhují přechod k jemnějšímu bodovému hodnocení pro lepší trénování zpětnovazebních systémů."
+      ],
+      "why_matters": "Lepší metodika hodnocení výstupů pomůže českým vývojářům efektivněji ladit jejich vlastní AI aplikace.",
+      "url": "https://arxiv.org/abs/2609.35797",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 15,
+      "title_cs": "DoorDash spouští textového AI agenta pro objednávání jídla",
+      "title_orig": "DoorDash launches an AI agent you can text to order food",
+      "category": "tools",
+      "summary_cs": [
+        "Doručovací platforma DoorDash představila asistenta, se kterým mohou zákazníci komunikovat přes SMS.",
+        "Uživatelé mohou jednoduše napsat textovou zprávu a AI za ně kompletně sestaví a odešle objednávku.",
+        "Firma tímto krokem reaguje na konkurenční tlak a snaží se zjednodušit nákupní proces pro běžné uživatele."
+      ],
+      "why_matters": "Ukázka toho, jak se konverzační AI stává běžnou součástí každodenních služeb a usnadňuje nákupy.",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
