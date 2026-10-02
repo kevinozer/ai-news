@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-02",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Google představuje Gemini 4 Argon, svůj dosud nejvýkonnější model",
+      "title_orig": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "category": "labs",
+      "summary_cs": [
+        "Google oficiálně představil novou generaci svého vlajkového modelu pod názvem Gemini 4 Argon.",
+        "Model je prezentován jako vysoce výkonný nástroj pro programování a kybernetickou bezpečnost s obřím kontextovým oknem.",
+        "Pro běžnou veřejnost zatím není dostupný, přednostní přístup získávají vládní organizace a vybraní partneři."
+      ],
+      "why_matters": "Nová generace vlajkového modelu od Googlu definuje další technologické možnosti v oblasti programování a bezpečnosti.",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI propustila tři bezpečnostní výzkumníky kvůli úniku informací",
+      "title_orig": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "category": "business",
+      "summary_cs": [
+        "Společnost OpenAI ukončila spolupráci se třemi předními výzkumníky z týmu pro bezpečnost umělé inteligence.",
+        "Interní vyšetřování ukázalo, že tito zaměstnanci nesprávně nakládali s citlivými interními informacemi firmy.",
+        "Tento krok přichází v době zvýšené pozornosti věnované bezpečnosti a regulaci pokročilých AI modelů."
+      ],
+      "why_matters": "Personální čistky v bezpečnostním týmu OpenAI ukazují na rostoucí interní napětí ohledně ochrany citlivých dat.",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Český startup Elredo získal milion eur na tvorbu audioknih pomocí AI v USA",
+      "title_orig": "Čech hodlá s AI namlouvat audioknihy pro světové vydavatele, s novými miliony to chce zkusit z Ameriky",
+      "category": "wildcard",
+      "summary_cs": [
+        "Český projekt Elredo vyvíjí pokročilou technologii pro plně automatizovanou produkci audioknih za pomoci umělé inteligence.",
+        "Startup získal investici přesahující 25 milionů korun, kterou využije pro expanzi na trh ve Spojených státech.",
+        "Technologie umožňuje rychlý převod textu na hlas ve vysoké kvalitě, což oslovuje největší světová vydavatelství."
+      ],
+      "why_matters": "Úspěch českého zakladatele ukazuje, že tuzemské AI technologie mají globální potenciál i v silně konkurenčním prostředí.",
+      "url": "https://www.lupa.cz/aktuality/cech-hodla-s-ai-namlouvat-audioknihy-pro-svetove-vydavatele-s-novymi-miliony-to-chce-zkusit-z-ameriky/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Brian Chesky tvrdí, že AI agenti potřebují svůj vlastní operační systém",
+      "title_orig": "Brian Chesky interview: AI agents need their own operating system",
+      "category": "news",
+      "summary_cs": [
+        "Šéf platformy Airbnb Brian Chesky nastínil svou vizi budoucnosti, kde budou spotřebitelské služby plně ovládané agenty.",
+        "Podle něj současné mobilní a webové operační systémy nejsou navrženy pro efektivní fungování autonomního softwaru.",
+        "Airbnb se aktivně připravuje na integraci agentů, kteří budou schopni samostatně plánovat a bookovat celé cesty."
+      ],
+      "why_matters": "Pohled lídra globální platformy ukazuje, jakým směrem se bude ubírat integrace AI do běžných spotřebitelských služeb.",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Shopify spouští Canvas pro tvorbu e-shopů pomocí chatu s AI",
+      "title_orig": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "category": "tools",
+      "summary_cs": [
+        "E-commerce platforma Shopify představila nový vizuální editor Canvas poháněný umělou inteligencí.",
+        "Obchodníci mohou vytvářet a upravovat své internetové obchody pouhým zadáváním textových pokynů v chatu.",
+        "Změny se na webu projevují v reálném čase, což výrazně usnadňuje práci lidem bez znalosti programování."
+      ],
+      "why_matters": "Tento nástroj radikálně snižuje bariéru pro vstup do online podnikání a zjednodušuje správu webů.",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Seznam chce do konce roku přivést AI nákupní agenty do tisíců českých e-shopů",
+      "title_orig": "Umělá inteligence se chystá nakupovat za nás. Seznam chce do konce roku dostat agenty k tisícům e-shopů",
+      "category": "wildcard",
+      "summary_cs": [
+        "Česká internetová jednička Seznam se aktivně zapojuje do trendu takzvaného agentního nakupování.",
+        "Cílem je umožnit autonomním AI asistentům vyhledávat, porovnávat a přímo nakupovat zboží na tuzemských e-shopech.",
+        "Tento krok může zásadně proměnit českou e-commerce scénu a chování zákazníků na internetu."
+      ],
+      "why_matters": "Český trh se stává testovacím polem pro autonomní nakupování, což ovlivní obchodníky i koncové spotřebitele.",
+      "url": "https://www.lupa.cz/clanky/umela-inteligence-se-chysta-nakupovat-za-cechy-seznam-chce-do-konce-roku-dostat-agenty-k-tisicum-e-shopu/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Soud zamítl antimonopolní žaloby proti vyhledávání s AI od Googlu",
+      "title_orig": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+      "category": "news",
+      "summary_cs": [
+        "Federální soudce zamítl žaloby společností Chegg a Penske Media, které obviňovaly Google z porušování antimonopolních zákonů.",
+        "Žalobci tvrdili, že AI přehledy ve vyhledávání parazitují na jejich obsahu a drasticky snižují návštěvnost webů.",
+        "Soud rozhodl, že dopady AI vyhledávání na návštěvnost sice existují, ale nepředstavují porušení hospodářské soutěže."
+      ],
+      "why_matters": "Právní precedens potvrzuje, že technologičtí obři mohou dál rozvíjet AI vyhledávání bez obav z okamžitých žalob.",
+      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 8,
+      "title_cs": "ChatGPT zavádí virtuální zkoušení oblečení pomocí vlastních fotek",
+      "title_orig": "ChatGPT can now virtually try on clothes for you",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI rozšiřuje schopnosti ChatGPT o nové nákupní funkce zaměřené na módu.",
+        "Uživatelé mohou nahrát vlastní fotografii a nechat si na ni virtuálně promítnout vybrané oblečení a doplňky.",
+        "Součástí aktualizace je také možnost ukládání oblíbených produktů do osobní knihovny přímo v rozhraní."
+      ],
+      "why_matters": "Integrace vizuálních nákupních funkcí přímo do chatbota ukazuje posun ChatGPT směrem k univerzálnímu asistentovi.",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Google testuje přímé platby vydavatelům za obsah v AI vyhledávání",
+      "title_orig": "Google reportedly tests paying publishers for AI search results",
+      "category": "business",
+      "summary_cs": [
+        "Google spustil pilotní program, v jehož rámci finančně odměňuje vybrané vydavatele za použití jejich textů v AI přehledech.",
+        "Do testování je zapojeno přibližně sto vydavatelských domů, které čelí úbytku klasické návštěvnosti z vyhledávače.",
+        "Jde o reakci na rostoucí kritiku a snahu najít udržitelný model koexistence médií a umělé inteligence."
+      ],
+      "why_matters": "Tento krok by mohl nastavit nový standard pro financování žurnalistiky v éře generativního vyhledávání.",
+      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Startup Satlyt získal investici na provozování otevřeného AI systému na družicích",
+      "title_orig": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "category": "business",
+      "summary_cs": [
+        "Startup Satlyt, založený bývalým manažerem z Google a SpaceX, získal 8 milionů dolarů na vývoj orbitálního softwaru.",
+        "Cílem firmy je vytvořit otevřený operační systém pro satelity, který umožní spouštět AI modely přímo ve vesmíru.",
+        "Tento přístup konkuruje uzavřenému řešení od SpaceX a má usnadnit zpracování satelitních dat v reálném čase."
+      ],
+      "why_matters": "Přesun výpočetního výkonu AI přímo na oběžnou dráhu zásadně zrychlí analýzu snímků Země a vesmírný výzkum.",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Nástroj EviGraph přináší ověřitelné doporučování pro veřejné služby",
+      "title_orig": "EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs",
+      "category": "research",
+      "summary_cs": [
+        "Vědci představili systém EviGraph, který řeší problém nepřesných doporučení ve veřejné správě.",
+        "Nástroj využívá časové grafy znalostí k tomu, aby každé doporučení doložil konkrétními právními či administrativními fakty.",
+        "Systém dokáže rozlišit kritické podmínky od informativních detailů, čímž předchází chybnému zamítnutí žádostí."
+      ],
+      "why_matters": "Transparentní a doložitelná rozhodnutí jsou klíčem k bezpečnému nasazení umělé inteligence ve státní správě.",
+      "url": "https://arxiv.org/abs/2610.00212",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "AutoSynthData usnadňuje generování trénovacích dat pro firemní agenty",
+      "title_orig": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "category": "labs",
+      "summary_cs": [
+        "Na platformě Hugging Face byl představen nový nástroj AutoSynthData určený pro podnikovou sféru.",
+        "Umožňuje automatizovaně generovat vysoce kvalitní syntetická data pro trénování specializovaných AI agentů.",
+        "Tento přístup výrazně zkracuje dobu přípravy modelů a snižuje náklady na ruční anotaci datových sad."
+      ],
+      "why_matters": "Snazší tvorba trénovacích dat umožní českým firmám rychleji vyvíjet vlastní specifické AI asistenty.",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "K-Dense BYOK nabízí lokálního AI vědeckého asistenta s šifrovaným deníkem",
+      "title_orig": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+      "category": "open-source",
+      "summary_cs": [
+        "Byl vydán open-source vědecký asistent K-Dense BYOK, který běží kompletně lokálně na počítači uživatele.",
+        "Aplikace umožňuje připojit libovolný vlastní jazykový model a zajišťuje maximální soukromí citlivých výzkumných dat.",
+        "Unikátní funkcí je vedení laboratorního deníku pomocí hashovacího řetězce, což zaručuje integritu a nezměnitelnost záznamů."
+      ],
+      "why_matters": "Ideální nástroj pro české akademiky a vývojáře, kteří potřebují AI asistenci, ale nesmí sdílet data s třetími stranami.",
+      "url": "https://arxiv.org/abs/2610.00074",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Jak reagovat na chybné opravy od uživatelů u robotických agentů",
+      "title_orig": "Knowing When to Yield: Grounded Arbitration of User Corrections in Text-Based Embodied Agents",
+      "category": "research",
+      "summary_cs": [
+        "Nová vědecká práce se zabývá chováním fyzických AI agentů a robotů v situacích, kdy je člověk nesprávně opravuje.",
+        "Výzkumníci představili rozhraní GAVA, které agentům umožňuje inteligentně volit mezi přijetím, odmítnutím či ověřením pokynu.",
+        "Robot se tak slepě nepodřídí lidské chybě, ale raději prozkoumá okolní svět nebo se doptá na upřesnění."
+      ],
+      "why_matters": "Výzkum přispívá k bezpečnější a plynulejší spolupráci mezi lidmi a autonomními stroji v domácnostech i průmyslu.",
+      "url": "https://arxiv.org/abs/2610.00282",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Hledání optimální rovnováhy při trénování modelů s protichůdným zadáním",
+      "title_orig": "Conflicting Supervision Moves Commitment, Not Capability: A 12.29{\\sigma} arrangement effect that is exactly zero under a convention-agnostic score",
+      "category": "research",
+      "summary_cs": [
+        "Studie zkoumala chování modelů trénovaných na úlohách se dvěma neslučitelnými, avšak správnými konvencemi.",
+        "Výzkum ukazuje, že pořadí dat v trénovacím procesu ovlivňuje preference modelu, nikoli jeho samotné schopnosti.",
+        "Správné nastavení učícího plánu je klíčové pro to, aby se model vnitřně nezmátl při zpracování protichůdných pokynů."
+      ],
+      "why_matters": "Pochopení těchto vnitřních mechanismů pomáhá vývojářům lépe ladit modely pro komplexní firemní pravidla.",
+      "url": "https://arxiv.org/abs/2610.00234",
+      "source": "ArXiv cs.AI"
+    }
+  ]
+}
