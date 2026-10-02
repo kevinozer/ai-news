@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T04:02:22.919330+00:00",
+  "generated_at": "2026-10-02T10:30:52.156594+00:00",
   "date": "2026-10-02",
-  "article_count_unique": 147,
-  "article_count_raw": 147,
+  "article_count_unique": 152,
+  "article_count_raw": 152,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "venturebeat_ai",
@@ -163,17 +163,113 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
-      "raw_count": 13
+      "count": 5,
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "b6dc94454f9b52e8",
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "published_at": "2026-10-02T09:45:00+00:00",
+      "author": "Lily Hay Newman, Matt Burgess",
+      "summary_raw": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+      "hero_image": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/master/pass/GettyImages-2278945913.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "f0d108f66f121ed4",
+      "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+      "url": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+      "published_at": "2026-10-02T09:30:00+00:00",
+      "author": "Paresh Dave",
+      "summary_raw": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+      "hero_image": "https://media.wired.com/photos/6abeb2ae10b6b4f5a5628f89/master/pass/Palantir-Nurse-Strike-e2fab562-387a-496b-b88c-027860c47584.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "498c41fc1d9ba474",
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "published_at": "2026-10-02T09:00:00+00:00",
+      "author": "Jessica Hamzelou",
+      "summary_raw": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "17615a0ffdcc05d5",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "published_at": "2026-10-02T08:00:00+00:00",
+      "author": "Thore Graepel",
+      "summary_raw": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "f2b2c5e582a68eac",
+      "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
+      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+      "published_at": "2026-10-02T06:40:53+00:00",
+      "author": "",
+      "summary_raw": "the minimalist harness goes stable... and TypeScript!",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/RjfbvDXpFls",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "4ce2c3b0dc2a7f33",
+      "title": "Milan Jasný (Alma Career – Jobs.cz): Skutečná revoluce v tom, jak hledáme práci, ještě nepřišla",
+      "url": "https://www.lupa.cz/clanky/milan-jasny-alma-career-jobs-cz-skutecna-revoluce-v-tom-jak-hledame-praci-jeste-neprisla/",
+      "published_at": "2026-10-02T04:30:01+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: David Slížek)",
+      "summary_raw": "Před 30 lety patřil k prvním komerčním službám na českém internetu a od základu změnil způsob, jakým lidé hledají práci. Jaká je historie a současnost Jobs.cz a hledání zaměstnání v době AI?",
+      "hero_image": "https://i.iinfo.cz/images/506/milan-jasny-alma-career-jobs-cz.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "3c5a2f5b7a3cc71f",
+      "title": "Microsoft v AI neuspěl a končí s Copilotem, AI vytvořila náhradu Photoshopu, Raspberry Pi zase zdražuje",
+      "url": "https://www.lupa.cz/clanky/microsoft-v-ai-neuspel-a-konci-s-copilotem-ai-vytvorila-nahradu-photoshopu-raspberry-pi-zase-zdrazuje/",
+      "published_at": "2026-10-02T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Gemini 4 přichází. Velké změny u českého skorojednorožce pod tlakem AI. ASML už v Evrope skoro nic neprodá. Zprávy z IT, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/674/satya-nadella-microsoft.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "7b27d9da680f8a63",
+      "title": "Tržby 4,6 miliardy a ztráta 42 miliard. Jak je možné, že Anthropic cílí na valuaci dva biliony dolarů?",
+      "url": "https://cc.cz/anthropic-miri-na-valuaci-pres-dva-biliony-dolaru-unikla-data-pritom-ukazuji-cenu-zavodu-o-ai/",
+      "published_at": "2026-10-02T04:18:55+00:00",
+      "author": "Václav Kinský",
+      "summary_raw": "Tvůrce nástroje Claude roste, zároveň ale pálí miliardy dolarů za výpočetní výkon. Jeho chystané IPO ukáže, jak moc jsou investoři ochotni ocenit AI. Článek Tržby 4,6 miliardy a ztráta 42 miliard. Jak je možné, že Anthropic cílí na valuaci dva biliony dolarů? se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/money-maker-recap-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "73b4d31f0e6920ba",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -1051,18 +1147,6 @@
       "category": "cz"
     },
     {
-      "id": "edb9b827025f516c",
-      "title": "Dřív je v USA ignorovali, teď už uzavírají obří kontrakty a stěhují se tam. Navíc získali další investory",
-      "url": "https://cc.cz/driv-je-v-usa-ignorovali-ted-uz-uzaviraji-obri-kontrakty-a-stehuji-se-tam-navic-ziskali-dalsi-investory/",
-      "published_at": "2026-10-01T07:09:01+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "České Elredo pod vedením Matěje Schmalze získalo novou investici. Jejich AI nástroj na tvorbu audioknih používají už i největší světoví hráči. Článek Dřív je v USA ignorovali, teď už uzavírají obří kontrakty a stěhují se tam. Navíc získali další investory se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2025/12/matej-elredo-1-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "38d6542dc949ffd3",
       "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
       "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
@@ -1096,18 +1180,6 @@
       "hero_image": "https://i.iinfo.cz/images/473/agentni-nakupovani-v-e-commerce.jpg",
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "16d56a46a9931681",
-      "title": "Na přemýšlení je lepší u počítače nesedět, říká Čech, jehož AI agenti pracují i ve chvíli, kdy on spí",
-      "url": "https://cc.cz/na-premysleni-je-lepsi-u-pocitace-nesedet-rika-cech-jehoz-ai-agenti-pracuji-i-ve-chvili-kdy-on-spi/",
-      "published_at": "2026-10-01T04:16:15+00:00",
-      "author": "Ondřej Holzman",
-      "summary_raw": "Zakladatel designového nástroje Pen Tom Krcha popisuje, jak mu agenti změnili den, proč nevěří v práci od devíti do pěti a co ho na tom znervózňuje. Článek Na přemýšlení je lepší u počítače nesedět, říká Čech, jehož AI agenti pracují i ve chvíli, kdy on spí se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/krcha-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
       "category": "cz"
     },
     {
@@ -1793,18 +1865,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "e5446772cc21338d",
-      "title": "[AINews] The Future of Latent Space",
-      "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
-      "published_at": "2026-09-25T05:37:00+00:00",
-      "author": "",
-      "summary_raw": "A quiet day lets us discuss the work behind the scenes - now open for business!",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!Ndvv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eb94ca5-a315-4307-9f69-724a59c08af1_2132x1120.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "777eaea1904b0c50",
