@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-03",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Apple omezí přístup k disku v macOS kvůli rizikům spojeným s AI agenty",
+      "title_orig": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "category": "news",
+      "summary_cs": [
+        "Apple zavádí přísnější pravidla pro udělování plného přístupu k disku v operačním systému macOS.",
+        "Důvodem jsou rostoucí schopnosti autonomních AI agentů, kteří by při zneužití mohli získat přístup k citlivým souborům, zprávám a historii prohlížení.",
+        "Nové bezpečnostní mechanismy mají zajistit, že toto mimořádné oprávnění udělí aplikacím pouze plně informovaný uživatel."
+      ],
+      "why_matters": "Zabezpečení operačních systémů se zásadně mění v reakci na novou éru autonomních AI pomocníků.",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Meta uvolňuje zdrojový kód pro tvorbu vlastních hardwarových zařízení s AI agentem Muse",
+      "title_orig": "Meta open sources code to let you make Muse AI gadgets",
+      "category": "open-source",
+      "summary_cs": [
+        "Meta zpřístupnila otevřený kód, který vývojářům umožňuje integrovat jejího nového AI agenta Muse do fyzických zařízení.",
+        "Mezi navrhované projekty patří zobrazení připomínek na e-inkoustových displejích nebo integrace do HDMI sticků pro televizory.",
+        "Tento krok má podnítit vznik nové generace chytré domácí elektroniky poháněné umělou inteligencí."
+      ],
+      "why_matters": "Otevřený kód od Mety usnadní českým vývojářům a kutilům stavbu vlastního AI hardwaru.",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic investuje 100 milionů dolarů do školení inženýrů a řešení nedostatku talentů",
+      "title_orig": "Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Anthropic oznámila masivní investici ve výši 100 milionů dolarů zaměřenou na vyškolení 10 000 inženýrů.",
+        "Cílem programu je překlenout propast v chybějících talentech pro nasazování generativní AI v podnikovém sektoru.",
+        "Iniciativa se zaměří na praktické dovednosti spojené s integrací modelů řady Claude do firemních procesů."
+      ],
+      "why_matters": "Nedostatek AI expertů je globální problém a tato investice může pomoci i evropskému trhu.",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "source": "Anthropic News"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Suno spouští generátor mluveného slova s hudebním doprovodem",
+      "title_orig": "AI music maker Suno now generates spoken words",
+      "category": "tools",
+      "summary_cs": [
+        "Populární platforma pro tvorbu hudby Suno rozšiřuje své funkce o generování realistických mluvených hlasů.",
+        "Nástroj umožňuje vytvářet hlasové nahrávky na základě textového scénáře a zároveň k nim generovat podkresovou hudbu.",
+        "Funkce je aktuálně dostupná v režimu veřejné bety na webu i v mobilní aplikaci."
+      ],
+      "why_matters": "Tvorba podcastů, audioknih a reklamních spotů s profesionálním zvukem je nyní ještě dostupnější.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI představuje podrobného průvodce pro nasazení rodiny modelů GPT-6",
+      "title_orig": "A model guide for the GPT-6 family",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI vydala komplexní příručku, která má startupům i zavedeným firmám pomoci s výběrem vhodného modelu z rodiny GPT-6.",
+        "Návod se podrobně věnuje nastavení uvažovacího úsilí, optimalizaci promptů a koordinaci externích nástrojů.",
+        "Materiál obsahuje také osvědčené postupy pro přípravu robustních produkčních workflow."
+      ],
+      "why_matters": "České technologické firmy získávají jasný návod, jak efektivně integrovat nejnovější generaci modelů.",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Nový hit Jev nechatuje ani nepíše texty, přesto kvůli němu padaly servery",
+      "title_orig": "Nový hit ve světě AI? Tento model nechatuje a nepíše texty, přesto o něj byl takový zájem, že padaly servery",
+      "category": "wildcard",
+      "summary_cs": [
+        "Nový model Jev funguje jako neviditelná výhybka v kódovém zázemí aplikací, která optimalizuje jejich chod.",
+        "Díky tomuto řešení mohou běžné softwarové systémy běžet výrazně rychleji a s dramaticky nižšími náklady.",
+        "Zájem vývojářů o tento specifický nástroj byl po spuštění tak obrovský, že přetížil infrastrukturu poskytovatele."
+      ],
+      "why_matters": "Ukazuje se nový trend modelů zaměřených čistě na efektivitu infrastruktury namísto generování textu.",
+      "url": "https://cc.cz/novy-hit-ve-svete-ai-tento-model-nechatuje-a-nepise-texty-presto-o-nej-byl-takovy-zajem-ze-padaly-servery/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 7,
+      "title_cs": "OpenAI a Meta se střetávají v pojetí AI agentů pro práci a zábavu",
+      "title_orig": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "category": "labs",
+      "summary_cs": [
+        "Zatímco nedávno představený agent Muse od Mety sází na maximální přístupnost pro běžné uživatele, OpenAI jde s agenty Dots jinou cestou.",
+        "Platforma Dots od OpenAI působí spíše jako robustní pracovní software, který je určen pro plnění komplexních firemních úkolů.",
+        "I přes své firemní zaměření však tito agenti zvládají i každodenní drobnosti, jako je objednání jídla."
+      ],
+      "why_matters": "Ukazuje se rozdělení trhu na agenty pro běžný život a specializované nástroje pro byznys.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Chatham Financial zkracuje validaci obchodů z půl hodiny na čtyři minuty díky OpenAI",
+      "title_orig": "Chatham scales its capital markets expertise with OpenAI",
+      "category": "business",
+      "summary_cs": [
+        "Finanční gigant Chatham Financial integroval do svých procesů modely Codex a GPT-5.6 od OpenAI.",
+        "Díky automatizaci a redesignu pracovních postupů se podařilo zkrátit čas potřebný k validaci obchodů z 30 minut na méně než 4 minuty.",
+        "Tento krok ukazuje reálný dopad nasazení pokročilých jazykových modelů v oblasti kapitálových trhů."
+      ],
+      "why_matters": "Konkrétní příklad obrovského zvýšení produktivity v přísně regulovaném finančním sektoru.",
+      "url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Trillium Labs chce provádět výzkum rizikových schopností AI zcela otevřeně",
+      "title_orig": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+      "category": "research",
+      "summary_cs": [
+        "Zatímco přední laboratoře drží svůj výzkum bezpečnosti a sebezdokonalování modelů pod pokličkou, iniciativa Trillium Labs volí opačný přístup.",
+        "Skupina expertů chce zkoumat chování modelů a jejich limity v naprosto transparentním a otevřeném režimu.",
+        "Cílem je umožnit širší vědecké komunitě podílet se na analýze rizik spojených s pokročilou umělou inteligencí."
+      ],
+      "why_matters": "Otevřený výzkum bezpečnosti pomáhá budovat důvěru veřejnosti v technologie, které denně používáme.",
+      "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Zranitelnost v aplikaci ChatGPT pro Mac mohla hackerům odhalit citlivá data",
+      "title_orig": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "category": "tools",
+      "summary_cs": [
+        "V oficiální aplikaci ChatGPT pro systém macOS byla objevena a následně opravena vážná bezpečnostní chyba.",
+        "Tato zranitelnost mohla potenciálním útočníkům umožnit přístup k historii konverzací a dalším citlivým údajům uživatele.",
+        "Incident připomíná, že samotný AI software je stále častějším cílem kybernetických útoků."
+      ],
+      "why_matters": "Uživatelé by měli dbát na pravidelné aktualizace svých AI aplikací pro ochranu soukromí.",
+      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Jak se liší vyjadřování nejistoty u velkých jazykových modelů a u lidí",
+      "title_orig": "\"very likely\" Means \"uncertain\"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification",
+      "category": "research",
+      "summary_cs": [
+        "Nová vědecká studie zkoumá, jak velké jazykové modely vyjadřují míru své jistoty či nejistoty pomocí slovních vyjádření.",
+        "Výzkum ukazuje, že modely často používají výrazy jako 'velmi pravděpodobné' v jiném kontextu a s jinou vahou než lidé.",
+        "Tento nesoulad v kognitivním vnímání lingvistické nejistoty může vést k nedorozuměním při interpretaci odpovědí AI."
+      ],
+      "why_matters": "Pochopení toho, jak AI vyjadřuje pochybnosti, je klíčové pro správné vyhodnocování jejích výstupů.",
+      "url": "https://arxiv.org/abs/2610.00083",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Barclays nasazuje modely Claude pro zefektivnění provozu a lepší klientský servis",
+      "title_orig": "Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
+      "category": "business",
+      "summary_cs": [
+        "Nadnárodní bankovní dům Barclays oznámil rozsáhlé nasazení modelů Claude od společnosti Anthropic do svých každodenních operací.",
+        "Technologie bude pomáhat zaměstnancům s analýzou dokumentů, zrychlením interních procesů a personalizací služeb pro klienty.",
+        "Jde o jedno z největších oficiálních partnerství mezi tradiční finanční institucí a přední AI laboratoří."
+      ],
+      "why_matters": "Jasný důkaz, že i vysoce konzervativní bankovní sektor začíná masivně spoléhat na generativní AI.",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "source": "Anthropic News"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Vědci vyvinuli nástroj, který dokáže rekonstruovat obrázky přímo z magnetické rezonance mozku",
+      "title_orig": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+      "category": "research",
+      "summary_cs": [
+        "Nový systém umělé inteligence dokáže s vysokou přesností odhadnout a vykreslit obraz, na který se člověk právě dívá.",
+        "K rekonstrukci vizuálního vjemu využívá výhradně data z funkční magnetické rezonance (fMRI) lidského mozku.",
+        "Technologie funguje i oboustranně a dokáže předpovědět aktivitu mozku na základě předloženého obrázku."
+      ],
+      "why_matters": "Tento průlom v rozhraní mezi mozkem a počítačem otevírá nové možnosti pro medicínu i neurovědu.",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Rychlejší předtrénování modelů díky novému formátu FP4",
+      "title_orig": "Format-Aware Fusion for Fast FP4 Pretraining",
+      "category": "research",
+      "summary_cs": [
+        "Vědci představili novou metodu optimalizace výpočtů, která plně využívá potenciál čtyřbitových plovoucích řádových čárek (FP4).",
+        "Navržený přístup řeší dřívější úzká hrdla v paměťové náročnosti a uspořádání dat, která dříve smazávala hardwarové výhody.",
+        "Tato technika umožňuje výrazně zrychlit a zlevnit počáteční fázi trénování obřích neuronových sítí."
+      ],
+      "why_matters": "Efektivnější trénování znamená rychlejší vývoj nových modelů a nižší energetickou náročnost.",
+      "url": "https://arxiv.org/abs/2610.00053",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Slovo spolehlivý jako hlavní poznávací znamení textů z modelu Opus 5.5",
+      "title_orig": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "category": "wildcard",
+      "summary_cs": [
+        "Analýza textů generovaných novým modelem Opus 5.5 odhalila specifické stylistické vzorce a často opakovaná slova.",
+        "Nejvýraznějším indikátorem je slovo 'spolehlivý', které se v textech generovaných tímto modelem objevuje třiadvacetkrát častěji než v lidském psaní.",
+        "Rozpoznávání těchto drobných nuancí pomáhá lingvistům i detektorům spolehlivě odlišit strojově generovaný obsah."
+      ],
+      "why_matters": "Znalost těchto detailů pomáhá českým tvůrcům lépe editovat výstupy z AI, aby nepůsobily uměle.",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
