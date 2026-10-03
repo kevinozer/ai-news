@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T04:02:12.450205+00:00",
+  "generated_at": "2026-10-03T09:52:34.461838+00:00",
   "date": "2026-10-03",
-  "article_count_unique": 134,
-  "article_count_raw": 134,
+  "article_count_unique": 133,
+  "article_count_raw": 133,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -91,8 +91,8 @@
     {
       "source_id": "last_week_ai",
       "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "one_useful_thing",
@@ -103,14 +103,14 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "count": 0,
+      "raw_count": 0
     },
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 10,
+      "raw_count": 10
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 4,
-      "raw_count": 12
+      "count": 2,
+      "raw_count": 9
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,42 @@
     }
   ],
   "articles": [
+    {
+      "id": "8d4019f7164f3ace",
+      "title": "Kouzlí s hlasem, mají blízko k Česku a během čtyř let zvedli cenu firmy 2400x. Teď stojí 473 miliard",
+      "url": "https://cc.cz/kouzli-s-hlasem-maji-blizko-k-cesku-a-behem-ctyr-let-zvedli-cenu-firmy-2-400x-ted-stoji-473-miliard/",
+      "published_at": "2026-10-03T09:06:55+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Polští zakladatelé naučili AI mluvit jako člověk. Jejich hlasoví agenti týdně vedou 15 milionů hovorů a firma patří mezi tři nejcennější v Evropě. Článek Kouzlí s hlasem, mají blízko k Česku a během čtyř let zvedli cenu firmy 2400x. Teď stojí 473 miliard se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/mati-1-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "e95b730edc65e8de",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+      "published_at": "2026-10-03T08:45:15+00:00",
+      "author": "Latent.Space",
+      "summary_raw": "a quiet day.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "0c505fe26e13d98a",
+      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
+      "published_at": "2026-10-03T07:32:03+00:00",
+      "author": "Last Week in AI",
+      "summary_raw": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!a22F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9feb67e-d790-44f8-8bc1-f1f3057fb185_783x461.png",
+      "source_id": "last_week_ai",
+      "source_name": "Last Week in AI",
+      "category": "newsletter"
+    },
     {
       "id": "acc269094ba1e25e",
       "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
@@ -931,18 +967,6 @@
       "category": "cz"
     },
     {
-      "id": "7b27d9da680f8a63",
-      "title": "Tržby 4,6 miliardy a ztráta 42 miliard. Jak je možné, že Anthropic cílí na valuaci dva biliony dolarů?",
-      "url": "https://cc.cz/anthropic-miri-na-valuaci-pres-dva-biliony-dolaru-unikla-data-pritom-ukazuji-cenu-zavodu-o-ai/",
-      "published_at": "2026-10-02T04:18:55+00:00",
-      "author": "Václav Kinský",
-      "summary_raw": "Tvůrce nástroje Claude roste, zároveň ale pálí miliardy dolarů za výpočetní výkon. Jeho chystané IPO ukáže, jak moc jsou investoři ochotni ocenit AI. Článek Tržby 4,6 miliardy a ztráta 42 miliard. Jak je možné, že Anthropic cílí na valuaci dva biliony dolarů? se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/money-maker-recap-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "73b4d31f0e6920ba",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -1315,18 +1339,6 @@
       "category": "news"
     },
     {
-      "id": "4ea476d311d7c586",
-      "title": "Čech hodlá s AI namlouvat audioknihy pro světové vydavatele, s novými miliony to chce zkusit z Ameriky",
-      "url": "https://www.lupa.cz/aktuality/cech-hodla-s-ai-namlouvat-audioknihy-pro-svetove-vydavatele-s-novymi-miliony-to-chce-zkusit-z-ameriky/",
-      "published_at": "2026-10-01T09:36:35+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Český startup Elredo, který vyvíjí technologii pro automatizovanou produkci audioknih pomocí umělé inteligence, získal investici přesahující milion eur, tedy zhruba 25 milionů korun. Peníze teď chce firma využít ke svému startu ve Spojených státech, právě tam sídlí řada velkých světových vydavatelství. Firma uvádí, že jeho technologie může vydavatelům zlevnit a zrychlit výrobu audioknih.",
-      "hero_image": "https://i.iinfo.cz/images/225/matej-schmalz.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "38d6542dc949ffd3",
       "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
       "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
@@ -1337,30 +1349,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "cb328899d0e77af9",
-      "title": "Quoting Matthew Green",
-      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-      "published_at": "2026-10-01T06:29:01+00:00",
-      "author": "",
-      "summary_raw": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared package cache, and those instructions changed what the recipients did. Replace the package cache with email, Slack and shared documents or WhatsApp, and replace independently-sandboxed training runs with independently-deployed personal agents like Muse, and you have exactly the ingredients that a worm needs. &mdash; Matthew Green , Is sandboxing sufficient to contain rogue agents? Tags: accidental-cyberattacks , ai-misuse , generative-ai , ai-security-research , sandboxing , ai , llms",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "10a39317137802a7",
-      "title": "Umělá inteligence se chystá nakupovat za nás. Seznam chce do konce roku dostat agenty k tisícům e-shopů",
-      "url": "https://www.lupa.cz/clanky/umela-inteligence-se-chysta-nakupovat-za-cechy-seznam-chce-do-konce-roku-dostat-agenty-k-tisicum-e-shopu/",
-      "published_at": "2026-10-01T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Pojem „agentní nakupování“ je nová mantra e-commerce. Jen si pod ním každý představuje něco jiného. V Česku už se ale začínají prohánět oficiální i neoficiální AI nákupčí.",
-      "hero_image": "https://i.iinfo.cz/images/473/agentni-nakupovani-v-e-commerce.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "d7f4cba183b46bb2",
