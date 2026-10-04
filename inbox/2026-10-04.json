@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T04:01:31.345769+00:00",
+  "generated_at": "2026-10-04T10:35:38.069771+00:00",
   "date": "2026-10-04",
-  "article_count_unique": 109,
-  "article_count_raw": 109,
+  "article_count_unique": 102,
+  "article_count_raw": 102,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -19,20 +19,20 @@
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 16,
-      "raw_count": 16
+      "count": 15,
+      "raw_count": 15
     },
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "venturebeat_ai",
@@ -163,17 +163,29 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
-      "raw_count": 7
+      "count": 1,
+      "raw_count": 3
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "7bca6617f2e48fd9",
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "published_at": "2026-10-04T10:00:00+00:00",
+      "author": "Molly Taft",
+      "summary_raw": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "hero_image": "https://media.wired.com/photos/6abfbb7863cea41649272752/master/pass/100226-Power%20Play.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
     {
       "id": "3fb4be1f21dd1cf1",
       "title": "We're going to need default hard budget caps on pretty much everything",
@@ -289,7 +301,7 @@
       "published_at": "2026-10-03T14:37:17+00:00",
       "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
       "summary_raw": "Technologie pro odhalování padělaných dokumentů české firmy Resistant AI Martina Reháka se stala součástí služby americké firmy Ocrolus, konkrétně platformy Ocrulus Detect, která pomáhá bankám, úvěrovým společnostem a dal&#353;ím finančním institucím prověřovat žádosti o půjčky. Platforma Ocrolus zpracuje podle firmy 750 tisíc úvěrových žádostí měsíčně.",
-      "hero_image": "https://i.iinfo.cz/images/183/resistant-ai.jpg",
+      "hero_image": "https://i.iinfo.cz/images/641/kontrola-padelanych-dokladu.png",
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
       "category": "cz"
@@ -751,18 +763,6 @@
       "category": "news"
     },
     {
-      "id": "8a0f7203d9eb4854",
-      "title": "Nový hit ve světě AI? Tento model nechatuje a nepíše texty, přesto o něj byl takový zájem, že padaly servery",
-      "url": "https://cc.cz/novy-hit-ve-svete-ai-tento-model-nechatuje-a-nepise-texty-presto-o-nej-byl-takovy-zajem-ze-padaly-servery/",
-      "published_at": "2026-10-02T14:39:42+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Nová AI jménem Jev funguje jako neviditelná výhybka v kódovém zázemí aplikací. Běžný software díky ní běží nesrovnatelně rychleji a levněji. Článek Nový hit ve světě AI? Tento model nechatuje a nepíše texty, přesto o něj byl takový zájem, že padaly servery se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/jev-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "ea4ee6de0a5c7d04",
       "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
       "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
@@ -859,66 +859,6 @@
       "category": "news"
     },
     {
-      "id": "b8383f2e1f92e0b6",
-      "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
-      "url": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
-      "published_at": "2026-10-02T10:30:11+00:00",
-      "author": "Scharon Harding",
-      "summary_raw": "Can it be Mini LED without a FALD backlight?",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026_Mini-LED_M80H_FRONT_WALL_Image-1-1024x683-1-1024x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "b6dc94454f9b52e8",
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "published_at": "2026-10-02T09:45:00+00:00",
-      "author": "Lily Hay Newman, Matt Burgess",
-      "summary_raw": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
-      "hero_image": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/master/pass/GettyImages-2278945913.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "d69c6b6b0c468dad",
-      "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
-      "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
-      "published_at": "2026-10-02T09:30:00+00:00",
-      "author": "Paresh Dave",
-      "summary_raw": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
-      "hero_image": "https://media.wired.com/photos/6abeb2ae10b6b4f5a5628f89/master/pass/Palantir-Nurse-Strike-e2fab562-387a-496b-b88c-027860c47584.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "498c41fc1d9ba474",
-      "title": "A new contest pits competitors against each other in a race to biological youth",
-      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-      "published_at": "2026-10-02T09:00:00+00:00",
-      "author": "Jessica Hamzelou",
-      "summary_raw": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "17615a0ffdcc05d5",
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "published_at": "2026-10-02T08:00:00+00:00",
-      "author": "Thore Graepel",
-      "summary_raw": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "f2b2c5e582a68eac",
       "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
       "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
@@ -929,30 +869,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "4ce2c3b0dc2a7f33",
-      "title": "Milan Jasný (Alma Career – Jobs.cz): Skutečná revoluce v tom, jak hledáme práci, ještě nepřišla",
-      "url": "https://www.lupa.cz/clanky/milan-jasny-alma-career-jobs-cz-skutecna-revoluce-v-tom-jak-hledame-praci-jeste-neprisla/",
-      "published_at": "2026-10-02T04:30:01+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: David Slížek)",
-      "summary_raw": "Před 30 lety patřil k prvním komerčním službám na českém internetu a od základu změnil způsob, jakým lidé hledají práci. Jaká je historie a současnost Jobs.cz a hledání zaměstnání v době AI?",
-      "hero_image": "https://i.iinfo.cz/images/506/milan-jasny-alma-career-jobs-cz.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "3c5a2f5b7a3cc71f",
-      "title": "Microsoft v AI neuspěl a končí s Copilotem, AI vytvořila náhradu Photoshopu, Raspberry Pi zase zdražuje",
-      "url": "https://www.lupa.cz/clanky/microsoft-v-ai-neuspel-a-konci-s-copilotem-ai-vytvorila-nahradu-photoshopu-raspberry-pi-zase-zdrazuje/",
-      "published_at": "2026-10-02T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Gemini 4 přichází. Velké změny u českého skorojednorožce pod tlakem AI. ASML už v Evrope skoro nic neprodá. Zprávy z IT, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/674/satya-nadella-microsoft.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "73b4d31f0e6920ba",
