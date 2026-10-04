@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-04",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Česká Resistant AI pomůže americkému Ocrolusu hlídat padělané dokumenty",
+      "title_orig": "Česká umělá inteligence bude v americkém úvěrování hlídat padělané dokumenty",
+      "category": "business",
+      "summary_cs": [
+        "Technologie české společnosti Resistant AI, kterou založil Martin Rehák, se stává klíčovou součástí americké platformy Ocrolus Detect.",
+        "Tento systém pomáhá bankám a finančním institucím v USA prověřovat žádosti o půjčky a odhalovat sofistikované podvody.",
+        "Ocrolus ročně zpracuje desítky milionů dokumentů, což pro český startup znamená obrovské rozšíření globálního zásahu."
+      ],
+      "why_matters": "Ukazuje to obrovský úspěch české technologické firmy na vysoce konkurenčním americkém finančním trhu.",
+      "url": "https://www.lupa.cz/aktuality/ceska-umela-inteligence-bude-v-americkem-uverovani-hlidat-padelane-dokumenty/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Bezpečnostní expert OpenAI rezignoval a varuje před rozbitou firemní kulturou",
+      "title_orig": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "category": "news",
+      "summary_cs": [
+        "David Robinson, který v OpenAI psal bezpečnostní zprávy k novým modelům, oznámil svou rezignaci.",
+        "Ve svém prohlášení kritizuje kulturu firmy a varuje před upřednostňováním rychlého komerčního růstu na úkor bezpečnosti.",
+        "Tento odchod navazuje na vlnu předchozích rezignací klíčových výzkumníků, kteří vyjádřili podobné obavy."
+      ],
+      "why_matters": "Odhaluje to pokračující vnitřní napětí v nejvýznamnější AI laboratoři světa ohledně bezpečnosti.",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Sean Parker přestavuje Stability AI se zaměřením na hudební generátory",
+      "title_orig": "Sean Parker is rebuilding Stability AI around music",
+      "category": "business",
+      "summary_cs": [
+        "Známý technologický investor Sean Parker se snaží transformovat oslabenou společnost Stability AI.",
+        "Novým hlavním pilířem firmy se má stát generování hudby s přímou podporou a licencemi od velkých hudebních vydavatelství.",
+        "Tento krok představuje zásadní obrat od čistě obrazových modelů k legálnímu a komerčně udržitelnému audio obsahu."
+      ],
+      "why_matters": "Může to zásadně změnit hudební průmysl a nastavit nový standard pro legální trénování modelů.",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Polský ElevenLabs raketově roste a dosáhl hodnoty 473 miliard korun",
+      "title_orig": "Kouzlí s hlasem, mají blízko k Česku a během čtyř let zvedli cenu firmy 2400x. Teď stojí 473 miliard",
+      "category": "business",
+      "summary_cs": [
+        "Polský startup ElevenLabs, specializující se na syntézu hlasu, zvýšil svou valuaci na 22 miliard dolarů.",
+        "Jejich hlasoví agenti dnes odbavují miliony hovorů týdně a firma se řadí mezi nejhodnotnější technologické hráče v Evropě.",
+        "Úspěch zakladatelů ukazuje obrovský potenciál středoevropského regionu v globálním měřítku."
+      ],
+      "why_matters": "Dokazuje to, že globální lídři v oblasti AI mohou úspěšně vyrůst i v našem bezprostředním sousedství.",
+      "url": "https://cc.cz/kouzli-s-hlasem-maji-blizko-k-cesku-a-behem-ctyr-let-zvedli-cenu-firmy-2-400x-ted-stoji-473-miliard/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Amazon varuje komunity před blokováním datových center kvůli ekonomickým rizikům",
+      "title_orig": "Amazon writes scary blog warning communities not to block data centers",
+      "category": "news",
+      "summary_cs": [
+        "Generální ředitel AWS Matt Garman zveřejnil rozsáhlé vyjádření reagující na odpor veřejnosti vůči stavbám datových center.",
+        "Varuje, že blokování těchto projektů může vážně poškodit národní bezpečnost a celkovou ekonomickou konkurenceschopnost.",
+        "Amazon se snaží zmírnit obavy z obrovské spotřeby energie a dopadů na životní prostředí v dotčených lokalitách."
+      ],
+      "why_matters": "Ukazuje to rostoucí konflikt mezi globální potřebou výpočetního výkonu a lokálními ekologickými limity.",
+      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Palantir čelí kritice zdravotních sester kvůli chybám v plánování směn",
+      "title_orig": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
+      "category": "news",
+      "summary_cs": [
+        "Nasazení plánovacího softwaru od společnosti Palantir ve velkých nemocnicích vyvolalo nevoli personálu.",
+        "Zdravotní sestry si stěžují na neustálé chyby v rozpisech, které vedou k vyhoření a ohrožení bezpečnosti pacientů.",
+        "Případ ukazuje rizika spojená s přílišnou automatizací v kritických sektorech bez dostatečné lidské kontroly."
+      ],
+      "why_matters": "Varovný příklad toho, jak může unáhlené nasazení algoritmů v praxi poškodit klíčové zaměstnance.",
+      "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Capcom se připravuje na budoucnost, kde bude tvořit hry společně s AI",
+      "title_orig": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "category": "news",
+      "summary_cs": [
+        "Herní gigant Capcom představil plány na hlubší integraci umělé inteligence do svého vývojářského enginu RE Engine.",
+        "Cílem je zefektivnit tvorbu herních světů a umožnit vývojářům úzkou kooperaci s generativními nástroji.",
+        "Studio věří, že tato synergie povede k bohatším herním zážitkům bez nutnosti neúměrně navyšovat rozpočty."
+      ],
+      "why_matters": "Zásadní signál pro herní průmysl, že největší studia již s generativní AI plně počítají.",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Papež František kritizuje umění generované umělou inteligencí",
+      "title_orig": "Pope Leo XIV is not a fan of AI-generated art",
+      "category": "wildcard",
+      "summary_cs": [
+        "Papež se vyjádřil k rozmachu generativních modelů a zdůraznil ontologický rozdíl mezi lidským a strojovým uměním.",
+        "Podle jeho slov algoritmům chybí lidská jiskra a jde pouze o statistické výpočty nad cizími díly.",
+        "Vatikán tak zaujímá jasné etické a filozofické stanovisko k ochraně lidské kreativity."
+      ],
+      "why_matters": "Připomíná důležitou etickou a filozofickou debatu o hodnotě lidské tvorby v digitální éře.",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "AI halucinace způsobují problémy v restauracích kvůli alergiím",
+      "title_orig": "AI hallucinations are making entitled customers even worse",
+      "category": "news",
+      "summary_cs": [
+        "Restaurace v USA hlásí nárůst incidentů, kdy se zákazníci spoléhají na informace o složení jídel z AI chatbotů.",
+        "Chatboti často halucinují a tvrdí, že jídla neobsahují alergeny, což vede k nebezpečným situacím přímo u stolů.",
+        "Personál restaurací musí čelit agresivnímu chování hostů, kteří věří aplikacím více než lidem."
+      ],
+      "why_matters": "Ilustruje to reálná zdravotní rizika, když lidé nekriticky důvěřují neověřeným výstupům z chatbotů.",
+      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Nvidia Shield TV po sedmi letech zdražuje o sto dolarů kvůli cenám pamětí",
+      "title_orig": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "category": "news",
+      "summary_cs": [
+        "Populární streamovací zařízení Nvidia Shield TV Pro zaznamenalo nečekané zdražení na 299 dolarů.",
+        "Důvodem je globální nedostatek a prudký nárůst cen paměťových čipů, které jsou masivně skupovány pro potřeby AI.",
+        "Tento trend začíná negativně ovlivňovat i starší spotřební elektroniku, která přímo s AI nesouvisí."
+      ],
+      "why_matters": "Ukazuje, jak boom AI nepřímo zdražuje běžnou elektroniku pro koncové spotřebitele.",
+      "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Hledání práce v době AI: Skutečná revoluce na Jobs.cz teprve přijde",
+      "title_orig": "Milan Jasný (Alma Career – Jobs.cz): Skutečná revoluce v tom, jak hledáme práci, ještě nepřišla",
+      "category": "news",
+      "summary_cs": [
+        "Ředitel Alma Career Milan Jasný hodnotí třicetiletou historii portálu Jobs.cz a vliv nových technologií.",
+        "Ačkoliv AI již pomáhá s tříděním životopisů, zásadní transformace celého trhu práce nás teprve čeká.",
+        "Budoucnost náboru bude spočívat v hlubším porozumění dovednostem kandidátů pomocí prediktivních modelů."
+      ],
+      "why_matters": "Poskytuje střízlivý pohled na to, jak AI reálně mění český trh práce a nábor zaměstnanců.",
+      "url": "https://www.lupa.cz/clanky/milan-jasny-alma-career-jobs-cz-skutecna-revoluce-v-tom-jak-hledame-praci-jeste-neprisla/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 12,
+      "title_cs": "V USA zatkli ředitele firmy za pašování čipů Nvidia do Číny",
+      "title_orig": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "category": "news",
+      "summary_cs": [
+        "Americké úřady zadržely šéfa technologické firmy obviněného z nelegálního vývozu čipů v hodnotě 300 milionů dolarů.",
+        "Pokročilé akcelerátory od Nvidie měly směřovat do Číny přes síť krycích společností, čímž došlo k porušení sankcí.",
+        "Případ potvrzuje, jak extrémní zájem o hardware pro AI pohání černý trh po celém světě."
+      ],
+      "why_matters": "Dokládá, že boj o hardware pro umělou inteligenci se stal klíčovým geopolitickým bojištěm.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Hugging Face spouští otevřený žebříček pro hodnocení syntézy hlasu",
+      "title_orig": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "category": "open-source",
+      "summary_cs": [
+        "Platforma Hugging Face představila Open TTS Leaderboard pro transparentní testování modelů zaměřených na text-to-speech.",
+        "Nástroj umožňuje škálovatelné hodnocení kvality syntézy a klonování hlasu v mnoha světových jazycích.",
+        "Tato iniciativa má pomoci komunitě snadněji identifikovat nejlepší open-source řešení na trhu."
+      ],
+      "why_matters": "Pomůže českým vývojářům lépe vybrat kvalitní open-source modely pro generování mluveného slova.",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Někdo spustil legendární hru Doom přímo v SQL databázi",
+      "title_orig": "Someone got Doom in an SQL database",
+      "category": "wildcard",
+      "summary_cs": [
+        "Vývojář vytvořil funkční verzi hry Doom napsanou čistě pomocí 1 300 řádků SQL dotazů.",
+        "Hra se vykresluje jako bitmapový pohled přímo v databázovém prostředí při rychlosti 35 snímků za sekundu.",
+        "Tento bizarní projekt demonstruje nečekané možnosti a výpočetní sílu moderních databázových systémů."
+      ],
+      "why_matters": "Fascinující ukázka inženýrské kreativity, která posouvá hranice toho, co považujeme za databázový dotaz.",
+      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Budeme potřebovat tvrdé rozpočtové stropy na všechna AI API",
+      "title_orig": "We're going to need default hard budget caps on pretty much everything",
+      "category": "tools",
+      "summary_cs": [
+        "Analytik Simon Willison upozorňuje na riziko nekontrolovaných výdajů při používání moderních AI agentů.",
+        "Pokud agenti začnou pracovat v autonomních smyčkách, mohou během chvíle vygenerovat obrovské účty za API.",
+        "Autor vyzývá poskytovatele služeb, aby povinně zaváděli tvrdé finanční limity pro zamezení nečekaných ztrát."
+      ],
+      "why_matters": "Praktické varování pro české firmy před finančními riziky při nasazování autonomních AI agentů.",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
