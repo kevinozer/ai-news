@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T04:02:45.015335+00:00",
+  "generated_at": "2026-10-05T11:28:28.439647+00:00",
   "date": "2026-10-05",
-  "article_count_unique": 100,
-  "article_count_raw": 100,
+  "article_count_unique": 103,
+  "article_count_raw": 103,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -13,8 +13,8 @@
     {
       "source_id": "verge_ai",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "arstechnica",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 0,
-      "raw_count": 0
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "wired_ai",
@@ -67,8 +67,8 @@
     {
       "source_id": "huggingface_blog",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "import_ai",
@@ -164,16 +164,88 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 1,
-      "raw_count": 3
+      "raw_count": 6
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "d70e85546292408f",
+      "title": "Evropa se po čase ozvala s novým AI modelem. Pro běžného uživatele je ale k ničemu, Němci s ním míří jinam",
+      "url": "https://cc.cz/evropa-se-po-case-ozvala-s-novym-ai-modelem-pro-bezneho-uzivatele-je-ale-k-nicemu-nemci-s-nim-miri-jinam/",
+      "published_at": "2026-10-05T10:00:30+00:00",
+      "author": "David Zlomek",
+      "summary_raw": "Cílem německých tvůrců je digitální suverenita Evropy. Uživatelé modelu Kolibri mají mít plnou kontrolu nad tím, kde se citlivá data zpracovávají. Článek Evropa se po čase ozvala s novým AI modelem. Pro běžného uživatele je ale k ničemu, Němci s ním míří jinam se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/kolibri-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "55462bce9a4df50c",
+      "title": "Our minds aren’t equipped to handle AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "published_at": "2026-10-05T10:00:00+00:00",
+      "author": "Benjamin Riley",
+      "summary_raw": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI_115fb1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "3fcbeda4bf3dea84",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "published_at": "2026-10-05T10:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "38d03fd94f16cfdb",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "published_at": "2026-10-05T08:00:00+00:00",
+      "author": "Will Douglas Heaven",
+      "summary_raw": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "d9474ebe4c08d189",
+      "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+      "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+      "published_at": "2026-10-05T04:00:52+00:00",
+      "author": "Jennifer Ouellette",
+      "summary_raw": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egypt1-1152x648-1791134921.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "f3d275a064c55549",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "published_at": "2026-10-05T04:00:00+00:00",
+      "author": "MIT Technology Review",
+      "summary_raw": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EFT_On-Demad_WEB.png",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
     {
       "id": "ecdbdfd3b04071df",
       "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
@@ -787,18 +859,6 @@
       "category": "news"
     },
     {
-      "id": "3594c2fb99a3f97c",
-      "title": "The dawn of the age of the exoskeleton",
-      "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
-      "published_at": "2026-10-03T11:15:33+00:00",
-      "author": "Ildar Farkhatdinov, The Conversation",
-      "summary_raw": "The devices continue to show noticeable benefits for users in various real-world tasks.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
       "id": "e95b730edc65e8de",
       "title": "[AINews] not much happened today",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
@@ -1213,30 +1273,6 @@
       "published_at": "2026-09-28T19:00:00+00:00",
       "author": "",
       "summary_raw": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "d2414d5a7ea39f18",
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "published_at": "2026-09-28T09:44:05+00:00",
-      "author": "",
-      "summary_raw": "",
-      "hero_image": null,
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "category": "labs"
-    },
-    {
-      "id": "9798ea9fece2a785",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "published_at": "2026-09-28T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
