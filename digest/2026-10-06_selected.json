@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-06",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI zavádí neviditelný vodoznak pro texty z ChatGPT v Evropské unii",
+      "title_orig": "Our approach to EU text provenance rules",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI začíná v Evropské unii označovat textové výstupy z ChatGPT a Codexu neviditelným, strojově čitelným vodoznakem.",
+        "Tento krok reaguje na požadavky evropského Aktu o AI, který nařizuje transparentnost ohledně původu obsahu generovaného umělou inteligencí.",
+        "Nová technologie s názvem textGrain má podle tvůrců minimální vliv na kvalitu textu a vykazuje vysokou odolnost vůči běžným úpravám."
+      ],
+      "why_matters": "Tato změna se přímo dotkne českých uživatelů a může zásadně ovlivnit detekci AI textů ve školách i médiích.",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Protokol MCP pro komunikaci mezi agenty představuje nečekané bezpečnostní riziko",
+      "title_orig": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "category": "news",
+      "summary_cs": [
+        "Nový komunikační protokol MCP pro propojování AI agentů vykazuje vážné bezpečnostní mezery v oblasti důvěryhodnosti zdrojů.",
+        "Bezpečnostní experti varují, že škodlivé instrukce se mohou snadno šířit z jednoho autonomního agenta na druhého.",
+        "Chybějící standardy pro ověřování oprávnění otevírají dveře pro sofistikované útoky na firemní infrastrukturu."
+      ],
+      "why_matters": "Zabezpečení AI agentů je klíčové pro české firmy, které plánují tyto technologie integrovat do svých interních systémů.",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Německý model Kolibri sází na evropskou suverenitu a ochranu citlivých dat",
+      "title_orig": "Evropa se po čase ozvala s novým AI modelem. Pro běžného uživatele je ale k ničemu, Němci s ním míří jinam",
+      "category": "news",
+      "summary_cs": [
+        "V Německu vznikl nový specializovaný AI model Kolibri, který se zaměřuje na maximální digitální suverenitu Evropy.",
+        "Model není určen pro širokou veřejnost, ale cílí na instituce a firmy vyžadující absolutní kontrolu nad zpracováním citlivých dat.",
+        "Tvůrci garantují, že veškerá data zůstávají na evropské půdě a nepodléhají americkým ani asijským cloudovým službám."
+      ],
+      "why_matters": "Pro české úřady a regulované obory představuje evropský model bezpečnou alternativu k americkým technologiím.",
+      "url": "https://cc.cz/evropa-se-po-case-ozvala-s-novym-ai-modelem-pro-bezneho-uzivatele-je-ale-k-nicemu-nemci-s-nim-miri-jinam/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI spouští vizuální reklamy přímo v rozhraní ChatGPT",
+      "title_orig": "Building advertising for the way people use AI",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI oficiálně představuje nový formát vizuální reklamy, který se bude zobrazovat vedle výsledků generování obrázků.",
+        "Inzerce se začne testovat koncem tohoto měsíce v USA a nabídne produkty od vybrané skupiny partnerů.",
+        "Společnost se tímto krokem snaží diverzifikovat své příjmy a přizpůsobit reklamní formáty novému způsobu vyhledávání informací."
+      ],
+      "why_matters": "Zavedení reklam do ChatGPT mění uživatelskou zkušenost a otevírá nové marketingové kanály i pro české firmy.",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Otevřený model Beam od startupu Reflection chce konkurovat Číně s nižšími náklady",
+      "title_orig": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "category": "open-source",
+      "summary_cs": [
+        "Startup Reflection vydal model Beam s otevřenými váhami, který je navržen pro efektivní provoz s nízkými nároky na výpočetní výkon.",
+        "Cílem je nabídnout podnikům a státním institucím možnost vybudovat si vlastní lokální AI továrny na míru.",
+        "Model umožňuje snadné dotrénování na interních firemních datech bez nutnosti investovat do drahé hardwarové infrastruktury."
+      ],
+      "why_matters": "Tento model umožňuje českým vývojářům nasadit pokročilou AI lokálně a s výrazně nižšími provozními náklady.",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Čeští studenti přetvářejí nudné učebnice do formátu videí pro TikTok",
+      "title_orig": "Učebnice prý mladé nebaví. Dvojice studentů je proto s AI přetváří do formátu TikToku, aby u nich vydrželi",
+      "category": "wildcard",
+      "summary_cs": [
+        "Kalifornský startup ScrollEd, založený dvojicí studentů, využívá AI k transformaci klasických textů do podoby vertikálního obsahu.",
+        "Projekt reaguje na klesající pozornost mladé generace a snaží se vzdělávací materiály přiblížit jejich běžným návykům.",
+        "Aplikace generuje krátká videa a interaktivní prvky, které pomáhají udržet pozornost studentů u náročných témat."
+      ],
+      "why_matters": "Ukazuje inovativní využití AI ve vzdělávání, které může inspirovat i české školy a tvůrce výukových materiálů.",
+      "url": "https://cc.cz/ucebnice-pry-mlade-nebavi-dvojice-studentu-je-proto-s-ai-pretvari-do-formatu-tiktoku-aby-u-nich-vydrzeli/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Nástroj s otevřeným kódem umožňuje smazat 12 GB dat Apple Intelligence z macOS",
+      "title_orig": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "category": "tools",
+      "summary_cs": [
+        "Nový open-source nástroj RemoveMacAI umožňuje uživatelům operačního systému macOS kompletně odstranit data spojená s AI.",
+        "Apple v nejnovější verzi systému odstranil jednoduché tlačítko pro vypnutí, takže modely zůstávají uložené na disku.",
+        "Smazáním těchto souborů mohou uživatelé okamžitě uvolnit více než 12 GB drahocenného úložného prostoru na svém Macu."
+      ],
+      "why_matters": "Užitečný nástroj pro české uživatele Maců, kteří bojují s nedostatkem místa na disku a AI funkce nevyužívají.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Vědci odhalili čínskou flotilu AI agentů útočící na mapové služby",
+      "title_orig": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "category": "news",
+      "summary_cs": [
+        "Nezávislí výzkumníci objevili organizovanou síť autonomních AI agentů běžících na infrastruktuře společnosti Tencent.",
+        "Tato koordinovaná flotila se zaměřila na mapovou službu Amap, kterou provozuje konkurenční technologický gigant Alibaba.",
+        "Incident ukazuje rostoucí trend využívání autonomních agentů k průmyslové špionáži a sabotáži konkurenčních digitálních platforem."
+      ],
+      "why_matters": "Předznamenává novou éru kybernetických hrozeb, kdy proti sobě budou v digitálním prostoru bojovat celé armády botů.",
+      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Norsko chystá první vládní regulaci pro chytré brýle s kamerami",
+      "title_orig": "AI glasses face their first major government crackdown",
+      "category": "news",
+      "summary_cs": [
+        "Norské úřady požadují čas na vypracování trvalých pravidel pro používání nositelné elektroniky s integrovanou umělou inteligencí.",
+        "Hlavní obavou je ochrana soukromí kolemjdoucích, které mohou tyto brýle bez jejich vědomí neustále nahrávat a analyzovat.",
+        "Jde o první významný zásah státní správy proti masovému šíření chytrých brýlí s funkcemi pro rozpoznávání objektů."
+      ],
+      "why_matters": "Norské rozhodnutí může vytvořit precedens pro regulaci nositelné AI v celé Evropě včetně České republiky.",
+      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Startup v Utahu začal předepisovat léky na akné pomocí autonomní AI",
+      "title_orig": "This startup is issuing AI-generated acne prescriptions",
+      "category": "tools",
+      "summary_cs": [
+        "Zdravotnický startup Nolla Health spustil službu, která uživatelům umožňuje získat recept na léčbu akné bez návštěvy lékaře.",
+        "Aplikace naskenuje obličej pacienta, analyzuje závažnost kožních problémů a autonomně vystaví lékařský předpis.",
+        "Služba je zatím dostupná v americkém státě Utah a vyvolává intenzivní debaty o bezpečnosti plně automatizované medicíny."
+      ],
+      "why_matters": "Ukazuje budoucnost telemedicíny, která by mohla výrazně zkrátit čekací doby u českých dermatologů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "AI tazatel od HackerRanku už provedl přes půl milionu pracovních pohovorů",
+      "title_orig": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "category": "tools",
+      "summary_cs": [
+        "Platforma HackerRank nasadila plně automatizovaného AI tazatele, který má za úkol prověřovat technické dovednosti uchazečů o práci.",
+        "Systém již úspěšně otestoval více než 500 tisíc kandidátů ve firmách jako Snowflake, Snorkel nebo Capgemini.",
+        "Nástroj slibuje objektivnější hodnocení bez lidských předsudků, ale vyvolává otázky ohledně ztráty lidského kontaktu při náboru."
+      ],
+      "why_matters": "Čeští uchazeči o práci v IT se musí připravit na to, že jejich prvním partnerem u pohovoru bude algoritmus.",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Instinct přivádí AI agenty do skupinových chatů pro plánování akcí",
+      "title_orig": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "category": "tools",
+      "summary_cs": [
+        "Aplikace Instinct představila novou funkci skupinových chatů, kde mohou uživatelé společně využívat jednoho AI asistenta.",
+        "Asistent pomáhá s organizací spolujízd, plánováním výletů nebo koordinací kalendářů všech zúčastněných členů skupiny.",
+        "Do chatu se mohou zapojit i lidé bez vlastního uživatelského účtu, přičemž sdílení osobních dat vyžaduje explicitní souhlas."
+      ],
+      "why_matters": "Usnadňuje každodenní organizaci skupinových aktivit a ukazuje praktické využití AI v běžném životě.",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "TikTok spouští nákupního AI asistenta a platbu na jedno kliknutí",
+      "title_orig": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "category": "business",
+      "summary_cs": [
+        "Sociální síť TikTok představila konverzačního AI asistenta navrženého pro usnadnění nákupů přímo uvnitř aplikace.",
+        "Uživatelé mohou s asistentem diskutovat o produktech, nechat si doporučit dárky a nákup dokončit jedním kliknutím.",
+        "Tato novinka představuje další krok v přeměně zábavní platformy na plnohodnotný e-commerce ekosystém."
+      ],
+      "why_matters": "Tento krok zásadně ovlivní chování mladých spotřebitelů a přinese nové výzvy pro český e-commerce trh.",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Paradox popularity AI: Lidé technologii kritizují, přesto ji masivně používají",
+      "title_orig": "People really hate AI, so why can’t they get enough?",
+      "category": "wildcard",
+      "summary_cs": [
+        "Sociologické průzkumy ukazují rostoucí skepsi a odpor veřejnosti vůči rychlému rozvoji generativní umělé inteligence.",
+        "Zároveň však statistiky využívání AI nástrojů neustále rostou a lidé je integrují do své každodenní práce i zábavy.",
+        "Odborníci tento jev označují za paradox sebenenávisti, kdy uživatelé technologii morálně odsuzují, ale prakticky se bez ní neobejdou."
+      ],
+      "why_matters": "Pomáhá pochopit rozpolcený vztah české společnosti k moderním technologiím a jejich přijímání na trhu.",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 15,
+      "title_cs": "PR oddělení OpenAI se pokusilo utnout dotazy na sebevraždu uživatele ChatGPT",
+      "title_orig": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user's suicide",
+      "category": "business",
+      "summary_cs": [
+        "Během rozhovoru pro časopis Vanity Fair se novinář zeptal šéfa OpenAI Sama Altmana na tragický případ sebevraždy uživatele ChatGPT.",
+        "Přítomná tisková mluvčí okamžitě zasáhla, přerušila otázku a pokusila se téma hovoru rychle změnit s odkazem na nedostatek času.",
+        "Incident vyvolal vlnu kritiky ohledně toho, jak se technologičtí giganti staví k etické odpovědnosti za psychické zdraví uživatelů."
+      ],
+      "why_matters": "Upozorňuje na citlivé téma bezpečnosti AI a nutnost regulace v oblasti psychologických dopadů chatbotů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "source": "The Verge AI"
+    }
+  ]
+}
