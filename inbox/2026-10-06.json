@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T04:01:39.492712+00:00",
+  "generated_at": "2026-10-06T11:17:00.133141+00:00",
   "date": "2026-10-06",
-  "article_count_unique": 86,
-  "article_count_raw": 86,
+  "article_count_unique": 99,
+  "article_count_raw": 99,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -19,14 +19,14 @@
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 13,
-      "raw_count": 13
+      "count": 12,
+      "raw_count": 12
     },
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 10,
+      "raw_count": 10
     },
     {
       "source_id": "wired_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 11,
-      "raw_count": 11
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "anthropic_news",
@@ -66,9 +66,9 @@
     },
     {
       "source_id": "huggingface_blog",
-      "status": "error",
-      "error": "RuntimeError: Feed parse error: <unknown>:2:0: syntax error",
-      "count": 0
+      "status": "ok",
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "import_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,17 +163,221 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 0,
-      "raw_count": 5
+      "count": 2,
+      "raw_count": 11
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "940815ebdf35efcd",
+      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "published_at": "2026-10-06T10:53:11+00:00",
+      "author": "Dominic Preston",
+      "summary_raw": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing. The [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "05028efafddfbfc4",
+      "title": "2026 Climate Tech Companies to Watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "author": "Amy Nordrum",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "5b3d9a991dd68ee3",
+      "title": "Here’s how our climate team picked 10 promising companies to watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "author": "Casey Crownhart",
+      "summary_raw": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160; This year is shaping up to be one of the hottest ever recorded.&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "ad9ac217956517e2",
+      "title": "WeLion New Energy and its semi-solid-state batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "author": "You Xiaoying",
+      "summary_raw": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "0f1733a36836a71f",
+      "title": "Form Energy and its iron batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "author": "Jonathan W. Rosen",
+      "summary_raw": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output varies based on season, time of day, and weather.&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Form-Energy-team-members-working-in-Form-Factory-1.jpg?w=840",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "b477657768dc12af",
+      "title": "X-energy and its helium-cooled nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "author": "Mark Ellis Harris",
+      "summary_raw": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but what heavy industry also needs is raw heat—and lots of it. The manufacture&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "eb03870064a19723",
+      "title": "Energy Dome and its carbon dioxide batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "author": "Casey Crownhart",
+      "summary_raw": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.&#160; As the world races to meet growing electricity demand, solar and onshore wind power have become&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "a0f4344a16c20385",
+      "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+      "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "author": "James Temple",
+      "summary_raw": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process for manufacturing building materials, aluminum, steel, and&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "72483ee891d8bf79",
+      "title": "WaveSave and its portable rubber dam",
+      "url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "author": "Amy Nordrum",
+      "summary_raw": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store freshwater for later use. Communities in Europe, Africa, and Southeast Asia have deployed it successfully. Now, the company is&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Flood-Defense_1.jpg?w=800",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "2791ad8dd6a8e32a",
+      "title": "BasiGo and its fleet of electric buses",
+      "url": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "author": "Geoffrey Kamadi",
+      "summary_raw": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs more attainable and is changing the way public transport operates. In a bid to contain the covid-19 pandemic in 2020, the Kenyan government&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "0c50ff124a2feb84",
+      "title": "Moment Energy and its shipping containers packed with old EV batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145221/2026-climate-tech-companies-to-watch-moment-energy-shipping-containers-packed-old-ev-batteries/",
+      "published_at": "2026-10-06T10:35:00+00:00",
+      "author": "Emma Foehringer Merchant",
+      "summary_raw": "Demand for energy storage is surging, with capacity expected to grow eightfold in the next decade. To meet that demand, Moment Energy wants to shortcut a supply chain that now flows largely through China, by domestically repurposing EV batteries into new grid-connected storage systems. Moment Energy’s four founders met while studying mechatronics engineering in college&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "ddae67c99ba45c06",
+      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+      "published_at": "2026-10-06T10:30:00+00:00",
+      "author": "Katie Drummond",
+      "summary_raw": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
+      "hero_image": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/master/pass/100516-Big%20Interview%20K%20Roose%20Solo.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "c51a2210db99db67",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "published_at": "2026-10-06T06:44:39+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "a57820c90f4e24c6",
+      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "published_at": "2026-10-06T06:28:43+00:00",
+      "author": "",
+      "summary_raw": "A small win for US open source",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/DIu7xA898go",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "3bcc754a30226f8f",
+      "title": "Přesvědčit oběť, aby peníze poslala sama. Jak se v Česku daří podvodům zneužívajícím AI?",
+      "url": "https://www.lupa.cz/clanky/presvedcit-obet-aby-penize-poslala-sama-jak-se-v-cesku-dari-podfukum-zneuzivajicim-ai/",
+      "published_at": "2026-10-06T04:30:01+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: David Slížek)",
+      "summary_raw": "Děti volající rodičům s naléhavou žádostí o peníze, šéfové přikazující na videoporadě urychlené platby, policista varující před napadeným účtem. Jak se v Česku vyplňují předpovědi slibující záplavy podfuků založených na AI deepfakes?",
+      "hero_image": "https://i.iinfo.cz/images/458/ai-deepfake-tvar-oblicej-identita.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "f07e3d93e8ec32d9",
+      "title": "Ledničky, pračky a teď i datacentra. EU pro ně chce zavést energetické štítky, hrozí omezením provozu",
+      "url": "https://www.lupa.cz/clanky/lednicky-pracky-a-ted-i-datacentra-eu-pro-ne-chce-zavest-energeticke-stitky-hrozi-omezenim-provozu/",
+      "published_at": "2026-10-06T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Evropská unie chce stavět nová datacentra včetně těch pro AI. Zároveň ale pro něj chystá další pravidla, která přidají byrokracii a náklady.",
+      "hero_image": "https://i.iinfo.cz/images/384/neekologicke-datove-centrum.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "884da134b10521cb",
+      "title": "Je mu 23, dělá pro něj jen 14 lidí a má firmu za 210 miliard. Jejich AI sama obvolá doktory i restaurace",
+      "url": "https://cc.cz/je-mu-23-dela-pro-nej-jen-14-lidi-a-ma-firmu-za-210-miliard-jejich-ai-sama-obvola-doktory-i-restaurace/",
+      "published_at": "2026-10-06T04:27:36+00:00",
+      "author": "Michaela Prešinská",
+      "summary_raw": "Americký startup Instinct získal miliardu dolarů a dosáhl valuace 10 miliard. Jeho AI agent za člověka volá doktorům, ruší předplatná i rezervace. Článek Je mu 23, dělá pro něj jen 14 lidí a má firmu za 210 miliard. Jejich AI sama obvolá doktory i restaurace se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/noah-shinn-xyz-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "01b11638e153ba49",
       "title": "Quoting Felix Rieseberg",
@@ -427,18 +631,6 @@
       "category": "news"
     },
     {
-      "id": "229fbdb2c78bb952",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "published_at": "2026-10-05T15:47:52+00:00",
-      "author": "MIT Technology Review Insights",
-      "summary_raw": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Neo4j-Report-2026-cover.png",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "7626f4ded9d05722",
       "title": "OpenAI launches visual ads that appear alongside image generation results",
       "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
@@ -559,18 +751,6 @@
       "category": "news"
     },
     {
-      "id": "03c42af57a065ea1",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "published_at": "2026-10-05T13:29:32+00:00",
-      "author": "MIT Technology Review Insights",
-      "summary_raw": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MIT_TP_CoverPredictiveAnalyticsV9_9926.png?w=840",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "253a89db4d2c5f87",
       "title": "Učebnice prý mladé nebaví. Dvojice studentů je proto s AI přetváří do formátu TikToku, aby u nich vydrželi",
       "url": "https://cc.cz/ucebnice-pry-mlade-nebavi-dvojice-studentu-je-proto-s-ai-pretvari-do-formatu-tiktoku-aby-u-nich-vydrzeli/",
@@ -581,30 +761,6 @@
       "source_id": "czechcrunch",
       "source_name": "CzechCrunch",
       "category": "cz"
-    },
-    {
-      "id": "b96ebb36eae58fa1",
-      "title": "OpenAI is sticking more ads in ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-      "published_at": "2026-10-05T13:09:48+00:00",
-      "author": "Emma Roth",
-      "summary_raw": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chatgpt-visual-ads.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "224a56adc6e03cd3",
-      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
-      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-      "published_at": "2026-10-05T12:10:00+00:00",
-      "author": "Thomas Macaulay",
-      "summary_raw": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Clones-3.jpg?fit=2128,1196",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
     },
     {
       "id": "4bcdcd34a7059263",
@@ -655,18 +811,6 @@
       "category": "labs"
     },
     {
-      "id": "38d03fd94f16cfdb",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "published_at": "2026-10-05T08:00:00+00:00",
-      "author": "Will Douglas Heaven",
-      "summary_raw": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "d9474ebe4c08d189",
       "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
       "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
@@ -676,18 +820,6 @@
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egypt1-1152x648-1791134921.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "f3d275a064c55549",
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "published_at": "2026-10-05T04:00:00+00:00",
-      "author": "MIT Technology Review",
-      "summary_raw": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EFT_On-Demad_WEB.png",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
       "category": "news"
     },
     {
@@ -763,28 +895,16 @@
       "category": "news"
     },
     {
-      "id": "77cb62ee8231cfc0",
-      "title": "All hail electrification. But let’s talk about the hard part.",
-      "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
-      "published_at": "2026-10-04T11:05:53+00:00",
-      "author": "Dan Gearino, Inside Climate News",
-      "summary_raw": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1463437040-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "7bca6617f2e48fd9",
-      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-      "published_at": "2026-10-04T10:00:00+00:00",
-      "author": "Molly Taft",
-      "summary_raw": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-      "hero_image": "https://media.wired.com/photos/6abfbb7863cea41649272752/master/pass/100226-Power%20Play.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
+      "id": "46b8555b8dbcbd18",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "published_at": "2026-10-03T22:56:48+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
     },
     {
       "id": "e95b730edc65e8de",
@@ -823,6 +943,18 @@
       "category": "labs"
     },
     {
+      "id": "9e570beecc402a2c",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "published_at": "2026-10-02T15:19:50+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
       "id": "6f171772ff112693",
       "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
       "url": "https://www.latent.space/p/airbnb",
@@ -845,6 +977,18 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
+    },
+    {
+      "id": "73b4d31f0e6920ba",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "published_at": "2026-10-02T04:01:31+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
     },
     {
       "id": "8a80e0854adc5119",
@@ -1039,6 +1183,42 @@
       "category": "commentary"
     },
     {
+      "id": "580a196e64d5ed49",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "41b0c4a69a31fcf1",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "published_at": "2026-09-29T15:30:38+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "755fa13e4a17fc14",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "published_at": "2026-09-29T13:07:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
       "id": "25e83187f1f26256",
       "title": "Sonnet 5.5 is worth a try",
       "url": "https://www.bensbites.com/p/sonnet-55-is-worth-a-try",
@@ -1049,30 +1229,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "9a8e7445a2ab161a",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "a04c24bb0f03b9de",
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
     },
     {
       "id": "4486d72d0714b10b",
