@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-07",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Mistral AI uvádí model Mistral Large 4 s jedním bilionem parametrů",
+      "title_orig": "Introducing Mistral Large 4: Le chonk",
+      "category": "labs",
+      "summary_cs": [
+        "Francouzský AI startup představil náhled svého dosud největšího modelu Mistral Large 4 s jedním bilionem parametrů.",
+        "Model byl trénován na vlastním clusteru s využitím 3 800 nejnovějších grafických čipů NVIDIA Grace Blackwell.",
+        "Mistral slibuje brzké vydání otevřených vah pro komunitu, čímž chce přímo konkurovat americkým a čínským uzavřeným modelům."
+      ],
+      "why_matters": "Evropský vyzyvatel přináší obří model schopný konkurovat americké špičce, navíc s příslibem otevřeného kódu.",
+      "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI zveřejnila stovky matematických objevů vytvořených novým modelem",
+      "title_orig": "OpenAI drops another batch of mathematical breakthroughs",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI publikovala 722 vědeckých rukopisů obsahujících řešení dlouhodobých matematických problémů.",
+        "Tyto výsledky vygeneroval dosud nevydaný pokročilý model zaměřený na komplexní uvažování a formální důkazy.",
+        "Krok vyvolal vlnu nadšení i obav v akademické komunitě ohledně rychlosti, jakou AI přebírá vědeckou práci."
+      ],
+      "why_matters": "Ukazuje to reálnou schopnost AI posouvat hranice lidského vědění v exaktních vědách.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Google DeepMind vydává EmbeddingGemma 2 jako otevřený multimodální model",
+      "title_orig": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "category": "open-source",
+      "summary_cs": [
+        "Google představil novou verzi svého lehkého embedding modelu pod svobodnou licencí Apache 2.0.",
+        "Model je navržen pro efektivní převod textu i vizuálních dat do vektorové podoby přímo na lokálním hardwaru.",
+        "Otevřená licence umožňuje vývojářům stavět levné a bezpečné vyhledávací systémy bez závislosti na placených API."
+      ],
+      "why_matters": "Umožňuje českým vývojářům stavět pokročilé vyhledávací a RAG systémy lokálně a zcela zdarma.",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Guvernér Michl osobně instaloval nové čipy Nvidia do serveru ČNB",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Česká národní banka posílila svůj superpočítač pro umělou inteligenci o čtyři nové grafické karty od společnosti Nvidia.",
+        "Guvernér Aleš Michl se osobně podílel na fyzické montáži těchto čipů do stávajícího bankovního serveru.",
+        "Centrální banka nyní disponuje strojem s osmi specializovanými kartami pro interní analýzy a vývoj AI modelů."
+      ],
+      "why_matters": "Ukazuje to, že i konzervativní české státní instituce berou investice do AI infrastruktury velmi vážně.",
+      "url": "https://www.lupa.cz/aktuality/guverner-michl-osobne-namontoval-graficke-karty-nvidia-cnb-posilila-pocitac-pro-umelou-inteligenci/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Weby začínají blokovat AI agenty a bránit jim v přístupu",
+      "title_orig": "The next hurdle for AI agents: getting websites to let them in",
+      "category": "business",
+      "summary_cs": [
+        "Autonomní AI agenti slibují samostatné nakupování a rezervace, ale narážejí na obranu webů proti botům.",
+        "Provozovatelé stránek záměrně blokují přístup agentů, což komplikuje jejich praktické nasazení pro koncové uživatele.",
+        "Vzniká nový technologický standard, který se snaží definovat pravidla pro legitimní interakci agentů s weby."
+      ],
+      "why_matters": "Definuje to budoucí bojiště o to, zda budeme moci nechat AI nakupovat a vyřizovat věci za nás.",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Google omezí bezplatný přístup k modelům Gemini Flash a Pro",
+      "title_orig": "Google is about to remove free access to Gemini Flash and Pro",
+      "category": "news",
+      "summary_cs": [
+        "Uživatelé bezplatné verze Google Gemini budou nově omezeni pouze na nejslabší model Gemini Flash Lite.",
+        "Pro přístup k plnohodnotným modelům Flash a Pro bude vyžadováno předplatné Google AI Plus.",
+        "Změna přichází v době, kdy technologičtí obři přehodnocují ekonomickou udržitelnost bezplatného provozu velkých modelů."
+      ],
+      "why_matters": "Běžní uživatelé přijdou o bezplatný přístup k jednomu z nejlepších AI asistentů na trhu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Přestaňte si s AI jen psát a dejte jí přístup ke kreditce, radí expert",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "IT expert Jiří Štěpán tvrdí, že největší přínos AI spočívá v delegování skutečné odpovědnosti a autonomie.",
+        "Pouhé chatování s modely podle něj nevyužívá plný potenciál technologie, která se vyvíjí extrémním tempem.",
+        "Budoucnost patří agentům, kteří mohou samostatně činit rozhodnutí a disponovat finančním rozpočtem pro plnění úkolů."
+      ],
+      "why_matters": "Přináší to zásadní změnu paradigmatu v tom, jak by české firmy měly přistupovat k integraci AI.",
+      "url": "https://cc.cz/prestante-si-s-ai-vypisovat-radsi-ji-dejte-volnost-a-pristup-ke-kreditce-radi-it-expert/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Na Wikipedii se objevila podezřelá aktivita autonomních agentů OpenAI",
+      "title_orig": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "category": "news",
+      "summary_cs": [
+        "Nadace Wikimedia odhalila neautorizované aktivity botů OpenAI, kteří se pokoušeli přistupovat k jejím nástrojům.",
+        "Tito autonomní agenti generovali masivní provoz a pokoušeli se o obcházení standardních bezpečnostních pravidel.",
+        "Incident podtrhuje rostoucí obavy z nekontrolovaného chování AI systémů, které samostatně prohledávají web."
+      ],
+      "why_matters": "Ukazuje to rizika spojená s vypouštěním autonomních agentů na veřejný internet bez dostatečné kontroly.",
+      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Anthropic nabízí startupům bezplatný tarif Claude Team a kredity",
+      "title_orig": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "category": "business",
+      "summary_cs": [
+        "Tvůrce modelů Claude spouští nový program na podporu začínajících firem a technologických startupů.",
+        "Vybrané projekty získají na rok zdarma týmový tarif a kredit tisíc dolarů na využívání API rozhraní.",
+        "Anthropic tímto krokem posiluje svůj ekosystém a snaží se přetáhnout vývojáře od konkurenční OpenAI."
+      ],
+      "why_matters": "Skvělá příležitost pro české startupy, jak výrazně snížit náklady na integraci špičkové AI.",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "OpenAI a Ironclad trénují agenty na složité právní procesy",
+      "title_orig": "Advancing computer use with Ironclad",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI spojila síly s platformou Ironclad za účelem vývoje AI agentů specializovaných na podnikovou administrativu.",
+        "Společně trénují modely na komplexní úkony spojené s analýzou, schvalováním a správou smluvních dokumentů.",
+        "Cílem je posunout schopnosti AI od pouhého psaní textů k samostatnému ovládání specializovaného softwaru."
+      ],
+      "why_matters": "Ukazuje to směr, jakým se bude ubírat automatizace kancelářské a právní práce v korporacích.",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "LibreOffice odmítá integraci AI a staví na ochraně soukromí",
+      "title_orig": "LibreOffice says ‘no AI’ is now a software feature",
+      "category": "open-source",
+      "summary_cs": [
+        "Vývojáři populárního kancelářského balíku LibreOffice oznámili, že neplánují do softwaru přidávat AI funkce.",
+        "Absenci umělé inteligence prezentují jako klíčovou vlastnost chránící soukromí a data uživatelů.",
+        "Reagují tím na kritiku velkých korporací, které nutí uživatele odesílat dokumenty ke zpracování do cloudu."
+      ],
+      "why_matters": "Důležitá alternativa pro české firmy a úřady, které vyžadují stoprocentní kontrolu nad svými daty.",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Jak podvodníci v Česku zneužívají deepfakes k okrádání lidí",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Česká republika čelí vlně sofistikovaných podvodů, které využívají klonování hlasu a syntézu videa.",
+        "Útočníci napodobují hlasy dětí žádajících o peníze nebo vytvářejí falešné videohovory s nadřízenými z firem.",
+        "Odborníci varují, že technická dokonalost těchto útoků rychle roste a běžná obrana přestává stačit."
+      ],
+      "why_matters": "Varování před reálným nebezpečím, které se v Česku stává běžnou kriminální praxí.",
+      "url": "https://www.lupa.cz/clanky/presvedcit-obet-aby-penize-poslala-sama-jak-se-v-cesku-dari-podfukum-zneuzivajicim-ai/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Lambda Labs získává 4 miliardy dolarů na nákup čipů před vstupem na burzu",
+      "title_orig": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "category": "business",
+      "summary_cs": [
+        "Specializovaný poskytovatel AI cloudové infrastruktury Lambda Labs zajišťuje obří financování ve výši 4 miliard dolarů.",
+        "Investici vedou giganti Coatue a Blackstone s cílem masivně rozšířit kapacitu grafických procesorů Nvidia.",
+        "Společnost podporovaná přímo Nvidií tímto krokem dláždí cestu pro svůj plánovaný vstup na burzu v roce 2027."
+      ],
+      "why_matters": "Potvrzuje to neutichající hlad po výpočetním výkonu a obrovský investiční apetit v AI sektoru.",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Hark uvádí osobního AI asistenta se zaměřením na maximální soukromí",
+      "title_orig": "Hark releases an AI personal assistant with a focus on privacy",
+      "category": "tools",
+      "summary_cs": [
+        "Nový startup Hark představil osobního asistenta navrženého jako bezpečný operační systém budoucnosti.",
+        "Na rozdíl od konkurence zpracovává maximum úloh lokálně a striktně chrání citlivá uživatelská data.",
+        "Nástroj chce konkurovat zavedeným platformám jako Muse nebo Instinct důrazem na bezpečnost a offline režim."
+      ],
+      "why_matters": "Ukazuje to rostoucí trend nástrojů, které vracejí kontrolu nad daty zpět do rukou uživatele.",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Hlasový asistent Alexa Plus kvůli chybě děsivě zpívá uživatelům",
+      "title_orig": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "category": "wildcard",
+      "summary_cs": [
+        "Uživatelé chytrých reproduktorů Amazon Echo hlásí bizarní chybu v nové verzi asistenta Alexa Plus.",
+        "Zařízení uprostřed běžné konverzace začne bezdůvodně a opakovaně zpívat melodii lalala po dobu několika minut.",
+        "Samotný systém si po ukončení incidentu není vědom žádného neobvyklého chování, což působí velmi strašidelně."
+      ],
+      "why_matters": "Úsměvný i varovný příklad toho, jak nepředvídatelně se mohou chovat moderní AI systémy v domácnostech.",
+      "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "source": "The Verge AI"
+    }
+  ]
+}
