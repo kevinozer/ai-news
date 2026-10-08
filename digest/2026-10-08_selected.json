@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-08",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI uvádí model GPT-6 a revoluční rozhraní Intelligent UI pro všechny",
+      "title_orig": "GPT-6 and Intelligent UI for everyone",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI globálně spouští svůj nejnovější model GPT-6 přímo v rozhraní ChatGPT.",
+        "Součástí aktualizace je nové inteligentní uživatelské rozhraní, které kombinuje textové odpovědi s interaktivními prvky.",
+        "Uživatelé mohou přímo v chatu pracovat s diagramy, grafy, formuláři a klikacími tlačítky."
+      ],
+      "why_matters": "Zcela nový model GPT-6 a interaktivní rozhraní zásadně mění způsob, jakým budeme každodenně pracovat s ChatGPT.",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic představuje Claude Haiku 5.5, rychlý a cenově dostupný model",
+      "title_orig": "Claude Haiku 5.5",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic oficiálně uvedl novou generaci svého nejrychlejšího a nejlevnějšího modelu.",
+        "Novinka nahrazuje starší verzi, která již svými parametry a cenou výrazně zaostávala za konkurencí.",
+        "Model přináší výrazné zlepšení schopností při zachování velmi nízkých provozních nákladů."
+      ],
+      "why_matters": "Nový nejrychlejší model od Anthropicu přináší špičkový výkon za zlomek ceny pro vývojáře i firmy.",
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Microsoft představuje Surface Laptop Ultra s čipy Nvidia RTX Spark pro lokální AI",
+      "title_orig": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+      "category": "news",
+      "summary_cs": [
+        "Microsoft na své konferenci v San Franciscu odhalil detaily o prémiovém notebooku Surface Laptop Ultra.",
+        "Zařízení pohání nový procesor RTX Spark od Nvidie postavený na architektuře Arm, určený pro lokální běh AI modelů.",
+        "Základní konfigurace s osmijádrovým čipem bude startovat na ceně 2 599 dolarů."
+      ],
+      "why_matters": "Nová éra osobních počítačů s dedikovanými čipy od Nvidie umožní spouštět pokročilé AI agenty přímo v systému.",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Microsoft dává asistentu Copilot plnou kontrolu nad systémem Windows a soubory",
+      "title_orig": "Microsoft is giving Copilot more control over Windows and your files",
+      "category": "news",
+      "summary_cs": [
+        "Nová aktualizace systému Windows přinese hlubší integraci asistenta Copilot přímo do operačního systému.",
+        "Asistent získá přístup k lokálním souborům uživatele a bude schopen provádět akce napříč aplikacemi.",
+        "Tento krok je součástí strategie Hybrid Intelligence, která kombinuje lokální výkon s cloudovými modely."
+      ],
+      "why_matters": "Umělá inteligence se stává autonomním správcem vašeho počítače, který dokáže reálně pracovat s vašimi soubory.",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Nous Research potvrzuje miliardovou hodnotu a spouští agenty pro firmy",
+      "title_orig": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "category": "business",
+      "summary_cs": [
+        "Vývojář populárních open-source modelů Hermes získal v investičním kole Series B celkem 90 milionů dolarů.",
+        "Tržní ohodnocení ambiciózního startupu tím oficiálně dosáhlo hranice 1,5 miliardy dolarů.",
+        "Společnost zároveň uvádí na trh nové autonomní AI agenty zaměřené na firemní uživatele."
+      ],
+      "why_matters": "Úspěch Nous Research ukazuje, že open-source alternativa k velkým laboratořím získává obrovskou finanční i technologickou sílu.",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Google spouští globální webový nástroj SynthID pro detekci AI obsahu",
+      "title_orig": "Google’s new SynthID website can identify AI-generated media",
+      "category": "tools",
+      "summary_cs": [
+        "Google spustil novou veřejnou webovou platformu, která umožňuje komukoliv ověřit původ médií.",
+        "Nástroj dokáže identifikovat obrázky, videa i audio nahrávky vytvořené pomocí umělé inteligence.",
+        "Systém úspěšně rozpoznává nejen generátory od Googlu, ale také modely od OpenAI a dalších tvůrců."
+      ],
+      "why_matters": "Snadno přístupný nástroj pro širokou veřejnost pomůže v boji proti dezinformacím a neoznačenému AI obsahu.",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Český startup naučil AI z Counter-Strike ovládat kancelářský software",
+      "title_orig": "Češi zkusili, jak umí AI přenést schopnost naučenou v Counter-Strike do kanceláře. Adaptovala se mnohonásobně rychleji",
+      "category": "wildcard",
+      "summary_cs": [
+        "Technologický tým z Ostravy otestoval schopnost umělé inteligence přenášet naučené vzorce chování.",
+        "AI model se nejprve učil pohybovat ve 3D prostředí populární střílečky Counter-Strike 2.",
+        "Po přenesení do virtuální kopie reálné kanceláře se model adaptoval na nové úkoly výrazně rychleji než při běžném tréninku."
+      ],
+      "why_matters": "Úspěch českých inženýrů ukazuje cestu k univerzálním robotům, kteří se učí v simulacích a pracují v realitě.",
+      "url": "https://www.lupa.cz/aktuality/cesi-zkusili-jak-umi-ai-prenest-schopnost-naucenou-v-counter-strike-do-kancelare-adaptovala-se-mnohonasobne-rychleji/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Meta přináší svého AI asistenta Muse na iPady",
+      "title_orig": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "category": "news",
+      "summary_cs": [
+        "Autonomní asistent Muse od společnosti Meta získává pouhý měsíc po svém vydání nativní podporu pro iPad.",
+        "Aplikace se po svém zářijovém debutu rychle stala nejstahovanějším bezplatným nástrojem v App Store.",
+        "Meta tímto krokem zrychluje expanzi svého ekosystému proti konkurenčním řešením od OpenAI a Anthropicu."
+      ],
+      "why_matters": "Rychlá expanze asistenta od Mety na tablety zvyšuje dostupnost pokročilých agentických funkcí pro běžné uživatele.",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Odpůrce Adobe útočí s bezplatnými open-source klony Creative Cloud",
+      "title_orig": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "category": "open-source",
+      "summary_cs": [
+        "Nezávislý vývojář se rozhodl pomocí AI nástrojů vytvořit otevřené alternativy k programům od Adobe.",
+        "Projekty jsou vyvíjeny jako open-source, jsou zcela zdarma, ale zatím se nacházejí v rané fázi vývoje.",
+        "Tento krok vyvolal v komunitě debatu o tom, zda generativní AI brzy zcela nahradí tradiční softwarový byznys."
+      ],
+      "why_matters": "Ukázka toho, jak snadno lze dnes s pomocí AI replikovat komplexní komerční software a narušit zavedené monopoly.",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Původem česká IT skupina Adastra kupuje AI konkurenci v Polsku",
+      "title_orig": "Za osm miliard prodaná česká IT firma koupila AI konkurenci v rostoucím Polsku",
+      "category": "business",
+      "summary_cs": [
+        "Konzultační a technologická společnost Adastra pokračuje v expanzi na polském trhu.",
+        "Akvizicí získala tamní firmu Infinite Services, která disponuje silným vývojářským zázemím v Asii.",
+        "Cílem nákupu je posílení kompetencí v oblasti implementace umělé inteligence pro velké podniky."
+      ],
+      "why_matters": "Významná transakce posiluje pozici českého technologického know-how v regionu střední Evropy.",
+      "url": "https://www.lupa.cz/aktuality/za-osm-miliard-prodana-ceska-it-firma-koupila-ai-konkurenci-v-rostoucim-polsku/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Nadšenec vzkřísil legendární český program Salamander s pomocí AI",
+      "title_orig": "Nadšenec oprášil legendární český program z 90. let. Díky AI to zvládl sám a za krátkou dobu",
+      "category": "wildcard",
+      "summary_cs": [
+        "Kultovní souborový manažer Salamander z devadesátých let se dočkal moderního nástupce.",
+        "Nový projekt s názvem Tandem Commander vytvořil jediný vývojář za intenzivního využití AI asistentů.",
+        "Díky otevřenému zdrojovému kódu původního programu mohl autor rychle přepsat zastaralé části aplikace."
+      ],
+      "why_matters": "Skvělý příklad toho, jak může jednotlivec s pomocí AI zachránit a zmodernizovat oblíbený historický software.",
+      "url": "https://www.lupa.cz/clanky/nadsenec-oprasil-legendarni-cesky-program-z-90-let-diky-ai-to-zvladl-sam-a-za-kratkou-dobu/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Osobní důvěra se stává prémiovou komoditou v době levného AI obsahu",
+      "title_orig": "Nikdo nechce jet na prezentaci, kterou AI shrne za vteřinu. Jaká bude nová role byznysových setkání?",
+      "category": "business",
+      "summary_cs": [
+        "Masivní produkce textů a prezentací pomocí AI paradoxně snižuje hodnotu digitálního obsahu.",
+        "Manažeři a klienti odmítají trávit čas čtením nebo sledováním materiálů, které lze shrnout jedním kliknutím.",
+        "Do popředí se vrací význam osobních setkání a budování autentické lidské důvěry v obchodních vztazích."
+      ],
+      "why_matters": "Článek přináší důležitý pohled na to, jak se mění hodnota lidského kontaktu v plně digitalizovaném světě.",
+      "url": "https://cc.cz/nikdo-nechce-jet-na-prezentaci-kterou-ai-shrne-za-vterinu-jaka-bude-nova-role-byznysovych-setkani/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nový certifikát Organic Literature chce chránit knihy napsané lidmi",
+      "title_orig": "Your Next Great Read Might Be Certified ‘Organic’",
+      "category": "wildcard",
+      "summary_cs": [
+        "V reakci na záplavu levných, umělou inteligencí generovaných knih vzniká nová iniciativa.",
+        "Označení Organic Literature má čtenářům garantovat, že knihu napsal skutečný lidský autor bez asistence AI.",
+        "Značka má pomoci autorům udržet si hodnotu na trhu, který začíná být přesycen automatizovaným obsahem."
+      ],
+      "why_matters": "Zavádění certifikace pro lidskou tvorbu ukazuje, jak hluboko AI zasahuje do tradičního knižního průmyslu.",
+      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Bezpečnostní limity pro autonomní AI systémy v kritické infrastruktuře",
+      "title_orig": "Bounded Autonomy and Verifiable Safety for Agentic AI Enabled Automation",
+      "category": "research",
+      "summary_cs": [
+        "Vědecká práce se zabývá riziky nasazení autonomních AI agentů v průmyslu a kritické infrastruktuře.",
+        "Výzkumníci varují před takzvaným epistemickým driftem, kdy se hluboké uvažování modelu může odchýlit od bezpečných limitů.",
+        "Navrhují nový rámec pro matematicky ověřitelnou bezpečnost, která omezí rozhodování AI v reálném čase."
+      ],
+      "why_matters": "Klíčový výzkum pro bezpečné nasazení AI v českých továrnách, energetice a dopravních systémech.",
+      "url": "https://arxiv.org/abs/2610.08815",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Offline AI modely přinášejí hlasové asistenty bez nutnosti internetu",
+      "title_orig": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
+      "category": "research",
+      "summary_cs": [
+        "Nový výzkumný projekt představuje architekturu pro plně offline hlasové asistenty s nízkou spotřebou.",
+        "Systém je navržen pro běh na levném lokálním hardwaru bez nutnosti neustálého připojení k serverům.",
+        "Technologie využívá pokročilou kvantizaci modelů, aby se vešly do paměti běžných mikročipů."
+      ],
+      "why_matters": "Tento přístup otevírá dveře pro chytré domácnosti a zařízení, která chrání soukromí a fungují i při výpadku sítě.",
+      "url": "https://arxiv.org/abs/2610.07026",
+      "source": "ArXiv cs.AI"
+    }
+  ]
+}
