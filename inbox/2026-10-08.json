@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T04:02:19.123578+00:00",
+  "generated_at": "2026-10-08T11:22:43.720334+00:00",
   "date": "2026-10-08",
-  "article_count_unique": 166,
-  "article_count_raw": 166,
+  "article_count_unique": 159,
+  "article_count_raw": 159,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "wired_ai",
@@ -97,8 +97,8 @@
     {
       "source_id": "one_useful_thing",
       "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "count": 0,
+      "raw_count": 0
     },
     {
       "source_id": "simonw",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 7,
-      "raw_count": 15
+      "count": 5,
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,78 @@
     }
   ],
   "articles": [
+    {
+      "id": "88d7e4e4ded707c0",
+      "title": "Why we’re watching these climate tech companies",
+      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "published_at": "2026-10-08T10:00:00+00:00",
+      "author": "Casey Crownhart",
+      "summary_raw": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. &#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "8f65c82d28b0f248",
+      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+      "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+      "published_at": "2026-10-08T09:30:00+00:00",
+      "author": "Paresh Dave",
+      "summary_raw": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+      "hero_image": "https://media.wired.com/photos/6ac02e534880260b81233f30/master/pass/Tristan-Harris-2274181207.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "8a31c2adb23e316b",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "author": "Jamie Condliffe",
+      "summary_raw": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AP25364739329087_1.jpg",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "158dbc8482088ef5",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "published_at": "2026-10-08T08:17:32+00:00",
+      "author": "MIT Technology Review Insights",
+      "summary_raw": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "73be88971b0bf061",
+      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "published_at": "2026-10-08T07:27:51+00:00",
+      "author": "",
+      "summary_raw": "yay small models",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!q_iv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHUDOG1Jb0AAHQ2I.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "2eb4f48d9cfaca35",
+      "title": "Přejde vývoj softwaru na autopilota? AI vygeneruje většinu kódu, ale lidský úsudek nenahradí",
+      "url": "https://www.lupa.cz/clanky/prejde-vyvoj-softwaru-na-autopilota-ai-vygeneruje-vetsinu-kodu-ale-lidsky-usudek-nenahradi/",
+      "published_at": "2026-10-08T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Marek Přibáň)",
+      "summary_raw": "Vibe coding je dobrý na prototypy a interní nástroje. Přístup „zapomeňte, že kód vůbec existuje“ nefunguje. Důležitý je Agentic Development Lifecycle.",
+      "hero_image": "https://i.iinfo.cz/images/494/programovani-na-autopilota.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "d168f871d31e1224",
       "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
@@ -979,24 +1051,24 @@
       "category": "news"
     },
     {
-      "id": "4da8fe65616a9487",
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "published_at": "2026-10-07T14:00:00+00:00",
-      "author": "TechCrunch Events",
-      "summary_raw": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "de60cb0c776db972",
       "title": "Google’s new SynthID website can identify AI-generated media",
       "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
       "published_at": "2026-10-07T14:00:00+00:00",
       "author": "Ivan Mehta",
       "summary_raw": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "4da8fe65616a9487",
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "published_at": "2026-10-07T14:00:00+00:00",
+      "author": "TechCrunch Events",
+      "summary_raw": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -1198,7 +1270,7 @@
       "id": "fb78d53679e65057",
       "title": "Nadšenec oprášil legendární český program z 90. let. Díky AI to zvládl sám a za krátkou dobu",
       "url": "https://www.lupa.cz/clanky/nadsenec-oprasil-legendarni-cesky-program-z-90-let-diky-ai-to-zvladl-sam-a-za-kratkou-dobu/",
-      "published_at": "2026-10-07T04:30:00+00:00",
+      "published_at": "2026-10-07T04:30:02+00:00",
       "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
       "summary_raw": "Kultovní správce souborů Salamander je open source. Díky tomu vznikla nová verze Tandem Commander vytvořená díky zapojení AI agentů.",
       "hero_image": "https://i.iinfo.cz/images/641/programatorsky-kutloch-z-90-let.png",
@@ -1435,18 +1507,6 @@
       "category": "news"
     },
     {
-      "id": "7d68b2fc37c7ec78",
-      "title": "Za osm miliard prodaná česká IT firma koupila AI konkurenci v rostoucím Polsku",
-      "url": "https://www.lupa.cz/aktuality/za-osm-miliard-prodana-ceska-it-firma-koupila-ai-konkurenci-v-rostoucim-polsku/",
-      "published_at": "2026-10-06T19:53:19+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Původem česká IT společnost Adastra se vydala na nákupy do expandujícího Polska. Získala tamní společnost Infinite Services se silným zázemím v Indii a na Filipínách.",
-      "hero_image": "https://i.iinfo.cz/images/685/adastra.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "b00f2a44a503e00e",
       "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
       "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
@@ -1675,102 +1735,6 @@
       "category": "labs"
     },
     {
-      "id": "05028efafddfbfc4",
-      "title": "2026 Climate Tech Companies to Watch",
-      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "author": "Amy Nordrum",
-      "summary_raw": "",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "5b3d9a991dd68ee3",
-      "title": "Here’s how our climate team picked 10 promising companies to watch",
-      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "author": "Casey Crownhart",
-      "summary_raw": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160; This year is shaping up to be one of the hottest ever recorded.&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "ad9ac217956517e2",
-      "title": "WeLion New Energy and its semi-solid-state batteries",
-      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "author": "You Xiaoying",
-      "summary_raw": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "0f1733a36836a71f",
-      "title": "Form Energy and its iron batteries",
-      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "author": "Jonathan W. Rosen",
-      "summary_raw": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output varies based on season, time of day, and weather.&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Form-Energy-team-members-working-in-Form-Factory-1.jpg?w=840",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "b477657768dc12af",
-      "title": "X-energy and its helium-cooled nuclear reactors",
-      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "author": "Mark Ellis Harris",
-      "summary_raw": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but what heavy industry also needs is raw heat—and lots of it. The manufacture&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "eb03870064a19723",
-      "title": "Energy Dome and its carbon dioxide batteries",
-      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "author": "Casey Crownhart",
-      "summary_raw": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.&#160; As the world races to meet growing electricity demand, solar and onshore wind power have become&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "a0f4344a16c20385",
-      "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
-      "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
-      "published_at": "2026-10-06T10:35:00+00:00",
-      "author": "James Temple",
-      "summary_raw": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process for manufacturing building materials, aluminum, steel, and&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "ddae67c99ba45c06",
-      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-      "published_at": "2026-10-06T10:30:00+00:00",
-      "author": "Katie Drummond",
-      "summary_raw": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-      "hero_image": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/master/pass/100516-Big%20Interview%20K%20Roose%20Solo.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "ee1265ede7d625b1",
       "title": "Advancing computer use with Ironclad",
       "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
@@ -1793,30 +1757,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "3bcc754a30226f8f",
-      "title": "Přesvědčit oběť, aby peníze poslala sama. Jak se v Česku daří podvodům zneužívajícím AI?",
-      "url": "https://www.lupa.cz/clanky/presvedcit-obet-aby-penize-poslala-sama-jak-se-v-cesku-dari-podfukum-zneuzivajicim-ai/",
-      "published_at": "2026-10-06T04:30:01+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: David Slížek)",
-      "summary_raw": "Děti volající rodičům s naléhavou žádostí o peníze, šéfové přikazující na videoporadě urychlené platby, policista varující před napadeným účtem. Jak se v Česku vyplňují předpovědi slibující záplavy podfuků založených na AI deepfakes?",
-      "hero_image": "https://i.iinfo.cz/images/458/ai-deepfake-tvar-oblicej-identita.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "f07e3d93e8ec32d9",
-      "title": "Ledničky, pračky a teď i datacentra. EU pro ně chce zavést energetické štítky, hrozí omezením provozu",
-      "url": "https://www.lupa.cz/clanky/lednicky-pracky-a-ted-i-datacentra-eu-pro-ne-chce-zavest-energeticke-stitky-hrozi-omezenim-provozu/",
-      "published_at": "2026-10-06T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Evropská unie chce stavět nová datacentra včetně těch pro AI. Zároveň ale pro něj chystá další pravidla, která přidají byrokracii a náklady.",
-      "hero_image": "https://i.iinfo.cz/images/384/neekologicke-datove-centrum.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "19db365a189ad62c",
@@ -2009,30 +1949,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "3a9198cda61b93fb",
-      "title": "The Dot and the Swarm",
-      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "published_at": "2026-10-01T10:54:12+00:00",
-      "author": "Ethan Mollick",
-      "summary_raw": "Benefitting from the Bitter Lesson",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!Narw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3014425-47c2-47aa-848b-3528f4dc9517_2912x1632.png",
-      "source_id": "one_useful_thing",
-      "source_name": "One Useful Thing (Mollick)",
-      "category": "newsletter"
-    },
-    {
-      "id": "38d6542dc949ffd3",
-      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
-      "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
-      "published_at": "2026-10-01T06:45:05+00:00",
-      "author": "",
-      "summary_raw": "... but you can&#8217;t try it yet unless you are &#8220;government users and trusted cyber defenders in the Fairwind Program&#8221;",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!wmoR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTfV52SWgAIlX3W.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "1391362c9db13bf6",
