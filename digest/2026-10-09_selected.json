@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-09",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic spouští bezplatné bezpečnostní skenování pro open-source projekty",
+      "title_orig": "Anthropic launches free AI security scans for open-source projects",
+      "category": "news",
+      "summary_cs": [
+        "Anthropic představil novou bezplatnou službu OSS Scanner, která má pomoci open-source projektům vyhledávat bezpečnostní zranitelnosti.",
+        "Projekty, které se do programu dobrovolně přihlásí, získají pravidelné a důkladné skenování kódu pomocí nejvýkonnějších modelů Claude.",
+        "Tato iniciativa má výrazně zvýšit bezpečnost celého softwarového ekosystému, který na open-source knihovnách často závisí."
+      ],
+      "why_matters": "Čeští vývojáři open-source softwaru mohou nyní zdarma využít špičkovou AI od Anthropicu k zabezpečení svých projektů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Google přináší agenty do Gemini a dává jim vlastní pracovní e-mail",
+      "title_orig": "Google brings agentic AI to Gemini, starting with businesses",
+      "category": "labs",
+      "summary_cs": [
+        "Google transformuje svého asistenta Gemini na plnohodnotného autonomního agenta pro firemní zákazníky.",
+        "Nový agent dokáže samostatně plánovat, delegovat úkoly na podřízené subagenty a pracovat napříč podnikovými aplikacemi.",
+        "V rámci firemní infrastruktury dostane agent dokonce vlastní pracovní identitu včetně unikátní e-mailové adresy."
+      ],
+      "why_matters": "Ukazuje to přechod od pouhého chatování k autonomním AI zaměstnancům s vlastní firemní identitou.",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Český startup Flae Robotics získal 25 milionů korun na AI recepční v hotelech",
+      "title_orig": "Český startup dostal nové peníze na to, aby rozšířil umělou inteligenci v hotelích. Jednou by z ní chtěl humanoida.",
+      "category": "news",
+      "summary_cs": [
+        "Tuzemský startup Flae Robotics získal investici přesahující milion eur na expanzi své virtuální AI recepční jménem BE-A.",
+        "Systém aktuálně funguje ve více než 60 hotelech, kde s hosty kompletně řeší check-in, check-out, parkování i doplňkové služby.",
+        "Dlouhodobým cílem ambiciózního českého týmu je přenést tuto umělou inteligenci do fyzického humanoidního těla."
+      ],
+      "why_matters": "Úspěšný český projekt ukazuje praktické nasazení a komercializaci AI v tuzemském i zahraničním hotelnictví.",
+      "url": "https://www.lupa.cz/aktuality/cesky-startup-dostal-nove-penize-na-to-aby-rozsiril-umelou-inteligenci-v-hotelich-jednou-by-z-ni-chtel-humanoida/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Propuštění výzkumníci OpenAI varují před potlačováním kultury bezpečnosti",
+      "title_orig": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "category": "news",
+      "summary_cs": [
+        "Tři nedávno propuštění bezpečnostní experti z OpenAI se v otevřeném dopise ohradili proti obviněním z porušení předpisů.",
+        "Varují, že jejich nucený odchod vytváří v organizaci atmosféru strachu a paralyzuje interní diskusi o rizicích AI.",
+        "Spory o bezpečnostní kulturu v OpenAI tak dále eskalují v době, kdy firma uvádí na trh své nejpokročilejší modely."
+      ],
+      "why_matters": "Interní spory v nejvýznamnější AI laboratoři světa mohou mít přímý vliv na bezpečnost budoucích modelů.",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Goodfire uvádí levnější vnitřní monitoring pro kontrolu AI agentů",
+      "title_orig": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Goodfire představil inovativní metodu monitorování chování autonomních AI agentů za zlomek běžných nákladů.",
+        "Namísto drahého analyzování výstupů sekundární umělou inteligencí nahlíží nový systém přímo do vnitřních procesů běžícího modelu.",
+        "Externí kontrolní mechanismus se aktivuje pouze v okamžiku, kdy vnitřní aktivita vykazuje neobvyklé nebo podezřelé vzorce."
+      ],
+      "why_matters": "Tento nástroj řeší klíčový problém bezpečnosti a vysokých nákladů při nasazování autonomních agentů ve firmách.",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Anthropic zakazuje hrubé a kruté chování vůči asistentu Claude",
+      "title_orig": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Anthropic aktualizovala své podmínky užívání a poprvé výslovně zakázala soustavné zbytečné ubližování a krutost vůči AI.",
+        "Nová pravidla se zaměřují také na závažnější hrozby, jako jsou volební interference, vývoj zbraní či zneužívání k hromadnému dohledu.",
+        "Běžná frustrace uživatelů nebo konstruktivní kritika systému zůstávají i nadále plně povoleny."
+      ],
+      "why_matters": "Jde o precedentní krok v oblasti etiky vztahu člověka a pokročilých forem umělé inteligence.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Google Edge Foresight přináší offline přepisování schůzek pro macOS",
+      "title_orig": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "category": "tools",
+      "summary_cs": [
+        "Google vydal experimentální aplikaci Google AI Edge Foresight, která slouží k lokálnímu pořizování poznámek ze schůzek.",
+        "Nástroj běží zcela offline na systému macOS a k přepisu i analýze zvuku využívá lokální model EmbeddingGemma 2.",
+        "Uživatelé tak mohou přepisovat citlivé konverzace a klást AI doplňující otázky bez obav z odesílání dat na servery."
+      ],
+      "why_matters": "Umožňuje bezpečné a bezplatné využití AI pro zápisy z jednání bez rizika úniku citlivých firemních dat.",
+      "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Přejde vývoj softwaru na autopilota? AI lidský úsudek nenahradí",
+      "title_orig": "Přejde vývoj softwaru na autopilota? AI vygeneruje většinu kódu, ale lidský úsudek nenahradí",
+      "category": "news",
+      "summary_cs": [
+        "Článek rozebírá fenomén takzvaného vibe codingu, který je sice ideální pro rychlé prototypování, ale naráží u komplexních systémů.",
+        "Ukazuje se, že přístup ignorující samotnou existenci kódu dlouhodobě nefunguje a klíčový zůstává systematický vývojový cyklus.",
+        "Role lidského vývojáře se mění spíše na architekta a kontrolora, který řídí agenty a schvaluje jejich autonomní kroky."
+      ],
+      "why_matters": "Pomáhá českým technologickým lídrům střízlivě zhodnotit reálné možnosti a limity AI při psaní softwaru.",
+      "url": "https://www.lupa.cz/clanky/prejde-vyvoj-softwaru-na-autopilota-ai-vygeneruje-vetsinu-kodu-ale-lidsky-usudek-nenahradi/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Natura uvádí chytrý prsten s integrovanými AI agenty za 99 dolarů",
+      "title_orig": "Natura’s $99 smart ring puts AI agents on your finger",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost Natura představila chytrý prsten Interface, který kombinuje funkce zdravotního trackeru a ovladače AI.",
+        "Stisknutím prstu mohou uživatelé okamžitě vyvolat AI agenty, diktovat myšlenky nebo ovládat připojená chytrá zařízení.",
+        "Zařízení s cenovkou pod sto dolarů představuje novou vlnu nositelné elektroniky zaměřené na neustálou přítomnost asistentů."
+      ],
+      "why_matters": "Ukazuje, jak se AI přesouvá z obrazovek počítačů do levného a nenápadného hardwaru pro každodenní nošení.",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Ben Affleck překvapil internet svými hlubokými znalostmi fungování AI",
+      "title_orig": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "category": "wildcard",
+      "summary_cs": [
+        "Známý hollywoodský herec Ben Affleck se stal virálním díky videu, kde detailně rozebírá technické aspekty umělé inteligence.",
+        "Affleck prokázal hluboké porozumění neuronovým sítím, transformátorům i konceptu otevřených vah modelů.",
+        "Herec má k oboru blízko i byznysově, jelikož letos úspěšně prodal svůj technologický startup zaměřený na AI ve filmu."
+      ],
+      "why_matters": "Ukazuje, že porozumění AI se stává nezbytnou kompetencí i v kreativních a zdánlivě nesouvisejících oborech.",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Vliv viditelného řetězce úvah na kvalitu generování analytického kódu",
+      "title_orig": "Visible Reasoning Is Not a Universal Optimizer: Persona- and Thinking-Dependent Effects in Analytics Code Generation",
+      "category": "research",
+      "summary_cs": [
+        "Nová vědecká studie zpochybňuje zažité dogma, že zobrazení myšlenkových kroků modelu vždy vede k lepším výsledkům.",
+        "Při generování analytického kódu se ukazuje, že tato metoda může naopak zvýraznit nejednoznačnost zadání a vést k chybám.",
+        "Úspěšnost generování kódu silně závisí na nastavené personě modelu a konkrétním typu programovacího úkolu."
+      ],
+      "why_matters": "Pomáhá českým vývojářům lépe optimalizovat výzvy pro LLM při automatizaci analýzy dat.",
+      "url": "https://arxiv.org/abs/2610.10639",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Vydavatel USA Today žaluje OpenAI kvůli neoprávněnému trénování modelů",
+      "title_orig": "USA Today becomes the latest publisher to sue OpenAI",
+      "category": "business",
+      "summary_cs": [
+        "Mediální dům USA Today podal žalobu na společnost OpenAI za masivní porušování autorských práv při trénování AI.",
+        "Vydavatel tvrdí, že startup bez povolení zkopíroval stovky tisíc novinových článků a požaduje odškodné přes 250 milionů dolarů.",
+        "Jde o další ze série právních bitev, které mohou zásadně ovlivnit budoucí dostupnost trénovacích dat pro technologické firmy."
+      ],
+      "why_matters": "Výsledek těchto sporů určí pravidla pro legální využívání autorského obsahu v AI systémech.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "LMArena zdvojnásobila svou hodnotu na více než tři miliardy dolarů",
+      "title_orig": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "category": "business",
+      "summary_cs": [
+        "Organizace stojící za populárním srovnávacím žebříčkem LMArena získala v novém investičním kole 200 milionů dolarů.",
+        "Tržní hodnota platformy se tak během pouhých deseti měsíců téměř zdvojnásobila na současných 3,1 miliardy dolarů.",
+        "Peníze poslouží k rozšíření testování modelů, nově se zaměřením na etické aspekty a sklony umělé inteligence k lhaní."
+      ],
+      "why_matters": "Potvrzuje to obrovský komerční význam nezávislého testování a benchmarkování schopností AI.",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Vědci zkoumají limity ověřování a sebezdokonalování u AI agentů",
+      "title_orig": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumná práce analyzuje mechanismy, kterými se autonomní AI systémy mohou samy zlepšovat během řešení úkolů.",
+        "Autoři porovnávají přínosy delšího vyhledávání řešení, externí podpory a modifikace vlastních schvalovacích procesů.",
+        "Studie definuje matematické limity toho, jak moc se může agent sám zlepšit bez přístupu k novým externím datům."
+      ],
+      "why_matters": "Přináší hlubší vhled do toho, jak efektivně navrhovat agenty, kteří se učí ze svých vlastních chyb.",
+      "url": "https://arxiv.org/abs/2610.10611",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Nvidia sází na fyzickou AI pro bezpečnější robotaxi a humanoidy",
+      "title_orig": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "category": "news",
+      "summary_cs": [
+        "Nvidia představila komplexní bezpečnostní řešení pro takzvanou fyzickou AI, tedy roboty operující v reálném světě.",
+        "Nová platforma kombinuje simulace v reálném čase s pokročilými algoritmy pro předcházení kolizím autonomních vozidel.",
+        "Tuto technologii již začínají do svých systémů integrovat přední světoví výrobci robotiky a autonomních taxi."
+      ],
+      "why_matters": "Zabezpečení fyzické interakce AI s okolím je klíčovým krokem k masovému nasazení robotů do ulic a továren.",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "source": "Ars Technica"
+    }
+  ]
+}
