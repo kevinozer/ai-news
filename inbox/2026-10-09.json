@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T04:02:01.137317+00:00",
+  "generated_at": "2026-10-09T11:20:13.810726+00:00",
   "date": "2026-10-09",
-  "article_count_unique": 152,
-  "article_count_raw": 152,
+  "article_count_unique": 157,
+  "article_count_raw": 157,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 14,
-      "raw_count": 14
+      "count": 15,
+      "raw_count": 15
     },
     {
       "source_id": "anthropic_news",
@@ -91,8 +91,8 @@
     {
       "source_id": "last_week_ai",
       "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "one_useful_thing",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,17 +163,161 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 5,
+      "count": 6,
       "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "4bea8b3c2c37aaed",
+      "title": "Even ‘Law & Order’ Is Terrified of AI",
+      "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "published_at": "2026-10-09T10:00:00+00:00",
+      "author": "Ej Dickson",
+      "summary_raw": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+      "hero_image": "https://media.wired.com/photos/6ac6842a2962a868125e6095/master/pass/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "605a103f7e4ea650",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "published_at": "2026-10-09T09:48:26+00:00",
+      "author": "Robert Hart",
+      "summary_raw": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita &#8288;Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "e9ce92251a3541b0",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "author": "Arthur Holland Michel",
+      "summary_raw": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924SP1.jpg?w=840",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "df9a708655f1f5dd",
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "author": "Eamon Whalen",
+      "summary_raw": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyTrex. An RPIC is&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "4076559f940d11ee",
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "author": "Jessica Hamzelou",
+      "summary_raw": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "fdf3fe4d469b755d",
+      "title": "Třetina Čechů nakupuje s AI, některé e-shopy ale zaspaly. Veletrh Reshoper ukáže, jak na trendu vydělat",
+      "url": "https://cc.cz/tretina-cechu-nakupuje-s-ai-nektere-e-shopy-ale-zaspaly-konference-reshoper-ukaze-jak-na-trendu-vydelat/",
+      "published_at": "2026-10-09T08:13:39+00:00",
+      "author": "Marta Plecitá",
+      "summary_raw": "Osmý ročník tradiční akce Reshoper proběhne 15. října na pražském Výstavišti. Zaměří se na využití AI v e-commerce nebo růst marží před Vánoci. Článek Třetina Čechů nakupuje s AI, některé e-shopy ale zaspaly. Veletrh Reshoper ukáže, jak na trendu vydělat se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/reshoper-2-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "74b72c72c0a9f132",
+      "title": "Oblíbený český program na e-maily přichází v nové verzi. Je rychlejší, má AI a drží data v tajnosti",
+      "url": "https://www.lupa.cz/aktuality/oblibeny-cesky-program-na-e-maily-prichazi-v-nove-verzi-je-rychlejsi-ma-ai-a-drzi-data-v-tajnosti/",
+      "published_at": "2026-10-09T07:27:04+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "E-mailová aplikace eM Client od stejnojmenné české společnosti vychází v ostré jedenácté verzi. K dispozici je pro Windows, macOS a dále se rozvíjejí také verze pro Android a iOS. Aplikace lze získat zdarma, případně si pořídit placenou verzi s více funkcemi.",
+      "hero_image": "https://i.iinfo.cz/images/62/em-client.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "e14b47b8d4b327ce",
+      "title": "AI mi vzala práci, linuxový chytrý telefon, učíme děti programovat. Přednášky z LinuxDays jsou zdarma online",
+      "url": "https://www.lupa.cz/aktuality/ai-mi-vzala-praci-linuxovy-chytry-telefon-ucime-deti-programovat-prednasky-z-linuxdays-jsou-zdarma-online/",
+      "published_at": "2026-10-09T07:12:01+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "O víkendu na FIT ČVUT v Praze proběhla tradiční dvoudenní konference LinuxDays, kde byla hromada zajímavých předná&#353;ek. Organizátoři je nyní zdarma zveřejnily pro v&#353;echny zájemce. K dispozici jsou pohromadě na YouTube (autory jsou Silicon Hill), prezentace k nim jsou pak ke stažení tady.",
+      "hero_image": "https://i.iinfo.cz/images/205/linuxdays-2026.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "6af77251c3573c2b",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "author": "",
+      "summary_raw": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "95ddcc10dad621f3",
+      "title": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts",
+      "published_at": "2026-10-09T05:06:58+00:00",
+      "author": "Last Week in AI",
+      "summary_raw": "OpenAI publishes hundreds of math proofs from unreleased frontier model, Mistral and Reflection AI launch open-weight models to rival China, and more!",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!R3QU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba131027-ff6e-428d-8c3c-29d44aa8ddcd_1128x780.png",
+      "source_id": "last_week_ai",
+      "source_name": "Last Week in AI",
+      "category": "newsletter"
+    },
+    {
+      "id": "718d16db7034d2f9",
+      "title": "Ruský IT fenomén z ČR je poprvé ve ztrátě, Seznam si postaví další datacentrum, AI megaprojekt v Ralsku se ruší",
+      "url": "https://www.lupa.cz/clanky/rusky-it-fenomen-z-cr-je-poprve-ve-ztrate-seznam-si-postavi-dalsi-datacentrum-ai-megaprojekt-v-ralsku-se-rusi/",
+      "published_at": "2026-10-09T04:30:01+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "EU konečně má vyspělý AI model. Google zhoršuje AI tarify. OpenAI rozlouskla letitou šifru. Zprávy z technologií, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/3/satya-nadella-jensen-huang.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "12bc4e355728cb30",
+      "title": "Křišťálová Lupa letos poprvé ocení AI. Ve hře je deset nominovaných",
+      "url": "https://www.lupa.cz/clanky/kristalova-lupa-letos-poprve-oceni-ai-ve-hre-je-deset-nominovanych/",
+      "published_at": "2026-10-09T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Redakce)",
+      "summary_raw": "Umělá inteligence letos dostává v Křišťálové Lupě vlastní kategorii. O první vítězství se uchází deset projektů, které AI využívají v medicíně, bezpečnosti, průzkumu trhu, automatizaci firemní práce i při každodenní práci s počítačem. O pořadí rozhodne odborná porota.",
+      "hero_image": "https://i.iinfo.cz/images/512/kristalova-lupa-2026-hlasujte.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "d120efb2ac605572",
       "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
@@ -533,6 +677,18 @@
       "source_id": "arxiv_cs_lg",
       "source_name": "ArXiv cs.LG",
       "category": "research"
+    },
+    {
+      "id": "30249163482a540a",
+      "title": "ttok 1.0",
+      "url": "https://simonwillison.net/2026/Oct/9/ttok/",
+      "published_at": "2026-10-09T00:34:43+00:00",
+      "author": "",
+      "summary_raw": "Release: ttok 1.0 I released ttok 0.4 , ran uv tool upgrade ttok , piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should very clearly default to GPT-5/GPT-6 instead! I figured switching the default was a reasonable excuse to finally ship a 1.0. OpenAI haven't actually confirmed that GPT-6 uses the same tokenizer as the GPT-5 family yet - there's an angry issue about it - but I found this commit by William Liu which reports on an experiment he ran confirming that the tokenizers are likely the same: All seven GPT models (5.5, 5.6 Sol/Terra/Luna, 6 Astra/Sol/Luna) report 44,794 tokens and match each other on every one of the 31 fixtures. GPT-6 introduces no input-count change on this corpus. Tags: projects , ai , openai , generative-ai , llms , tokenization",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
     },
     {
       "id": "7fab48169d2834af",
@@ -1363,18 +1519,6 @@
       "category": "news"
     },
     {
-      "id": "4abed39aa9b49c83",
-      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "published_at": "2026-10-07T19:10:42+00:00",
-      "author": "Emma Roth",
-      "summary_raw": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
       "id": "df8ef04cc2129fd9",
       "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
       "url": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
@@ -1555,42 +1699,6 @@
       "category": "labs"
     },
     {
-      "id": "213319bbdb1aee81",
-      "title": "Češi zkusili, jak umí AI přenést schopnost naučenou v Counter-Strike do kanceláře. Adaptovala se mnohonásobně rychleji",
-      "url": "https://www.lupa.cz/aktuality/cesi-zkusili-jak-umi-ai-prenest-schopnost-naucenou-v-counter-strike-do-kancelare-adaptovala-se-mnohonasobne-rychleji/",
-      "published_at": "2026-10-07T11:44:39+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Tým českého technologického startupu z Ostravy vyzkou&#353;el, jak umí umělá inteligence přenést poznatky o pohybu a chování naučené v počítačové hře Counter-Strike 2 do nového, jí neznámého prostředí. Tvůrci ji nechali učit se pohybovat ve hře, později vzali z virtuálního boji&#353;tě a pustili do simulované 3D kopie své kanceláře. Za 57 minut adaptace se počet tras, na kterých dokázala dojít do cíle, zvý&#353;il z 2 na 44 z celkem 96 testovaných.",
-      "hero_image": "https://i.iinfo.cz/images/172/mesocort-ai.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "837845f55c474d8c",
-      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-      "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-      "published_at": "2026-10-07T11:00:00+00:00",
-      "author": "Reece Rogers",
-      "summary_raw": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
-      "hero_image": "https://media.wired.com/photos/6ac4bbcf3487dc6fde4862bd/master/pass/100626-Dots%20Couch.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "1909dcc1f94c4991",
-      "title": "Your Next Great Read Might Be Certified ‘Organic’",
-      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
-      "published_at": "2026-10-07T08:30:00+00:00",
-      "author": "Joel Khalili",
-      "summary_raw": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
-      "hero_image": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/pass/Business_Plagued%20By%20AI%20Scandals,%20Publishers%20Are%20Starting%20To%20Sell%20%E2%80%98Organic%20Literature%E2%80%99_v1.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "4cf2a0ecc5908d11",
       "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
       "url": "https://openai.com/index/radisson",
@@ -1613,42 +1721,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "9c7849159d5f3324",
-      "title": "Quoting Jake Boggan",
-      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
-      "published_at": "2026-10-07T04:47:55+00:00",
-      "author": "",
-      "summary_raw": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few days that I had actually solved it. But it's supposedly proven here - problem 180 . I don't know what to think exactly. I spent thousands of hours on that problem. I really enjoyed it. Hearing that it is solved somehow makes me sad in a far-off way, like hearing an ex-girlfriend died suddenly in a car crash. I don't know, there's probably a lot of people feeling odd emotions tonight. &mdash; Jake Boggan , Hacker News comment on openai/math Tags: openai , mathematics , deep-blue , llms , ai , generative-ai",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "ee8cef037fde31cf",
-      "title": "S touhle rychlostí pokroku už jsem se nevydržel jen dívat, říká investor, který znovu založil startup. Má překonat omezení lidského bádání",
-      "url": "https://www.lupa.cz/clanky/s-touhle-rychlosti-pokroku-uz-jsem-se-nevydrzel-jen-divat-rika-investor-ktery-znovu-zalozil-startup-ma-prekonat-omezeni-lidskeho-badani/",
-      "published_at": "2026-10-07T04:35:33+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Neskromné ambice, ale taky slibné výsledky. Zakladatelé startupu Theorema věří, že můžou násobně zrychlit výzkum. Tím, že nebudou čekat, až lidé náhodně odzkouší, co funguje, ale raději bádání přenechají AI agentům.",
-      "hero_image": "https://i.iinfo.cz/images/65/filip-dousek-hynek-walner-theorema.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "fb78d53679e65057",
-      "title": "Nadšenec oprášil legendární český program z 90. let. Díky AI to zvládl sám a za krátkou dobu",
-      "url": "https://www.lupa.cz/clanky/nadsenec-oprasil-legendarni-cesky-program-z-90-let-diky-ai-to-zvladl-sam-a-za-kratkou-dobu/",
-      "published_at": "2026-10-07T04:30:02+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Kultovní správce souborů Salamander je open source. Díky tomu vznikla nová verze Tandem Commander vytvořená díky zapojení AI agentů.",
-      "hero_image": "https://i.iinfo.cz/images/641/programatorsky-kutloch-z-90-let.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "de40de7f5d5c1632",
@@ -1850,18 +1922,6 @@
       "author": "Richard MacManus",
       "summary_raw": "After leading Meta&#8217;s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI &#8212; from how its teams develop products to how it serves guests.",
       "hero_image": "https://substackcdn.com/image/fetch/$s_!-kaR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac92b22-c007-487c-b80f-f031f36596db_2560x1440.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "f2b2c5e582a68eac",
-      "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
-      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-      "published_at": "2026-10-02T06:40:53+00:00",
-      "author": "",
-      "summary_raw": "the minimalist harness goes stable... and TypeScript!",
-      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/RjfbvDXpFls",
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
