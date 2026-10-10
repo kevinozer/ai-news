@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T04:02:21.799276+00:00",
+  "generated_at": "2026-10-10T10:37:13.602955+00:00",
   "date": "2026-10-10",
-  "article_count_unique": 127,
-  "article_count_raw": 127,
+  "article_count_unique": 122,
+  "article_count_raw": 122,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "venturebeat_ai",
@@ -91,8 +91,8 @@
     {
       "source_id": "last_week_ai",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "one_useful_thing",
@@ -163,17 +163,41 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 7,
-      "raw_count": 13
+      "count": 6,
+      "raw_count": 12
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "96f24e18464f90d6",
+      "title": "Tři lidé, dva počítače a digitální dvojče Česka. Tento AI nástroj má znát výsledky voleb dřív, než začnou",
+      "url": "https://cc.cz/tri-lide-dva-pocitace-a-digitalni-dvojce-ceska-tento-ai-nastroj-ma-znat-vysledky-voleb-driv-nez-zacnou/",
+      "published_at": "2026-10-10T07:28:53+00:00",
+      "author": "Michaela Prešinská",
+      "summary_raw": "Vytvořili čtvrt milionu syntetických obyvatel Česka a nechali umělou inteligenci odhadnout výsledky komunálních voleb ve všech obcích. Článek Tři lidé, dva počítače a digitální dvojče Česka. Tento AI nástroj má znát výsledky voleb dřív, než začnou se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/simczech-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "36afec549f1c2b55",
+      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "published_at": "2026-10-10T06:45:57+00:00",
+      "author": "",
+      "summary_raw": "Wow.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!JxMf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2108594586310631424.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
     {
       "id": "f4cbca0698d885f4",
       "title": "Quoting The New York Times",
@@ -1219,54 +1243,6 @@
       "category": "labs"
     },
     {
-      "id": "88d7e4e4ded707c0",
-      "title": "Why we’re watching these climate tech companies",
-      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-      "published_at": "2026-10-08T10:00:00+00:00",
-      "author": "Casey Crownhart",
-      "summary_raw": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. &#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "8f65c82d28b0f248",
-      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
-      "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
-      "published_at": "2026-10-08T09:30:00+00:00",
-      "author": "Paresh Dave",
-      "summary_raw": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
-      "hero_image": "https://media.wired.com/photos/6ac02e534880260b81233f30/master/pass/Tristan-Harris-2274181207.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "8a31c2adb23e316b",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "published_at": "2026-10-08T09:00:00+00:00",
-      "author": "Jamie Condliffe",
-      "summary_raw": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AP25364739329087_1.jpg",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "158dbc8482088ef5",
-      "title": "Building a safer path to autonomous industrial AI",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "published_at": "2026-10-08T08:17:32+00:00",
-      "author": "MIT Technology Review Insights",
-      "summary_raw": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "73be88971b0bf061",
       "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
       "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
@@ -1277,18 +1253,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "2eb4f48d9cfaca35",
-      "title": "Přejde vývoj softwaru na autopilota? AI vygeneruje většinu kódu, ale lidský úsudek nenahradí",
-      "url": "https://www.lupa.cz/clanky/prejde-vyvoj-softwaru-na-autopilota-ai-vygeneruje-vetsinu-kodu-ale-lidsky-usudek-nenahradi/",
-      "published_at": "2026-10-08T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Marek Přibáň)",
-      "summary_raw": "Vibe coding je dobrý na prototypy a interní nástroje. Přístup „zapomeňte, že kód vůbec existuje“ nefunguje. Důležitý je Agentic Development Lifecycle.",
-      "hero_image": "https://i.iinfo.cz/images/494/programovani-na-autopilota.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "f935c5b145781c76",
@@ -1541,30 +1505,6 @@
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
       "category": "labs"
-    },
-    {
-      "id": "e95b730edc65e8de",
-      "title": "[AINews] not much happened today",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
-      "published_at": "2026-10-03T08:45:15+00:00",
-      "author": "Latent.Space",
-      "summary_raw": "a quiet day.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "0c505fe26e13d98a",
-      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
-      "url": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
-      "published_at": "2026-10-03T07:32:03+00:00",
-      "author": "Last Week in AI",
-      "summary_raw": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!a22F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9feb67e-d790-44f8-8bc1-f1f3057fb185_783x461.png",
-      "source_id": "last_week_ai",
-      "source_name": "Last Week in AI",
-      "category": "newsletter"
     },
     {
       "id": "1391362c9db13bf6",
