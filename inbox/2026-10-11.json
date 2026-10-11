@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T04:02:21.027167+00:00",
+  "generated_at": "2026-10-11T10:49:53.550690+00:00",
   "date": "2026-10-11",
-  "article_count_unique": 104,
-  "article_count_raw": 104,
+  "article_count_unique": 94,
+  "article_count_raw": 94,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -13,26 +13,26 @@
     {
       "source_id": "verge_ai",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 15,
-      "raw_count": 15
+      "count": 14,
+      "raw_count": 14
     },
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "venturebeat_ai",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 5,
-      "raw_count": 10
+      "count": 1,
+      "raw_count": 3
     },
     {
       "source_id": "czechcrunch",
@@ -811,102 +811,6 @@
       "category": "news"
     },
     {
-      "id": "5a74900facec469b",
-      "title": "Volkswagen's replacement for the ID.4 crossover is here",
-      "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
-      "published_at": "2026-10-09T10:00:59+00:00",
-      "author": "Jonathan M. Gitlin",
-      "summary_raw": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/DB2026AU00895-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "4bea8b3c2c37aaed",
-      "title": "Even ‘Law & Order’ Is Terrified of AI",
-      "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-      "published_at": "2026-10-09T10:00:00+00:00",
-      "author": "Ej Dickson",
-      "summary_raw": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-      "hero_image": "https://media.wired.com/photos/6ac6842a2962a868125e6095/master/pass/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "605a103f7e4ea650",
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "published_at": "2026-10-09T09:48:26+00:00",
-      "author": "Robert Hart",
-      "summary_raw": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita &#8288;Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "e9ce92251a3541b0",
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "published_at": "2026-10-09T09:00:00+00:00",
-      "author": "Arthur Holland Michel",
-      "summary_raw": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924SP1.jpg?w=840",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "df9a708655f1f5dd",
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "published_at": "2026-10-09T09:00:00+00:00",
-      "author": "Eamon Whalen",
-      "summary_raw": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyTrex. An RPIC is&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "4076559f940d11ee",
-      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "published_at": "2026-10-09T09:00:00+00:00",
-      "author": "Jessica Hamzelou",
-      "summary_raw": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "74b72c72c0a9f132",
-      "title": "Oblíbený český program na e-maily přichází v nové verzi. Je rychlejší, má AI a drží data v tajnosti",
-      "url": "https://www.lupa.cz/aktuality/oblibeny-cesky-program-na-e-maily-prichazi-v-nove-verzi-je-rychlejsi-ma-ai-a-drzi-data-v-tajnosti/",
-      "published_at": "2026-10-09T07:27:04+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "E-mailová aplikace eM Client od stejnojmenné české společnosti vychází v ostré jedenácté verzi. K dispozici je pro Windows, macOS a dále se rozvíjejí také verze pro Android a iOS. Aplikace lze získat zdarma, případně si pořídit placenou verzi s více funkcemi.",
-      "hero_image": "https://i.iinfo.cz/images/62/em-client.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "e14b47b8d4b327ce",
-      "title": "AI mi vzala práci, linuxový chytrý telefon, učíme děti programovat. Přednášky z LinuxDays jsou zdarma online",
-      "url": "https://www.lupa.cz/aktuality/ai-mi-vzala-praci-linuxovy-chytry-telefon-ucime-deti-programovat-prednasky-z-linuxdays-jsou-zdarma-online/",
-      "published_at": "2026-10-09T07:12:01+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "O víkendu na FIT ČVUT v Praze proběhla tradiční dvoudenní konference LinuxDays, kde byla hromada zajímavých předná&#353;ek. Organizátoři je nyní zdarma zveřejnily pro v&#353;echny zájemce. K dispozici jsou pohromadě na YouTube (autory jsou Silicon Hill), prezentace k nim jsou pak ke stažení tady.",
-      "hero_image": "https://i.iinfo.cz/images/205/linuxdays-2026.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "6af77251c3573c2b",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -941,30 +845,6 @@
       "source_id": "last_week_ai",
       "source_name": "Last Week in AI",
       "category": "newsletter"
-    },
-    {
-      "id": "718d16db7034d2f9",
-      "title": "Ruský IT fenomén z ČR je poprvé ve ztrátě, Seznam si postaví další datacentrum, AI megaprojekt v Ralsku se ruší",
-      "url": "https://www.lupa.cz/clanky/rusky-it-fenomen-z-cr-je-poprve-ve-ztrate-seznam-si-postavi-dalsi-datacentrum-ai-megaprojekt-v-ralsku-se-rusi/",
-      "published_at": "2026-10-09T04:30:01+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "EU konečně má vyspělý AI model. Google zhoršuje AI tarify. OpenAI rozlouskla letitou šifru. Zprávy z technologií, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/3/satya-nadella-jensen-huang.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "12bc4e355728cb30",
-      "title": "Křišťálová Lupa letos poprvé ocení AI. Ve hře je deset nominovaných",
-      "url": "https://www.lupa.cz/clanky/kristalova-lupa-letos-poprve-oceni-ai-ve-hre-je-deset-nominovanych/",
-      "published_at": "2026-10-09T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Redakce)",
-      "summary_raw": "Umělá inteligence letos dostává v Křišťálové Lupě vlastní kategorii. O první vítězství se uchází deset projektů, které AI využívají v medicíně, bezpečnosti, průzkumu trhu, automatizaci firemní práce i při každodenní práci s počítačem. O pořadí rozhodne odborná porota.",
-      "hero_image": "https://i.iinfo.cz/images/512/kristalova-lupa-2026-hlasujte.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "e1d4bfb9f5d84bf1",
