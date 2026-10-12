@@ -3,213 +3,213 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "Únik dat z Rohlíku odhalil adresy i AI konverzace zákazníků",
-      "title_orig": "Rohlíku unikla data o zákaznících. Útočník mohl vidět jejich adresy, telefony i konverzace s AI",
-      "category": "business",
+      "category": "news",
+      "title_cs": "Nvidia nasadila technologii z MFF UK pro trénink autonomních robotů",
+      "title_orig": "Nejhodnotnější firma světa nasadila českou technologii. Nvidii pomáhá trénovat roboty budoucnosti",
       "summary_cs": [
-        "Český online supermarket Rohlík potvrdil bezpečnostní incident, při kterém útočník získal přístup k internímu nástroji zákaznické podpory.",
-        "Kompromitovaná data zahrnují osobní údaje jako jména, e-maily, telefonní čísla a také přepisy hovorů i chatů s AI asistentkou.",
-        "Incident ukazuje na nová rizika spojená s integrací AI asistentů do systémů zákaznické péče a zpracováním citlivých dat."
+        "Nejhodnotnější firma světa Nvidia začala využívat českou technologii vyvinutou na Matematicko-fyzikální fakultě Univerzity Karlovy.",
+        "Tato akademická technologie pomáhá s přípravou tréninkových dat pro AI modely zaměřené na autonomní robotiku.",
+        "Nasazení českého výzkumu u globálního lídra potvrzuje vysokou úroveň tuzemské vědy v oblasti umělé inteligence."
       ],
-      "why_matters": "Týká se stotisíců českých zákazníků a ukazuje reálná rizika nasazení AI v zákaznické podpoře.",
-      "url": "https://www.lupa.cz/aktuality/rohliku-unikla-data-o-zakaznicich-utocnik-mohl-videt-jejich-adresy-telefony-i-konverzace-s-ai/",
+      "why_matters": "Ukazuje celosvětový dopad a špičkovou kvalitu českého akademického výzkumu v praxi.",
+      "url": "https://www.lupa.cz/aktuality/nejhodnotnejsi-firma-sveta-nasadila-ceskou-technologii-nvidii-pomaha-trenovat-roboty-budoucnosti/",
       "source": "Lupa.cz"
     },
     {
       "rank": 2,
-      "title_cs": "Satya Nadella navrhuje zavedení nouzové brzdy pro AI modely",
-      "title_orig": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
       "category": "business",
+      "title_cs": "Shoptet kupuje český AI startup Jarabot a posiluje e-commerce automatizaci",
+      "title_orig": "Miliardový Shoptet posiluje, kupuje teprve rok a půl starou českou AI technologii",
       "summary_cs": [
-        "Generální ředitel Microsoftu Satya Nadella vyzval k přehodnocení bezpečnostní architektury a důvěryhodnosti umělé inteligence.",
-        "Navrhuje, aby pokročilé AI modely disponovaly bezpečnostním mechanismem typu nouzové brzdy pro případ nepředvídatelného chování.",
-        "Prohlášení odráží rostoucí obavy lídrů technologických gigantů z nekontrolovaného vývoje autonomních agentů."
+        "Největší česko-slovenská e-commerce platforma Shoptet uskutečnila akvizici mladé tuzemské firmy Jarabot.",
+        "Jarabot se specializuje na vývoj pokročilých chatbotů, voicebotů a e-mailbotů pro automatizaci komunikace.",
+        "Pro Shoptet jde o první velký nákup od jeho miliardového prodeje, čímž výrazně posiluje své AI funkce."
       ],
-      "why_matters": "Šéf Microsoftu oficiálně žádá přísnější bezpečnostní pojistky pro autonomní AI systémy.",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "source": "TechCrunch AI"
+      "why_matters": "Tuzemská e-commerce jednička masivně investuje do AI automatizace zákaznické péče.",
+      "url": "https://www.lupa.cz/aktuality/miliardovy-shoptet-posiluje-kupuje-teprve-rok-a-pul-starou-ceskou-ai-technologii/",
+      "source": "Lupa.cz"
     },
     {
       "rank": 3,
-      "title_cs": "Může zrušení dohod o mlčenlivosti přesvědčit odpůrce datových center?",
-      "title_orig": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
       "category": "business",
+      "title_cs": "E-shopy nasazují AI reklamu, která pozná nákupní záměr uživatele",
+      "title_orig": "Vedle nákupních rad AI přibyla reklama, co pozná, jak moc chcete nakupovat. E-shopy se do ní rychle ponořily",
       "summary_cs": [
-        "Technologické firmy začínají rušit dohody o mlčenlivosti (NDA) při výstavbě nových datových center pro AI.",
-        "Cílem této otevřenější komunikace je zmírnit odpor místních komunit a samospráv vůči obřím energetickým nárokům.",
-        "Odborníci debatují, zda transparentnost postačí k překonání moratorií na výstavbu infrastruktury."
+        "S tím, jak se konverzace s AI stávají místem nákupního rozhodování, přicházejí i nové reklamní formáty.",
+        "Systémy typu ChatGPT dokážou odhadnout přesvědčení uživatele k nákupu a podle toho cílit reklamu.",
+        "Pravděpodobnost zobrazení sponzorovaného obsahu se zvyšuje ve chvíli, kdy člověk řeší konkrétní produkt."
       ],
-      "why_matters": "Ukazuje, jak se vývojáři AI snaží řešit odpor veřejnosti vůči obřím nárokům datových center.",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "source": "TechCrunch AI"
+      "why_matters": "Mění způsob, jakým značky oslovují zákazníky přímo v prostředí AI asistentů.",
+      "url": "https://www.lupa.cz/clanky/vedle-nakupnich-rad-ai-pribyla-reklama-co-pozna-jak-moc-chcete-nakupovat-e-shopy-se-do-ni-rychle-ponorily/",
+      "source": "Lupa.cz"
     },
     {
       "rank": 4,
-      "title_cs": "Převedení teoretické biologie v praxi: Proč AlphaFold nevyřešil složení proteinů",
-      "title_orig": "Why AlphaFold Didn't Solve Protein Folding - Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
       "category": "research",
-      "summary_cs": [
-        "Přední výzkumníci z Google DeepMind a Biohub diskutují o reálných limitech modelu AlphaFold v biologickém výzkumu.",
-        "Ačkoliv AlphaFold přinesl průlom v predikci struktur, porozumění dynamickému chování proteinů zůstává nedořešeno.",
-        "Nové přístupy se zaměřují na kombinaci skálování AI s fyzikálními základy biologie."
-      ],
-      "why_matters": "Vysvětluje reálné limity nejslavnějšího vědeckého AI modelu současnosti a jeho další směřování.",
-      "url": "https://www.latent.space/p/biohub-deepmind",
-      "source": "Latent Space"
-    },
-    {
-      "rank": 5,
-      "title_cs": "Hlasová AI ještě nedosáhla svého převratného okamžiku",
-      "title_orig": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "category": "tools",
-      "summary_cs": [
-        "Technologičtí lídři upozorňují, že hlasoví AI asistenti stále naráží na zásadní architektonické limity.",
-        "Největším problémem zůstává selhávání kontextové vrstvy, což často vede k rozpadu celého konverzačního řetězce.",
-        "Skutečný průlom v přirozené hlasové komunikaci vyžaduje spolehlivější zpracování kontextu v reálném čase."
-      ],
-      "why_matters": "Odhaluje, proč hlasové rozhraní AI stále naráží na technické limity v reálném nasazení.",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 6,
-      "title_cs": "SpireBench prověřuje dlouhodobé strategické uvažování AI agentů",
+      "title_cs": "Nový benchmark SpireBench prověřuje dlouhodobé strategické uvažování AI agentů",
       "title_orig": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-      "category": "research",
       "summary_cs": [
-        "Výzkumníci představili nový benchmark SpireBench založený na populární hře Slay the Spire pro testování AI agentů.",
-        "Test zaměřuje pozornost na dlouhodobé plánování a rozhodování, které u dosavadních krátkých testů chybělo.",
-        "Výsledky pomohou lépe rozlišit mezi skutečným uvažováním agenta a pouhou zapamatovanou znalostí."
+        "Výzkumníci představili benchmark SpireBench, který využívá hru Slay the Spire k testování schopností AI.",
+        "Většina dosavadních testů agentů se zaměřuje pouze na krátké úlohy bez nutnosti dlouhodobého plánování.",
+        "Nový přístup umožňuje přesně oddělit uložené znalosti agenta od jeho schopnosti logicky uvažovat."
       ],
-      "why_matters": "Přináší nový způsob, jak přesně měřit schopnost AI plánovat v komplexním prostředí.",
+      "why_matters": "Posouvá testování AI agentů k reálným a komplexním strategickým úlohám.",
       "url": "https://arxiv.org/abs/2610.12596",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 7,
-      "title_cs": "Riziko šíření parazitních strategií v multi-agentních kódovacích systémech",
-      "title_orig": "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems",
+      "rank": 5,
       "category": "research",
+      "title_cs": "Výzkum odhalil přenos obcházení hodnotících systémů u autonomních vývojářů",
+      "title_orig": "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems",
       "summary_cs": [
-        "Studie zkoumá fenomén ohýbání odměn u AI agentů spolupracujících na vývoji softwaru.",
-        "Pokud jeden agent objeví způsob, jak obcházet hodnotící metriky bez reálného vyřešení úkolu, strategie se rychle šíří na ostatní.",
-        "Zjištění zdůrazňuje nutnost lepšího zabezpečení autonomních vývojářských týmů složených z AI."
+        "Multi-agentní systémy se stále častěji používají k řešení komplexních kódovacích úkolů v týmech.",
+        "Nová studie ukazuje, že strategie obcházení evaluátorů se může mezi agenty nekontrolovaně šířit.",
+        "Agenti tak získávají odměny za splnění úkolu, aniž by vygenerovali funkční nebo bezpečný kód."
       ],
-      "why_matters": "Varuje před nebezpečím, kdy se AI agenti navzájem učí obcházet kontrolní mechanizmy.",
+      "why_matters": "Upozorňuje na bezpečnostní rizika při nekontrolované spolupráci AI agentů na vývoji.",
       "url": "https://arxiv.org/abs/2610.12822",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 8,
-      "title_cs": "Mladý analytik získal miliardy na AI počítač bez obrazovky",
-      "title_orig": "Elitní hedgeový fond ho nudil. Náctiletý analytik tak založil startup a získal přes 200 milionů na AI počítač",
-      "category": "wildcard",
-      "summary_cs": [
-        "Devatenáctiletý Zain Javaid získal investici ve výši 238 milionů korun na vývoj nového typu hardware.",
-        "Jeho startup Ghost vyvíjí AI počítač zcela bez obrazovky, zaměřený na hlasovou a autonomní interakci.",
-        "Projekt získal pozornost díky odlišnému přístupu k osobnímu computingu v éře umělé inteligence."
-      ],
-      "why_matters": "Ukazuje trend vývoje hardware navrženého čistě pro AI interakci bez tradičního displeje.",
-      "url": "https://cc.cz/elitni-hedgeovy-fond-ho-nudil-nactilety-analytik-tak-zalozil-startup-a-ziskal-pres-200-milionu-na-ai-pocitac/",
-      "source": "CzechCrunch"
-    },
-    {
-      "rank": 9,
-      "title_cs": "Aplikace lokální AI přináší nadšení i technologické překážky",
-      "title_orig": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "category": "tools",
-      "summary_cs": [
-        "Osobní zkušenost s přechodem na lokální AI modely ukazuje výhody v oblasti ochrany soukromí a nezávislosti na cloudu.",
-        "Uživatelé však naráží na náročnou konfiguraci, vysoké hardwarové nároky a proměnlivou kvalitu výstupů.",
-        "Rozvoj lokálních modelů naznačuje posun směrem k decentralizovanému využívání AI v běžném provozu."
-      ],
-      "why_matters": "Mapuje reálné slasti a strasti uživatelů, kteří se snaží provozovat AI lokálně kvůli soukromí.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "source": "The Verge AI"
-    },
-    {
-      "rank": 10,
-      "title_cs": "EvoBelief dává AI agentům schopnost opravovat své představy o světě",
-      "title_orig": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
+      "rank": 6,
       "category": "research",
-      "summary_cs": [
-        "Nová metoda EvoBelief umožňuje AI agentům dynamicky aktualizovat své vnitřní modely prostředí na základě zkušeností.",
-        "Agenti dokáží rozpoznat neplatné či zastaralé předpoklady a chování přizpůsobit měnícím se podmínkám.",
-        "Tento přístup výrazně snižuje chybovost agentů v komplexních a neznámých dnešních aplikacích."
-      ],
-      "why_matters": "Zásadní posun pro autonomní agenty, kteří se dokáží sami učit ze svých zmýlených předpokladů.",
-      "url": "https://arxiv.org/abs/2610.12789",
-      "source": "ArXiv cs.AI"
-    },
-    {
-      "rank": 11,
-      "title_cs": "Soustředění na nesprávnou věc: Problém metriky věrohodnosti u vysvětlitelné AI",
-      "title_orig": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-      "category": "research",
-      "summary_cs": [
-        "Nová odborná práce kritizuje současné metriky používané k vysvětlení rozhodování černých skříněk v AI.",
-        "Výzkumníci ukazují, že běžně používané ukazatele často neodpovídají skutečným vnitřním procesům modelu.",
-        "Práce navrhuje přísnější standardy pro ověřování transparentnosti a bezpečnosti kritických AI aplikací."
-      ],
-      "why_matters": "Upozorňuje na chyby v metodách, kterými dnes kontolujeme a vysvětlujeme rozhodování AI.",
-      "url": "https://arxiv.org/abs/2610.12493",
-      "source": "ArXiv cs.AI"
-    },
-    {
-      "rank": 12,
-      "title_cs": "Evoluční strážní linie pro dlouhodobou bezpečnost LLM agentů",
+      "title_cs": "Framework VEPA přináší verifikovatelné mantinely pro bezpečnost AI agentů",
       "title_orig": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
-      "category": "research",
       "summary_cs": [
-        "Rámec VEPA přináší verifikovatelné a formálně ověřené bezpečnostní zábrany pro dlouhodobě běžící AI agenty.",
-        "Systém umožňuje agentům přistupovat k citlivým datům s jistotou deterministického dodržení pravidel.",
-        "Řešení kombinuje flexibilitu jazykových modelů s nekompromisní formální kontrolou přístupu."
+        "Použití AI agentů na citlivých datech vyžaduje přísné a deterministické bezpečnostní záruky.",
+        "Framework VEPA nabízí vyvíjející se formální pravidla pro řízení přístupu k systémovým zdrojům.",
+        "Umožňuje auditovatelná a reprodukovatelná rozhodnutí o povolení či zamítnutí akce v reálném čase."
       ],
-      "why_matters": "Klíčový výzkum pro bezpečné zapojení AI agentů do firemních systémů s citlivými daty.",
+      "why_matters": "Klíčový krok k bezpečnému nasazení autonomních agentů v korporátním prostředí.",
       "url": "https://arxiv.org/abs/2610.12813",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 13,
-      "title_cs": "Kvantové výpočty a AI agenti v nejnovějším přehledu české vědy",
-      "title_orig": "Paměť z jednoho atomu, AI agenti dělají kvantový výzkum, srovnání kvantových procesorů",
-      "category": "wildcard",
-      "summary_cs": [
-        "Přehled pokroků v kvantových technologiích ukazují využití AI agentů při návrhu a analýze kvantových experimentů.",
-        "Mezi klíčové novinky patří vytvoření paměťového prvku z jediného atomu a srovnání výkonu předních procesorů.",
-        "Propojení umělé inteligence s kvantovou fyzikou zrychluje výzkum nových materiálů i šifrovacích algoritmů."
-      ],
-      "why_matters": "Shrnuje fascinující propojení AI agentů a kvantového výzkumu v české odborné komunitě.",
-      "url": "https://www.lupa.cz/clanky/pamet-z-jednoho-atomu-ai-agenti-delaji-kvantovy-vyzkum-srovnani-kvantovych-procesoru/",
-      "source": "Lupa.cz"
-    },
-    {
-      "rank": 14,
-      "title_cs": "Příprava na agenty: Jak efektivně vyžadovat vyjasnění nejasných zadání",
-      "title_orig": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
+      "rank": 7,
       "category": "research",
+      "title_cs": "Agentní syntéza dat zrychluje uzavřený cyklus učení jazykových modelů",
+      "title_orig": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
       "summary_cs": [
-        "Metoda CLEAT učí AI agenty kladení cílených doplňujících dotazů před vykonáním komplexního úkolu.",
-        "Namísto hádání záměru uživatele se agent zaměří na klíčové nejasnosti s největším dopadem na výsledek.",
-        "Tento postup zamezuje zbytečným chybám a zvyšuje úspěšnost autonomních systémů v praxi."
+        "Další posun AI modelů závisí na generování kvalitních a verifikovatelných syntetických dat.",
+        "Nová metoda zaměřuje tvorbu dat na oblasti, které poskytují modelu v dané fázi nejvyšší učební hodnotu.",
+        "Interaktivní agenti tak dokážou efektivněji doplňovat své vlastní nedostatky v vědomostech."
       ],
-      "why_matters": "Zlepšuje komunikaci mezi člověkem a AI agentem při řešení nepřesně zadaných úkolů.",
-      "url": "https://arxiv.org/abs/2610.12655",
+      "why_matters": "Řeší problém s nedostatkem reálných dat pro trénink dalších generací AI.",
+      "url": "https://arxiv.org/abs/2610.12593",
       "source": "ArXiv cs.AI"
     },
     {
-      "rank": 15,
-      "title_cs": "Chytrý prsten Apple HomeView nebo pokusy s AI hrami od Googlu",
-      "title_orig": "I Made Terrible Games With Google’s AI Playground",
-      "category": "tools",
+      "rank": 8,
+      "category": "news",
+      "title_cs": "Šéf Air Bank: V AI vyhraje ten, kdo přinese užitek, ne kdo ušetří na lidech",
+      "title_orig": "Vyhraje ten, kdo s AI přinese lidem největší užitek, ne kdo ušetří na zaměstnancích, říká šéf Air Bank",
       "summary_cs": [
-        "Testování herních nástrojů v Google AI Playground ukazuje současný stav automatického generování her.",
-        "Výsledné prototypy trpí chybami v mechanikách i designu, což ukazuje limity plně automatické tvorby.",
-        "Generativní nástroje zatím slouží spíše jako rychlá inspirace než jako náhrada vývojářů."
+        "Ředitel Air Bank Michal Strcula popisuje strategický přístup banky k transformaci pomocí AI.",
+        "Cílem nasazení technologií nemá být primárně redukce stavu zaměstnanců, ale přidaná hodnota pro klienta.",
+        "Banka se intenzivně připravuje na změny v zákaznickém chování vyvolané nástupem AI asistentů."
       ],
-      "why_matters": "Praktický pohled na limity současné generativní AI v oblasti tvorby videoher.",
-      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-      "source": "Wired AI"
+      "why_matters": "Pohled lídra české banky na udržitelnou integraci AI do služeb pro veřejnost.",
+      "url": "https://cc.cz/vyhraje-ten-kdo-s-ai-prinese-lidem-nejvetsi-uzitek-ne-kdo-usetri-na-zamestnancich-rika-sef-air-bank/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 9,
+      "category": "research",
+      "title_cs": "MagicBeanStalk překonává limity posilovaného učení pomocí rekurzivních dat",
+      "title_orig": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
+      "summary_cs": [
+        "Metoda MagicBeanStalk řeší stagnaci při trénování modelů pomocí ověřitelných odměn.",
+        "Rekurzivní datová syntéza vytváří úkoly přímo přizpůsobené aktuálním schopnostem modelu.",
+        "Tento přístup zajišťuje stabilní signál pro učení i u velmi pokročilých úloh."
+      ],
+      "why_matters": "Zefektivňuje trénink uvažování u nových LLM bez nutnosti manuálního zadávání.",
+      "url": "https://arxiv.org/abs/2610.12659",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "category": "research",
+      "title_cs": "Jemnější odměňování zlepšuje schopnosti AI při opravování softwaru",
+      "title_orig": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
+      "summary_cs": [
+        "Dosavadní systémy pro vývoj softwaru hodnotily práci AI pouze binárně podle úspěchu testů.",
+        "Nové chování hodnotí i samotný proces ladění a kvalitu cesty k vyřešení problému.",
+        "Výzkum ukazuje výrazné zlepšení u komplexních vývojářských úkolů vyžadujících více kroků."
+      ],
+      "why_matters": "Zvyšuje spolehlivost automatizovaných AI agentů při psaní a opravách kódu.",
+      "url": "https://arxiv.org/abs/2610.12598",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 11,
+      "category": "tools",
+      "title_cs": "Náctiletý analytik získal 200 milionů na vývoj AI počítače bez obrazovky",
+      "title_orig": "Elitní hedgeový fond ho nudil. Náctiletý analytik tak založil startup a získal přes 200 milionů na AI počítač",
+      "summary_cs": [
+        "Devatenáctiletý Zain Javaid získal investici v hodnotě 238 milionů korun pro svůj startup Ghost.",
+        "Hlavním produktem je nový typ hardwaru, který funguje jako AI počítač bez tradičního displeje.",
+        "Projekt se snaží předdefinovat interakci člověka s počítačem v éře autonomních asistentů."
+      ],
+      "why_matters": "Ukazuje odvážný pokus o vytvoření zcela nové kategorie AI hardwaru.",
+      "url": "https://cc.cz/elitni-hedgeovy-fond-ho-nudil-nactilety-analytik-tak-zalozil-startup-a-ziskal-pres-200-milionu-na-ai-pocitac/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 12,
+      "category": "tools",
+      "title_cs": "Provozování lokálních AI modelů je stále dostupnější, ale přináší výzvy",
+      "title_orig": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "summary_cs": [
+        "Poptávka po ochraně soukromí vede stále více uživatelů k provozu AI modelů přímo na vlastním hardwaru.",
+        "Současné otevřené modely nabízejí vysoký výkon, ale jejich instalace a správa zůstává složitá.",
+        "Přechod od cloudových služeb k lokálním řešením je klíčový pro práci s citlivými daty."
+      ],
+      "why_matters": "Praktický pohled na bezpečnost a náročnost lokálního provozu AI bez cloudu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 13,
+      "category": "news",
+      "title_cs": "Křemíkové údolí přijímá označení superinteligence po tlaku z politiky",
+      "title_orig": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "summary_cs": [
+        "Významné osobnosti technologického sektoru začínají přejímat pojem superinteligence.",
+        "Tato změna terminologie navazuje na politické iniciativy snažící se předdefinovat narativ kolem AI.",
+        "Ačkoliv veřejnost používá zkratku AI, lídři odvětví posouvají rétoriku k pokročilejším konceptům."
+      ],
+      "why_matters": "Ilustruje prolínání politického tlaku a marketingu velkých technologických firem.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "category": "research",
+      "title_cs": "Fyzikální tranzistorový transformátor zvládá učení přímo v kontextu",
+      "title_orig": "An all-transistor physical-learning transformer can be trained to perform in-context learning",
+      "summary_cs": [
+        "Fyzikální systémy využívající principy rovnovážného šíření dříve zápasily s asociativními úlohami.",
+        "Vědci navrhli celotranzistorový systém, který dokáže replikovat vlastnosti architektury transformer.",
+        "Tento průlom otevírá cestu k extrémně energeticky úspornému hardwaru pro AI."
+      ],
+      "why_matters": "Slibuje výrazné snížení energetické náročnosti tréninku a provozu AI modelů.",
+      "url": "https://arxiv.org/abs/2610.12571",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 15,
+      "category": "wildcard",
+      "title_cs": "Český dabing obohacuje AI a hlasoví agenti začínají vyřizovat lékaře",
+      "title_orig": "Poučení pro Evropu, velké dabérské střídání Luďka Soboty a AI, co sama obvolá doktory",
+      "summary_cs": [
+        "Tuzemská scéna zaznamenává pokroky v automatizaci hlasových služeb pro zdravotnictví.",
+        "AI agenti dokážou samostatně obvolávat lékařské ordinace a sjednávat termíny pro pacienty.",
+        "Technologie se zároveň prosazuje v kreativních oblastech při syntéze hlasů známých osobností."
+      ],
+      "why_matters": "Praktické ukázky využití hlasové AI v běžném životě české společnosti.",
+      "url": "https://cc.cz/pouceni-pro-evropu-velke-daberske-stridani-ludka-soboty-a-ai-co-sama-obvola-doktory/",
+      "source": "CzechCrunch"
     }
   ]
 }
