@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T04:02:20.228857+00:00",
+  "generated_at": "2026-10-12T11:58:49.127123+00:00",
   "date": "2026-10-12",
-  "article_count_unique": 102,
-  "article_count_raw": 102,
+  "article_count_unique": 107,
+  "article_count_raw": 107,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -19,14 +19,14 @@
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 0,
-      "raw_count": 0
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "wired_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 15,
-      "raw_count": 15
+      "count": 14,
+      "raw_count": 14
     },
     {
       "source_id": "anthropic_news",
@@ -163,17 +163,101 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 4
+      "count": 5,
+      "raw_count": 9
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 4,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "7ed53db822e45c1a",
+      "title": "Nejhodnotnější firma světa nasadila českou technologii. Nvidii pomáhá trénovat roboty budoucnosti",
+      "url": "https://www.lupa.cz/aktuality/nejhodnotnejsi-firma-sveta-nasadila-ceskou-technologii-nvidii-pomaha-trenovat-roboty-budoucnosti/",
+      "published_at": "2026-10-12T11:34:33+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Americká společnost Nvidia, která je aktuálně díky nástupu AI nejhodnotněj&#353;ím podnikem na světě, začala používat českou technologii vyvinutou v akademickém prostředí, respektive na Matematicko-fyzikální fakultě Univerzity Karlovy. Používá ji pro přípravu dat na trénování modelů umělé inteligence pro autonomní robotiku. Právě roboti schopní samostatného fungování mají být pro Nvidii dal&#353;í velkou oblastí rozvoje (projekty jako GR00T, Jetson a dal&#353;í).",
+      "hero_image": "https://i.iinfo.cz/images/115/nvidia-gr00t.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "e3eefe497a7edebe",
+      "title": "Miliardový Shoptet posiluje, kupuje teprve rok a půl starou českou AI technologii",
+      "url": "https://www.lupa.cz/aktuality/miliardovy-shoptet-posiluje-kupuje-teprve-rok-a-pul-starou-ceskou-ai-technologii/",
+      "published_at": "2026-10-12T11:14:13+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Původem česká společnost Shoptet, která se označuje za největ&#353;í česko-slovenskou e-commerce platformu, se vydala na nákupy. Kupuje tuzemskou firmu Jarabot, kterou doposud vlastnili Martin Baro&#353;, Jan &#352;těrba (po 35 procentech) a Marek Duda (30 procent). Jarabot je mladá firma, oficiálně vznikla v únoru loňského roku. Tržby se dostaly na 6,5 milionu korun.",
+      "hero_image": "https://i.iinfo.cz/images/285/jarabot.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "c7ea7924114ad9b6",
+      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "published_at": "2026-10-12T09:37:02+00:00",
+      "author": "Robin George Andrews",
+      "summary_raw": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nations—plus a&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Selman-MIT-MoonBase-LavaCaves.png?w=840",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "59b1c6e884c81b4f",
+      "title": "The ecologist revealing the invisible networks that revive rainforests",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "author": "Matthew Ponsford",
+      "summary_raw": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "12fc357e7273198e",
+      "title": "Shoptet poprvé od svého miliardového prodeje vyrazil na nákupy. Pohltí mladou českou AI firmu",
+      "url": "https://cc.cz/shoptet-poprve-od-sveho-miliardoveho-prodeje-vyrazil-na-nakupy-pohlti-mladou-ceskou-ai-firmu/",
+      "published_at": "2026-10-12T08:01:45+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Jarabot vyvíjí chatboty, voiceboty a e-mailboty. Cenu akvizice firmy nezveřejnily, podle odhadu CzechCrunche jde o desítky milionů korun. Článek Shoptet poprvé od svého miliardového prodeje vyrazil na nákupy. Pohltí mladou českou AI firmu se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/jarabot-founders-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "5dbb04651f971950",
+      "title": "Vedle nákupních rad AI přibyla reklama, co pozná, jak moc chcete nakupovat. E-shopy se do ní rychle ponořily",
+      "url": "https://www.lupa.cz/clanky/vedle-nakupnich-rad-ai-pribyla-reklama-co-pozna-jak-moc-chcete-nakupovat-e-shopy-se-do-ni-rychle-ponorily/",
+      "published_at": "2026-10-12T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Zatímco se konverzace s AI staly místem, kde se lidé rozhodují, co koupit, v prostoru přibyly nové reklamní možnosti. ChatGPT odhaduje, jak vážně člověk nákupy řeší. Pravděpodobnost, že se uživatelům reklama objeví, stoupá s nákupním přesvědčením.",
+      "hero_image": "https://i.iinfo.cz/images/130/e-commerce-a-nakupy.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "67dabf32201b11c7",
+      "title": "Vyhraje ten, kdo s AI přinese lidem největší užitek, ne kdo ušetří na zaměstnancích, říká šéf Air Bank",
+      "url": "https://cc.cz/vyhraje-ten-kdo-s-ai-prinese-lidem-nejvetsi-uzitek-ne-kdo-usetri-na-zamestnancich-rika-sef-air-bank/",
+      "published_at": "2026-10-12T04:28:03+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Michal Strcula stojí ve vedení banky ze skupiny PPF od roku 2014. Nyní se hodně věnuje tomu, aby Air Bank uspěla v AI revoluci, která se na svět valí. Článek Vyhraje ten, kdo s AI přinese lidem největší užitek, ne kdo ušetří na zaměstnancích, říká šéf Air Bank se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/strcula-03-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "d7e970a6b3811754",
       "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
@@ -847,18 +931,6 @@
       "category": "news"
     },
     {
-      "id": "a7f4f3fdf060fd85",
-      "title": "One with the world? A new look at brains transformed by psychedelics.",
-      "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-      "published_at": "2026-10-10T11:15:35+00:00",
-      "author": "Jacek Krywko",
-      "summary_raw": "Participants meditated inside an MRI tube, with and without psilocybin.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1308927414-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
       "id": "36afec549f1c2b55",
       "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
       "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
@@ -1249,18 +1321,6 @@
       "published_at": "2026-10-05T15:00:00+00:00",
       "author": "",
       "summary_raw": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "3fcbeda4bf3dea84",
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "published_at": "2026-10-05T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
