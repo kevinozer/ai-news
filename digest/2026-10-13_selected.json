@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-13",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Meta představuje pokročilé AI modely Muse Wonder a Wonder Full",
+      "title_orig": "Meta has some Wonder Full new AI models",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost Meta vydala své dosud nejvýkonnější AI modely nazvané Muse Wonder a Muse Wonder Full.",
+        "Nové modely z divize Superintelligence Labs dosahují špičkových výsledků v kódování i komplexním uvažování.",
+        "Nové architektury zároveň obsahují bezpečnostní pojistky zabraňující agentům v nekontrolovaném chování."
+      ],
+      "why_matters": "Ukazuje, že Meta dokáže přímo konkurovat nejlepším modelům od OpenAI a Anthropic.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Přední AI startup Character.AI vyhlásil bankrot a prodává aktiva Disney",
+      "title_orig": "Character.AI files for bankruptcy",
+      "category": "business",
+      "summary_cs": [
+        "Populární platforma pro konverzační boty Character.AI oficiálně požádala o ochranu před věřiteli.",
+        "Firma čelila právním tlakům a žalobám ohledně bezpečnosti a dopadu na mladistvé uživatele.",
+        "Část klíčových aktiv a technologií kupuje společnost Disney pro své vlastní projekty."
+      ],
+      "why_matters": "První velký krach z období generativního AI boomu ukazuje vysoká rizika konverzačních služeb.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Microsoft uvádí AI čip Maia 300 a snižuje závislost na Nvidii",
+      "title_orig": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "category": "labs",
+      "summary_cs": [
+        "Microsoft představil třetí generaci vlastního procesoru Maia 300 určeného pro provoz AI modelů.",
+        "Čip je navržen přímo pro odbavování dotazů u pokročilých uvažujících modelů a autonimních agentů.",
+        "Vlastní hardwarová architektura má Microsoftu výrazně snížit náklady na cloudovou infrastrukturu."
+      ],
+      "why_matters": "Vlastní čip Microsoftu zlevní provoz AI služeb v cloudu Azure a zrychlí jejich odezvu.",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Čeští soudci dostanou AI systém iSoud pro rychlejší tvorbu rozsudků",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "České soudnictví připravuje nasazení nového nástroje iSoud s integrovanou umělou inteligencí.",
+        "Systém pomůže soudcům připravovat podklady a zrychlí přípravu soudních rozhodnutí.",
+        "Zástupci justice očekávají zvýšení kvality rozhodování a zkrácení délky soudních řízení."
+      ],
+      "why_matters": "Zásadní krok k digitalizaci a zrychlení často zdlouhavého českého soudního systému.",
+      "url": "https://www.lupa.cz/aktuality/v-radu-mesicu-by-v-cesku-mohl-zacit-fungovat-novy-ai-system-pro-soudce-budou-s-nim-tvorit-rozsudky/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Vodafone a český výzkumník spouští nástroj na odhalování AI podvodů",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Vodafone spouští aplikaci pro detekci zmanipulovaných fotografií, videí i hlasových nahrávek.",
+        "Na vývoji se podílel český startup Synhawk pod vedením výzkumníka Matyho Boháčka ze Stanfordu.",
+        "Nástroj pomůže uživatelům ověřit pravost dokumentů a chránit se před deepfake podvody."
+      ],
+      "why_matters": "Dostupná obrana pro české uživatele proti stále častějším hlasovým a vizuálním AI podvodům.",
+      "url": "https://www.lupa.cz/aktuality/vodafone-s-ceskym-technologickym-talentem-spousti-ochranu-proti-ai-podvodum/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Třetina dospělých Čechů řeší s AI psychické krize, stát chystá reakci",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Více než polovina mladých Čechů používá konverzační AI jako podporu pro své duševní zdraví.",
+        "Téměř třetina dospělých už s AI modelovacími nástroji řešila akutní stres nebo psychickou krizi.",
+        "Státní orgány nyní posuzují, jak toto krizové využití necertifikovaných botů regulovat."
+      ],
+      "why_matters": "Upozorňuje na masový trend využívání AI místo nedostupné psychologické péče v ČR.",
+      "url": "https://www.lupa.cz/aktuality/tretina-dospelych-uz-resila-s-ai-svou-psychickou-krizi-stat-nyni-chce-resit-jak-tema-pojmout/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Alza začala prodávat AI servery za 17 milionů korun přímo ze skladu",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Největší český e-shop naskladnil špičkové servery určené pro výpočetní výuku a provoz AI.",
+        "Zákazníci si mohou hardware v hodnotě desítek milionů odvézt bez mnohaměsíčních čekaček.",
+        "Dostupnost výkonné infrastruktury přímo na skladě je na trhu serverového hardwaru ojedinělá."
+      ],
+      "why_matters": "České firmy a výzkumné týmy získávají okamžitý přístup k extrémně výkonnému AI hardwaru.",
+      "url": "https://www.lupa.cz/aktuality/alza-zacala-prodavat-pocitace-za-17-milionu-netradicne-jsou-skladem-a-lze-si-je-hned-odvezt/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 8,
+      "title_cs": "AI laboratoře vykupují data zkrachovalých startupů pro trénink modelů",
+      "title_orig": "AI labs are buying data from dead startups to train their models",
+      "category": "business",
+      "summary_cs": [
+        "Vývojáři AI modelů objevili nový zdroj tréninkových dat v digitálních archivech zaniklých firem.",
+        "Zakladatelé ukončených projektů tak zpeněžují staré kódové báze a uživatelské záznamy.",
+        "Poptávka po unikatních datových sadách stoupá z důvodu vyčerpání volně dostupného webu."
+      ],
+      "why_matters": "Otevírá otázky ohledně ochrany soukromí uživatelů, jejichž data se prodávají v likvidacích.",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Generativní vyhledávání snižuje návštěvnost Wikipedie a ohrožuje její model",
+      "title_orig": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "category": "news",
+      "summary_cs": [
+        "Nástup přímých AI odpovědí ve vyhledávačích způsobuje viditelný pokles návštěvnosti Wikipedie.",
+        "Úbytek čtenářů vede ke snížení počtu dobrovolných editorů i finančních příspěvků.",
+        "Sami vývojáři AI přitom Wikipedii zásadně potřebují pro trénování svých budoucích modelů."
+      ],
+      "why_matters": "AI parazituje na zdroji, na kterém sama závisí, což ohrožuje budoucnost otevřených znalostí.",
+      "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Epic Games přechází na vývoj her primárně řízený umělou inteligencí",
+      "title_orig": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "category": "tools",
+      "summary_cs": [
+        "Herní gigant Epic Games mění svou strategii a nasazuje vývojový model AI-first.",
+        "Společnost plánuje minimalizovat ručně psaný kód i tradíční tvorbu grafických podkladů.",
+        "Změna se dotkne nadcházejících velkých herních titulů i vývoje samotného Unreal Engine."
+      ],
+      "why_matters": "Průlomový krok jednoho z největších herních studií směrem k plně automatizované tvorbě her.",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Náklady na AI v e-commerce rostou sedmkrát rychleji než samotné tržby",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Český e-shop Sportega zhodnotil reálné finanční dopady masivního nasazování AI systémů.",
+        "Ačkoliv AI šetří významné množství manuální práce, provozní poplatky za modely prudce rostou.",
+        "Odborníci očekávají, že transformace nákupního chování pomocí AI bude pomalejší, než se čekalo."
+      ],
+      "why_matters": "Pragmatický pohled české firmy na reálnou ekonomickou návratnost AI v online obchodu.",
+      "url": "https://cc.cz/naklady-na-ai-rostou-sedmkrat-rychleji-nez-byznys-setri-nam-ale-hodne-penez-hlasi-stamilionova-sportega/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Český fond Purple Ventures investuje do finské AI pro akvizice firem",
+      "title_orig": null,
+      "category": "news",
+      "summary_cs": [
+        "Tuzemský investiční fond posílá peníze do finského vyhledávacího startupu Comparables.ai.",
+        "Systém dokáže pomocí umělé inteligence vyhledat vhodné akviziční cíle po celém světě během minut.",
+        "Nástroj nahrazuje zdlouhavé měsíce ručního mapování trhu a využívá ho přes sto firem."
+      ],
+      "why_matters": "Ukázka zapojení českého kapitálu do investičních AI nástrojů s globálním dopadem.",
+      "url": "https://www.lupa.cz/aktuality/finove-pry-s-ai-behem-minut-najdou-byznysove-zajimave-firmy-ze-sveta-do-projektu-se-zapojuji-cesi/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Startup Blueprints AI dokáže vygenerovat stavební plány během několika minut",
+      "title_orig": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "category": "tools",
+      "summary_cs": [
+        "Nová platforma generuje kompletní výkresovou dokumentaci ze skici, fotografie nebo PDF souboru.",
+        "Vygenerované architektonické návrhy splňují platné stavební předpisy a jsou připraveny pro řízení.",
+        "Nástroj slibuje radikální zrychlení a zlevnění úvodních fází stavebních projektů."
+      ],
+      "why_matters": "Praktický nástroj pro automatizaci náročné administrativní práce v architektuře a stavebnictví.",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Anthropic předvádí architekturu dynamických pracovních postupů pro agenty",
+      "title_orig": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost Anthropic představila koncept koordinace autonomních agentů inspirovaný systémem Unix.",
+        "Dynamické pracovní postupy umožňují rozdělit složité projekty mezi více specializovaných botů.",
+        "Architektura řeší problémy s přitížením vývojářů při řízení rozsáhlých softwarových úkolů."
+      ],
+      "why_matters": "Ukazuje cestu k vytváření spolehlivých agentních systémů schopných řešit komplexní úkoly.",
+      "url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Diskuse o bezpečnosti otevřených AI modelů se vyostřuje",
+      "title_orig": "Open models have real benefits. Do they outweigh the risks?",
+      "category": "research",
+      "summary_cs": [
+        "MIT Technology Review rozebírá souboj mezi výhodami a riziky volně dostupných modelů.",
+        "Reaguje na zprávu Anthropicu tvrdící, že otevřený model GLM-5.3 představuje závažné kybernetické riziko.",
+        "Experti hledají rovnováhu mezi demokratizací výzkumu a prevencí zneužití silných modelů."
+      ],
+      "why_matters": "Klíčová debata o tom, zda by nejvýkonnější AI modely měly zůstat uzavřené či open-source.",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review"
+    }
+  ]
+}
