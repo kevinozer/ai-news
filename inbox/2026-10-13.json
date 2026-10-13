@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T04:02:36.925977+00:00",
+  "generated_at": "2026-10-13T11:48:04.864445+00:00",
   "date": "2026-10-13",
-  "article_count_unique": 108,
-  "article_count_raw": 108,
+  "article_count_unique": 110,
+  "article_count_raw": 110,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 13,
-      "raw_count": 13
+      "count": 12,
+      "raw_count": 12
     },
     {
       "source_id": "anthropic_news",
@@ -163,17 +163,149 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 7,
-      "raw_count": 12
+      "count": 9,
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 1,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "4b08da75333ecccf",
+      "title": "Třetina dospělých už řešila s AI svou psychickou krizi, stát nyní chce řešit, jak téma pojmout",
+      "url": "https://www.lupa.cz/aktuality/tretina-dospelych-uz-resila-s-ai-svou-psychickou-krizi-stat-nyni-chce-resit-jak-tema-pojmout/",
+      "published_at": "2026-10-13T11:20:52+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Lidé se stále častěji obracejí na umělou inteligenci i s problémy, které se týkají jejich psychiky. Podle jarního výzkumu ji v souvislosti s du&#353;evním zdravím během předchozích 30 dnů použila víc než polovina lidí ve věku 18 až 34 let. Téměř třetina uživatelů s ní už ře&#353;ila psychickou krizi nebo akutní stres. A podobný podíl ji alespoň někdy využil místo odborné pomoci. Ministerstvo zdravotnictví proto při&#353;lo s oznámením, že chystá doporučení, jak AI při ře&#353;ení psychických potíží bezpečně používat. Téma začlenilo i do národního akčního plánu.",
+      "hero_image": "https://i.iinfo.cz/images/329/umela-inteligence-ai-1.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "8a00028c357e5afc",
+      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "published_at": "2026-10-13T11:00:00+00:00",
+      "author": "Richard Cooke",
+      "summary_raw": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+      "hero_image": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/master/pass/10122026_BE_Wikepidia_v2.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "3d0748cb62c918cd",
+      "title": "Character.AI files for bankruptcy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "published_at": "2026-10-13T10:32:23+00:00",
+      "author": "Robert Hart",
+      "summary_raw": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "e7ee654f75b37a78",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "published_at": "2026-10-13T10:00:00+00:00",
+      "author": "Grace Huckins",
+      "summary_raw": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "53730e9d554f8f92",
+      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+      "published_at": "2026-10-13T10:00:00+00:00",
+      "author": "Tess Owen",
+      "summary_raw": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+      "hero_image": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/pass/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "cfb5689a6e012f09",
+      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+      "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+      "published_at": "2026-10-13T09:37:04+00:00",
+      "author": "",
+      "summary_raw": "MSL&#8217;s emergence as a frontier lab is finally complete.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!RofT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHUck_odaQAA3OF2.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "438a89b073d7e182",
+      "title": "Alza začala prodávat počítače za 17 milionů. Netradičně jsou skladem a lze si je hned odvézt",
+      "url": "https://www.lupa.cz/aktuality/alza-zacala-prodavat-pocitace-za-17-milionu-netradicne-jsou-skladem-a-lze-si-je-hned-odvezt/",
+      "published_at": "2026-10-13T09:36:17+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Největ&#353;í tuzemský internetový obchod Alza.cz naskladnil servery pro umělou inteligenci. Ty si tak lze rychle koupit, vyzvednout, případně si je nechat dovézt. Zní to jako banalita, ale tak jednoduché to není. AI infrastruktura je, podobně jako běžný serverový hardware, dlouhodobě nedostupná a čekací doby jsou často velmi dlouhé. Poptávka je stále masivní, což drží nahoře ceny pamětí, hardwaru a elektroniky.",
+      "hero_image": "https://i.iinfo.cz/images/225/server-s-ai-cipy-nvidia-h200.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "40a0cd8f74016d50",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "author": "Matthew King",
+      "summary_raw": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "423381169d179f4f",
+      "title": "Finové prý s AI během minut najdou byznysově zajímavé firmy ze světa, do projektu se zapojují Češi",
+      "url": "https://www.lupa.cz/aktuality/finove-pry-s-ai-behem-minut-najdou-byznysove-zajimave-firmy-ze-sveta-do-projektu-se-zapojuji-cesi/",
+      "published_at": "2026-10-13T07:14:43+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Český fond Purple Ventures posílá investici do finského startupu, jehož umělá inteligence pomáhá najít firmy vhodné k akvizici. Systém Comparables.ai prý dokáže hledat po celém světě a startup tvrdí, že místo měsíců manuálního mapování trhu dokáže relevantní cíle vytipovat během několika minut. Platformu využívá přes 50 tisíc profesionálů ve více než 30 zemích, včetně poradenských společností z takzvané velké čtyřky.",
+      "hero_image": "https://i.iinfo.cz/images/71/comparables-ai.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "5f78969d765b6c55",
+      "title": "Má smysl posuzovat významné IT projekty centrálně, jak se usnesla vláda?",
+      "url": "https://www.lupa.cz/clanky/ma-smysl-posuzovat-vyznamne-it-projekty-centralne-jak-se-usnesla-vlada/",
+      "published_at": "2026-10-13T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Martin Burián)",
+      "summary_raw": "Vláda bez větší pozornosti v polovině září přijala usnesení k řízení výdajů v oblasti informačních a komunikačních technologií a umělé inteligence. Další díl seriálu Jak na veřejné IT zakázky, který Lupa připravuje ve spolupráci s Asociací softwarových agentur (ASWA), rozebírá, jestli tento krok dává v oblasti digitalizace Česka smysl.",
+      "hero_image": "https://i.iinfo.cz/images/459/digitalni-cesko-2026-lukas-klucka-digitalizace-ministerstv.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "8875b85427066fee",
+      "title": "Náklady na AI rostou sedmkrát rychleji než byznys. Šetří nám ale hodně peněz, hlásí stamilionová Sportega",
+      "url": "https://cc.cz/naklady-na-ai-rostou-sedmkrat-rychleji-nez-byznys-setri-nam-ale-hodne-penez-hlasi-stamilionova-sportega/",
+      "published_at": "2026-10-13T04:27:34+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "„Nakupování online změní umělá inteligence pomaleji, než si myslíme,“ říká ředitel stamilionového e-shopu Sportega Lukáš Lesovský. Článek Náklady na AI rostou sedmkrát rychleji než byznys. Šetří nám ale hodně peněz, hlásí stamilionová Sportega se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/sportega-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "d7e970a6b3811754",
       "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
@@ -607,6 +739,30 @@
       "category": "news"
     },
     {
+      "id": "1fb6694bf3d8e576",
+      "title": "Vodafone s českým technologickým talentem spouští ochranu proti AI podvodům",
+      "url": "https://www.lupa.cz/aktuality/vodafone-s-ceskym-technologickym-talentem-spousti-ochranu-proti-ai-podvodum/",
+      "published_at": "2026-10-12T13:15:56+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Vodafone spustí slíbenou aplikaci, která pomáhá odhalovat fotografie, videa, hlasové zprávy a dokumenty zmanipulované umělou inteligencí. Na technologii spolupracoval s českým startupem Synhawk, za nímž stojí Maty Boháček, významný český technologický talent, výzkumník AI a deepfake technologií na Stanfordově univerzitě. Služba Vodafone Verify má pomáhat lidem i firmám ověřit podezřelý obsah dříve, než podle něj po&#353;lou peníze nebo udělají jiné důležité rozhodnutí.",
+      "hero_image": "https://i.iinfo.cz/images/264/matyas-bohacek.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "7ed53db822e45c1a",
+      "title": "Nejhodnotnější firma světa nasadila českou technologii. Nvidii pomáhá trénovat roboty budoucnosti",
+      "url": "https://www.lupa.cz/aktuality/nejhodnotnejsi-firma-sveta-nasadila-ceskou-technologii-nvidii-pomaha-trenovat-roboty-budoucnosti/",
+      "published_at": "2026-10-12T13:04:33+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Americká společnost Nvidia, která je aktuálně díky nástupu AI nejhodnotněj&#353;ím podnikem na světě, začala používat českou technologii vyvinutou v akademickém prostředí, respektive na Matematicko-fyzikální fakultě Univerzity Karlovy. Používá ji pro přípravu dat na trénování modelů umělé inteligence pro autonomní robotiku. Právě roboti schopní samostatného fungování mají být pro Nvidii dal&#353;í velkou oblastí rozvoje (projekty jako GR00T, Jetson a dal&#353;í).",
+      "hero_image": "https://i.iinfo.cz/images/115/nvidia-gr00t.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
       "id": "650794285ae9e7de",
       "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
       "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
@@ -655,18 +811,6 @@
       "category": "news"
     },
     {
-      "id": "1fb6694bf3d8e576",
-      "title": "Vodafone s českým technologickým talentem spouští ochranu proti AI podvodům",
-      "url": "https://www.lupa.cz/aktuality/vodafone-s-ceskym-technologickym-talentem-spousti-ochranu-proti-ai-podvodum/",
-      "published_at": "2026-10-12T12:11:56+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Vodafone spustí slíbenou aplikaci, která pomáhá odhalovat fotografie, videa, hlasové zprávy a dokumenty zmanipulované umělou inteligencí. Na technologii spolupracoval s českým startupem Synhawk, za nímž stojí Maty Boháček, významný český technologický talent, výzkumník AI a deepfake technologií na Stanfordově univerzitě. Služba Vodafone Verify má pomáhat lidem i firmám ověřit podezřelý obsah dříve, než podle něj po&#353;lou peníze nebo udělají jiné důležité rozhodnutí.",
-      "hero_image": "https://i.iinfo.cz/images/264/matyas-bohacek.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "88a82393a645f9d3",
       "title": "The Download: moon city problems and drone traffic controllers",
       "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
@@ -677,30 +821,6 @@
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
       "category": "news"
-    },
-    {
-      "id": "7ed53db822e45c1a",
-      "title": "Nejhodnotnější firma světa nasadila českou technologii. Nvidii pomáhá trénovat roboty budoucnosti",
-      "url": "https://www.lupa.cz/aktuality/nejhodnotnejsi-firma-sveta-nasadila-ceskou-technologii-nvidii-pomaha-trenovat-roboty-budoucnosti/",
-      "published_at": "2026-10-12T11:34:33+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Americká společnost Nvidia, která je aktuálně díky nástupu AI nejhodnotněj&#353;ím podnikem na světě, začala používat českou technologii vyvinutou v akademickém prostředí, respektive na Matematicko-fyzikální fakultě Univerzity Karlovy. Používá ji pro přípravu dat na trénování modelů umělé inteligence pro autonomní robotiku. Právě roboti schopní samostatného fungování mají být pro Nvidii dal&#353;í velkou oblastí rozvoje (projekty jako GR00T, Jetson a dal&#353;í).",
-      "hero_image": "https://i.iinfo.cz/images/115/nvidia-gr00t.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "e3eefe497a7edebe",
-      "title": "Miliardový Shoptet posiluje, kupuje teprve rok a půl starou českou AI technologii",
-      "url": "https://www.lupa.cz/aktuality/miliardovy-shoptet-posiluje-kupuje-teprve-rok-a-pul-starou-ceskou-ai-technologii/",
-      "published_at": "2026-10-12T11:14:13+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Původem česká společnost Shoptet, která se označuje za největ&#353;í česko-slovenskou e-commerce platformu, se vydala na nákupy. Kupuje tuzemskou firmu Jarabot, kterou doposud vlastnili Martin Baro&#353;, Jan &#352;těrba (po 35 procentech) a Marek Duda (30 procent). Jarabot je mladá firma, oficiálně vznikla v únoru loňského roku. Tržby se dostaly na 6,5 milionu korun.",
-      "hero_image": "https://i.iinfo.cz/images/285/jarabot.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "c7ea7924114ad9b6",
@@ -727,18 +847,6 @@
       "category": "news"
     },
     {
-      "id": "12fc357e7273198e",
-      "title": "Shoptet poprvé od svého miliardového prodeje vyrazil na nákupy. Pohltí mladou českou AI firmu",
-      "url": "https://cc.cz/shoptet-poprve-od-sveho-miliardoveho-prodeje-vyrazil-na-nakupy-pohlti-mladou-ceskou-ai-firmu/",
-      "published_at": "2026-10-12T08:01:45+00:00",
-      "author": "Ondřej Holzman",
-      "summary_raw": "Jarabot vyvíjí chatboty, voiceboty a e-mailboty. Cenu akvizice firmy nezveřejnily, podle odhadu CzechCrunche jde o desítky milionů korun. Článek Shoptet poprvé od svého miliardového prodeje vyrazil na nákupy. Pohltí mladou českou AI firmu se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/jarabot-founders-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "12d7f6ad908c8c1f",
       "title": "datasette-ports 0.4",
       "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
@@ -760,18 +868,6 @@
       "hero_image": "https://i.iinfo.cz/images/130/e-commerce-a-nakupy.jpg",
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "67dabf32201b11c7",
-      "title": "Vyhraje ten, kdo s AI přinese lidem největší užitek, ne kdo ušetří na zaměstnancích, říká šéf Air Bank",
-      "url": "https://cc.cz/vyhraje-ten-kdo-s-ai-prinese-lidem-nejvetsi-uzitek-ne-kdo-usetri-na-zamestnancich-rika-sef-air-bank/",
-      "published_at": "2026-10-12T04:28:03+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Michal Strcula stojí ve vedení banky ze skupiny PPF od roku 2014. Nyní se hodně věnuje tomu, aby Air Bank uspěla v AI revoluci, která se na svět valí. Článek Vyhraje ten, kdo s AI přinese lidem největší užitek, ne kdo ušetří na zaměstnancích, říká šéf Air Bank se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/strcula-03-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
       "category": "cz"
     },
     {
@@ -835,18 +931,6 @@
       "category": "news"
     },
     {
-      "id": "0ad9c1f7ff3bbecd",
-      "title": "Poučení pro Evropu, velké dabérské střídání Luďka Soboty a AI, co sama obvolá doktory",
-      "url": "https://cc.cz/pouceni-pro-evropu-velke-daberske-stridani-ludka-soboty-a-ai-co-sama-obvola-doktory/",
-      "published_at": "2026-10-11T17:06:29+00:00",
-      "author": "Gabriela Lukášková",
-      "summary_raw": "Jako každou neděli vám přinášíme pravidelný přehled toho nejzajímavějšího, co jsme v končícím týdnu na CzechCrunchi napsali a natočili. Článek Poučení pro Evropu, velké dabérské střídání Luďka Soboty a AI, co sama obvolá doktory se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/weekly-newsletter-1-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "42e98732b47b92a0",
       "title": "Paměť z jednoho atomu, AI agenti dělají kvantový výzkum, srovnání kvantových procesorů",
       "url": "https://www.lupa.cz/clanky/pamet-z-jednoho-atomu-ai-agenti-delaji-kvantovy-vyzkum-srovnani-kvantovych-procesoru/",
@@ -871,18 +955,6 @@
       "category": "news"
     },
     {
-      "id": "478dad118735fe8c",
-      "title": "Rohlíku unikla data o zákaznících. Útočník mohl vidět jejich adresy, telefony i konverzace s AI",
-      "url": "https://www.lupa.cz/aktuality/rohliku-unikla-data-o-zakaznicich-utocnik-mohl-videt-jejich-adresy-telefony-i-konverzace-s-ai/",
-      "published_at": "2026-10-11T15:34:27+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Z Rohlíku unikla zákaznická data. Firma přiznala bezpečnostní incident, při němž útočník získal přístup k internímu nástroji zákaznické podpory a stáhl z něj část uložených dat. Může jít o jména, e-mailové adresy, telefonní čísla, chaty se zákaznickou podporou, přepisy telefonátů i informace o zboží, které zákazníci přidávali do ko&#353;íku. Nebo také poznámky, které si o lidech ukládal virtuální asistent Rohlíku. Vyplývá to z e-mailu, který firma poslala některým zákazníkům.",
-      "hero_image": "https://i.iinfo.cz/images/45/rohlik-cz-elektromobil-1.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "d1e18b05a6c7491c",
       "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
       "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
@@ -904,30 +976,6 @@
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "5b51dfae5964aac8",
-      "title": "I Made Terrible Games With Google’s AI Playground",
-      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-      "published_at": "2026-10-11T11:30:00+00:00",
-      "author": "Boone Ashworth",
-      "summary_raw": "A long day’s haul in the video game slop mines.",
-      "hero_image": "https://media.wired.com/photos/6ac967401dd8a2ab2e331c51/master/pass/Google-Playground-Gear-PG_THUMBNAIL_BLOG%20(1).png",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "9de7ca6d4e2c6980",
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "published_at": "2026-10-11T11:00:00+00:00",
-      "author": "Antonio G. Di Benedetto",
-      "summary_raw": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
       "category": "news"
     },
     {
@@ -1313,30 +1361,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "ee1265ede7d625b1",
-      "title": "Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "published_at": "2026-10-06T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "a57820c90f4e24c6",
-      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "published_at": "2026-10-06T06:28:43+00:00",
-      "author": "",
-      "summary_raw": "A small win for US open source",
-      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/DIu7xA898go",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "e840a58824f05980",
