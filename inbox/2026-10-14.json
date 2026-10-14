@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T04:02:08.277065+00:00",
+  "generated_at": "2026-10-14T09:31:43.503918+00:00",
   "date": "2026-10-14",
-  "article_count_unique": 124,
-  "article_count_raw": 124,
+  "article_count_unique": 123,
+  "article_count_raw": 123,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "venturebeat_ai",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "latent_space",
@@ -163,20 +163,80 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 6,
-      "raw_count": 12
+      "count": 5,
+      "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
     {
-      "id": "b96844bcde7c2b99",
-      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "id": "893d3b1d43b64971",
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "author": "David Gilbert",
+      "summary_raw": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+      "hero_image": "https://media.wired.com/photos/6aceaa51eba493f958015701/master/pass/politics_ai_guardrails_removed_terrorist.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "af88e652ef571cc6",
+      "title": "Dá se přežít, když vás 2x vysají obři? Bankrot firmy, která byla hvězdou před ChatGPT, ukazuje, že ne",
+      "url": "https://cc.cz/da-se-prezit-kdyz-vas-2x-vysaji-obri-bankrot-firmy-ktera-byla-hvezdou-pred-chatgpt-ukazuje-ze-ne/",
+      "published_at": "2026-10-14T08:20:03+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Google za licenci a návrat zakladatelů zaplatil 2,7 miliardy dolarů. Disney si vzal šéfa a teď nabízí 20 milionů za zbytky startupu. Článek Dá se přežít, když vás 2x vysají obři? Bankrot firmy, která byla hvězdou před ChatGPT, ukazuje, že ne se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2025/07/google-mvp-y-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "31e3bbd600500f7e",
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "published_at": "2026-10-14T05:40:28+00:00",
+      "author": "Latent.Space",
+      "summary_raw": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/akEqiXFo3GM",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "3ee3f61aa1c6b513",
+      "title": "Bublina? Trochu ano, jenže nechcete o nic přijít. Ondřej Bartoš o tom, jak Credo investuje v době AI",
+      "url": "https://cc.cz/bublina-trochu-ano-jenze-nechcete-o-nic-prijit-ondrej-bartos-o-tom-jak-credo-investuje-v-dobe-ai/",
+      "published_at": "2026-10-14T04:33:53+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Zakládající partner Credo Ventures Ondřej Bartoš o tom, jak AI zrychlila venture kapitál, proč je trh zčásti bublina a jak si vedou fondy Creda. Článek Bublina? Trochu ano, jenže nechcete o nic přijít. Ondřej Bartoš o tom, jak Credo investuje v době AI se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/ondrej-bartos-815x543.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "cbf8844f8cc702cb",
+      "title": "Klávesnice může být příští obětí umělé inteligence. Lidé začínají práci zadávat hlasem, přitom si rovnají myšlenky",
+      "url": "https://www.lupa.cz/clanky/klavesnice-muze-byt-pristi-obeti-umele-inteligence-lide-zacinaji-praci-zadavat-hlasem-pritom-si-rovnaji-myslenky/",
+      "published_at": "2026-10-14T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Na klávesnici se prý jednou možná budeme dívat jako na archaický nástroj. Rozhraní, kterým komunikujeme s počítačem, se mění poprvé od osmdesátých let, a někteří přísahají na to, že jim to pomáhá tříbit si myšlenky.",
+      "hero_image": "https://i.iinfo.cz/images/527/komunikace-s-ai.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "16bf784e99ea05d8",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
       "published_at": "2026-10-14T02:00:14+00:00",
       "author": "",
@@ -184,6 +244,18 @@
       "hero_image": "https://lh3.googleusercontent.com/m134KeViYlQXqWaac-fW1TuTvCk1ZQ2EnHF72xH6anzjd4iKukfGHvV3o5PiDTJfSytjxUF2E1rwAAHlZ4ZyCkGkOHV7Uij2ZZ3zsbVZUAFCMCccZQ=w528-h297-n-nu-rw-lo",
       "source_id": "deepmind_blog",
       "source_name": "Google DeepMind Blog",
+      "category": "labs"
+    },
+    {
+      "id": "d1c766776367a679",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "published_at": "2026-10-14T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
       "category": "labs"
     },
     {
@@ -204,7 +276,7 @@
       "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
       "published_at": "2026-10-13T23:13:31+00:00",
       "author": "Aisha Malik",
-      "summary_raw": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "summary_raw": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -895,18 +967,6 @@
       "category": "news"
     },
     {
-      "id": "423381169d179f4f",
-      "title": "Finové prý s AI během minut najdou byznysově zajímavé firmy ze světa, do projektu se zapojují Češi",
-      "url": "https://www.lupa.cz/aktuality/finove-pry-s-ai-behem-minut-najdou-byznysove-zajimave-firmy-ze-sveta-do-projektu-se-zapojuji-cesi/",
-      "published_at": "2026-10-13T07:14:43+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Český fond Purple Ventures posílá investici do finského startupu, jehož umělá inteligence pomáhá najít firmy vhodné k akvizici. Systém Comparables.ai prý dokáže hledat po celém světě a startup tvrdí, že místo měsíců manuálního mapování trhu dokáže relevantní cíle vytipovat během několika minut. Platformu využívá přes 50 tisíc profesionálů ve více než 30 zemích, včetně poradenských společností z takzvané velké čtyřky.",
-      "hero_image": "https://i.iinfo.cz/images/71/comparables-ai.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "5f78969d765b6c55",
       "title": "Má smysl posuzovat významné IT projekty centrálně, jak se usnesla vláda?",
       "url": "https://www.lupa.cz/clanky/ma-smysl-posuzovat-vyznamne-it-projekty-centralne-jak-se-usnesla-vlada/",
@@ -916,18 +976,6 @@
       "hero_image": "https://i.iinfo.cz/images/459/digitalni-cesko-2026-lukas-klucka-digitalizace-ministerstv.jpg",
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "8875b85427066fee",
-      "title": "Náklady na AI rostou sedmkrát rychleji než byznys. Šetří nám ale hodně peněz, hlásí stamilionová Sportega",
-      "url": "https://cc.cz/naklady-na-ai-rostou-sedmkrat-rychleji-nez-byznys-setri-nam-ale-hodne-penez-hlasi-stamilionova-sportega/",
-      "published_at": "2026-10-13T04:27:34+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "„Nakupování online změní umělá inteligence pomaleji, než si myslíme,“ říká ředitel stamilionového e-shopu Sportega Lukáš Lesovský. Článek Náklady na AI rostou sedmkrát rychleji než byznys. Šetří nám ale hodně peněz, hlásí stamilionová Sportega se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/sportega-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
       "category": "cz"
     },
     {
@@ -1207,42 +1255,6 @@
       "category": "news"
     },
     {
-      "id": "59b1c6e884c81b4f",
-      "title": "The ecologist revealing the invisible networks that revive rainforests",
-      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-      "published_at": "2026-10-12T09:00:00+00:00",
-      "author": "Matthew Ponsford",
-      "summary_raw": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Colorado Nature Monument, some of which date&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "12d7f6ad908c8c1f",
-      "title": "datasette-ports 0.4",
-      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
-      "published_at": "2026-10-12T04:57:07+00:00",
-      "author": "",
-      "summary_raw": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler . Tags: datasette",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "5dbb04651f971950",
-      "title": "Vedle nákupních rad AI přibyla reklama, co pozná, jak moc chcete nakupovat. E-shopy se do ní rychle ponořily",
-      "url": "https://www.lupa.cz/clanky/vedle-nakupnich-rad-ai-pribyla-reklama-co-pozna-jak-moc-chcete-nakupovat-e-shopy-se-do-ni-rychle-ponorily/",
-      "published_at": "2026-10-12T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Zatímco se konverzace s AI staly místem, kde se lidé rozhodují, co koupit, v prostoru přibyly nové reklamní možnosti. ChatGPT odhaduje, jak vážně člověk nákupy řeší. Pravděpodobnost, že se uživatelům reklama objeví, stoupá s nákupním přesvědčením.",
-      "hero_image": "https://i.iinfo.cz/images/130/e-commerce-a-nakupy.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "daf59d27c3be449f",
       "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
       "url": "https://www.latent.space/p/nyc2026",
@@ -1507,33 +1519,21 @@
       "category": "labs"
     },
     {
-      "id": "4cf2a0ecc5908d11",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "published_at": "2026-10-07T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "9ccec3acd409b6c6",
-      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
-      "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-      "published_at": "2026-10-07T04:55:44+00:00",
-      "author": "",
-      "summary_raw": "Our head hurts.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!3_fH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf69e441-6f07-47c9-ba4d-3cd64a85fb49_1224x1255.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
       "id": "e840a58824f05980",
       "title": "Expanding the Cyber Verification Program Announcements Oct 6, 2026 We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
       "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "published_at": null,
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "category": "labs"
+    },
+    {
+      "id": "69d82534991d071a",
+      "title": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
       "published_at": null,
       "author": "",
       "summary_raw": "",
@@ -1630,18 +1630,6 @@
       "id": "3f19cc4f309defed",
       "title": "Sep 17, 2026 Announcements Introducing the Life Sciences Verification Program",
       "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "published_at": null,
-      "author": "",
-      "summary_raw": "",
-      "hero_image": null,
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "category": "labs"
-    },
-    {
-      "id": "1dd0b4b67c106779",
-      "title": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
       "published_at": null,
       "author": "",
       "summary_raw": "",
