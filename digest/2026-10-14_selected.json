@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-14",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Google oficiálně vydal vlajkový model Gemini 4 Argon",
+      "title_orig": "Google finally releases Gemini 4 Argon",
+      "category": "labs",
+      "summary_cs": [
+        "Google představil dlouho očekávaný model Gemini 4 Argon, který přináší výrazně vyšší výkon v pokročilém uvažování.",
+        "Nová verze výrazně omezuje alibistické odpovědi a efektivně zvládá komplexní firemní pracovní postupy.",
+        "Model je okamžitě dostupný pro platící uživatele aplikace Gemini a vývojářům nabízí poloviční ceny za API."
+      ],
+      "why_matters": "Průlomový model od Googlu výrazně posouvá hranice automatizace složitých vývojářských i firemních úkolů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI a Anthropic žádaní britskými zákonodárci o zavedení regulace",
+      "title_orig": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "category": "business",
+      "summary_cs": [
+        "Zástupci předních AI společností vyzvali v britském parlamentu kurychlenému zavedení státní regulace.",
+        "Svědectví proběhlo souběžně s varováním britské rozvědky před zneužitím AI k vývoji biologických zbraní.",
+        "Odborníci i bezpečnostní výzkumníci požadují jasná pravidla pro vývoj a testování pokročilých modelů."
+      ],
+      "why_matters": "Aktivní volání lídrů trhu po regulaci předznamenává novou legislativní vlnu v Evropě.",
+      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Google DeepMind vydal verzi Gemini 4 Argon pro robotiku",
+      "title_orig": "Gemini 4 Argon for Robotics",
+      "category": "labs",
+      "summary_cs": [
+        "Google přizpůsobil svou novou vlajkovou architekturu přímo pro řízení fyzických robotických systémů.",
+        "Model umožňuje robotům lépe chápat prostorové vztahy a reagovat na dynamické změny v reálném prostředí.",
+        "Nová technologie výrazně zrychluje adaptaci autonomních strojů v průmyslu i logistice."
+      ],
+      "why_matters": "Propojení nejnovějších LLM s robotikou zásadně zrychluje přechod k plně autonomní výrobě.",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Inženýr OpenAI byl zatčen za umístění odposlechu do zasedačky",
+      "title_orig": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "category": "news",
+      "summary_cs": [
+        "Pětatřicetiletý výzkumník OpenAI byl zadržen za instalaci sofistikovaného odposlechového zařízení v kanceláři vedení.",
+        "Podle zjištění vyšetřovatelů využíval při přípravě a nastavení špionážní techniky přímo AI chatbota.",
+        "Incident upozorňuje na bezprecedentní bezpečnostní rizika v ústředí předních AI laboratoří."
+      ],
+      "why_matters": "Bizarní případ ukazující, jak mohou být AI nástroje zneužity k vnitřní špionáži v tech firmách.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Shopify zpřístupňuje svůj katalog autonomním AI agentům",
+      "title_orig": "Shopify opens its catalog up to more AI agents",
+      "category": "tools",
+      "summary_cs": [
+        "E-commerce platforma Shopify umožní AI agentům přímo vyhledávat a nakupovat zboží za uživatele.",
+        "Osobní asistenti tak získají přístup k více než miliardě produktových nabídek napříč tisíci e-shopy.",
+        "Krok znamená zásadní posun směrem k plně automatizovanému nakupování bez zásahu člověka."
+      ],
+      "why_matters": "Mění paradigmata e-commerce, kde AI agenti začínají fungovat jako přímí nakupující zákazníci.",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Google Play umožní spouštět soukromé AI aplikace vytvořené bez kódu",
+      "title_orig": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "category": "tools",
+      "summary_cs": [
+        "Google zjednodušuje spouštění osobních aplikací vygenerovaných pomocí umělé inteligence v Google AI Studiu.",
+        "Uživatelé již nemusí připojovat telefon k počítači a mohou aplikace instalovat přímo přes obchod Play.",
+        "Nástroj podporuje trend takzvaného vibe-codingu, kdy aplikace vznikají pouze z hlasových či textových zadání."
+      ],
+      "why_matters": "Demokratizuje vývoj softwaru a umožňuje komukoliv vytvořit si mobilní aplikaci na míru během pár minut.",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Anthropic nahradil Git vlastním systémem správy kódu květlivě kvůli AI",
+      "title_orig": "Redesigning source control at Anthropic",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost Anthropic musela vyvinout vlastní alternativu ke systému Git kvůli obrovskému objemu změn v kódu.",
+        "Používání AI vývojářů zvýšilo počet denně schválených změn na více než 2 500 úprav denně.",
+        "Tradiční vývojářské nástroje přestávají stíhat tempo, jakým AI modely generují nový softwarový kód."
+      ],
+      "why_matters": "Ukazuje, jak masivní zapojení AI do programování mění základní infrastrukturu vývoje softwaru.",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Čeští vědci vyvíjejí s Lockheed Martin AI pro detekci přetížení pilotů",
+      "title_orig": null,
+      "category": "wildcard",
+      "summary_cs": [
+        "Výzkumníci z VUT v Brně pracují s americkým zbrojním gigantem na systému pro vojenské stíhačky.",
+        "Umělá inteligence vyhodnocuje hlasové změny pilota a kombinací se senzory pozná nebezpečný stres.",
+        "Technologie má zabránit fatálním nehodám způsobeným ztrátou vědomí nebo kognitivním přetížením."
+      ],
+      "why_matters": "Špičkový český výzkum se prosazuje v kritických aplikacích globálního obranného průmyslu.",
+      "url": "https://www.lupa.cz/aktuality/cesti-vedci-vyvijeji-s-lockheed-martin-umelou-inteligenci-ktera-z-reci-pozna-pretizeneho-pilota/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Soud nařídil OpenAI předat podklady k náborům v kauze Apple",
+      "title_orig": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "category": "business",
+      "summary_cs": [
+        "Federální soudce vyhověl žádosti společnosti Apple v přelíčení ohledně kradení obchodních tajemství.",
+        "OpenAI musí zpřístupnit interní pohovory, soukromé zprávy i svědectví týkající se bývalých zaměstnanců Applu.",
+        "Soudní spor zaměřuje pozornost na agresivní přetahování klíčových AI talentů mezi giganty."
+      ],
+      "why_matters": "Právní bitva může odhalit praktiky přetahování expertů a sdílení know-how mezi tech giganty.",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Google DeepMind a Singapur spouští lokální AI ochranu proti podvodům",
+      "title_orig": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "category": "labs",
+      "summary_cs": [
+        "Singapurská vláda nasazuje lehký model Gemma k detekci podvodných konverzací přímo v zařízení uživatele.",
+        "Systém dokáže odhalit manipulativní zprávy v soukromých chatech bez odesílání jakýchkoliv dat na cloud.",
+        "Projekt eliminuje riziko úniku soukromí a přináší efektivní štít proti kybernetickému phishingu."
+      ],
+      "why_matters": "Příkladné využití malých lokálních AI modelů pro ochranu soukromí a bezpečnosti občanů.",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "LFM2.5 přináší rychlé a soukromé AI agenty přímo na zařízení",
+      "title_orig": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "category": "open-source",
+      "summary_cs": [
+        "Na platformě Hugging Face se objevil nový otevřený model optimalizovaný pro lokální běh agentů.",
+        "Architektura LFM2.5 s 24 miliardami parametrů nabízí vysokou rychlost odezvy bez nutnosti cloudu.",
+        "Řešení je určeno pro vývojáře vyžadující absolutní soukromí dat a nezávislost na internetu."
+      ],
+      "why_matters": "Otevřené lokální modely dosahují schopností, které dříve vyžadovaly drahé cloudové infrastruktury.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "American Express zavedl pravidla pro autorizaci plateb AI agentů",
+      "title_orig": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "category": "business",
+      "summary_cs": [
+        "Finanční gigant představil bezpečnostní rámec zabraňující AI asistentům provádět neautorizované transakce.",
+        "Nová pravidla určují přesné finanční limity a schvalovací procesy pro autonomní nákupy.",
+        "Cílem je předejít drahým omylům a sporům s rostoucím využitím AI při nakupování."
+      ],
+      "why_matters": "Klíčový krok k vytvoření bezpečné finanční infrastruktury pro autonomní AI ekonomiku.",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Facebook zavádí přímé ladění algoritmu pomocí umělé inteligence",
+      "title_orig": "Facebook will let you customize your feed algorithm using AI",
+      "category": "tools",
+      "summary_cs": [
+        "Meta spouští funkci Vaše Algoritmy pro úpravu obsahu na Facebooku a v sekci Reels.",
+        "Uživatelé mohou psát témata a preference, kterým má systém okamžitě přizpůsobit doporučování.",
+        "Inovace dává lidem větší kontrolu nad tím, co na sociálních sítích konzumují."
+      ],
+      "why_matters": "Uživatelé poprvé získávají přímou textovou kontrolu nad chováním doporučovacích algoritmů.",
+      "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Character.AI vyhlásil bankrot a prodává aktiva Disney za 20 milionů USD",
+      "title_orig": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "category": "business",
+      "summary_cs": [
+        "Přední platforma pro konverzační boty Character.AI neustála finanční tlak a zažádala o ochranu před věřiteli.",
+        "Zábavní gigant Disney kupuje vybrané technologie a IP za zlomek původní hodnoty startupu.",
+        "Konec samostatného fungování podniku ilustruje vysokou finanční i právní náročnost provozu spotřebitelské AI."
+      ],
+      "why_matters": "Varovný signál pro AI startupy ohledně nákladů na provoz a právních rizik konverzačních botů.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Šéf Cerebras kritizuje AI varování před apokalypsou",
+      "title_orig": "Cerebras CEO pushes back on AI doomsday warnings",
+      "category": "wildcard",
+      "summary_cs": [
+        "Garant hardwarového startupu Cerebras Andrew Feldman vyzval lídry oboru k omezení katastrofické rétoriky.",
+        "Podle něj přehnané varování před existenciálními riziky zastírá reálné přínosy AI pro společnost.",
+        "Přístup založený na strachu navíc podle něj zbytečně vyvolává přísné regulace brzdící inovace."
+      ],
+      "why_matters": "Důležitý hlas z čipového průmyslu odmítající nadsazený doomerismus a volající po pragmatismu.",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
