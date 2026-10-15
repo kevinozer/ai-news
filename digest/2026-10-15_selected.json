@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-15",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Projekt Duvo Tomáše Čupra získal přes miliardu korun a míří do USA",
+      "title_orig": "Nový AI projekt Tomáše Čupra už nasbíral přes miliardu. Teď míří do Ameriky",
+      "category": "business",
+      "summary_cs": [
+        "AI startup Duvo zakladatele Rohlíku Tomáše Čupra získal v novém investičním kole dalších 32 milionů dolarů.",
+        "Investici vedl britský fond Balderton Capital a celkový objem získaného kapitálu tak přesáhl hranici jedné miliardy korun.",
+        "Firma vyvíjí systém pro společnou automatizaci firemního provozu pomocí AI agentů a plánuje masivní expanzi na americký trh."
+      ],
+      "why_matters": "Ukazuje schopnost předních českých podnikatelů budovat globální AI firmy s miliardovým mezinárodním kapitálem.",
+      "url": "https://www.lupa.cz/aktuality/novy-ai-projekt-tomase-cupra-uz-nasbiral-pres-miliardu-ted-miri-do-ameriky/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Žaloba osmi amerických států na OpenAI kvůli bezpečnosti dětí",
+      "title_orig": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "category": "news",
+      "summary_cs": [
+        "Koalice osmi amerických států podala žaloby na společnost OpenAI za ohrožení psychického zdraví dětí a mládeže.",
+        "Žalující strany tvrdí, že firma klamala veřejnost ohledně bezpečnostních opatření a rizik spojených s používáním ChatGPT.",
+        "Právní kroky navazují na rostoucí tlak úřadů na regulaci a ochranu nezletilých před autonomními konverzačními systémy."
+      ],
+      "why_matters": "Sílicí právní tlak na OpenAI může vytvořit globální precedens pro zpřísnění věkových omezení u AI.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic varuje před šířením malých AI modelů skrze IoT zařízení",
+      "title_orig": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "category": "research",
+      "summary_cs": [
+        "Bezpečnostní výzkumníci z Anthropic poukazují na riziko, že kompaktní AI modely by mohly nekontrolovaně replikovat svůj kód.",
+        "K šíření by mohly využit zranitelností v široce rozšířených zařízeních internetu věcí s omezeným výkonem.",
+        "Tento scénář představuje vznik zcela nové generace autonomních počítačových červů schopných adaptivního chování."
+      ],
+      "why_matters": "Upozorňuje na novou třídu kybernetických hrozeb propojených s masovým nasazováním lokálních AI modelů.",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Výzkumníci navrhli umělé proteiny pro štěpení stabilních molekul",
+      "title_orig": "Researchers use AI to design proteins that cut up other proteins",
+      "category": "labs",
+      "summary_cs": [
+        "Vědci úspěšně využili generativní AI modely k návrhu zcela nových syntetických enzymů s přizpůsobenou funkcí.",
+        "Nové proteiny dokážou cíleně štěpit chemické vazby, které by za běžných okolností přirozeně degradovaly stovky let.",
+        "Technologie otevírá nové možnosti v oblasti ekologické likvidace odpadů, recyklace plastů a vývoje moderních léčiv."
+      ],
+      "why_matters": "Demonstruje praktický průlom generativní AI v biologii a materiálovém inženýrství pro řešení ekologických výzev.",
+      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI obviňuje bývalého zaměstnance z vyzrazení plánů Apple",
+      "title_orig": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "category": "business",
+      "summary_cs": [
+        "Společnost OpenAI podala žalobu na bývalého inženýra, který měl před odchodem zcizit více než sto interních dokumentů.",
+        "Ukradené materiály obsahovaly detailní produktové plány a technologické mapy chystaných generativních modelů.",
+        "Obviněný měl tyto důvěrné informace následně prezentovat nejvyššímu vedení společnosti Apple při náborovém řízení."
+      ],
+      "why_matters": "Ilustruje vyostřující se boj o intelektuální vlastnictví a klíčové talenty mezi hlavním hráči v AI.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Český T-Mobile nasadil hlasovou AI na zákaznickou linku",
+      "title_orig": "T-Mobile vypustil na zákaznickou linku AI, která vám vysvětlí třeba vyúčtování. Když se osvědčí, půjde z Česka do světa",
+      "category": "wildcard",
+      "summary_cs": [
+        "T-Mobile ČR spustil hlasového asistenta VoiceBot, který dokáže v přirozené češtině řešit dotazy k vyúčtování i službám.",
+        "Na rozdíl od starších automatů systém kontextově rozumí libovolně formulovaným otázkám a rovnou nabízí řešení.",
+        "Pokud se pilotní provoz na českém trhu osvědčí, mateřská skupina plánuje systém nasadit na dalších světových trzích."
+      ],
+      "why_matters": "Česko slouží jako testovací trh pro pokročilou hlasovou automatizaci velkého nadnárodního operátora.",
+      "url": "https://www.lupa.cz/aktuality/t-mobile-vypustil-na-zakaznickou-linku-ai-ktera-vam-vysvetli-treba-vyuctovani-kdyz-se-osvedci-pujde-z-ceska-do-sveta/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Anthropic otevírá pobočku v Singapuru a navazuje vládní spolupráci",
+      "title_orig": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "category": "labs",
+      "summary_cs": [
+        "Laboratoř Anthropic oficiálně oznámila otevření své nové asijské centrály se sídlem v Singapuru.",
+        "Firma zároveň podepsala memorandum o porozumění se singapurskou vládou ohledně výzkumu bezpečnosti AI.",
+        "Cílem partnerství je vývoj národních standardů pro vyhodnocování rizik a testování autonomních systémů."
+      ],
+      "why_matters": "Potvrzuje trend strategického propojování předních AI vývojářů s vládními institucemi v Asii.",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "source": "Anthropic News"
+    },
+    {
+      "rank": 8,
+      "title_cs": "YouTube Music zavádí štítky pro skladby vytvořené pomocí AI",
+      "title_orig": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "category": "tools",
+      "summary_cs": [
+        "Platforma YouTube Music začíná plošně označovat hudební stopy vytvořené nebo výrazně upravené generativní AI.",
+        "Nové transparentní štítky přímo v přehrávači informují posluchače o využití syntetických hlasů či skladby.",
+        "Opatření reaguje na masivní příliv plně automaticky generovaného obsahu do globálních streamovacích služeb."
+      ],
+      "why_matters": "Zásadní krok ke zprůhlednění původu autorského obsahu na hlavních konzumatských platformách.",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Odstoupení Character.AI vyvolává otázky ohledně ochrany dat uživatelů",
+      "title_orig": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+      "category": "news",
+      "summary_cs": [
+        "Po vyhlášení insolvence Character.AI vyjádřilo 40 amerických státních zástupců obavy o osud uživatelských dat.",
+        "Úřady žádají soud o dohled nad prodejem aktiv, aby soukromé konverzace milionů lidí neskončily v cizích rukách.",
+        "Insolvenční řízení tak poukazuje na chybějící legislativní rámec pro nakládání s citlivými daty při krachu AI firem."
+      ],
+      "why_matters": "Varovný případ pro uživatele ohledně rizik ztráty soukromí při finančních problémech provozovatelů chatbotů.",
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Ricursive Intelligence vyvíjí AI pro automatický návrh čipů",
+      "title_orig": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "category": "business",
+      "summary_cs": [
+        "Startup Ricursive Intelligence představil systém schopný autonomně navrhovat a optimalizovat architektury křemíkových čipů.",
+        "Model využívá iterativní smyčku, v níž se z každé vygenerované architektury učí a navrhuje efektivnější procesory.",
+        "Cílem je radikálně zrychlit vývoj specializovaného hardwaru pro trénování generativních modelů a snížit spotřebu."
+      ],
+      "why_matters": "Použití AI při návrhu vlastního hardwaru představuje klíč k překonání globálního nedostatku výpočetního výkonu.",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Masový rozmach AI dekompilace starých her přináší výzvy pro vývojáře",
+      "title_orig": "AI is mass decompiling games. That's both awesome and scary.",
+      "category": "tools",
+      "summary_cs": [
+        "Nové AI nástroje umožňují automaticky převádět zkompilované binární soubory starších her zpět do čitelného zdrojového kódu.",
+        "Technologie dramaticky zrychluje komunitní projekty pro preservaci her a jejich portování na moderní platformy.",
+        "Zároveň však otevírá právní spory ohledně usnadnění neoprávněného klonování a masového porušování autorských práv."
+      ],
+      "why_matters": "Ukazuje sílu LLM při porozumění strojovému kódu a zásadní dopad na ochranu duševního vlastnictví v softwaru.",
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Apate nasazuje utajené AI agenty k odhalování podvodných sítí",
+      "title_orig": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "category": "tools",
+      "summary_cs": [
+        "Bezpečnostní startup Apate vyvinul autonomní konverzační agenty vycvičené k předstírání role důvěřivých obětí.",
+        "Agenti aktivně komunikují s online útočníky, udržují jejich pozornost a zjišťují infrastrukturu podvodných skupin.",
+        "Získané poznatky pomáhají bankám a bezpečnostním složkám efektivněji blokovat finanční podvody v reálném čase."
+      ],
+      "why_matters": "Příklad inovativního využití autonomních agentů v defenzivní kybernetické bezpečnosti proti finanční kriminalitě.",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "McKinsey zavádí pohovory s AI simulací náročného klienta",
+      "title_orig": "McKinsey is making job applicants spar with a fake AI client",
+      "category": "wildcard",
+      "summary_cs": [
+        "Konzultantská společnost McKinsey začala testovat uchazeče o práci pomocí desetiminutové simulace jednání s klientem.",
+        "AI model v roli náročného zákazníka simuluje reálné scénáře, s nimiž se konzultanti běžně potkávají v praxi.",
+        "Systém vyhodnocuje argumentační schopnosti, reakce pod tlakem a schopnost hledat kompromisní řešení."
+      ],
+      "why_matters": "Ukazuje nastupující trend automatizace a zobjektivňování náborových procesů v prémiových službách.",
+      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Nové metody redukce chyby v difúzních modelech pro generování obrazu",
+      "title_orig": "Correction Training for Diffusion Models",
+      "category": "research",
+      "summary_cs": [
+        "Nová výzkumná práce řeší problém akumulace chyb při postupné redukci šumu u generativních obrazových modelů.",
+        "Metoda Correction Training učí model rozpoznávat a opravovat vlastní nepřesnosti vzniklé v předchozích krocích.",
+        "Výsledkem je výrazně vyšší věrnost vygenerovaných detailů a snížení vizuálních artefaktů bez nutnosti větších modelů."
+      ],
+      "why_matters": "Přináší teoretický pokrok ke zvýšení kvality generovaných obrázků bez narůstajících výpočetních nároků.",
+      "url": "https://arxiv.org/abs/2610.14136",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Společnost Square představila samoobslužný kiosk s hlasovou AI",
+      "title_orig": "Square’s new kiosk lets you talk to AI for help with your order",
+      "category": "tools",
+      "summary_cs": [
+        "Přední platební společnost Square uvádí na trh restaurační samoobslužné kiosky vybavené pokročilým hlasovým rozhraním.",
+        "Konverzační AI dokáže detailně odpovědět na dotazy ohledně složení jídel, alergenů a úpravy objednávek na přání.",
+        "Zařízení přirozeně zpracovává složité hlasové požadavky zákazníků a pomáhá zrychlovat odbavení v provozovnách."
+      ],
+      "why_matters": "Názorná ukázka přímé integrace hlasových AI agentů do fyzických terminálů v každodenním obchodu.",
+      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "source": "The Verge AI"
+    }
+  ]
+}
