@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T04:02:09.893999+00:00",
+  "generated_at": "2026-10-15T09:09:26.078181+00:00",
   "date": "2026-10-15",
-  "article_count_unique": 152,
-  "article_count_raw": 152,
+  "article_count_unique": 149,
+  "article_count_raw": 149,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "wired_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 13,
-      "raw_count": 13
+      "count": 12,
+      "raw_count": 12
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,7 +163,7 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 5,
+      "count": 4,
       "raw_count": 14
     },
     {
@@ -174,6 +174,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "d677ad38853670a8",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "published_at": "2026-10-15T04:30:00+00:00",
+      "author": "Ivan Mehta",
+      "summary_raw": "Figma is also releasing its code layers feature in open beta.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "1734185f6f093a3f",
+      "title": "Byla nejmladší self-made miliardářkou, teď firmu prodává za zlomek ceny. Mladí poslali její byznys ke dnu",
+      "url": "https://cc.cz/byla-nejmladsi-self-made-miliardarkou-ted-firmu-prodava-za-zlomek-ceny-mladi-poslali-jeji-byznys-ke-dnu/",
+      "published_at": "2026-10-15T04:14:14+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Tržby Bumble padají, za rok ubylo 620 tisíc platících uživatelů a dluh firmy je trojnásobkem toho, co má na účtech. Noví majitelé mluví hlavně o AI. Článek Byla nejmladší self-made miliardářkou, teď firmu prodává za zlomek ceny. Mladí poslali její byznys ke dnu se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/bumble-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "7109aaa90824e7fc",
       "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
@@ -612,7 +636,7 @@
       "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
       "published_at": "2026-10-14T21:23:01+00:00",
       "author": "",
-      "summary_raw": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. Somewhat embarrassingly given my recent talk , I've found that telling Opus 5.5 \"make sure it is fun\" works uncomfortably well. In this case Claude crunched for 3 hours and 7 minutes before retuning a cosy little spot-the-difference game with music and animation and achievements that's quite compelling to play. Tags: game-design , javascript , ai , generative-ai , llms , claude , vibe-coding , three-js",
+      "summary_raw": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. Somewhat embarrassingly given my recent talk , I've found that telling Opus 5.5 \"make sure it is fun\" works uncomfortably well. In this case Claude crunched for 3 hours and 7 minutes before retuning a cosy little spot-the-difference game with music and animation and achievements that's quite compelling to play. Tags: game-design , javascript , ai , generative-ai , llms , claude , vibe-coding , three-js",
       "hero_image": "https://static.simonwillison.net/static/2026-10-14/image_crop_1320x2195_w1320_q0.7.webp",
       "source_id": "simonw",
       "source_name": "Simon Willison's Weblog",
@@ -1171,18 +1195,6 @@
       "category": "news"
     },
     {
-      "id": "95935eec0ea33509",
-      "title": "Zkrachovala AI firma, která byla hvězdou ještě před ChatGPT. Nepřežila nájezdy obrů na své lidi",
-      "url": "https://cc.cz/da-se-prezit-kdyz-vas-2x-vysaji-obri-bankrot-firmy-ktera-byla-hvezdou-pred-chatgpt-ukazuje-ze-ne/",
-      "published_at": "2026-10-14T08:20:03+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Google za licenci a návrat zakladatelů zaplatil 2,7 miliardy dolarů. Disney si vzal šéfa a teď nabízí 20 milionů za zbytky startupu. Článek Zkrachovala AI firma, která byla hvězdou ještě před ChatGPT. Nepřežila nájezdy obrů na své lidi se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/g-ein-disney-mvp-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "9b4c343264af1e71",
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "url": "https://openai.com/index/third-moment-research",
@@ -1495,18 +1507,6 @@
       "category": "news"
     },
     {
-      "id": "f6b18e4c924b9ca4",
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "published_at": "2026-10-13T17:18:25+00:00",
-      "author": "Ram Iyer",
-      "summary_raw": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "2236895d254eba7c",
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -1649,30 +1649,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "40a0cd8f74016d50",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "published_at": "2026-10-13T09:00:00+00:00",
-      "author": "Matthew King",
-      "summary_raw": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "5f78969d765b6c55",
-      "title": "Má smysl posuzovat významné IT projekty centrálně, jak se usnesla vláda?",
-      "url": "https://www.lupa.cz/clanky/ma-smysl-posuzovat-vyznamne-it-projekty-centralne-jak-se-usnesla-vlada/",
-      "published_at": "2026-10-13T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Martin Burián)",
-      "summary_raw": "Vláda bez větší pozornosti v polovině září přijala usnesení k řízení výdajů v oblasti informačních a komunikačních technologií a umělé inteligence. Další díl seriálu Jak na veřejné IT zakázky, který Lupa připravuje ve spolupráci s Asociací softwarových agentur (ASWA), rozebírá, jestli tento krok dává v oblasti digitalizace Česka smysl.",
-      "hero_image": "https://i.iinfo.cz/images/459/digitalni-cesko-2026-lukas-klucka-digitalizace-ministerstv.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "f15f735c6d9340f7",
@@ -1853,18 +1829,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "73be88971b0bf061",
-      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "published_at": "2026-10-08T07:27:51+00:00",
-      "author": "",
-      "summary_raw": "yay small models",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!q_iv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHUDOG1Jb0AAHQ2I.jpg",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "e840a58824f05980",
