@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-16",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Meta uvádí open-weight model Muse Spark Open optimalizovaný pro čipy Apple",
+      "title_orig": "Meta launches an open-weight AI model that runs on Macs",
+      "category": "open-source",
+      "summary_cs": [
+        "Meta v partnerství s Apple vydala svůj dosud nejvýkonnější otevřený model Muse Spark Open.",
+        "Model je navržený tak, aby dokázal běžet lokálně přímo na počítačích Mac s čipy Apple Silicon.",
+        "Tento krok výrazně zjednodušuje vývoj a lokální testování pokročilých AI aplikací bez závislosti na cloudu."
+      ],
+      "why_matters": "Lokalizovaný provoz takto silného otevřeného modelu na běžném hardwaru zásadně usnadní vývoj AI aplikací bez cloudových poplatků.",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Kanadská Cohere kupuje pražský startup Aisle Ondřeje Vlčka",
+      "title_orig": "Další miliardový exit z Prahy? Ondřej Vlček prodává svůj startup, pomůže budovat evropskou suverénní AI",
+      "category": "news",
+      "summary_cs": [
+        "Globální AI gigant Cohere podepsal předběžnou dohodu o akvizici pražského kyberbezpečnostního startupu Aisle.",
+        "Za projektem stojí bývalý šéf Avastu Ondřej Vlček společně se Stanislavem Fortem a Jayou Ballo.",
+        "Cohere plánuje v Praze vytvořit svou novou evropskou centrálu a posílit rozvoj suverénní evropské AI."
+      ],
+      "why_matters": "Jde o další významný miliardový exit z Česka, který upevňuje pozici Prahy jako klíčového evropského hubu pro AI.",
+      "url": "https://cc.cz/dalsi-miliardovy-exit-z-prahy-ondrej-vlcek-prodava-svuj-startup-pomuze-budovat-evropskou-suverenni-ai/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic hlásí skokový růst tržeb na 16,8 miliardy dolarů před chystaným IPO",
+      "title_orig": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Anthropic sdělila investorům, že její kvartální příjmy vzrostly o téměř 50 procent na 16,8 miliardy dolarů.",
+        "Firma takové výsledky prezentuje v rámci příprav na nadcházející vstup na burzu.",
+        "Čísla ukazují obrovský komerční apetit trhu po modelech řady Claude a firemních AI řešeních."
+      ],
+      "why_matters": "Finanční výsledky potvrdily, že komerční poptávka po generativní AI roste extrémním tempem napříč celým trhem.",
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Anthropic uděluje nezávislým výzkumníkům z METR plný přístup k auditu bezpečnosti",
+      "title_orig": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "category": "labs",
+      "summary_cs": [
+        "Výzkumníci z neziskové organizace METR získali zaměstnanecký přístup do interních systémů Anthropicu.",
+        "Organizacím bude umožněno nezávisle hodnotit rizika, incidenty a vývojové postupy u hraničních modelů.",
+        "Anthropic se vzdal práva blokovat publikaci zjištění, čímž nastavuje nový standard v transparentnosti AI vývoje."
+      ],
+      "why_matters": "Nezávislý přístup ke všem interním datům AI vývojáře vytváří přelomový precedent pro auditování bezpečnosti generativní AI.",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI spouští Rosalind Academic Plan pro bezplatný výzkum v biologii",
+      "title_orig": "Bringing GPT-Rosalind to academic research labs",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI představila akademický program poskytující vybraným laboratořím sponzorovaný přístup k modelu GPT-Rosalind.",
+        "Iniciativa je zaměřena na urychlení výzkumu v biologických vědách a oboru life sciences.",
+        "Akademici tak získají specializované výpočetní nástroje pro analýzu složitých biologických dat."
+      ],
+      "why_matters": "Zpřístupnění špičkového biologického modelu akademické obci může výrazně urychlit vývoj nových léčiv a lékařský výzkum.",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Seznam AI zaznamenal masivní nárůst a týdně odbavuje miliony konverzací",
+      "title_orig": "Český konkurent ChatGPT získal statisíce uživatelů a bude mít nové funkce. Co už za vás vyřeší?",
+      "category": "news",
+      "summary_cs": [
+        "Tuzemského asistenta Seznam AI používají každý týden již vyšší statisíce českých uživatelů.",
+        "Chatbot využívající vlastní jazykový model SeLLMa týdně zpracuje nižší miliony jednotlivých konverzací.",
+        "Seznam chystá další rozšiřování funkcí, čímž upevňuje pozici hlavní lokální alternativy ke globálním službám."
+      ],
+      "why_matters": "Úspěch české lokální AI dokazuje, že přizpůsobení specifikům místního jazyka a trhu má silný uživatelský potenciál.",
+      "url": "https://www.lupa.cz/aktuality/cesky-konkurent-chatgpt-ziskal-statisice-uzivatelu-a-bude-mit-nove-funkce-co-uz-za-vas-vyresi/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Klávesnice ustupují hlasovému zadávání příkazů pomocí AI",
+      "title_orig": "Klávesnice může být příští obětí umělé inteligence. Lidé začínají práci zadávat hlasem, přitom si rovnají myšlenky",
+      "category": "news",
+      "summary_cs": [
+        "Způsob interakce s počítači se mění a lidé stále častěji přecházejí na diktování a hlasovou komunikaci.",
+        "Pokročilé AI modely dokáží efektivně zpracovat neuspořádaný hlasový projev a převést jej do strukturovaného textu.",
+        "Tradiční klávesnice se postupně posouvá z role hlavního vstupního zařízení do pozice sekundárního nástroje."
+      ],
+      "why_matters": "Přechod od psaní k hlasu mění zažité pracovní návyky a zvyšuje efektivitu tvorby dokumentů a komunikace.",
+      "url": "https://www.lupa.cz/clanky/klavesnice-muze-byt-pristi-obeti-umele-inteligence-lide-zacinaji-praci-zadavat-hlasem-pritom-si-rovnaji-myslenky/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Rozšíření ChatGPT pro Chrome přináší přímý přístup k otevřeným záložkám",
+      "title_orig": "ChatGPT can peek at your Chrome tabs now",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI aktualizovala své rozšíření pro prohlížeč Google Chrome o funkci živého čtení obsahu záložek.",
+        "Uživatelé mohou v rozhraní ChatGPT označit prohlížeč a nechat si analyzovat aktivní otevřené karty.",
+        "Nástroj zjednodušuje práci s informacemi z více webových stránek najednou přímo během konverzace."
+      ],
+      "why_matters": "Přímé propojení asistenta s prohlížečem eliminuje nutnost ručního kopírování textů a zrychluje rešeršní práci.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Český vývojář vytvořil za tři dny AI náhradu za Microsoft Outlook",
+      "title_orig": "Stáhněte si zdarma českou náhradu Outlooku. Vznikla za tři dny pomocí umělé inteligence",
+      "category": "news",
+      "summary_cs": [
+        "V Česku vznikla volně dostupná e-mailová aplikace MailA, která slouží jako funkční náhrada za Outlook.",
+        "Celý software byl naprogramován za pouhé tři dny za intenzivního použití AI programovacích agentů.",
+        "Projekt ukazuje rostoucí trend takzvaného vibe codingu, kdy jednotlivci rychle replikují složitý enterprise software."
+      ],
+      "why_matters": "Ukazuje, jak dramaticky AI zkracuje čas potřebný k vývoji komplexního uživatelského softwaru.",
+      "url": "https://www.lupa.cz/aktuality/stahnete-si-zdarma-ceskou-nahradu-outlooku-vznikla-za-tri-dny-pomoci-umele-inteligence/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Bluesky rozšiřuje AI nástroj Attie pro snadnou tvorbu webů a her",
+      "title_orig": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "category": "tools",
+      "summary_cs": [
+        "Sociální síť Bluesky rozšířila svůj AI nástroj Attie o možnost vytváření interaktivního obsahu bez znalosti kódování.",
+        "Uživatelé mohou vytvářet malé aplikace, hry, anketní formuláře nebo jednoduché weby přímo z rozhraní.",
+        "Vytvořené projekty lze okamžitě sdílet s komunitou jako samostatné funkční webové stránky."
+      ],
+      "why_matters": "Demonstruje průnik generování softwaru přímo do sociálních sítí, což umožní rychlou tvorbu obsahu bez kódování.",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "RealtimeBench uvádí testování AI agentů v reálném čase pod tlakem časomíry",
+      "title_orig": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili benchmark RealtimeBench obsahující 180 úkolů zaměřených na rychlost reakce AI agentů.",
+        "Dosavadní testy hodnotily pouze správnost řešení, bez ohledu na čas potřebný k rozhodnutí.",
+        "Nový přístup simuluje dynamické prostředí, kde i správná akce selže, pokud dorazí příliš pozdě."
+      ],
+      "why_matters": "Uplatnění AI v reálném světě vyžaduje nejen přesné, ale i rychlé rozhodování pod časovým tlakem.",
+      "url": "https://arxiv.org/abs/2610.20665",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Problém saturace srovnávacích benchmarků komplikuje měření bezpečnosti AI",
+      "title_orig": "Evaluating Model Capabilities After Benchmark Saturation",
+      "category": "research",
+      "summary_cs": [
+        "Nová stude upozorňuje, že rychlý pokrok AI vede k brzkému dosažení maximálních bodů v běžných testech.",
+        "Jakmile více modelů dosáhne téměř 100% úspěšnosti, benchmarky ztrácejí schopnost mezi nimi rozlišovat.",
+        "Tento stav komplikuje vyhodnocování bezpečnostních rizik u pokročilých frontier modelů."
+      ],
+      "why_matters": "Absence náročnějších testovacích metod ztěžuje objektivní posouzení rizik a schopností nejnovějších AI modelů.",
+      "url": "https://arxiv.org/abs/2610.20667",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Amazon odhalil nová osobní AI zařízení značky Bee pro každodenní použití",
+      "title_orig": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "category": "tools",
+      "summary_cs": [
+        "Značka Bee spadající pod Amazon představila nositelnou AI elektroniku a kapesní rekordér v velikosti platební karty.",
+        "Zařízení dokáží průběžně sumarizovat konverzace, tvořit seznamy úkolů a propojit se se službou Alexa.",
+        "Hardware je navržen tak, aby fungoval jako ambientní asistent na pozadí bez nutnosti vytahovat telefon."
+      ],
+      "why_matters": "Cenově dostupný hardware ukazuje trend posunu AI od obrazovek k ambientním nositelným asistentům.",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Nové metody řízení difúzních modelů výrazně zrychlují generování obrazu",
+      "title_orig": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci navrhli metodu ořezávání plánu vzorkování pro diskrétní difúzní modely.",
+        "Nová technika eliminuje zbytečné výpočetní kroky při zachování vysoké kvality vygenerovaného výstupu.",
+        "Inovace umožňuje výrazně zrychlit běh generativních obrazových i textových modelů při nižších nákladech."
+      ],
+      "why_matters": "Snížení výpočetní náročnosti při generování přímo vede k levnějšímu a rychlejšímu provozu obrazových AI modelů.",
+      "url": "https://arxiv.org/abs/2610.20669",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Ben Affleck založil AI startup cílící na zefektivnění filmové produkce",
+      "title_orig": "Z hollywoodské hvězdy technologickým podnikatelem. Ben Affleck našel v AI příležitost za stovky milionů",
+      "category": "wildcard",
+      "summary_cs": [
+        "Známý hollywoodský herec a režisér Ben Affleck se pustil do podnikání v oblasti filmové umělé inteligence.",
+        "Jeho nový technologický projekt se zaměřuje na zjednodušení a zlevnění náročných procesů ve filmové produkci.",
+        "Affleck věří, že generativní nástroje nenahradí lidskou kreativitu, ale eliminují neefektivní tvorbu vizuálních efektů."
+      ],
+      "why_matters": "Zapojení prvořadých filmových tvůrců do vývoje AI ukazuje na postupné přijímání těchto technologií přímo v Hollywoodu.",
+      "url": "https://cc.cz/z-hollywoodske-hvezdy-technologickym-podnikatelem-ben-affleck-nasel-v-ai-prilezitost-za-stovky-milionu/",
+      "source": "CzechCrunch"
+    }
+  ]
+}
