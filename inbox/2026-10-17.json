@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-17T04:01:39.757265+00:00",
+  "generated_at": "2026-10-17T08:33:50.619449+00:00",
   "date": "2026-10-17",
-  "article_count_unique": 125,
-  "article_count_raw": 125,
+  "article_count_unique": 122,
+  "article_count_raw": 122,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 20,
-      "raw_count": 20
+      "count": 19,
+      "raw_count": 19
     },
     {
       "source_id": "verge_ai",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 11,
-      "raw_count": 11
+      "count": 12,
+      "raw_count": 12
     },
     {
       "source_id": "anthropic_news",
@@ -164,16 +164,40 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 6,
-      "raw_count": 13
+      "raw_count": 11
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "cf5f1eb4b71e1300",
+      "title": "[AINews] High Taste Testers Ep. 1",
+      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+      "published_at": "2026-10-17T07:47:38+00:00",
+      "author": "",
+      "summary_raw": "a quiet day lets us pilot a new show",
+      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/ZOH8Q401vt0",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "5806bd8bc8d00b00",
+      "title": "Vede je jeden z otců AI a z Evropy chtějí změnit, jak se vyvíjí léky. Mají na to desítky miliard",
+      "url": "https://cc.cz/vede-je-jeden-z-otcu-ai-a-z-evropy-chteji-zmenit-jak-se-vyviji-leky-maji-na-to-desitky-miliard/",
+      "published_at": "2026-10-17T05:02:06+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Londýnský startup Isomorphic Labs založil Demis Hassabis a poté, co se stáhl v Googlu do pozadí, je ve firmě ještě víc zapojený. Článek Vede je jeden z otců AI a z Evropy chtějí změnit, jak se vyvíjí léky. Mají na to desítky miliard se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/hassabis-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "7d8456214f177ec1",
       "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
@@ -220,18 +244,6 @@
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "3c8a46ede1e68fcf",
-      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-      "published_at": "2026-10-16T20:05:08+00:00",
-      "author": "Tess Owen, Tim Marchman",
-      "summary_raw": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-      "hero_image": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/master/pass/GettyImages-2299989251.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
       "category": "news"
     },
     {
@@ -391,18 +403,6 @@
       "category": "news"
     },
     {
-      "id": "7435673c591d93e3",
-      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-      "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
-      "published_at": "2026-10-16T15:00:00+00:00",
-      "author": "Steven Levy",
-      "summary_raw": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
-      "hero_image": "https://media.wired.com/photos/6ad14b37762b59cd2aa2c0c9/master/pass/Backchannel-Sherry-Turkle-Business-458911186.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "f3273ad5d7f8b87f",
       "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
       "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
@@ -532,18 +532,6 @@
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "1ffd2e6e4da1914e",
-      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-      "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-      "published_at": "2026-10-16T11:00:00+00:00",
-      "author": "Ej Dickson",
-      "summary_raw": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-      "hero_image": "https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
       "category": "news"
     },
     {
@@ -703,6 +691,18 @@
       "category": "labs"
     },
     {
+      "id": "6992e36571b20498",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
       "id": "21ccb43af8f93fa1",
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
       "url": "https://huggingface.co/blog/reflection-beam",
@@ -832,18 +832,6 @@
       "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source_id": "verge_ai",
       "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "30dafb4b33eac719",
-      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-      "published_at": "2026-10-15T21:00:28+00:00",
-      "author": "Paresh Dave",
-      "summary_raw": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
-      "hero_image": "https://media.wired.com/photos/6ad00a8917414371d605a797/master/pass/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
       "category": "news"
     },
     {
@@ -1231,18 +1219,6 @@
       "category": "news"
     },
     {
-      "id": "d677ad38853670a8",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "published_at": "2026-10-15T04:30:00+00:00",
-      "author": "Ivan Mehta",
-      "summary_raw": "Figma is also releasing its code layers feature in open beta.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "8bfef05db8f48763",
       "title": "Sullivan & Cromwell brings legal expertise into agreement review",
       "url": "https://openai.com/index/sullivan-cromwell",
@@ -1526,18 +1502,6 @@
       "author": "Richard MacManus",
       "summary_raw": "Inside Standard Bots&#8217; AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
       "hero_image": "https://substackcdn.com/image/fetch/$s_!yzyh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe58f7268-94a0-42f5-b0fc-9ecf300bb03d_2560x1440.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "36afec549f1c2b55",
-      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "published_at": "2026-10-10T06:45:57+00:00",
-      "author": "",
-      "summary_raw": "Wow.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!JxMf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2108594586310631424.jpg",
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
