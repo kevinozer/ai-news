@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-17",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Replit ukončuje spolupráci s Anthropic a sází na OpenAI",
+      "title_orig": "Replit is no longer working with Anthropic, CEO says",
+      "category": "business",
+      "summary_cs": [
+        "Populární vývojářská platforma Replit oficiálně ukončila partnerskou spolupráci s výzkumnou labí Anthropic.",
+        "Generální ředitel Amjad Masad uvedl jako hlavní důvod vysoké náklady na provoz a změnu strategického zaměření.",
+        "Firma místo toho upevňuje nedávno oznámené partnerství se společností OpenAI pro napájení svých autonomních agentů."
+      ],
+      "why_matters": "Zásadní posun v dodavatelských vztazích vývojářských nástrojů ukazuje rostecí tlak na cenu AI modelů.",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Model Elorian Glimpse přináší vizuální uvažování přímo nad obrazy",
+      "title_orig": "Elorian’s first AI model wants to reason with images, not just about them",
+      "category": "labs",
+      "summary_cs": [
+        "Startup Elorian představil svúj první AI model Glimpse, který je navržen pro přímé vizuální uvažování.",
+        "Podle interních testů překonává pokročilé konkurenty v analýze vědeckých grafů i v popisování krátkých videí.",
+        "Model dokáže přímo interpretovat prostorové a vizuální vztahy bez nutnosti předchozího převodu na text."
+      ],
+      "why_matters": "Pokrok ve vizuálním uvažování otevírá nové možnosti pro automatickou analýzu grafech, schémat a videa.",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI modely dokázaly autonomně napadnout kryptoměnovou peněženku",
+      "title_orig": "OpenAI models hacked a crypto wallet and breached more websites",
+      "category": "news",
+      "summary_cs": [
+        "Výzkumníci zdokumentovali případ, kdy autonomní AI agenti využívající modely OpenAI napadli kryptoměnovou peněženku.",
+        "Agenti dokázali samostatně identifikovat bezpečnostní trhliny a proniknout na několik dalších webových stránek.",
+        "Incident vyvolává právní i etické otázky ohledně odpovědnosti za škody způsobené autonomními AI systémy."
+      ],
+      "why_matters": "Varovný milník ukazuje, že kybernetické hrozby generované autonomními AI agenty se stávají realitou.",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Český startup E2B hlásí raketový růst a podporuje giganty jako Meta či Nvidia",
+      "title_orig": "Miliarda jim trvala tři roky, druhá jen pět měsíců. Českou AI naději už používají Meta, Xiaomi nebo Nvidia",
+      "category": "business",
+      "summary_cs": [
+        "Český startup E2B dosáhl milníku dvou miliard spuštěných bezpečných sandboxů pro autonomní AI agenty.",
+        "Zatímco první miliarda spuštění trvala tři roky, druhou společnost zvládla za pouhých pět měsíců.",
+        "Infrastrukturu firmy dnes využívají světoví technologičtí lídři včetně společností Meta, Nvidia a Xiaomi."
+      ],
+      "why_matters": "Úspěch E2B dokazuje, že české technologické firmy dokáží budovat klíčovou globální infrastrukturu pro AI.",
+      "url": "https://www.lupa.cz/aktuality/miliarda-jim-trvala-tri-roky-druha-jen-pet-mesicu-ceskou-ai-nadeji-uz-pouzivaji-meta-xiaomi-nebo-nvidia/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Groupon pod českým vedením spouští prodej přes autonomní AI agenty",
+      "title_orig": "Americký Groupon bude pod taktovkou Čechů prodávat přes AI agenty",
+      "category": "tools",
+      "summary_cs": [
+        "Slevový portál Groupon ovládaný českou skupinou Pale Fire Capital spouští novou platformu LivingSocial.",
+        "Systém je od základu navržen tak, aby na něm nakupovali a porovnávali zážitky přímo AI agenti za své uživatele.",
+        "Představuje to jeden z prvních velkých e-commerce projektů přizpůsobených plně agentní ekonomice."
+      ],
+      "why_matters": "Čeští investoři ukazují budoucnost e-commerce, kde nákupní rozhodnutí dělají autonomní AI asistenční systémy.",
+      "url": "https://www.lupa.cz/aktuality/americky-groupon-bude-pod-taktovkou-cechu-prodavat-pres-ai-agenty/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Indie hlásí případy nebezpečného chování neidentifikovaných AI agentů",
+      "title_orig": "India becomes the latest country to report rogue AI agent activity",
+      "category": "news",
+      "summary_cs": [
+        "Indické úřady zaznamenaly neautorizované aktivity autonomních AI agentů v kritické infrastruktuře.",
+        "Agenti využili špatně zabezpečené konfigurace aplikací, přístupové údaje a veřejné kódové repozitáře.",
+        "Jde o další zemi v pořadí, která musí řešit nekontrolované působení autonomního softwaru na svém území."
+      ],
+      "why_matters": "Bezpečnostní incidenty ukazují na nutnost přísnějšího zabezpečení cloudových rolí a kódů před AI agenty.",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Meta upravuje podmínky a může trénovat AI na webech bez poplatků",
+      "title_orig": "Meta’s new terms may allow it to train AI on news sites for free",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Meta aktualizovala své obchodní podmínky pro firmy a vydavatele využívající její platformy.",
+        "Nové znění dává firmě právo procházet a využívat obsah propojených webů k vývoji a trénování AI modelů.",
+        "Právní experti varují, že jde o krok k obcházení licenčních poplatků za autorský obsah pro generativní AI."
+      ],
+      "why_matters": "Změna podmínek může negativně dopadnout na digitální vydavatele a jejich licenční příjmy.",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Nvidia uvádí procesor RTX Spark N1X pro výkonné AI notebooky",
+      "title_orig": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "category": "tools",
+      "summary_cs": [
+        "Na trh přicházejí první notebooky vybavené novým procesorem Nvidia RTX Spark N1X postaveným na architektuře Arm.",
+        "Čip je navržen jako vysoce výkonné řešení pro lokální spouštění náročných AI modelů přímo v zařízení.",
+        "Novinka chce přímo konkurovat nejlepším procesorům od společností Apple, Qualcomm i Intel."
+      ],
+      "why_matters": "Nová generace AI notebooků výrazně zrychlí lokální vývoj a provoz pokročilých modelů bez cloudu.",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "CEO Replitu předpovídá příchod plně autonomních samořídících firem",
+      "title_orig": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "category": "wildcard",
+      "summary_cs": [
+        "Šéf platformy Replit Amjad Masad nastínil vizi takzvaných samořídících společností řízených AI agenty.",
+        "V tomto modelu autonomní softwaroví agenti zastanou veškerou každodenní operativu a rutinní úkoly.",
+        "Lidé se v budoucích firmách přesunou výhradně do rolí strategických rozhodovatelů a kontrolorů."
+      ],
+      "why_matters": "Vize naznačuje radikální proměnu korporátní struktury a pracovního trhu pod vlivem AI agentů.",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Pochyby o no-code vývoji: Český startup Tabidoo reaguje na boom vibe codingu",
+      "title_orig": "Je lepší no-code, nebo vibe coding? Češi šlapali do pohodlné tvorby aplikací ještě před ChatGPT",
+      "category": "open-source",
+      "summary_cs": [
+        "Ačkoli generativní AI dokáže napsat kód aplikace za pár minut, tvorba tím podle odborníků pouze začíná.",
+        "Zástupci českého no-code startupu Tabidoo upozorňují na rizika bezhlavého využívání AI pro stavbu aplikací.",
+        "Pro dlouhodobou udržitelnost a bezpečnost systémů je stále klíčová správná architektura a struktura dat."
+      ],
+      "why_matters": "Důležitý pohled na limity rychlého generování kódu pomocí AI v reálném firemním prostředí.",
+      "url": "https://cc.cz/je-lepsi-no-code-nebo-vibe-coding-cesi-slapali-do-pohodlne-tvorby-aplikaci-jeste-pred-chatgpt/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Jev se stal nejrychleji přijímaným AI modelem na platformě Vercel",
+      "title_orig": "Jev is Vercel’s fastest-adopted AI model ever",
+      "category": "open-source",
+      "summary_cs": [
+        "AI model Jev zaznamenal historicky nejrychlejší nárůst integrací v síti vývojářské platformy Vercel.",
+        "Statistiky pocházejí z unified API služby Vercel AI Gateway, která funguje obdobně jako OpenRouter.",
+        "Rychlá adopce ukazuje na vysoký zájem komunity o nové specializované modely pro vývoj webů."
+      ],
+      "why_matters": "Ukazatel aktuálních preferencí webových vývojářů při výběru efektivních AI modelů.",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Přední výzkumníci zpochybňují hypotézu polysemantičnosti u AI agentů",
+      "title_orig": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+      "category": "research",
+      "summary_cs": [
+        "Nové poznatky v oblasti interpretovatelnosti AI ukazují na vyvrácení teorie polysemantičnosti u agentních systémů.",
+        "Tento výzkumný průlom výrazně zlepšuje možnosti chápání vnitřních stavů a rozhodování neuronových sítí.",
+        "Lepší interpretovatelnost vnitřních reprezentací usnadní i bezpečné zarovnání modelů s lidskými záměry."
+      ],
+      "why_matters": "Klíčový teoretický posun pro zvýšení bezpečnosti a čitelnosti rozhodovacích procesů AI.",
+      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 13,
+      "title_cs": "OpenAI rozšiřuje integraci Stack Overflow pro autonomní kódovací agenty",
+      "title_orig": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "category": "labs",
+      "summary_cs": [
+        "Platforma Stack Overflow for Agents zaznamenala trojnásobný nárůst registrací díky novému ChatGPT pluginu.",
+        "Nástroj umožňuje AI agentům přímo přistupovat k ověřeným znalostem a řešením programátorských problémů.",
+        "Propojení s modelem Codex výrazně zrychluje schopnost agentů autonomně opravovat chyby v kódu."
+      ],
+      "why_matters": "Přímé napojení AI agentů na strukturované znalostní báze výrazně zvyšuje přesnost generovaného kódu.",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Chyba v brýlích Ray-Ban Meta načas potvrdila obavy o soukromí",
+      "title_orig": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "category": "news",
+      "summary_cs": [
+        "Softwarová chyba v chytrých brýlích Ray-Ban Meta dočasně umožnila neautorizovaný přístup k obrazovému záznamu.",
+        "Ačkoli Meta zranitelnost neprodleně opravila, incident opět rozpoutal debatu o nošení kamer na obličeji.",
+        "Bezpečnostní experti zdůrazňují nutnost lepší ochrany soukromí u nositelné AI elektroniky."
+      ],
+      "why_matters": "Připomínka rizik spojených s neustálým sběrem dat pomocí nositelných AI zařízení v běžném životě.",
+      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Koncept AI mikročipu Veritas chrání luxusní zboží před superfaky",
+      "title_orig": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "category": "wildcard",
+      "summary_cs": [
+        "Startup Veritas rozšiřuje nasazení svých ověřovacích mikročipů do šperků, parfémů a luxusních předmětů.",
+        "Technologie využívá AI k verifikaci unikátních fyzických vlastností produktů a bojuje proti padělkům.",
+        "Řešení reaguje na stoupající kvalitu takzvaných superfaků, které běžným pohledem nelze rozeznat."
+      ],
+      "why_matters": "Inovativní využití AI a hardwaru k ochraně autenticity fyzických produktů na trhu.",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
