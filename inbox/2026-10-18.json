@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T04:02:30.996484+00:00",
+  "generated_at": "2026-10-18T08:53:06.112646+00:00",
   "date": "2026-10-18",
-  "article_count_unique": 95,
-  "article_count_raw": 95,
+  "article_count_unique": 93,
+  "article_count_raw": 93,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "wired_ai",
@@ -163,17 +163,29 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
-      "raw_count": 8
+      "count": 1,
+      "raw_count": 3
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "ceceb1e4b74835fa",
+      "title": "U ElevenLabs jsme měli štěstí. Investice do startupu Tomáše Čupra? Nadchl nás, říká Ondřej Bartoš",
+      "url": "https://cc.cz/u-elevenlabs-jsme-meli-stesti-investice-do-startupu-tomase-cupra-nadchl-nas-rika-ondrej-bartos/",
+      "published_at": "2026-10-18T05:05:12+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Zakládající partner Credo Ventures Ondřej Bartoš popisuje, o čem při výběru startupů rozhoduje úsudek a co je náhoda. A jak vše mění AI. Článek U ElevenLabs jsme měli štěstí. Investice do startupu Tomáše Čupra? Nadchl nás, říká Ondřej Bartoš se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/ondrej-bartos06-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "9d2292d940302ac7",
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -749,42 +761,6 @@
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
       "category": "news"
-    },
-    {
-      "id": "e42d2c0cd0c1a4da",
-      "title": "Miliarda jim trvala tři roky, druhá jen pět měsíců. Českou AI naději už používají Meta, Xiaomi nebo Nvidia",
-      "url": "https://www.lupa.cz/aktuality/miliarda-jim-trvala-tri-roky-druha-jen-pet-mesicu-ceskou-ai-nadeji-uz-pouzivaji-meta-xiaomi-nebo-nvidia/",
-      "published_at": "2026-10-16T08:51:59+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Český startup E2B aktuálně patří k největ&#353;ím technologickým nadějím země. Pro AI agenty umožňuje velice rychle spou&#353;tět sandboxy, tedy izolovaná prostředí, v nichž agenti mohou běžet, vykonat práci a sandbox následně ukončit. E2B pokračuje v silném růstu. Firma informovala, že jí trvalo tři roky, než u ní zákazníci rozjeli miliardu sandboxů. Teď pokočila metu dvou miliard sandboxů s tím, že druhá miliarda trvala pouze pět měsíců.",
-      "hero_image": "https://i.iinfo.cz/images/182/e2b.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "40951e397df47dd4",
-      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-      "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-      "published_at": "2026-10-16T07:56:32+00:00",
-      "author": "Michal Luria, Aliya Bhatia, Danah Boyd",
-      "summary_raw": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Facebook, TikTok, and other platforms in early&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "89f265c3341fd647",
-      "title": "CETIN založil další firmu a ještě více zesílí, bývalý šéf státního IT pomáhá nové pojišťovně, novinky Applu",
-      "url": "https://www.lupa.cz/clanky/cetin-zalozil-dalsi-firmu-a-jeste-vice-zesili-byvaly-sef-statniho-it-pomaha-nove-pojistovne-novinky-applu/",
-      "published_at": "2026-10-16T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "OpenAI a Anthropic mají slušné tržby. Průšvih peněženek Ledger. Linus Torvalds má rád AI programování. Nvidia GeForce RTX 5090 končí. Zprávy z technologií, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/161/microsoft-azure-maia-300.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "be145162cd759f97",
