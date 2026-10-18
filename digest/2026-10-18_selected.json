@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-18",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Meta upravuje smluvní podmínky a ruší kontroverzní formulace o sběru dat",
+      "title_orig": "Meta removes language that raised scraping and AI training concerns",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Meta pod tlakem kritiky aktualizovala svoje komerční podmínky a odstranila pasáže naznačující neomezené vytěžování webů.",
+        "Původní text vyvolal obavy mezi vydavateli zpravodajství, že jejich obsah bude využit k trénování AI bez licence.",
+        "Mluvčí společnosti tvrdí, že úprava podmínek nemění reálný způsob, jakým Meta prochází a indexuje web."
+      ],
+      "why_matters": "Rozhodnutí Mety ovlivní autorská práva a licenční poplatky i pro česká media.",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Otec moderní AI Demis Hassabis vede evropský výzkum léků s miliardovým rozpočtem",
+      "title_orig": "Vede je jeden z otců AI a z Evropy chtějí změnit, jak se vyvíjí léky. Mají na to desítky miliard",
+      "category": "business",
+      "summary_cs": [
+        "Londýnský startup Isomorphic Labs pod vedením Demise Hassabise získal obří finance na transformaci farmaceutického výzkumu.",
+        "Projekt využívá pokročilé modely umělé inteligence k navrhování nových léčivých látek a zrychlení jejich testování.",
+        "Hassabis se více zaměřuje na tento evropský projekt po částečném ústupu z denní administrativy v Googlu."
+      ],
+      "why_matters": "Ukazuje, jak evropské AI projekty přitahují obří kapitál pro výzkum zdravotnictví.",
+      "url": "https://cc.cz/vede-je-jeden-z-otcu-ai-a-z-evropy-chteji-zmenit-jak-se-vyviji-leky-maji-na-to-desitky-miliard/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Gemini 4 Argon přichází s vysokým výkonem pro řešení složitých úkolů",
+      "title_orig": "Gemini 4 Argon: Built to solve your hardest problems",
+      "category": "labs",
+      "summary_cs": [
+        "Google DeepMind oficiálně uvedl model Gemini 4 Argon zaměřený na nejnáročnější výpočetní a analytické úlohy.",
+        "Nová verze přináší výrazná zlepšení v logickém uvažování, kódování a zpracování komplexních datových sad.",
+        "Vývojáři mají k dispozici pokročilá bezpečnostní opatření pro nasazení modelu do firemních aplikací."
+      ],
+      "why_matters": "Nový vlajkový model od Google posouvá hranice autonomního kódování a analýzy.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Open-source model Muse Spark Open od Mety míří na špičku multimodality",
+      "title_orig": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "category": "open-source",
+      "summary_cs": [
+        "Meta zveřejnila váhy nového multimodálního modelu Muse Spark Open s architekturou Mixture-of-Experts.",
+        "Model nabízí otevřený přístup ke špičkovým schopnostem zpracování textu, obrazu a zvuku pro komunitu.",
+        "Uživatelé mohou model volně upravovat a provozovat na vlastní infrastruktuře včetně lokálních stanic."
+      ],
+      "why_matters": "Posiluje trend výkonných otevřených modelů dostupných pro vývojáře bez licenčních poplatků.",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Webové stránky začínají hromadně blokovat přístup autonomním AI agentům",
+      "title_orig": "Websites are closing their doors to AI agents",
+      "category": "news",
+      "summary_cs": [
+        "Provozovatelé webů stále častěji blokují autonomní boty a agenty, kteří provádějí akce jménem uživatelů.",
+        "Snaha vývojářů z OpenAI či Google o vytvoření agentů pro nákupy a rezervace naráží na technické zábrany.",
+        "Vzniká nový konflikt mezi vývojáři AI nástrojů a majiteli online služeb chránícími svůj provoz."
+      ],
+      "why_matters": "Blokování agentů může zpomalit nástup autonomních AI služeb v běžném e-commerce.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Anthropic mění strukturu týmu a zaměstnanci tráví více času na schůzkách",
+      "title_orig": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "category": "business",
+      "summary_cs": [
+        "Pracovní síla v Anthropicu za poslední rok výrazně dospěla a firma přijímá více seniorních specialistů.",
+        "S růstem organizace se proměnil i charakter práce, přičemž výzkumníci věnují více času koordinačním schůzkám.",
+        "Změna interní kultury odráží přechod ze fáze akademického startupu do pozice velké korporace."
+      ],
+      "why_matters": "Ukazuje vnitřní proměnu vedoucích AI laboratoří při přechodu na masivní komercializaci.",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Bývalý šéf vývoje robotiky v Nvidii popisuje překážky na cestě k pokroku",
+      "title_orig": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "category": "news",
+      "summary_cs": [
+        "Amulya Vishwanath tvrdí, že obor robotiky se stále nachází ve své základní stavebnicové fázi.",
+        "Pro dosažení průlomového momentu chybí standardizace hardware, aktuátorů i bezpečnostních protokolů.",
+        "Fyzická AI vyžaduje odlišný přístup k trénování než čistě textové velké jazykové modely."
+      ],
+      "why_matters": "Krotí přehnaná očekávání od rychlého nasazení humanoidních robotů v průmyslu.",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "FLUX.3 Image Klein přináší efektivní generování obrázků do knihovny Diffusers",
+      "title_orig": "Welcome FLUX.3 Image Klein in Diffusers",
+      "category": "tools",
+      "summary_cs": [
+        "Nový vizuální model FLUX.3 Image Klein byl plně integrován do populární ekosystémové knihovny Diffusers.",
+        "Model dosahuje vysoké vizuální kvality a přesného dodržování promptu při nižších nárocích na paměť.",
+        "Kompaktní architektura umožňuje rychlejší generování grafiky přímo na běžně dostupném hardwaru."
+      ],
+      "why_matters": "Usnadňuje vývojářům implementaci špičkové generativní grafiky do vlastních aplikací.",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Vědci narážejí na limity AI při dešifrování lidského genomu",
+      "title_orig": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "category": "research",
+      "summary_cs": [
+        "Lidská DNA funguje jako dynamický systém, ke kterému dnešním algoritmům chybí dostatečně přesná data.",
+        "Současné AI modely nedokáží spolehlivě postihnout všechny komplexní interakce uvnitř buněčného jádra.",
+        "Pro plné využití umělé inteligence v genetice bude nutné vyvinout nové metody sběru biologických dat."
+      ],
+      "why_matters": "Připomíná limity AI v komplexních přírodních vědách i přes velké investice.",
+      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Hugging Face uvádí otevřený model Beam pro firemní nasazení",
+      "title_orig": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face představil obří otevřený model Beam určený pro rozsáhlé firemní infrastruktury.",
+        "Model nabízí možnost plného přizpůsobení a úprav bez závislosti na uzavřených poskytovatelích.",
+        "Architektura je navržena pro vysokou škálovatelnost a efektivní provoz na privátních cloudech."
+      ],
+      "why_matters": "Poskytuje podníkům alternativu k uzavřeným modelům od OpenAI nebo Google.",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Zkoumání rizik spojených s vývojem syntetických virů pomocí AI",
+      "title_orig": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "category": "research",
+      "summary_cs": [
+        "Diskuze s výzkumníky ze Stanfordu odhaluje možnosti generování genetických kódů pro nové viry.",
+        "Ačkoliv AI zatím nevytváří plně živé organismy, návrhy biologických struktur jsou stále přesnější.",
+        "Odborníci zdůrazňují nutnost zavedení přísných bezpečnostních filtrů pro biologické generátory."
+      ],
+      "why_matters": "Otevírá zásadní otázky biosecurity a regulace výzkumu syntetické biologie.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Společnost Block staví bezpečnostní systémy na technologiích OpenAI",
+      "title_orig": "How Block is building AI-powered security with OpenAI technology",
+      "category": "tools",
+      "summary_cs": [
+        "Fintechová společnost Block nasadila pokročilé AI modely k automatické detekci kybernetických hrozeb.",
+        "Bezpečnostní týmy dokáží analyzovat incidenty a připravovat opravné kódové záplaty v řádu minut.",
+        "Zapojení autonomních agentů výrazně snižuje reakční dobu při odhalování zranitelností."
+      ],
+      "why_matters": "Praktická ukázka využití AI agentů pro zrychlení kybernetické obrany firem.",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Model Granite Switch 4.1 spojuje konverzaci a hlasové funkce do jednoho rozhraní",
+      "title_orig": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "category": "labs",
+      "summary_cs": [
+        "Nová verze modelu Granite Switch přináší sjednocené rozhraní pro chat, rozhodování i zpracování řeči.",
+        "Vývojáři mohou přistupovat ke všem funkcím prostřednictvím jediného API koncového bodu.",
+        "Zjednodušená architektura snižuje latenci a náklady při vývoji kompletních hlasových asistentů."
+      ],
+      "why_matters": "Zjednodušuje tvorbu multimodálních aplikací bez nutnosti řetězení různých modelů.",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Měli by boti přestat používat zájmena já a mě pro zamezení manipulace",
+      "title_orig": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+      "category": "wildcard",
+      "summary_cs": [
+        "Profesorka Sherry Turkle z MIT varuje před nebezpečným citovým přilnutím lidí k AI chatbotům.",
+        "Používání osobních zájmen v konverzaci vyvolává ve uživatelích falešný dojem empatie a vědomí.",
+        "Navrhuje se úprava jazykových pravidel pro modely, aby byla jasně zachována hranice mezi strojem a člověkem."
+      ],
+      "why_matters": "Téma antropomorfizace AI je klíčové pro etický vývoj uživatelských rozhraní.",
+      "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Nový Marvel seriál VisionQuest otevírá filozofické otázky kolem AI",
+      "title_orig": "Po dlouhé době tu je seriál od Marvelu, který stojí za to. Je chytrý a možná i důležitý pro nové Avengers",
+      "category": "wildcard",
+      "summary_cs": [
+        "Marvel uzavírá příběhovou trilogii zaměřenou na postavu Visiona a jeho rodinu.",
+        "Nový seriál VisionQuest kombinuje superhrdinskou akci s varováním před riziky nekontrolované AI.",
+        "Dílo přináší hlubší filozofické myšlenky o syntetickém životě přístupné široké veřejnosti."
+      ],
+      "why_matters": "Ukazuje, jak popkultura zpracovává témata bezpečnosti a etiky umělé inteligence.",
+      "url": "https://cc.cz/po-dlouhe-dobe-tu-je-serial-od-marvelu-ktery-stoji-za-to-je-chytry-a-mozna-i-dulezity-pro-nove-avengers/",
+      "source": "CzechCrunch"
+    }
+  ]
+}
