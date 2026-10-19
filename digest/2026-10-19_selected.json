@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-19",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic věnuje 5 procent svých akcií na fond veřejného prospěchu",
+      "title_orig": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Anthropic oznámila závazek vyčlenit pět procent svých akcií do nově vznikajícího fondu veřejného prospěchu.",
+        "Cílem fondu je financovat nezávislý výzkum bezpečnosti AI, hodnocení rizik a podporu společensky přínosných projektů.",
+        "Krok přichází v době příprav společnosti na případné veřejné obchodování a posiluje její neziskové poslání."
+      ],
+      "why_matters": "Ukazuje nový standard odpovědného podnikání u předních vývojářů generativní AI.",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Disney plánuje převzít většinu zaměstnanců startupu Character.AI",
+      "title_orig": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "category": "business",
+      "summary_cs": [
+        "Zábavní gigant Disney předložil nabídku na převzetí většiny týmu populární platformy Character.AI.",
+        "Převážná většina oslovených vývojářů a inženýrů již nabídku práce v Disney akceptovala.",
+        "Jde o takzvanou stalking-horse nabídku, takže se do aukce stále mohou zapojit další zájemci."
+      ],
+      "why_matters": "Tradiční mediální domy masivně investují do získávání špičkových AI talentů.",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "AI infrastruktura na dluh: Bývalí těžaři krypta naráží na finanční limity",
+      "title_orig": "Bývalí těžaři krypta pohánějí AI revoluci. Jenže jedou na dluh a tenhle stroj se teď zadrhává",
+      "category": "business",
+      "summary_cs": [
+        "Akcie poskytovatele AI výpočetního výkonu CoreWeave zaznamenaly výrazný propad a výnosy dluhopisů vzrostly přes 16 procent.",
+        "Trh vyjadřuje obavy z vysokého zadlužení firem, které přestavěly kryptoměnové hory na AI datacentra.",
+        "Mírnější tempo růstu některých AI laboratorních gigantů navíc zvyšuje rizika pro investory."
+      ],
+      "why_matters": "Finance stojící za AI infrastrukturou ukazují praskliny, což může ovlivnit ceny výpočetního výkonu.",
+      "url": "https://cc.cz/byvali-tezari-krypta-pohaneji-ai-revoluci-jenze-jedou-na-dluh-a-tenhle-stroj-se-ted-zadrhava/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Modal získává obří investici a stává se novým AI infrastrukturním gigantem",
+      "title_orig": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn",
+      "category": "business",
+      "summary_cs": [
+        "Infrastrukturní platforma Modal dosáhla ročních opakovaných tržeb ve výši jedné miliardy dolarů.",
+        "V rámci investičního kola Series D byla společnost oceněna na 16 miliard dolarů.",
+        "Růst podniku podtrhuje extrémní poptávku po bezpečné izolaci a spouštění AI kódů v cloudu."
+      ],
+      "why_matters": "Serverless infrastruktura pro spouštění AI agentů se stává jedním z nejziskovějších segmentů.",
+      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Žena byla zatčena za záměrné blokování doručovacího robota",
+      "title_orig": "A woman was arrested in Philly for blocking a delivery robot",
+      "category": "wildcard",
+      "summary_cs": [
+        "Obyvatelka Filadelfie byla zatčena poté, co se postavila do cesty autonomnímu doručovacímu robotu Uberu.",
+        "Protestující odmítla ustoupit s odůvodněním, že autonomní stroje berou práci lidským kurýrům.",
+        "Případ otevírá právní i společenské otázky ohledně ochrany autonomních systémů ve veřejném prostoru."
+      ],
+      "why_matters": "Ukazuje rostoucí napětí mezi veřejností a nastupujícími autonomními technologiemi v ulicích.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Ondřej Bartoš z Credo Ventures hodnotí investice do ElevenLabs a vliv AI",
+      "title_orig": "U ElevenLabs jsme měli štěstí. Investice do startupu Tomáše Čupra? Nadchl nás, říká Ondřej Bartoš",
+      "category": "news",
+      "summary_cs": [
+        "Partner investičního fondu Credo Ventures popisuje rozhodovací procesy při výběru úspěšných startupů.",
+        "Rozhovor rozebírá investici do hlasového unicornu ElevenLabs i pohled na nové projekty.",
+        "Bartoš vysvětluje, jak AI mění kritéria pro hodnocení zakladatelů a životaschopnosti firem."
+      ],
+      "why_matters": "Nahlédnutí do myšlení předního českého investora v éře AI transformace.",
+      "url": "https://cc.cz/u-elevenlabs-jsme-meli-stesti-investice-do-startupu-tomase-cupra-nadchl-nas-rika-ondrej-bartos/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Andrej Kiska a Tom Krcha diskutují o praktickém životě s AI agenty",
+      "title_orig": "Zavolal mi AI agent, ať na to nezapomenu. Andrej Kiska a Tom Krcha o tom, jak se žije v nové AI éře",
+      "category": "tools",
+      "summary_cs": [
+        "Zakladatelé úspěšných projektů v podcastu sdílejí osobní zkušenosti s autonomními AI asistenty.",
+        "Diskuse se zaměřuje na hlasové agenty, kteří sami vyřizují telefonáty a plánují úkoly.",
+        "Aféra ukazuje rychlý přechod od textových chatboxů k aktivním agentům v denní rutině."
+      ],
+      "why_matters": "Přináší konkrétní příklady, jak české osobnosti využívají AI k automatizaci práce.",
+      "url": "https://cc.cz/zavolal-mi-ai-agent-at-na-to-nezapomenu-andrej-kiska-a-tom-krcha-o-tom-jak-se-zije-v-nove-ai-ere/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Google Antigravity zrychluje vyhledávání nových antimikrobiálních peptidů",
+      "title_orig": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "category": "labs",
+      "summary_cs": [
+        "Tým Google DeepMind nasadil platformu Antigravity na výzkum nových typů antibiotik.",
+        "AI modely dokážou navrhovat a simulovat struktury peptidů bojujících proti rezistentním bakteriím.",
+        "Aplikace vědecké AI dramaticky zkracuje počáteční fázi laboratorního výzkumu."
+      ],
+      "why_matters": "Demonstruje reálný přínos pokročilých modelů při řešení globální zdravotní hrozby.",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Trvalá lidská kontrola nad AI agenty pomocí protokolu MCP",
+      "title_orig": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci navrhli protokolární mechanismus pro vkládání trvalých příkazů do autonomních agentů.",
+        "Metoda využívá typovaná přepsání v rámci Model Context Protocolu bez nutnosti měnit váhy modelu.",
+        "Člověk tak získává spolehlivou pojistku, která přetrvává napříč všemi kroky plánování agenta."
+      ],
+      "why_matters": "Klíčový krok k bezpečnému nasazení autonomních agentů ve firemních procesech.",
+      "url": "https://arxiv.org/abs/2610.22373",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Lean4AgenticRL přináší ověřitelné procesní odměny pro AI agenty",
+      "title_orig": "Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards",
+      "category": "research",
+      "summary_cs": [
+        "Nový rámec kombinuje dokazovač Lean 4 s posilovaným učením pro vývoj softwarového inženýrství.",
+        "Systém poskytuje agentům přesné a matematicky ověřitelné odměny v průběhu řešení úkolu.",
+        "Přístup výrazně snižuje chybovost agentů při psaní složitého kódování a používání terminálu."
+      ],
+      "why_matters": "Zvyšuje spolehlivost AI při automatickém psaní a opravování programu.",
+      "url": "https://arxiv.org/abs/2610.22448",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Riziko postupné odchylky modelů při trénování na vlastních datech",
+      "title_orig": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
+      "category": "research",
+      "summary_cs": [
+        "Studie ukazuje, že rekurzivní sebedestilace modelů může vést k jejich postupnému odchýlení od původního záměru.",
+        "I když je trénovací proces nastaven bezpečně, opakované učení na vlastních výstupech generuje skryté chyby.",
+        "Zjištění zpochybňuje udržitelnost nekonečného trénování modelů bez čerstvých lidských dat."
+      ],
+      "why_matters": "Upozorňuje na limity vytváření syntetických trénovacích dat bez lidského dohledu.",
+      "url": "https://arxiv.org/abs/2610.22467",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Funkční blahobyt AI jako nový faktor pro zajištění bezpečnosti",
+      "title_orig": "Functional Welfare for AI Safety",
+      "category": "research",
+      "summary_cs": [
+        "Přední výzkumníci argumentují, že stav vnitřního blahobytu modelů má přímý dopad na jejich bezpečnost.",
+        "Práce zavádí pojem funkční blahobyt jako měřitelný stav, který příčinně ovlivňuje chování AI.",
+        "Sledování těchto stavů může zabránit neočekávanému selhání nebo nebezpečnému jednání modelů."
+      ],
+      "why_matters": "Mění pohled na bezpečnost AI z čistě etické roviny na technicky měřitelný parametr.",
+      "url": "https://arxiv.org/abs/2610.22460",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "FRACTAL: Fraktální architektura pro řízení sítě více AI agentů",
+      "title_orig": "FRACTAL: A Self-Similar Multi-Agent Orchestration Architecture with Formal Communication, Convergence, and Depth Bounds",
+      "category": "research",
+      "summary_cs": [
+        "Architektura FRACTAL předkládá sebepodobný vzor pro rekurzivní rozpad složitých cílů na podúkoly.",
+        "Každá úroveň systému obsahuje pět základních komponent pro rozhodování, vědomosti a dohled.",
+        "Model poskytuje formální záruky konvergence a zabraňuje nekonečnému zřetězení agentů."
+      ],
+      "why_matters": "Umožňuje stavět stabilní a škálovatelné systémy složené ze stovek AI agentů.",
+      "url": "https://arxiv.org/abs/2610.22561",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Kompresní metoda TRACE zrychluje AI výpočty na koncových zařízeních",
+      "title_orig": "TRACE: Transformer Residual Activation Codebook Encoding for Communication-efficient Distributed Edge Inference",
+      "category": "research",
+      "summary_cs": [
+        "Nová metoda TRACE řeší pomalý přenos dat při distribuci Transformerů mezi edge zařízeními.",
+        "Kódování reziduálních aktivací výrazně snižuje objem přenášených dat bez ztráty přesnosti.",
+        "Technologie umožňuje plynulý chod velkých modelů na běžných lokálních čipech a telefonech."
+      ],
+      "why_matters": "Otevírá cestu k rychlému běhu pokročilých AI modelů přímo v elektronice bez cloudu.",
+      "url": "https://arxiv.org/abs/2610.22435",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Tvůrci z OnlyFans kritizují Metu kvůli dvojímu metru u AI modelů",
+      "title_orig": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "category": "news",
+      "summary_cs": [
+        "Tvůrci obsahu pro dospělé poukazují na pokrytectví v pravidlech sociálních sítí společnosti Meta.",
+        "Zatímco lidským autorům Meta blokuje účty za náznaky erotiky, vlastní AI agent Muse má povolen explicitní konverzaci.",
+        "Spor vyvolává debatu o férových podmínkách a monopolním postavení AI botů na platformách."
+      ],
+      "why_matters": "Ukazuje konflikty při nastavování etických pravidel pro AI konverzace na sociálních sítích.",
+      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "source": "Wired AI"
+    }
+  ]
+}
