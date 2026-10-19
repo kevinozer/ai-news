@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T04:02:24.604653+00:00",
+  "generated_at": "2026-10-19T09:54:06.125933+00:00",
   "date": "2026-10-19",
-  "article_count_unique": 99,
-  "article_count_raw": 99,
+  "article_count_unique": 105,
+  "article_count_raw": 105,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 0,
-      "raw_count": 0
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "wired_ai",
@@ -67,8 +67,8 @@
     {
       "source_id": "huggingface_blog",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "import_ai",
@@ -163,17 +163,101 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 0,
-      "raw_count": 2
+      "count": 1,
+      "raw_count": 5
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "1ca5dc26f73e73cb",
+      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+      "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+      "published_at": "2026-10-19T09:22:17+00:00",
+      "author": "James Temple",
+      "summary_raw": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen before climbing into the&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/LV-22-7081-33.jpg",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "9c2a12b35d7ec872",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "published_at": "2026-10-19T09:08:05+00:00",
+      "author": "Amit Katwala",
+      "summary_raw": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "fef2370c34b5a4e3",
+      "title": "How far can we push computing?",
+      "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+      "published_at": "2026-10-19T09:00:00+00:00",
+      "author": "Volkan Gurses",
+      "summary_raw": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richard Feynman gave a lecture called “There’s&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-90743946.jpg?w=840",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "0de670a298c4acaf",
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "published_at": "2026-10-19T09:00:00+00:00",
+      "author": "Maddy Varner",
+      "summary_raw": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+      "hero_image": "https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "3a6337b698663b9e",
+      "title": "Do košíku šlo zboží za 100 tisíc, ale strhla se jen koruna. Aplikace psané AI mívají nečekané díry",
+      "url": "https://cc.cz/do-kosiku-slo-zbozi-za-100-tisic-ale-strhla-se-jen-koruna-aplikace-psane-ai-mivaji-necekane-diry/",
+      "published_at": "2026-10-19T08:07:39+00:00",
+      "author": "Matyáš Vejskal",
+      "summary_raw": "Vibe coding dal nevývojářům superschopnosti. Že aplikace funguje, ale ještě neznamená, že je bezpečná, varuje zakladatel Snadnee a VibeAuditu. Článek Do košíku šlo zboží za 100 tisíc, ale strhla se jen koruna. Aplikace psané AI mívají nečekané díry se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/honza-vibeaudit-815x543.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "3195307d2b508bd2",
+      "title": "Umělá inteligence nám poněkud zahustila prostor nesmysly. Někteří se s tím nemažou, říkají investoři z deeptechového fondu",
+      "url": "https://www.lupa.cz/clanky/umela-inteligence-nam-ponekud-zahustila-prostor-nesmysly-nekteri-se-s-tim-nemazou-rikaji-investori-z-deeptechoveho-fondu/",
+      "published_at": "2026-10-19T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Posílají peníze do startupů, jejichž technologie se teprve má projevit: v kyberbezpečnosti, v tom, jak konzumujeme obsah, i v oblasti kvantových počítačů. Čeští investoři si s námi povídali o umělé inteligenci, změnách, které přinesla, i o tom, co jsou dnes vlastně pokročilé technologie.",
+      "hero_image": "https://i.iinfo.cz/images/681/petr-ulvr-roman-smola-a-martin-drdul-tensor-ventures.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "f578b87b3a9cf114",
+      "title": "Po roce a půl hlásí zisk, mladý startup už využívá i Alza. Do jeho nové AI služby posílá další miliony Miton",
+      "url": "https://cc.cz/po-roce-a-pul-hlasi-zisk-mlady-startup-uz-vyuziva-i-alza-do-jeho-nove-ai-sluzby-posila-dalsi-miliony-miton/",
+      "published_at": "2026-10-19T04:19:45+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "„Zatímco AI výrazně zlevňuje tvorbu softwaru, hodnota kvalitních dat, která aplikace a AI agenty pohánějí, roste,“ říká zakladatel DeepScoutu. Článek Po roce a půl hlásí zisk, mladý startup už využívá i Alza. Do jeho nové AI služby posílá další miliony Miton se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/miton-deepscout-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "621e1f3da7240482",
       "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
@@ -667,18 +751,6 @@
       "category": "news"
     },
     {
-      "id": "ceceb1e4b74835fa",
-      "title": "U ElevenLabs jsme měli štěstí. Investice do startupu Tomáše Čupra? Nadchl nás, říká Ondřej Bartoš",
-      "url": "https://cc.cz/u-elevenlabs-jsme-meli-stesti-investice-do-startupu-tomase-cupra-nadchl-nas-rika-ondrej-bartos/",
-      "published_at": "2026-10-18T05:05:12+00:00",
-      "author": "Ondřej Holzman",
-      "summary_raw": "Zakládající partner Credo Ventures Ondřej Bartoš popisuje, o čem při výběru startupů rozhoduje úsudek a co je náhoda. A jak vše mění AI. Článek U ElevenLabs jsme měli štěstí. Investice do startupu Tomáše Čupra? Nadchl nás, říká Ondřej Bartoš se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/ondrej-bartos06-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "9d2292d940302ac7",
       "title": "Meta removes language that raised scraping and AI training concerns",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
@@ -796,18 +868,6 @@
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "d83979adb8fe3d9e",
-      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-      "published_at": "2026-10-17T09:00:00+00:00",
-      "author": "Philip Ball",
-      "summary_raw": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-      "hero_image": "https://media.wired.com/photos/6acf63d6b06331734b2e70d7/master/pass/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
       "category": "news"
     },
     {
@@ -965,6 +1025,18 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
+    },
+    {
+      "id": "8e4939ab11bba028",
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "published_at": "2026-10-15T09:08:45+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
     },
     {
       "id": "8bfef05db8f48763",
