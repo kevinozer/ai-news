@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T04:02:17.032706+00:00",
+  "generated_at": "2026-10-20T09:25:50.089503+00:00",
   "date": "2026-10-20",
-  "article_count_unique": 104,
-  "article_count_raw": 104,
+  "article_count_unique": 106,
+  "article_count_raw": 106,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -19,14 +19,14 @@
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 15,
-      "raw_count": 15
+      "count": 16,
+      "raw_count": 16
     },
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "wired_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,16 +164,64 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 2,
-      "raw_count": 9
+      "raw_count": 10
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 1,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "4311ac827816187b",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "author": "Michelle Kim",
+      "summary_raw": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/map.png?w=840",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "94edd849cbfe9fa2",
+      "title": "These startups hope “blended” food will cut our appetite for red meat",
+      "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "author": "Meghan McCarron",
+      "summary_raw": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.&#160; Kids love&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Mush-Foods-Mushroom-Mycelium.jpg",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "1ddf5e2454d01607",
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "published_at": "2026-10-20T05:59:56+00:00",
+      "author": "Stephen Clark",
+      "summary_raw": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "7eb42047c993e0a6",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+      "published_at": "2026-10-20T05:21:52+00:00",
+      "author": "",
+      "summary_raw": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they&#8217;re not going to be in super wide use just yet.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!otPo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHVBPHSjWcAAHoHt.jpg",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
     {
       "id": "2ebab2bd71f57e02",
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
@@ -703,18 +751,6 @@
       "category": "news"
     },
     {
-      "id": "3a6337b698663b9e",
-      "title": "Do košíku šlo zboží za 100 tisíc, ale strhla se jen koruna. Aplikace psané AI mívají nečekané díry",
-      "url": "https://cc.cz/do-kosiku-slo-zbozi-za-100-tisic-ale-strhla-se-jen-koruna-aplikace-psane-ai-mivaji-necekane-diry/",
-      "published_at": "2026-10-19T08:07:39+00:00",
-      "author": "Matyáš Vejskal",
-      "summary_raw": "Vibe coding dal nevývojářům superschopnosti. Že aplikace funguje, ale ještě neznamená, že je bezpečná, varuje zakladatel Snadnee a VibeAuditu. Článek Do košíku šlo zboží za 100 tisíc, ale strhla se jen koruna. Aplikace psané AI mívají nečekané díry se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/honza-vibeaudit-815x543.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "3195307d2b508bd2",
       "title": "Umělá inteligence nám poněkud zahustila prostor nesmysly. Někteří se s tím nemažou, říkají investoři z deeptechového fondu",
       "url": "https://www.lupa.cz/clanky/umela-inteligence-nam-ponekud-zahustila-prostor-nesmysly-nekteri-se-s-tim-nemazou-rikaji-investori-z-deeptechoveho-fondu/",
@@ -724,18 +760,6 @@
       "hero_image": "https://i.iinfo.cz/images/681/petr-ulvr-roman-smola-a-martin-drdul-tensor-ventures.jpg",
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "f578b87b3a9cf114",
-      "title": "Po roce a půl hlásí zisk, mladý startup už využívá i Alza. Do jeho nové AI služby posílá další miliony Miton",
-      "url": "https://cc.cz/po-roce-a-pul-hlasi-zisk-mlady-startup-uz-vyuziva-i-alza-do-jeho-nove-ai-sluzby-posila-dalsi-miliony-miton/",
-      "published_at": "2026-10-19T04:19:45+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "„Zatímco AI výrazně zlevňuje tvorbu softwaru, hodnota kvalitních dat, která aplikace a AI agenty pohánějí, roste,“ říká zakladatel DeepScoutu. Článek Po roce a půl hlásí zisk, mladý startup už využívá i Alza. Do jeho nové AI služby posílá další miliony Miton se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/miton-deepscout-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
       "category": "cz"
     },
     {
