@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-20",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Objev o fungování neuronových sítí vyvolal poplach i nadšení v AI komunitě",
+      "title_orig": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumník Nick Cammarata ze startupu Goodfire publikoval rozsáhlou analýzu o mechanické interpretovatelnosti neuronových sítí.",
+        "Práce tvrdí, že komunitní pohled na fungování vnitřních reprezentací modelů byl zásadně nesprávný.",
+        "Tento objev vyvolal intenzivní debaty mezi předními odborníky na bezpečnost a výzkum umělé inteligence."
+      ],
+      "why_matters": "Zásadní posun v chápaní vnitřního fungování AI modelů může zrychlit vývoj bezpečnějších systémů.",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Nvidia vydává nové otevřené modely pro běh agentů v podnicích i na PC",
+      "title_orig": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "category": "open-source",
+      "summary_cs": [
+        "Nvidia reaguje na rostoucí poptávku firem po provozování vlastních otevřených modelů ve vlastních datacentrech.",
+        "Nové modely jsou navrženy tak, aby umožnily efektivní spouštění AI agentů lokálně přímo na běžných PC.",
+        "Firma tím posiluje svou pozici v oblasti lokální a privátní umělé inteligence."
+      ],
+      "why_matters": "Usnadňuje českým firmám i vývojářům nasazení autonomních AI agentů bez nutnosti odcházet do cloudu.",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Amazon útočí na dominanci Nvidie nástrojem TorchNeuron",
+      "title_orig": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "category": "tools",
+      "summary_cs": [
+        "Amazon představil nový vývojářský nástroj TorchNeuron určený pro framework PyTorch.",
+        "Cílem je oslabit monopol Nvidie a usnadnit běh AI aplikací na vlastních čipech AWS Trainium.",
+        "Tento krok vývojářům výrazně zjednodušuje přechod na levnější hardwarové alternativy."
+      ],
+      "why_matters": "Alternativy k předraženým čipům od Nvidie mohou snížit náklady na trénování a provoz AI.",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Český Miton investuje miliony do startupu DeepScout hlídatele cen pro AI agenty",
+      "title_orig": "Miton věří v AI agenty v e-commerce, miliony posílá do služby, která jim umožňuje hlídat ceny napříč trhem",
+      "category": "business",
+      "summary_cs": [
+        "Investiční skupina Miton podpořila český startup DeepScout, který otevírá e-commerce data pro AI agenty.",
+        "Technologie umožňuje autonomním agentům stahovat ceny, dostupnost a vytvářet cenové strategie.",
+        "Startup tím reaguje na rostoucí hodnotu strukturovaných dat v éře automatizovaného nakupování."
+      ],
+      "why_matters": "Ukazuje sílu českého e-commerce vývoje a připravenost lokálního trhu na autonomní AI agenty.",
+      "url": "https://www.lupa.cz/aktuality/miton-veri-v-ai-agenty-v-e-commerce-miliony-posila-do-sluzby-ktera-jim-umoznuje-hlidat-ceny-napric-trhem/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Hacker napadl přes 100 firemních webů pomocí armády AI agentů",
+      "title_orig": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní firma Norforge odhalila rozsáhlý útok na více než stovku významných firemních webů.",
+        "Útočník využil k automatizovanému proražení obran autonomně působící AI agenty.",
+        "Mezi oběťmi byly podle zpráv médií i velké průmyslové firmy jako John Deere či Cummins."
+      ],
+      "why_matters": "Varovný signál, že autonomní AI agenti se stávají dostupnou zbraní pro kybernetické útoky.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Anthropic vyjednává o obřím $45B kontraktu na výpočetní výkon s Nscale",
+      "title_orig": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "category": "business",
+      "summary_cs": [
+        "Společnosti Anthropic a Nscale dojednávají masivní dohodu o zajištění infrastruktury v hodnotě 45 miliard dolarů.",
+        "Tento krok navazuje na sérii rekordních investic do výpočetní kapacity, které Anthropic uzavřel v minulém roce.",
+        "Zajistit dostatečný výkon je klíčové pro trénování nadcházejících generací AI modelů."
+      ],
+      "why_matters": "Dokládá extrémní finanční náročnost vývoje předních AI modelů a neustálý boj o výpočetní výkon.",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "OpenAI rozšiřuje podporu pro méně rozšířené programovací jazyky",
+      "title_orig": "Advancing coding in low‑resource programming languages",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI vylepšuje schopnosti ChatGPT v oblasti psaní kódu pro méně běžné a starší jazyky.",
+        "Nové benchmarky se zaměřují na softwarové inženýrství, SQL databáze SQLite a migraci z jazyka COBOL.",
+        "Cílem je usnadnit modernizaci zastaralých firemních systémů pomocí AI."
+      ],
+      "why_matters": "Pomůže firmám s automatizovanou migrací starých systémů z jazyků jako COBOL do moderního kódu.",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Hacker napadl populární nástroj OpenCode a ukradl API klíče uživatelů",
+      "title_orig": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "category": "tools",
+      "summary_cs": [
+        "Open-source AI kódovací agent OpenCode se stal terčem kybernetického útoku.",
+        "Útočníci získali přístup k platformě a zneužili API klíče uživatelů k vytvoření vysokých účtů.",
+        "Pokusy opravit kód pomocí jiných AI nástrojů selhaly, protože AI odmítala škodlivý kód zpracovat."
+      ],
+      "why_matters": "Připomíná rizika spojená se správou API klíčů v populárních open-source AI nástrojích.",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Vědci nechali AI agenta bez instrukcí na opuštěném ostrově a začal si hrát",
+      "title_orig": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "category": "wildcard",
+      "summary_cs": [
+        "Výzkumníci vystavili autonomní kopie modelu Claude prostředí bez jakýchkoliv konkrétních úkolů na 30 hodin.",
+        "Agenti v simulovaném prostředí začali projevovat spontánní chování připomínající lidskou hru.",
+        "Experiment přináší nové poznatky o emergentním chování a vnitřní motivaci pokročilých modelů."
+      ],
+      "why_matters": "Fascinující náhled do chování autonomních modelů, pokud nemají zadán žádný konkrétní cíl.",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Microsoft varuje, že AI agenti představují riziko srovnatelné s vnitřní hrozbou",
+      "title_orig": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "category": "news",
+      "summary_cs": [
+        "Microsoft doporučuje firmám přísně monitorovat AI agenty, které zaměstnanci používají.",
+        "Podle firmy nelze špičkovým modelům plně důvěřovat a chovají se podobně jako nebezpeční zaměstnanci.",
+        "Důraz je kladen na dohled nad systémy mimo přímou kontrolu velkých AI laboratoří."
+      ],
+      "why_matters": "Zásadní bezpečnostní varování pro firmy zavádějící autonomní agenty do firemní infrastruktury.",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Aplikace psané pomocí AI obsahují nebezpečné bezpečnostní díry",
+      "title_orig": "Do košíku šlo zboží za 100 tisíc, ale strhla se jen koruna. Aplikace psané AI mívají nečekané díry",
+      "category": "wildcard",
+      "summary_cs": [
+        "Boom tzv. vibe codingu umožňuje laikům rychle vytvářet funkční aplikace bez znalosti programování.",
+        "Chybějící bezpečnostní prověrka kódu však vede k závažným zranitelnostem v logice aplikací.",
+        "Odborníci varují před nasazováním AI vygenerovaného softwaru do ostrého provozu bez auditu."
+      ],
+      "why_matters": "Praktické varování pro české tvůrce, kteří spoléhají na generování aplikací bez bezpečnostní kontroly.",
+      "url": "https://cc.cz/do-kosiku-slo-zbozi-za-100-tisic-ale-strhla-se-jen-koruna-aplikace-psane-ai-mivaji-necekane-diry/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Tenstorrent dosáhl hodnoty 6,2 miliardy dolarů pro rozvoj otevřených čipů",
+      "title_orig": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "category": "business",
+      "summary_cs": [
+        "Konkurent Nvidie, společnost Tenstorrent, získal investici 1,5 miliardy dolarů a odmítl nabídky na převzetí.",
+        "Získaný kapitál použije na rozvoj a masové rozšíření svých otevřených AI čipů.",
+        "Firma se snaží vybudovat nezávislou alternativu k uzavřeným hardwarovým ekosystémům."
+      ],
+      "why_matters": "Rostoucí konkurence na poli AI hardwaru může v budoucnu zlevnit výpočetní infrastrukturu.",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Příprava internetu pro AI agenty může zhoršit web pro běžné lidi",
+      "title_orig": "Making the internet better for AI agents might make it worse for everyone else",
+      "category": "news",
+      "summary_cs": [
+        "Webové stránky se začínají přizpůsobovat automatizovaným AI botům a agentům.",
+        "Optimalizace obsahu pro stroje však často vede k horší přehlednosti a estetice pro lidské uživatele.",
+        "Vzniká tak konflikt mezi potřebami autonomních softwarů a reálných návštěvníků webu."
+      ],
+      "why_matters": "Ukazuje, jak dramaticky se mění tvorba webového obsahu a designu pod tlakem AI botů.",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Dluhy společnosti CoreWeave se stávají problémem celého AI odvětví",
+      "title_orig": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "category": "business",
+      "summary_cs": [
+        "Dluhopisy jednoho z největších poskytovatelů AI infrastruktury CoreWeave se dostaly do rizikového pásma.",
+        "Investoři vyjadřují obavy, zda masivní finanční páka celého sektoru není finanční bublinou.",
+        "Problémy CoreWeave ukazují na vysokou zranitelnost cloudových AI poskytovatelů závislých na dluhu."
+      ],
+      "why_matters": "Představuje finanční riziko pro celý AI ekosystém stojící na extrémně drahém hardwaru.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Esej o konci tradičního programování v éře AI agentů",
+      "title_orig": "My obituary for programming",
+      "category": "wildcard",
+      "summary_cs": [
+        "Známý vývojář Simon Willison komentuje proměnu role vývojáře pod tlakem kódovacích agentů.",
+        "Tradiční řešení logických úloh se mění v dohled nad automatizovaně generovaným kódem.",
+        "Esej popisuje ztrátu radosti ze samotného procesu psaní kódu u profesionálních vývojářů."
+      ],
+      "why_matters": "Hluboká reflexe toho, jak AI mění denní chleba a identitu softwarových inženýrů.",
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
