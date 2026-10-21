@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-21",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Spojené státy nařizují federálním úřadům odstranění čínské AI DeepSeek",
+      "title_orig": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "category": "news",
+      "summary_cs": [
+        "Spojené státy nařídily federálním civilním agenturám okamžité odstranění všech produktů a služeb od čínské společnosti DeepSeek.",
+        "Důvodem k tomuto radikálnímu kroku jsou přísné obavy o národní bezpečnost a riziko úniku citlivých dat do Číny.",
+        "Zákaz se vztahuje i na vývojové nástroje třetích stran, které na technologii DeepSeek přímo staví."
+      ],
+      "why_matters": "Zákaz ukazuje rostoucí geopolitické riziko spojené s nasazováním čínských AI modelů ve firmách a institucích.",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI posiluje výzkum v biologii akvizicí startupu Orchestra Bio",
+      "title_orig": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "category": "business",
+      "summary_cs": [
+        "OpenAI kupuje biotechnologický startup Orchestra Bio s cílem posílit svůj výzkum v oblasti věd o živé přírodě.",
+        "Tým i technologie se zapojí do vývoje specializovaného AI modelu Rosalind a stejnojmenného analytického nástroje.",
+        "Nová platforma má výzkumníkům pomáhat s plánováním složitých biologických experimentů a vyhodnocováním výsledků."
+      ],
+      "why_matters": "OpenAI přechází od obecného chatu k přímému vývoji specializovaných nástrojů pro vědecký výzkum a vývoj léků.",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Google vyzývá Nvidii na souboj vývojářským nástrojem pro PyTorch",
+      "title_orig": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "category": "business",
+      "summary_cs": [
+        "Google po vzoru Amazonu vydal nový vývojářský nástroj navržený přímo pro komunitu kolem frameworku PyTorch.",
+        "Cílem nástroje je umožnit snadný přechod AI aplikací z dominantních grafických čipů Nvidia na jiné hardware systémy.",
+        "Tento krok přímo narušuje dlouholetou softwarovou dominanci Nvidie v oblasti trénování a provozu AI modelů."
+      ],
+      "why_matters": "Snazší migrace mezi hardwarem může výrazně snížit náklady na výpočetní výkon pro vývojáře i firmy.",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Česko hledá historicky prvního šéfa pro oblast umělé inteligence",
+      "title_orig": "Stát hledá šéfa pro AI. „Otevřela se nejzajímavější AI pozice v Česku,“ láká vládní zmocněnec",
+      "category": "news",
+      "summary_cs": [
+        "Státní podnik NAKIT vypsal výběrové řízení na strategickou pozici Chief AI Officer pro českou veřejnou správu.",
+        "Nový lídr bude mít za úkol posunout AI z fáze pilotních testů do reálného provozu napříč státními institucemi.",
+        "Role vyžaduje kombinaci hlubokého technického přehledu, řízení velkých rozpočtů a koordinace mezi ministerstvy."
+      ],
+      "why_matters": "Jde o klíčový krok pro systematické zavádění AI technologií a modernizaci českých státních služeb.",
+      "url": "https://www.lupa.cz/aktuality/stat-hleda-sefa-pro-ai-otevrela-se-nejzajimavejsi-ai-pozice-v-cesku-laka-vladni-zmocnenec/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Anthropic navrhuje zákon umožňující zastavit nebezpečné AI modely",
+      "title_orig": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Anthropic představila návrh legislativy zaměřené na bezpečnost a preventivní regulaci pokročilé AI.",
+        "Návrh počítá s možností zablokovat vydání modelu, pokud by hrozilo, že může způsobit smrt více než 50 lidí.",
+        "Legislativa zároveň vyžaduje, aby k jakémukoliv úřednímu zákazu vydání modelu dal přímý souhlas soud."
+      ],
+      "why_matters": "Ukazuje snahu předních AI laboratoří nastavit jasné právní rámce pro bezpečnost dříve, než zasáhnou státy.",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Meta ruší sdílení v aplikaci Muse kvůli nechtěnému úniku dat na web",
+      "title_orig": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "category": "news",
+      "summary_cs": [
+        "Meta dočasně pozastavila funkci sdílení konverzací u svého asistenta Muse z důvodu vážného bezpečnostního rizika.",
+        "Bezpečnostní výzkumníci objevili tisíce odkazů na soukromé chaty volně přístupné přes veřejné DNS záznamy.",
+        "Uniklé konverzace obsahovaly citlivá osobní data uživatelů i důvěrné firemní informace."
+      ],
+      "why_matters": "Připomíná riziko spojené se sdílením konverzací z AI asistentů a nutnost opatrnosti při nakládání s daty.",
+      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Případ údajného zneužívání vůči šéfovi OpenAI Samu Altmanovi byl zamítnut",
+      "title_orig": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "category": "news",
+      "summary_cs": [
+        "Americký federální soudce definitivně zamítl žalobu, kterou na šéfa OpenAI Sama Altmana podala jeho sestra Ann.",
+        "Žaloba se týkala obvinění ze zneužívání v dětství, avšak žalující strana se opakovaně nedostavila k řízení.",
+        "Soudce proces ukončil z důvodu neposkytnutí potřebné součinnosti a nezbytného lékařského posudku."
+      ],
+      "why_matters": "Ukončení dlouho sledovaného osobního sporu odstraňuje právní nejistotu kolem klíčové postavy AI průmyslu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "ChatGPT zavádí možnost zamykání vybraných konverzací",
+      "title_orig": "ChatGPT now lets you lock your chats",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI přidává do rozhraní ChatGPT novou bezpečnostní funkci umožňující uzamknout konkrétní chaty.",
+        "Lidé tak mohou chránit své citlivé osobní konverzace nebo pracovní projekty před zvědavými pohledy.",
+        "Funkce usnadňuje sdílení zařízení s rodinou či kolegy bez rizika odhalení soukromého obsahu."
+      ],
+      "why_matters": "Praktické vylepšení soukromí pro všechny, kteří používají ChatGPT k řešení osobních či důvěrných témat.",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Navalia představuje ověřitelné učení pro pokročilé AI agenty",
+      "title_orig": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "category": "research",
+      "summary_cs": [
+        "Nový výzkum uvádí rámec Navalia určený pro autonomní AI agenty zvládající komplexní a vícekrokové úkoly.",
+        "Metoda využívá ověřitelnou syntézu úloh a specializovaný trénink pro dlouhodobé plánování bez ztráty kontextu.",
+        "Systém prokazuje výrazně vyšší přesnost zejména při náročné finanční analýze napříč mnoha dokumenty."
+      ],
+      "why_matters": "Pokrok směrem k autonomním agentům, kterým lze svěřit komplexní analytickou práci bez neustálého dohledu.",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Eka Robotics získává obří hodnotu díky lidsky plynulému robotickému rameni",
+      "title_orig": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "category": "business",
+      "summary_cs": [
+        "Startup Eka Robotics dosáhl hodnoty 1,45 miliardy dolarů díky průlomovému fyzikálnímu AI modelu.",
+        "Jejich robotické rameno vykazuje mimořádnou obratnost při manipulaci s rozmanitými předměty v reálném čase.",
+        "Odborníci oceňují plynulost pohybu přibližující se lidské motorice bez nutnosti zdlouhavého programování."
+      ],
+      "why_matters": "Ukazuje rychlý posun v propojení velkých AI modelů s fyzickou robotikou pro využití v průmyslu.",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Pět desítek milionů spamu a AI skladeb zmizelo z doporučení na Spotify",
+      "title_orig": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "category": "news",
+      "summary_cs": [
+        "Hudební platforma Spotify odstranila ze svých doporučovacích algoritmů přes 50 milionů generovaných skladeb.",
+        "Cílem čistky je potlačit nekvalitní AI balast a automatizovaný spam generující neoprávněné příjmy.",
+        "Upravené algoritmy mají dávat přednost tvorbě skutečných lidských umělců a autorské kvalitě."
+      ],
+      "why_matters": "První velký zásah streamovací platformy proti zaplavování katalogu automaticky generovaným nekvalitním obsahem.",
+      "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Lidské znalosti jako přesný hodnotící signál pro posilované učení AI",
+      "title_orig": "Expert-Guided Rubrics as Dense Reward Signals for Reinforcement Learning in Non-Verifiable Domains",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili metodu trénování AI v oblastech, kde nelze výsledky snadno matematicky ověřit.",
+        "Využívají strukturovaná rubriková hodnocení od lidských expertů jako hustý odměňovací signál pro učení.",
+        "Přístup výrazně zlepšuje schopnost agentů vyhledávat informace a správně interpretovat záměr uživatele."
+      ],
+      "why_matters": "Umožňuje efektivně trénovat AI agenty pro odborné oblasti jako právo či finance bez nutnosti exaktních vzorců.",
+      "url": "https://arxiv.org/abs/2610.26932",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Yelp nasazuje AI pro automatické ověřování čaček v restauracích",
+      "title_orig": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "category": "tools",
+      "summary_cs": [
+        "Aplikace Yelp získává autonomní AI funkce, které dokážou telefonicky obvolat restaurace místo uživatele.",
+        "Systém zjišťuje aktuální časy čekání na volný stůl a vytváří vysoce personalizovaná doporučení.",
+        "Nové funkce si pamatují stravovací preference a usnadňují každodenní plánování v městském provozu."
+      ],
+      "why_matters": "Ukázka praktického nasazení hlasových AI agentů pro vyřizování rutinních osobních úkolů po telefonu.",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Generativní AI simulace od Nvidie pomáhá při tréninku chirurgů",
+      "title_orig": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "category": "labs",
+      "summary_cs": [
+        "Nvidia představila systém Cosmos3-H-Dreams určený k realistické generativní simulaci chirurgických zákroků.",
+        "Model dokáže ze stomatologických a lékařských dat vytvářet interaktivní trojrozměrná prostředí pro výuku.",
+        "Technologie umožňuje chirurgům bezpečně trénovat složité operace bez rizika pro reálné pacienty."
+      ],
+      "why_matters": "Demonstruje obrovský přínos pokročilých vizuálních AI modelů pro medicínské vzdělávání a simulace.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Startup přeložil elektrické signály rostlin pomocí AI modelu",
+      "title_orig": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "category": "wildcard",
+      "summary_cs": [
+        "Projekt Electric Plant vyvinul specializovaný AI model schopný dekódovat jemné elektrické impulsy v rostlinách.",
+        "Technologie převádí naměřené napětí ve stoncích do srozumitelných dat o potřebách a stresu plodiny.",
+        "Systém může pomoci zemědělcům přesněji dávkovat vodu i živiny podle reálného stavu rostlin."
+      ],
+      "why_matters": "Fascinující ukázka využití AI pro dekódování biologických signálů s možným dopadem na zemědělství.",
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
