@@ -1,7 +1,7 @@
 # Zdroje — AI News Bot
 
 **Finalizováno:** 2026-04-21
-**Celkem:** 28 aktivních zdrojů (2 vyřazeny při ladění: Meta AI Blog, The Batch — viz „Změny" níže)
+**Celkem:** 29 aktivních zdrojů (2 vyřazeny při ladění: Meta AI Blog, The Batch — viz „Změny" níže)
 **Filtr:** jen volně dostupné (paywall vyřazen)
 
 Sloupec "Získání" značí, jak bude bot zdroj monitorovat:
@@ -34,7 +34,7 @@ Sloupec "Získání" značí, jak bude bot zdroj monitorovat:
 | 11 | Microsoft AI blog | RSS | Copilot, enterprise |
 | 12 | Hugging Face blog | RSS | Open-source komunita |
 
-## 3. Newslettery (6)
+## 3. Newslettery (7)
 
 | # | Zdroj | Získání | Poznámka |
 |---|---|---|---|
@@ -44,6 +44,7 @@ Sloupec "Získání" značí, jak bude bot zdroj monitorovat:
 | 16 | Ben's Bites | RSS | `www.bensbites.com/feed` |
 | 17 | Last Week in AI | Email / podcast | `lastweekin.ai` |
 | 18 | One Useful Thing (Ethan Mollick) | RSS (Substack) | `oneusefulthing.org` |
+| 31 | AI Weekly | RSS | `https://aiweekly.co/feed` — 3× týdně; sleduje, co právě čtou a sdílejí přední AI experti |
 
 ## 4. Analýza a komentář (6) — *rozšířeno dle přání*
 
@@ -81,7 +82,7 @@ Sloupec "Získání" značí, jak bude bot zdroj monitorovat:
 
 ## Souhrn
 
-- **RSS-friendly:** 25 z 28 aktivních (hlavní páteř pipeline, všechny Substack/beehiiv newslettery přes RSS, nepotřebují e-mail)
+- **RSS-friendly:** 26 z 29 aktivních (hlavní páteř pipeline, všechny Substack/beehiiv newslettery přes RSS, nepotřebují e-mail)
 - **API:** 2 (HN Algolia, Reddit public JSON)
 - **HTML scrape:** 1 (Anthropic news — RSS neexistuje)
 
