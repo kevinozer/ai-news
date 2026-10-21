@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T04:01:57.171605+00:00",
+  "generated_at": "2026-10-21T09:22:55.781703+00:00",
   "date": "2026-10-21",
-  "article_count_unique": 161,
-  "article_count_raw": 161,
+  "article_count_unique": 164,
+  "article_count_raw": 164,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -43,14 +43,14 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 14,
-      "raw_count": 14
+      "count": 12,
+      "raw_count": 12
     },
     {
       "source_id": "anthropic_news",
       "status": "ok",
-      "count": 19,
-      "raw_count": 19
+      "count": 18,
+      "raw_count": 18
     },
     {
       "source_id": "deepmind_blog",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,17 +163,125 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
-      "raw_count": 11
+      "count": 4,
+      "raw_count": 12
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 0,
+      "count": 4,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "ea3c29fcf5669f38",
+      "title": "Umělá inteligence za nás umí i nakoupit. Proč jí ale Češi zatím nechtějí svěřit platební kartu?",
+      "url": "https://cc.cz/umela-inteligence-za-nas-umi-i-nakoupit-proc-ji-ale-cesi-zatim-nechteji-sverit-platebni-kartu/",
+      "published_at": "2026-10-21T09:01:59+00:00",
+      "author": "Markéta Veselá",
+      "summary_raw": "AI při nakupování používají dvě třetiny Čechů, zaplatit kartou by ji ale nechalo jen 15 %. Visa chystá opatření, aby AI nakupování bylo bezpečné. Článek Umělá inteligence za nás umí i nakoupit. Proč jí ale Češi zatím nechtějí svěřit platební kartu? se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/visa-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "c8bcf41d0fcc101a",
+      "title": "Restaurační restart podruhé. Známý gastrostartup reaguje na SaaS změny, svěřuje provozy umělé inteligenci",
+      "url": "https://www.lupa.cz/aktuality/restauracni-restart-podruhe-znamy-gastrostartup-sveruje-provozy-umele-inteligenci/",
+      "published_at": "2026-10-21T08:37:26+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Český startup Choice, který funguje v desítkách tisíc restaurací jako technologická platforma pro online objednávky, rezervace a marketing, nově nechá umělou inteligenci provádět změny v provozu. AI bude na pokyn restauratéra sama konat, upraví třeba menu a ceny, spustí marketingovou kampaň nebo vytvoří nový web. Systém zakladatel a &#353;éf Choice Alex Ilyash rozbíhá s mohutnou podporou investice 7,1 milionu dolarů (přes 150 milionů Kč) z leto&#353;ního března a reaguje na změny na SaaS trhu.",
+      "hero_image": "https://i.iinfo.cz/images/175/alex-ilyash-choice.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "dfaf212bcd4c5b87",
+      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
+      "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
+      "published_at": "2026-10-21T08:30:00+00:00",
+      "author": "Joel Khalili",
+      "summary_raw": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+      "hero_image": "https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/master/pass/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "45a7e1d529376b0c",
+      "title": "Umělá inteligence zprznila milované české dílo. Nechutná drzost, komentují AI slop tvůrci známých her",
+      "url": "https://cc.cz/umela-inteligence-zprznila-milovane-ceske-dilo-nechutna-drzost-komentuji-ai-slop-tvurci-znamych-her/",
+      "published_at": "2026-10-21T07:56:31+00:00",
+      "author": "Michal Mančař",
+      "summary_raw": "Vytvořili oblíbené a úspěšné hry jako Machinarium, Samorost, Chuchel či Pilgrims. Teď čeští vývojáři z Amanita Design čelí AI slopu. Článek Umělá inteligence zprznila milované české dílo. Nechutná drzost, komentují AI slop tvůrci známých her se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2023/09/jakub-dvorsky-amanita-815x543.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "8920de4fd76a09a9",
+      "title": "Kdysi si v amsterdamské Red Light District vydělával hraním. Dnes už díky AI učí na piano stovky tisíc lidí",
+      "url": "https://cc.cz/kdysi-si-v-amsterdamske-red-light-district-vydelaval-hranim-dnes-uz-diky-ai-uci-na-piano-stovky-tisic-lidi/",
+      "published_at": "2026-10-21T07:00:39+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Český ArtMaster za osm měsíců dosáhl na sociálních sítích organicky 100 milionů zhlédnutí. Měsíčně mají tisíce videí, full-time markeťáka ani jednoho. Článek Kdysi si v amsterdamské Red Light District vydělával hraním. Dnes už díky AI učí na piano stovky tisíc lidí se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/artmaster-founders-5-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "e65c6a4ece6ef1d1",
+      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+      "published_at": "2026-10-21T06:54:09+00:00",
+      "author": "",
+      "summary_raw": "An open source &#8220;bomb&#8221; drops from China",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!tu5N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07a949cd-f727-48e2-9bd4-c4d110bf94e9_1326x1362.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "5ca0cfdfa7f1be12",
+      "title": "Čuprová nová AI firma se dostala do elitního programu Microsoftu. Z programátorů prý přestanou být programátoři",
+      "url": "https://www.lupa.cz/aktuality/cuprova-nova-ai-firma-se-dostala-do-elitniho-programu-microsoftu-z-programatoru-prestanou-byt-programatori-veri-podnikatel/",
+      "published_at": "2026-10-21T05:37:20+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Společnost Duvo Tomá&#353;e Čupra před pár dny získala novou investici ve vý&#353;i zhruba 700 milionů korun. Nyní hlásí dal&#353;í úspěch. Dostala se do mezinárodního programu Microsoft Pegasus, v rámci něhož jedna z nejhodnotněj&#353;ích firem planety podporuje začínající startupy. Program je primárně na pozvánky.",
+      "hero_image": "https://i.iinfo.cz/images/521/duvo-ai.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "2009c8ceac3eee52",
+      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+      "url": "https://www.latent.space/p/tenex",
+      "published_at": "2026-10-21T05:01:26+00:00",
+      "author": "",
+      "summary_raw": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!aHGG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F576c0ba6-53e3-458f-bd88-6d524832b2ff_819x526.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "dba9001a1df5ad62",
+      "title": "Jak se staví AI datacentra? Pozemky oceňujeme podle elektřiny, ne podle hektarů, říká Damir Špoljarič",
+      "url": "https://cc.cz/jak-se-stavi-ai-datacentra-pozemky-ocenujeme-podle-elektriny-ne-podle-hektaru-rika-damir-spoljaric/",
+      "published_at": "2026-10-21T04:20:53+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Zakladatel Vshostingu a investiční firmy Gi21 chystá osm datacenter po Evropě. Česko je podle něj kvůli chybějící zelené elektřině v nevýhodě. Článek Jak se staví AI datacentra? Pozemky oceňujeme podle elektřiny, ne podle hektarů, říká Damir Špoljarič se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/damir-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "0818aed5666b589b",
       "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
@@ -576,7 +684,7 @@
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "published_at": "2026-10-20T23:01:23+00:00",
       "author": "Lucas Ropek",
-      "summary_raw": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary_raw": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -588,7 +696,7 @@
       "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "published_at": "2026-10-20T22:24:02+00:00",
       "author": "Julie Bort",
-      "summary_raw": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "summary_raw": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -780,7 +888,7 @@
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "published_at": "2026-10-20T20:40:41+00:00",
       "author": "Tim Fernholz, Kirsten Korosec",
-      "summary_raw": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "summary_raw": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -1555,30 +1663,6 @@
       "category": "labs"
     },
     {
-      "id": "0de670a298c4acaf",
-      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-      "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-      "published_at": "2026-10-19T09:00:00+00:00",
-      "author": "Maddy Varner",
-      "summary_raw": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-      "hero_image": "https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "3195307d2b508bd2",
-      "title": "Umělá inteligence nám poněkud zahustila prostor nesmysly. Někteří se s tím nemažou, říkají investoři z deeptechového fondu",
-      "url": "https://www.lupa.cz/clanky/umela-inteligence-nam-ponekud-zahustila-prostor-nesmysly-nekteri-se-s-tim-nemazou-rikaji-investori-z-deeptechoveho-fondu/",
-      "published_at": "2026-10-19T04:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Posílají peníze do startupů, jejichž technologie se teprve má projevit: v kyberbezpečnosti, v tom, jak konzumujeme obsah, i v oblasti kvantových počítačů. Čeští investoři si s námi povídali o umělé inteligenci, změnách, které přinesla, i o tom, co jsou dnes vlastně pokročilé technologie.",
-      "hero_image": "https://i.iinfo.cz/images/681/petr-ulvr-roman-smola-a-martin-drdul-tensor-ventures.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "7da0b96015a3b300",
       "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
       "url": "https://huggingface.co/blog/hf-torchneuron",
@@ -1840,54 +1924,6 @@
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "9b4c343264af1e71",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "d278365dd150b31a",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "31e3bbd600500f7e",
-      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
-      "published_at": "2026-10-14T05:40:28+00:00",
-      "author": "Latent.Space",
-      "summary_raw": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
-      "hero_image": "https://substackcdn.com/image/youtube/w_728,c_limit/akEqiXFo3GM",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "bac92c42699d3975",
-      "title": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
-      "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "published_at": null,
-      "author": "",
-      "summary_raw": "",
-      "hero_image": null,
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
       "category": "labs"
     },
     {
