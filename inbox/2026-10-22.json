@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T04:02:15.447875+00:00",
+  "generated_at": "2026-10-22T09:25:11.521642+00:00",
   "date": "2026-10-22",
-  "article_count_unique": 175,
-  "article_count_raw": 175,
+  "article_count_unique": 176,
+  "article_count_raw": 176,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -67,8 +67,8 @@
     {
       "source_id": "huggingface_blog",
       "status": "ok",
-      "count": 12,
-      "raw_count": 12
+      "count": 11,
+      "raw_count": 11
     },
     {
       "source_id": "import_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,17 +163,113 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
+      "count": 5,
       "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 6,
+      "count": 4,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "c20cd3f72f665ce1",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "published_at": "2026-10-22T08:41:18+00:00",
+      "author": "Tim Rausch",
+      "summary_raw": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "08cfce19ce27f618",
+      "title": "Obří české AI datacentrum bude používat servery vyrobené v Pardubicích a software z Prahy a Brna",
+      "url": "https://www.lupa.cz/aktuality/obri-ceske-ai-datacentrum-bude-pouzivat-servery-vyrobene-v-pardubicich-a-software-z-prahy-a-brna/",
+      "published_at": "2026-10-22T08:20:35+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Potenciální česká AI gigafactory, tedy velké evropské datové centrum pro umělou inteligenci, získala silného partnera. České Radiokomunikace (CRA), které gigafactory mají postavit a provozovat, podepsaly memorandum o spolupráci s francouzskou společností Bull. Ta je v současné době v podstatě jediným vět&#353;ím evropským dodavatelem serverů a clusterů pro AI a superpočítače.",
+      "hero_image": "https://i.iinfo.cz/images/100/ai-server-foxconn-nvidia-vera-rubin-nvl72.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "cb73951b66b5cf63",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "published_at": "2026-10-22T07:51:31+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "8b547830977f110e",
+      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+      "published_at": "2026-10-22T07:42:44+00:00",
+      "author": "",
+      "summary_raw": "The Big Hardening begins",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!Ak4o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f193200-5a32-4d16-8cef-d36ab44b0848_1440x1290.png",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "670efa1eac3b8140",
+      "title": "Češi vylepšili umělou inteligenci od Nvidie. Je méně „žravá“ a zdarma pro všechny",
+      "url": "https://www.lupa.cz/aktuality/cesi-vylepsili-umelou-inteligenci-od-nvidie-je-mene-zrava-a-zdarma-pro-vsechny/",
+      "published_at": "2026-10-22T06:00:40+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Čechům se podařilo vylep&#353;it model umělé inteligence od společnosti Nvidia. Startup BottleCap AI, za kterým stojí Tomá&#353; Mikolov a Jaroslav Beck, upravil jazykový model Nemotron. Tato vylep&#353;ená verze spadá do rodiny modelů ThinkingCap, které Če&#353;i postupně zveřejňují. V rámci série ThinkingCap doposud vy&#353;ly dva upravené modely Qwen od Alibaby, jeden nedávno.",
+      "hero_image": "https://i.iinfo.cz/images/17/bottlecap-ai.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "8cc626a7f18c054a",
+      "title": "Český AI učitel klavíru získal přes 50 milionů. Projekt už dřív podpořil Kyncl z Warner Music nebo Beck z Beat Saberu",
+      "url": "https://www.lupa.cz/aktuality/cesky-ai-ucitel-klaviru-ziskal-pres-50-milionu-projekt-uz-driv-podporil-kyncl-z-warner-music-nebo-beck-z-beat-saberu/",
+      "published_at": "2026-10-22T05:50:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Český startup ArtMaster získal v investičním kole 2,4 milionu dolarů (přes 50 milionů Kč) na dal&#353;í vývoj svého AI učitele hudby jménem Artie. Je to aplikace, která poslouchá hru uživatele a rovnou mu přizpůsobuje výuku. Dosud do firmy poslali peníze například Robert Kyncl, generální ředitel Warner Music Group, nebo Jaroslav Beck, zakladatel hry Beat Saber, kterou převzala společnost Meta. Teď se mezi nové přidává mimo jiné Eli&#353;ka Vorel z Google DeepMindu, která má pozici projektové manažerky Gemini.",
+      "hero_image": "https://i.iinfo.cz/images/48/michal-novak-radim-vysoky-artmaster.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "992dd15c69b04c9b",
+      "title": "Česká Photopea má milion spuštění denně. Množící se AI klony Photoshopu zatím uživatele nepřetahují",
+      "url": "https://www.lupa.cz/clanky/ceska-photopea-ma-milion-spusteni-denne-mnozici-se-ai-klony-photoshopu-zatim-uzivatele-nepretahuji/",
+      "published_at": "2026-10-22T04:30:01+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Vývojář populární aplikace Photopea Ivan Kuckir přibližuje, jak se jeho softwaru daří v éře nastupujících klonů Photoshopu vytvořených pomocí umělé inteligence.",
+      "hero_image": "https://i.iinfo.cz/images/35/ivan-kuckir.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "b4d43ea48ba9aafc",
+      "title": "Všichni píšou, jak jim AI mění život, ale málokdo řekne jak. Tady je můj systém, kterým krotím inboxy i úkoly",
+      "url": "https://cc.cz/vsichni-pisou-jak-jim-ai-meni-zivot-ale-malokdo-rekne-jak-tady-je-muj-system-kterym-krotim-inboxy-i-ukoly/",
+      "published_at": "2026-10-22T04:15:12+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Ráno už svoje kapacity nevěnuji čištění schránek, ale práci. Umělá inteligence totiž vyřešila slabé místo mého systému produktivity. Článek Všichni píšou, jak jim AI mění život, ale málokdo řekne jak. Tady je můj systém, kterým krotím inboxy i úkoly se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/claudeboy-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "0818aed5666b589b",
       "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
@@ -660,7 +756,7 @@
       "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
       "published_at": "2026-10-21T21:14:19+00:00",
       "author": "Sarah Perez",
-      "summary_raw": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary_raw": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -1099,6 +1195,18 @@
       "category": "labs"
     },
     {
+      "id": "84a7a40657a0ce8e",
+      "title": "Čuprova nová AI firma se dostala do elitního programu Microsoftu. Z programátorů prý přestanou být programátoři",
+      "url": "https://www.lupa.cz/aktuality/cuprova-nova-ai-firma-se-dostala-do-elitniho-programu-microsoftu-z-programatoru-prestanou-byt-programatori-veri-podnikatel/",
+      "published_at": "2026-10-21T11:41:20+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Společnost Duvo Tomá&#353;e Čupra před pár dny získala novou investici ve vý&#353;i zhruba 700 milionů korun. Nyní hlásí dal&#353;í úspěch. Dostala se do mezinárodního programu Microsoft Pegasus, v rámci něhož jedna z nejhodnotněj&#353;ích firem planety podporuje začínající startupy. Program je primárně na pozvánky.",
+      "hero_image": "https://i.iinfo.cz/images/521/duvo-ai.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
       "id": "00ddb9d1f52e0c3f",
       "title": "Review: Carrie is a triumphant remix with one major flaw",
       "url": "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
@@ -1231,18 +1339,6 @@
       "category": "news"
     },
     {
-      "id": "c8bcf41d0fcc101a",
-      "title": "Restaurační restart podruhé. Známý gastrostartup reaguje na SaaS změny, svěřuje provozy umělé inteligenci",
-      "url": "https://www.lupa.cz/aktuality/restauracni-restart-podruhe-znamy-gastrostartup-sveruje-provozy-umele-inteligenci/",
-      "published_at": "2026-10-21T08:37:26+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Český startup Choice, který funguje v desítkách tisíc restaurací jako technologická platforma pro online objednávky, rezervace a marketing, nově nechá umělou inteligenci provádět změny v provozu. AI bude na pokyn restauratéra sama konat, upraví třeba menu a ceny, spustí marketingovou kampaň nebo vytvoří nový web. Systém zakladatel a &#353;éf Choice Alex Ilyash rozbíhá s mohutnou podporou investice 7,1 milionu dolarů (přes 150 milionů Kč) z leto&#353;ního března a reaguje na změny na SaaS trhu.",
-      "hero_image": "https://i.iinfo.cz/images/175/alex-ilyash-choice.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "dfaf212bcd4c5b87",
       "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
       "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
@@ -1253,30 +1349,6 @@
       "source_id": "wired_ai",
       "source_name": "Wired AI",
       "category": "news"
-    },
-    {
-      "id": "45a7e1d529376b0c",
-      "title": "Umělá inteligence zprznila milované české dílo. Nechutná drzost, komentují AI slop tvůrci známých her",
-      "url": "https://cc.cz/umela-inteligence-zprznila-milovane-ceske-dilo-nechutna-drzost-komentuji-ai-slop-tvurci-znamych-her/",
-      "published_at": "2026-10-21T07:56:31+00:00",
-      "author": "Michal Mančař",
-      "summary_raw": "Vytvořili oblíbené a úspěšné hry jako Machinarium, Samorost, Chuchel či Pilgrims. Teď čeští vývojáři z Amanita Design čelí AI slopu. Článek Umělá inteligence zprznila milované české dílo. Nechutná drzost, komentují AI slop tvůrci známých her se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2023/09/jakub-dvorsky-amanita-815x543.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "ef438a1e92b15522",
-      "title": "S AI appkou učí stovky tisíc lidí hrát na piano. I bez markeťáka mají jejich videa už 100 milionů zhlédnutí",
-      "url": "https://cc.cz/kdysi-si-v-amsterdamske-red-light-district-vydelaval-hranim-dnes-uz-diky-ai-uci-na-piano-stovky-tisic-lidi/",
-      "published_at": "2026-10-21T07:00:39+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "Kdysi si Radim Vysoký v amsterdamské Red Light District vydělával hraním. Dnes už jeho startup ArtMaster díky AI učí na piano stovky tisíc lidí. Článek S AI appkou učí stovky tisíc lidí hrát na piano. I bez markeťáka mají jejich videa už 100 milionů zhlédnutí se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/artmaster-founders-5-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "1cccab2a9afd1376",
@@ -1315,18 +1387,6 @@
       "category": "commentary"
     },
     {
-      "id": "5ca0cfdfa7f1be12",
-      "title": "Čuprová nová AI firma se dostala do elitního programu Microsoftu. Z programátorů prý přestanou být programátoři",
-      "url": "https://www.lupa.cz/aktuality/cuprova-nova-ai-firma-se-dostala-do-elitniho-programu-microsoftu-z-programatoru-prestanou-byt-programatori-veri-podnikatel/",
-      "published_at": "2026-10-21T05:37:20+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Společnost Duvo Tomá&#353;e Čupra před pár dny získala novou investici ve vý&#353;i zhruba 700 milionů korun. Nyní hlásí dal&#353;í úspěch. Dostala se do mezinárodního programu Microsoft Pegasus, v rámci něhož jedna z nejhodnotněj&#353;ích firem planety podporuje začínající startupy. Program je primárně na pozvánky.",
-      "hero_image": "https://i.iinfo.cz/images/521/duvo-ai.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "2009c8ceac3eee52",
       "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
       "url": "https://www.latent.space/p/tenex",
@@ -1349,18 +1409,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "dba9001a1df5ad62",
-      "title": "Jak se staví AI datacentra? Pozemky oceňujeme podle elektřiny, ne podle hektarů, říká Damir Špoljarič",
-      "url": "https://cc.cz/jak-se-stavi-ai-datacentra-pozemky-ocenujeme-podle-elektriny-ne-podle-hektaru-rika-damir-spoljaric/",
-      "published_at": "2026-10-21T04:20:53+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Zakladatel Vshostingu a investiční firmy Gi21 chystá osm datacenter po Evropě. Česko je podle něj kvůli chybějící zelené elektřině v nevýhodě. Článek Jak se staví AI datacentra? Pozemky oceňujeme podle elektřiny, ne podle hektarů, říká Damir Špoljarič se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/damir-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "d99487e28a41ed64",
@@ -1526,18 +1574,6 @@
       "author": "Jennifer Chu",
       "summary_raw": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausanne, Switzerland, have&#8230;",
       "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "109830838fe36cf7",
-      "title": "Here’s the tea",
-      "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
-      "published_at": "2026-10-20T21:00:00+00:00",
-      "author": "Benjamin Daniel",
-      "summary_raw": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after colonial protesters threw tea into&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/label.jpg?w=294",
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
       "category": "news"
@@ -1745,18 +1781,6 @@
       "source_id": "one_useful_thing",
       "source_name": "One Useful Thing (Mollick)",
       "category": "newsletter"
-    },
-    {
-      "id": "b9cb0921c7c868fe",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "published_at": "2026-10-20T15:19:48+00:00",
-      "author": "",
-      "summary_raw": "",
-      "hero_image": null,
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "category": "labs"
     },
     {
       "id": "0f2442bcff96831e",
@@ -2045,18 +2069,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "8e4939ab11bba028",
-      "title": "Apertus 1.5 Release Notes",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "published_at": "2026-10-15T09:08:45+00:00",
-      "author": "",
-      "summary_raw": "",
-      "hero_image": null,
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "category": "labs"
     },
     {
       "id": "0681a3b3c193ab99",
