@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-23",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI připravuje masivní kolo financování ve výši 30 miliard dolarů",
+      "title_orig": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "category": "business",
+      "summary_cs": [
+        "Společnost OpenAI vyjednává o získání investice ve výši 30 miliard dolarů před plánovaným vstupem na burzu.",
+        "To by společnost ohodnotilo na rekordních 1,25 trilionu dolarů a udělalo z ní nejhodnotnější soukromou firmu historie.",
+        "Kolo financování přichází v době masivního nárůstu investic do výpočetní infrastruktury pro pokročilé modely."
+      ],
+      "why_matters": "Extrémní validace AI trhu ukazuje, kam směřují globální investice a budoucí standardy.",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic předává standard Agent Skills otevřené nadaci Agentic AI Foundation",
+      "title_orig": "Donating Agent Skills to the Agentic AI Foundation",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic se rozhodl darovat svůj standard pro schopnosti AI agentů pod nezávislou organizaci Agentic AI Foundation.",
+        "Cílem je zachovat standard otevřený, komunitní a nezávislý na konkrétních dodavatelích.",
+        "K kroku se připojují i další klíčoví hráči, což zrychlí standardizaci autonomních systémů."
+      ],
+      "why_matters": "Předchází uzamčení vývojářů u jednoho dodavatele a sjednocuje vývoj autonomních agentů.",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Pětina českého superpočítačového centra bude stát na technologiích z Pardubic",
+      "title_orig": "Obří české AI datacentrum bude používat servery vyrobené v Pardubicích a software z Prahy a Brna",
+      "category": "business",
+      "summary_cs": [
+        "České Radiokomunikace podepsaly memorandum o spolupráci s evropskou společností Bull na stavbě AI datacentra.",
+        "Projekt počítá s využitím serverů vyrobených přímo v Pardubicích a softwarových řešení z Prahy a Brna.",
+        "Stavba představuje klíčový krok k větší technologické soběstačnosti České republiky a regionu CEE."
+      ],
+      "why_matters": "Posílí výpočetní kapacity pro české firmy i výzkum přímo na domácí půdě.",
+      "url": "https://www.lupa.cz/aktuality/obri-ceske-ai-datacentrum-bude-pouzivat-servery-vyrobene-v-pardubicich-a-software-z-prahy-a-brna/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Čeští výzkumníci vylepšili AI model od Nvidie a vydali ho zdarma",
+      "title_orig": "Češi vylepšili umělou inteligenci od Nvidie. Je méně „žravá“ a zdarma pro všechny",
+      "category": "open-source",
+      "summary_cs": [
+        "Startup BottleCap AI pod vedením Tomáše Mikolova a Jaroslava Becka upravil jazykový model Nemotron od Nvidie.",
+        "Vylepšená verze z rodiny ThinkingCap výrazně snižuje energetické a výpočetní nároky při zachování výkonu.",
+        "Model byl uvolněn zcela zdarma pro širokou veřejnost i komerční použití."
+      ],
+      "why_matters": "České vývojářské špičky ukazují, jak efektivně optimalizovat otevřené AI modely.",
+      "url": "https://www.lupa.cz/aktuality/cesi-vylepsili-umelou-inteligenci-od-nvidie-je-mene-zrava-a-zdarma-pro-vsechny/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "DeepSeek údajně získává 15 miliard dolarů po amerických omezeních",
+      "title_orig": "DeepSeek reportedly raises $15B days after US restrictions",
+      "category": "business",
+      "summary_cs": [
+        "Čínský AI gigant DeepSeek zajistil jedno z největších investičních kol v historii země ve výši 15 miliard dolarů.",
+        "Financování přichází jen několik dní poté, co USA nařídily federálním úřadům odstranit systém ze svých síťových struktur.",
+        "Investice potvrzuje gradující geopolitický souboj o dominanci ve vývoji umělé inteligence."
+      ],
+      "why_matters": "Trh reaguje masivním kapitálem bez ohledu na zpřísňující se restrikce ze strany USA.",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Ponecháni bez instrukcí začali AI agenti na virtuálním ostrově hrát hry",
+      "title_orig": "Left alone with nothing to do, AI agents started playing",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci z MIT umístili 13 AI agentů do simulovaného prostředí bez jasného úkolu či zadání.",
+        "Agenti nečekaně začali sami vyvíjet různé sociální interakce, vymýšlet hry a vyjadřovat emoce.",
+        "Tato spontánní aktivita následně vedla k vyšší efektivitě při plnění pracovních úkolů."
+      ],
+      "why_matters": "Fascinující pohled na emergentní chování autonomních agentů v izolovaném prostředí.",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Uber nasazuje ChatGPT Work pro všech 30 000 zaměstnanců",
+      "title_orig": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "category": "tools",
+      "summary_cs": [
+        "Přepravní gigant Uber rozšiřuje používání nástroje ChatGPT Work z pilotního provozu na celou firmu.",
+        "Více než 30 000 zaměstnanců získá prístup k automatizaci analýzy dat, tvorbě prezentací a komplexních procesů.",
+        "Tento krok představuje dosud největší firemní nasazení enterprise řešení od OpenAI."
+      ],
+      "why_matters": "Příklad masivní transformace firemní produktivity v celosvětovém měřítku.",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "1Password umožňuje AI agentům přihlášení bez znalosti hesel",
+      "title_orig": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "category": "tools",
+      "summary_cs": [
+        "Populární správce hesel 1Password představil bezpečnou funkčnost určenou pro autonomní AI agenty.",
+        "Agenti mohou provádět úkony v uživatelských účtech, aniž by měli přímý přístup k tajným přihlašovacím údajům.",
+        "Systém řeší klíčový bezpečnostní problém při delegování běžných online úkolů na umělou inteligenci."
+      ],
+      "why_matters": "Zásadní inovace pro bezpečné využívání autonomních AI agentů v běžném životě.",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Canva uvádí vlastní model Canva Craft s plánováním designu",
+      "title_orig": "Canva’s first AI image model plans designs before generating them",
+      "category": "tools",
+      "summary_cs": [
+        "Grafická platforma Canva spustila vlastní generativní obrazový model nazvaný Canva Craft.",
+        "Model využívá dvoustupňovou architekturu, která nejprve naplánuje rozvržení designu a až poté generuje obraz.",
+        "Novinka přináší vyšší přesnost a konzistenci výstupů přímo v uživatelském rozhraní."
+      ],
+      "why_matters": "Přímá konkurence pro OpenAI či Midjourney přináší lepší kontrolu nad sazbou grafiky.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Český startup ArtMaster získal přes 50 milionů korun na AI učitele hudby",
+      "title_orig": "Český AI učitel klavíru získal přes 50 milionů. Projekt už dřív podpořil Kyncl z Warner Music nebo Beck z Beat Saberu",
+      "category": "wildcard",
+      "summary_cs": [
+        "Projekt ArtMaster získal investici 2,4 milionu dolarů na další rozvoj své aplikace Artie.",
+        "Aplikace v reálném čase poslouchá hru uživatele a adaptivně přizpůsobuje hudební výuku.",
+        "Mezi investory figurují známá jména jako šéf Warner Music Robert Kyncl či vývojář Jaroslav Beck."
+      ],
+      "why_matters": "Ukázka úspěšného českého edtech projektu se silnou globální podporou.",
+      "url": "https://www.lupa.cz/aktuality/cesky-ai-ucitel-klaviru-ziskal-pres-50-milionu-projekt-uz-driv-podporil-kyncl-z-warner-music-nebo-beck-z-beat-saberu/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 11,
+      "title_cs": "OpenAI spouští rozhraní Decisions API pro rychlé a levné rozhodování",
+      "title_orig": "Build more responsive apps with the Decisions API",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zpřístupnila nové API zaměřené na strukturované a rychlé rozhodovací úlohy.",
+        "Služba konkuruje specializovaným modelům a výrazně snižuje finanční i časové náklady na inferenci.",
+        "Vývojáři tak mohou stavět responzivnější aplikace bez nutnosti volat velké a drahé LLM modely."
+      ],
+      "why_matters": "Umožní stavět levnější a extrémně rychlé AI aplikace zaměřené na logické volby.",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Microsoft tvrdí, že jeho AI diagnostika překonává lékaře v těžkých případech",
+      "title_orig": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "category": "research",
+      "summary_cs": [
+        "Diagnostický systém od Microsoftu dosáhl v lékařských testech vyšší přesnosti než všeobecní lékaři.",
+        "Výzkum publikovaný v časopise Science ukazatelně ukázal pokrok v oblasti komplexních medicínských diagnóz.",
+        "Analytici však upozorňují, že výkon z velké části závisí na kvalitě podkladových modelů."
+      ],
+      "why_matters": "Zdravotnictví se stává hlavní frontou pro nasazení pokročilé umělé inteligence.",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Hackeři zneužili AI k prolomení zabezpečení konzole Nintendo Switch 2",
+      "title_orig": "Someone hacked the Switch 2 by using an old game and AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Kombinací známé chyby v interpretačním softwaru a pokročilého kódování pomocí AI byla prolomena konzole Switch 2.",
+        "Nástroj OpenAI Codex asistoval při vytvoření funkčního průlomu, který umožňuje spouštět neoficiální kód.",
+        "Případ demonstruje, jak generativní modely zrychlují nalézání a zneužívání bezpečnostních trhlin."
+      ],
+      "why_matters": "AI zjednodušuje revizní inženýrství a hrozí zrychlením vývoje hrozeb pro hardware.",
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "OpenAI a Anthropic utratily rekordní částky za lobbing v USA",
+      "title_orig": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "category": "business",
+      "summary_cs": [
+        "Přední technologické firmy vykázaly za poslední čtvrtletí historicky nejvyšší výdaje na lobbing ve Washingtonu.",
+        "Nvidia utratila 2,2 milionu dolarů, zatímco Anthropic a OpenAI vydaly miliony na ovlivnění regulace.",
+        "Snaha firem směřuje k formování chystané legislativy týkající se bezpečnosti a vývozu AI."
+      ],
+      "why_matters": "Regulace AI vstupuje do kritické fáze, kde giganti aktivně usilují o pravidla na míru.",
+      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Hugging Face představuje otevřený model pro analýzu lidské DNA",
+      "title_orig": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "category": "open-source",
+      "summary_cs": [
+        "Na platformě Hugging Face byl vydán nový otevřený AI model zaměřený na biologický výzkum.",
+        "Nástroj dokáže interpretovat strukturu DNA a pomáhá vědcům předpovídat dopady genetických změn na zdraví.",
+        "Otevřený přístup má zrychlit výzkum vzácných chorob i vývoj nových léčiv."
+      ],
+      "why_matters": "Otevřené biologické modely demokratizují přístup ke špičkovému vědeckému výzkumu.",
+      "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "source": "Wired AI"
+    }
+  ]
+}
