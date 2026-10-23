@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T04:02:08.323548+00:00",
+  "generated_at": "2026-10-23T09:21:18.807469+00:00",
   "date": "2026-10-23",
-  "article_count_unique": 174,
-  "article_count_raw": 174,
+  "article_count_unique": 173,
+  "article_count_raw": 173,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "wired_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 17,
-      "raw_count": 17
+      "count": 18,
+      "raw_count": 18
     },
     {
       "source_id": "anthropic_news",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,17 +163,77 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 4,
-      "raw_count": 13
+      "count": 6,
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "4861043be4188f97",
+      "title": "In the biotech world, you can’t see everything",
+      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "author": "Jessica Hamzelou",
+      "summary_raw": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "83a0785bd4a704da",
+      "title": "Zatímco se řešily chyby v PHP, útočníci propašovali malware do oblíbené open-source knihovny",
+      "url": "https://www.lupa.cz/aktuality/zatimco-se-resily-chyby-v-php-utocnici-propasovali-malware-do-oblibene-open-source-knihovny/",
+      "published_at": "2026-10-23T07:23:03+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Během dění kolem kritické zranitelnosti v PHP se útočníci pokusili zneužít dal&#353;í roz&#353;ířený nástroj, upozorňuje kyberbezpečnostní startup Aisle, který založili Ondřej Vlček, Stanislav Fort a Jaya Ballo. Podle firmy se podařilo dostat &#353;kodlivý kód do nové verze knihovny LiteLLM pro Python, kterou vývojáři používají při práci s modely umělé inteligence a která má přes 20 milionů stažení týdně. Malware měl krást přístupové údaje a umožnit útočníkům vzdáleně spou&#353;tět vlastní příkazy. Napadení potvrdili i tvůrci Lite LLM, kteří zveřejnili také dal&#353;í podrobnosti.",
+      "hero_image": "https://i.iinfo.cz/images/112/data-unik-dat-bezpecnost-kyberkriminalita.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "3ea93edfaf1fd13b",
+      "title": "Tomáš Čupr (SEO Consult): E-shop, který netvoří obsah, má téměř jistotu, že ho AI nenajde",
+      "url": "https://www.lupa.cz/clanky/tomas-cupr-seo-consult-e-shop-ktery-netvori-obsah-ma-temer-jistotu-ze-ho-ai-nenajde/",
+      "published_at": "2026-10-23T04:30:01+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Vaca)",
+      "summary_raw": "Agentní nakupování je v Česku na začátku, ale e-shopy by neměly čekat. Marketér Tomáš Čupr vysvětluje, proč na datech a obsahu záleží víc než dřív a kdy za nás začne umělá inteligence platit.",
+      "hero_image": "https://i.iinfo.cz/images/369/tomas-cupr-seoconsult.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "04e9c37f19cef20e",
+      "title": "Nvidia používá špičkové technologie z ČR, za kolik Onsemi koupila procesory z Brna, AI počítač na Měsíci",
+      "url": "https://www.lupa.cz/clanky/nvidia-pouziva-spickove-technologie-z-cr-za-kolik-onsemi-koupila-procesory-z-brna-ai-pocitac-na-mesici/",
+      "published_at": "2026-10-23T04:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Radost z konce Orbánovy korupce v IT zakázkách. Nový AI model Nvidia. Grafické karty AMD zdraží. Intel to se zakázkovou výrobou zase nezvládl. Zprávy z technologií, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/340/cyberpunk-edgerunners-2.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "bdf822de555e0ac9",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "published_at": "2026-10-23T04:00:00+00:00",
+      "author": "Jagmeet Singh",
+      "summary_raw": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
     {
       "id": "1cd5a59a0e2052e3",
       "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
@@ -545,6 +605,18 @@
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
       "category": "news"
+    },
+    {
+      "id": "48c74d8e9b20e29d",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
     },
     {
       "id": "caf215b4636e5f5c",
@@ -1327,18 +1399,6 @@
       "category": "labs"
     },
     {
-      "id": "8cc626a7f18c054a",
-      "title": "Český AI učitel klavíru získal přes 50 milionů. Projekt už dřív podpořil Kyncl z Warner Music nebo Beck z Beat Saberu",
-      "url": "https://www.lupa.cz/aktuality/cesky-ai-ucitel-klaviru-ziskal-pres-50-milionu-projekt-uz-driv-podporil-kyncl-z-warner-music-nebo-beck-z-beat-saberu/",
-      "published_at": "2026-10-22T05:50:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Český startup ArtMaster získal v investičním kole 2,4 milionu dolarů (přes 50 milionů Kč) na dal&#353;í vývoj svého AI učitele hudby jménem Artie. Je to aplikace, která poslouchá hru uživatele a rovnou mu přizpůsobuje výuku. Dosud do firmy poslali peníze například Robert Kyncl, generální ředitel Warner Music Group, nebo Jaroslav Beck, zakladatel hry Beat Saber, kterou převzala společnost Meta. Teď se mezi nové přidává mimo jiné Eli&#353;ka Vorel z Google DeepMindu, která má pozici projektové manažerky Gemini.",
-      "hero_image": "https://i.iinfo.cz/images/48/michal-novak-radim-vysoky-artmaster.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "992dd15c69b04c9b",
       "title": "Česká Photopea má milion spuštění denně. Množící se AI klony Photoshopu zatím uživatele nepřetahují",
       "url": "https://www.lupa.cz/clanky/ceska-photopea-ma-milion-spusteni-denne-mnozici-se-ai-klony-photoshopu-zatim-uzivatele-nepretahuji/",
@@ -1348,18 +1408,6 @@
       "hero_image": "https://i.iinfo.cz/images/35/ivan-kuckir.jpg",
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "b4d43ea48ba9aafc",
-      "title": "Všichni píšou, jak jim AI mění život, ale málokdo řekne jak. Tady je můj systém, kterým krotím inboxy i úkoly",
-      "url": "https://cc.cz/vsichni-pisou-jak-jim-ai-meni-zivot-ale-malokdo-rekne-jak-tady-je-muj-system-kterym-krotim-inboxy-i-ukoly/",
-      "published_at": "2026-10-22T04:15:12+00:00",
-      "author": "Ondřej Holzman",
-      "summary_raw": "Ráno už svoje kapacity nevěnuji čištění schránek, ale práci. Umělá inteligence totiž vyřešila slabé místo mého systému produktivity. Článek Všichni píšou, jak jim AI mění život, ale málokdo řekne jak. Tady je můj systém, kterým krotím inboxy i úkoly se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/claudeboy-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
       "category": "cz"
     },
     {
@@ -1555,18 +1603,6 @@
       "category": "labs"
     },
     {
-      "id": "039507bf13942c42",
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "published_at": "2026-10-21T17:18:27+00:00",
-      "author": "Dominic-Madori Davis",
-      "summary_raw": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "a3c14414589a188f",
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
       "url": "https://openai.com/index/att-legal",
@@ -1721,42 +1757,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "3211245dc46b74b8",
-      "title": "We can do impossible things",
-      "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-      "published_at": "2026-10-21T09:00:00+00:00",
-      "author": "Corinne Iozzio",
-      "summary_raw": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”&#160; I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "191311936b852906",
-      "title": "Nuclear-powered spaceships",
-      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-      "published_at": "2026-10-21T09:00:00+00:00",
-      "author": "Robin George Andrews",
-      "summary_raw": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 2029. A successful mission would herald a new era&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-24.svg",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "2982ad5bb078f34d",
-      "title": "Exercise in a pill",
-      "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
-      "published_at": "2026-10-21T09:00:00+00:00",
-      "author": "Cassandra Willyard",
-      "summary_raw": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to bring its upsides to people who&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/purple-20.svg",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
     },
     {
       "id": "1cccab2a9afd1376",
@@ -2033,18 +2033,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "be145162cd759f97",
-      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
-      "published_at": "2026-10-16T04:16:45+00:00",
-      "author": "",
-      "summary_raw": "Nick Cammarata out of nowhere with some major claims!",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!riZI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50483d29-b6d4-485b-b93a-5b6a14e29ce6_2028x1228.png",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "0681a3b3c193ab99",
