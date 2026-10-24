@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-24",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI zcela odpojuje trénink pokročilých AI modelů od živého internetu",
+      "title_orig": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI z bezpečnostních důvodů přechází na kompletně izolované tréninkové prostředí bez přístupu k živému internetu.",
+        "Reaguje tím na nedávné incidenty a rizika spojená s autonomním chováním modelů a hekerskými útoky.",
+        "Nové modely budou pracovat výhradně s indexovaným a kešovaným obsahem v bezpečně odděleném prostředí."
+      ],
+      "why_matters": "Zásadní posun v bezpečnosti AI vývoje mění způsob, jakým lídři trhu trénují autonomní systémy.",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Čínský Moonshot uvádí model Kimi K3.1 Pro s příslibem otevření vah",
+      "title_orig": "Introducing Kimi K3.1 Pro",
+      "category": "open-source",
+      "summary_cs": [
+        "Čínský startup Moonshot zpřístupnil v API nový model Kimi K3.1 Pro a verzi Highspeed s vyšší rychlostí.",
+        "Společnost přislíbila plné vydání vah modelu jako open-source do začátku listopadu 2026.",
+        "Čínská open-source scéna tak dále stupňuje tlak na západní vývojáře pokročilých LLM."
+      ],
+      "why_matters": "Plánované otevření vah výkonného modelu znamená další silnou konkurenci pro západní uzavřené systémy.",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI detailně popisuje zabezpečení prostředí pro trénink frontier modelů",
+      "title_orig": "Securing our frontier model training environment",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zveřejnila technické detaily o posílení izolace tréninkových a evaluačních prostředí pro nejvýkonnější modely.",
+        "Součástí bezpečnostních opatření je i rozsáhlé testování red-teamingem na vysokém výpočetním výkonu.",
+        "Opatření mají zabránit nechtěnému úniku dat i zneužití autonomních vlastností agentů."
+      ],
+      "why_matters": "Ukazuje standardy kyberbezpečnosti, které budou muset brzy přijmout i další firmy vyvíjející AI.",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Česká bezpečnostní firma Aisle odhalila malware v populární knihovně LiteLLM",
+      "title_orig": "Zatímco se řešily chyby v PHP, útočníci propašovali malware do oblíbené open-source knihovny",
+      "category": "news",
+      "summary_cs": [
+        "Kyberbezpečnostní startup Aisle odhalil škodlivý kód v nové verzi populární Python knihovny LiteLLM.",
+        "Útočníci využili pozornosti věnované zranitelnostem v PHP a pokusili se napadnout dodavatelský řetězec software.",
+        "Incident zdůrazňuje rostoucí rizika spojená se zabezpečením open-source nástrojů pro AI vývojáře."
+      ],
+      "why_matters": "Varovný signál pro české vývojáře využívající open-source knihovny k integraci AI modelů.",
+      "url": "https://www.lupa.cz/aktuality/zatimco-se-resily-chyby-v-php-utocnici-propasovali-malware-do-oblibene-open-source-knihovny/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI a Polsko spojují síly v oblasti bezpečnosti a výzkumu AI",
+      "title_orig": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "category": "business",
+      "summary_cs": [
+        "OpenAI uzavřela partnerství s polskou výzkumnou institucí NASK zaměřené na bezpečnost a kybernetickou ochranu.",
+        "Spolupráce má posílit digitální rezilienci a bezpečnostní záruky v evropském regionu.",
+        "Jedná se o jeden z prvních přímých bezpečnostních paktů OpenAI se státní výzkumnou institucí v CEE."
+      ],
+      "why_matters": "Strategická spolupráce v sousedním Polsku ukazuje rostoucí význam střední Evropy pro globální AI hráče.",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Startup Block Jacka Dorseyho představil konverzační model Dessa",
+      "title_orig": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "category": "tools",
+      "summary_cs": [
+        "Fintech společnost Block vytvořila nový AI model Dessa trénovaný čistě na přirozených lidských konverzacích.",
+        "Model vykazuje neobvykle autentický a lidský projev, včetně občasné rozpačitosti a neformálního tónu.",
+        "Projekt zkoumá nové způsoby interakce mezi člověkem a AI bez škrobené syntetické stylizace."
+      ],
+      "why_matters": "Zajímavý posun k přirozenější komunikaci AI, který může změnit podobu zákaznických služeb a asistentů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Google mění zásady ochrany soukromí u služeb Gmail a Fotky pro cílení reklam",
+      "title_orig": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "category": "business",
+      "summary_cs": [
+        "Google upravil podmínky ochrany soukromí v souvislosti s aktivací nových personalizovaných AI funkcí.",
+        "Pokud uživatelé zapnou AI funkce Personal Intelligence, může Google jejich data využít k přesnějšímu cílení reklam.",
+        "Tento krok vyvolává nové obavy ohledně zpracování citlivých osobních dat v éře generativní AI."
+      ],
+      "why_matters": "Dopadne na miliony uživatelů v ČR, kteří využívají ekosystém Google a jeho nové AI funkce.",
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Matematické schopnosti AI se rychle zlepšují díky novým postupům",
+      "title_orig": "AI Is Getting Good at Math. Here’s Why.",
+      "category": "research",
+      "summary_cs": [
+        "Nová analýza ukazuje vzorce stojící za úspěchem AI modelů při řešení složitých matematických úloh.",
+        "Pokrok je dán kombinací pokročilého uvažování v krokovém řetězci a specializovaného RL tréninku.",
+        "Pochopení těchto mechanismů umožňuje lépe předvídat, které vědecké problémy AI vyřeší příště."
+      ],
+      "why_matters": "Schopnost AI spolehlivě počítat je klíčová pro její nasazení ve inženýrství, financích a vědě.",
+      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Meta odkládá nové obchodní podmínky po protestech vydavatelů proti vytěžování dat",
+      "title_orig": "Meta delays new business terms after publisher pushback on AI scraping",
+      "category": "business",
+      "summary_cs": [
+        "Meta posunula účinnost svých nových obchodních podmínek na druhou polovinu listopadu.",
+        "Důvodem byl silný odpor zpravodajských vydavatelů, kteří se obávali nekontrolovaného sběru dat pro trénink AI.",
+        "Spor ukazuje na trvající napětí mezi technologickými giganty a vlastníky autorských práv."
+      ],
+      "why_matters": "Důležitý precedent pro ochranu autorských práv médií před neautorizovaným trénováním AI.",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "OpenAI vysvětluje skálování databází pro stovky milionů uživatelů ChatGPT",
+      "title_orig": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zveřejnila druhou část technického rozboru infrastruktury stojící za provozem ChatGPT.",
+        "Pomocí systému Habitat a Azure Cosmos DB dosáhla firma 12násobného zrychlení čtení dat.",
+        "Inženýrský přístup ukazuje, jak spravovat extrémní datovou zátěž u globálně rozšířených AI aplikací."
+      ],
+      "why_matters": "Cenný technický vhled pro vývojáře a architekty stavějící rozsáhlé cloudové systémy.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Český e-shop bez kvalitního obsahu AI agenty osloven nebude, varuje odborník",
+      "title_orig": "Tomáš Čupr (SEO Consult): E-shop, který netvoří obsah, má téměř jistotu, že ho AI nenajde",
+      "category": "wildcard",
+      "summary_cs": [
+        "Nástup agentního nakupování zásadně mění pravidla e-commerce a vyhledávání produktů.",
+        "E-shopy bez strukturovaných dat a kvalitního obsahu riskují, že je AI nakupující zcela přehlédnou.",
+        "Příprava na autonomní AI zákazníky se stává klíčovou prioritou pro online obchodníky."
+      ],
+      "why_matters": "Praktické varování a strategie pro české e-shopy, jak neztratit zákazníky v éře AI nákupních agentů.",
+      "url": "https://www.lupa.cz/clanky/tomas-cupr-seo-consult-e-shop-ktery-netvori-obsah-ma-temer-jistotu-ze-ho-ai-nenajde/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Lidé hledají u AI emoční podporu, ze společníků vzniká miliardový byznys",
+      "title_orig": "Svěřují mu svá největší tajemství. Roztomilý mimozemšťan mění lidské emoce v miliardový byznys",
+      "category": "wildcard",
+      "summary_cs": [
+        "Rostoucí počet uživatelů se obrací na AI společníky s cílem získat emoční podporu a porozumění.",
+        "Startup Tolan vyvíjí virtuálního společníka a ukazuje komerční potenciál empatičtějších AI rozhraní.",
+        "Odvětví emoční AI přitahuje značný kapitál, ale přináší i nové etické a společenské otázky."
+      ],
+      "why_matters": "Ukazuje nový společenský trend i byznysovou příležitost v oblasti osobních AI společníků.",
+      "url": "https://cc.cz/sveruji-mu-sva-nejvetsi-tajemstvi-roztomily-mimozemstan-meni-lidske-emoce-v-miliardovy-byznys/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 13,
+      "title_cs": "LitPivot usnadňuje vědcům rozvíjení výzkumných nápadů pomocí AI",
+      "title_orig": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "category": "tools",
+      "summary_cs": [
+        "Projekt LitPivot představuje nový způsob, jakým mohou výzkumníci zasadit své nápady do kontextu vědecké literatury.",
+        "Nástroj pomáhá identifikovat mezery ve výzkumu a navrhovat nové hypotézy na základě existujících prací.",
+        "Urychluje tak úvodní fáze vědeckého výzkumu a analýzu odborných publikací."
+      ],
+      "why_matters": "Užitečný nástroj pro akademiky a výzkumníky k efektivnější práci s vědeckými publikacemi.",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Nvidia ukázala roztomilé roboty Microduck, tisíce kusů se ihned vyprodaly",
+      "title_orig": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "category": "news",
+      "summary_cs": [
+        "Šéf Nvidie předvedl malé interaktivní roboty Microduck, kteří reagují na hlasové příkazy a dělají kotrmelce.",
+        "Během krátké chvíle se vyprodalo všech 20 000 vyrobených kusů tohoto roztomilého zařízení.",
+        "Ukázka demonstruje rostoucí popularitu fyzické AI a malé spotřební robotiky."
+      ],
+      "why_matters": "Příklad toho, jak se fyzická AI a robotika rychle dostávají do běžného spotřebního průmyslu.",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Retro herní scéna zažívá záplavu AI projektů a neobvyklých portů",
+      "title_orig": "Retro gaming is being overrun with AI",
+      "category": "news",
+      "summary_cs": [
+        "Nové AI nástroje umožňují vývojářům extrémně rychle portovat klasické hry na neobvyklá zařízení.",
+        "Na webu či v herních brýlích se objevují projekty jako Halo či Super Smash Bros vytvořené s pomocí AI.",
+        "Generativní nástroje radikálně snižují bariéru pro úpravy a tvorbu herního obsahu."
+      ],
+      "why_matters": "Ukázka toho, jak dostupná AI mění komunitní vývoj her a kreativní software.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "source": "The Verge AI"
+    }
+  ]
+}
