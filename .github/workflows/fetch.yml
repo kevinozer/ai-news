@@ -53,3 +53,26 @@ jobs:
             git commit -m "chore(inbox): nightly fetch $DATE"
             git push
           fi
+
+  hub-report:
+    # Stav běhu do interního hubu CRUZ (červený vykřičník u projektu + zvoneček).
+    # Bez tajných klíčů: hub ověří OIDC token tohoto workflow (audience cruz-hub).
+    name: Hlášení do hubu CRUZ
+    needs: [fetch]
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    permissions:
+      id-token: write
+    steps:
+      - name: Poslat stav do hubu
+        continue-on-error: true
+        env:
+          FAILED: ${{ contains(needs.*.result, 'failure') }}
+        run: |
+          TOKEN=$(curl -sS -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=cruz-hub" | jq -r .value)
+          if [ "$FAILED" = "true" ]; then OK=false; else OK=true; fi
+          jq -n --argjson ok "$OK" --arg s "$GITHUB_WORKFLOW" --arg u "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            '{project:"AI novinky", match:["ai news","ai-news","novinky"], ok:$ok, source:("ai-news · " + $s), url:$u, message:("GitHub Actions: " + $s + " skončil chybou")}' \
+          | curl -sS -m 20 -X POST https://marketplace-template-demo.netlify.app/api/project-alert \
+              -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" --data @-

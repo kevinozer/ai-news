@@ -1,0 +1,23 @@
+name: Test hlášení do hubu CRUZ
+
+# Ověří spojení s interním hubem (OIDC token → /api/project-alert) bez spouštění
+# pipeline. Běží jen při změně tohoto souboru nebo ručně. Nic nemění.
+on:
+  push:
+    paths: [".github/workflows/hub-alert-test.yml"]
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Poslat "vše v pořádku" do hubu
+        run: |
+          TOKEN=$(curl -sS -H "Authorization: bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=cruz-hub" | jq -r .value)
+          jq -n '{project:"AI novinky", match:["ai news","ai-news","novinky"], ok:true, source:"ai-news · test spojení"}' \
+          | curl -sS --fail-with-body -m 20 -X POST https://marketplace-template-demo.netlify.app/api/project-alert \
+              -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" --data @-
