@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T05:02:15.843806+00:00",
+  "generated_at": "2026-10-25T09:09:48.507269+00:00",
   "date": "2026-10-25",
-  "article_count_unique": 106,
-  "article_count_raw": 106,
+  "article_count_unique": 104,
+  "article_count_raw": 104,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "wired_ai",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 1,
-      "raw_count": 9
+      "count": 0,
+      "raw_count": 6
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "28e5d04aaa142fb7",
+      "title": "Směje se uprostřed věty a mluví jako člověk. Jack Dorsey ukázal hlasovou AI, která se učila jen posloucháním",
+      "url": "https://cc.cz/smeje-se-uprostred-vety-a-mluvi-jako-clovek-jack-dorsey-ukazal-hlasovou-ai-ktera-se-ucila-jen-poslouchanim/",
+      "published_at": "2026-10-25T07:56:17+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Společnost Block zakladatele Twitteru vyvinula hlasový model Dessa, který poslouchá a mluví zároveň. Slyší emoce a nikdy neviděl psané slovo. Článek Směje se uprostřed věty a mluví jako člověk. Jack Dorsey ukázal hlasovou AI, která se učila jen posloucháním se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/dorsey-dessa-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "c809667d6fecd6bd",
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
@@ -607,18 +619,6 @@
       "category": "news"
     },
     {
-      "id": "934e5ec048a18a2f",
-      "title": "Svěřují mu svá největší tajemství. Roztomilý mimozemšťan mění lidské emoce v miliardový byznys",
-      "url": "https://cc.cz/sveruji-mu-sva-nejvetsi-tajemstvi-roztomily-mimozemstan-meni-lidske-emoce-v-miliardovy-byznys/",
-      "published_at": "2026-10-23T13:06:19+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Lidé stále častěji hledají emoční podporu u umělé inteligence. Startupy na tom staví byznys, mezi nimi i Tolan se svým roztomilým společníkem. Článek Svěřují mu svá největší tajemství. Roztomilý mimozemšťan mění lidské emoce v miliardový byznys se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/tolan-1-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "67b36e120ccc891a",
       "title": "The Download: testing six tech promises and biotech’s blind spots",
       "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
@@ -701,30 +701,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "4861043be4188f97",
-      "title": "In the biotech world, you can’t see everything",
-      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-      "published_at": "2026-10-23T09:00:00+00:00",
-      "author": "Jessica Hamzelou",
-      "summary_raw": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new information this film could reveal, given&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "83a0785bd4a704da",
-      "title": "Zatímco se řešily chyby v PHP, útočníci propašovali malware do oblíbené open-source knihovny",
-      "url": "https://www.lupa.cz/aktuality/zatimco-se-resily-chyby-v-php-utocnici-propasovali-malware-do-oblibene-open-source-knihovny/",
-      "published_at": "2026-10-23T07:23:03+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Během dění kolem kritické zranitelnosti v PHP se útočníci pokusili zneužít dal&#353;í roz&#353;ířený nástroj, upozorňuje kyberbezpečnostní startup Aisle, který založili Ondřej Vlček, Stanislav Fort a Jaya Ballo. Podle firmy se podařilo dostat &#353;kodlivý kód do nové verze knihovny LiteLLM pro Python, kterou vývojáři používají při práci s modely umělé inteligence a která má přes 20 milionů stažení týdně. Malware měl krást přístupové údaje a umožnit útočníkům vzdáleně spou&#353;tět vlastní příkazy. Napadení potvrdili i tvůrci Lite LLM, kteří zveřejnili také dal&#353;í podrobnosti.",
-      "hero_image": "https://i.iinfo.cz/images/112/data-unik-dat-bezpecnost-kyberkriminalita.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "48c74d8e9b20e29d",
