@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-25",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Studie odhaluje politické předsudky u modelů Grok a ChatGPT",
+      "title_orig": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "category": "news",
+      "summary_cs": [
+        "Nová studie testovala chování AI modelů při volbě mezi politickými kandidáty ve stovkách volebních klání.",
+        "Model Grok výrazně upřednostňoval republikánské kandidáty, zatímco systémy od OpenAI stranily demokratům.",
+        "Oba hlavní modely se neshodly ve více než 90 % z téměř pěti set testovaných volebních soubojů."
+      ],
+      "why_matters": "Ukazuje, jak výrazné politické odchylky mohou ovlivňovat generování odpovědí pro miliony uživatelů.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Pensylvánie schválila zákon vyžadující označování reklamy vytvořené AI",
+      "title_orig": "Pennsylvania will require labels on AI-generated ads",
+      "category": "business",
+      "summary_cs": [
+        "Guvernér Pensylvánie podepsal zákon zaměřený na potírání klamavé reklamy vytvořené pomocí umělé inteligence.",
+        "Nová legislativa požaduje jasné upozornění u všech obrázků, videí, zvuku i textů podstatně upravených AI.",
+        "Jde o další významný krok amerických států k regulaci syntetického obsahu v komerční sféře."
+      ],
+      "why_matters": "Právní regulace označování AI obsahu se rychle stává globálním standardem i pro evropské firmy.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI využívá tisíce AI agentů k objevování nových poznatků v biologii",
+      "title_orig": "Using thousands of AI agents to uncover new leads in biological data",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI ve spolupráci s výzkumnými ústavy nasadila distribuovanou síť autonomních AI agentů na biologická data.",
+        "Systém dokázal analyzovat milionové vzorky mozkových buněk a vyhledat slibné cesty pro navazující výzkum.",
+        "Nasazení ukazuji sílu agentních systémů při zrychlování vědeckého výzkumu a vývoje nových léčiv."
+      ],
+      "why_matters": "Demonstruje praktické využití agentní AI k řešení komplexních vědeckých problémů.",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Google DeepMind vydává detailní globální mapu lesních ekosystémů",
+      "title_orig": "Beyond tree cover: mapping the world’s forest types",
+      "category": "labs",
+      "summary_cs": [
+        "Google DeepMind představil nový AI model schopný kategorizovat typy lesního porostu po celém světě.",
+        "Mapa rozlišuje jednotlivé druhy lesních ekosystémů na plochách o rozlišení pouhých deseti metrů.",
+        "Nástroj pomůže vědcům i ekologům přesněji sledovat změny krajiny a dopady klimatických změn."
+      ],
+      "why_matters": "Poskytuje volně přístupná přesná data pro ekologický výzkum a monitorování krajiny.",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Hráči propojují světy oblíbených her s pomocí umělé inteligence",
+      "title_orig": "Co kdyby se dvě oblíbené hry spojily v jednu? Hráči to zkoušejí pomocí umělé inteligence",
+      "category": "wildcard",
+      "summary_cs": [
+        "Komunita herních nadšenců generuje prostředí a postavy spojující různé slavné herní tituly.",
+        "Pomocí pokročilých AI modelů vznikají neobvyklé kombinace vizuálů i herních mechanik.",
+        "Projekt ukazuje rostoucí potenciál AI při zjednodušování moddingu a tvorby herního obsahu."
+      ],
+      "why_matters": "Ukazuje nový trend využití AI v herním průmyslu přímo koncovými uživateli.",
+      "url": "https://cc.cz/co-kdyby-se-dve-oblibene-hry-spojily-v-jednu-hraci-to-zkouseji-pomoci-umele-inteligence/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Reklamy v ChatGPT se rozšiřují do 26 nových zemí",
+      "title_orig": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "category": "business",
+      "summary_cs": [
+        "OpenAI spouští svůj reklamní systém v dalších desítkách zemí po celém světě.",
+        "Platformu pro propagaci v konverzačním rozhraní již vyzkoušelo více než sto tisíc inzerentů.",
+        "Firma tak dále diverzifikuje své příjmy vedle klasického předplatného a API rozhraní."
+      ],
+      "why_matters": "Představuje důležitý posun v monetizaci AI služeb s přímým dopadem na online marketing.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Přehled nejzajímavějších AI agentů integrovaných přímo v SMS správách",
+      "title_orig": "Here are the top AI agents that can live in your text messages",
+      "category": "tools",
+      "summary_cs": [
+        "Na trhu přibývá osobních AI asistentů dostupných přes běžné textové zprávy bez nutnosti instalace aplikací.",
+        "Nové služby se zaměřují na rodinné plánování, organizaci cestování nebo pracovní úkoly.",
+        "Tento přístup výrazně snižuje bariéru pro běžné uživatele, kteří nechtějí používat složitá rozhraní."
+      ],
+      "why_matters": "Usnadňuje přístup k AI asistentům široké veřejnosti prostřednictvím známých komunikačních kanálů.",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Hřbitov AI projektů připomíná neúspěšné startupy i zrušené produkty",
+      "title_orig": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "category": "business",
+      "summary_cs": [
+        "Vznikl aktualizovaný přehled nadějných AI projektů a startupů, které nedokázaly naplnit očekávání.",
+        "Seznam zahrnuje jak zrušené interní iniciativy velkých technologických firem, tak zkrachovalé firmy.",
+        "Analýza selhání ukazuji, že samotná AI technologie bez udržitelného byznys modelu nestačí."
+      ],
+      "why_matters": "Užitečná náplň pro zakladatele a investory ukazující realitu trhu po prvním AI boomu.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Anthropic posiluje obranu svých modelů proti destilačním útokům",
+      "title_orig": "Strengthening our defenses against distillation attacks",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic zavádí nová opatření proti neoprávněnému stahování dat ze svých pokročilých modelů.",
+        "Destilační útoky slouží konkurenci k levnému trénování vlastních modelů na výstupech Claude.",
+        "Firma kombinuje detekci podezřelých dotazů s úpravou odpovědí k ochraně duševního vlastnictví."
+      ],
+      "why_matters": "Klíčové téma ochrany know-how v souboji mezi předními vývojáři AI modelů.",
+      "url": "https://www.anthropic.com/news/distillation-defenses",
+      "source": "Anthropic News"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Dokumentární seriál Blue Planet III záměrně ponechává nedokonalé záběry",
+      "title_orig": "Blue Planet III is keeping the rough edges in the age of AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "BBC se rozhodla v chystané sérii Blue Planet III ponechat záběry s drobnými vizuálními chybami.",
+        "Reaguje tím na éru AI, kde dokonalost a přehnaná vyhlazenost často vyvolávají podezření z podvrhu.",
+        "Tvůrci chtějí autentickými záběry dokázat dokonalost skutečné přírody bez digitálních úprav."
+      ],
+      "why_matters": "Zajímavý pohled na to, jak nástup generované AI mění estetiku a vnímání autenticity v médiích.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "OpenAI kupuje biologický startup Orchestra Bio pro zrychlení výzkumu",
+      "title_orig": "OpenAI acquires Orchestra Bio",
+      "category": "business",
+      "summary_cs": [
+        "OpenAI oznámila akvizici společnosti Orchestra Bio specializované na digitální procesy ve výzkumu.",
+        "Cílem spojení je zapojit AI systémy přímo do vývoje nových léčiv a zefektivnit laboratorní provoz.",
+        "Jde o další krok OpenAI směřující k hlubší integraci AI do přírodních věd."
+      ],
+      "why_matters": "Potvrzuje masivní ekosystémovou expanzi OpenAI do zdravotnictví a farmaceutického průmyslu.",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "IBM uvádí otevřené hlasové modely Granite Speech 5.0",
+      "title_orig": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "category": "open-source",
+      "summary_cs": [
+        "IBM představila novou generaci otevřených modelů určených k přepisu a překladu řeči.",
+        "Granite Speech 5.0 nabízí vyšší přesnost identifikace mluvčích a výrazně rychlejší zpracování.",
+        "Modely jsou optimalizované pro firemní nasazení s důrazem na nízké výpočetní nároky."
+      ],
+      "why_matters": "Kvalitní open-source alternativa k komerčním hlasovým službám vhodná pro lokální nasazení.",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "ThinkingBox převádí hodnocení databází na odměny pro RL trénink",
+      "title_orig": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "category": "labs",
+      "summary_cs": [
+        "Výzkumníci představili metodiku ThinkingBox pro pokročilý do-trénink AI agentů.",
+        "Systém dokáže automaticky vyhodnocovat práci agentů s databázemi a měnit ji na zpětnovazební signál.",
+        "Tento přístup výrazně zlepšuje schopnosti agentů při řešení složitých strukturovaných úloh."
+      ],
+      "why_matters": "Pomáhá vývojářům efektivněji trénovat AI agenty pro práci se spolehlivými podnikovými daty.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "AnyLanguageModel 1.0 přináší rok zkušeností s lokálními modely na Apple",
+      "title_orig": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "category": "tools",
+      "summary_cs": [
+        "Projekt AnyLanguageModel vydává verzi 1.0 určenou pro běh otevřených LLM na zařízeních Apple.",
+        "Knihovna zjednodušuje vývojářům integraci lokální umělé inteligence do aplikací pro macOS a iOS.",
+        "Aktualizace přináší vyšší efektivitu využití paměti a lepší podporu architektury Apple Silicon."
+      ],
+      "why_matters": "Usnadňuje vývoj bezpečných aplikací zpracovávajících citlivá data přímo v zařízení uživatele.",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Claude Mods představují nový koncept rozhraní pro práci s AI agenty",
+      "title_orig": "Claude Mods: Flipping the Harness Inside Out",
+      "category": "tools",
+      "summary_cs": [
+        "Koncept Claude Mods mění dosavadní způsob, jakým uživatelé přizpůsobují chování AI agentů.",
+        "Namísto složitého nastavování kódových systémů se rozhraní zaměřuje na přímé řízení člověkem.",
+        "Tento přístup otevírá cestu k intuitivnější spolupráci mezi lidmi a autonomními systémy."
+      ],
+      "why_matters": "Nová perspektiva na stavbu uživatelských rozhraní pro efektivní ovládaní pokročilé AI.",
+      "url": "https://latent.space/p/claude-mods/",
+      "source": "Latent Space"
+    }
+  ]
+}
