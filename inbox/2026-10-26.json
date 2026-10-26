@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T05:02:23.625822+00:00",
+  "generated_at": "2026-10-26T10:07:23.716190+00:00",
   "date": "2026-10-26",
-  "article_count_unique": 101,
-  "article_count_raw": 101,
+  "article_count_unique": 105,
+  "article_count_raw": 105,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "venturebeat_ai",
@@ -164,16 +164,64 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 1,
-      "raw_count": 5
+      "raw_count": 7
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 5,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "b730ac93bee81814",
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "published_at": "2026-10-26T09:30:00+00:00",
+      "author": "Kate Knibbs",
+      "summary_raw": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+      "hero_image": "https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/master/pass/AI%20journalists%202.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "4c26b1472bc0e76e",
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+      "published_at": "2026-10-26T09:00:00+00:00",
+      "author": "Jessica Lipsky",
+      "summary_raw": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+      "hero_image": "https://media.wired.com/photos/6adbe71b429a21d2813df7cd/master/pass/GGC%20-%205-watermarked.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "3cf10685f0c61d8b",
+      "title": "Válka ho přivedla do Pardubic, v šestnácti už pracoval v IT. Dnes mladý Ukrajinec rozjíždí startup v USA",
+      "url": "https://cc.cz/valka-ho-privedla-do-pardubic-v-sestnacti-uz-pracoval-v-it-dnes-mlady-ukrajinec-rozjizdi-startup-v-usa/",
+      "published_at": "2026-10-26T05:17:08+00:00",
+      "author": "Michaela Prešinská",
+      "summary_raw": "V šestnácti utekl před válkou do Pardubic, kde se snažil rozjet byznys. Dnes v Americe buduje AI platformu pro realitní investory. Článek Válka ho přivedla do Pardubic, v šestnácti už pracoval v IT. Dnes mladý Ukrajinec rozjíždí startup v USA se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/yurii-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "30282c0000136bbf",
+      "title": "Česká AI naděje míří k miliardovým tržbám. A její šéf říká: Gangsteři neusínají na vavřínech",
+      "url": "https://cc.cz/ceska-ai-nadeje-miri-k-miliardovym-trzbam-a-jeji-sef-rika-gangsteri-neusinaji-na-vavrinech/",
+      "published_at": "2026-10-26T05:10:29+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Startup Resistant AI pomáhá bankám odhalovat podvody při žádostech o úvěry. Prudce roste, už má 200 lidí a status jednorožce na dohled. Článek Česká AI naděje míří k miliardovým tržbám. A její šéf říká: Gangsteři neusínají na vavřínech se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/martin-rehak-3-3-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "190feb673485102c",
       "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
