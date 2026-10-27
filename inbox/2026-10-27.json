@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T05:02:21.518121+00:00",
+  "generated_at": "2026-10-27T09:49:42.894690+00:00",
   "date": "2026-10-27",
   "article_count_unique": 148,
   "article_count_raw": 148,
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 24,
-      "raw_count": 24
+      "count": 23,
+      "raw_count": 23
     },
     {
       "source_id": "anthropic_news",
@@ -164,16 +164,76 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 3,
-      "raw_count": 10
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "9a3bf40f03d30a8c",
+      "title": "Dramaticky roste, extrémně prodělává. Tohle je 5 věcí, které musíte vědět o vstupu Anthropicu na burzu",
+      "url": "https://cc.cz/dramaticky-roste-extremne-prodelava-tohle-je-5-veci-ktere-musite-vedet-o-vstupu-anthropicu-na-burzu/",
+      "published_at": "2026-10-27T09:47:07+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Tvůrce umělé inteligence Claude zveřejnil detaily své emise akcií. Kolik si vydělá zakladatel Dario Amodei? A jak se finančně startupu daří? Článek Dramaticky roste, extrémně prodělává. Tohle je 5 věcí, které musíte vědět o vstupu Anthropicu na burzu se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/02/anthropic-dario-amodei-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "806c919998c63ea4",
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "published_at": "2026-10-27T09:30:00+00:00",
+      "author": "Reece Rogers",
+      "summary_raw": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "hero_image": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/master/pass/gear-ai-agent-best.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "a531840138cbb37c",
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "published_at": "2026-10-27T09:00:00+00:00",
+      "author": "Casey Crownhart",
+      "summary_raw": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races to meet rising electricity demand from&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "c70b58b8b2fa390e",
+      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+      "url": "https://latent.space/p/ainews-anthropic-s1/",
+      "published_at": "2026-10-27T07:24:59+00:00",
+      "author": "swyx .ai",
+      "summary_raw": "The S-1, the numbers, and the reactions.",
+      "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f056ab0b-c9ca-46f2-8fb1-08d5f2f6b891/image.png?t=1793085208",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "c9989fdd44042822",
+      "title": "Microsoft masivně investuje do AI a ořezává stavy. Nabízí 60 tisícům lidí, ať odejdou dobrovolně",
+      "url": "https://cc.cz/microsoft-masivne-investuje-do-ai-a-orezava-stavy-nabizi-60-tisicum-lidi-at-odejdou-dobrovolne/",
+      "published_at": "2026-10-27T05:29:32+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Počet zaměstnanců softwarového obra stagnuje od roku 2022, peníze posílá hlavně do umělé inteligence. Na jaře už nabízel předčasné důchody. Článek Microsoft masivně investuje do AI a ořezává stavy. Nabízí 60 tisícům lidí, ať odejdou dobrovolně se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/nadella-microsoft1-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "f2f6d76082860926",
       "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
@@ -1063,30 +1123,6 @@
       "category": "labs"
     },
     {
-      "id": "3cf10685f0c61d8b",
-      "title": "Válka ho přivedla do Pardubic, v šestnácti už pracoval v IT. Dnes mladý Ukrajinec rozjíždí startup v USA",
-      "url": "https://cc.cz/valka-ho-privedla-do-pardubic-v-sestnacti-uz-pracoval-v-it-dnes-mlady-ukrajinec-rozjizdi-startup-v-usa/",
-      "published_at": "2026-10-26T05:17:08+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "V šestnácti utekl před válkou do Pardubic, kde se snažil rozjet byznys. Dnes v Americe buduje AI platformu pro realitní investory. Článek Válka ho přivedla do Pardubic, v šestnácti už pracoval v IT. Dnes mladý Ukrajinec rozjíždí startup v USA se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/yurii-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "30282c0000136bbf",
-      "title": "Česká AI naděje míří k miliardovým tržbám. A její šéf říká: Gangsteři neusínají na vavřínech",
-      "url": "https://cc.cz/ceska-ai-nadeje-miri-k-miliardovym-trzbam-a-jeji-sef-rika-gangsteri-neusinaji-na-vavrinech/",
-      "published_at": "2026-10-26T05:10:29+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Startup Resistant AI pomáhá bankám odhalovat podvody při žádostech o úvěry. Prudce roste, už má 200 lidí a status jednorožce na dohled. Článek Česká AI naděje míří k miliardovým tržbám. A její šéf říká: Gangsteři neusínají na vavřínech se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/martin-rehak-3-3-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "3223f0e9524038fb",
       "title": "Introducing GPT-6.1 Terra",
       "url": "https://openai.com/index/introducing-gpt-6-1-terra",
@@ -1121,18 +1157,6 @@
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
       "category": "news"
-    },
-    {
-      "id": "359c1452b39a5d8a",
-      "title": "Chytré televize jsou plné reklam a balastu. Lidé ale našli šikovný trik a pomocí AI je upravují",
-      "url": "https://cc.cz/chytre-televize-jsou-plne-reklam-a-balastu-lide-ale-nasli-sikovny-trik-a-pomoci-ai-je-upravuji/",
-      "published_at": "2026-10-25T19:03:12+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Výrobci je přeměnili na sběrače dat, uživatelé se ale začínají bránit. Pomocí vibe codingu dělají z chytrých televizí zase „hloupé“. Článek Chytré televize jsou plné reklam a balastu. Lidé ale našli šikovný trik a pomocí AI je upravují se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/tv-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "bb59d66f4e4be3ba",
@@ -1709,30 +1733,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "fab8127a7acc5e55",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "published_at": "2026-10-20T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "4ef7e01d3957e845",
-      "title": "[AINews] not much happened today",
-      "url": "https://latent.space/p/ainews-not-much-happened-today-f09/",
-      "published_at": "2026-10-20T05:21:52+00:00",
-      "author": "Latent Space",
-      "summary_raw": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
-      "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/053b0f63-876a-48bd-800f-71b2311de1a1/HVBPHSjWcAAHoHt.jpg?t=1792734787",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "0681a3b3c193ab99",
