@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28T05:02:33.747228+00:00",
+  "generated_at": "2026-10-28T10:35:11.744392+00:00",
   "date": "2026-10-28",
-  "article_count_unique": 168,
-  "article_count_raw": 168,
+  "article_count_unique": 167,
+  "article_count_raw": 167,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 10,
+      "raw_count": 10
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 23,
-      "raw_count": 23
+      "count": 22,
+      "raw_count": 22
     },
     {
       "source_id": "anthropic_news",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "latent_space",
@@ -163,17 +163,113 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 1,
-      "raw_count": 12
+      "count": 2,
+      "raw_count": 11
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 0,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "cc05973cdef48535",
+      "title": "Do Česka přichází AI, která přečte stovky zákonů i rozsudků za pár vteřin",
+      "url": "https://www.lupa.cz/aktuality/do-ceska-prichazi-ai-ktera-precte-stovky-zakonu-i-rozsudku-za-par-vterin/",
+      "published_at": "2026-10-28T10:21:18+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Na český trh vstupuje nová společnost zaměřená na umělou inteligenci, respektive její nasazení v praxi. Pochází z Islandu, jmenuje se Jónsbók a spadá do kategorie označované jako legaltech. Jde o AI poháněného asistenta pro právní výzkum, analýzu nebo psaní dokumentů.",
+      "hero_image": "https://i.iinfo.cz/images/295/jonsbok.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "2e5c7c61c4f2fd57",
+      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "published_at": "2026-10-28T10:15:00+00:00",
+      "author": "Adam Morgan",
+      "summary_raw": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+      "hero_image": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/pass/culture_macmillon_failed_ai_project.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "e460aeaa6a9b8e34",
+      "title": "Quoting Terk Terkowitz",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "published_at": "2026-10-28T10:09:07+00:00",
+      "author": "",
+      "summary_raw": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. &mdash; Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , generative-ai , agentic-engineering , ai , llms",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "a333841e55de22cb",
+      "title": "Mikolov a Beck vylepšili umělou inteligenci Googlu. Je zdarma a výrazně méně náročná",
+      "url": "https://www.lupa.cz/aktuality/mikolov-a-beck-vylepsili-umelou-inteligenci-googlu-je-zdarma-a-vyrazne-mene-narocna/",
+      "published_at": "2026-10-28T10:04:36+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Český startup BottleCap AI, za kterým stojí Tomá&#353; Mikolov a Jaroslav Beck, nedávno vydal vylep&#353;enou verzi AI modelu Nvidia Nemotron. Krátce na to byly vypu&#353;těny dal&#353;í dva modely spadající do již pětičlenné rodiny ThinkingCap. Jeden vylep&#353;uje dal&#353;í verzi modelu Qwen od Alibaby a druhý je zlep&#353;enou verzí modelu Gemma od Googlu, respektive sekce DeepMind.",
+      "hero_image": "https://i.iinfo.cz/images/17/bottlecap-ai.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "bd4afab9681f131e",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "published_at": "2026-10-28T09:30:00+00:00",
+      "author": "",
+      "summary_raw": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "98f964c1c9a10ae3",
+      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+      "published_at": "2026-10-28T08:50:30+00:00",
+      "author": "swyx .ai",
+      "summary_raw": "Since coding is solved, why code for the job?",
+      "hero_image": null,
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "cedcdda01b872434",
+      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "published_at": "2026-10-28T08:30:00+00:00",
+      "author": "Jake Bittle",
+      "summary_raw": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "hero_image": "https://media.wired.com/photos/6ae1120223d445186a16d911/master/pass/ai-weather-alerts-emergency.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "7fd88b9b94ee7a81",
+      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+      "published_at": "2026-10-28T06:00:00+00:00",
+      "author": "Joel Khalili",
+      "summary_raw": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+      "hero_image": "https://media.wired.com/photos/6ae127707e979e34b6579966/master/pass/Business_Should%20AI%20Decide%20Your%20Court%20Case_%20ThisJudgeSaysYes.gif",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
     {
       "id": "f57614a0f0847964",
       "title": "Counting the Bandages: On measuring the time that AI saves",
@@ -1135,18 +1231,6 @@
       "category": "news"
     },
     {
-      "id": "9a3bf40f03d30a8c",
-      "title": "Dramaticky roste, extrémně prodělává. Tohle je 5 věcí, které musíte vědět o vstupu Anthropicu na burzu",
-      "url": "https://cc.cz/dramaticky-roste-extremne-prodelava-tohle-je-5-veci-ktere-musite-vedet-o-vstupu-anthropicu-na-burzu/",
-      "published_at": "2026-10-27T09:47:07+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Tvůrce umělé inteligence Claude zveřejnil detaily své emise akcií. Kolik si vydělá zakladatel Dario Amodei? A jak se finančně startupu daří? Článek Dramaticky roste, extrémně prodělává. Tohle je 5 věcí, které musíte vědět o vstupu Anthropicu na burzu se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/02/anthropic-dario-amodei-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "806c919998c63ea4",
       "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
       "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
@@ -1193,18 +1277,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "c9989fdd44042822",
-      "title": "Microsoft masivně investuje do AI a ořezává stavy. Nabízí 60 tisícům lidí, ať odejdou dobrovolně",
-      "url": "https://cc.cz/microsoft-masivne-investuje-do-ai-a-orezava-stavy-nabizi-60-tisicum-lidi-at-odejdou-dobrovolne/",
-      "published_at": "2026-10-27T05:29:32+00:00",
-      "author": "Ondřej Holzman",
-      "summary_raw": "Počet zaměstnanců softwarového obra stagnuje od roku 2022, peníze posílá hlavně do umělé inteligence. Na jaře už nabízel předčasné důchody. Článek Microsoft masivně investuje do AI a ořezává stavy. Nabízí 60 tisícům lidí, ať odejdou dobrovolně se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/nadella-microsoft1-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "01ddbd9becd3c45d",
@@ -1507,18 +1579,6 @@
       "category": "news"
     },
     {
-      "id": "1055756a9026e4f9",
-      "title": "Nevymahatelné nařízení EU: Neviditelná razítka v AI nebudou fungovat, stačí změnit pár slov",
-      "url": "https://www.lupa.cz/aktuality/nevymahatelne-narizeni-eu-neviditelna-razitka-v-ai-nebudou-fungovat-staci-zmenit-par-slov/",
-      "published_at": "2026-10-26T11:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: David Strejc)",
-      "summary_raw": "Podvádění s úkoly, generování fale&#353;ných recenzí nebo masový přísun anonymních článků od robotů. Technické ře&#353;ení v podání neviditelných vodoznaků mělo přinést jasný řád do toho, co vytvořila umělá inteligence a co člověk. Vývoj událostí z posledních měsíců ale ukazuje, že očekávání narážejí na tvrdou realitu technologických limitů.",
-      "hero_image": "https://i.iinfo.cz/images/91/ai-umela-inteligence.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "14632c7471c4c853",
       "title": "ChatGPT’s expanding world of work",
       "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
@@ -1529,42 +1589,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "b730ac93bee81814",
-      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
-      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-      "published_at": "2026-10-26T09:30:00+00:00",
-      "author": "Kate Knibbs",
-      "summary_raw": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
-      "hero_image": "https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/master/pass/AI%20journalists%202.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "4f614c3ffb497831",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "published_at": "2026-10-26T09:01:00+00:00",
-      "author": "Sam Hiner, Emma Leiken",
-      "summary_raw": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "4c26b1472bc0e76e",
-      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
-      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
-      "published_at": "2026-10-26T09:00:00+00:00",
-      "author": "Jessica Lipsky",
-      "summary_raw": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
-      "hero_image": "https://media.wired.com/photos/6adbe71b429a21d2813df7cd/master/pass/GGC%20-%205-watermarked.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
     },
     {
       "id": "e4fdfa003b4ae74d",
@@ -1657,7 +1681,7 @@
       "published_at": "2026-10-23T10:09:29+00:00",
       "author": "swyx .ai",
       "summary_raw": "the Cyber onslaught continues.",
-      "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/logo/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.jpg",
+      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/64ca9c06-03df-40f9-b927-b8e782e49b14/image.png?t=1792750106",
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
@@ -1949,42 +1973,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "1cccab2a9afd1376",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "published_at": "2026-10-21T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "1cef8efc3489775c",
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "published_at": "2026-10-21T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "b1264f4edba868ac",
-      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-      "url": "https://latent.space/p/ainews-deepseek-deepinfer-open-source/",
-      "published_at": "2026-10-21T06:54:09+00:00",
-      "author": "Latent Space",
-      "summary_raw": "An open source “bomb” drops from China",
-      "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0ec35ae9-34c4-4317-964f-b6b0837dc76f/07a949cd-f727-48e2-9bd4-c4d110bf94e9_1326x1362.jpg?t=1792620904",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "816446490bf062e1",
