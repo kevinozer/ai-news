@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-29",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Google představuje nový vlajkový model Gemini 4 Carbon se zaměřením na kyberbezpečnost",
+      "title_orig": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "category": "labs",
+      "summary_cs": [
+        "Google oficiálně uvedl svému nejnovějšímu pokročilému modelu Gemini 4 Carbon, který přináší výrazný posun v oblasti kódování a autonomních agentů.",
+        "Model překonal konkurenční systémy jako Claude Opus 5.5 či GPT-6 Astra a umístil se na čele žebříčku Artificial Analysis Intelligence Index.",
+        "Hlavním zaměřením nové verze je výrazné posílení schopností v oblasti kybernetické bezpečnosti a zvládání komplexních vícekrokových úkolů."
+      ],
+      "why_matters": "Nová generace modelů posouvá hranice autonomního kódování a zásadně zvyšuje laťku v kybernetické bezpečnosti.",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Prezident ocenil osobnosti z oblasti AI, vědy a boje s dezinformacemi",
+      "title_orig": "Dětský hospic, umělá inteligence i boj s dezinformacemi. Prezident ocenil Vlčkovy, Mikolova a Burýška",
+      "category": "wildcard",
+      "summary_cs": [
+        "Prezident republiky udělil státní vyznamenání významným osobnostem české vědecké a technologické scény.",
+        "Mezi oceněnými figuruje průkopnice v oblasti umělé inteligence Olga Štěpánková i výzkumník Tomáš Mikolov.",
+        "Ocenění podtrhuje rostoucí společenský význam české výzkumné komunity v oboru AI a vývoje moderních technologií."
+      ],
+      "why_matters": "Státní vyznamenání pro přední výzkumníky potvrzuje význam AI pro budoucnost české společnosti a ekonomiky.",
+      "url": "https://cc.cz/detsky-hospic-umela-inteligence-i-boj-s-dezinformacemi-prezident-ocenil-vlckovy-mikolova-a-buryska/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Přípravy na českou AI gigatovárnu váznou kvůli pomalé evropské byrokracii",
+      "title_orig": "Sliby vs. realita: Evropa chce dohnat USA v AI, ale gigatovárnu pro ČR dál brzdí byrokracie",
+      "category": "news",
+      "summary_cs": [
+        "Evropská komise znovu odložila termín pro podávání žádostí o výstavbu velkých datových center pro AI.",
+        "Česká republika má zájem o vybudování AI gigatovárny za desítky miliard korun, proces je však zablokován měsíce trvající administrativou.",
+        "Zpoždění schvalovacích procesů ohrožuje konkurenceschopnost Evropy vůči USA v budování klíčové infrastruktury."
+      ],
+      "why_matters": "Byrokratické průtahy přímo ohrožují miliardové investice do klíčové superpočítačové infrastruktury v Česku.",
+      "url": "https://www.lupa.cz/aktuality/sliby-vs-realita-evropa-chce-dohnat-usa-v-ai-ale-gigatovarnu-pro-cr-dal-brzdi-byrokracie/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Tomáš Mikolov a Jaroslav Beck představují úspornější modely ze série ThinkingCap",
+      "title_orig": "Mikolov a Beck vylepšili umělou inteligenci Googlu. Je zdarma a výrazně méně náročná",
+      "category": "open-source",
+      "summary_cs": [
+        "Český startup BottleCap AI vydal nové modely v rámci své pětičlenné rodiny ThinkingCap.",
+        "Po úpravě modelu Nemotron od Nvidie se týmu podařilo zefektivnit také otevřené modely od Alibaby a dalekosáhle snížit jejich výpočetní nároky.",
+        "Upravené modely jsou k dispozici zdarma a nabízejí vysoký výkon i na méně nákladném hardwaru."
+      ],
+      "why_matters": "Česká stopa ukazuje, jak lze zefektivnit špičkové open-source modely a zpřístupnit je širší veřejnosti.",
+      "url": "https://www.lupa.cz/aktuality/mikolov-a-beck-vylepsili-umelou-inteligenci-googlu-je-zdarma-a-vyrazne-mene-narocna/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Microsoft vykázal z partnerství s OpenAI kvartální příjmy ve výši 10 miliard dolarů",
+      "title_orig": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "category": "business",
+      "summary_cs": [
+        "Microsoft poprvé zveřejnil, že za uplynulé čtvrtletí utržil 10 miliard dolarů z komerčních dohod spojených s OpenAI.",
+        "Finanční výsledky ukazují extrémní oboustrannou závislost a obří objem komerční spolupráce obou gigantů.",
+        "Statistika byla zveřejněna v rámci rekordních čtvrtletních výsledků Microsoftu, který dosáhl celkového obratu přes 92 miliard dolarů."
+      ],
+      "why_matters": "Čísla potvrzují obrovský finanční rozsah generativní AI a provázanost klíčových hráčů trhu.",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Nvidia vydává nový otevřený model Nemotron 3.5 pro přepisy řeči",
+      "title_orig": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "category": "open-source",
+      "summary_cs": [
+        "Společnost Nvidia uvolnila bezplatný model Nemotron 3.5 Transcribe určený k převodu mluveného slova na text ve 40 jazycích.",
+        "Model je navržen pro zpracování nahraného zvuku, což z něj dělá ideální nástroj pro zápisy ze schůzek či lékařskou dokumentaci.",
+        "Přestože nefunguje v reálném čase, poskytuje vysokou přesnost a možnost přizpůsobení pomocí instrukcí."
+      ],
+      "why_matters": "Otevřený vícejazyčný model usnadní vývojářům stavbu hlasových aplikací a automatických transkripčních nástrojů.",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "OpenAI rozšiřuje partnerství se společností ServiceNow pro firemní procesy",
+      "title_orig": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI a ServiceNow prohlubují integraci svých platforem pro automatizaci podnikových procesů.",
+        "Modely od OpenAI a autonomní agenti budou přímou součástí nástrojů ServiceNow, zatímco podnikové pracovní postupy se propojí s ChatGPT.",
+        "Cílem je zrychlit řešení IT požadavků i operativních úkolů ve velkých korporátních organizacích."
+      ],
+      "why_matters": "Propojení AI agentů se zavedenými podnikovými systémy přináší přímou automatizaci do každodenní praxe firem.",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Prohlížeč Chrome dokáže díky AI vyhledávat v Gmailu a automaticky vyplňovat formuláře",
+      "title_orig": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "category": "tools",
+      "summary_cs": [
+        "Google vylepšuje chytré automatické vyplňování v prohlížeči Chrome za pomoci modelu Gemini s funkcí Personal Intelligence.",
+        "Se souhlasem uživatele dokáže Chrome vyhledat potřebná data přímo v příchozí poště v Gmailu, například detaily o letech či objednávkách.",
+        "Nová funkce výrazně zrychluje vyplňování komplexních webových formulářů bez nutnosti ručního dohledávání podkladů."
+      ],
+      "why_matters": "Ukázka toho, jak AI v běžných nástrojích šetří čas propojováním osobních dat napříč službami.",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Islandský legaltech Jónsbók přináší na český trh specializovanou AI pro právníky",
+      "title_orig": "Do Česka přichází AI, která přečte stovky zákonů i rozsudků za pár vteřin",
+      "category": "tools",
+      "summary_cs": [
+        "Na český trh vstupuje islandský projekt Jónsbók specializovaný na automatizaci právního výzkumu.",
+        "Nástroj dokáže během několika sekund zanalyzovat stovky zákonů, rozsudků i smluv a připravit podklady pro právní dokumenty.",
+        "Nasazení specializovaných AI asistentů do české justice a advokacie zrychluje rutinní rešeršní práci."
+      ],
+      "why_matters": "Specializované doménové AI nástroje přicházejí do češtiny a transformují tradiční konzervativní obory.",
+      "url": "https://www.lupa.cz/aktuality/do-ceska-prichazi-ai-ktera-precte-stovky-zakonu-i-rozsudku-za-par-vterin/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Anthropic představuje nástroje pro detailní sledování firemních výdajů za AI",
+      "title_orig": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "category": "business",
+      "summary_cs": [
+        "Přední výzkumná laboratoř Anthropic spouští přehledové nástroje pro transparentní správu nákladů na AI modely.",
+        "Firmy díky tomu získají přesný přehled o tom, jaké konkrétní úkoly a oddělení spotřebovávají jaké množství kreditu.",
+        "Krok přichází v době příprav společnosti na vstup na burzu, kdy zákazníci požadují vyšší efektivitu investic."
+      ],
+      "why_matters": "Lepší kontrola nákladů je klíčovým krokem pro udržitelnou integraci náročných AI modelů ve firmách.",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Průzkum Octoverse 2026 ukazuje masivní nástup vývojářských AI agentů na GitHubu",
+      "title_orig": "GitHub Octoverse 2026",
+      "category": "tools",
+      "summary_cs": [
+        "Nejnovější zpráva GitHub Octoverse potvrdila zásadní posun v tom, jak vývojáři tvoří softwarový kód.",
+        "Autonomní vývojářští agenti se v roce 2026 stali běžnou součástí každodenní inženýrské práce po celém světě.",
+        "Data ukazují dramatické zrychlení vývoje softwaru a změnu role programátora směrem k architektuře a supervizi."
+      ],
+      "why_matters": "Agentické programování přestává být experimentem a stává se hlavním standardem vývoje softwaru.",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Experti varují před příchodem vlny zranitelností ve starých kódech kvůi AI",
+      "title_orig": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "category": "news",
+      "summary_cs": [
+        "Technický ředitel bezpečnostní firmy Wiz varuje před dopady nedávných kritických chyb v jazyce PHP.",
+        "Použití pokročilých AI nástrojů útočníky umožňuje extrémně hromadné a rychlé vyhledávání zranitelností ve starším kódu napříč webem.",
+        "Firmy budou muset výrazně zrychlit oprava i zabezpečení starších systémů, které dříve nebyly pod takovým tlakem."
+      ],
+      "why_matters": "AI zásadně zrychluje objevování bezpečnostních děr, což vyžaduje zcela nový přístup ke správě staršího kódu.",
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Meta odkládá nové obchodní podmínky kvůli protestům vydavatelů ohledně trénování AI",
+      "title_orig": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Meta pravděpodobně odloží zavedení nových obchodních podmínek plánovaných na listopad.",
+        "Důvodem je silný odpor ze strany vydavatelů obsahu, kterým se nelíbí pravidla pro využití jejich dat k trénování AI modelů.",
+        "Meta přislíbila další konzultace s odbornými asociacemi a zástupci mediálního průmyslu."
+      ],
+      "why_matters": "Spor ukazují přetrvávající napětí mezi AI giganty a tvůrci obsahu ohledně autorských práv a licencování.",
+      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Proč vývojáři preferují databázovou platformu Supabase pro stavbu AI agentů",
+      "title_orig": "Why Agents Love Supabase",
+      "category": "research",
+      "summary_cs": [
+        "Zakladatelé platformy Supabase v rozhovoru rozebrali, jak se mění nároky na backendovou infrastrukturu v éře autonomních agentů.",
+        "AI agenti vyžadují specifický přístup ke správě paměti, vektorovému vyhledávání a rychlému provádění databázových operací.",
+        "Ukazuje se, že správná volba infrastruktury je pro spolehlivé fungování agentických systémů stejně důležitá jako samotné LLM."
+      ],
+      "why_matters": "Architektura databází a backendu se musí přizpůsobit novému typu autonomních datových dotazů.",
+      "url": "https://latent.space/p/supabase/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Psaní malými písmeny jako forma lidského protestu proti generované AI",
+      "title_orig": "Malými písmeny píšou studenti i šéfové firem. Nejde ale o lenost, lidé tím často vzdorují AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Mnoho lidí včetně manažerů a studentů záměrně píše zprávy i e-maily výhradně malými písmeny bez diakritiky.",
+        "Kromě neformálnosti jde stále častěji o vědomou snahu odlišit lidský text od perfektně naformátovaného výstupu z AI.",
+        "Tento sociální trend ukazuje, jak se mění normy psané komunikace v reakci na všudypřítomnost generovaných textů."
+      ],
+      "why_matters": "Zajímavý pohled na to, jak lidé mění své komunikační návyky, aby si zachovali autentičnost vůči syntetickému obsahu.",
+      "url": "https://cc.cz/malymi-pismeny-pisou-studenti-i-sefove-firem-nejde-ale-o-lenost-lide-tim-casto-vzdoruji-ai/",
+      "source": "CzechCrunch"
+    }
+  ]
+}
