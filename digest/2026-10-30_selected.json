@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-30",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Mistral vydává model Le Chonk s bilionem parametrů zaměřený na kyberbezpečnost",
+      "title_orig": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "category": "open-source",
+      "summary_cs": [
+        "Francouzská laboratoř Mistral zveřejnila váhy svého nového obřího modelu Le Chonk s bilionem parametrů.",
+        "Model je specializovaný na kybernetickou bezpečnost a kódování, přičemž má překonávat i špičkové čínské open-weight modely.",
+        "Mistral zdůrazňuje, že otevřené váhy dávají organizacím plnou kontrolu nad jejich vlastní digitální obranou."
+      ],
+      "why_matters": "Otevřený evropský model s bilionem parametrů představuje zásadní alternativu k americkým a čínským uzavřeným systémům.",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Google Gemini umožňuje přímé úpravy a generování dokumentů v chatu",
+      "title_orig": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "category": "tools",
+      "summary_cs": [
+        "Uživatelé Google Gemini mohou nyní vytvářet, upravovat a prohlížet dokumenty, tabulky či prezentace přímo v prostředí chatu.",
+        "Podpora zahrnuje formáty Google Docs, Sheets, PDF, Markdown i zdrojový kód bez nutnosti přecházet do jiných aplikací.",
+        "Funkce je okamžitě dostupná pro všechny uživatele, přičemž náhledy PDF fungují na webu i v mobilní aplikaci."
+      ],
+      "why_matters": "Zásadně to zrychluje běžnou kancelářskou práci a ruší nutnost neustálého přepínání mezi chatem a dokumenty.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Osobní AI agent dodavatele Pentagonu získal přístup do zabezpečené sítě",
+      "title_orig": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "category": "news",
+      "summary_cs": [
+        "Osobní AI agent Claude jednoho ze zaměstnanců společnosti Accenture běžel dva měsíce v síti amerického ministerstva obrany.",
+        "Incident odhalil nová bezpečnostní rizika spojená s autonomními AI agenty, které zaměstnanci používají k usnadnění práce.",
+        "Systémy byly odhaleny a opraveny až po dlouhé době, což vyvolalo obavy z nekontrolovaného stínového využívání AI."
+      ],
+      "why_matters": "Ukazuje obrovská bezpečnostní rizika spojená s neoficiálním nasazováním AI agentů ve firemním i státním prostředí.",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI aktualizuje Model Spec a definuje klíčové hodnoty pro autonomní AI",
+      "title_orig": "An updated Model Spec for more capable and beneficial AI",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zveřejnila aktualizovanou specifikaci Model Spec, která určuje pravidla chování pro nadcházející generace modelů.",
+        "Dokument se zaměřuje na zachování lidské autonomie, věrnost záměru uživatele a schopnost správného úsudku u pokročilých agentů.",
+        "Nová pravidla mají zajistit, aby stále samostatnější AI systémy jednaly bezpečně a v souladu s očekáváním vývojářů."
+      ],
+      "why_matters": "Nastavuje standard pro to, jak budou pokročilí AI mezinárodně usměrňováni a kontrolováni.",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Thrive Holdings kupuje bezpečnostní firmu ADT za 15 miliard dolarů",
+      "title_orig": "OpenAI-backed Thrive Holdings acquires ADT",
+      "category": "business",
+      "summary_cs": [
+        "Investiční společnost Thrive Holdings spojená s OpenAI kupuje poskytovatele zabezpečení ADT v dohodě za 15,3 miliardy dolarů.",
+        "Cílem masivní akvizice je transformovat tradiční fyzické zabezpečení domácností pomocí pokročilých AI technologií.",
+        "Spojení naznačuje trend masivního pronikání AI modelů do fyzického světa a kamerových systémů."
+      ],
+      "why_matters": "Ukazuje, jak AI kapitál začíná přímo přebírat a transformovat tradiční fyzickou infrastrukturu a služby.",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "AWS cíluje na roční tržby bilion dolarů díky masivním investicím do AI",
+      "title_orig": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "category": "business",
+      "summary_cs": [
+        "Šéf Amazonu Andy Jassy prohlásil, že cloudová divize AWS má nakročeno stát se prvním byznysem s tržbami jednoho bilionu dolarů.",
+        "Dosažení tohoto milníku si však vyžádá další obrovské kapitálové výdaje do AI infrastruktury a datových center.",
+        "Amazon se tak snaží udržet své vedoucí postavení na trhu cloudových výpočetních kapacit pro umělou inteligenci."
+      ],
+      "why_matters": "Potvrzuje, že technologičtí giganti nehodlají zpomalovat rekordní investice do výpočetního výkonu pro AI.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Zaměstnanci českého jednorožce Mews založili odbory po propouštění kvůli AI",
+      "title_orig": "Zaměstnanci českého jednorožce založili odbory. Reagují i na propouštění kvůli AI a chtějí kolektivní smlouvu",
+      "category": "news",
+      "summary_cs": [
+        "V české softwarové společnosti Mews založili zaměstnanci odborovou organizaci, což je u startupů neobvyklý krok.",
+        "Reagují tím na nedávné propouštění přibližně 15 procent pracovníků, které souvisí s automatizací a zaváděním AI.",
+        "Odbory chtějí vyjednat kolektivní smlouvu a získat větší garance při dalším navšování efektivity pomocí technologií."
+      ],
+      "why_matters": "První výraznější příklad v ČR, kdy zaměstnanci technologické firmy zakládají odbory v reakci na rušení míst kvůli AI.",
+      "url": "https://www.lupa.cz/aktuality/zamestnanci-ceskeho-jednorozce-zalozili-odbory-reaguji-i-na-propousteni-kvuli-ai-a-chteji-kolektivni-smlouvu/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 8,
+      "title_cs": "OpenAI zavádí kreditní výhody pro rozhraní API u předplatitelů ChatGPT",
+      "title_orig": "API credits benefit for eligible ChatGPT subscriptions",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI po vzoru konkurenčního Anthropicu přidává ke svým placeným tarifům ChatGPT volné kredity pro využití API.",
+        "Předplatitelé vybraných týmových a firemních tarifů tak získají měsíční příděl vývojářských kreditů v ceně předplatného.",
+        "Tento krok má usnadnit vývojářům a firmám propojování ChatGPT s jejich vlastními interními systémy."
+      ],
+      "why_matters": "Pro vývojáře a firmy to znamená výrazné snížení nákladů při testování a nasazování vlastních AI aplikací.",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "OpenAI popisuje své víceúrovňové metody detekce nebezpečného chování modelů",
+      "title_orig": "How we detect frontier model misalignment",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI detailně popsala své pokročilé systémy pro monitorování odchylek v chování hraničních AI modelů.",
+        "Cílem je včas odhalit neautorizované jednání autonomních agentů dříve, než dojde k bezpečnostnímu incidentu.",
+        "Víceúrovňový dohled umožňuje bezpečnostním týmům zasáhnout v reálném čase při neobvyklých vzorcích chování."
+      ],
+      "why_matters": "Praktický vhled do toho, jak největší AI laby řeší kontrolu nad autonomními agenty v praxi.",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Reddit se kvůli úbytku vyhledávacího provozu uzavírá za přihlášení",
+      "title_orig": "Reddit is moving to “a logged-in-only experience,” CEO says",
+      "category": "news",
+      "summary_cs": [
+        "Šéf platformy Reddit oznámil postupný přechod na model, kde bude většina obsahu dostupná pouze přihlášeným uživatelům.",
+        "Důvodem je výrazný pokles návštěvnosti z tradičních vyhledávačů, které nahrazují AI odpovědi a generativní souhrny.",
+        "Reddit se tím zároveň snaží chránit svůj komunitní obsah před neautorizovaným stahováním pro trénování AI modelů."
+      ],
+      "why_matters": "Jasný důkaz, jak AI vyhledávače mění architekturu otevřeného webu a nutí platformy se uzavírat.",
+      "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Meta spouští aplikaci Style Sketch pro AI tvorbu virtuálního šatníku",
+      "title_orig": "Meta quietly launches an AI fashion app called Style Sketch",
+      "category": "wildcard",
+      "summary_cs": [
+        "Meta potichu vydala novou aplikaci Style Sketch, která využívá umělou inteligenci v oblasti módy a stylingu.",
+        "Aplikace se propojuje s Instagramem a dokáže automaticky sestavit virtuální šatník z dříve sdílených fotografií.",
+        "Uživatelé mohou přidávat nové kousky oblečení také pomocí fotografií, krátkých videí nebo nahrání z galerie."
+      ],
+      "why_matters": "Ukazuje praktické využití multimodální AI pro spotřebitele a rozšiřování ekosystému Mety.",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Aplikace Granola přidává diktování a konkuruje hlasovým AI asistentům",
+      "title_orig": "Granola crunches up a dictation feature to compete with Wispr",
+      "category": "tools",
+      "summary_cs": [
+        "Oblíbený AI zápisník ze schůzek Granola rozšiřuje své funkce o přímé hlasové diktování textu.",
+        "Reaguje tak na konkurenční aplikaci Wispr, která naopak ke svému diktování nedávno přidala poznámky ze schůzek.",
+        "Souboj v oblasti osobních hlasových AI rozhraní se tím výrazně vyostřuje a přináší rychlejší inovace."
+      ],
+      "why_matters": "Představuje praktický nástroj pro zvýšení produktivity při tvorbě textů a zápisů hlasem.",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Startup &Truth získává investici na matematické ověřování spolehlivosti kódu",
+      "title_orig": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "category": "tools",
+      "summary_cs": [
+        "Nový startup &Truth vstupuje na trh s řešením pro automatizaci formální verifikace softwarového kódu.",
+        "Pomocí pokročilé matematiky dokáže přesně dokázat, zda vygenerovaný software funguje přesně podle specifikace.",
+        "Technologie má zabránit skrytým chybám, které vznikají při masivním využívání AI pro rychlé psaní kódu."
+      ],
+      "why_matters": "Klíčové řešení pro bezpečnost softwaru v době, kdy většinu kódu začínají generovat AI agenti.",
+      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Startup Dream získává 17 milionů dolarů na fyzikální AI modely pro stavebnictví",
+      "title_orig": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "category": "business",
+      "summary_cs": [
+        "Bývalí manažeři Palantiru založili startup Dream a získali počáteční investici 17 milionů dolarů od fondu a16z.",
+        "Firma staví světové AI modely zaměřené na stavebnictví, které vycházejí z reálné fyziky a stavebních normativů.",
+        "Model je trénován na více než 100 milionech čtverečních stop dat ze stavebních povolení a dokumentace."
+      ],
+      "why_matters": "Příklad nasazení specializovaných světlomodelů do tradičního průmyslového odvětví s vysokou hodnotou.",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Hugging Face a Apple uvádějí otevřené modely pro rozpoznávání řeči na iOS",
+      "title_orig": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "category": "open-source",
+      "summary_cs": [
+        "Na platformě Hugging Face byly vydány nové otevřené modely AnySpeechRecognizer a AnyDecisionModel.",
+        "Modely jsou optimalizovány přímo pro lokální běh na zařízeních s operačními systémy od Applu.",
+        "Umožňují vývojářům snadno integrovat přepis řeči a rozhodovací AI procesy bez odesílání dat na server."
+      ],
+      "why_matters": "Usnadňuje vývojářům tvorbu privátních AI aplikací běžících lokálně na zařízeních Apple.",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face Blog"
+    }
+  ]
+}
