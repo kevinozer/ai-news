@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T05:01:50.705111+00:00",
+  "generated_at": "2026-10-30T10:52:39.060703+00:00",
   "date": "2026-10-30",
-  "article_count_unique": 138,
-  "article_count_raw": 138,
+  "article_count_unique": 132,
+  "article_count_raw": 132,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 18,
-      "raw_count": 18
+      "count": 17,
+      "raw_count": 17
     },
     {
       "source_id": "anthropic_news",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "latent_space",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 4,
-      "raw_count": 10
+      "count": 2,
+      "raw_count": 9
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,54 @@
     }
   ],
   "articles": [
+    {
+      "id": "01871ba3613b8761",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "published_at": "2026-10-30T09:00:00+00:00",
+      "author": "Lauren Feiner",
+      "summary_raw": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "663d2740705ce1b7",
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "published_at": "2026-10-30T09:00:00+00:00",
+      "author": "Jessica Hamzelou",
+      "summary_raw": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "f7687e17ec75c2ba",
+      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+      "published_at": "2026-10-30T08:24:29+00:00",
+      "author": "swyx .ai",
+      "summary_raw": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
+      "hero_image": null,
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "f67e9b8cb3f0b947",
+      "title": "Nejdražší MacBook v historii, Apple opět natáčel v Česku, Anthropic je vysoce ztrátový",
+      "url": "https://www.lupa.cz/clanky/nejdrazsi-macbook-v-historii-apple-opet-natacel-v-cesku-anthropic-je-vysoce-ztratovy/",
+      "published_at": "2026-10-30T05:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Microsoft by se rád zbavil 60 tisíc lidí. Musk vytvořil Odyseu pomocí AI. Posílá Qwen data do Číny? Zprávy z technologií, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/34/apple.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "93a005a18b6a1b76",
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -187,8 +235,8 @@
       "category": "news"
     },
     {
-      "id": "8592bc7153a9aae8",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "id": "e72dfe67b77ca05d",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "published_at": "2026-10-29T23:42:22+00:00",
       "author": "Lucas Ropek",
@@ -1039,18 +1087,6 @@
       "category": "news"
     },
     {
-      "id": "b90365058e3ed7bb",
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-      "published_at": "2026-10-28T18:36:26+00:00",
-      "author": "Andrew Liszewski",
-      "summary_raw": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
       "id": "8b5ebad386f2d25d",
       "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
       "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
@@ -1207,66 +1243,6 @@
       "category": "news"
     },
     {
-      "id": "71aa8bbe13e4c0c5",
-      "title": "Sliby vs. realita: Evropa chce dohnat USA v AI, ale gigatovárnu pro ČR dál brzdí byrokracie",
-      "url": "https://www.lupa.cz/aktuality/sliby-vs-realita-evropa-chce-dohnat-usa-v-ai-ale-gigatovarnu-pro-cr-dal-brzdi-byrokracie/",
-      "published_at": "2026-10-28T10:36:48+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Evropská komise opět posunula termín pro podání žádostí o vybudování takzvaných AI gigatováren, tedy velkých datových center pro umělou inteligenci. Byrokracie kolem se vleče už řadu měsíců, a to i přesto, že Komise obor AI označuje za prioritu a strategickou oblast. O jednu z gigatováren za desítky miliard korun má zájem i Česko.",
-      "hero_image": "https://i.iinfo.cz/images/3/ceske-radiokomunikace-datove-centrum.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "cc05973cdef48535",
-      "title": "Do Česka přichází AI, která přečte stovky zákonů i rozsudků za pár vteřin",
-      "url": "https://www.lupa.cz/aktuality/do-ceska-prichazi-ai-ktera-precte-stovky-zakonu-i-rozsudku-za-par-vterin/",
-      "published_at": "2026-10-28T10:21:18+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Na český trh vstupuje nová společnost zaměřená na umělou inteligenci, respektive její nasazení v praxi. Pochází z Islandu, jmenuje se Jónsbók a spadá do kategorie označované jako legaltech. Jde o AI poháněného asistenta pro právní výzkum, analýzu nebo psaní dokumentů.",
-      "hero_image": "https://i.iinfo.cz/images/295/jonsbok.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "2e5c7c61c4f2fd57",
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "published_at": "2026-10-28T10:15:00+00:00",
-      "author": "Adam Morgan",
-      "summary_raw": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-      "hero_image": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/pass/culture_macmillon_failed_ai_project.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "e460aeaa6a9b8e34",
-      "title": "Quoting Terk Terkowitz",
-      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
-      "published_at": "2026-10-28T10:09:07+00:00",
-      "author": "",
-      "summary_raw": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. &mdash; Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , generative-ai , agentic-engineering , ai , llms",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "a333841e55de22cb",
-      "title": "Mikolov a Beck vylepšili umělou inteligenci Googlu. Je zdarma a výrazně méně náročná",
-      "url": "https://www.lupa.cz/aktuality/mikolov-a-beck-vylepsili-umelou-inteligenci-googlu-je-zdarma-a-vyrazne-mene-narocna/",
-      "published_at": "2026-10-28T10:04:36+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Český startup BottleCap AI, za kterým stojí Tomá&#353; Mikolov a Jaroslav Beck, nedávno vydal vylep&#353;enou verzi AI modelu Nvidia Nemotron. Krátce na to byly vypu&#353;těny dal&#353;í dva modely spadající do již pětičlenné rodiny ThinkingCap. Jeden vylep&#353;uje dal&#353;í verzi modelu Qwen od Alibaby a druhý je zlep&#353;enou verzí modelu Gemma od Googlu, respektive sekce DeepMind.",
-      "hero_image": "https://i.iinfo.cz/images/17/bottlecap-ai.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "ef8e99aa6e988c37",
       "title": "The future of the firm",
       "url": "https://openai.com/index/the-future-of-the-firm",
@@ -1301,30 +1277,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "cedcdda01b872434",
-      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "published_at": "2026-10-28T08:30:00+00:00",
-      "author": "Jake Bittle",
-      "summary_raw": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-      "hero_image": "https://media.wired.com/photos/6ae1120223d445186a16d911/master/pass/ai-weather-alerts-emergency.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "7fd88b9b94ee7a81",
-      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-      "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-      "published_at": "2026-10-28T06:00:00+00:00",
-      "author": "Joel Khalili",
-      "summary_raw": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-      "hero_image": "https://media.wired.com/photos/6ae127707e979e34b6579966/master/pass/Business_Should%20AI%20Decide%20Your%20Court%20Case_%20ThisJudgeSaysYes.gif",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
     },
     {
       "id": "c0d37edc5ef9462a",
@@ -1589,30 +1541,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "5c6d40edc823700a",
-      "title": "[AINews] Black October",
-      "url": "https://latent.space/p/ainews-black-october/",
-      "published_at": "2026-10-23T10:09:29+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "the Cyber onslaught continues.",
-      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/64ca9c06-03df-40f9-b927-b8e782e49b14/image.png?t=1792750106",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "58f703fe1f5ed0e1",
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "published_at": "2026-10-23T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
     },
     {
       "id": "816446490bf062e1",
