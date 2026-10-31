@@ -365,7 +365,10 @@ def main() -> int:
     articles: list[dict] = []
     for round_i in range(2):
         result = gemini_json(prompt, model=args.model)
-        articles = result.get("articles", [])
+        # Gemini občas vrátí rovnou pole místo {"articles": [...]} (incident 31. 10. 2026).
+        if isinstance(result, list):
+            result = {"articles": result}
+        articles = result.get("articles", []) if isinstance(result, dict) else []
         # přečísluj rank pro jistotu dle pořadí
         for idx, a in enumerate(articles, 1):
             a["rank"] = idx
