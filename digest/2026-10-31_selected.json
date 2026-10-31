@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-31",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "AI agent poprvé samostatně vybral a aplikoval genovou terapii v živé laboratoři",
+      "title_orig": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "category": "news",
+      "summary_cs": [
+        "Biotechnologický startup umožnil autonomnímu AI agentovi vybrat genovou terapii a úspěšně ji aplikovat do mozku živé myši.",
+        "Tento experiment představuje zásadní milník v automatizaci vědeckého výzkumu a přímém propojení AI s fyzickým světem.",
+        "Událost otevírá nové možnosti pro zrychlení vývoje léčiv, ale zároveň vyvolává otázky ohledně bezpečnosti a dohledu v laboratořích."
+      ],
+      "why_matters": "Ukazuje přechod AI od teoretického zpracování dat k přímému a autonomnímu provádění fyzických vědeckých experimentů.",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Google vyslal AI do vesmíru: Satelit s čipem TPU poslal na Zemi první odpověď",
+      "title_orig": "Google's first data center satellite is online and writing poetry",
+      "category": "news",
+      "summary_cs": [
+        "Google úspěšně spustil svůj první satelit vybavený AI akcelerátorem TPU a modelem Gemma 4 přímo na oběžné dráze.",
+        "Systém úspěšně zpracoval první zadání a poslal na Zemi vygenerovanou báseň o pohledu na planetu.",
+        "Tento krok ověřuje možnost provozovat náročné AI výpočty a datová centra přímo ve vesmíru."
+      ],
+      "why_matters": "Otevírá novou éru orbity jako infrastruktury pro AI výpočty nezávislé na pozemních zdrojích.",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Zahraniční investoři věří českému doktorandovi, který staví evropskou konkurenci pro Nvidii",
+      "title_orig": "Místo mozků pro roboty tvoří rychlé čipy pro AI. U doktoranda z Oxfordu si je už zamluvil i Anthropic",
+      "category": "business",
+      "summary_cs": [
+        "Český doktorand z Oxfordu Walter Goodwin získal stovky milionů eur na vývoj specializovaných rychlých čipů pro AI.",
+        "Jeho startup vyvíjí hardwarovou alternativu k dominantním čipům od Nvidie přímo na evropském území.",
+        "Kapacitu nových procesorů si ještě před dokončením výroby předběžně zamluvila společnost Anthropic."
+      ],
+      "why_matters": "Vzniká vzácný evropský hardwarový hráč v AI s českou stopou a podporou globálních gigantů.",
+      "url": "https://cc.cz/misto-mozku-pro-roboty-tvori-rychle-cipy-pro-ai-u-doktoranda-z-oxfordu-si-je-uz-zamluvil-i-anthropic/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Technologické firmy se dohodly na novém standardu pro odmítnutí trénování AI z webu",
+      "title_orig": "The biggest names in AI are backing a new way to opt out of scraping",
+      "category": "labs",
+      "summary_cs": [
+        "Společnosti OpenAI, Google, Microsoft a Anthropic podpořily jednotný standard pro vyjádření nesouhlasu se sběrem dat.",
+        "Vydavatelé a provozovatelé webů tak budou moci spravovat své preference vůči více vývojářům AI na jednom místě.",
+        "Cílem je zjednodušit ochranu autorských práv a nahradit nepřehledné nastavování jednotlivých crawlerů."
+      ],
+      "why_matters": "Provozovatelé webů získávají jednoduchý nástroj, jak hromadně kontrolovat využití svého obsahu pro výuku AI.",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Sam Altman kritizuje RAM v osobních počítačích a žádá přesun pamětí do datových center",
+      "title_orig": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "category": "news",
+      "summary_cs": [
+        "Šéf OpenAI Sam Altman prohlásil, že v době globálního nedostatku součástek je plýtváním mít paměť RAM v běžných PC.",
+        "Podle něj by měly být klíčové hardwarové komponenty primárně alokovány do AI datových center pro celospolečenský užitek.",
+        "Vyjádření vyvolalo silnou vlnu diskusí mezi zastánci lokálního hardwaru a zastánci cloudové AI infrastruktury."
+      ],
+      "why_matters": "Ilustruje rostející tlak AI gigantů na spotřebitelský řetězec a dodávky hardwaru.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Hackerům se podařilo na 12 hodin propašovat zadní vrátka do rozšíření Cursor od Anthropicu",
+      "title_orig": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "category": "news",
+      "summary_cs": [
+        "Oficiální rozšíření pro kódovací prostředí Cursor bylo napadeno a po dobu téměř půl dne obsahovalo škodlivý kód.",
+        "Zatím není jasné, jakým způsobem útočníci získali přístup k ověřenému účtu vývojářů ze společnosti Anthropic.",
+        "Incident zdůrazňuje zranitelnost dodavatelského řetězce softwaru u populárních AI vývojářských nástrojů."
+      ],
+      "why_matters": "Upozorňuje na bezpečnostní rizika spojená s integrací AI kódovacích asistentů přímo do vývojářského prostředí.",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Uživatelé vytvořili emulátor herní konzole NES ukrytý přímo v vahách modelu Qwen",
+      "title_orig": "dbreunig/nesformer",
+      "category": "open-source",
+      "summary_cs": [
+        "Výzkumník Drew Breunig dokázal natrénovat váhy jazykového modelu Qwen3.5 tak, aby fungovaly jako emulátor procesoru 6502.",
+        "Díky tomuto přístupu je možné uvnitř neuronové sítě spouštět původní hry pro konzoli Nintendo jako Super Mario Bros.",
+        "Projekt demonstruje netradiční možnosti využití autoregresivních modelů pro simulaci deterministického hardwaru."
+      ],
+      "why_matters": "Fascinující ukázka toho, že velké jazykové modely dokáží simulovat kompletní počítačovou architekturu.",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Česká skupina K2 kupuje většinu ve startupu Blaze vyvíjejícím software bez kódu",
+      "title_orig": "Ostravská IT skupina kupuje firmu dvacetiletých českých mladíků, kteří vyvíjí software bez programování",
+      "category": "news",
+      "summary_cs": [
+        "Ostravská IT skupina K2 získala 51procentní podíl v tuzemském startupu Blaze založeném mladými vývojáři.",
+        "Firma se specializuje na zakázkový vývoj aplikací bez tradičního psaní kódu, kde veškerou práci zastávají AI agenti.",
+        "Akvizice ukazuje rostoucí zájem tradičních IT společností o plně automatizované vývojové procesy."
+      ],
+      "why_matters": "Dokládá reálnou komercializaci a akvizice autonomních kódovacích AI agentů na českém trhu.",
+      "url": "https://www.lupa.cz/aktuality/ostravska-it-skupina-kupuje-firmu-dvacetiletych-ceskych-mladiku-kteri-vyviji-software-bez-programovani/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Papež Leo vyzývá k odzbrojení AI a k zákazům autonomních smrtících zbraní",
+      "title_orig": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "category": "news",
+      "summary_cs": [
+        "Papež Leo XIV ve svém projevu apeloval na členské státy OSN, aby přijaly konkrétní kroky k zákazu autonomních zbraní.",
+        "Zdůraznil, že stroje jsou pouze nástroje a lidé musí mít plnou odpovědnost za jejich usměrňování i případné odmítnutí.",
+        "Vatikán tak zesiluje svůj etický tlak na mezinárodní společenství v otázkách vojenského využití umělé inteligence."
+      ],
+      "why_matters": "Významný morální apel na globální regulaci vojenské AI před klíčovými jednáními OSN.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Právníci Theranosu varují, že neudržitelný boom AI vytváří prostor pro obří podvody",
+      "title_orig": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "category": "business",
+      "summary_cs": [
+        "Oznamovatel kauzy Theranos Tyler Shultz varuje před přehřátým trhem a nerealistickými sliby AI startupů.",
+        "Poukazuje na to, že nekritické investice do neziskových firem s tržními hodnotami v řádech miliard připomínají minulá selhání.",
+        "Chybějící transparentnost a složitost technologií podle něj usnadňují zakrývání nefunkčních produktů."
+      ],
+      "why_matters": "Upozorňuje na rizika finanční bubliny a falešných příslibů v současném AI sektoru.",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "OpenAI aktualizuje ChatGPT o nové preventivní systémy na ochranu mladistvých",
+      "title_orig": "Community safety report and new protections for teens",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI představila posílené bezpečnostní mechanizmy zaměřené na detekci a prevenci násilného obsahu.",
+        "Nové algoritmy zachycují rizikové konverzace v rané fázi a zavádějí specifická omezení pro nezletilé uživatele.",
+        "Firma zároveň zveřejnila zprávu o komunitní bezpečnosti a zavázala se k pravidelnému publikování těchto dat."
+      ],
+      "why_matters": "Přináší konkrétní opatření pro zvýšení bezpečnosti mladých uživatelů při každodenní interakci s AI.",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Lidé zkoušejí žádat o náboženskou výjimku z povinného používání AI v práci",
+      "title_orig": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "category": "wildcard",
+      "summary_cs": [
+        "Univerzitní pracovník v USA úspěšně vyjednal náboženskou výjimku z povinnosti používat AI nástroje při své práci.",
+        "Právní úprava ukazuje, že etické nebo filozofické výhrady vůči AI mohou mít stejnou váhu jako tradiční víra.",
+        "Případ vytváří precedens pro zaměstnance, kteří z osobních důvodů odmítají integraci AI do své pracovní náplně."
+      ],
+      "why_matters": "První právní precedens řešící právo zaměstnance odmítnout práci s AI z přesvědčení.",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Animátoři Pata a Mata vzdorují generativní AI a drží se klasické ruční tvorby",
+      "title_orig": "Jiným stačí prompt, oni točí snímek po snímku. Animátoři Pata a Mata hledají cestu, jak v době AI přežít",
+      "category": "news",
+      "summary_cs": [
+        "Pražské animační studio Kreus popisuje dopady nástupu generativních AI modelů na trh vizuální tvorby a reklamy.",
+        "Tvůrci ikonických postaviček Pata a Mata sázejí na poctivou stop-motion animaci jako na unikátní řemeslné zboží.",
+        "Článek rozebírá změnu preferencí zadavatelů a hledání udržitelného modelu pro tradiční umělecká studia."
+      ],
+      "why_matters": "Pohled na to, jak tradiční česká tvorba a Animační průmysl čelí tlaku levné AI generované grafiky.",
+      "url": "https://cc.cz/jinym-staci-prompt-oni-toci-snimek-po-snimku-animatori-pata-a-mata-hledaji-cestu-jak-v-dobe-ai-prezit/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Rostoucí AI infrastruktura vyvolává odpor obyvatel a ovlivňuje politický boj v USA",
+      "title_orig": "Maine’s data center revolt will decide who controls the Senate",
+      "category": "news",
+      "summary_cs": [
+        "Masivní výstavba AI datových center naráží na odpor místních obyvatel kvůli vysoké spotřebě vody a energií.",
+        "Téma ekologických dopadů datové infrastruktury se stalo jedním z hlavních bodů volební kampaně do Senátu.",
+        "Spor ukazuje, jak se fyzické nároky na provoz AI přelévají do lokální i celostátní politiky."
+      ],
+      "why_matters": "Ukazuje, jak se výstavba AI datových center stává výbušným politickým a environmentálním tématem.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "OpenFrontiers přináší otevřený benchmark pro ověřování schopností AI ve vědě",
+      "title_orig": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili soubor otevřených vědeckých problémů navržený pro testování uvažování pokročilých LLM.",
+        "Benchmark OpenFrontiers hodnotí, zda dokáží AI modely samostatně dospět k reálným vědeckým objevům.",
+        "Dataset má pomoci objektivně měřit pokrok v oblastech, kde běžné znalostní testy již nestačí."
+      ],
+      "why_matters": "Poskytuje nový standard pro měření skutečných vědeckých a tvůrčích schopností AI agentů.",
+      "url": "https://arxiv.org/abs/2610.37739",
+      "source": "ArXiv cs.AI"
+    }
+  ]
+}
