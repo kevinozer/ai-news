@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T05:02:40.431177+00:00",
+  "generated_at": "2026-10-31T10:24:22.536886+00:00",
   "date": "2026-10-31",
-  "article_count_unique": 149,
-  "article_count_raw": 149,
+  "article_count_unique": 147,
+  "article_count_raw": 147,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "wired_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 11,
-      "raw_count": 11
+      "count": 10,
+      "raw_count": 10
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,16 +164,40 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 3,
-      "raw_count": 10
+      "raw_count": 7
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "6187af8a11458837",
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "published_at": "2026-10-31T10:00:00+00:00",
+      "author": "Emily Mullin",
+      "summary_raw": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "hero_image": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/master/pass/103026-AI%20Mouse%2002.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "e2059324f4985030",
+      "title": "Místo mozků pro roboty tvoří rychlé čipy pro AI. U doktoranda z Oxfordu si je už zamluvil i Anthropic",
+      "url": "https://cc.cz/misto-mozku-pro-roboty-tvori-rychle-cipy-pro-ai-u-doktoranda-z-oxfordu-si-je-uz-zamluvil-i-anthropic/",
+      "published_at": "2026-10-31T05:30:10+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Walter Goodwin plánoval původně dělat něco úplně jiného, ale náhoda tomu chtěla, že staví z Evropy konkurenci Nvidii. Teď nabral stovky milionů eur. Článek Místo mozků pro roboty tvoří rychlé čipy pro AI. U doktoranda z Oxfordu si je už zamluvil i Anthropic se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/goodwin-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "fa56906667a2685e",
       "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
@@ -181,7 +205,7 @@
       "published_at": "2026-10-31T05:00:48+00:00",
       "author": "swyx .ai",
       "summary_raw": "It turns out you cannot have your cake AND eat it",
-      "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f13715b2-ed2d-4a14-bbf6-85f184b4b202/SCR-20261030-svzc.png?t=1793422837",
+      "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f13715b2-ed2d-4a14-bbf6-85f184b4b202/SCR-20261030-svzc.png?t=1793423031",
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
@@ -1303,42 +1327,6 @@
       "category": "news"
     },
     {
-      "id": "77853e1f44d5a266",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "published_at": "2026-10-29T10:11:12+00:00",
-      "author": "Madhulika Srikumar, Claire Leibowicz",
-      "summary_raw": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "176bdecb95185d26",
-      "title": "Our climate models have a big, dangerous blind spot",
-      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-      "published_at": "2026-10-29T10:00:00+00:00",
-      "author": "James Temple",
-      "summary_raw": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "6199654e7c7aa630",
-      "title": "I Gave My Blood to the AI Death Clock",
-      "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-      "published_at": "2026-10-29T10:00:00+00:00",
-      "author": "Jason Parham",
-      "summary_raw": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-      "hero_image": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "e816ea45b9f592a1",
       "title": "How we detect frontier model misalignment",
       "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
@@ -1732,18 +1720,6 @@
       "hero_image": null,
       "source_id": "interconnects",
       "source_name": "Interconnects (Nathan Lambert)",
-      "category": "commentary"
-    },
-    {
-      "id": "5e374fb401c8dc1a",
-      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "url": "https://latent.space/p/ainews-kimi-31/",
-      "published_at": "2026-10-24T07:18:29+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "We have Fable at home... or so we are being told by paid shills",
-      "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/996d69ac-2a1f-4064-a383-641eebc365b8/SCR-20261024-bbmb.jpeg?t=1792826292",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
       "category": "commentary"
     },
     {
