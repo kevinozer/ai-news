@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-01",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Zneužití architektury ChatGPT umožnilo útočníkům převzít kontrolu nad účty",
+      "title_orig": "How We Took Over ChatGPT Accounts",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní výzkumníci z Parameter Labs odhalili závažnou zranitelnost v rozhraní ChatGPT.",
+        "Chyba se nacházela v implementaci interaktivních HTML náhledů zobrazených v izolovaném rámci iframe.",
+        "Útočníci mohli přes tento prvek získat přístup k uživatelským účtům a jejich soukromým datům."
+      ],
+      "why_matters": "Ukazuje bezpečnostní rizika pokročilých interaktivních funkcí přímo v rozhraní populárního chatbota.",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Zranitelnosti v kódu generovaném AI přinášejí novou vlnu kybernetických rizik",
+      "title_orig": "Was I wrong about open models & cyber risks?",
+      "category": "labs",
+      "summary_cs": [
+        "Bezpečnostní analytici označují říjen za kritický měsíc kvůli sérii závažných zranitelností.",
+        "Masivní nástup AI modelů pro psaní kódu výrazně zrychluje objevování i zneužívání bezpečnostních děr.",
+        "Odborníci přehodnocují bezpečnostní rizika spojená s volně dostupnými AI modely."
+      ],
+      "why_matters": "Rostoucí využití AI pro vývoj aplikací přináší zcela nové výzvy pro kybernetickou bezpečnost firem.",
+      "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+      "source": "Interconnects (Nathan Lambert)"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Šéf Apple tvrdí, že firma nechce nasazovat AI jen pro samotný efekt",
+      "title_orig": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "category": "business",
+      "summary_cs": [
+        "Vedení společnosti Apple obhajuje svou opatrnější strategii v oblasti umělé inteligence.",
+        "Firma se soustředí na praktický přínos pro uživatele místo bezhlavého následování tržního trendu.",
+        "Cílem je hluboká integrace do systému bez zbytečného marketingu kolem funkcí bez hodnoty."
+      ],
+      "why_matters": "Potvrzuje odlišný přístup technologického giganta k integraci AI do produktů pro běžné uživatele.",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Nová forma škodlivého softwaru využívá AI k automatickému shromažďování dat o obětech",
+      "title_orig": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "category": "news",
+      "summary_cs": [
+        "Objevený malware s názvem Volta-Autodoxer integroval nástroje umělé inteligence pro efektivnější krádeže dat.",
+        "Systém dokáže automaticky třídit a vyhodnocovat přihlašovací údaje, platby i historii služeb.",
+        "AI pomáhá útočníkům ze získaného množství informací rychle vytvořit ucelený profil oběti."
+      ],
+      "why_matters": "Ukazuje, jak útočníci začínají aktivně využívat AI k automatizaci komplexních kybernetických útoků.",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI podle zpráv snižuje cílovou částku v novém kole financování",
+      "title_orig": "OpenAI reportedly lowers funding target for new round",
+      "category": "business",
+      "summary_cs": [
+        "Nejnovější investiční kolo OpenAI naráží na zdržení a pravděpodobně nedosáhne původních očekávání.",
+        "Společnost musela upravit své investiční cíle z důvodu zvýšené opatrnosti velkých investorů.",
+        "Poptávka po podílech v předních AI firmách vykazuje známky mírného ochlazení."
+      ],
+      "why_matters": "Naznačuje měnící se náladu investorů ohledně obřích investic do vývoje generativních modelů.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Sam Altman reaguje na výhrady matematiků k záplavě AI výstupů",
+      "title_orig": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "category": "labs",
+      "summary_cs": [
+        "Šéf OpenAI vyjádřil pochopení pro vědce, kteří se potýkají s obrovským množstvím vygenerovaných teorémů.",
+        "Zároveň potvrdil, že výzkum v oblasti automatizovaného dokazování matematických úloh zpomalovat nebude.",
+        "AI modely podle něj vygenerují ještě podstatně více nových poznatků, které bude třeba zpracovat."
+      ],
+      "why_matters": "Demonstruje rychlé tempo, jakým pokročilé modely mění vědecký výzkum a ověřování hypotéz.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Počítačový chladicí systém AI satelitu Google poslal první zprávu z oběžné dráhy",
+      "title_orig": "Google’s satellite AI server transmits its first response to Earth",
+      "category": "news",
+      "summary_cs": [
+        "Satelit společnosti Google vybavený čipem TPU úspěšně spustil palubní AI model Gemma 4.",
+        "Země přijala první zpracovanou odpověď vytvořenou přímo v kosmickém prostoru.",
+        "Experiment ověřuje možnosti zpracování dat na oběžné dráze bez nutnosti odesílání na Zemi."
+      ],
+      "why_matters": "Potvrzuje proveditelnost spouštění pokročilých AI modelů přímo na hardware ve vesmíru.",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Soud povolil žalobu na datové centrum xAI kvůli znečištění životního prostředí",
+      "title_orig": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "category": "news",
+      "summary_cs": [
+        "Americký soud zamítl návrh na zrušení žaloby namířené proti datovému centru společnosti xAI.",
+        "Žalobci tvrdí, že provoz masivní výpočetní infrastruktury porušuje předpisy o čistotě ovzduší.",
+        "Případ zdůrazňuje rostoucí ekologickou zátěž spojenou s trénováním velkých modelů."
+      ],
+      "why_matters": "Právní precedens ukazující na přísnější dohled nad dopady infrastruktury AI na životní prostředí.",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Nvidia zvažuje finanční garance pro projekt nového datového centra",
+      "title_orig": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "category": "business",
+      "summary_cs": [
+        "Výrobce čipů Nvidia uvažuje o spolupodepsání úvěru pro výstavbu výpočetního centra Nscale.",
+        "Krok má uklidnit investory, kteří mají obavy z vysokých nákladů na AI infrastrukturu.",
+        "Zapojení samotného dodavatele hardware pomáhá zajišťovat financování velkých projektů."
+      ],
+      "why_matters": "Ukazuje neobvyklé finanční konstrukce, které vznikají pro udržení tempa výstavby AI infrastruktur.",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Uživatelský zájem o AI agenty pro nakupování jídla zůstává nízký",
+      "title_orig": "Basically no one is using AI agents for their DoorDash orders",
+      "category": "tools",
+      "summary_cs": [
+        "Platforma DoorDash zaznamenala pouze stovky objednávek vyřízených autonomními AI agenty.",
+        "Ačkoliv technologie umožňuje plnou automatizaci nákupu, běžní uživatelé jí zatím nedůvěřují.",
+        "Firma zůstává otevřená vývojářům agentů, očekává však delší dobu přijetí trhem."
+      ],
+      "why_matters": "Poukazuje na rozdíl mezi technickými možnostmi AI agentů a skutečnými návyky spotřebitelů.",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Přední univerzita řeší skandál kolem plagiátorství pomocí AI u vlastního vedení",
+      "title_orig": "Dartmouth's provost warned us about AI cheating-but his own AI use cost him his job",
+      "category": "news",
+      "summary_cs": [
+        "Akademický funkcionář známý svými varováními před zneužíváním AI studenty přišel o pozici.",
+        "Vyšetřování ukázalo, že sám neoprávněně využil generativní AI pro přípravu oficiálních dokumentů.",
+        "Případ vyvolal debatu o dvojím metru a transparentnosti při používání AI v institucích."
+      ],
+      "why_matters": "Příklad etických problémů a nekonzistentních pravidel pro využívání AI v akademické sféře.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Nový ručně točený animovaný film vyvolal zájem jako vzpoura proti AI tvorbě",
+      "title_orig": "Ručně točený animák vznikal šestnáct let. Kritici ho milují, diváci ho berou jako vzpouru proti AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Tradiční stop-motion snímek vznikající 16 let sklízí mimořádně pozitivní ohlasy u diváků i kritiky.",
+        "Využití klasické ruční práce je veřejností vnímáno jako přirozený kontrast k nastupující generativní AI.",
+        "Filmový průmysl hledá rovnováhu mezi lidskou řemeslnou zručností a rychlou automatizací."
+      ],
+      "why_matters": "Reflektuje kulturní odpor části veřejnosti vůči AI generovanému obsahu ve prospěch lidské tvorby.",
+      "url": "https://cc.cz/rucne-toceny-animak-vznikal-sestnact-let-kritici-ho-miluji-divaci-ho-berou-jako-vzpouru-proti-ai/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nástroj Datasette LLM přináší jednodušší správu výchozích modelů",
+      "title_orig": "datasette-llm 0.1a9",
+      "category": "open-source",
+      "summary_cs": [
+        "Vyšla nová aktualizace pluginu datasette-llm přinášející vylepšení uživatelského rozhraní.",
+        "Nástroj nyní automaticky přebírá výchozí model z hlavního prostředí bez nutnosti složité konfigurace.",
+        "Zjednodušuje se tak integrace lokálních jazykových modelů do databázových aplikací."
+      ],
+      "why_matters": "Usnadňuje vývojářům práci s databázemi a otevřenými jazykovými modely v open-source ekosystému.",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Startup zkouší sériovou výrobu prefabrikovaných AI datových center",
+      "title_orig": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost Runware staví továrnu určenou k pásové výrobě modulárních datových center pro AI.",
+        "Cílem je výrazně zkrátit dobu potřebnou k budování nové výpočetní kapacity.",
+        "Projekt prověří, zda lze standardizovat takto komplexní infrastrukturu pro masové trhy."
+      ],
+      "why_matters": "Inovativní přístup ke řešení úzkého hrdla při stavbě fyzické infrastruktury pro AI.",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Poptávka po AI zvyšuje výrobu magnetických pásek pro archivaci dat",
+      "title_orig": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "category": "wildcard",
+      "summary_cs": [
+        "Společnost Fujifilm pětinásobně zvyšuje produkci magnetických pásek kvůli nárokům na ukládání dat.",
+        "Obrovské objemy dat potřebné pro AI vyžadují nízkonákladové a dlouhodobě bezpečné úložiště.",
+        "Starší technologie zažívá renesanci díky odolnosti vůči kybernetickým útokům v offline režimu."
+      ],
+      "why_matters": "Ukazuje nečekané dopady AI boomu na poptávku po tradičních fyzických paměťových médiích.",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "source": "Ars Technica"
+    }
+  ]
+}
