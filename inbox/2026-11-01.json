@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T05:02:11.859073+00:00",
+  "generated_at": "2026-11-01T11:16:49.616296+00:00",
   "date": "2026-11-01",
-  "article_count_unique": 125,
-  "article_count_raw": 125,
+  "article_count_unique": 120,
+  "article_count_raw": 120,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -13,26 +13,26 @@
     {
       "source_id": "verge_ai",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 19,
-      "raw_count": 19
+      "count": 18,
+      "raw_count": 18
     },
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "venturebeat_ai",
@@ -163,17 +163,41 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 4
+      "count": 0,
+      "raw_count": 1
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "18a6138adf5ebde6",
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "published_at": "2026-11-01T10:30:00+00:00",
+      "author": "Christine Peterson",
+      "summary_raw": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "hero_image": "https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/master/pass/HCN406-scaled.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "42a4aec990439a7f",
+      "title": "OpenAI zažilo nečekanou věc: nezájem. Nevybralo dost peněz a muselo snížit svou cenu. Končí AI boom?",
+      "url": "https://cc.cz/openai-zazilo-necekanou-vec-nezajem-nevybralo-dost-penez-a-muselo-snizit-svou-cenu-konci-ai-boom/",
+      "published_at": "2026-11-01T05:30:52+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Tvůrce ChatGPT chtěl nejdřív od investorů 30 miliard dolarů, pak 20 miliard. Jistých má nakonec zatím jen zhruba 11 miliard. Článek OpenAI zažilo nečekanou věc: nezájem. Nevybralo dost peněz a muselo snížit svou cenu. Končí AI boom? se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/altman-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "6779dac09bc7958f",
       "title": "How We Took Over ChatGPT Accounts",
@@ -341,18 +365,6 @@
       "source_id": "wired_ai",
       "source_name": "Wired AI",
       "category": "news"
-    },
-    {
-      "id": "e2059324f4985030",
-      "title": "Místo mozků pro roboty tvoří rychlé čipy pro AI. U doktoranda z Oxfordu si je už zamluvil i Anthropic",
-      "url": "https://cc.cz/misto-mozku-pro-roboty-tvori-rychle-cipy-pro-ai-u-doktoranda-z-oxfordu-si-je-uz-zamluvil-i-anthropic/",
-      "published_at": "2026-10-31T05:30:10+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Walter Goodwin plánoval původně dělat něco úplně jiného, ale náhoda tomu chtěla, že staví z Evropy konkurenci Nvidii. Teď nabral stovky milionů eur. Článek Místo mozků pro roboty tvoří rychlé čipy pro AI. U doktoranda z Oxfordu si je už zamluvil i Anthropic se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/goodwin-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "fa56906667a2685e",
@@ -739,18 +751,6 @@
       "category": "news"
     },
     {
-      "id": "c808a8d9f577ec77",
-      "title": "Jiným stačí prompt, oni točí snímek po snímku. Animátoři Pata a Mata hledají cestu, jak v době AI přežít",
-      "url": "https://cc.cz/jinym-staci-prompt-oni-toci-snimek-po-snimku-animatori-pata-a-mata-hledaji-cestu-jak-v-dobe-ai-prezit/",
-      "published_at": "2026-10-30T15:05:55+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Pražské studio Kreus má za sebou reklamy pro velké značky i práci na seriálu Pat a Mat. Generativní AI ale proměňuje trh, ze kterého dlouhé roky žilo. Článek Jiným stačí prompt, oni točí snímek po snímku. Animátoři Pata a Mata hledají cestu, jak v době AI přežít se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/kreus-film-tym-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "e30bbecb9e66693c",
       "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
@@ -895,42 +895,6 @@
       "category": "news"
     },
     {
-      "id": "b80574b316d5a185",
-      "title": "Ostravská IT skupina kupuje firmu dvacetiletých českých mladíků, kteří vyvíjí software bez programování",
-      "url": "https://www.lupa.cz/aktuality/ostravska-it-skupina-kupuje-firmu-dvacetiletych-ceskych-mladiku-kteri-vyviji-software-bez-programovani/",
-      "published_at": "2026-10-30T11:04:05+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Tradiční ostravská IT skupina K2 udělala dal&#353;í akvizici. Tentokrát výrazně omladí svůj repertoár. Získala totiž podíl 51 procent v rovněž ostravské firmě Blaze. O ní jsme na Lupě v létě psali. Blaze se zabývá zakázkovým vývojem softwaru, ov&#353;em bez použití tradičního programování. Stojí čistě na AI agentech a obecně nástrojích umělé inteligence.",
-      "hero_image": "https://i.iinfo.cz/images/338/petr-schaffartzik-jan-netolicka.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "fc49e9f8af198015",
-      "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
-      "published_at": "2026-10-30T11:00:35+00:00",
-      "author": "Stephen Clark",
-      "summary_raw": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-1152x648-1793318298.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "a89ce5c043fa2b7f",
-      "title": "Maine’s data center revolt will decide who controls the Senate",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "published_at": "2026-10-30T11:00:00+00:00",
-      "author": "Abigail Bassett",
-      "summary_raw": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
       "id": "43e99348f96a4478",
       "title": "Making it easier for websites to express AI training preferences",
       "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
@@ -941,18 +905,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "663d2740705ce1b7",
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "published_at": "2026-10-30T09:00:00+00:00",
-      "author": "Jessica Hamzelou",
-      "summary_raw": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
     },
     {
       "id": "f31b00dd65efc502",
@@ -977,18 +929,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "f67e9b8cb3f0b947",
-      "title": "Nejdražší MacBook v historii, Apple opět natáčel v Česku, Anthropic je vysoce ztrátový",
-      "url": "https://www.lupa.cz/clanky/nejdrazsi-macbook-v-historii-apple-opet-natacel-v-cesku-anthropic-je-vysoce-ztratovy/",
-      "published_at": "2026-10-30T05:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Microsoft by se rád zbavil 60 tisíc lidí. Musk vytvořil Odyseu pomocí AI. Posílá Qwen data do Číny? Zprávy z technologií, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/34/apple.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "a69a1cf6c802d463",
