@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T05:03:01.022361+00:00",
+  "generated_at": "2026-11-02T12:23:44.402287+00:00",
   "date": "2026-11-02",
-  "article_count_unique": 98,
-  "article_count_raw": 98,
+  "article_count_unique": 94,
+  "article_count_raw": 94,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -19,20 +19,20 @@
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
-    },
-    {
-      "source_id": "mit_tech_review",
-      "status": "ok",
       "count": 0,
       "raw_count": 0
     },
     {
+      "source_id": "mit_tech_review",
+      "status": "ok",
+      "count": 1,
+      "raw_count": 1
+    },
+    {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 19,
-      "raw_count": 19
+      "count": 16,
+      "raw_count": 16
     },
     {
       "source_id": "anthropic_news",
@@ -55,8 +55,8 @@
     {
       "source_id": "deepmind_blog",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "microsoft_ai",
@@ -163,17 +163,77 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 0,
-      "raw_count": 3
+      "count": 2,
+      "raw_count": 11
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 1,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "c5529455c957d851",
+      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+      "published_at": "2026-11-02T12:00:00+00:00",
+      "author": "David Nield",
+      "summary_raw": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+      "hero_image": "https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/master/pass/102926-AI%20Web_.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "5d66be1dcf2a1119",
+      "title": "Boj o čistší internet má většího hráče. Slovenský startup kupuje konkurenta, který hlídal i česká média",
+      "url": "https://www.lupa.cz/aktuality/boj-o-cistsi-internet-ma-vetsiho-hrace-slovensky-startup-kupuje-konkurenta-ktery-hlidal-i-ceska-media/",
+      "published_at": "2026-11-02T11:22:58+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Dva sloven&#353;tí lovci internetových trollů se spojují. Česká média, která si najala technologii Elv.ai na hlídání nenávistných komentářů, budou nově využívat systém jeho konkurenta. Tento startup totiž kupuje firma TrollWall AI, která chce svou technologii pro moderování internetových diskusí roz&#353;ířit i do dal&#353;ích zemí. Zákazníky má v 17 zemích světa a používá ji také několik prezidentů, sportovních organizací, značek a největ&#353;ích politických stran v Evropě. V Česku se k nim řadí například také fotbalová Sparta nebo Policie ČR.",
+      "hero_image": "https://i.iinfo.cz/images/582/spoluzakladatele-elv-ai-a-trollwall-ai.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "8e16a380f5161c78",
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "published_at": "2026-11-02T10:00:00+00:00",
+      "author": "Matt Burgess",
+      "summary_raw": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+      "hero_image": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/pass/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "c4f37b8efe143e46",
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "published_at": "2026-11-02T09:35:19+00:00",
+      "author": "Grace Huckins",
+      "summary_raw": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/spot1.jpg",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "be753180769b1d21",
+      "title": "Firmy v Česku už kvůli AI nenabírají, nebo rovnou propouštějí. Přestože chápou, že junioři dojdou",
+      "url": "https://www.lupa.cz/clanky/firmy-v-cesku-uz-kvuli-ai-nenabiraji-nebo-rovnou-propousteji-prestoze-chapou-ze-juniori-dojdou/",
+      "published_at": "2026-11-02T05:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Na zaměstnávání ajťáků v českých firmách dopadá nástup AI. Máme exkluzivní data: část softwarových a technologických firem propustila juniory, další vědomě nenabírají a mnohé přiznávají, že u nich AI píše víc než polovinu kódu.",
+      "hero_image": "https://i.iinfo.cz/images/232/zamestnavani-v-it.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "d6ee87e7d2d5af97",
       "title": "Automatic Construction of Strong Simple Baselines",
@@ -427,18 +487,6 @@
       "category": "news"
     },
     {
-      "id": "42a4aec990439a7f",
-      "title": "OpenAI zažilo nečekanou věc: nezájem. Nevybralo dost peněz a muselo snížit svou cenu. Končí AI boom?",
-      "url": "https://cc.cz/openai-zazilo-necekanou-vec-nezajem-nevybralo-dost-penez-a-muselo-snizit-svou-cenu-konci-ai-boom/",
-      "published_at": "2026-11-01T05:30:52+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Tvůrce ChatGPT chtěl nejdřív od investorů 30 miliard dolarů, pak 20 miliard. Jistých má nakonec zatím jen zhruba 11 miliard. Článek OpenAI zažilo nečekanou věc: nezájem. Nevybralo dost peněz a muselo snížit svou cenu. Končí AI boom? se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/altman-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "6779dac09bc7958f",
       "title": "How We Took Over ChatGPT Accounts",
       "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
@@ -535,78 +583,6 @@
       "category": "commentary"
     },
     {
-      "id": "9dbe955d3f92904a",
-      "title": "Ručně točený animák vznikal šestnáct let. Kritici ho milují, diváci ho berou jako vzpouru proti AI",
-      "url": "https://cc.cz/rucne-toceny-animak-vznikal-sestnact-let-kritici-ho-miluji-divaci-ho-berou-jako-vzpouru-proti-ai/",
-      "published_at": "2026-10-31T14:00:16+00:00",
-      "author": "Martin Samek",
-      "summary_raw": "Studio, které financuje spoluzakladatel Nike a které nám nadělilo Koralínu, natočilo další film se stop motion animací. Kritici jásají. Článek Ručně točený animák vznikal šestnáct let. Kritici ho milují, diváci ho berou jako vzpouru proti AI se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/10/wildwood-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "461489394e19e685",
-      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-      "published_at": "2026-10-31T12:00:00+00:00",
-      "author": "Lily Hay Newman, Matt Burgess",
-      "summary_raw": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-      "hero_image": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "9df714443fa07422",
-      "title": "Seabirds racing home over the ocean can get jet-lagged",
-      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-      "published_at": "2026-10-31T11:15:26+00:00",
-      "author": "Jacek Krywko",
-      "summary_raw": "A long flight home from feeding grounds messes with birds' internal clocks.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4.jpeg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "dd31058c4c22ef33",
-      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-      "published_at": "2026-10-31T11:02:34+00:00",
-      "author": "Sara Talpos, Undark Magazine",
-      "summary_raw": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "52bcc15d566f7939",
-      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-      "published_at": "2026-10-31T10:30:00+00:00",
-      "author": "Paresh Dave",
-      "summary_raw": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
-      "hero_image": "https://media.wired.com/photos/6ae513e3393ae92e17e66a04/master/pass/Business_Everyone%E2%80%99s%20Questioning%20Meta%E2%80%99s%20Hype%20About%20Muse%20Meta%20Says%20Muse%20Is%20Already%20a%20Big%20Shopper_v1.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "6187af8a11458837",
-      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
-      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-      "published_at": "2026-10-31T10:00:00+00:00",
-      "author": "Emily Mullin",
-      "summary_raw": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
-      "hero_image": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/master/pass/103026-AI%20Mouse%2002.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "fa56906667a2685e",
       "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
       "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
@@ -653,6 +629,18 @@
       "source_id": "dwarkesh",
       "source_name": "Dwarkesh Patel",
       "category": "commentary"
+    },
+    {
+      "id": "6d1367698854fca7",
+      "title": "Speeding up planning decisions with AI",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "published_at": "2026-10-30T14:18:30+00:00",
+      "author": "",
+      "summary_raw": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "hero_image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo",
+      "source_id": "deepmind_blog",
+      "source_name": "Google DeepMind Blog",
+      "category": "labs"
     },
     {
       "id": "43e99348f96a4478",
@@ -1093,42 +1081,6 @@
       "published_at": "2026-10-26T13:45:00+00:00",
       "author": "",
       "summary_raw": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "14632c7471c4c853",
-      "title": "ChatGPT’s expanding world of work",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "published_at": "2026-10-26T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "e4fdfa003b4ae74d",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "4352479e9b14a778",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
