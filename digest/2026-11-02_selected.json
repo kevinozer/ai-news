@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-02",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Meta chystá AI přívěsek Muse, nadšenci ho vybudovali z domácích dílů",
+      "title_orig": "I built an AI Tamagotchi before Meta could",
+      "category": "tools",
+      "summary_cs": [
+        "Meta plánuje vydat nositelné AI zařízení Muse Charm s roztomilým obličejem v takzvaném Tamagoči stylu.",
+        "Techničtí nadšenci však dokázali podobné HW rozhraní sestavit svépomocí ještě před oficiálním zahájením prodeje.",
+        "Ukazuje se nový trend osobních nositelných AI asistentů, kteří s uživatelem komunikují v reálném čase."
+      ],
+      "why_matters": "Nositelná AI elektronika se stává novým trendem spotřebitelského trhu.",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Pokles tržeb z vyhledávání vyvolává obavy z propadu AI trhu",
+      "title_orig": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "category": "news",
+      "summary_cs": [
+        "Integrace odpovědních AI režimů přímo do vyhledávání vede k poklesu příjmů z tradiční textové reklamy.",
+        "Analytici varují před možným nástupem klesajícího trhu v oblasti komerčního využití velkých jazykových modelů.",
+        "Monetizace AI vyhledávání zůstává nevyřešenou výzvou i pro ty největší technologické giganty."
+      ],
+      "why_matters": "Změna monetizace vyhledávání zásadně ovlivní celý online marketing.",
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Generování AI textů zhoršuje firemní kulturu a vytváří slop granáty",
+      "title_orig": "Osm stran od AI, které zpomalily celou firmu. Kiska a Krcha o slop granátech a nové kultuře v týmech",
+      "category": "news",
+      "summary_cs": [
+        "Nekontrolované používání AI ke generování sbalastovaných textů často zpomaluje schvalovací procesy ve firmách.",
+        "Kontrola a korekce nekvalitních AI výstupů bývá náročnější než psaní dokumentů od úplného začátku.",
+        "České firmy zkoušejí nastavit nová pravidla a kulturu pro smysluplnou práci s AI agenty."
+      ],
+      "why_matters": "Ukazuje reálná rizika nadužívání AI ve firemní praxi v ČR.",
+      "url": "https://cc.cz/osm-stran-od-ai-ktere-zpomalily-celou-firmu-kiska-a-krcha-o-slop-granatech-a-nove-kulture-v-tymech/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI mění rétoriku a chce datová centra přejmenovat na výpočetní kampusy",
+      "title_orig": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "category": "business",
+      "summary_cs": [
+        "Stavba velkých datových center čelí v mnoha regionech odporu místních obyvatel kvuli spotřebě energie a vody.",
+        "OpenAI zvažuje marketingový rebrand těchto objektů na AI výpočetní kampusy pro lepší přijetí veřejností.",
+        "Snaha o změnu vnímání podtrhuje rostoucí infrastrukturní nároky na provoz pokročilých modelů."
+      ],
+      "why_matters": "Rostoucí nároky na datová centra vytvářejí globální tlak na energetiku a veřejné mínění.",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Přehnané spoléhání na turistické AI chatboty vede k nebezpečným situacím",
+      "title_orig": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "category": "news",
+      "summary_cs": [
+        "Turisté čím dál častěji plánují náročné outdoorové trasy s pomocí AI asistentů bez ověření reálných podmínek.",
+        "Generativní modely si v horském terénu často vymýšlejí neexistující cesty nebo podceňují rizika.",
+        "Absence kritického myšlení u uživatelů vede k opakovaným zásahům záchranářů v divočině."
+      ],
+      "why_matters": "Upozorňuje na rizika přehnané důvěry v halucinující AI v krizových situacích.",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenAI zavádí sdílený standard pro vyjádření nesouhlasu s trénováním AI",
+      "title_orig": "Making it easier for websites to express AI training preferences",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI začíná respektovat univerzální signály v souboru robots.txt pro blokování sběru dat.",
+        "Weboví vývojáři tak získávají jednodušší nástroj k zamezení využití svého obsahu pro trénování modelů.",
+        "Jde o reakci na rostoucí tlak ze strany majitelů autorských práv a provozovatelů webů."
+      ],
+      "why_matters": "Usnadňuje majitelům českých webů ochranu obsahu před nepovoleným trénováním AI.",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Nástroje LLM usnadňují obcházení tradičních indikátorů důvěryhodnosti kódů",
+      "title_orig": "Quoting Kyle Kingsbury",
+      "category": "wildcard",
+      "summary_cs": [
+        "Masové využití AI k psaní dokumentace a softwaru stírá rozdíly mezi kvalitními a odfláknutými projekty.",
+        "Tradiční známky zralého projektu, jako je rozsáhlá dokumentace, lze nyní snadno a levně falšovat.",
+        "Vývojáři budou muset přistupovat k novým otevřeným knihovnám s mnohem větší obezřetností."
+      ],
+      "why_matters": "Varuje před ztrátou důvěry v dokumentaci a open-source software navržený pomocí AI.",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Dlouhodobí AI agenti vyžadují stálou paměť a specifické pracovní postupy",
+      "title_orig": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "category": "tools",
+      "summary_cs": [
+        "Experti na AI diskutují o přechodu od jednorázových promptů k autonomním vícedenním workflow.",
+        "Klíčovými prvky pro plnění komplexních úkolů ve financích se stávají stálá paměť a custom rozhraní.",
+        "Agenti v tomto režimu nejen plní pokyny, ale sami si vyžadují doplňující informace od lidí."
+      ],
+      "why_matters": "Ukazuje praktický posun od jednoduchých chatů k plně autonomním AI agentům.",
+      "url": "https://latent.space/p/arca/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Hugging Face spouští Project ProtoStar pro zpřístupnění vědeckých dat pro AI",
+      "title_orig": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "category": "open-source",
+      "summary_cs": [
+        "Komunitní platforma Hugging Face představila iniciativu na úpravu veřejně financovaných vědeckých dat.",
+        "Cílem je přetvořit nestrukturované vědecké publikace a databáze do formátů vhodných pro trénink AI.",
+        "Projekt má urychlit výzkum v biologii, fyzice i materiálovém inženýrství pomocí otevřených modelů."
+      ],
+      "why_matters": "Otevře veřejně financovaná vědecká data pro využití výzkumnými AI modely.",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "IBM představuje Granite Switch pro snadnější aktualizaci modelů v produkci",
+      "title_orig": "Granite Switch 4.1.1 - Update models like you update software",
+      "category": "open-source",
+      "summary_cs": [
+        "Nová verze architektur řady Granite přináší systém pro bezproblémové nahrazování verzí modelů.",
+        "Vývojáři mohou aktualizovat AI modely v podnikovém prostředí podobně jako běžné softwarové balíčky.",
+        "Řešení výrazně snižuje výpadky a infrastrukturní komplikace při nasazování nových verzí."
+      ],
+      "why_matters": "Zjednodušuje údržbu a průběžné aktualizace AI modelů ve firemním prostředí.",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Nová metoda AutoHebb umožňuje neuronovým sítím rychlé kontinuální učení",
+      "title_orig": "AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn",
+      "category": "research",
+      "summary_cs": [
+        "Vědci navrhli samo-upravující se sítě inspirující se hebbovským učením v lidském mozku.",
+        "Model dosahuje výborných výsledků v zero-shot úlohách bez nutnosti neustálého přetrénování.",
+        "Tento přístup výrazně snižuje katastrofické zapomínání při učení nových znalostí."
+      ],
+      "why_matters": "Přináší pokrok v řešení problému kontinuálního učení AI bez ztráty starších schopností.",
+      "url": "https://arxiv.org/abs/2610.40757",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Autoři poukazují na zkreslení výzkumných výsledků kvůli špatným základním srovnáním",
+      "title_orig": "Automatic Construction of Strong Simple Baselines",
+      "category": "research",
+      "summary_cs": [
+        "Studie upozorňuje, že zdánlivý pokrok u mnoha nových AI metod je způsoben srovnáním se slabými baselines.",
+        "Nástroj pro automatickou konstrukci silných jednoduchých baselines odhaluje reálné schopnosti novinek.",
+        "Rigorózní metodika pomůže komunitě lépe odlišit skutečné průlomové práce od průměrných."
+      ],
+      "why_matters": "Pomůže odborné komunitě objektivněji vyhodnocovat reálné přínosy nových AI výzkumů.",
+      "url": "https://arxiv.org/abs/2610.40700",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nástroj uv doporučuje při problémech s závislostmi smazat soubor uv.lock",
+      "title_orig": "If in doubt, delete the uv.lock file",
+      "category": "tools",
+      "summary_cs": [
+        "Při přechodu na novější verze Pythonu mohou balíčkovací nástroje narážet na zamčené verze závislostí.",
+        "U knihoven a menších projektů bývá nejrychlejším řešením smazání zamknutého stavu prostředí.",
+        "Článek shrnuje praktické zkušenosti s vývojem v moderním ekosystému nástroje uv."
+      ],
+      "why_matters": "Praktický tip pro vývojáře používající populární balíčkovací nástroj uv v Pythonu.",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Bezpečnostní firma Check Point zrychluje výzkum zranitelností díky OpenAI",
+      "title_orig": "How Check Point accelerates vulnerability research with Daybreak",
+      "category": "business",
+      "summary_cs": [
+        "Check Point nasadil specializované AI modely pro rychlou analýzu a odhalování bezpečnostních děr.",
+        "Analytici dokáží transformovat informace o nových hrozbách do ochranných pravidel během několika minut.",
+        "Využití AI v kybernetické obraně vyrovnává síly proti automatizovaným útokům hackerů."
+      ],
+      "why_matters": "Demonstruje využití AI v kybernetické bezpečnosti pro rychlou obranu před útoky.",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Elorian představuje benchmark pro testování vizuálního uvažování AI modelů",
+      "title_orig": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+      "category": "wildcard",
+      "summary_cs": [
+        "Nové testování ukazují výrazný rozdíl mezi pouhým rozpoznáním objektů a skutečným vizuálním uvažováním.",
+        "Pokročilé multimodalní modely se nechají snadno zmást podvrženými prvky na obrázcích.",
+        "Projekt Glimpse se snaží tuto mezeru překlenout pomocí uvažování přímo nad vizuálními stavy."
+      ],
+      "why_matters": "Odhaluje limity současných multimodálních modelů při analýze složitých obrázků.",
+      "url": "https://latent.space/p/elorian/",
+      "source": "Latent Space"
+    }
+  ]
+}
