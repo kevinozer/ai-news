@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-03",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic varuje před brzkým dosažením autonomního vývoje AI",
+      "title_orig": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost Anthropic oznámila, že se velmi blíží k hranici technické rekurzivní sebezdokonalování (RSI).",
+        "Při dosažení této schopnosti začne AI trénovat a vylepšovat sama sebe bez nutnosti lidského zásahu.",
+        "Tento milník podle expertů zásadně urychlí rozvoj schopností modelů a přinese nové výzvy v oblasti bezpečnosti."
+      ],
+      "why_matters": "Průlom v samolepšení AI by mohl nevídaným způsobem zrychlit vývoj všech technologických odvětví.",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic plánuje vstup na burzu i přes obří ztrátu",
+      "title_orig": "Anthropic míří na burzu. Pololetní tržby zvedl 14krát, ztrátu ale vykázal přes 80 miliard dolarů",
+      "category": "business",
+      "summary_cs": [
+        "Strojce modelů Claude zveřejnil podrobné finanční výsledky v rámci příprav na veřejnou nabídku akcií.",
+        "Přestože firma meziročně zvýšila svoje tržby čtrnáctinásobně, vykázala pololetní ztrátu přes 80 miliard dolarů.",
+        "Čísla ukazují extrémní finanční náročnost vývoje a provozování nejmodernějších AI modelů současnosti."
+      ],
+      "why_matters": "Ukazuje ekonomickou realitu AI gigantů a obrovská rizika spojená s financováním infrastruktury.",
+      "url": "https://cc.cz/anthropic-miri-na-burzu-pololetni-trzby-zvedl-14krat-ztratu-ale-vykazal-pres-80-miliard-dolaru/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI představuje benchmark LifeVal pro měření pomoci AI v běžném životě",
+      "title_orig": "LifeVal",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI vytvořilo nový srovnávací test nazvaný LifeVal určený k hodnocení schopností systémů AI.",
+        "Benchmark měří, jak efektivně dokáže AI pomáhat lidem s řešením každodenních a praktických úkolů.",
+        "Test zahrnuje reálné scénáře od hledání péče o děti až po správu osobních financí nebo úředních dokumentů."
+      ],
+      "why_matters": "Posunuje hodnocení AI od akademických testů k reálné užitečnosti v každodenním životě.",
+      "url": "https://openai.com/index/lifeval",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "České firmy kvůli AI omezují nábory a propouštějí juniory",
+      "title_orig": "Firmy v Česku už kvůli AI nenabírají, nebo rovnou propouštějí. Přestože chápou, že junioři dojdou",
+      "category": "news",
+      "summary_cs": [
+        "Nové průzkumy potvrzují dopad automatizace a generování kódu na český trh vývojářských prací.",
+        "Mnoho tuzemských technologických firem pozastavilo nábory juniorních programátorů nebo přistoupilo k propouštění.",
+        "Organizace přitom uznávají riziko, že jim v budoucnu mohou chybět zkušenější seniorní pracovníci."
+      ],
+      "why_matters": "První jasný důkaz o přímém vlivu nástupu AI na pracovní trh vývojářů v České republice.",
+      "url": "https://www.lupa.cz/clanky/firmy-v-cesku-uz-kvuli-ai-nenabiraji-nebo-rovnou-propousteji-prestoze-chapou-ze-juniori-dojdou/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI zakládá program na ochranu energetických sítí u datových center",
+      "title_orig": "Introducing the Grid Protectors Program",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI spouští pilotní program Grid Protectors v souvislosti s výstavbou svých obřích Compute Campusů.",
+        "Společnost se zavázala v případě energetických špiček uvolnit zpět do sítě až 1000 megawattů energie.",
+        "Iniciativa má pomoci udržet stabilitu sítě a zabránit růstu cen elektřiny pro běžné domácnosti."
+      ],
+      "why_matters": "Řeší rostoucí obavy veřejnosti a úřadů z dopadu gigantických AI center na energetiku.",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "New York Times a další média žalují prohlížeč Brave kvůli AI scrapingu",
+      "title_orig": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "category": "news",
+      "summary_cs": [
+        "Vydavatelství New York Times podalo žalobu na tvůrce zaměřeného prohlížeče Brave.",
+        "Předmětem sporu je neoprávněné stahování autorského obsahu pro trénování AI a obcházení platebních bran.",
+        "Získaná data měl podle žaloby Brave přeprodávat dál vývojářům AI včetně firem Anthropic a Perplexity."
+      ],
+      "why_matters": "Zostřuje právní bitvu mezi tradičními žurnalistickými domy a technologickými platformami vyvíjejícími AI.",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Simon Willison vydal novou verzi rozhraní LLM 0.37",
+      "title_orig": "llm 0.37",
+      "category": "tools",
+      "summary_cs": [
+        "Populární příkazový řádkový nástroj a knihovna LLM dostala po dvou měsících vývoje velkou aktualizaci.",
+        "Verze 0.37 přináší podporu nových modelů gpt-6.1-sol i gpt-6.1-terra pro efektivnější práci.",
+        "Byl přizpůsoben proces konfigurace vlastních koncových bodů kompatibilních s rozhraním OpenAI."
+      ],
+      "why_matters": "Klíčový open-source nástroj pro vývojáře usnadňuje lokální správu a spouštění nejnovějších AI modelů.",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Anthropic zpřísňuje pravidla pro klonování her pomocí Claude Code",
+      "title_orig": "Anthropic clamps down on Claude’s AI video game clones",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost Anthropic upravila systémové pokyny svého vývojářského nástroje Claude Code.",
+        "Změna má zabránit zneužívání systému ke snadnému vytváření kopií a decompilací existujících her.",
+        "Reaguje tak na masivní vlnu komerčních re-edice a portů retro her generovaných umělou inteligencí."
+      ],
+      "why_matters": "Ukazuje, jak vývojáři modelů aktivně zasahují proti autorsko-právním rizikům a zneužívání kódu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "OpenAI sjednocuje rozhraní ChatGPT a pracovní prostředí Codex",
+      "title_orig": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI oznámilo sloučení uživatelských záložek Chat a Work v prostředí aplikace ChatGPT.",
+        "Uživatelé tak budou mít přístup ke všem pokročilým pracovním i konverzačním funkcím z jednoho místa.",
+        "Změna přináší také sdílený alokační limit využití zdrojů pro konverzace i kódování skrz rozhraní Codex."
+      ],
+      "why_matters": "Zjednodušuje uživatelský zážitek a zefektivňuje práci profesionálům používajícím ekosystém OpenAI.",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "OpenAI postavilo Pando pro škálování vývoje s využitím AI",
+      "title_orig": "Scaling Git at OpenAI",
+      "category": "labs",
+      "summary_cs": [
+        "Tým OpenAI vytvořil nový systém Pando pro spolehlivou správu zdrojových kódů.",
+        "Nástroj zachovává plnou kompatibilitu s Git, ale dokáže zvládat extrémní objemy generovaného kódu.",
+        "Architektura reaguje na masivní nárůst automaticky psaného kódu díky nasazení modelů řady Codex."
+      ],
+      "why_matters": "Ukazuje, jak extrémní produkce kódů pomocí AI vyžaduje novou generaci vývojářské infrastruktury.",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Startup 42AI získal investici na předvídání lidského chování",
+      "title_orig": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "category": "business",
+      "summary_cs": [
+        "Nová společnost 42AI vystoupila z utajení a oznámila získání investice ve výši 62,5 milionu dolarů.",
+        "Startup vyvíjí unikátní model světa schopný predikovat lidské jednání v dosud nepoznaných situacích.",
+        "Cílem je přinést novou úroveň autonomního rozhodování pro robotiku i pokročilé simulační systémy."
+      ],
+      "why_matters": "Posouvá možnosti AI modelů směrem k hlubšímu pochopení a predikci lidského chování.",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Slovenští vývojáři TrollWall AI kupují konkurenta Elv.ai",
+      "title_orig": "Boj o čistší internet má většího hráče. Slovenský startup kupuje konkurenta, který hlídal i česká média",
+      "category": "wildcard",
+      "summary_cs": [
+        "Dochází ke spojení dvou předních slovenských projektů zaměřených na automatickou moderaci diskusí.",
+        "Startup TrollWall AI přebírá společnost Elv.ai, jejíž systémy využívala i řada českých mediálních domů.",
+        "Akvizice má vytvořit silný středoevropský subjekt v boji proti nenávistným komentářům a trollům."
+      ],
+      "why_matters": "Klíčová zpráva pro regionální trh ochrany online obsahu a využití AI při moderaci diskusí.",
+      "url": "https://www.lupa.cz/aktuality/boj-o-cistsi-internet-ma-vetsiho-hrace-slovensky-startup-kupuje-konkurenta-ktery-hlidal-i-ceska-media/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Stovky mobilních AI aplikací skrývaly nebezpečné generátory obsahu",
+      "title_orig": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní analýza odhalila kolem 400 aplikací a webů vystupujících jako běžné AI nástroje.",
+        "Produkty napojené na čínské vývojáře tajně obsahovaly funkce pro generování zneužívajících deepfake snímků.",
+        "Zjištění podtrhuje rostoucí obavy z obcházení schvalovacích procesů v oficiálních obchodech s aplikacemi."
+      ],
+      "why_matters": "Varuje před bezpečnostními a etickými riziky u běžně dostupných mobilních AI aplikací.",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Startup Trajectory získal 45 milionů dolarů na demokratizaci trénování AI",
+      "title_orig": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "category": "business",
+      "summary_cs": [
+        "Roční startup Trajectory dosáhl při novém investičním kole ohodnocení přes 300 milionů dolarů.",
+        "Firma získala 45 milionů na rozvoj platformy pro trénování modelů netechnickými experty.",
+        "Nástroje mají umožnit odborníkům z oboru snadno dolaďovat specializované AI modely bez znalostí kódování."
+      ],
+      "why_matters": "Otevírá dveře stavbě doménově specifických AI systémů expertům mimo obor IT.",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Hacker okradl hráče přes aktualizace, nekalou aktivitu odhalila AI",
+      "title_orig": "Hacker tiše připravil hráče o miliony. Děsivě důmyslný podvod odhalila umělá inteligence",
+      "category": "wildcard",
+      "summary_cs": [
+        "Útočník propašoval škodlivý kód přímo do oficiálních aktualizací herních aplikací a obral hráče o miliony.",
+        "Propracovanou kybernetickou hrozbu se podařilo odhalit až díky nasazení pokročilých AI algoritmů.",
+        "Případ ukazuje praktický význam umělé inteligence při detekci dříve nezjištěných zranitelností."
+      ],
+      "why_matters": "Názorný příklad úspěšného nasazení AI v boji s pokročilým kybernetickým zločinem.",
+      "url": "https://cc.cz/hacker-tise-pripravil-hrace-o-miliony-desive-dumyslny-podvod-odhalila-umela-inteligence/",
+      "source": "CzechCrunch"
+    }
+  ]
+}
