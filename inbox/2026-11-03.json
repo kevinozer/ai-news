@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-03T05:02:34.717081+00:00",
+  "generated_at": "2026-11-03T11:56:30.366624+00:00",
   "date": "2026-11-03",
-  "article_count_unique": 126,
-  "article_count_raw": 126,
+  "article_count_unique": 132,
+  "article_count_raw": 132,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 14,
-      "raw_count": 14
+      "count": 15,
+      "raw_count": 15
     },
     {
       "source_id": "verge_ai",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "wired_ai",
@@ -67,8 +67,8 @@
     {
       "source_id": "huggingface_blog",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "import_ai",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "latent_space",
@@ -164,16 +164,136 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 2,
-      "raw_count": 13
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "ee43cfc7a07e1cf4",
+      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "published_at": "2026-11-03T11:00:00+00:00",
+      "author": "Katie Drummond",
+      "summary_raw": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "hero_image": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/master/pass/WEB_WIRED_Mamdani_HR-00808.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "934c570c324df71f",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "published_at": "2026-11-03T10:43:41+00:00",
+      "author": "Amit Katwala",
+      "summary_raw": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "8b671affa640b4ef",
+      "title": "Díky IT manažerovi konečně mluví Zaklínač česky. S dabingem pomáhá AI, ale měníme ji za živé herce, říká",
+      "url": "https://cc.cz/diky-it-manazerovi-konecne-mluvi-zaklinac-cesky-s-dabingem-pomaha-ai-ale-menime-ji-za-zive-herce-rika/",
+      "published_at": "2026-11-03T10:22:53+00:00",
+      "author": "Michal Mančař",
+      "summary_raw": "Zaklínač Geralt ve videohře Witcher 3 dosud česky nemluvil, měl jen titulky. Díky umělé inteligenci se to mění. Ale chystá se i živý český dabing. Článek Díky IT manažerovi konečně mluví Zaklínač česky. S dabingem pomáhá AI, ale měníme ji za živé herce, říká se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/ondrej-sitler-zaklinac-geralt-dabing-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "1d696d17811255ee",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "author": "",
+      "summary_raw": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "ea52fb3d5de34a75",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "published_at": "2026-11-03T07:20:00+00:00",
+      "author": "Sarah Perez",
+      "summary_raw": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "d4c1286d6ff979a3",
+      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+      "published_at": "2026-11-03T05:35:00+00:00",
+      "author": "swyx .ai",
+      "summary_raw": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
+      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/7c05f6ee-ac6d-4327-b763-7d43c0fa8d35/image.png?t=1793682395",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "e13b734933a370ae",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "published_at": "2026-11-03T05:32:25+00:00",
+      "author": "",
+      "summary_raw": "I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different flights. Via Lobste.rs Tags: privacy , youtube",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "9871ad5309111997",
+      "title": "October sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "published_at": "2026-11-03T05:28:59+00:00",
+      "author": "",
+      "summary_raw": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here , as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "d85956f12d5b74e4",
+      "title": "„Nemám co ztratit.“ Americký AI moderátor nadává, radí proti imigrační policii a mladí posluchači přibývají",
+      "url": "https://cc.cz/nemam-co-ztratit-americky-ai-moderator-nadava-radi-proti-imigracni-policii-a-mladi-posluchaci-pribyvaji/",
+      "published_at": "2026-11-03T05:25:56+00:00",
+      "author": "Michaela Prešinská",
+      "summary_raw": "Kalifornská stanice našla odpověď na strach z deportací. Virtuální moderátor mluví slangem, zvedá poslechovost a otevírá etické otázky. Článek „Nemám co ztratit.“ Americký AI moderátor nadává, radí proti imigrační policii a mladí posluchači přibývají se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/coyotec-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "80eb95f9c3ca9dab",
+      "title": "Čínské modely jsou blízko špičce, říká Krcha. Americké laboratoře budou měnit byznys model, tipuje Kiska",
+      "url": "https://cc.cz/cinske-modely-jsou-blizko-spicce-rika-krcha-americke-laboratore-budou-menit-byznys-model-tipuje-kiska/",
+      "published_at": "2026-11-03T05:23:38+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Otevřené čínské modely dotahují americké laby. Tom Krcha a Andrej Kiska v podcastu Money Maker řeší, co to udělá s byznysem kolem AI. Článek Čínské modely jsou blízko špičce, říká Krcha. Americké laboratoře budou měnit byznys model, tipuje Kiska se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/kiska-holzman-krcha-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "514345be2861c20e",
       "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
@@ -403,6 +523,18 @@
       "category": "news"
     },
     {
+      "id": "419a21f7f8db80e3",
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
       "id": "61fa61a53ae1badb",
       "title": "llm 0.37",
       "url": "https://simonwillison.net/2026/Nov/2/llm/",
@@ -445,7 +577,7 @@
       "published_at": "2026-11-02T23:01:02+00:00",
       "author": "Basil Chatha",
       "summary_raw": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
-      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/4df2c736-d45f-4b0a-9748-cba4ed1d6f72/legora-thumbnail.png?t=1793660014",
+      "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ddf5ae31-7afc-4bdb-90ce-b116c9981792/private-evals.jpg?t=1793682299",
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
@@ -763,18 +895,6 @@
       "category": "news"
     },
     {
-      "id": "af867fbd5e885c14",
-      "title": "Hacker tiše připravil hráče o miliony. Děsivě důmyslný podvod odhalila umělá inteligence",
-      "url": "https://cc.cz/hacker-tise-pripravil-hrace-o-miliony-desive-dumyslny-podvod-odhalila-umela-inteligence/",
-      "published_at": "2026-11-02T13:51:46+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Hacker propašoval vir přímo do oficiálních aktualizací oblíbených hráčských aplikací a obral stovky profesionálů o miliony. Odhalila ho náhodou AI. Článek Hacker tiše připravil hráče o miliony. Děsivě důmyslný podvod odhalila umělá inteligence se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/poker-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "a4acf272076c6145",
       "title": "The U.S. Census Bureau and “Super Intelligence”",
       "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
@@ -809,18 +929,6 @@
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
       "category": "news"
-    },
-    {
-      "id": "85d4daee39256294",
-      "title": "Anthropic míří na burzu. Pololetní tržby zvedl 14krát, ztrátu ale vykázal přes 80 miliard dolarů",
-      "url": "https://cc.cz/anthropic-miri-na-burzu-pololetni-trzby-zvedl-14krat-ztratu-ale-vykazal-pres-80-miliard-dolaru/",
-      "published_at": "2026-11-02T12:41:10+00:00",
-      "author": "Tomáš Vranka",
-      "summary_raw": "Tvůrce nástroje Claude zveřejnil podrobný dokument před vstupem na burzu. Co v něm stojí za pozornost, popisuje analytik XTB Tomáš Vranka. Článek Anthropic míří na burzu. Pololetní tržby zvedl 14krát, ztrátu ale vykázal přes 80 miliard dolarů se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/anthropic-zverejnil-dokument-s1-pred-vstupem-na-burzu-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "e791defe8a35ad45",
@@ -989,18 +1097,6 @@
       "source_id": "simonw",
       "source_name": "Simon Willison's Weblog",
       "category": "commentary"
-    },
-    {
-      "id": "18a6138adf5ebde6",
-      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-      "published_at": "2026-11-01T10:30:00+00:00",
-      "author": "Christine Peterson",
-      "summary_raw": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-      "hero_image": "https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/master/pass/HCN406-scaled.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
     },
     {
       "id": "05e66617d0da2296",
@@ -1445,30 +1541,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "c70b58b8b2fa390e",
-      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-      "url": "https://latent.space/p/ainews-anthropic-s1/",
-      "published_at": "2026-10-27T07:24:59+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "The S-1, the numbers, and the reactions.",
-      "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f056ab0b-c9ca-46f2-8fb1-08d5f2f6b891/image.png?t=1793085208",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "8032c0e4b04289b7",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "published_at": "2026-10-27T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
     },
     {
       "id": "816446490bf062e1",
