@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-04",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI hlásí, že ChatGPT v objemu vyhledávání dohání Google",
+      "title_orig": "OpenAI says ChatGPT is catching up to Google in search",
+      "category": "labs",
+      "summary_cs": [
+        "Zástupci OpenAI oznámili, že objem vyhledávacích dotazů v rozhraní ChatGPT dosáhl 20 procent objemu klasického vyhledávání Google.",
+        "Uživatelé stále častěji nahrazují tradiční vyhledávače přímým dotazováním generativního modelu.",
+        "Tento trend zásadně mění chování uživatelů na internetu a ohrožuje tradiční reklamní model založený na vyhledávání."
+      ],
+      "why_matters": "Potvrzuje masivní posun v tom, jak lidé hledají informace na internetu.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Apple zpřístupňuje AI funkci Siri aplikacím třetích stran",
+      "title_orig": "Apple starts giving Siri AI access to third-party apps",
+      "category": "tools",
+      "summary_cs": [
+        "V rámci aktualizace iOS 27.3 umožňuje Apple vývojářům integrovat schopnosti Siri AI přímo do jejich aplikací.",
+        "Hlasová asistentka tak získá přístup k osobnímu kontextu uživatele a dokáže provádět akce napříč celým systémem.",
+        "Tento krok výrazně posiluje ekosystém mobilních AI agentů na zařízeních Apple."
+      ],
+      "why_matters": "Otevírá cestu k plně automatizovanému ovládání mobilních aplikací hlasem.",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic vyvíjí systém FlashProve pro ověřování identity AI modelů",
+      "title_orig": "Anthropic is working on a system to prove AI models’ identity",
+      "category": "labs",
+      "summary_cs": [
+        "Anthropic představil systém FlashProve, který má umožnit kryptografické ověření původu výstupů generovaných AI.",
+        "Uživatelé si díky tomu budou moci ověřit, zda odpověď skutečně pochází od deklarovaného modelu a ne od podvržené verze.",
+        "Nástroj řeší rostoucí problém s transparentností a bezpečností v distribuovaných AI rozhraních."
+      ],
+      "why_matters": "Přináší důležitý standard pro ověřování pravosti výstupů z umělé inteligence.",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Google vypne vyhledávač v školách, které odmítnou AI funkce",
+      "title_orig": "Google will let schools skip AI tools, but they have to give up search, too",
+      "category": "business",
+      "summary_cs": [
+        "Google zavedl pravidlo, podle kterého budou mít vzdělávací instituce možnost vypnout generativní AI nástroje jen za cenu kompletního ztráty přístupu k vyhledávači.",
+        "Důvodem je hluboká integrace funkce Gemini přímo do jádra vyhledávacího systému.",
+        "Krok vyvolal vlnu nevole mezi pedagogy, kteří mají obavy z dopadů AI na samostatné uvažování žáků."
+      ],
+      "why_matters": "Ukazuje tlak technologických gigantů na povinné přijímání AI nástrojů.",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Poptávka po AI zrychluje fúzi výrobců čipů a laserů v hodnotě 2,5 bilionu korun",
+      "title_orig": "Nvidia žehná rekordnímu obchodu za 2,5 bilionu korun. Fúzi dvou firem, které málokdo zná, žene AI",
+      "category": "business",
+      "summary_cs": [
+        "Dva klíčoví dodavatelé komponent pro datová centra plánují obří fúzi schválenou společností Nvidia.",
+        "Spojení firem vyrábějících specializované čipy a optické lasery má vytvořit nového šampiona infrastruktury pro AI.",
+        "Transakce podtrhuje extrémní kapitálové nároky na budování fyzického zázemí pro náročné výpočty."
+      ],
+      "why_matters": "Dokládá obrovské investice proudící do fyzické infrastruktury pro AI.",
+      "url": "https://cc.cz/nvidia-zehna-rekordnimu-obchodu-za-25-bilionu-korun-fuzi-dvou-firem-ktere-malokdo-zna-zene-ai/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 6,
+      "title_cs": "AI inference startup Fal zdvojnásobil svou hodnotu na 16 miliard dolarů",
+      "title_orig": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "category": "business",
+      "summary_cs": [
+        "Pětiletý startup Fal zaměřený na rychlé provozování AI modelů získal novou investici ve výši 1,3 miliardy dolarů.",
+        "Rostoucí poptávka po efektivní inferenci médií a textu vyhnala hodnocení firmy na 16 miliard dolarů.",
+        "Investoři tak potvrzují, že infrastruktura pro spouštění modelů je stejně lukrativní jako jejich samotné trénování."
+      ],
+      "why_matters": "Ukazuje, jak klíčová je efektivní inference pro komerční nasazení AI.",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Čína obchází sankce vývojem vlastních AI čipů a omezuje závislost na Nvidii",
+      "title_orig": "Opačný efekt sankcí, Čína vytvořila vlastní AI čipy a podíl Nvidie klesá. Do EU nic vozit nebudeme, vzkázal hlavní hráč",
+      "category": "business",
+      "summary_cs": [
+        "Západní restrikce na vývoz technologií přiměly Čínu k vývoji plně autonomního řetězce pro výrobu AI hardware.",
+        "Tržní podíl společnosti Nvidia v regionu v důsledku domácí konkurence prudce klesá.",
+        "Čínští výrobci navíc deklarují zaměření primárně na domácí trh bez nutnosti exportu do Evropy."
+      ],
+      "why_matters": "Naznačuje geopolitické rozdělení trhu s AI hardwarem a zrychlení čínského vývoje.",
+      "url": "https://www.lupa.cz/aktuality/opacny-efekt-sankci-cina-vytvorila-vlastni-ai-cipy-a-podil-nvidie-klesa-do-eu-nic-vozit-nebudeme-vzkazal-hlavni-hrac/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Programování v prostoru vah: LLM dokáží přímo číst a upravovat strukturu sítí",
+      "title_orig": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "category": "research",
+      "summary_cs": [
+        "Nový výzkumný směr ukazuje schopnost pokročilých jazykových modelů přímo číst a modifikovat váhy neuronových sítí.",
+        "Tato metoda obchází potřebu klasického trénování a umožňuje přímou úpravu schopností či chování modelů.",
+        "Tento objevený mechanismus zkracuje smyčku pro autonomní vylepšování AI systémů."
+      ],
+      "why_matters": "Průlomový výzkum ukazující nový způsob, jakým AI modely mohou upravovat samy sebe.",
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Google Antigravity zrychluje objevování nových léčiv pomocí AI agentů",
+      "title_orig": "Agentic cheminformatics with Google Antigravity",
+      "category": "labs",
+      "summary_cs": [
+        "Tým Google DeepMind představil systém Antigravity pro automatizaci chemických a farmaceutických postupů.",
+        "AI agenti dokáží samostatně vyhledávat molekulární sloučeniny a navrhovat nové struktury pro vývoj léků.",
+        "Propojení chemie s agentními systémy výrazně zkracuje čas potřebný pro laboratorní výzkum."
+      ],
+      "why_matters": "Demonstruje reálný přínos AI agentů při řešení složitých vědeckých problémů.",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Apple zavádí věkové omezení 18+ pro AI společníky v App Store",
+      "title_orig": "Apple restricts dating apps and AI companions to users 18 and up",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Apple aktualizovala pravidla obchodu App Store a vyžaduje věkovou hranici 18+ pro konverzační AI aplikací.",
+        "Opatření se týká všech agentů nabízejících romantické nebo intimní interakce s uživateli.",
+        "Pravidla reagují na rostoucí obavy z psychologických dopadů AI společníků na nezletilé."
+      ],
+      "why_matters": "Důležitý krok v regulaci etických a psychologických rizik konverzační AI.",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Datová centra sahají po vyřazených proudových motorech kvůli nedostatku elektřiny",
+      "title_orig": "Data centers are turning to old jet engines as the wait for power grows",
+      "category": "wildcard",
+      "summary_cs": [
+        "Stavitelé datových center pro AI naráží na několikaleté čekací lhůty pro připojení k elektrické síti.",
+        "Jako nouzové řešení začínají využívat staré vyřazené letecké turbíny pro generování vlastní energie.",
+        "Tento trend ukazuje na extrémní energetickou krizi způsobenou masivním rozvojem výpočetní kapacity."
+      ],
+      "why_matters": "Kuriózní příklad toho, jak energetický hlad AI naráží na limity infrastruktury.",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Moddingový portál Nexus Mods zavádí povinnou deklaraci použití AI",
+      "title_orig": "The biggest modding site in PC gaming is taking a stance on AI",
+      "category": "news",
+      "summary_cs": [
+        "Největší komunitní platforma pro herní modifikace Nexus Mods zavádí nová pravidla pro AI obsah.",
+        "Tvůrci budou muset u každého nahraného souboru povinně přiznat, zda při tvorbě použili generativní AI.",
+        "Platforma tak reaguje na debaty o autorství a transparentnosti v herním průmyslu."
+      ],
+      "why_matters": "Ukazuje nastavování pravidel pro AI obsah v kreativních komunitách.",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Apple vyvíjí domácího robota za tisíc dolarů s integrací AI",
+      "title_orig": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "category": "tools",
+      "summary_cs": [
+        "Podle nových informací chystá Apple pro rok 2027 stolního robota zaměřeného na chytrou domácnost a hovory.",
+        "Zařízení má kombinovat pokročilou robotiku s umělou inteligencí pro rozpoznávání kontextu v místnosti.",
+        "Projekt představuje další pokus firmy o vstup do segmentu domácí osobní hardware infrastruktury."
+      ],
+      "why_matters": "Naznačuje příchod cenově dostupné osobní robotiky od velkých technologických hráčů.",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 14,
+      "title_cs": "StateBench zavádí nový standard pro testování paměti AI modelů",
+      "title_orig": "StateBench: Testing how language models track state changes over long documents",
+      "category": "research",
+      "summary_cs": [
+        "Hugging Face představil benchmark StateBench navržený pro hodnocení práce modelů s dlouhým textem.",
+        "Test zkoumá, jak přesně dokáží LLM sledovat proměnné a změny stavů v průběhu rozsáhlých dokumentů.",
+        "Nástroj pomůže vývojářům lépe měřit schopnosti modelů při zpracování komplexních firemních dat."
+      ],
+      "why_matters": "Pomůže přesněji měřit spolehlivost modelů při práci s dlouhými texty.",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Netflix spouští AI záložku pro doporučování obsahu podle nálady",
+      "title_orig": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "category": "tools",
+      "summary_cs": [
+        "Netflix začal testovat novou sekci vyhledávání poháněnou generativní umělou inteligencí.",
+        "Uživatelé mohou vyhledávat filmy a seriály na základě přirozeného popisu své nálady nebo specifických témat.",
+        "Systém nahrazuje tradiční žánrové kategorie flexibilnějším sémantickým výběrem."
+      ],
+      "why_matters": "Ukazuje praktické nasazení AI pro zlepšení uživatelského zážitku v zábavním průmyslu.",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
