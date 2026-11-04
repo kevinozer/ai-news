@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04T05:02:23.446069+00:00",
+  "generated_at": "2026-11-04T12:08:00.722102+00:00",
   "date": "2026-11-04",
-  "article_count_unique": 142,
-  "article_count_raw": 142,
+  "article_count_unique": 134,
+  "article_count_raw": 134,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 22,
-      "raw_count": 22
+      "count": 20,
+      "raw_count": 20
     },
     {
       "source_id": "anthropic_news",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,16 +164,52 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 3,
-      "raw_count": 12
+      "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 1,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "1ce308bd76062e8b",
+      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "published_at": "2026-11-04T12:00:00+00:00",
+      "author": "Rani Molla",
+      "summary_raw": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "4ed0077e9c581b24",
+      "title": "Programátoři už nestíhají kontrolovat, co píše AI. Vyřešit to chce open-source projekt, kterému teď pomáhají Češi",
+      "url": "https://www.lupa.cz/aktuality/programatori-uz-nestihaji-kontrolovat-co-pise-ai-open-source-projekt-to-chce-resit-pomahaji-mu-cesi/",
+      "published_at": "2026-11-04T10:32:38+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Pokud umělá inteligence přebírá část role programátorů a pí&#353;e kód, jehož množství navíc stále narůstá, kdo stihne kontrolovat umělou inteligenci? Stále palčivěj&#353;í otázku si vzal za svůj byznysplán polský startup e2e, který teď začali podporovat Če&#353;i. Jeho projekt &#8211; za pomocí AI agentů &#8211; software testuje. Je to open-source nástroj, pro vývojáře zdarma, který dokáže prověřovat webové i mobilní aplikace podobně jako běžný uživatel: projít přihlá&#353;ení, vyplnit formulář, vložit zboží do ko&#353;íku a dokončit objednávku.",
+      "hero_image": "https://i.iinfo.cz/images/412/programator-vyvojar-kod-programovani-notebook-1.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "8accdfb0e947820f",
+      "title": "Zatímco se kvůli AI propouští, česká firma díky ní raketově roste. Tržby míří na miliardy a cílí na stovky milionů uživatelů",
+      "url": "https://www.lupa.cz/clanky/zatimco-se-kvuli-ai-propousti-ceska-firma-diky-ni-raketove-roste-trzby-miri-na-miliardy-a-cili-na-stovky-milionu-uzivatelu/",
+      "published_at": "2026-11-04T05:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Před rokem pár stovek milionů, dnes skoro dvě miliardy. Česká firma Apify se se správným nastavením nachází ve správném čase na správném místě.",
+      "hero_image": "https://i.iinfo.cz/images/52/jan-curn-apify.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "56b328d61dee01bb",
       "title": "Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering",
@@ -559,18 +595,6 @@
       "category": "news"
     },
     {
-      "id": "cf665ad23eba8819",
-      "title": "Midterm elections 2026: all the news",
-      "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-      "published_at": "2026-11-03T15:58:39+00:00",
-      "author": "Lauren Feiner",
-      "summary_raw": "The 2026 midterm elections will determine the scope of President Donald Trump&#8217;s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year&#8217;s races are expected to be most broadly defined by affordability issues, there are several topics impacting the tech industry that [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
       "id": "97628b5d8861a471",
       "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
       "url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
@@ -727,18 +751,6 @@
       "category": "news"
     },
     {
-      "id": "efd5ce72e1523bbe",
-      "title": "Umělou inteligenci nahrazujeme lidmi. Český dabing pro zaklínače Geralta zařídil IT manažer a parta dobrovolníků",
-      "url": "https://cc.cz/diky-it-manazerovi-konecne-mluvi-zaklinac-cesky-s-dabingem-pomaha-ai-ale-menime-ji-za-zive-herce-rika/",
-      "published_at": "2026-11-03T10:22:53+00:00",
-      "author": "Michal Mančař",
-      "summary_raw": "Zaklínač Geralt ve videohře Witcher 3 dosud česky nemluvil, měl jen titulky. Díky umělé inteligenci se to mění. Ale chystá se i živý český dabing. Článek Umělou inteligenci nahrazujeme lidmi. Český dabing pro zaklínače Geralta zařídil IT manažer a parta dobrovolníků se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/ondrej-sitler-zaklinac-geralt-dabing-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "4ead03a5a26485f7",
       "title": "How Cisco defends at machine speed with OpenAI",
       "url": "https://openai.com/index/cisco-cyber",
@@ -809,18 +821,6 @@
       "source_id": "simonw",
       "source_name": "Simon Willison's Weblog",
       "category": "commentary"
-    },
-    {
-      "id": "d85956f12d5b74e4",
-      "title": "„Nemám co ztratit.“ Americký AI moderátor nadává, radí proti imigrační policii a mladí posluchači přibývají",
-      "url": "https://cc.cz/nemam-co-ztratit-americky-ai-moderator-nadava-radi-proti-imigracni-policii-a-mladi-posluchaci-pribyvaji/",
-      "published_at": "2026-11-03T05:25:56+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Kalifornská stanice našla odpověď na strach z deportací. Virtuální moderátor mluví slangem, zvedá poslechovost a otevírá etické otázky. Článek „Nemám co ztratit.“ Americký AI moderátor nadává, radí proti imigrační policii a mladí posluchači přibývají se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/coyotec-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "e5c11ff93f613af5",
@@ -1087,24 +1087,24 @@
       "category": "news"
     },
     {
-      "id": "9797dc444b3b6c23",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "published_at": "2026-11-02T18:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
       "id": "0003a28cc52bede9",
       "title": "Preparing our next security sprint to harden OpenAI",
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "published_at": "2026-11-02T18:00:00+00:00",
       "author": "",
       "summary_raw": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "9797dc444b3b6c23",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published_at": "2026-11-02T18:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
@@ -1207,54 +1207,6 @@
       "category": "news"
     },
     {
-      "id": "c5529455c957d851",
-      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "published_at": "2026-11-02T12:00:00+00:00",
-      "author": "David Nield",
-      "summary_raw": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
-      "hero_image": "https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/master/pass/102926-AI%20Web_.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "5d66be1dcf2a1119",
-      "title": "Boj o čistší internet má většího hráče. Slovenský startup kupuje konkurenta, který hlídal i česká média",
-      "url": "https://www.lupa.cz/aktuality/boj-o-cistsi-internet-ma-vetsiho-hrace-slovensky-startup-kupuje-konkurenta-ktery-hlidal-i-ceska-media/",
-      "published_at": "2026-11-02T11:22:58+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Dva sloven&#353;tí lovci internetových trollů se spojují. Česká média, která si najala technologii Elv.ai na hlídání nenávistných komentářů, budou nově využívat systém jeho konkurenta. Tento startup totiž kupuje firma TrollWall AI, která chce svou technologii pro moderování internetových diskusí roz&#353;ířit i do dal&#353;ích zemí. Zákazníky má v 17 zemích světa a používá ji také několik prezidentů, sportovních organizací, značek a největ&#353;ích politických stran v Evropě. V Česku se k nim řadí například také fotbalová Sparta nebo Policie ČR.",
-      "hero_image": "https://i.iinfo.cz/images/582/spoluzakladatele-elv-ai-a-trollwall-ai.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "8e16a380f5161c78",
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "published_at": "2026-11-02T10:00:00+00:00",
-      "author": "Matt Burgess",
-      "summary_raw": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-      "hero_image": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/pass/Security_ChinaAppsBehindDeepFakes_v1.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "c4f37b8efe143e46",
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "published_at": "2026-11-02T09:35:19+00:00",
-      "author": "Grace Huckins",
-      "summary_raw": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/spot1.jpg",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "9c9ac54be2f1707f",
       "title": "LifeVal",
       "url": "https://openai.com/index/lifeval",
@@ -1267,16 +1219,16 @@
       "category": "labs"
     },
     {
-      "id": "be753180769b1d21",
-      "title": "Firmy v Česku už kvůli AI nenabírají, nebo rovnou propouštějí. Přestože chápou, že junioři dojdou",
-      "url": "https://www.lupa.cz/clanky/firmy-v-cesku-uz-kvuli-ai-nenabiraji-nebo-rovnou-propousteji-prestoze-chapou-ze-juniori-dojdou/",
-      "published_at": "2026-11-02T05:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Na zaměstnávání ajťáků v českých firmách dopadá nástup AI. Máme exkluzivní data: část softwarových a technologických firem propustila juniory, další vědomě nenabírají a mnohé přiznávají, že u nich AI píše víc než polovinu kódu.",
-      "hero_image": "https://i.iinfo.cz/images/232/zamestnavani-v-it.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
+      "id": "1c5a7a1402f54a7a",
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
     },
     {
       "id": "7b473ad9a3c4c38e",
@@ -1285,18 +1237,6 @@
       "published_at": "2026-11-02T00:00:00+00:00",
       "author": "",
       "summary_raw": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "1c5a7a1402f54a7a",
-      "title": "Qodo builds context into AI code review with Codex",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "published_at": "2026-11-02T00:00:00+00:00",
-      "author": "",
-      "summary_raw": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
@@ -1624,42 +1564,6 @@
       "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/6a847075-78be-45e9-b554-ae9abc6f9296_3182x1790.png",
       "source_id": "interconnects",
       "source_name": "Interconnects (Nathan Lambert)",
-      "category": "commentary"
-    },
-    {
-      "id": "ef8e99aa6e988c37",
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "published_at": "2026-10-28T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "How AI might enter the org chart—beneath, beside, and between us.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "b0d1878661b3cdbd",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "published_at": "2026-10-28T09:30:00+00:00",
-      "author": "",
-      "summary_raw": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "98f964c1c9a10ae3",
-      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
-      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
-      "published_at": "2026-10-28T08:50:30+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "Since coding is solved, why code for the job?",
-      "hero_image": null,
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
       "category": "commentary"
     },
     {
