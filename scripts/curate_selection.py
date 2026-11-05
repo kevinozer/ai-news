@@ -13,7 +13,7 @@ Pipeline:
   4. Deterministicky zvaliduje (8 polí, summary_cs = list 3 stringů, žádný
      em-dash, unikátní URL z množiny kandidátů, kategorie z whitelistu,
      why_matters <= 20 slov). Em-dash auto-opraví; strukturální chybu pošle
-     Gemini zpět k opravě (1 retry).
+     Gemini zpět k opravě (až 2 opravná kola).
   5. Zapíše digest/${DATE}_selected.json.
 
 Spuštění:
@@ -97,7 +97,17 @@ def gemini_json(prompt: str, model: str = "gemini-2.5-pro",
                 parts = (data.get("candidates", [{}])[0]
                          .get("content", {}).get("parts", []))
                 text = "".join(p.get("text", "") for p in parts).strip()
-                return _loads_lenient(text)
+                try:
+                    return _loads_lenient(text)
+                except ValueError as e:  # json.JSONDecodeError je podtřída ValueError
+                    # Model občas vrátí rozbitý nebo prázdný JSON (incident 13. 10. 2026)
+                    # -> zkus znovu místo pádu celé pipeline.
+                    wait = (2 ** attempt) * 4 + 1
+                    print(f"  ↻ {m} nevalidní JSON ({e}), retry za {wait}s "
+                          f"({attempt + 1}/{retries})", file=sys.stderr)
+                    time.sleep(wait)
+                    last_err = f"invalid JSON on {m}"
+                    continue
             except (requests.exceptions.Timeout,
                     requests.exceptions.ConnectionError) as e:
                 wait = (2 ** attempt) * 4 + 1
@@ -360,10 +370,11 @@ def main() -> int:
     print(f"[curate] kontext: brand={len(brand)}B cilovky={len(cilovky)}B "
           f"recent_titles={len(recent)}")
 
-    # 3) Gemini selekce (+1 retry s feedbackem chyb)
+    # 3) Gemini selekce (+ až 2 opravná kola s feedbackem chyb; incident 17. 9. 2026)
     prompt = build_prompt(kept, recent, brand, cilovky, args.top)
     articles: list[dict] = []
-    for round_i in range(2):
+    max_rounds = 3
+    for round_i in range(max_rounds):
         result = gemini_json(prompt, model=args.model)
         # Gemini občas vrátí rovnou pole místo {"articles": [...]} (incident 31. 10. 2026).
         if isinstance(result, list):
@@ -394,7 +405,7 @@ def main() -> int:
         print(f"[curate] ⚠ validace kolo {round_i + 1}: {len(errs)} chyb", file=sys.stderr)
         for e in errs[:15]:
             print(f"         - {e}", file=sys.stderr)
-        if round_i == 0:
+        if round_i < max_rounds - 1:
             prompt = (build_prompt(kept, recent, brand, cilovky, args.top)
                       + "\n\n━━━ OPRAV TYTO CHYBY Z PŘEDCHOZÍHO POKUSU ━━━\n"
                       + "\n".join(f"- {e}" for e in errs[:25]))
