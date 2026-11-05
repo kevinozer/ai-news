@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-05",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI představuje model Images 2.6 s rychlou generací a tvorbou GIFů",
+      "title_orig": "Introducing Images 2.6",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI uvedla novou verzi obrazového modelu Images 2.6, která přináší výrazně rychlejší generování vizuálů.",
+        "Uživatelé ChatGPT a Codexu mohou nyní nativně vytvářet a upravovat animované GIFy a precizněji editovat jednotlivé snímky.",
+        "Nové vývojářské rozhraní API dává firmám větší kontrolu nad parametry generovaného vizuálního obsahu."
+      ],
+      "why_matters": "Generování GIFů a vyšší rychlost obohacují každodenní práci s ChatGPT i vývoj nových aplikací.",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI kupuje vývojářskou společnost Pierre Computer",
+      "title_orig": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "category": "business",
+      "summary_cs": [
+        "OpenAI oznámila akvizici firmy Pierre Computer Company pro posílení svých vývojářských nástrojů.",
+        "Cílem obchodu je rozšířit schopnosti platformy Codex v oblasti porozumění, psaní a revize zdrojového kódu.",
+        "Akvizice potvrzuje snahu OpenAI dominovat na trhu autonomních asistentů pro softwarové inženýry."
+      ],
+      "why_matters": "OpenAI upevňuje svou pozici v AI vývoji kódu, což ovlivní fungování programátorských týmů.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Revolut přešel z modelů Claude na čínskou AI a ušetřil 90 % nákladů",
+      "title_orig": "Revolut vyměnil Claude za čínské modely. Vývoj jsme zkrátili o 70 % a platíme desetinu, říká jeho šéf AI",
+      "category": "business",
+      "summary_cs": [
+        "Fintechový gigant Revolut vyměnil ve vývoji modely od Anthropicu za čínský model GLM od firmy Z.ai.",
+        "Společnost uvádí zkrácení doby vývoje o 70 procent a snížení provozních nákladů na desetinu.",
+        "Firma zdůrazňuje, že modely provozuje na čipech v USA a k úniku dat do Číny nedochází."
+      ],
+      "why_matters": "Migrace finančního giganta ukazuje obrovský tlak na cenu a konkurenceschopnost čínských open-source modelů.",
+      "url": "https://cc.cz/revolut-vymenil-claude-za-cinske-modely-vyvoj-jsme-zkratili-o-70-a-platime-desetinu-rika-jeho-sef-ai/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "OpenAI opravila v jádře Linuxu téměř tisíc bezpečnostních zranitelností",
+      "title_orig": "A thousand fewer paths to root",
+      "category": "labs",
+      "summary_cs": [
+        "Bezpečnostní tým OpenAI vyvinul autonomní systém pro detekci a opravu systémových chyb.",
+        "AI agenti dokázali najít, ověřit a vytvořit opravné balíčky pro 948 lokálních zranitelností v Linuxovém jádře.",
+        "Tento milník ukazuje reálné využití autonomních modelů při zabezpečování klíčové infrastruktury."
+      ],
+      "why_matters": "Prokazuje, že AI zvládne autonomně zabezpečovat nejvýznamnější open-source operační systém světa.",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Meta kupuje startup Conductor zaměřený na týmy AI agentů pro programátory",
+      "title_orig": "Meta acquires AI coding startup Conductor",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Meta pohltila technologický startup Conductor pro paralelní řízení vývojových agentů.",
+        "Platforma umožňuje softwarovým inženýrům nasadit celé týmy AI agentů na různé části projektu současně.",
+        "Meta tím dále posiluje své portfolio nástrojů pro zrychlení vývoje softwaru."
+      ],
+      "why_matters": "Posun od jednoho asistenta k celým kooperujícím týmům agentů zásadně mění vývoj softwaru.",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Český startup Apify hlásí miliardové tržby díky poptávce po AI datech",
+      "title_orig": "Zatímco se kvůli AI propouští, česká firma díky ní raketově roste. Tržby míří na miliardy a cílí na stovky milionů uživatelů",
+      "category": "news",
+      "summary_cs": [
+        "České vývojářské platformě Apify vzrostly tržby z několika stovek milionů na téměř dvě miliardy korun.",
+        "Firma profituje z masivního zájmu o sběr a přípravu dat potřebných pro trénování a provoz AI modelů.",
+        "Apify plánuje další expanzi s cílem zasáhnout stovky milionů uživatelů po celém světě."
+      ],
+      "why_matters": "Úspěšný příklad české firmy, která dokázala vyrůst v globálního dodavatele datové infrastruktury.",
+      "url": "https://www.lupa.cz/clanky/zatimco-se-kvuli-ai-propousti-ceska-firma-diky-ni-raketove-roste-trzby-miri-na-miliardy-a-cili-na-stovky-milionu-uzivatelu/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Volby v USA přinesly silný odpor vůči budování novým datovým centrům",
+      "title_orig": "The Results Are In: Voters Hate Data Centers",
+      "category": "news",
+      "summary_cs": [
+        "Volební výsledky v USA ukázaly rostoucí nesouhlas veřejnosti s masivní výstavbou datových center pro AI.",
+        "Místní moratoria a obavy z vysoké spotřeby energie a vody zvítězily v řadě klíčových regionů.",
+        "Technologické firmy tak čelí dalším komplikacím při rozšiřování své výpočetní infrastruktury."
+      ],
+      "why_matters": "Společenský a politický odpor proti energetické náročnosti AI může zpomalit rozvoj nových modelů.",
+      "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Český kapitál podporuje open-source projekt pro kontrolu AI kódu",
+      "title_orig": "Programátoři už nestíhají kontrolovat, co píše AI. Vyřešit to chce open-source projekt, kterému teď pomáhají Češi",
+      "category": "tools",
+      "summary_cs": [
+        "Extrémní nárůst kódu vygenerovaného AI přetěžuje vývojáře, kteří jej už nestíhají revidovat.",
+        "Polský startup e2e přichází s open-source řešením využívajícím specializované agenty pro automatickou kontrolu.",
+        "Projekt získal novou finanční i vývojovou podporu od českých investorů."
+      ],
+      "why_matters": "Řeší kritický problém nadbytku AI kódu, navíc s přímým zapojením českých investorů.",
+      "url": "https://www.lupa.cz/aktuality/programatori-uz-nestihaji-kontrolovat-co-pise-ai-open-source-projekt-to-chce-resit-pomahaji-mu-cesi/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Průzkum IT mezd v ČR: AI experti berou až 150 tisíc, junioři stagnují",
+      "title_orig": "Mzdy v IT už nerostou plošně a rozdíly se zvětšují. Experti na AI berou až 150 tisíc, testeři i 40",
+      "category": "news",
+      "summary_cs": [
+        "Průzkum společností Grafton Recruitment a Gi Group ukázal konec plošného růstu platů v českém IT.",
+        "Specialisté na umělou inteligenci, cloud a kyberbezpečnost si běžně vydělají přes sto tisíc korun měsíčně.",
+        "Tradiční pozice a junioři naopak stagnují a jejich nástupní přehledy začínají na 40 tisících."
+      ],
+      "why_matters": "Ukazuje jasný dopad AI na český pracovní trh a měnící se strukturu odměňování v IT.",
+      "url": "https://www.lupa.cz/aktuality/mzdy-v-it-uz-nerostou-plosne-a-rozdily-se-zvetsuji-experti-na-ai-berou-az-150-tisic-testeri-i-40/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Apple prý citelně snižuje rozpočty na interní využití AI",
+      "title_orig": "Apple is reportedly cutting budgets for its internal AI usage",
+      "category": "business",
+      "summary_cs": [
+        "Podle nových informací Apple výrazně sesekal finanční prostředky určené pro AI nástroje vlastních vývojářů.",
+        "Krok přichází v době, kdy většina technologických gigantů své investice do AI infrastruktury naopak navyšuje.",
+        "Důvodem může být snaha o efektivnější kontrolu provozních nákladů na výpočetní výkon."
+      ],
+      "why_matters": "Signál, že i nejbohatší technologické firmy začínají přísně posuzovat návratnost AI investic.",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Nothing chystá na příští měsíc své první zařízení zaměřené na AI",
+      "title_orig": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "category": "wildcard",
+      "summary_cs": [
+        "Šéf firmy Nothing Carl Pei potvrdil oficiální představení nového AI hardwaru naplánované na prosinec.",
+        "Zařízení má být navrženo od základu pro AI asistence a produktivitu, přičemž specifikace zůstávají tajné.",
+        "Půjde o první fyzický produkt po více než roce od oznámení vývoje vlastní AI platformy."
+      ],
+      "why_matters": "Další pokus o samostatný AI hardware po vlně rozporuplně přijatých produktů typu Humane AI Pin.",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Hugging Face analyzuje ekonomiku a ziskovost open-source AI modelů",
+      "title_orig": "Open source AI is booming. Hugging Face explains who profits.",
+      "category": "open-source",
+      "summary_cs": [
+        "Šéfové Hugging Face vysvětlují, jak komerční firmy monetizují volně dostupné AI modely.",
+        "Otevřené modely si získávají popularitu u vlád a podniků kvůli nižším nákladům a kontrole nad daty.",
+        "Článek se věnuje i rostoucí konkurenci čínských open-source modelů vůči západním vývojářům."
+      ],
+      "why_matters": "Klíčový vhled do business modelů stojících za otvíráním AI kódu veřejnosti.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Sledování prostředí agenta předchází chybám při volání nástrojů",
+      "title_orig": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci navrhli metodu, která AI agentům poskytuje reálná telemetrická data o stavu systémů.",
+        "Nástroj zamezuje spouštění akcí v momentě, kdy jsou cílové služby přetížené nebo chybové.",
+        "Tento přístup výrazně zvyšuje spolehlivost agentů v produkčním prostředí."
+      ],
+      "why_matters": "Praktické řešení pro stabilní provoz AI agentů v reálných firemních IT systémech.",
+      "url": "https://arxiv.org/abs/2611.05391",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Rozhraní Datasette Agent získává nový panel pro práci s aplikacemi",
+      "title_orig": "datasette-agent 0.5a0",
+      "category": "tools",
+      "summary_cs": [
+        "Simon Willison vydal novou verzi nástroje Datasette Agent s funkcí bočního panelu.",
+        "Uživatelé mohou vést chat s agentem přímo vedle zobrazených databázových tabulek a dotazů.",
+        "Aktualizace usnadňuje tvorbu databázových aplikací pomocí přirozeného jazyka."
+      ],
+      "why_matters": "Skvělý otevřený nástroj pro rychlou analýzu a stavbu datových aplikací přes LLM.",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Lidé AI agenty pro objednávání služeb zatím téměř nepoužívají",
+      "title_orig": "Almost no one uses AI agents to book their Uber, company says",
+      "category": "wildcard",
+      "summary_cs": [
+        "Společnost Uber uvedla, že během nejvytíženějšího týdne čtvrtletí si jízdu přes AI agenta objednali jen 4 lidé.",
+        "Objednávky jídla přes Uber Eats zaznamenaly o něco vyšší čísla, stále jde však o zanedbatelný podíl.",
+        "Data ukazují propast mezi očekáváním trhu a reálným chováním běžných spotřebitelů."
+      ],
+      "why_matters": "Uzemňující pohled na reálné přijetí autonomních agentů běžnou veřejností.",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
