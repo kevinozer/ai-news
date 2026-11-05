@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T05:02:42.121508+00:00",
+  "generated_at": "2026-11-05T12:19:30.405065+00:00",
   "date": "2026-11-05",
-  "article_count_unique": 178,
-  "article_count_raw": 178,
+  "article_count_unique": 172,
+  "article_count_raw": 172,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 22,
-      "raw_count": 22
+      "count": 21,
+      "raw_count": 21
     },
     {
       "source_id": "anthropic_news",
@@ -67,14 +67,14 @@
     {
       "source_id": "huggingface_blog",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "import_ai",
-      "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
     },
     {
       "source_id": "tldr_ai",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "latent_space",
@@ -114,9 +114,9 @@
     },
     {
       "source_id": "marcus_on_ai",
-      "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
     },
     {
       "source_id": "dwarkesh",
@@ -126,9 +126,9 @@
     },
     {
       "source_id": "zvi_vase",
-      "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
     },
     {
       "source_id": "interconnects",
@@ -169,11 +169,143 @@
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "7243e54591db2c0f",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "published_at": "2026-11-05T12:00:00+00:00",
+      "author": "Tim Fernholz",
+      "summary_raw": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "413ad4185ecd2036",
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "published_at": "2026-11-05T12:00:00+00:00",
+      "author": "Kate Taylor",
+      "summary_raw": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+      "hero_image": "https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "4b92dd9c21837320",
+      "title": "Veterán ze SpaceX, Netflixu i BottleCapu přebírá globální AI firmu, která roste z Prahy",
+      "url": "https://www.lupa.cz/aktuality/veteran-ze-spacex-netflixu-i-bottlecapu-prebira-globalni-ai-firmu-ktera-roste-z-prahy/",
+      "published_at": "2026-11-05T11:51:43+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "David Pavlík, který na začátku leto&#353;ka nastoupil jako produktový ředitel do BottleCap AI Jaroslava Becka a Tomá&#353;e Mikolova, se stává &#353;éfem (CEO) společnosti Phrase. Ta vyvíjí platformu pro překlady a správu vícejazyčného obsahu, kterou využívají například Uber, Tripadvisor, Volkswagen nebo Zendesk. Pavlík má firmu se sídlem v Praze vést do dal&#353;í fáze rozvoje s důrazem na umělou inteligenci.",
+      "hero_image": "https://i.iinfo.cz/images/340/ian-woolley-a-david-pavlik.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "3971bb880d276623",
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "published_at": "2026-11-05T11:45:00+00:00",
+      "author": "Isabella Ward",
+      "summary_raw": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+      "hero_image": "https://media.wired.com/photos/6aebb9af224c394d76eb9316/master/pass/WWF-Evan-Ratliff-Husk.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "cd447d93047f8d24",
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "published_at": "2026-11-05T10:45:00+00:00",
+      "author": "Ellen Thomas",
+      "summary_raw": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "c33a8e4d134c71c0",
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "published_at": "2026-11-05T10:00:00+00:00",
+      "author": "Casey Crownhart",
+      "summary_raw": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "4c0b19d19e8bb017",
+      "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+      "url": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+      "published_at": "2026-11-05T09:00:13+00:00",
+      "author": "Roberto Baldwin",
+      "summary_raw": "The spirit of AMG is alive via three axial flux electric motors.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0344_001-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "31c424a991837326",
+      "title": "AI třese Canvou. Populární grafický nástroj má za sebou nejtěžší rok, padá mu hodnota a propouští",
+      "url": "https://cc.cz/ai-trese-canvou-popularni-graficky-nastroj-ma-za-sebou-nejtezsi-rok-pada-mu-hodnota-a-propousti/",
+      "published_at": "2026-11-05T06:32:36+00:00",
+      "author": "Ondřej Holzman",
+      "summary_raw": "Drahá umělá inteligence a rostoucí konkurence dolehly na australskou Canvu. Firma poprvé plošně propouští a od základů mění strukturu. Článek AI třese Canvou. Populární grafický nástroj má za sebou nejtěžší rok, padá mu hodnota a propouští se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/canva-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "62db4653dfb278bb",
+      "title": "[AINews] It's Swapping Season",
+      "url": "https://latent.space/p/ainews-it-s-swapping-season/",
+      "published_at": "2026-11-05T06:24:09+00:00",
+      "author": "swyx .ai",
+      "summary_raw": "November 4, 2026 — OpenAI’s Linux kernel security work, Kimi K3.1 Pro’s open weights, and Ricursive’s Ripple-65B.",
+      "hero_image": null,
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "df1b9c1239d701fb",
+      "title": "Mysleli, že tvoří službu pro lidi. Jenže firmy už musejí tvořit pro AI, s níž se nedá domluvit",
+      "url": "https://www.lupa.cz/clanky/mysleli-ze-tvori-sluzbu-pro-lidi-jenze-firmy-uz-museji-tvorit-pro-ai-s-niz-se-neda-domluvit/",
+      "published_at": "2026-11-05T05:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Firmy někdy narážejí na nový problém: místo konverzace s lidmi je byznysplán nutí bavit se s AI agenty. Co se stane, když lidem vysílají požadavky agenti jiných lidí? A jak se v tomto prostředí obchodně funguje?",
+      "hero_image": "https://i.iinfo.cz/images/361/komunikace-se-zakazniky.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "7293649c70c0de12",
+      "title": "Tržby stouply dvakrát a vydělali 25 miliard, akcie přesto padají. Ztrácí bájní AI slídilové své kouzlo?",
+      "url": "https://cc.cz/trzby-stouply-dvakrat-a-vydelali-25-miliard-akcie-presto-padaji-ztraci-bajni-ai-slidilove-sve-kouzlo/",
+      "published_at": "2026-11-05T05:26:57+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Palantir za poslední čtvrtletí doručil skvělá čísla. Investory ale znepokojily kratší smlouvy a slabší nové kontrakty než v létě. Článek Tržby stouply dvakrát a vydělali 25 miliard, akcie přesto padají. Ztrácí bájní AI slídilové své kouzlo? se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2025/11/palantir-mvp-x2-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "8db440d6da194d2c",
       "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
@@ -535,6 +667,18 @@
       "category": "research"
     },
     {
+      "id": "3595ed33fb1ecfa2",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "published_at": "2026-11-05T02:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
       "id": "c068b44ffe1ca92e",
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
@@ -557,6 +701,18 @@
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
       "category": "news"
+    },
+    {
+      "id": "2b2851552f8f1790",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "published_at": "2026-11-05T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
     },
     {
       "id": "426f80838a050dd7",
@@ -1147,42 +1303,6 @@
       "category": "news"
     },
     {
-      "id": "c426eca629ef34d4",
-      "title": "Revolut vyměnil Claude za čínské modely. Vývoj jsme zkrátili o 70 % a platíme desetinu, říká jeho šéf AI",
-      "url": "https://cc.cz/revolut-vymenil-claude-za-cinske-modely-vyvoj-jsme-zkratili-o-70-a-platime-desetinu-rika-jeho-sef-ai/",
-      "published_at": "2026-11-04T12:15:42+00:00",
-      "author": "Ondřej Holzman",
-      "summary_raw": "Britský fintech, který právě dosáhl ocenění 115 miliard dolarů, provozuje model GLM od pekingské Z.ai na čipech v USA. Data prý do Číny nejdou. Článek Revolut vyměnil Claude za čínské modely. Vývoj jsme zkrátili o 70 % a platíme desetinu, říká jeho šéf AI se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/revolut-zai-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "1ce308bd76062e8b",
-      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "published_at": "2026-11-04T12:00:00+00:00",
-      "author": "Rani Molla",
-      "summary_raw": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "4ed0077e9c581b24",
-      "title": "Programátoři už nestíhají kontrolovat, co píše AI. Vyřešit to chce open-source projekt, kterému teď pomáhají Češi",
-      "url": "https://www.lupa.cz/aktuality/programatori-uz-nestihaji-kontrolovat-co-pise-ai-open-source-projekt-to-chce-resit-pomahaji-mu-cesi/",
-      "published_at": "2026-11-04T10:32:38+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Pokud umělá inteligence přebírá část role programátorů a pí&#353;e kód, jehož množství navíc stále narůstá, kdo stihne kontrolovat umělou inteligenci? Stále palčivěj&#353;í otázku si vzal za svůj byznysplán polský startup e2e, který teď začali podporovat Če&#353;i. Jeho projekt &#8211; za pomocí AI agentů &#8211; software testuje. Je to open-source nástroj, pro vývojáře zdarma, který dokáže prověřovat webové i mobilní aplikace podobně jako běžný uživatel: projít přihlá&#353;ení, vyplnit formulář, vložit zboží do ko&#353;íku a dokončit objednávku.",
-      "hero_image": "https://i.iinfo.cz/images/412/programator-vyvojar-kod-programovani-notebook-1.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "1fd77ad63c4bf627",
       "title": "A thousand fewer paths to root",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
@@ -1459,18 +1579,6 @@
       "category": "news"
     },
     {
-      "id": "3c54e76f1e4868c9",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "published_at": "2026-11-03T17:07:01+00:00",
-      "author": "Russell Brandom",
-      "summary_raw": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "e4e7864d9a345d0d",
       "title": "Agentic cheminformatics with Google Antigravity",
       "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
@@ -1481,30 +1589,6 @@
       "source_id": "deepmind_blog",
       "source_name": "Google DeepMind Blog",
       "category": "labs"
-    },
-    {
-      "id": "6daf2e6970b18c91",
-      "title": "This space company is betting its future on a propellant available everywhere",
-      "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
-      "published_at": "2026-11-03T16:50:32+00:00",
-      "author": "Eric Berger",
-      "summary_raw": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "c9d3f1de404241c4",
-      "title": "OpenAI Updates Its Model Spec",
-      "url": "https://thezvi.substack.com/p/openai-updates-its-model-spec",
-      "published_at": "2026-11-03T16:48:28+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "The Model Spec is potentially OpenAI&#8217;s most important document.",
-      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/6fc4b6bc-44fd-424c-92be-3848b51ab958_1672x941.png",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
-      "category": "commentary"
     },
     {
       "id": "9c648ab4858f3c4b",
@@ -1555,18 +1639,6 @@
       "category": "newsletter"
     },
     {
-      "id": "198fc80dd893eea0",
-      "title": "Opačný efekt sankcí, Čína vytvořila vlastní AI čipy a podíl Nvidie klesá. Do EU nic vozit nebudeme, vzkázal hlavní hráč",
-      "url": "https://www.lupa.cz/aktuality/opacny-efekt-sankci-cina-vytvorila-vlastni-ai-cipy-a-podil-nvidie-klesa-do-eu-nic-vozit-nebudeme-vzkazal-hlavni-hrac/",
-      "published_at": "2026-11-03T13:13:25+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Postupně zaváděné sankce, restrikce a vývozní omezení moderních technologií z USA a západních zemí do Číny má jeden nechtěný vedlej&#353;í efekt. Asijská země sice v některých oblastech dostala pořádně přes prsty, ov&#353;em premisa, že se těmito akcemi výrazně zpomalí její technologický rozvoj, příli&#353; nezafungovala. Naopak se děje to, před čím varovali zástupci amerického čipového průmyslu &#8211; a sice, že Čína díky kombinaci vlastního vývoje, přetahování lidí, masivních dotací a průmyslové &#353;pionáže stvoří vlastní alternativy.",
-      "hero_image": "https://i.iinfo.cz/images/294/cinska-panda-s-grafickou-kartou.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "5e2f601a1bfb852d",
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
       "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
@@ -1589,30 +1661,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "ee43cfc7a07e1cf4",
-      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-      "published_at": "2026-11-03T11:00:00+00:00",
-      "author": "Katie Drummond",
-      "summary_raw": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
-      "hero_image": "https://media.wired.com/photos/6ae90c349efc9a24a32255ed/master/pass/WEB_WIRED_Mamdani_HR-00808.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "934c570c324df71f",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "published_at": "2026-11-03T10:43:41+00:00",
-      "author": "Amit Katwala",
-      "summary_raw": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
     },
     {
       "id": "4ead03a5a26485f7",
@@ -1648,30 +1696,6 @@
       "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/7c05f6ee-ac6d-4327-b763-7d43c0fa8d35/image.png?t=1793682395",
       "source_id": "latent_space",
       "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "e13b734933a370ae",
-      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-      "published_at": "2026-11-03T05:32:25+00:00",
-      "author": "",
-      "summary_raw": "I discovered a sound that leaks your exact location (and it&#x27;s everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different flights. Via Lobste.rs Tags: privacy , youtube",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "9871ad5309111997",
-      "title": "October sponsors-only newsletter",
-      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-      "published_at": "2026-11-03T05:28:59+00:00",
-      "author": "",
-      "summary_raw": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here , as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
       "category": "commentary"
     },
     {
@@ -1735,16 +1759,16 @@
       "category": "commentary"
     },
     {
-      "id": "59c129ac4dc38d38",
-      "title": "Scott Alexander’s Against SURA Seems Deeply Confused",
-      "url": "https://thezvi.substack.com/p/scott-alexanders-against-sura-seems",
-      "published_at": "2026-11-02T21:33:03+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "If you are helping build something that might kill everyone, maybe stop doing that.",
-      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/c995ceda-ff17-48ea-bdc9-5e04b88b9240_1672x941.png",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
-      "category": "commentary"
+      "id": "9797dc444b3b6c23",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published_at": "2026-11-02T18:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
     },
     {
       "id": "0003a28cc52bede9",
@@ -1753,18 +1777,6 @@
       "published_at": "2026-11-02T18:00:00+00:00",
       "author": "",
       "summary_raw": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "9797dc444b3b6c23",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "published_at": "2026-11-02T18:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
@@ -1795,36 +1807,12 @@
       "category": "labs"
     },
     {
-      "id": "f7869af9a2375586",
-      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-      "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
-      "published_at": "2026-11-02T14:30:54+00:00",
-      "author": "Jack Clark",
-      "summary_raw": "What do LLMs think about vision models?",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
-      "source_id": "import_ai",
-      "source_name": "Import AI (Jack Clark)",
-      "category": "newsletter"
-    },
-    {
       "id": "9c9ac54be2f1707f",
       "title": "LifeVal",
       "url": "https://openai.com/index/lifeval",
       "published_at": "2026-11-02T09:00:00+00:00",
       "author": "",
       "summary_raw": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "7b473ad9a3c4c38e",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "published_at": "2026-11-02T00:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
@@ -1843,6 +1831,18 @@
       "category": "labs"
     },
     {
+      "id": "7b473ad9a3c4c38e",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
       "id": "05e66617d0da2296",
       "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
       "url": "https://latent.space/p/arca/",
@@ -1855,18 +1855,6 @@
       "category": "commentary"
     },
     {
-      "id": "1cd91457d5a5fb58",
-      "title": "Report from the Vatican",
-      "url": "https://garymarcus.substack.com/p/report-from-the-vatican",
-      "published_at": "2026-10-31T15:17:33+00:00",
-      "author": "Gary Marcus",
-      "summary_raw": "Yesterday I had the singular honor of meeting His Holiness, Pope Leo XIV",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!EXqt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3dc06322-70f4-4764-ab20-ab2af2b7881f_1606x1044.jpeg",
-      "source_id": "marcus_on_ai",
-      "source_name": "Marcus on AI",
-      "category": "commentary"
-    },
-    {
       "id": "fa56906667a2685e",
       "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
       "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
@@ -1876,18 +1864,6 @@
       "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f13715b2-ed2d-4a14-bbf6-85f184b4b202/SCR-20261030-svzc.png?t=1793423031",
       "source_id": "latent_space",
       "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "fb1f56ba73794a6b",
-      "title": "Childhood and Education #22: Voice Without Exit",
-      "url": "https://thezvi.substack.com/p/childhood-and-education-22-voice",
-      "published_at": "2026-10-30T20:25:47+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "Nikole Hannah-Jones wrote a brave self-critical piece in The New York Times, centrally about how she intentionally sent her daughter to a well-funded but failing school, PS 307, in the hopes of using voice to improve it, and how that utterly failed her daughter and failed to impact the school.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!9-Tk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4add273-829c-4679-a238-068271d17a88_934x715.png",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
       "category": "commentary"
     },
     {
@@ -2035,18 +2011,6 @@
       "category": "newsletter"
     },
     {
-      "id": "c3da3dc3fe89b11c",
-      "title": "AI #192: Anthropic Is Going Public",
-      "url": "https://thezvi.substack.com/p/ai-192-anthropic-is-going-public",
-      "published_at": "2026-10-29T13:49:48+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "Anthropic filed its S-1 this week to prepare for its IPO.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!wv_H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03c31a00-6361-4ab3-beaf-b120fd391d40_1200x754.jpeg",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
-      "category": "commentary"
-    },
-    {
       "id": "ee34ef1b43123efb",
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
@@ -2057,42 +2021,6 @@
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
       "category": "labs"
-    },
-    {
-      "id": "e816ea45b9f592a1",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "published_at": "2026-10-29T09:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "841fed7953dfc7fc",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "published_at": "2026-10-29T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "2021f740861efe78",
-      "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-      "url": "https://latent.space/p/ainews-gemini-4-carbon/",
-      "published_at": "2026-10-29T05:55:19+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.",
-      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/053a201f-ae0f-4388-9c79-d636a1bcf99f/image.png?t=1793258939",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "816446490bf062e1",
