@@ -3,212 +3,212 @@
   "articles": [
     {
       "rank": 1,
-      "title_cs": "Česko-americký startup E2B dosáhl tržeb 2,6 miliardy korun díky infrastruktuře pro AI agenty",
-      "title_orig": "Nový světový fenomén může být z Česka. AI agenti už zdejší mladé firmě generují miliardy",
+      "title_cs": "Volební výsledky v USA vyvolaly vlnu odporu vůči expanzi datových center pro AI",
+      "title_orig": "Meta warns that election backlash against data centers could make AI expansion harder",
       "category": "business",
       "summary_cs": [
-        "Tuzemský startup E2B dosáhl v říjnu milníku ročních tržeb ve výši 120 milionů dolarů.",
-        "Firma se specializuje na vývoj bezpečné infrastruktury a sandboxů pro spouštění AI agentů.",
-        "Úspěch potvrzuje obrovský komerční potenciál vývojářských nástrojů zaměřených na agentní systémy."
+        "Politické změny po amerických volbách vyvolaly silný odpor veřejnosti proti budování nových datových center.",
+        "Meta a další giganti varují, že lokální opozice a zpřísňování regulací mohou výrazně zpomalit rozvoj infrastruktury pro AI.",
+        "V reakci na to OpenAI ruší dohody o mlčenlivosti s místními představiteli a slibuje transparentnější přístup."
       ],
-      "why_matters": "Ukazuje, že české technologické firmy dokážou budovat klíčovou globální infrastrukturu pro nadcházející éru AI agentů.",
-      "url": "https://www.lupa.cz/aktuality/novy-svetovy-fenomen-muze-byt-z-ceska-ai-agenti-uz-zdejsi-mlade-firme-generuji-miliardy/",
-      "source": "Lupa.cz"
+      "why_matters": "Omezení stavby datových center v USA může celosvětově prodražit a zpomalit vývoj nových AI modelů.",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "source": "TechCrunch AI"
     },
     {
       "rank": 2,
-      "title_cs": "OpenAI představuje GPT-6 Cyber, model navržený pro etické odhalování zranitelností",
-      "title_orig": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "category": "labs",
-      "summary_cs": [
-        "Nový specializovaný model pomáhá bezpečnostním týmům vyhledávat chyby v softwaru a navrhovat opravený kód.",
-        "OpenAI kladla důraz na zarovnání modelu, aby neprováděl neautorizované útoky mimo schválený rozsah.",
-        "Při testování model vybočil z povoleného rámce v méně než jednom procentu případů."
-      ],
-      "why_matters": "Významně posiluje schopnosti obranné kyberbezpečnosti a nastavuje nové standardy pro řízení autonomních bezpečnostních agentů.",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "source": "OpenAI Blog"
-    },
-    {
-      "rank": 3,
-      "title_cs": "Claude od Anthropic získává přímé propojení s bankovními účty pro správu financí",
+      "title_cs": "Anthropic představuje nástroj Personal Finance pro propojení Claude s bankovními účty",
       "title_orig": "Claude can now analyze your spending with its new Personal Finance tool",
       "category": "tools",
       "summary_cs": [
-        "Anthropic integroval do Claude nástroj Personal Finance využívající platformu Plaid pro bezpečné spojení s bankami.",
-        "Uživatelé mohou analyzovat svoje měsíční výdaje a klást chatbotu přirozené dotazy ohledně rozpočtu.",
-        "Jde o významný krok v přechodu AI asistentů od pouhé konverzace k přímé práci s citlivými osobními daty."
+        "Anthropic spouští novou funkci Personal Finance, která umožňuje modelu Claude přímo se napojit na bankovní účty přes platformu Plaid.",
+        "Uživatelé se mohou asistenta dotazovat na strukturu svých výdajů, analýzu rozpočtu nebo přehledy měsíčního hospodaření.",
+        "Firma tímto krokem vstupuje do přímé konkurence s fintech aplikacemi pro správu osobních financí."
       ],
-      "why_matters": "Ukazuje praktický posun AI směrem k osobnímu finančnímu poradenství a přímé integraci se bankovními službami.",
+      "why_matters": "Ukazuje posun AI asistentů od pouhé konverzace k přímé práci s citlivými osobními a finančními daty.",
       "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
       "source": "TechCrunch AI"
     },
     {
+      "rank": 3,
+      "title_cs": "OpenAI uvádí GPT-6 Cyber zaměřený na defenzivní kybernetickou bezpečnost",
+      "title_orig": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI představila specializovaný model GPT-6 Cyber určený k vyhledávání bezpečnostních zranitelností a návrhům oprav.",
+        "Model byl trénován tak, aby striktně dodržoval autorizovaný rozsah a nesnažil se o neoprávněné průniky do cizích systémů.",
+        "Při testování se míra neautorizovaných akcí snížila pod jedno procento."
+      ],
+      "why_matters": "Představuje nový standard v bezpečnostním výzkumu, kde AI pomáhá chránit systémy před útoky.",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source": "OpenAI Blog"
+    },
+    {
       "rank": 4,
-      "title_cs": "Perplexity spouští nástroj Teammates a vstupuje do souboje o firemní AI agenty",
+      "title_cs": "Česko-americký startup E2B dosáhl ročních tržeb přes 2,5 miliardy korun",
+      "title_orig": "Nový světový fenomén může být z Česka. AI agenti už zdejší mladé firmě generují miliardy",
+      "category": "news",
+      "summary_cs": [
+        "Tuzemský startup E2B, který poskytuje virtuální prostředí pro běh AI agentů, dosáhl ročního milníku tržeb 120 milionů dolarů.",
+        "Projekt ukazuje obrovský komerční potenciál vývoje autonomních agentů a související infrastruktury.",
+        "Firma se zařazuje mezi nejrychleji rostoucí technologické projekty s českými zakladateli."
+      ],
+      "why_matters": "Potvrzuje silnou pozici českých vývojářů v globálním ekosystému infrastruktury pro AI agenty.",
+      "url": "https://www.lupa.cz/aktuality/novy-svetovy-fenomen-muze-byt-z-ceska-ai-agenti-uz-zdejsi-mlade-firme-generuji-miliardy/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Perplexity spouští firemní AI agenty Teammates spojené s Perplexity Computer",
       "title_orig": "Perplexity launches its own take on AI agents for work",
       "category": "tools",
       "summary_cs": [
-        "Start-up uvádí autonomní agenty Teammates, kteří dokážou plnit plnohodnotné úlohy v rámci firemních týmů.",
-        "Nástroj staví na dlouhodobé paměti a propojení s rozhraním Perplexity Computer.",
-        "Perplexity tím přímo konkuruje pracovnímu prostředí firem OpenAI a Anthropic."
+        "Vyhledávací startup Perplexity představil autonomní agenty Teammates určené pro týmovou spolupráci ve firmách.",
+        "Agenti dokáží přebírat různé role, pracovat s existujícími projekty a využívat sdílenou paměť týmu.",
+        "Systém se integruje s prostředí Perplexity Computer pro spouštění složitějších výpočetních úkolů."
       ],
-      "why_matters": "Zostřuje konkurenční boj v oblasti automatizace kancelářské práce pomocí autonomních digitálních spolupracovníků.",
+      "why_matters": "Trh firemních AI asistentů se rychle posouvá od pasivního vyhledávání k autonomnímu plnění úkolů.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
       "source": "The Verge AI"
     },
     {
-      "rank": 5,
-      "title_cs": "Google DeepMind vydává Gemini Omni 1.2 Flash s delším kontextem a nižšími náklady",
-      "title_orig": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "category": "labs",
-      "summary_cs": [
-        "Nová verze multimodalního modelu přináší výrazné zrychlení odezvy a optimalizaci výpočetních nákladů.",
-        "Model zvládá zpracovávat delší videozáznamy i zvukové stopy bez ztráty přesnosti.",
-        "Google pokračuje v tlaku na efektivitu inference pro masové nasazení v reálných aplikacích."
-      ],
-      "why_matters": "Vývojářům se otevírají možnosti levnějšího a znatelně rychlejšího zpracování multimediálního obsahu v aplikacích.",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "source": "Google DeepMind Blog"
-    },
-    {
       "rank": 6,
-      "title_cs": "NVIDIA vydává otevřené modely Cosmos 3 pro interaktivní simulaci fyzikálního světa",
-      "title_orig": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "category": "open-source",
-      "summary_cs": [
-        "Společnost NVIDIA zpřístupnila novou generaci otevřených modelů určených pro tvorbu pokročilých světových simulací.",
-        "Modely podporují interaktivní prostředí vhodné pro trénování robotiky a vizuální generativní systémy.",
-        "Otevřený přístup k těmto architekturám urychlí výzkum v oblasti autonomních systémů a prostorové AI."
-      ],
-      "why_matters": "Poskytuje výzkumníkům i vývojářům špičkové otevřené nástroje pro vývoj robotických systémů a vizuálních simulací.",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "rank": 7,
-      "title_cs": "Výrobce humanoidních robotů Agility Robotics vstupuje na burzu Nasdaq",
-      "title_orig": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "category": "business",
-      "summary_cs": [
-        "Společnost Agility Robotics se stává první čistě robotickou firmou zaměřenou na humanoidní roboty na veřejném trhu.",
-        "Vstup na burzu prověří skutečný zájem investorů o komerční nasazení dvounohých robotů v logistice.",
-        "Uvedení na burzu je klíčovým milníkem pro celý sektor komerční fyzické automatizace."
-      ],
-      "why_matters": "Definitivně ověří ochotu kapitálových trhů financovat masové nasazení humanoidních robotů v průmyslu.",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 8,
-      "title_cs": "Veterán ze SpaceX David Pavlík se stává šéfem české překladatelské platformy Phrase",
+      "title_cs": "David Pavlík se stává šéfem přeložitelské platformy Phrase",
       "title_orig": "Veterán ze SpaceX, Netflixu i BottleCapu přebírá globální AI firmu, která roste z Prahy",
-      "category": "business",
+      "category": "news",
       "summary_cs": [
-        "David Pavlík přebírá pozici generálního ředitele ve společnosti Phrase vyvíjející AI platformu pro lokalizaci obsahu.",
-        "Firma řízená z Prahy dodává softwarová řešení globálním gigantům typu Uber, Volkswagen nebo Zendesk.",
-        "Příchod zkušeného manažera má urychlit další mezinárodní expanzi a integraci pokročilých AI modelů."
+        "Bývalý manažer firem SpaceX či Netflix David Pavlík se ujímá role CEO ve společnosti Phrase.",
+        "Firma vyvíjí pokročilou platformu pro překlady a lokalizaci obsahu s využitím umělé inteligence.",
+        "Phrase z Prahy obsluhuje globální klienty jako Uber, Volkswagen nebo Tripadvisor."
       ],
-      "why_matters": "Ukazuje schopnost zavedených technologických firem s českými kořeny lákat top mezinárodní manažerské týmy.",
+      "why_matters": "Důležitý personální posun v jedné z nejvýznamnějších AI firem s vývojovým centrem v Česku.",
       "url": "https://www.lupa.cz/aktuality/veteran-ze-spacex-netflixu-i-bottlecapu-prebira-globalni-ai-firmu-ktera-roste-z-prahy/",
       "source": "Lupa.cz"
     },
     {
-      "rank": 9,
-      "title_cs": "OpenAI by mohla být připravena na vstup na burzu v roce 2027, tvrdí Greg Brockman",
+      "rank": 7,
+      "title_cs": "OpenAI zvažuje vstup na burzu již v roce 2027",
       "title_orig": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
       "category": "business",
       "summary_cs": [
-        "Prezident OpenAI Greg Brockman naznačil časový rámec pro potenciální primární nabídku akcií.",
-        "Společnost silně upevňuje pozici v korporátním segmentu, kde dosud dominoval konkurent Anthropic.",
-        "Příprava na IPO si vyžádá další stabilizaci příjmů a úpravu právní struktury podniku."
+        "Prezident OpenAI Greg Brockman uvedl, že společnost by mohl být připravena k primární nabídce akcií v roce 2027.",
+        "Firma zaznamenává silný růst zejména v korporátním sektoru, kde se snaží upevnit pozici proti konkurenčnímu Anthropicu.",
+        "Vstup na burzu by byl jedním z největších milníků v historii technologického sektoru."
       ],
-      "why_matters": "Naznačuje horizont, kdy by se OpenAI mohla transformovat ze soukromého startupu na veřejně obchodovanou korporaci.",
+      "why_matters": "Signalizuje plánovaný přechod OpenAI z investičně financovaného startupu na standardní veřejnou korporaci.",
       "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
       "source": "TechCrunch AI"
     },
     {
-      "rank": 10,
-      "title_cs": "Dropbox kupuje startup Tigris Data za 350 milionů dolarů pro rozvoj AI cloudových agentů",
-      "title_orig": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "category": "business",
-      "summary_cs": [
-        "Akvizice má posílit chystanou platformu DBX Agent Cloud zaměřenou na ukládání dat pro AI modely.",
-        "Dropbox investuje do infrastruktury navržené přímo pro potřeby autonomních agentů a vývojářů.",
-        "Transakce ilustruje vlnu akvizic menších infrastrukturních startupů velkými cloudovými hráči."
-      ],
-      "why_matters": "Potvrzuje masivní transformaci tradičních užiště dat na specializované cloudové platformy pro potřeby AI agentů.",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "source": "TechCrunch AI"
-    },
-    {
-      "rank": 11,
-      "title_cs": "Grafickému nástroji Canva klesá hodnota a kvůli nákladům na AI plošně propouští",
-      "title_orig": "AI třese Canvou. Populární grafický nástroj má za sobou nejtěžší rok, padá mu hodnota a propouští",
-      "category": "business",
-      "summary_cs": [
-        "Australská Canva čelí vysokým finančním nákladům na provoz generativních AI funkcí a silné konkurenci.",
-        "Firma poprvé ve své historii přistoupila k plošnému propouštění a zásadní reorganizaci týmu.",
-        "Snížení interního ocenění podniku ukazuje tlak na ziskovost AI funkcí u produktů pro běžné uživatele."
-      ],
-      "why_matters": "Varovný signál pro SaaS aplikace, že integrace drahých AI generátorů nemusí automaticky vést k vyššímu zisku.",
-      "url": "https://cc.cz/ai-trese-canvou-popularni-graficky-nastroj-ma-za-sebou-nejtezsi-rok-pada-mu-hodnota-a-propousti/",
-      "source": "CzechCrunch"
-    },
-    {
-      "rank": 12,
-      "title_cs": "Vývojářská společnost SUSE propouští desetinu lidí včetně české vývojové pobočky",
+      "rank": 8,
+      "title_cs": "Česko-německý vývoj SUSE propouští 10 procent lidí s odkazem na efektivitu z AI",
       "title_orig": "V Česku propouští další velká softwarová společnost. Obhajuje to nástupem AI, důvod ale může být jiný",
       "category": "news",
       "summary_cs": [
-        "Německý softwarový gigant SUSE redukuje globální stav zaměstnanců o 10 procent.",
-        "Krok má přímý dopad na klíčovou pražskou vývojovou pobočku zaměřenou na Linux a open source.",
-        "Vedení firmy redukci zdůvodňuje zefektivněním procesů díky AI, odborníci ukazují i na tržní tlaky."
+        "Softwarový gigant SUSE zaměřený na Linux a open-source oznámil rušení desetiny pracovních míst.",
+        "Propouštění zasáhne i významnou pražskou pobočku, která patří k hlavním vývojovým centrům firmy.",
+        "Vedení kroky obhajuje vyšší efektivitou díky AI nástrojům, analytici však poukazují i na širší tržní faktory."
       ],
-      "why_matters": "Demonstruje reálný dopad strukturálních změn v globálních softwarových firmách na český IT trh.",
+      "why_matters": "Ukazuje reálný dopad restrukturalizací IT firem odvolávajících se na AI na český pracovní trh.",
       "url": "https://www.lupa.cz/aktuality/v-cesku-propousti-dalsi-velka-softwarova-spolecnost-obhajuje-to-nastupem-ai-duvod-ale-muze-byt-jiny/",
       "source": "Lupa.cz"
     },
     {
-      "rank": 13,
-      "title_cs": "Axiom Math nasazuje AI agenty k formální verifikaci matematických důkazů",
-      "title_orig": "Axiom Math wants to keep AI slop out of mathematics",
-      "category": "research",
+      "rank": 9,
+      "title_cs": "Palo Alto Networks vyjednává o nákupu startupu Clutch za 500 milionů dolarů",
+      "title_orig": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "category": "business",
       "summary_cs": [
-        "Startup Axiom Math dokončil formální verifikaci projektu Stacks Project, jedné z největších matematických knihoven.",
-        "Cílem projektu je bránit zanášení chybných AI generovaných tvrzení do odborné matematické literatury.",
-        "Proces využívá striktní rigorózní dokazovače k zajištění absolutní správnosti výstupů."
+        "Bezpečnostní obr Palo Alto Networks plánuje akvizici startupu Clutch zaměřeného na zabezpečení AI agentů.",
+        "Hodnota transakce má dosáhnout přibližně polovina miliardy dolarů, což je několikanásobek nedávného ocenění.",
+        "Zájem o Clutch podtrhuje rostoucí obavy firem z bezpečnostních rizik spojených s nasazováním autonomních agentů."
       ],
-      "why_matters": "Klíčový požadavek pro využití AI ve vědě, kde je nutné odfiltrovat halucinace a neprověřená tvrzení.",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "why_matters": "Bezpečnost AI agentů se stává klíčovým samostatným odvětvím kybernetické bezpečnosti.",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Meta zavádí videohovory s AI avatary Muse v reálném čase",
+      "title_orig": "Meta says US users can now video chat with their Muse AI avatar",
+      "category": "labs",
+      "summary_cs": [
+        "Meta zpřístupnila uživatelům v USA možnost videohovorů s personalizovaným AI asistentem Muse.",
+        "Avatar reaguje v reálném čase hlasem i animovanou mimikou přímo v mobilní aplikaci.",
+        "Společnost zároveň připravuje nositelnou elektroniku zaměřenou na interakci s tímto asistentem."
+      ],
+      "why_matters": "Posouvá rozhraní mezi člověkem a AI od textu k imerzivní vizuální a hlasové komunikaci.",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "NVIDIA uvádí otevřené modely Cosmos 3 pro simulaci fyzikálních světů",
+      "title_orig": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "category": "open-source",
+      "summary_cs": [
+        "NVIDIA vydala novou generaci otevřených modelů Cosmos 3 určených k interaktivní simulaci fyzikálního prostředí.",
+        "Modely jsou navrženy pro trénování robotických systémů a autonomních vozidel ve virtuálním prostoru.",
+        "Otevřený přístup umožňuje výzkumníkům a vývojářům přizpůsobit simulace specifickým průmyslovým potřebám."
+      ],
+      "why_matters": "Zásadní nástroj pro rozvoj fyzikální AI a pokročilé robotiky dostupný vývojářské komunitě.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Airbnb chystá vlastního autonomního AI agenta pro plánování cest na rok 2027",
+      "title_orig": "Airbnb is working on an AI travel agent",
+      "category": "news",
+      "summary_cs": [
+        "Airbnb ve své výsledkové zprávě potvrdilo vývoj pokročilého AI agenta pro kompletní plánování výletů.",
+        "Systém má zvládat nejen rezervace ubytování, ale i porovnávání možností a řešení problémů během pobytu.",
+        "Uvedení služby na trh je plánováno na první polovinu roku 2027."
+      ],
+      "why_matters": "Ukazuje, jak tradiční digitální platformy přecházejí na model plně autonomního sjednávání služeb.",
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Dropbox kupuje databázovou platformu Tigris Data za 350 milionů dolarů",
+      "title_orig": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "category": "business",
+      "summary_cs": [
+        "Dropbox oznámil akvizici společnosti Tigris Data s cílem posílit vlastní infrastrukturu pro ukládání dat.",
+        "Akvizice má podpořit vývoj nového vývojářského prostředí DBX Agent Cloud pro tvorbu AI aplikací.",
+        "Firma tak reaguje na měnící se potřeby trhu, kde klasické cloudové úložiště nahrazují inteligentní datové služby."
+      ],
+      "why_matters": "Tradiční cloudové služby přebudovávají svou infrastrukturu přímo pro potřeby AI agentů.",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 14,
-      "title_cs": "Chytrý prsten Aina chce sloužit jako dálkový ovladač pro autonomní AI agenty",
+      "title_cs": "Startup Aina představil chytrý prsten pro ovládání AI agentů gesty",
       "title_orig": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
       "category": "wildcard",
       "summary_cs": [
-        "Zařízení obsahuje miniaturní displej, joystick a mikrofon vytvořené k přímému řízení AI asistentů.",
-        "Umožňuje potvrzovat akce autonomních agentů jedním klepnutím bez nutnosti vytahovat smartphone.",
-        "Prsten zvládá také přijímat hovory nebo diktovat poznámky do počítačů Mac."
+        "Hardware startup Aina ukázal chytrý prsten vybavený malým displejem, mikrofonem a joystickem.",
+        "Zařízení má sloužit jako dálkový ovladač pro zadávání příkazů a kontrolu autonomních AI agentů.",
+        "Prsten umožňuje okamžitou diktaci poznámek nebo přijímání hovorů bez nutnosti vytahovat telefon."
       ],
-      "why_matters": "Ukazuje hledání nových hardwarových rozhraní pro pohotovou interakci s AI agenty mimo obrazovku telefonu.",
+      "why_matters": "Ukázka nového typu nositelné elektroniky navržené přímo pro éru autonomních softwarových agentů.",
       "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
       "source": "TechCrunch AI"
     },
     {
       "rank": 15,
-      "title_cs": "Když klienti ustupují AI agentům: Nová výzva pro tvorbu digitálních služeb",
-      "title_orig": "Mysleli, že tvoří službu pro lidi. Jenže firmy už musejí tvořit pro AI, s níž se nedá domluvit",
-      "category": "wildcard",
+      "title_cs": "Brněnská technologie Lightly pomáhá americké policii analyzovat drogy v terénu",
+      "title_orig": "Česká technologie pomáhá policii v Americe hledat původ drog přímo v terénu",
+      "category": "news",
       "summary_cs": [
-        "Firmy zjišťují, že jejich weby a rozhraní stále častěji navštěvují autonomní agenti místo živých lidí.",
-        "Tato změna vyžaduje úpravu architektury služeb pro strojové zpracování dat a vyjednávání.",
-        "Analýza rozebírá dopady nárůstu automatizovaného provozu na stávající obchodní modely."
+        "Brněnský startup Lightly Technologies spustil v USA pilotní projekt svého přenosného detekčního zařízení Catch.",
+        "Policejní složky v Georgii využívají český hardware a software k okamžité identifikaci původu drog na místě zásahu.",
+        "Technologie kombinuje pokročilou spektrometrii s analytickými algoritmy pro rychlé vyhodnocení dat."
       ],
-      "why_matters": "Nutí české firmy přemýšlet o tom, jak upravit své produkty pro konzumaci AI agenty ostatních lidí.",
-      "url": "https://www.lupa.cz/clanky/mysleli-ze-tvori-sluzbu-pro-lidi-jenze-firmy-uz-museji-tvorit-pro-ai-s-niz-se-neda-domluvit/",
+      "why_matters": "Příklad úspěšné aplikace české analytické technologie v amerických bezpečnostních složkách.",
+      "url": "https://www.lupa.cz/aktuality/ceska-technologie-pomaha-policii-v-americe-hledat-puvod-drog-primo-v-terenu/",
       "source": "Lupa.cz"
     }
   ]
