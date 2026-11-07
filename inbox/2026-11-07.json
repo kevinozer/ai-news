@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T05:02:21.460537+00:00",
+  "generated_at": "2026-11-07T11:04:20.240144+00:00",
   "date": "2026-11-07",
-  "article_count_unique": 139,
-  "article_count_raw": 139,
+  "article_count_unique": 138,
+  "article_count_raw": 138,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "venturebeat_ai",
@@ -163,8 +163,8 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 6,
-      "raw_count": 12
+      "count": 5,
+      "raw_count": 11
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "8dfc1e2fb660b6ae",
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "published_at": "2026-11-07T11:00:00+00:00",
+      "author": "Jaclyn Greenberg",
+      "summary_raw": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "hero_image": "https://media.wired.com/photos/6aed04343576db1689ab3d03/master/pass/Caregiving%20app.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "52ac94ee1883b16a",
+      "title": "AI je nenasytná, tak ji začínají pohánět vyřazené letecké motory. Jsou sice špinavé, ale rychlé",
+      "url": "https://cc.cz/ai-je-nenasytna-tak-ji-zacinaji-pohanet-vyrazene-letecke-motory-jsou-sice-spinave-ale-rychle/",
+      "published_at": "2026-11-07T05:37:47+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Na připojení k elektrické síti se čeká roky, stejně tak na turbíny. AI datacentra proto sahají po motorech z boeingů. Sází na ně i Elon Musk. Článek AI je nenasytná, tak ji začínají pohánět vyřazené letecké motory. Jsou sice špinavé, ale rychlé se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/cfm56-1-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "494f5ee99fa57605",
       "title": "[AINews] Anthropic IPO: Whither Now?",
@@ -787,18 +811,6 @@
       "category": "cz"
     },
     {
-      "id": "ea9469cb580141cc",
-      "title": "Umělá inteligence ji nezabila, naopak z ní žije. Proč je Wikipedie v době AI důležitější než kdy dřív?",
-      "url": "https://cc.cz/umela-inteligence-ji-nezabila-naopak-z-ni-zije-proc-je-wikipedie-v-dobe-ai-dulezitejsi-nez-kdy-driv/",
-      "published_at": "2026-11-06T05:23:02+00:00",
-      "author": "Martin Samek",
-      "summary_raw": "Česká verze encyklopedie překonala v říjnu 600 tisíc hesel a čtou ji dva miliony lidí denně. AI chatboti by bez ní nebyli tak přesní. Článek Umělá inteligence ji nezabila, naopak z ní žije. Proč je Wikipedie v době AI důležitější než kdy dřív? se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/wikipedia-mvp-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "926d74c8da8c7b44",
       "title": "OpenAI is stepping back from NDAs for data center projects",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
@@ -1183,18 +1195,6 @@
       "category": "news"
     },
     {
-      "id": "c33a8e4d134c71c0",
-      "title": "A new bill could change how the US builds energy infrastructure",
-      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "published_at": "2026-11-05T10:00:00+00:00",
-      "author": "Casey Crownhart",
-      "summary_raw": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "791ab46ab1fd058e",
       "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
       "url": "https://openai.com/index/introducing-gpt-6-cyber",
@@ -1229,18 +1229,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "df1b9c1239d701fb",
-      "title": "Mysleli, že tvoří službu pro lidi. Jenže firmy už musejí tvořit pro AI, s níž se nedá domluvit",
-      "url": "https://www.lupa.cz/clanky/mysleli-ze-tvori-sluzbu-pro-lidi-jenze-firmy-uz-museji-tvorit-pro-ai-s-niz-se-neda-domluvit/",
-      "published_at": "2026-11-05T05:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Firmy někdy narážejí na nový problém: místo konverzace s lidmi je byznysplán nutí bavit se s AI agenty. Co se stane, když lidem vysílají požadavky agenti jiných lidí? A jak se v tomto prostředí obchodně funguje?",
-      "hero_image": "https://i.iinfo.cz/images/361/komunikace-se-zakazniky.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "3595ed33fb1ecfa2",
