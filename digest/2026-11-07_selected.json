@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-07",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI dosáhla valuce 1,25 bilionu dolarů a získala dalších 11 miliard",
+      "title_orig": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "category": "business",
+      "summary_cs": [
+        "OpenAI získala v novém investičním kole dalších 11 miliard dolarů a její hodnota přesáhla hranici 1,25 bilionu.",
+        "Kolo financování navazuje na předchozí masivní investice z počátku roku a upevňuje dominantní pozici firmy na trhu.",
+        "Masivní kapitál přichází v době, kdy konkurent Anthropic intenzivně připravuje vlastní vstup na burzu."
+      ],
+      "why_matters": "Rekordní valuace upevňuje dominanci OpenAI a určuje finanční standard pro celý AI průmysl.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Čínské otevřené AI modely dosahují špičkových schopností v kybernetickém hackování",
+      "title_orig": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "category": "research",
+      "summary_cs": [
+        "Testy ukázaly, že čínské modely jako DeepSeek a GLM se v prolamování simulovaných sítí blíží špičkovým americkým systémům.",
+        "Výzkumníci upozorňují, že tyto schopnosti jsou volně dostupné jako open-source bez přísných bezpečnostních pojistek.",
+        "Pokrok čínských vývojářů stírá rozdíl mezi veřejně dostupnými modely a uzavřenými pokročilými systémy z USA."
+      ],
+      "why_matters": "Dostupnost výkonných hackovacích AI modelů zdarma představuje zásadní bezpečnostní výzvu pro evropské firmy.",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Meta představuje rozhraní Spaces pro přizpůsobenou spolupráci s agentem Muse",
+      "title_orig": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "category": "labs",
+      "summary_cs": [
+        "Meta rozšiřuje ekosystém kolem asistenta Muse a uvádí nový modulární prostor nazvaný Spaces.",
+        "Uživatelé si mohou v aplikaci vytvářet vlastní pracovní centra nebo studijní panely s přímou integrací AI agenta.",
+        "Nástroj zjednodušuje organizaci dat a převádí konverzaci s AI do strukturovaných aplikací na míru."
+      ],
+      "why_matters": "Ukazuje posun od jednoduchých chatů k ucelenému pracovnímu prostředí s autonomními agenty.",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Americké volby přinesly silný tlak veřejnosti proti expanzi datových center pro AI",
+      "title_orig": "How a Blue Wave midterm might reshape the AI industry",
+      "category": "news",
+      "summary_cs": [
+        "Voliči v USA v desítkách lokálních hlasování schválili přísnější pravidla pro výstavbu energeticky náročných datových center.",
+        "Sílicí odpor komunit vůči hluku a spotřebě elektřiny představuje vážnou překážku pro další scaling AI modelů.",
+        "Technologické firmy tak budou muset přehodnotit plány na rozvoj fyzické infrastruktury a hledat efektivnější řešení."
+      ],
+      "why_matters": "Rostoucí odpor proti datovým centrům může výrazně zpomalit vývoj a zvýšit ceny AI služeb.",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Výdaje firem za AI stagnují navzdory rostoucímu používání samotných modelů",
+      "title_orig": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "category": "business",
+      "summary_cs": [
+        "Data z finančních platforem ukazují, že firemní rozpočty vyhrazené na AI nástroje v posledním období nerostou.",
+        "Důvodem je výrazné zlevňování modelů na trhu a efektivnější kontrola nákladů na straně podnikových zákazníků.",
+        "Tento trend zpochybňuje očekávání investorů ohledně neomezeného růstu tržeb AI poskytovatelů."
+      ],
+      "why_matters": "Firmy začínají AI využívat efektivněji a odmítají přeplácet, což tlačí ceny služeb dolů.",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Česká hra získala pochvalu od tvůrce Minecraftu, čelí však kritice kvůli generativní AI",
+      "title_orig": "Miliardář a tvůrce Minecraftu doporučil novou českou hru, která čelí nesmyslnému nařčení kvůli používání AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Známý vývojář Markus Persson doporučil novou hru od českých autorů, což jí přineslo velkou pozornost.",
+        "Projekt se zároveň dostal do debaty kvůli podezření z využití generativních nástrojů při tvorbě vizuálního obsahu.",
+        "Případ ilustruje rostoucí citlivost herní komunity na zapojení umělé inteligence do vývojářského procesu."
+      ],
+      "why_matters": "Ukazuje reálné dopady a předsudky spojené s využitím AI v českém kreativním průmyslu.",
+      "url": "https://www.lupa.cz/aktuality/miliardar-a-tvurce-minecraftu-doporucil-novou-ceskou-hru-ktera-celi-nesmyslnemu-narceni-kvuli-pouzivani-ai/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 7,
+      "title_cs": "OpenAI uvádí BioBasicsBench pro testování AI agentů v laboratorním výzkumu",
+      "title_orig": "Measuring how AI agents handle everyday wet-lab science",
+      "category": "labs",
+      "summary_cs": [
+        "Nový benchmark od OpenAI obsahuje stovku praktických úkolů zaměřených na práci s reálnými biologickými daty.",
+        "Test zkoumá schopnost agentů vyhodnocovat laboratorní experimenty a navrhovat další postupy v biologii.",
+        "Cílem je ověřit, zda mohou AI systémy spolehlivě pomáhat vědcům při vývoji léčení a přírodovědném výzkumu."
+      ],
+      "why_matters": "Posouvá využití AI z textové roviny do reálného vědeckého a medicínského výzkumu.",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "OpenAI ustupuje od dohod o mlčenlivosti při stavbě infrastruktury",
+      "title_orig": "OpenAI is stepping back from NDAs for data center projects",
+      "category": "news",
+      "summary_cs": [
+        "Reakcí na odpor veřejnosti je závazek OpenAI nepoužívat tajné dohody NDA při jednání s místními samosprávami.",
+        "Společnost publikovala nový rámec pravidel, který má zaručit ochranu místních zdrojů a otevřenější komunikaci.",
+        "Cílem je obnout důvěru komunit v místech, kde mají vyrůst obří výpočetní servery."
+      ],
+      "why_matters": "Větší transparentnost usnadní dohled nad tím, jak AI obři ovlivňují životní prostředí.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Chytré modely Inkling 2 od ukazují vysoký výkon při rychlém tréninku",
+      "title_orig": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+      "category": "open-source",
+      "summary_cs": [
+        "Nový model Inkling 2 Small předvedl vynikající výsledky v testu uvažování po pouhých 68 hodinách tréninku.",
+        "Architektura dokázala překonat konkurenční systémy při efektivním využití tréninkového datasetu o 12 bilionech tokenů.",
+        "Výsledky ukazují, že optimalizace trénovacího procesu umožňuje dosáhnout špičkového výkonu i u menších modelů."
+      ],
+      "why_matters": "Potvrzuje trend, že menší a efektivněji trénované modely dokážou porážet obří systémy.",
+      "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Hackeři získali přístup k údajům zákazníků bezpečnostní firmy Chainalysis",
+      "title_orig": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "category": "news",
+      "summary_cs": [
+        "Známá analytická společnost stala terčem rozsáhlého kybernetického útoku, který kompromitoval klientské účty.",
+        "Podle vyjádření firmy útočníci při průniku využili i autonomní AI agenty pro obcházení obranných systémů.",
+        "Incident zdůrazňuje rizika spojená s novými metodami automatizovaných útoků na významné instituce."
+      ],
+      "why_matters": "Varovný příklad toho, jak útočníci využívají AI agenty k prolomení špičkové kyberbezpečnosti.",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Startup Axiom Math využívá AI agenty k formální verifikaci matematických důkazů",
+      "title_orig": "Axiom Math wants to keep AI slop out of mathematics",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost Axiom Math vyvíjí ověřovací AI nástroje, které mají zabránit šíření chyb v odborných publikacích.",
+        "Agentům se úspěšně podařilo formálně ověřit rozsáhlý matematický archív Stacks Project.",
+        "Systém ukazuje způsob, jak garantovat přesnost AI výstupů v exaktních vědních oborech."
+      ],
+      "why_matters": "Důležitý krok pro řešení halucinací AI a zajištění absolutní spolehlivosti dat v odborné praxi.",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Datoví makléři skupují firemní e-maily a dokumenty pro trénování AI",
+      "title_orig": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "category": "business",
+      "summary_cs": [
+        "Zvýšená poptávka po kvalitních trénovacích datech vede k masivnímu nákupu interních firemních komunikací.",
+        "Brokerští agenti shromažďují provozní dokumenty a e-maily, což vyvolává obavy ohledně ochrany soukromí.",
+        "Mnohé podniky si začínají uvědomovat hodnotu svých interních dat a zavádějí přísnější restrikce."
+      ],
+      "why_matters": "Upozorňuje na riziko úniku interních know-how firem do trénovacích datových sad.",
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Amazon zavádí nakupování přes textové zprávy pro hlasového asistenta Alexa",
+      "title_orig": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "category": "tools",
+      "summary_cs": [
+        "Amazon spouští novou funkci, která uživatelům umožní posílat asistentovi textové požadavky nebo fotky produktů.",
+        "Nástroj automaticky vyhledá odpovídající zboží v katalogu a zprostředkuje nákup přímo v konverzaci.",
+        "Jde o další krok k přeměně tradičních hlasových asistentů na nákupní agenty využívající textové rozhraní."
+      ],
+      "why_matters": "Ukazuje, jak se conversational commerce stává běžnou součástí každodenního nakupování.",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Startup Underdog předvedl extrémně malý 32MB model pro syntézu řeči a hudby",
+      "title_orig": "Underdog shows off a 32MB speech model in new demo",
+      "category": "open-source",
+      "summary_cs": [
+        "Nový ultrakompaktní model zabírá pouze 32 megabytů paměti, ale zvládá generovat řeč i hudbu v dobré kvalitě.",
+        "Extrémně malá velikost umožňuje provozovat generativní zvuk přímo na nositelné elektronice nebo mikrokontrolerech.",
+        "Ukázka demonstruje možnosti lokálního zpracování zvuku bez nutnosti připojení ke cloudovým serverům."
+      ],
+      "why_matters": "Umožní integraci hlasové AI do levnějších elektronických zařízení bez potřeby internetu.",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Google DeepMind uvádí rychlý multimodální model Gemini Omni 1.2 Flash",
+      "title_orig": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "category": "labs",
+      "summary_cs": [
+        "Google vydává aktualizaci svého lehkého modelu, která přináší vyšší rychlost a podporu delších videosekvencí.",
+        "Vylepšená verze výrazně snižuje finanční náklady na zpracování obsahu při zachování vysoké přesnosti.",
+        "Model je navržen pro vývojáře vyžadující okamžitou odezvu při práci s kombinací textu, audia a videa."
+      ],
+      "why_matters": "Zlevňuje a zrychluje vývoj aplikací pracujících s videem a zvukem v reálném čase.",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind Blog"
+    }
+  ]
+}
