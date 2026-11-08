@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-08",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic zrychluje vývoj AI pomocí vlastních modelů: Vědci varují před riziky",
+      "title_orig": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost Anthropic využívá své vlastní modely k automatizaci a zrychlení vývoje nové generace umělé inteligence.",
+        "Podle zprávy organizace METR se schopnosti modelů zlepšují dvakrát rychleji než před rokem bez známek zpomalení.",
+        "Výzkumníci varují, že takto rychlá samovolná iterace AI může překročit možnosti lidské kontroly a bezpečnostních mechanismů."
+      ],
+      "why_matters": "Ukazuje, že vývoj AI se začíná samovolně zrychlovat, což zásadně mění celou budoucnost oboru.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Letecké motory z boeingů jako nový zdroj energie pro hladová datacentra AI",
+      "title_orig": "AI je nenasytná, tak ji začínají pohánět vyřazené letecké motory. Jsou sice špinavé, ale rychlé",
+      "category": "business",
+      "summary_cs": [
+        "Kvůli víceletým čekacím lhůtám na připojení k elektrické síti začínají vývojáři AI datacenter využívat vyřazené letecké motory.",
+        "Tato mobilní řešení poskytují rychlou energii pro energeticky náročné AI servery, ačkoli mají vysoké emise.",
+        "Na záložní turbíny z letadel sází i společnosti Elona Muska při budování svých nová výpočetních center."
+      ],
+      "why_matters": "Extrémní hlad AI po energii nutí firmy k netradičním krokům s dopadem na energetiku i ekologii.",
+      "url": "https://cc.cz/ai-je-nenasytna-tak-ji-zacinaji-pohanet-vyrazene-letecke-motory-jsou-sice-spinave-ale-rychle/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Čína naverbovala manažerku k špionáži šéfa společnosti Nvidia Jensena Huanga",
+      "title_orig": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "category": "news",
+      "summary_cs": [
+        "Čínská zpravodajská služba podle zpráv naverbovala vysoce postavenou manažerku ze společnosti Megaspeed.",
+        "Jejím cílem bylo získat tajné informace o pokročilých AI čipech Nvidia a ovlivnit jejich dodávky do Číny.",
+        "Případ vedl k tomu, že byl šéf Nvidie Jensen Huang předvolán k výslechu před americké zákonodárce."
+      ],
+      "why_matters": "Dokládá vyostřující se technologickou studenou válku a špionáž v oblasti AI čipů.",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Meta uvádí Spaces: Vlastní rozhraní a aplikace generované modelem Muse",
+      "title_orig": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "category": "tools",
+      "summary_cs": [
+        "Meta představila novou funkci Spaces, která uživatelům umožňuje vytvářet přizpůsobená mikro-rozhraní v aplikaci Muse.",
+        "AI dokáže na vyžádání vygenerovat specifické rozhraní například pro nákupní přehledy, školní nástěnky či sledování hudby.",
+        "Uživatelé tak získávají dynamické prostředí, které se mění podle jejich aktuálních potřeb bez nutnosti kódování."
+      ],
+      "why_matters": "Posouvá AI od pouhého chatování k dynamickému generování uživatelských rozhraní na míru.",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Crusoe prodává rozestavěné AI datacentrum ve Wyomingu společnosti Google",
+      "title_orig": "Crusoe sells troubled Wyoming data center project to Google",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Crusoe odprodala svůj rozsáhlý projekt AI datacentra ve Wyomingu technologickému gigantu Google.",
+        "Transakce odhaluje finanční a logistické komplikace, kterým čelí menší vývojáři při stavbě masivní infrastruktury.",
+        "Google získáním projektu posiluje své vlastní kapacity pro trénování a provozování velkých AI modelů."
+      ],
+      "why_matters": "Ukazuje konsolidaci trhu, kde masivní infrastrukturní projekty zvládají ufinancovat jen ti největší.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Americké úřady schválily prodej AI čipů Nvidia prázdným schránkovým firmám v Číně",
+      "title_orig": "The US let Nvidia sell chips to an empty office in China",
+      "category": "news",
+      "summary_cs": [
+        "Americké ministerstvo obchodu čelí kritice za nedostatečné prověřování čínských firem schválených pro nákup čipů H200.",
+        "Vyšetřování ukázalo, že schválená společnost New Matrix sídlí na adrese, která je ve skutečnosti prázdnou budovou.",
+        "Případ vyvolává pochybnosti o efektivitě amerických sankcí a vývozních omezení na pokročilé technologie."
+      ],
+      "why_matters": "Upozorňuje na mezery v regulaci obchodu s AI hardwarem a obcházení mezinárodních sankcí.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Oblast kybernetické bezpečnosti čelí transformaci kvůli nástupu AI",
+      "title_orig": "AI broke the cybersecurity world. What’s next?",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní experti upozorňují na hlubokou krizi v oboru kyberbezpečnosti způsobenou rychlým rozvojem generativní AI.",
+        "Útočníci využívají AI k automatizovanému vyhledávání zranitelností a tvorbě sofistikovaných phishingových kampaní.",
+        "Obranné systémy se musí adaptovat na strojovou rychlost útoků, což vyžaduje kompletní přepracování bezpečnostních strategií."
+      ],
+      "why_matters": "Rozvoj AI mění pravidla hry v bezpečnosti firemních dat i národní infrastruktury.",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Wall Street váhá nad návratností miliardových investic do AI",
+      "title_orig": "Nahoru dolů. Wall Street střídá výprodej s růstem a hledá odpověď, kdo na boomu AI skutečně vydělá",
+      "category": "news",
+      "summary_cs": [
+        "Americké akciové trhy zažívají výkyvy v reakci na masivní kapitálové výdaje technologických firem do AI.",
+        "Investoři začínají být opatrní a požadují jasné důkazy o tom, kdy se začnou vložené miliardy dolarů vracet.",
+        "Zatímco výrobci hardwaru profitují ihned, u softwarových aplikací a služeb je reálná ziskovost stále nejistá."
+      ],
+      "why_matters": "Klíčový pohled na finanční udržitelnost současného AI boomu pro investory i firmy.",
+      "url": "https://cc.cz/nahoru-dolu-wall-street-strida-vyprodej-s-rustem-a-hleda-odpoved-kdo-na-boomu-ai-skutecne-vydela/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Na internetu byly objeveny stovky volně přístupných AI hacking nástrojů Artex",
+      "title_orig": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní výzkumníci odhalili stovky veřejně exponovaných serverů s nainstalovaným AI nástrojem Artex.",
+        "Tento volně dostupný systém je určen pro automatizované penetrační testování a vyhledávání slabin.",
+        "Nechráněný přístup k těmto serverům umožňuje komukoli zneužít pokročilé AI útočné funkce bez autentizace."
+      ],
+      "why_matters": "Varující příklad neopatrného nasazování autonomních AI nástrojů s vysokým rizikem zneužití.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "OpenAI navazuje partnerství s Hacktron pro hledání bezpečnostních zranitelností",
+      "title_orig": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI oznámila spolupráci s bezpečnostní platformou Hacktron s cílem posílit ochranu svých systémů.",
+        "Partnerství se zaměří na testování integrací s aplikacemi třetích stran a hledání skrytých zranitelností.",
+        "Projekty mají pomoci vytvořit odolnější obranné mechanizmy za použití nejnovějších AI modelů."
+      ],
+      "why_matters": "OpenAI zvyšuje úsilí o zabezpečení své infrastruktury před pokročilými hrozbami.",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Physicl získal 10 milionů dolarů na simulace reálného světa pro výcvik robotů",
+      "title_orig": "Physicl raises $10M to make the digital world real enough for robots",
+      "category": "tools",
+      "summary_cs": [
+        "Startup Physicl získal investici na vývoj pokročilých fyzikálních simulací pro trénink autonomních robotů.",
+        "Cílem firmy je překlenout rozdíl mezi virtuálním tréninkem a reálným světem pomocí přesných digitálních modelů.",
+        "Technologie využívá postupy z digitálního marketingu k vytváření věrných prostředí pro robotické učení."
+      ],
+      "why_matters": "Klíčová technologie pro zrychlení vývoje fyzických robotů a jejich bezpečné nasazení.",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "ToyBlocks: Nové prostředí pro výzkum a hodnocení robotického učení",
+      "title_orig": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "category": "labs",
+      "summary_cs": [
+        "Výzkumníci představili prostředí ToyBlocks určené pro standardizované testování schopností robotů.",
+        "Platforma poskytuje kontrolované podmínky pro porovnávání různých přístupů k učení a manipulaci s objekty.",
+        "Projekt má pomoci vědecké komunitě lépe měřit pokrok v oblasti fyzické umělé inteligence."
+      ],
+      "why_matters": "Důležitý benchmark pro objektivní srovnávání pokroku v robotice.",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Testování na platformě ARC Prize odhaluje limity uvažování nových modelů",
+      "title_orig": "[AINews] Anthropic IPO: Whither Now?",
+      "category": "open-source",
+      "summary_cs": [
+        "Počítačoví vědci podrobili model Inkling 2 Small náročnému benchmarku ARC Prize zkoumajícímu obecné uvažování.",
+        "Výzkumný tým Thinking Machines zveřejnil analýzu zachycující chování modelů při obcházení bezpečnostních zábran.",
+        "Zjištění ukazují na přetrvávající výzvy při tvorbě spolehlivě uvažujících AI systémů."
+      ],
+      "why_matters": "Ukazuje reálné limity současných modelů při řešení úloh vyžadujících skutečnou logiku.",
+      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Meta ruší sporné podmínky trénování AI na obsahu ze stránek Facebooku",
+      "title_orig": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Meta ustoupila od plánované aktualizace obchodních podmínek po silné vlně kritiky od uživatelů.",
+        "Původní návrh by nutil správce stránek na Facebooku k souhlasu s využitím jejich obsahu k trénování AI.",
+        "Firma po odporu veřejnosti potvrdila, že tyto podmínky pro komerční účty nezavedete."
+      ],
+      "why_matters": "Důkaz, že tlak veřejnosti a tvůrců obsahu dokáže změnit datové praktiky velkých AI firem.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 15,
+      "title_cs": "AI asistenti v péči o rodinné příslušníky pomáhají, ale hlavní problémy neřeší",
+      "title_orig": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "category": "wildcard",
+      "summary_cs": [
+        "Aplikace pro pečovatele o seniory a nemocné začínají masivně integrovat asistenty založené na AI.",
+        "Nástroje pomáhají s organizací času, správou léků a komunikací s lékaři, což šetří denní čas.",
+        "Experti však upozorňují, že technologie nedokáže vyřešit psychické vyhoření a nedostatek systémové podpory Pečujících."
+      ],
+      "why_matters": "Příklad limitů AI v oblastech, které vyžadují fyzickou přítomnost a lidský přístup.",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "source": "Wired AI"
+    }
+  ]
+}
