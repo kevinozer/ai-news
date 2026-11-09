@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-09",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Šéf Nvidie pod palbou: Vyšetřování vztahu s údajnou čínskou špionkou",
+      "title_orig": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "category": "business",
+      "summary_cs": [
+        "Správní rada společnosti Nvidia zahájila nezávislé vyšetřování svého generálního ředitele Jensena Huanga kvůli jeho nemanželskému vztahu.",
+        "Partnerka šéfa Nvidie Alice Huang je podezřelá ze spolupráce s čínským ministerstvem státní bezpečnosti a z pokusů o špionáž v technologickém odvětví.",
+        "Jensen Huang zaslal zaměstnancům interní memorandum, v němž poměr přiznal, vyšetřovatelé nyní prověřují možný únik citlivých informací."
+      ],
+      "why_matters": "Skandál v čele nejhodnotnější AI firmy světa může zásadně ovlivnit celý technologický trh a dodávky čipů.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Apple zrychluje vývoj AI: Siri má získat schopnosti autonomního agenta",
+      "title_orig": "Apple is racing to make Siri more agentic",
+      "category": "tools",
+      "summary_cs": [
+        "Vedení společnosti Apple vyvíjí tlak na AI divizi s cílem výrazně urychlit vývoj a schopnosti hlasové asistentky Siri.",
+        "Nová verze Siri má nabídnout pokročilé agentní funkce, kterými chce Apple konkurovat systémům jako OpenAI Dots nebo Meta Muse.",
+        "Firma usiluje o to, aby Siri dokázala samostatně provádět složitější úkoly napříč aplikacemi v operačním systému."
+      ],
+      "why_matters": "Apple vstupuje do přímého souboje v oblasti autonomních AI agentů integrovaných přímo v mobilních zařízeních.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Česká AI aplikace luští staré matriky a buduje rodokmeny za pár hodin",
+      "title_orig": "Český vývojář naučil AI hledat předky ve starých matrikách. Přes noc se z jeho bezplatné funkce stal hit",
+      "category": "wildcard",
+      "summary_cs": [
+        "Český vývojář Jindřich Šaršon vytvořil nový nástroj využívající AI pro automatické čtení a analýzu historických matrik.",
+        "Model zvládá rozluštit kurent i jiné staré druhy písma a na základě nalezených dat generuje přehledné rodokmeny.",
+        "Bezplatná funkce zaznamenala mezi českou veřejností okamžitý obrovský zájem a stala se vyhledávaným hitem."
+      ],
+      "why_matters": "Praktické využití AI na české historické dokumenty ukazuje reálné přínosy moderní technologie široké veřejnosti.",
+      "url": "https://cc.cz/cesky-vyvojar-naucil-ai-hledat-predky-ve-starych-matrikach-pres-noc-se-z-jeho-bezplatne-funkce-stal-hit/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Jak Stanford učí AI inženýrství, když agenty vyřeší úkoly na první pokus",
+      "title_orig": "How Stanford Teaches AI-Native Engineering - Mihail Eric, Monaco",
+      "category": "research",
+      "summary_cs": [
+        "Stanfordova univerzita upravuje výuku softwarového inženýrství, protože moderní AI kódovací agenti zvládají loňské úkoly za pár sekund.",
+        "Vyučující nově zapojují studenty přímo do open-source projektů, kde musí analyzovat neznámé repozitáře a navrhovat komplexní změny.",
+        "Výuka se posouvá od samotného psaní kódů k řízení AI agentů a architektuře celých systémů."
+      ],
+      "why_matters": "Ukazuje, jak se radikálně mění vzdělávání vývojářů v éře autonomního generování kódu.",
+      "url": "https://latent.space/p/cs146s/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Vydavatelé hudby žalují startup Suno za nelegální imitaci slavných umělců",
+      "title_orig": "Elvis and Eminem rights holders are suing Suno",
+      "category": "business",
+      "summary_cs": [
+        "Držitelé autorských práv k hudbě Elvise Presleyho a Eminema podali žalobu na generativní AI platformu Suno.",
+        "Žaloba tvrdí, že startup nelegálně trénuje své modely na chráněných skladbách a generuje hudbu imitující styl slavných interpretů.",
+        "Případ představuje další z řady zásadních právních sporů mezi kreativním průmyslem a vývojáři generativní AI."
+      ],
+      "why_matters": "Výsledek sporu nastaví hranice pro trénování hudebních generativních modelů a ochranu autorských práv.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Fyzikální světové modely se stávají klíčem k autonomním systémům",
+      "title_orig": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "category": "labs",
+      "summary_cs": [
+        "Vývoj AI se posouvá od zpracování textu k trojrozměrným fyzikálním modelům světa, které simulují reálné prostředí.",
+        "Tyto modely umožňují robotům a autonomním vozidlům chápat fyzikální zákony a bezpečně se pohybovat v prostoru.",
+        "Simulace reálného světa představuje nezbytný krok k dosažení pokročilé robotiky a fyzické inteligence."
+      ],
+      "why_matters": "Světové modely jsou dalším velkým milníkem v AI, který propojuje digitální inteligenci s fyzickým světem.",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "OpenAI navyšuje odměny za odhalení bezpečnostních zranitelností",
+      "title_orig": "Rewarding defenders with bigger bug bounties",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI oznámila výrazné zvýšení finančních odměn v rámci svého programu Bug Bounty pro nezávislé výzkumníky.",
+        "Nové bonusy získají experti za vysoce kvalitní hlášení, dlouhodobou spolupráci a účast v prioritních bezpečnostních kampaňích.",
+        "Cílem je motivovat etické hackery k nalezení zranitelností dříve, než budou zneužity útočníky."
+      ],
+      "why_matters": "Zvyšování bezpečnosti popředních modelů je zásadní pro ochranu dat milionů uživatelů i firemních zákazníků.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Jak zefektivnit práci s kódovacími agenty při správě pull requestů",
+      "title_orig": "Hide your slop PR descriptions behind",
+      "category": "tools",
+      "summary_cs": [
+        "Známý vývojář Simon Willison popisuje své zkušenosti s využitím agentů Claude Code a Codex jako primárních nástrojů pro tvorbu kódu.",
+        "Příspěvek se zaměřuje na správnou strukturu pull requestů generovaných AI tak, aby zůstaly přehledné a užitečné pro lidskou kontrolu.",
+        "Článek nabízí praktické tipy pro integraci autonomních kódovacích nástrojů do každodenního vývojářského workflow."
+      ],
+      "why_matters": "Poskytuje praktické návody pro programátory, jak efektivně spolupracovat s novou generací AI kódovacích agentů.",
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "OpenAI zapojuje generativní nástroje do návrhu fyzických produktů a CAD",
+      "title_orig": "Accelerating engineering for the physical world",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI ukazuje, jak nástroje ChatGPT a Codex zrychlují práci inženýrů v oblastech CAD a návrhu plošných spojů.",
+        "AI modely pomáhají automatizovat rutinní konstrukční úkony, fyzikální simulace i optimalizaci materiálových vlastností.",
+        "Propojení LLM s průmyslovým softwarem výrazně zkracuje dobu vývoje nových hardware produktů."
+      ],
+      "why_matters": "Nasazení AI v tradičním inženýrství mění způsob vývoje fyzických produktů od elektroniky po strojírenství.",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Kuchařský AI asistent od New York Times pomáhá s úpravou receptů",
+      "title_orig": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "category": "tools",
+      "summary_cs": [
+        "Deník New York Times integroval do své kuchařské aplikace novou beta funkci založenou na generativní umělé inteligenci.",
+        "Nástroj umožní uživatelům snadno nahrazovat ingredience podle dietních omezení nebo upravovat postupy podle dostupných surovin.",
+        "První testy ukazují vysokou přesnost a praktickou použitelnost při každodenním vaření."
+      ],
+      "why_matters": "Demonstruje úspěšné nasazení specializovaného AI asistenta v tradičním médiu pro běžné uživatele.",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Stavění AI agentů v právním sektoru s důrazem na absolutní soukromí dat",
+      "title_orig": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "category": "open-source",
+      "summary_cs": [
+        "CTO startupu Legora popisuje výzvy vývoje AI agentů pro advokátní kanceláře, kde vývojáři nesmí vidět klientská data.",
+        "Firma vyvinula metodiku testování a hodnocení modelů bez nutnosti přístupu ke konkrétním textům právních dokumentů.",
+        "Nástup AI v advokacii zároveň začíná měnit tradiční tržní model založený na účtování hodinových sazeb."
+      ],
+      "why_matters": "Příklad ukazuje řešení architektury AI systémů pro odvětví s přísnými požadavky na ochranu tajemství.",
+      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Americký zaměstnanec odmítl AI v práci s odkazem na své přesvědčení",
+      "title_orig": "Nechce, aby za něj přemýšlela umělá inteligence. Američan našel v zákoně kličku a jeho zaměstnavatel ustoupil",
+      "category": "wildcard",
+      "summary_cs": [
+        "Dlouholetý pracovník americké univerzity odmítl používat povinně zavedené AI nástroje s odkazem na humanistické hodnoty.",
+        "Využitím právní kličky v legislativě přiměl zaměstnavatele, aby mu udělil výjimku z používání generativní AI.",
+        "Případ otevírá právní i etické otázky ohledně povinného zavádění AI nástrojů na pracovištích."
+      ],
+      "why_matters": "Důležitý precedent pro debatu o právech zaměstnanců odmítnout práci s AI z filozofických důvodů.",
+      "url": "https://cc.cz/nechce-aby-za-nej-premyslela-umela-inteligence-american-nasel-v-zakone-klicku-a-jeho-zamestnavatel-ustoupil/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Australské univerzity plošně zavádějí AI do výuky pro přípravu studentů",
+      "title_orig": "Australian universities are creating AI-native graduates",
+      "category": "business",
+      "summary_cs": [
+        "Vysoké školy v Austrálii rozšiřují přístup k nástrojům ChatGPT Enterprise pro studenty i vyučující.",
+        "Cílem plošné integrace je vytvořit generaci absolventů, kteří plynule ovládají AI pracovní postupy.",
+        "Univerzity přizpůsobují studijní plány tak, aby odpovídaly požadavkům moderního trhu práce."
+      ],
+      "why_matters": "Ukazuje systémový přístup státu k přípravě budoucí pracovní síly na éru umělé inteligence.",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Hugging Face přidává podporu pro egyptskou a nigerijskou angličtinu",
+      "title_orig": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "category": "open-source",
+      "summary_cs": [
+        "Open ASR Leaderboard na platformě Hugging Face rozšiřuje své žebříčky rozpoznávání řeči o nové regionální dialekty.",
+        "Přibyla podpora pro hodnocení přesnosti přepisu egyptské a nigerijské angličtiny.",
+        "Iniciativa pomáhá zlepšovat dostupnost hlasových AI modelů pro specifické akcenty a komunity."
+      ],
+      "why_matters": "Rozšiřování otevřených benchmarků zajišťuje spravedlivější fungování hlasových modelů po celém světě.",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Dharma Field Extractor přináší strukturovanou konverzi dokumentů do JSON",
+      "title_orig": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "category": "open-source",
+      "summary_cs": [
+        "Na platformě Hugging Face byl vydán nový open-source nástroj Dharma Field Extractor.",
+        "Model dokáže zpracovat libovolný vstupní dokument a automaticky z něj vytáhnout strukturovaná data do formátu JSON.",
+        "Nástroj výrazně zjednodušuje automatické zpracování faktur, smluv a nestrukturovaných formulářů."
+      ],
+      "why_matters": "Praktický open-source nástroj pro firmy, které potřebují efektivně digitalizovat papírové dokumenty.",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "Hugging Face Blog"
+    }
+  ]
+}
