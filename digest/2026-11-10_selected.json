@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-10",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Anthropic představuje nové výzkumné modely Claude Fable 5.2 a Mythos 5.2",
+      "title_orig": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost Anthropic oficiálně vydala dvě nové verze svých modelů zaměřené na náročné technické úkoly a programování.",
+        "Nové modely Fable 5.2 a Mythos 5.2 přinášejí výrazné zrychlení generování výstupů a lepší porozumění vizuálním vstupům.",
+        "Vylepšení se dočkala také schopnost agentů jasněji a přesněji komunikovat s uživatelem při řešení komplexních úloh."
+      ],
+      "why_matters": "Nové modely posouvají hranice automatizovaného vývoje softwaru a řešení složitých inženýrských problémů.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Vláda ČR schválila vznik Rady pro umělou inteligenci, členy jsou Pěchouček i Rehák",
+      "title_orig": "Česko má Radu pro umělou inteligenci, členy jsou Pěchouček nebo Rehák",
+      "category": "business",
+      "summary_cs": [
+        "V České republice vznikl nový poradní orgán vlády, který má koordinovat rozvoj umělé inteligence v zemi.",
+        "Rada má za cíl propojit státní správu s akademickým výzkumem a soukromými AI firmami.",
+        "Mezi prvním jmenovanými členy jsou významné osobnosti české AI scény jako Michal Pěchouček nebo Daniel Rehák."
+      ],
+      "why_matters": "Česká republika získává oficiální platformu pro strategické řízení a podporu rozvoje AI technologií.",
+      "url": "https://www.lupa.cz/aktuality/cesko-ma-radu-pro-umelou-inteligenci-cleny-jsou-pechoucek-nebo-rehak/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic zahajuje přípravy na vstup na burzu a stanovuje svou validaci",
+      "title_orig": "Anthropic reportedly plans to move forward with IPO plans",
+      "category": "business",
+      "summary_cs": [
+        "AI gigant Anthropic podle dostupných zpráv z Wall Street Journalu postupuje v plánování svého vstupu na burzu (IPO).",
+        "Společnost by měla již v průběhu tohoto týdne oficiálně stanovit valuační rozpětí pro potenciální investory.",
+        "Tento krok označuje další významný milník v komercializaci hlavní konkurence OpenAI."
+      ],
+      "why_matters": "Jde o jeden z nejočekávanějších vstupů AI firem na veřejný akciový trh.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Meta uvádí Muse Ember: Extrémně levný model pro spouštění AI agentů",
+      "title_orig": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "category": "labs",
+      "summary_cs": [
+        "Meta představila lehký model Muse Ember navržený speciálně pro efektivní spouštění autonomních agentů.",
+        "S cenou 10 centů za milion vstupních tokenů radikálně snižuje náklady na výpočetní výkon.",
+        "Model tak přímo konkuruje cenově dostupným variantám jako Claude Haiku od Anthropicu."
+      ],
+      "why_matters": "Levné a rychlé modely umožní masový rozvoj cenově dostupných AI agentů pro firmy.",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Chyba v nástroji Claude Code vedla k úniku citlivých klíčů na GitHubu",
+      "title_orig": "Claude Code is accidentally exposing secrets all over GitHub",
+      "category": "tools",
+      "summary_cs": [
+        "Nové vývojářské rozhraní Claude Code obsahuje bezpečnostní riziko spojené s ukládáním přístupových údajů.",
+        "Uživatelé při potlačení varovných hlášek nechtěně nahrávají hesla a API klíče přímo do veřejných repozitářů.",
+        "Bezpečnostní experti varují před neuváženým schvalováním automatických promptů v terminálu."
+      ],
+      "why_matters": "Zvyšuje riziko úniku citlivých firemních dat při používání autonomních kódovacích asistentů.",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 6,
+      "title_cs": "ChatGPT Enterprise míří do nabídky obchodu AWS Marketplace",
+      "title_orig": "ChatGPT Enterprise now available in AWS Marketplace",
+      "category": "business",
+      "summary_cs": [
+        "OpenAI zpřístupnila svou firemní verzi ChatGPT Enterprise přímo v rozhraní AWS Marketplace.",
+        "Firmy tak mohou nákup AI licencí zjednodušit v rámci svých stávajících fakturačních vztahů s Amazonem.",
+        "Tento krok výrazně zrychlí adopci ChatGPT v korporátním prostředí spoléhajícím na cloud AWS."
+      ],
+      "why_matters": "Usnadňuje podnikovým zákazníkům licencování a nasazení pokročilých modelů od OpenAI.",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Váš firemní chatbot se může stát terčem hackerů, varuje specialista v Praze",
+      "title_orig": "Váš firemní chatbot může pracovat pro hackery. Světový specialista v Praze ukázal slabiny AI asistentů",
+      "category": "news",
+      "summary_cs": [
+        "Špatně zabezpečení zákazničtí chatboty mohou být zneužiti k neoprávněným placeným dotazům na účet firmy.",
+        "V případě napojení na interní databáze představují asistenti přímou cestu k úniku citlivých dat.",
+        "Na zranitelnosti AI asistentů upozornil bezpečnostní výzkumník během své prezentace v Praze."
+      ],
+      "why_matters": "Upozorňuje české firmy na nutnost důkladného zabezpečení při implementaci vlastních AI chatbotů.",
+      "url": "https://www.lupa.cz/clanky/vas-firemni-chatbot-muze-pracovat-pro-hackery-svetovy-specialista-v-praze-ukazal-slabiny-ai-asistentu/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Disney a Adobe spouštějí partnerství pro vývoj generativní AI ve filmu",
+      "title_orig": "Disney and Adobe are building generative AI tools together",
+      "category": "tools",
+      "summary_cs": [
+        "Společnosti Disney a Adobe oznámily víceletou spolupráci na vývoji specializovaných generativních modelů.",
+        "Nástroje mají pomáhat výtvarníkům a animátorům v průběhu celého produkčního řetězce Disney studii.",
+        "Nové modely staví na technologiích řady Adobe Firefly s důrazem na ochranu autorských práv."
+      ],
+      "why_matters": "Tradice potkává AI u největšího zábavního giganta světa, což ovlivní standardy kreativního průmyslu.",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "OpenAI ukázala systém Control Room pro zastavení rizikových modelů",
+      "title_orig": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI popsala architekturu svého interního dohledového systému nazvaného Control Room.",
+        "Nástroj monitoruje vytížení výzkumné infrastruktury a dokáže okamžitě přerušit výpočet v případě bezpečnostního rizika.",
+        "Jde o klíčový prvek v plnění závazků spojených s bezpečným vývojem pokročilých modelů."
+      ],
+      "why_matters": "Ukazuje konkrétní technická řešení, jak výzkumné laboratoře řídí rizika při trénování AI.",
+      "url": "https://openai.com/index/control-room",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Šéf Nvidie odmítá vystoupení na summitu v reakci na vyšetřování",
+      "title_orig": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "category": "news",
+      "summary_cs": [
+        "Jensen Huang zrušil svou plánovanou účast na nadcházejícím summitu společnosti ElevenLabs.",
+        "Rozhodnutí přichází v době, kdy správní rada Nvidie šetří jeho soukromé vazby a vyšetřování státních orgánů.",
+        "Huang v posledních dnech odřekl také několik dalších veřejných vystoupení na akcích partnerských firem."
+      ],
+      "why_matters": "Skandál vedení Nvidie začíná přímo ovlivňovat plánované akce a partnerství v AI sektoru.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Instagram přináší Effect Builder pro tvorbu filtrů pomocí AI textových zadání",
+      "title_orig": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "category": "tools",
+      "summary_cs": [
+        "Instagram začal testovat nový nástroj Effect Builder, který umožňuje generovat obličejové a vizuální filtry.",
+        "Uživatelé popíší svou představu slovně do chatovacího okna a model vytvoří odpovídající efekt pro Stories.",
+        "Funkce je aktuálně dostupná v testovacím režimu pro dospělé uživatele ve Spojených státech."
+      ],
+      "why_matters": "Generativní AI se dostává k běžným uživatelům sociálních sítí v intuitivní formě.",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Český investor Michal Menšík stopl investice do startupů kvůli nastupující AI",
+      "title_orig": "Sázel na startupy, ale byl nervózní, co s nimi udělá AI. Investičně jim dal stopku a hledá ziskové firmy",
+      "category": "wildcard",
+      "summary_cs": [
+        "Investiční skupina V-Sharp mění svou strategii a pozastavuje nové investice do raných startupů.",
+        "Zakladatel Michal Menšík vysvětluje vyčkávací postoj rychlými změnami, které generativní AI přináší na trh.",
+        "Kapitál chce skupina raději směřovat do zavedených a ziskových firem odolnějších vůči AI disrupci."
+      ],
+      "why_matters": "Ukazuje konkrétní dopady nástupu AI na rozhodování tuzemských investorů a venture kapitálu.",
+      "url": "https://cc.cz/sazel-na-startupy-ale-byl-nervozni-co-s-nimi-udela-ai-investicne-jim-dal-stopku-a-hleda-ziskove-firmy/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Automattic spouští platformu Spacefast pro rychlé nasazení aplikací z vibe-codingu",
+      "title_orig": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost Automattic stojí za novým projektem Spacefast určeným pro snadný hosting AI vygenerovaného kódu.",
+        "Reaguje tím na vzestup trendu takzvaného vibe-codingu, kdy uživatelé tvoří aplikace výhradně konverzací s AI.",
+        "Služba má přímo konkurovat vznikajícím platformám typu Lovable nebo Bolt.new."
+      ],
+      "why_matters": "Vzniká celá nová infrastruktura zaměřená výhradně na okamžité publikování AI generovaných aplikací.",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Medium představuje aplikaci TK s integrovanou AI asistencí pro psaní",
+      "title_orig": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "category": "tools",
+      "summary_cs": [
+        "Publikační platforma Medium spustila novou spisovatelskou aplikaci nazvanou TK.",
+        "Aplikace obsahuje přímo vestavěného AI asistenta pro korektury, úpravu tónu a rozvíjení myšlenek.",
+        "Krok přichází v době intenzivních debat o dopadu syntetického obsahu na novinářskou kvalitu."
+      ],
+      "why_matters": "Ukazuje posun tradičních textových platforem směrem k hlubší integraci AI pomocníků.",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Odpůrci datacentra Google v Anglii spojují síly proti zátěži rozvodné sítě",
+      "title_orig": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+      "category": "wildcard",
+      "summary_cs": [
+        "Východně od Londýna vznikla neobvyklá koalice aktivistů snažící se zablokovat výstavbu datacentra Google.",
+        "Protesty v Evropě stále častěji míří na energetickou náročnost a spotřebu vody nových AI serveroven.",
+        "Místní obyvatelé vyjadřují obavy z negativního dopadu masivní infrastruktury na stabilitu dodávek elektřiny."
+      ],
+      "why_matters": "Rostoucí odpor veřejnosti vůči AI infrastruktuře v Evropě může zpomalit rozšiřování datových center.",
+      "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+      "source": "Wired AI"
+    }
+  ]
+}
