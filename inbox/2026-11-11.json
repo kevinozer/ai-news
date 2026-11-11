@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T05:02:02.113453+00:00",
+  "generated_at": "2026-11-11T11:53:22.526769+00:00",
   "date": "2026-11-11",
-  "article_count_unique": 179,
-  "article_count_raw": 179,
+  "article_count_unique": 180,
+  "article_count_raw": 180,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 21,
-      "raw_count": 21
+      "count": 22,
+      "raw_count": 22
     },
     {
       "source_id": "anthropic_news",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 12,
-      "raw_count": 12
+      "count": 13,
+      "raw_count": 13
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,13 +163,13 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 5,
-      "raw_count": 13
+      "count": 4,
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 4,
       "raw_count": 10
     }
   ],
@@ -185,6 +185,90 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
+    },
+    {
+      "id": "fd364eb350cbf652",
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "published_at": "2026-11-11T11:00:00+00:00",
+      "author": "Paresh Dave, Caroline Haskins",
+      "summary_raw": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+      "hero_image": "https://media.wired.com/photos/6aee70f5276d9711716c9d02/master/pass/Gemini-AI-Coached-Teen-Suicide-Business.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "685f485537c221b6",
+      "title": "Z Olomouce do Asie. Startup, který pomocí AI odhaluje arytmie, teď získal 130 milionů",
+      "url": "https://cc.cz/z-olomouce-do-asie-startup-ktery-pomoci-ai-odhaluje-arytmie-ted-ziskal-130-milionu/",
+      "published_at": "2026-11-11T10:13:56+00:00",
+      "author": "Filip Magalhães",
+      "summary_raw": "Stačí pás na hrudi a aplikace v mobilu. Kardi Ai tak dokáže zachytit i srdeční potíže, které při běžném vyšetření mohou lékařům uniknout. Článek Z Olomouce do Asie. Startup, který pomocí AI odhaluje arytmie, teď získal 130 milionů se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/kardi-ai-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "fab18ec502a8939b",
+      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+      "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+      "published_at": "2026-11-11T09:34:28+00:00",
+      "author": "swyx .ai",
+      "summary_raw": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+      "hero_image": null,
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "3416551d293c3447",
+      "title": "Nechcete kvůli AI hloupnout? Zaveďte si dva dny v týdnu bez ní, radí šéf inženýringu České spořitelny",
+      "url": "https://cc.cz/nechcete-kvuli-ai-hloupnout-zavedte-si-dva-dny-v-tydnu-bez-ni-radi-sef-inzenyringu-ceske-sporitelny/",
+      "published_at": "2026-11-11T09:02:30+00:00",
+      "author": "Markéta Veselá",
+      "summary_raw": "„Banka nemůže naskočit na každou novinku AI, ale agentům ve vývoji důvěřujeme,“ říká Jaroslav Rychna. Mluví o změnách v práci vývojáře i o regulacích. Článek Nechcete kvůli AI hloupnout? Zaveďte si dva dny v týdnu bez ní, radí šéf inženýringu České spořitelny se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/sporitelna_fintech_7-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "aead7b5b2e11eeb2",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "author": "",
+      "summary_raw": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "1d7c1edd0322f7c1",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "published_at": "2026-11-11T07:30:51+00:00",
+      "author": "Connie Loizos",
+      "summary_raw": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "88aa4e42799dc28c",
+      "title": "Když vyjde nový jazykový model, firmy mohou přestat existovat, říká Matějček z Mitonu o tom, kam investovat",
+      "url": "https://cc.cz/kdyz-vyjde-novy-jazykovy-model-firmy-mohou-prestat-existovat-rika-matejcek-z-mitonu-o-tom-kam-investovat/",
+      "published_at": "2026-11-11T05:31:57+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Hostem nejnovějšího dílu podcastu Money Maker byl zakládající partner skupiny Miton Tomáš Matějček. Mluvil o AI i plánech na investice. Článek Když vyjde nový jazykový model, firmy mohou přestat existovat, říká Matějček z Mitonu o tom, kam investovat se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/tomas-matejcek-06-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
     },
     {
       "id": "d7c1d39c04c7b837",
@@ -672,7 +756,7 @@
       "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
       "published_at": "2026-11-10T20:09:44+00:00",
       "author": "",
-      "summary_raw": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for the low, medium and high thinking efforts (it defaults to medium). This is the pelican I got for high: Gemini pelicans have all been great for a while now, so I also tested it out using Google's Antigravity IDE with a prompt I first tried with Claude Fable 5.2 yesterday : Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data Here's the HTML result (I had to prompt \"build that into a standalone HTML file\" to get a version with no external dependencies). I then screen-captured that as a video: Update : Huh, just saw this on YouTube : Using Google Antigravity’s /swarm feature, Carbon built an open-world 3D game where you explore Google’s Mountain View campus as a pelican riding a GBike — coordinating subagents to model 3D assets in Blender from Omni and Nano Banana references, build the browser game in Three.js with WebGL shaders, and pair procedural Web Audio sound effects with Lyria music. Tags: llm-release , gemini , llm , google , generative-ai , ai , llms , pelican-riding-a-bicycle",
+      "summary_raw": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for the low, medium and high thinking efforts (it defaults to medium). This is the pelican I got for high: Gemini pelicans have all been great for a while now, so I also tested it out using Google's Antigravity IDE with a prompt I first tried with Claude Fable 5.2 yesterday : Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data Here's the HTML result (I had to prompt \"build that into a standalone HTML file\" to get a version with no external dependencies). I then screen-captured that as a video: Update : Huh, just saw this on YouTube (and tweeted by Sundar Pichai ): Using Google Antigravity’s /swarm feature, Carbon built an open-world 3D game where you explore Google’s Mountain View campus as a pelican riding a GBike — coordinating subagents to model 3D assets in Blender from Omni and Nano Banana references, build the browser game in Three.js with WebGL shaders, and pair procedural Web Audio sound effects with Lyria music. Here's the playable version in AI Studio. Tags: llm-release , gemini , llm , google , generative-ai , ai , llms , pelican-riding-a-bicycle",
       "hero_image": "https://static.simonwillison.net/static/2026/carbon-pelican.webp",
       "source_id": "simonw",
       "source_name": "Simon Willison's Weblog",
@@ -1255,18 +1339,6 @@
       "category": "news"
     },
     {
-      "id": "b04d811254454b9c",
-      "title": "Falešných AI profilů v náboru do firem přibývá. V roce 2028 to bude jeden ze čtyř, říká odborník",
-      "url": "https://cc.cz/falesnych-ai-profilu-v-naboru-do-firem-pribyva-v-roce-2028-to-bude-jeden-ze-ctyr-rika-odbornik/",
-      "published_at": "2026-11-10T10:29:08+00:00",
-      "author": "Marta Plecitá",
-      "summary_raw": "Trojští koně z Asie zkoušejí proniknout do světových firem přes AI a ukradené identity. S podvody v IT náboru se potkávají už i čeští personalisté. Článek Falešných AI profilů v náboru do firem přibývá. V roce 2028 to bude jeden ze čtyř, říká odborník se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/falesne-profily-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "b895234956af38e2",
       "title": "Kanadský globální hráč dokončil akvizici českého startupu Aisle, Praha má ve firmě hrát důležitou roli",
       "url": "https://www.lupa.cz/aktuality/kanadsky-globalni-hrac-dokoncil-akvizici-ceskeho-startupu-aisle-praha-ma-ve-firme-hrat-dulezitou-roli/",
@@ -1297,6 +1369,18 @@
       "published_at": "2026-11-10T09:00:00+00:00",
       "author": "",
       "summary_raw": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "71317f68c754df52",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "published_at": "2026-11-10T08:00:00+00:00",
+      "author": "",
+      "summary_raw": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
@@ -1447,6 +1531,18 @@
       "category": "news"
     },
     {
+      "id": "dfaafa7f19b06e3a",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
       "id": "ff4ef7e0861f067d",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
@@ -1513,18 +1609,6 @@
       "published_at": "2026-11-09T23:28:37+00:00",
       "author": "Marina Temkin",
       "summary_raw": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "a19df7b39db1e4c3",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "published_at": "2026-11-09T22:46:09+00:00",
-      "author": "Sarah Perez",
-      "summary_raw": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
@@ -1711,42 +1795,6 @@
       "category": "labs"
     },
     {
-      "id": "09ff4480f8560157",
-      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
-      "published_at": "2026-11-09T11:00:00+00:00",
-      "author": "Miles Klee",
-      "summary_raw": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-      "hero_image": "https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "c24c985918fd1aec",
-      "title": "The climate case for AI has not been made",
-      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-      "published_at": "2026-11-09T10:00:00+00:00",
-      "author": "Mary Nichols, Jeremy Tamanini",
-      "summary_raw": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "7586215f7bda9be9",
-      "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
-      "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
-      "published_at": "2026-11-09T08:00:00+00:00",
-      "author": "Joel Khalili",
-      "summary_raw": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
-      "hero_image": "https://media.wired.com/photos/6aecab4af3a6c68d60864f57/master/pass/Bugs%20and%20bikes%20revise.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "cb8b1b2c2ecd41a9",
       "title": "CodeRabbit scales agentic software development and ships 20x more",
       "url": "https://openai.com/index/coderabbit-codex-daybreak",
@@ -1769,18 +1817,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "07bf7ea9bc19f3bb",
-      "title": "Váš firemní chatbot může pracovat pro hackery. Světový specialista v Praze ukázal slabiny AI asistentů",
-      "url": "https://www.lupa.cz/clanky/vas-firemni-chatbot-muze-pracovat-pro-hackery-svetovy-specialista-v-praze-ukazal-slabiny-ai-asistentu/",
-      "published_at": "2026-11-09T05:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Jednoduché chatboty, které mají sloužit zákazníkům na internetu, se dají zneužít jako placené AI služby. Pokud mají navíc přístup k interním systémům, mohou se stát i cestou k citlivým firemním datům.",
-      "hero_image": "https://i.iinfo.cz/images/140/hacker.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "5d696d80459c3dd0",
@@ -2077,30 +2113,6 @@
       "published_at": "2026-11-04T14:30:00+00:00",
       "author": "",
       "summary_raw": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "1fd77ad63c4bf627",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "published_at": "2026-11-04T08:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "8c17d3367da14a6a",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "published_at": "2026-11-04T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
