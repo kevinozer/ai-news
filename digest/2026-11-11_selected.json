@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-11",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Google oficiálně vydává Gemini 4 Carbon s podpora agentních rojů",
+      "title_orig": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "category": "labs",
+      "summary_cs": [
+        "Google po dvoutýdenním omezeném testování zpřístupňuje svůj nejvýkonnější model Gemini 4 Carbon široké veřejnosti.",
+        "Model přináší pokročilou funkci agentních rojů, která umožňuje koordinovat více specializovaných AI agentů pro řešení složitých úkolů.",
+        "Výkonnostně i cenově cílí jako přímý konkurent na nejvýkonnější modely od Anthropicu a OpenAI."
+      ],
+      "why_matters": "Google nasazuje svůj nejrozvinutější model s agentními schopnostmi přímo do souboje o tržní dominanci.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic zahajuje roadshow k IPO s cílovou validací až 1,4 bilionu dolarů",
+      "title_orig": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Anthropic oficiálně stanovila cenové rozpětí pro vstup na burzu na 70 až 78 dolarů za akcii.",
+        "Při horní hranici rozpětí by celková hodnota firmy dosáhla astronomických 1,4 bilionu dolarů.",
+        "Jde o jeden z největších očekávaných vstupů technologické firmy na burzu v historii."
+      ],
+      "why_matters": "První obří veřejný úpis akcií ryzího AI labu prověří reálnou důvěru investorů v celou AI ekonomiku.",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic představuje Claude Meetings a rozšiřuje své kancelářské nástroje",
+      "title_orig": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "category": "tools",
+      "summary_cs": [
+        "Anthropic uvádí službu Claude Meetings, která dokáže v reálném čase přepisovat i přetvářet pracovní diskuse v konkrétní plány a úkoly.",
+        "Nástroj umí během schůzky kreslit časové osy na virtuální tabuli, odpovídat na dotazy v chatu a čerpat data z připojených aplikací.",
+        "Anthropic tím přímějším způsobem vstupuje do segmentu běžného firemního softwaru a konkuruje tradičním kancelářským balíkům."
+      ],
+      "why_matters": "Anthropic posouvá Claude z pozice pouhého chatbota do role aktivního účastníka a organizátora firemních porad.",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Google DeepMind ověřil bezpečnost klíčového šifrování Signal pomocí AlphaProof Code",
+      "title_orig": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "category": "labs",
+      "summary_cs": [
+        "Systém AlphaProof Code generoval přes tři miliony řádků matematických důkazů v jazyce Lean pro formální prověření Signal protokolu.",
+        "Jedná se o zásadní průlom v autonomním testování a matematické verifikaci komplexního softwaru bez nutnosti ruční práce.",
+        "DeepMind si za dlouhodobý cíl klade schopnost formálně ověřit bezpečnost a správnost veškerého světového softwaru."
+      ],
+      "why_matters": "Autonomní verifikace kódu pomocí AI zásadně zvyšuje bezpečnost klíčové digitální infrastruktury.",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Český startup E2B vyrostl za rok z 170 milionů na 2,6 miliardy korun",
+      "title_orig": "I Češi mají svoji AI raketu. Za rok vyrostli ze 170 milionů na 2,6 miliardy, a to bez obchodního týmu",
+      "category": "business",
+      "summary_cs": [
+        "Tým českých zakladatelů stojí za startupem E2B, který vyvíjí infrastrukturu a bezpečné sandboxové prostředí pro spouštění AI agentů.",
+        "Firma zaznamenala patnáctinásobný růst hodnoty během jednoho roku, aniž by budovala klasický obchodní tým.",
+        "Zákazníci z celého světa využívají platformu k bezpečnému spouštění kódu generovaného autogenními asistenty."
+      ],
+      "why_matters": "Důkaz, že české technologické projekty dokážou stavět klíčovou globální infrastrukturu pro éru AI agentů.",
+      "url": "https://cc.cz/i-cesi-maji-svoji-ai-raketu-za-rok-vyrostli-ze-170-milionu-na-26-miliardy-a-to-bez-obchodniho-tymu/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenAI představuje firemní profily a verifikované agenty přímo v rozhraní ChatGPT",
+      "title_orig": "ChatGPT is getting verified AI ‘Business Agents’",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI přichází s možností vytvářet ověřené firemní profily a spouštět zástupné Business Agenty v prostředí ChatGPT.",
+        "Uživatelé tak mohou s agenty značek přímo porovnávat produkty, vyřizovat nákupy nebo řešit zákaznické dotazy.",
+        "ChatGPT tím začíná přímo konkurovat klasickému vyhledávání Google a změnám v e-commerce."
+      ],
+      "why_matters": "Zásadní posun ChatGPT od konverzačního asistenta k nákupnímu vyhledávači a komerční platformě.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Adobe uvádí rozsáhlou integraci AI agentů do služeb Photoshop, Premiere i Firefly",
+      "title_orig": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "category": "tools",
+      "summary_cs": [
+        "Na konferenci Adobe Max představila společnost novou vizi plné automatizace kreativních postupů pomocí agenty řízené AI.",
+        "Nástroje umožňují autonomní odstraňování nežádoucích objektů či ruchů z videa a vytváření prototypů aplikací přes Firefly.",
+        "Adobe otevírá rozhraní i pro agentní systémy třetích stran, které mohou pracovat přímo v editoru."
+      ],
+      "why_matters": "Profesionální kreativní nástroje přecházejí na automatizovaný agentní model, což mění práci grafiků a editorů.",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Šéf Nvidie Jensen Huang čelí vyšetřování kvůli údajné aféře s čínskou špionkou",
+      "title_orig": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "category": "news",
+      "summary_cs": [
+        "Správní rada Nvidie prověřuje informace ohledně nemanželského vztahu Jensena Huanga s osobou podezřelou ze špionáže pro Čínu.",
+        "Investorům dělá starosti absence jasně určeného nástupce v čele nejhodnotnějšího dodavatele AI hardware na světě.",
+        "Aféra přichází v době vyostřeného technologického soupeření a přísných exportních omezení mezi USA a Čínou."
+      ],
+      "why_matters": "Riziko destabilizace vedení klíčového dodavatele AI čipů může ovlivnit celý technologický sektor.",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Uniklé aplikace odhalily bezpečnostní trhlinu v agentu Grok Build od xAI",
+      "title_orig": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní výzkumník objevil více než 35 tisíc aplikací vytvořených nástrojem Grok Build, které byly volně přístupné veřejnosti.",
+        "Mezi uniklými daty se nacházely citlivé přístupové údaje i interní dokumenty propojené se spřízněnými projekty.",
+        "Případ podtrhuje narůstající bezpečnostní rizika spojená s překotným nasazováním autogenních kódovacích agentů."
+      ],
+      "why_matters": "Varovný příklad toho, jak neopatrné používání generativních AI kódovacích nástrojů vede k únikům dat.",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Společnost Cohere dokončila akvizici pražského kyberbezpečnostního startupu Aisle",
+      "title_orig": "Kanadský globální hráč dokončil akvizici českého startupu Aisle, Praha má ve firmě hrát důležitou roli",
+      "category": "business",
+      "summary_cs": [
+        "Kanadský vývojář pokročilých jazykových modelů Cohere úspěšně uzavřel nákup pražského startupu Aisle.",
+        "Na základě akvizice vzniká nová bezpečnostní divize Cohere Cyber, kterou z Prahy povede zkušený manažer Ondřej Vlček.",
+        "Pražská pobočka se díky tomu stane jedním z klíčových vývojových center pro zabezpečení enterprise AI systémů."
+      ],
+      "why_matters": "Potvrzení rostoucího významu České republiky jako centra pro výzkum bezpečnosti AI.",
+      "url": "https://www.lupa.cz/aktuality/kanadsky-globalni-hrac-dokoncil-akvizici-ceskeho-startupu-aisle-praha-ma-ve-firme-hrat-dulezitou-roli/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Meta uvádí Muse Ember: Extrémně úsporný model zaměřený na agentní rutinu",
+      "title_orig": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "category": "labs",
+      "summary_cs": [
+        "Meta představila Muse Ember, svůj nejmenší a nejefektivnější model určený pro neustále se opakující agentní úlohy.",
+        "Model je navržený tak, aby s minimálními náklady spravoval volání nástrojů, psaní jednoduchého kódu a směrování dotazů.",
+        "Společnost tím reaguje na potřebu snížit výpočetní nároky při celodenním běhu autonomních agentů."
+      ],
+      "why_matters": "Malé a rychlé modely jsou nezbytným předpokladem pro cenově dostupné masové nasazení AI agentů.",
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Amazon uvádí AI drony a autonomní roboty Ring pro ostrahu domácností a firem",
+      "title_orig": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "category": "news",
+      "summary_cs": [
+        "Značka Ring patřící Amazonu představila létající vnitřní kameru a pozemního patrolujícího robota s AI navigací.",
+        "Zařízení autonomně monitorují prostory, reagují na neobvyklé podněty a přenášejí obraz v reálném čase do mobilní aplikace.",
+        "Produkty propojují pokročilé fyzické roboty s cloudovou inteligencí pro účely komerční i soukromé bezpečnosti."
+      ],
+      "why_matters": "Nasazení autonomních AI dronů v domácnostech posouvá hranice fyzické bezpečnosti i ochrany soukromí.",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nový operační systém Kora na bázi Linuxu cílí na lokální AI a agentní workflows",
+      "title_orig": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "category": "tools",
+      "summary_cs": [
+        "Spoluzakladatel projektu Cyanogen představil nový bezplatný operační systém Kora postavený na Linuxu.",
+        "Systém je od základu navržený pro uživatele, kteří intenzivně využívají lokální AI modely a spouštějí autonomní agenty.",
+        "Kora si klade za cíl nabídnout lehkou alternativu k Windows a macOS s přímou integrací AI výpočetních vrstev."
+      ],
+      "why_matters": "První vlaštovka operačních systémů navržených primárně pro potřeby lokálního běhu AI modelů.",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "eBay zamezuje přístupu externím AI agentům k vyhledávání na své platformě",
+      "title_orig": "eBay appears to have shut the door on third-party AI agents",
+      "category": "news",
+      "summary_cs": [
+        "Internetové tržiště eBay začalo blokovat autonomní AI agenty, včetně modelu Muse od Mety, před procházením nabídek.",
+        "Provozovatelé platformy chtějí zabránit nekontrolovanému sběru dat a vytěžování infrastruktury bez komerční dohody.",
+        "Krok ukazuje narůstající konflikt mezi vývojáři nákupních agentů a vlastníky webového obsahu."
+      ],
+      "why_matters": "Začátek války mezi internetovými obchody a autonomními nákupními agenty třetích stran.",
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "BotPsy přináší osobního AI asistenta spouštěného přímo na zařízení",
+      "title_orig": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "category": "open-source",
+      "summary_cs": [
+        "Výzkumníci představili model BotPsy s méně než miliardou parametrů, schopný pracovat jako agent přímo na mobilních zařízeních.",
+        "Projekt dokazuje, že autonomní rozhodování a plnění úkolů lze provádět bez odesílání citlivých dat na vzdálené servery.",
+        "Architektura klade důraz na soukromí uživatele a bleskovou odezvu bez nutnosti internetového připojení."
+      ],
+      "why_matters": "Ukázka, že agentní schopnosti lze efektivně stlačit i do velmi malých lokalizovaných modelů.",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face Blog"
+    }
+  ]
+}
