@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T05:02:27.993025+00:00",
+  "generated_at": "2026-11-12T12:43:07.302275+00:00",
   "date": "2026-11-12",
   "article_count_unique": 145,
   "article_count_raw": 145,
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "venturebeat_ai",
@@ -103,14 +103,14 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 12,
-      "raw_count": 12
+      "count": 13,
+      "raw_count": 13
     },
     {
       "source_id": "marcus_on_ai",
@@ -163,17 +163,161 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "3b982560a4478028",
+      "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
+      "url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
+      "published_at": "2026-11-12T12:00:37+00:00",
+      "author": "Andrew Cunningham",
+      "summary_raw": "Apple's M6 keeps the iMac current without shaking things up much.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "90b96ec3c8450f18",
+      "title": "Rekordně zainvestovaná česká ValkaAI získala další peníze a představila AI komentátora",
+      "url": "https://www.lupa.cz/aktuality/rekordne-zainvestovana-ceska-valkaai-ziskala-dalsi-penize-a-predstavila-ai-komentatora/",
+      "published_at": "2026-11-12T11:08:08+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Český deep-tech startup ValkaAI, který už dříve v českém světě startupů zaujal zřejmě nejvy&#353;&#353;í investicí do počátku startupu v regionu, ohlásil novou finanční injekci. Do firmy fondy vstupují americký ff Venture Capital a český Look AI Ventures, celková vý&#353;e investice stoupá na 13 milionů eur (kolem 317 milionů Kč).",
+      "hero_image": "https://i.iinfo.cz/images/629/tym-startupu-valkaai.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "ef737c9207e811a8",
+      "title": "Zuckerberg chce zdarma vysávat česká média, i pro trénování AI. Vydavatelé se obrátili na antimonopolní úřad",
+      "url": "https://www.lupa.cz/aktuality/zuckerberg-chce-zdarma-vysavat-ceska-media-i-pro-trenovani-ai-vydavatele-se-obratili-na-antimonopolni-urad/",
+      "published_at": "2026-11-12T11:06:47+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Správce licenčních práv vydavatelů (SLPV), který zastupuje velkou část českých vydavatelů ti&#353;těných publikací, podal k antimonopolnímu úřadu podnět na americkou společnost Meta provozující služby Facebook, Instagram nebo WhatsApp. SLPV chce po Úřadu pro ochranu hospodářské soutěže (ÚOHS) přezkoumat připravované obchodní podmínky Mety.",
+      "hero_image": "https://i.iinfo.cz/images/542/mark-zuckerberg.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "20a217ad417ed9eb",
+      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+      "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+      "published_at": "2026-11-12T10:30:00+00:00",
+      "author": "Caroline Haskins",
+      "summary_raw": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
+      "hero_image": "https://media.wired.com/photos/6af4c862c4fc953ed4f6f19b/master/pass/Palantir-Progressive-Company-Business-2297745126.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "20f486319cd24828",
+      "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+      "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+      "published_at": "2026-11-12T10:15:00+00:00",
+      "author": "Aarian Marshall",
+      "summary_raw": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
+      "hero_image": "https://media.wired.com/photos/6af4b673c0570edc6c14ee5b/master/pass/GettyImages-1392875153.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "91db2e2b3bc15423",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "published_at": "2026-11-12T09:30:00+00:00",
+      "author": "",
+      "summary_raw": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "5f0944a85894f977",
+      "title": "Čech z Beskyd prodal v Americe svůj AI startup. Teď mám finanční svobodu, říká a plánuje další nákupy",
+      "url": "https://cc.cz/cech-z-beskyd-prodal-v-americe-svuj-ai-startup-ted-mam-financni-svobodu-rika-a-planuje-dalsi-nakupy/",
+      "published_at": "2026-11-12T08:00:26+00:00",
+      "author": "Filip Magalhães",
+      "summary_raw": "René Bystroň získal investici 1,2 milionu dolarů, vybudoval tým v Praze a plánoval další růst. Pak se ale ozval nečekaný zájemce. Článek Čech z Beskyd prodal v Americe svůj AI startup. Teď mám finanční svobodu, říká a plánuje další nákupy se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2025/02/rene-1-815x458.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "50e07ded72e7d644",
+      "title": "Český startup kupuje americká firma. Stojí za ní podnikatel, který svůj vlastní projekt prodal za 110 miliard",
+      "url": "https://www.lupa.cz/aktuality/cesky-startup-kupuje-americka-firma-stoji-za-ni-podnikatel-ktery-svuj-vlastni-projekt-prodal-za-110-miliard/",
+      "published_at": "2026-11-12T08:00:02+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Americká společnost Worker.ai kupuje český startup DeltaGen &#8211; ten vyvíjel hlasovou technologii, která během rozhovorů téměř okamžitě zachycuje důležité informace, rozhodnutí a domluvené úkoly. Nyní se stane součástí nového produktu Workeru.",
+      "hero_image": "https://i.iinfo.cz/images/337/worker-ai-a-deltagen.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "69c5189212ea7dd1",
+      "title": "OpenAI se topí ve ztrátách, Anthropic mu byznysově utíká. A oba tlačí Nvidia, kterou asi opustí její šéf",
+      "url": "https://cc.cz/openai-se-topi-ve-ztratach-anthropic-mu-byznysove-utika-a-oba-tlaci-nvidia-kterou-asi-opusti-jeji-sef/",
+      "published_at": "2026-11-12T06:58:52+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "OpenAI za čtvrtletí utržilo deset miliard dolarů, ztráta byla ještě vyšší. Anthropic při skoro dvojnásobných tržbách prodělal zlomek. Článek OpenAI se topí ve ztrátách, Anthropic mu byznysově utíká. A oba tlačí Nvidia, kterou asi opustí její šéf se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/09/altman-amodei-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "d3b2178f832c5e71",
+      "title": "[AINews] D-Day (Decision Models Day)",
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+      "published_at": "2026-11-12T05:26:54+00:00",
+      "author": "swyx .ai",
+      "summary_raw": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/b8ccf47f-9414-4c90-bbb5-0fcb2b0ac850/image.png?t=1794461003",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "9b3fb7f2b553356c",
+      "title": "Řídil Home Credit, po letech v PPF zamířil do Revolutu. AI agenti mohou ohrozit životaschopnost bank, říká",
+      "url": "https://cc.cz/ridil-home-credit-po-letech-v-ppf-zamiril-do-revolutu-ai-agenti-mohou-ohrozit-zivotaschopnost-bank-rika/",
+      "published_at": "2026-11-12T05:22:27+00:00",
+      "author": "Peter Brejčák",
+      "summary_raw": "Po odchodu z PPF si dopřál roční sabatikl, od září Radek Pluhař zasedl do dozorčí rady Revolutu. „Připomíná mi to začátky Home Creditu,“ říká. Článek Řídil Home Credit, po letech v PPF zamířil do Revolutu. AI agenti mohou ohrozit životaschopnost bank, říká se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/pluhar-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "ba56f0a94e48a42f",
+      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "url": "https://latent.space/p/jev-revolution/",
+      "published_at": "2026-11-12T05:08:20+00:00",
+      "author": "Richard MacManus",
+      "summary_raw": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+      "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b4181d5a-0460-4828-b350-07feca728023/jevalution-feature.jpg?t=1794458692",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
     {
       "id": "4b3ca1c6ea32aae0",
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
@@ -185,6 +329,18 @@
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
       "category": "news"
+    },
+    {
+      "id": "fe7cdf92e2f2f20a",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
     },
     {
       "id": "ccc428db7572d1ac",
@@ -252,7 +408,7 @@
       "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "published_at": "2026-11-11T22:44:36+00:00",
       "author": "Lauren Feiner",
-      "summary_raw": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+      "summary_raw": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
       "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source_id": "verge_ai",
       "source_name": "The Verge AI",
@@ -559,6 +715,18 @@
       "category": "news"
     },
     {
+      "id": "0750433baee7b488",
+      "title": "Trh s AI má další oběť. Významná softwarová firma v Praze ruší vývoj a vyhodila desítky lidí",
+      "url": "https://www.lupa.cz/aktuality/trh-s-ai-ma-dalsi-obet-vyznamna-softwarova-firma-v-praze-rusi-vyvoj-a-vyhodila-desitky-lidi/",
+      "published_at": "2026-11-11T16:11:45+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Aktuální překotné dění kolem umělé inteligence a softwarového byznysu a služeb má dopad na dal&#353;í zaběhnutou společnost. Australský podnik Canva, který vytváří software pro grafiky nebo designéry, spou&#353;tí velkou restrukturalizaci. Ta se dotkne i vývojového centra v Česku, které podle informací Lupy v podstatě končí.",
+      "hero_image": "https://i.iinfo.cz/images/664/ondrej-nekvinda-lukas-zajic-smartmockups-1.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
       "id": "a4d466c5b96e40d1",
       "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
       "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
@@ -655,18 +823,6 @@
       "category": "newsletter"
     },
     {
-      "id": "0750433baee7b488",
-      "title": "Trh s AI má další oběť. Významná softwarová firma v Praze ruší vývoj a vyhodila desítky lidí",
-      "url": "https://www.lupa.cz/aktuality/trh-s-ai-ma-dalsi-obet-vyznamna-softwarova-firma-v-praze-rusi-vyvoj-a-vyhodila-desitky-lidi/",
-      "published_at": "2026-11-11T14:11:45+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Aktuální překotné dění kolem umělé inteligence a softwarového byznysu a služeb má dopad na dal&#353;í zaběhnutou společnost. Australský podnik Canva, který vytváří software pro grafiky nebo designéry, spou&#353;tí velkou restrukturalizaci. Ta se dotkne i vývojového centra v Česku, které podle informací Lupy v podstatě končí.",
-      "hero_image": "https://i.iinfo.cz/images/664/ondrej-nekvinda-lukas-zajic-smartmockups-1.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "f4ed38362bb0421e",
       "title": "Google DeepMind just mathematically verified key parts of Signal",
       "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
@@ -739,18 +895,6 @@
       "category": "news"
     },
     {
-      "id": "685f485537c221b6",
-      "title": "Z Olomouce do Asie. Startup, který pomocí AI odhaluje arytmie, teď získal 130 milionů",
-      "url": "https://cc.cz/z-olomouce-do-asie-startup-ktery-pomoci-ai-odhaluje-arytmie-ted-ziskal-130-milionu/",
-      "published_at": "2026-11-11T10:13:56+00:00",
-      "author": "Filip Magalhães",
-      "summary_raw": "Stačí pás na hrudi a aplikace v mobilu. Kardi Ai tak dokáže zachytit i srdeční potíže, které při běžném vyšetření mohou lékařům uniknout. Článek Z Olomouce do Asie. Startup, který pomocí AI odhaluje arytmie, teď získal 130 milionů se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/kardi-ai-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "fab18ec502a8939b",
       "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
       "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
@@ -761,18 +905,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "3416551d293c3447",
-      "title": "Nechcete kvůli AI hloupnout? Zaveďte si dva dny v týdnu bez ní, radí šéf inženýringu České spořitelny",
-      "url": "https://cc.cz/nechcete-kvuli-ai-hloupnout-zavedte-si-dva-dny-v-tydnu-bez-ni-radi-sef-inzenyringu-ceske-sporitelny/",
-      "published_at": "2026-11-11T09:02:30+00:00",
-      "author": "Markéta Veselá",
-      "summary_raw": "„Banka nemůže naskočit na každou novinku AI, ale agentům ve vývoji důvěřujeme,“ říká Jaroslav Rychna. Mluví o změnách v práci vývojáře i o regulacích. Článek Nechcete kvůli AI hloupnout? Zaveďte si dva dny v týdnu bez ní, radí šéf inženýringu České spořitelny se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/sporitelna_fintech_7-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "aead7b5b2e11eeb2",
@@ -1063,18 +1195,6 @@
       "category": "commentary"
     },
     {
-      "id": "5077accc4c9cdb6c",
-      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
-      "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
-      "published_at": "2026-11-10T18:39:16+00:00",
-      "author": "Scharon Harding",
-      "summary_raw": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-1152x648.png",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
       "id": "970e45754ee0b9b4",
       "title": "ChatGPT is getting verified AI ‘Business Agents’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
@@ -1207,42 +1327,6 @@
       "category": "labs"
     },
     {
-      "id": "cd3fce19804affd6",
-      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-      "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
-      "published_at": "2026-11-10T11:00:00+00:00",
-      "author": "Will Knight",
-      "summary_raw": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
-      "hero_image": "https://media.wired.com/photos/6aea5020a9094bad7a4244a9/master/pass/ai_security_abliterators.gif",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "e4fb2cec5dc0cf83",
-      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-      "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
-      "published_at": "2026-11-10T11:00:00+00:00",
-      "author": "Lauren Goode",
-      "summary_raw": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
-      "hero_image": "https://media.wired.com/photos/6aea57e57882d392b9ef6dd3/master/pass/Ai-threat-level-main.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "b895234956af38e2",
-      "title": "Kanadský globální hráč dokončil akvizici českého startupu Aisle, Praha má ve firmě hrát důležitou roli",
-      "url": "https://www.lupa.cz/aktuality/kanadsky-globalni-hrac-dokoncil-akvizici-ceskeho-startupu-aisle-praha-ma-ve-firme-hrat-dulezitou-roli/",
-      "published_at": "2026-11-10T10:24:08+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Kanadská AI společnost Cohere dokončila akvizici pražského kyberbezpečnostního startupu Aisle, za nímž stojí Ondřej Vlček, Stanislav Fort a Jaya Baloo. Vlček to oznámil na LinkedInu. Firmy dříve uzavřenou dohodu o koupi představily v polovině října. Vzniká nová divize Cohere Cyber, kterou povede právě Vlček jako senior viceprezident. &#8222;Uzavíráme jednu kapitolu a otevíráme dal&#353;í, s je&#353;tě vět&#353;ími ambicemi a mnohem &#353;ir&#353;ími možnostmi,&#8220; věří Vlček.",
-      "hero_image": "https://i.iinfo.cz/images/121/aisle.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
       "id": "cf8ee21c96f7b896",
       "title": "Introducing Businesses in ChatGPT",
       "url": "https://openai.com/index/introducing-businesses-chatgpt",
@@ -1279,30 +1363,6 @@
       "category": "labs"
     },
     {
-      "id": "a8f73985773046fd",
-      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-      "published_at": "2026-11-10T07:28:21+00:00",
-      "author": "",
-      "summary_raw": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million output. Today's other big model release, Claude Fable 5.2, is 80x that price at $8/$40. The pricing is a little less straightforward as prompts get longer, though. Luna, Ember, and Haiku all support up to a million input tokens, but they also all have a threshold after which the price goes up. Taking that threshold into account Ember is priced between the two others: Model Prompt size Input ($/M) Cached input Output GPT-6 Luna ≤272k $0.10 $0.01 $0.50 &gt;272k $0.20 $0.02 $0.75 Muse Ember 1.0 ≤200k $0.10 $0.004 $0.50 &gt;200k $0.30 $0.012 $1.50 Claude Haiku 5.5 ≤100k $0.10 $0.01 $0.50 &gt;100k $0.50 $0.05 $2.50 But comparing price-per-token doesn't really make sense these days, when reasoning tokens mean that different models might use dramatically different numbers of tokens to solve the same problem. For that, one measure that's useful is the Artificial Analysis. And even more useful than that is their Intelligence Index vs. Cost per Task chart, which shows the following for those three models: The Muse Ember models sit right on that Pareto line - the line at which you can only improve one dimension by giving up another. Meta call this out in their announcement: It also sits on the efficiency frontier of the full Artificial Analysis leaderboard: no model scores higher for less per task. (That grey dot on the Pareto line in the middle of the green area is GPT-6.1 Terra (low) - clearly I should be paying more attention to the Terra family!) Muse Ember has six reasoning levels - …",
-      "hero_image": "https://static.simonwillison.net/static/2026/artificial-analysis-haiku-class.webp",
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "c6e2be2d2917da82",
-      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
-      "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
-      "published_at": "2026-11-10T07:00:00+00:00",
-      "author": "Isabella Ward",
-      "summary_raw": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
-      "hero_image": "https://media.wired.com/photos/6af269df2008482926d88a86/master/pass/Security_Security%20Flaws%20Across%20UK%20Government%20Sites%20Exposed%20%E2%80%98God-Tier%E2%80%99%20Information_v1.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "02b15f54f0724058",
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
@@ -1325,30 +1385,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "e9588ca89428dc87",
-      "title": "Quoting Prompting Claude Fable 5.2",
-      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-      "published_at": "2026-11-10T05:34:14+00:00",
-      "author": "",
-      "summary_raw": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s, even when that duplicated existing code. When the prompt said the code base was the model’s own, it often consolidated duplicated code and sometimes made related fixes without being asked. If you want the model to improve the structure as it works, say that the code is its own: You are the owner and long-term maintainer of this codebase, and its design is up to you. The ownership sentence makes the model much more likely to consolidate duplicated code into one shared function. In Anthropic’s testing on small coding tasks, the model consolidated duplicated code in under 10 percent of runs without the sentence and in about 75 percent of runs with it. &mdash; Prompting Claude Fable 5.2 , Anthropic documentation Tags: prompt-engineering , anthropic , generative-ai , ai , llms , claude-mythos-fable",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "fbd7ba71c7766385",
-      "title": "Tohle v Česku zatím nemáme. Podívejte se do datacentra pro AI, které zvládne vytápět město",
-      "url": "https://www.lupa.cz/clanky/tohle-v-cesku-zatim-nemame-podivejte-se-do-datacentra-pro-ai-ktere-zvladne-vytapet-mesto/",
-      "published_at": "2026-11-10T05:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Lotyšsko zprovoznilo své první datové centrum pro AI. Jde o strategický projekt, který má pomoci zmodernizovat ekonomiku země.",
-      "hero_image": "https://i.iinfo.cz/images/84/ai-datacentrum-delska.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "dfaafa7f19b06e3a",
@@ -1661,42 +1697,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "791ab46ab1fd058e",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "published_at": "2026-11-05T09:00:00+00:00",
-      "author": "",
-      "summary_raw": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "b8b6b93ca1eae39f",
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "published_at": "2026-11-05T08:00:00+00:00",
-      "author": "",
-      "summary_raw": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "62db4653dfb278bb",
-      "title": "[AINews] It's Swapping Season",
-      "url": "https://latent.space/p/ainews-it-s-swapping-season/",
-      "published_at": "2026-11-05T06:24:09+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "November 4, 2026 — OpenAI’s Linux kernel security work, Kimi K3.1 Pro’s open weights, and Ricursive’s Ripple-65B.",
-      "hero_image": null,
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "816446490bf062e1",
