@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-13",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Jensen Huang po skandálu s nemanželskými vztahy odstoupil z čela Nvidie",
+      "title_orig": "Jensen Huang Resigns as Nvidia CEO",
+      "category": "business",
+      "summary_cs": [
+        "Spoluzakladatel a dlouholetý šéf společnosti Nvidia Jensen Huang s okamžitou platností rezignoval na svou funkci.",
+        "Kroku předcházelo interní vyšetřování jeho nemanželských vztahů s podřízenou a údajnou čínskou špionkou.",
+        "Vedením firmy byla dočasně pověřena dosavadní finanční ředitelka Colette Kressová."
+      ],
+      "why_matters": "Rezignace klíčové osobnosti AI průmyslu může zásadně ovlivnit celý technologický trh i dodavatelské řetězce.",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Google představil úsporný model Gemini 4 Hydrogen pro složité dotazy",
+      "title_orig": "Introducing Gemini 4 Hydrogen",
+      "category": "labs",
+      "summary_cs": [
+        "Google uvádí na trh nový model Gemini 4 Hydrogen, který je nejlevnějším zástupcem generace Gemini 4.",
+        "Model je navržen tak, aby lépe rozkládal a chápal komplexní dotazy složené z více částí.",
+        "Novinka přichází okamžitě do vyhledávání i vývojářského rozhraní API a nahrazuje starší verzi Flash."
+      ],
+      "why_matters": "Nový model přináší výrazně levnější a přesnější zpracování složitých AI dotazů pro vývojáře i uživatele.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Spojené státy rozšiřují využití AI pro řízení letového provozu",
+      "title_orig": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "category": "tools",
+      "summary_cs": [
+        "Federální letecký úřad rozšiřuje nasazení AI nástroje pro předcházení zpožděním na celý vzdušný prostor USA.",
+        "Systém pomáhá dispečerům lépe plánovat trasy a optimalizovat vytížení letových koridorů.",
+        "Ačkoli aerolinky novinku vítají, odbory letových dispečerů vyjadřují obavy z chybějící konzultace."
+      ],
+      "why_matters": "Jde o jedno z nejrozsáhlejších nasazení AI v kritické dopravní infrastruktuře s přímým dopadem na cestující.",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Výzkumníci Hugging Face představují LLMON pro efektivní strukturování dat",
+      "title_orig": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "category": "open-source",
+      "summary_cs": [
+        "Byl vytvořen nový značkovací jazyk LLMON určený pro přirozenou komunikaci s velkými jazykovými modely.",
+        "Jazyk je integrován v otevřených modelech Granite 4.1 ve velikostech 3B a 8B parametrů.",
+        "Tento přístup zrychluje generování strukturovaných dat a snižuje spotřebu tokenů při agentních úlohách."
+      ],
+      "why_matters": "Otevřený standard LLMON usnadní vývojářům vytváření spolehlivějších a levnějších AI agentů.",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Hackerům se podařilo získat přístup k chatům v aplikaci Notion přes Fireworks AI",
+      "title_orig": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Fireworks AI čelila kybernetickému útoku, který umožnil únik citlivých dat zákazníků.",
+        "Útočníci získali přístup k transkriptům konverzací uživatelů oblíbené produktivní aplikace Notion.",
+        "Jedná se již o druhý bezpečnostní incident této AI infrastruktury během posledních dvou měsíců."
+      ],
+      "why_matters": "Událost podtrhuje rizika spojená s využíváním externích AI poskytovatelů pro zpracování firemních dat.",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Kongres USA zahajuje vyšetřování obchodů Nvidie v Číně",
+      "title_orig": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "category": "business",
+      "summary_cs": [
+        "Američtí zákonodárci zahájili vyšetřování prodejů čipů Nvidia do Číny v souvislosti s bezpečnostními riziky.",
+        "Vyšetřování se zaměřuje také na vazby bývalého vedení firmy na politické špičky a obcházení sankcí.",
+        "Jde o další výrazný tlak na polovodičový gigant po náhlém odchodu jeho generálního ředitele."
+      ],
+      "why_matters": "Geopolitické kontroly prodeje AI čipů mohou zkomplikovat globální dostupnost výpočetního výkonu.",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Startup Nebius plánuje investovat 40 miliard dolarů do AI infrastruktury",
+      "title_orig": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "category": "business",
+      "summary_cs": [
+        "Technologická společnost Nebius oznámila masivní plán expanze svých AI datových center.",
+        "Investice ve výši 40 miliard dolarů má být financována z zálohových plateb zákazníků a úvěrů.",
+        "Projekt se snaží potvrdit životaschopnost nového modelu specializovaných cloudových poskytovatelů."
+      ],
+      "why_matters": "Rozsáhlá investice ukazuje na trvající obrovskou poptávku po specializované výpočetní kapacitě pro AI.",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Google představil chytré brýle s integrací Gemini od 395 dolarů",
+      "title_orig": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "category": "tools",
+      "summary_cs": [
+        "Google ve spolupráci s partnerem Samsung a brýlovými značkami uvádí první brýle s modelem Gemini.",
+        "Zařízení sází na pokročilé funkce vizuální AI asistence v reálném čase a zvýšenou ochranu soukromí.",
+        "Cena nového nositelného zařízení začíná na příznivé hranici 395 amerických dolarů."
+      ],
+      "why_matters": "Dostupný hardwarový produkt přináší multimodální AI asistenci přímo do každodenního života uživatelů.",
+      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Hugging Face potvrzuje závazek k rozvoji otevřené AI i po změnách v Nvidii",
+      "title_orig": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "category": "open-source",
+      "summary_cs": [
+        "Šéf komunitní platformy Hugging Face ujistil vývojáře, že podpora open-source AI modelů pokračuje.",
+        "Reagoval tak na obavy spojené se změnou vedení v Nvidii, která je klíčovým investorem trhu.",
+        "Cílem zůstává zachování volně dostupných modelů pro výzkumníky a nezávislé vývojáře."
+      ],
+      "why_matters": "Udržení silné open-source komunity je zásadní pro nezávislost vývojářů na velkých korporacích.",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "AI agent Muse dokáže samostatně telefonovat do firem",
+      "title_orig": "Muse can now place calls to US businesses - if you pay",
+      "category": "tools",
+      "summary_cs": [
+        "Platforma Muse spouští novou funkci, která umožňuje AI agentům provádět odchozí hovory.",
+        "Agenti dokáží samostatně vyřizovat rezervace nebo zjišťovat informace u amerických podniků.",
+        "Služba je zpřístupněna jako placená funkce pro zefektivnění osobních i firemních úkolů."
+      ],
+      "why_matters": "Autonomní hlasoví agenti zefektivňují rutinní komunikaci a šetří čas při vyřizování služeb.",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Český zakladatel prodal v USA svůj AI startup a plánuje další investice",
+      "title_orig": "Čech z Beskyd prodal v Americe svůj AI startup. Teď mám finanční svobodu, říká a plánuje další nákupy",
+      "category": "wildcard",
+      "summary_cs": [
+        "Tým pod vedením Reného Bystroně vybudoval v Praze úspěšný AI projekt s americkou investicí.",
+        "Po nečekané nabídce došlo k prodeji firmy zahraničnímu zájemci a úspěšnému exitu.",
+        "Zakladatel nyní plánuje využití získaného kapitálu k novým akvizicím na technologickém trhu."
+      ],
+      "why_matters": "Příklad úspěšné realizace českého AI nápadu na globálním trhu potvrzuje kvalitu domácích vývojářů.",
+      "url": "https://cc.cz/cech-z-beskyd-prodal-v-americe-svuj-ai-startup-ted-mam-financni-svobodu-rika-a-planuje-dalsi-nakupy/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Amplitude zrychluje vývoj produktů díky nasazení agentů od OpenAI",
+      "title_orig": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "category": "labs",
+      "summary_cs": [
+        "Analytická společnost Amplitude nasadila agentní systém Wave postavený na modelech OpenAI.",
+        "Systém pomáhá vývojovým týmům navrhovat úpravy kódu a zkracuje vývojový cyklus na 1 až 2 dny.",
+        "AI agenti navíc automaticky vyhodnocují dopad nasazených změn na chování uživatelů."
+      ],
+      "why_matters": "Praktická ukázka výrazného zrychlení softwarového vývoje pomocí autonomních kódovacích agentů.",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Studie odhalila, že AI chatboti doporučují podvodné e-shopy",
+      "title_orig": "AI chatbots are recommending fake retail websites, study finds",
+      "category": "news",
+      "summary_cs": [
+        "Výzkum odhalil, že přední AI chatboti mohou uživatele odkazovat na rizikové a falešné obchody.",
+        "Testování modelů ChatGPT, Gemini a Perplexity ukázalo mezery v ověřování doporučovaných odkazů.",
+        "Odborníci varují před nesprávným spoléháním se na AI při nákupních doporučeních."
+      ],
+      "why_matters": "Rostoucí využívání AI pro nákupy přináší nová kybernetická rizika pro běžné spotřebitele.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Stále více herních vývojářů zapojuje generativní AI do práce",
+      "title_orig": "More game developers are starting to use generative AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Průzkum mezi vývojáři her ukázal, že 40 procent z nich již běžně využívá AI nástroje.",
+        "Míra zapojení generativní AI meziročně vzrostla, zejména v oblasti tvorby grafik a skriptování.",
+        "Technologie pomáhá menším nezávislým studiím zrychlit tvorbu herního obsahu."
+      ],
+      "why_matters": "Generativní AI se stává standardním nástrojem v kreativním průmyslu a mění styl vývoje her.",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Soud zamezil agentům Google využít citlivá data zaměstnanců aerolinek",
+      "title_orig": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+      "category": "news",
+      "summary_cs": [
+        "Odborový svaz palubního personálu dosáhl dohody o vyjmutí zaměstnaneckých záznamů z prodeje dat.",
+        "Google měl v plánu využít data zkrachovalé společnosti k trénování svých AI modelů.",
+        "Rozhodnutí představuje důležitý precedent v oblasti ochrany osobních údajů pracovníků."
+      ],
+      "why_matters": "Případ ukazuje důležitost ochrany osobních dat zaměstnanců před masivním trénováním AI modelů.",
+      "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+      "source": "Wired AI"
+    }
+  ]
+}
