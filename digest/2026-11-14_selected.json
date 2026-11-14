@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-14",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI spouští ChatGPT Wallet pro automatické nákupy AI agentů",
+      "title_orig": "Introducing ChatGPT Wallet",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI představila peněženku ChatGPT Wallet, která umožňuje AI agentům provádět nákupy přímo v rozhraní.",
+        "Systém s podporou platebních karet jako Visa či Mastercard vyžaduje ke každé transakci výslovné schválení uživatelem.",
+        "Funkce je zpočátku dostupná pro předplatitele ChatGPT Pro v USA a otevírá cestu k plně autonomní e-commerce."
+      ],
+      "why_matters": "Posouvá AI od pouhého generování textu k přímé autonomní ekonomické aktivitě.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Odstoupení Jensena Huanga ohrožuje financování AI startupů",
+      "title_orig": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "category": "business",
+      "summary_cs": [
+        "Rezignace Jensena Huanga z čela Nvidie vyvolala podle investorů paniku v oblasti financování AI projektů.",
+        "Nvidia pod Huangovým vedením investovala desítky miliard dolarů do nadějných AI startupů po celém světě.",
+        "Zakladatelé i venture kapitálové fondy se nyní připravují na menší investice a výrazný pokles valuací firem."
+      ],
+      "why_matters": "Náhlý odchod klíčového lídra Nvidie může zpomalit přísun kapitálu v celém AI sektoru.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "LangChain získal valuaci 3 miliardy dolarů díky úspěchu platformy pro agenty",
+      "title_orig": "AI agent startup LangChain hits $3B valuation",
+      "category": "business",
+      "summary_cs": [
+        "Startup LangChain dosáhl hodnoty 3 miliard dolarů v novém investičním kole zaměřeném na agentní systémy.",
+        "Platforma LangSmith pro správy a monitorování AI agentů nevisící na konkrétním modelu již hlásí přes 7 000 firemních zákazníků.",
+        "Investice potvrzuje masivní komerční přechod vývojářské komunity od jednoduchých LLM k autonomním agentům."
+      ],
+      "why_matters": "Ukazuje obrovský tržní růst nástrojů navržených pro vývoj a správu AI agentů.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Populární nástroj llama.cpp vychází ve stabilní verzi 1.0.0",
+      "title_orig": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "category": "open-source",
+      "summary_cs": [
+        "Projekt llama.cpp pro lokální spouštění jazykových modelů dosáhl milníku a vydává verzi 1.0.0.",
+        "Aktualizace přináší stabilnější architekturu, vyšší efektivitu využití paměti a rozšířenou podporu nového hardwaru.",
+        "Tento krok upevňuje pozici otevřeného softwaru jako nezávislé alternativy k uzavřeným cloudovým rozhraním."
+      ],
+      "why_matters": "Zásadní milník pro vývojáře i firmy spoléhající na bezpečné a soukromé spouštění AI lokalně.",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Anthropic představuje spotřebitelského AI agenta Claude Duet",
+      "title_orig": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "category": "tools",
+      "summary_cs": [
+        "Anthropic začal testovat nového agenta Claude Duet, který je zaměřen na běžné uživatele a řešení každodenních úkolů.",
+        "Nástroj dokáže proaktivně pomáhat s organizací práce, psaním a plánováním bez nutnosti programování.",
+        "Firma se tak snaží dokázat, že autonoomní agenti mají využití i mimo úzce specializovanou vývojářskou komunitu."
+      ],
+      "why_matters": "Přibližuje pokročilé autonomní AI agenty širší veřejnosti a běžným kancelářským potřebám.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Nejvýkonnější čínské AI modely byly trénovány na zakázaných čipech Nvidia",
+      "title_orig": "Export-banned Nvidia chips are behind China’s most powerful AI models - uh-oh, Jensen!",
+      "category": "news",
+      "summary_cs": [
+        "Nová analýza odhalila, že nejvyspělejší čínské AI modely vznikly tréninkem na procesorech Nvidia podléhajících vývozním restrikcím.",
+        "Zjištění stupňuje tlak na americké úřady i samotnou společnost ohledně kontroly dodavatelských řetězců.",
+        "Kauza ukazuje na přetrvávající mezeru v uplatňování technologických sankcí proti čínskému výzkumu."
+      ],
+      "why_matters": "Potvrzuje technologické pozadí geopolitického soupeření v oblasti AI infrastruktury.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Česká tradingová skupina FTMO nabere 300 lidí i přes nástup AI",
+      "title_orig": "České FTMO nabere 300 lidí. AI nenese odpovědnost, na to potřebujeme lidi, říká spoluzakladatel",
+      "category": "business",
+      "summary_cs": [
+        "Zatímco mnohé technologické firmy kvůli AI propouštějí, český gigant FTMO chystá masivní nábory.",
+        "Společnost plánuje v příštích 14 měsících vytvořit 300 nových pozic, z toho 200 v technických oborech.",
+        "Vedení firmy zdůrazňuje, že za kritická rozhodnutí a odpovědnost stále musí ručit lidští pracovníci."
+      ],
+      "why_matters": "Příklad úspěšné české firmy, která dokazuje, že AI neruší potřebu kvalitních lidských IT talentů.",
+      "url": "https://cc.cz/ceske-ftmo-nabere-300-lidi-ai-nenese-odpovednost-na-to-potrebujeme-lidi-rika-spoluzakladatel/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Člen představenstva OpenAI varuje před možným převzetím kontroly AI",
+      "title_orig": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "category": "news",
+      "summary_cs": [
+        "Člen správní rady OpenAI veřejně upozornil na rizika spojená s fenoménem tzv. reward hackingu u AI systémů.",
+        "Podle jeho varování by nekontrolovaný rozvoj autonoomních modelů mohl vést k odmítnutí lidského dohledu.",
+        "Debata opět otevírá otázku bezpečnosti přední generace modelů a potřeby přísnějších garancí."
+      ],
+      "why_matters": "Signalizuje přetrvávající interní obavy o bezpečnost přímo v vedení předních AI laboratoří.",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 9,
+      "title_cs": "United Airlines zakazuje AI agentům autonomní rezervace letenek",
+      "title_orig": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "category": "news",
+      "summary_cs": [
+        "Letecká společnost United Airlines zablokovala přístup externím AI agentům k rezervaci a správě letenek.",
+        "Aerolinky krok odůvodňují bezpečnostními riziky a ochranou zákaznických dat před neautorizovanými bota.",
+        "Jde o další příklad rostoucího odporu velkých korporací vůči neprověřeným automatizovaným agentům."
+      ],
+      "why_matters": "Ukazuje praktické bariéry a konflikty mezi rozvojem AI agentů a bezpečnostní politikou firem.",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "ElevenLabs vydává firemní aplikaci ElevenAI pro zápis a diktování schůzek",
+      "title_orig": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost ElevenLabs předvedla novou aplikaci ElevenAI zaměřenou na přepisy a zápisy z firemních porad.",
+        "Nástroj kombinuje pokročilé hlasové modely s automatickou analýzou úkolů pro celý tým.",
+        "Firma tak rozšiřuje své portfolia z pouhé generace hlasu směrem k uceleným produktivitním nástrojům."
+      ],
+      "why_matters": "Přináší novou úroveň přesnosti hlasové AI přímo do každodenní týmové komunikace.",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Amazon plánuje vytvořit kompletní databázi internetového zboží",
+      "title_orig": "Amazon has a plan to index the world’s online shopping data",
+      "category": "business",
+      "summary_cs": [
+        "Amazon pracuje na projektu World Product Graph s cílem katalogizovat veškeré produkty prodávané na internetu.",
+        "Systém využitelný pro pokročilé AI asistenty má zabránit odchodu zákazníků na jiné nákupní platformy.",
+        "Projekt posílí dominanci firmy v oblasti vyhledávání produktů a nákupních doporučení."
+      ],
+      "why_matters": "Snaha o vytvoření absolutního datového zdroje pro nákupní AI nákupní asistenty.",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Soutěžní žebříčky AI modelů čelí hrozbě manipulace hodnocení",
+      "title_orig": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci poukázali na zranitelnost populárních srovnávacích žebříčků (arena-style evaluation) AI modelů.",
+        "Studie ukazuje, že anonymní porovnávání výstupů lze systematicky ovlivňovat v neprospěch konkurence.",
+        "Práce volá po nových standardech pro objektivní měření reálné výkonnosti jazykových modelů."
+      ],
+      "why_matters": "Zpochybňuje spolehlivost žebříčků, podle kterých firmy i vývojáři vybírají AI modely.",
+      "url": "https://arxiv.org/abs/2611.14769",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nový přístup SynthCorp umožňuje vytvářet lepší benchmarky pro datové agenty",
+      "title_orig": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili platformu SynthCorp pro simulaci firemních datových prostředí a generování testů.",
+        "Dosavadní benchmarky pro AI agenty rychle zastarávají a nedokážou přesně změřit specifické dovednosti.",
+        "Nástroj pomůže vývojářům lépe testovat schopnosti agentů při práci s komplexními databázemi."
+      ],
+      "why_matters": "Umožňuje přesnější testování AI agentů před jejich nasazením do reálného firemního prostředí.",
+      "url": "https://arxiv.org/abs/2611.14765",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Česká výprava na Money Makeru řešila investice mimo AI horečku",
+      "title_orig": "Akcie, reality i bitcoin. Money Maker ukázal, kde investoři hledají příležitosti a jak vnímat riziko",
+      "category": "wildcard",
+      "summary_cs": [
+        "Investiční konference Money Maker nabídla pohled na diverzifikaci portfolia mimo mainstreamový AI sektor.",
+        "Debaty se věnovaly nemovitostním trhům, dluhopisům i příležitostem v tradičních odvětvích.",
+        "Expert upozornili na rizika spojená s přehřátím technologických akcií spojených s umělou inteligencí."
+      ],
+      "why_matters": "Nabízí střízlivý investiční pohled na rizika spojená s aktuální AI mánií na trzích.",
+      "url": "https://cc.cz/akcie-reality-i-bitcoin-money-maker-ukazal-kde-investori-hledaji-prilezitosti-a-jak-vnimat-riziko/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Mobilní aplikace Phota Labs využívá AI k profesionální úpravě fotek",
+      "title_orig": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "category": "wildcard",
+      "summary_cs": [
+        "Startup Phota Labs představil automatizovaný editor fotek vyvíjený s využitím generativní AI.",
+        "Namísto složitých ručních úprav aplikace sama vyhodnotí kompozici a provede korekce snímku.",
+        "Cílem je zpřístupnit kvalitní úpravu běžným uživatelům bez znalostí grafického softwaru."
+      ],
+      "why_matters": "Ukázka přímočaré AI aplikace zjednodušující každodenní tvůrčí činnost běžným uživatelům.",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
