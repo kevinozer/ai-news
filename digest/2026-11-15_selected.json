@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-15",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Elon Musk a další lídři výzvali k návratu Jensena Huanga do čela Nvidie",
+      "title_orig": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "category": "business",
+      "summary_cs": [
+        "Víc než 115 tisíc lidí včetně Elona Muska a předních lídrů technologického sektoru podepsalo petici za návrat Jensena Huanga.",
+        "Odstoupení šéfa Nvidie vyvolalo masivní vlnu nejistoty na trhu s AI čipy a v celém průmyslu.",
+        "Petice požaduje přehodnocení reakce představenstva na Huangovy osobní aféry s ohledem na jeho klíčovou roli pro technologický sektor."
+      ],
+      "why_matters": "Případný návrat nebo trvalý odchod šéfa Nvidie zásadně ovlivní dostupnost a ceny AI hardwaru pro všechny.",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Bývalá členka představenstva OpenAI varuje před přílišnou důvěrou v šéfy AI firem",
+      "title_orig": "The OpenAI board member who fired Sam Altman says we still can't trust AI CEOs",
+      "category": "news",
+      "summary_cs": [
+        "Helen Toner v rozhovoru upozorňuje na rizika spojená s neomezenou mocí zakladatelů a ředitelů velkých AI laboratoří.",
+        "Upozorňuje na to, že bezpečnostní záruky a etické sliby firem často ustupují komerčnímu tlaku a osobním zájmům vedení.",
+        "Debata o regulaci a governance AI se po nedávných skandálech v odvětví stává hlavním tématem pro zákonodárce."
+      ],
+      "why_matters": "Upozorňuje na nutnost systémové kontroly AI gigantů místo spoléhání se na dobrovolné sliby jejich šéfů.",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Asijské vlády reagují na odchod šéfa Nvidie a prověřují dodávky čipů",
+      "title_orig": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "category": "business",
+      "summary_cs": [
+        "Vlády v Asii začaly urychleně ověřovat závazky Nvidie týkající se dodávek klíčových AI akcelerátorů pro místní projekty.",
+        "Reagují tak na geopolitické a bezpečnostní otázky spojené s odchodem Jensena Huanga a možným únikem technologií.",
+        "Situace může vést k rychlejšímu přechodu asijských trhů na alternativní dodavatele hardwaru."
+      ],
+      "why_matters": "Globální přerozdělení dodavatelských řetězců AI čipů může ovlivnit dostupnost cloudových služeb v Evropě.",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Datasette-LLM získává podporu pro OpenAI kompatibilní rozhraní",
+      "title_orig": "datasette-llm 0.1a11",
+      "category": "open-source",
+      "summary_cs": [
+        "Populární open-source nástroj pro práci s daty Datasette přidal ve svém AI pluginu podporu pro standardní OpenAI rozhraní.",
+        "Uživatelé tak mohou snáze připojit jakékoliv lokální nebo cloudové LLM modely podporující tento protokolem.",
+        "Zjednodušuje se tím integrace AI přímo nad databázovými dotazy bez nutnosti složité konfigurace."
+      ],
+      "why_matters": "Usnadňuje vývojářům a datovým analytikům nasazení vlastních lokálních AI modelů nad firemními databázemi.",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Nová vlna vyděračského softwaru využívá AI k automatizaci útoků",
+      "title_orig": "Beware the New AI-Fueled Ransomware Boom",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní experti varují před nárůstem kybernetických útoků, kde útočníci využívají AI k zefektivnění ransomwaru.",
+        "I méně zkušení hackerské skupiny dokáží díky AI generovat sofistikované phishingové kampaně a hledat zranitelnosti v kódu.",
+        "Plně autonomní ransomware sice ještě nedorazil, ale míra automatizace napadení firemních sítí prudce roste."
+      ],
+      "why_matters": "České firmy čelí vyššímu riziku kybernetických útoků, které jsou díky AI levnější a lépe cílené.",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Nvidia čelí otázkám ohledně selhání interního bezpečnostního týmu",
+      "title_orig": "Where was Nvidia’s security team?",
+      "category": "news",
+      "summary_cs": [
+        "Po odchodu bezpečnostního ředitele Nvidie a vyšetřování vztahů vedení vyplouvají na povrch systémová selhání.",
+        "Analytici poukazují na riziko neoprávněného předávání informací o pokročilých čipech do zahraničí.",
+        "Případ ukazuje na nutnost zpřísnění prověrek a kontroly toku informací u klíčových AI výrobců."
+      ],
+      "why_matters": "Osvětluje bezpečnostní rizika v dodavatelském řetězci AI, na kterém závisí celá moderní infrastruktura.",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Rostoucí využívání AI v řízení letového provozu naráží na odpor odborů",
+      "title_orig": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "category": "news",
+      "summary_cs": [
+        "Rychlé nasazování AI systémů pro optimalizaci letecké dopravy vyvolává obavy o bezpečnost a spolehlivost.",
+        "Zatímco úřady chválí zrychlení provozu, řídící letového provozu si stěžují na nedostatek konzultací a testování.",
+        "Incidenty vyvolávají debatu o tom, kde přesně má ležet hranice mezi autonomním rozhodováním a lidským dohledem."
+      ],
+      "why_matters": "Ukazuje rizika překotného nasazování AI v kritické infrastruktuře bez dostatečného zapojení lidských expertů.",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Komunita se vymezuje proti generování neužitečného AI obsahu",
+      "title_orig": "[AINews] The No AI Slop Manifesto",
+      "category": "wildcard",
+      "summary_cs": [
+        "Komunita vývojářů a tvorců obsahu zformulovala manifest zaměřený na boj proti nekvalitnímu AI balastu.",
+        "Iniciativa požaduje vyšší standardy pro generované texty a kód a zdůrazňuje hodnotu lidského hodnocení.",
+        "Reaguje tak na zahlcení internetu i vývojářských repozitářů automaticky vygenerovaným zbytečným obsahem."
+      ],
+      "why_matters": "Důležitý posun k preferenci kvality před kvantitou při využívání generativní AI v praxi.",
+      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Hugging Face uvádí návod pro jemné dolaďování 3D generativních modelů",
+      "title_orig": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "category": "labs",
+      "summary_cs": [
+        "Hugging Face zveřejnil komplexní příručku pro customizaci a fine-tuning modelů zaměřených na 3D objekty.",
+        "Návod pokrývá přípravu dat, nastavení trénovacích parametrů i optimalizaci pro reálné využití ve vývoji her a AR.",
+        "Postupy umožňují snížit výpočetní nároky při přizpůsobení modelů pro specifické domény."
+      ],
+      "why_matters": "Užitečný zdroj pro česká vývojářská a herní studia plánující integraci 3D AI generátorů.",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Shield využívá OpenAI agenty k automatizaci práce se staršími systémy",
+      "title_orig": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost Shield nasadila AI agenty k obsluze zastaralých firemních portálů a administrativních rozhraní.",
+        "Agenti dokáží samostatně navigovat v komplikovaných systémech a přebírat rutinní úkony IT techniků.",
+        "Lidé se díky tomu mohou soustředit na komplexnější úkoly vyžadující odborný úsudek a řešení výjimek."
+      ],
+      "why_matters": "Ukazuje praktické využití AI agentů pro modernizaci a propojení starších firemních IT systémů.",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "XYBench přináší nový způsob hodnocení schopností AI agentů",
+      "title_orig": "XYBench: Helping with the problem behind the question",
+      "category": "labs",
+      "summary_cs": [
+        "Výzkumníci představili benchmark XYBench zaměřený na schopnost modelů pochopit reálný kontext dotazů.",
+        "Místo doslovného plnění instrukcí testuje, zda AI dokáže odhalit skutečný záměr a širší problém uživatele.",
+        "Tento přístup pomáhá vývojářům stavět spolehlivější AI asistenty pro komplexní řešení úkolů."
+      ],
+      "why_matters": "Pomáhá lépe měřit, jak dobře AI rozumí nejednoznačným zadáním v reálném pracovním prostředí.",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Předpověď AI superschopností do roku 2030 získává na popularitě",
+      "title_orig": "The avalanche that hit math is coming for AI development",
+      "category": "wildcard",
+      "summary_cs": [
+        "Komentář rozebírá zrychlující se tempo výzkumu a vývoje AI díky automatizaci samotného kódování a matematiky.",
+        "Autor argumentuje, že pokroky v autonomním výzkumu mohou vést k dosažení superinteligence do konce desetiletí.",
+        "Paralely s vývojem v jiných vědních oborech ukazují na možný exponenciální skok v schopnostech modelů."
+      ],
+      "why_matters": "Nabízí analytický pohled na rychlost vývoje AI a jeho dopad na budoucnost technologického sektoru.",
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "source": "Dwarkesh Patel"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Katalog selhání a zrušených AI projektů ukazuje odvrácenou stranu trhu",
+      "title_orig": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "category": "business",
+      "summary_cs": [
+        "Přehled zachycuje AI startupy a firemní projekty, které nedokázaly naplnit očekávání nebo musely ukončit provoz.",
+        "Seznam poukazuje na vysokou míru neúspěchu u projektů spoléhajících jen na přeprodávání základních LLM modelů.",
+        "Analýza odhaluje typické chyby v produktové strategii a neschopnost najít udržitelný obchodní model."
+      ],
+      "why_matters": "Cenný přehled pro investory a zakladatele ukazující, kterým AI konceptům se raději vyhnout.",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "ArtCraft vytvořil AI klon Photoshopu a plánuje předělat další nástroje",
+      "title_orig": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+      "category": "tools",
+      "summary_cs": [
+        "Projekt ArtCraft využil generativní AI k kompletnímu přepsání grafikého editoru Photoshop do open-source podoby.",
+        "Tvůrci deklarují cíl postupně pomocí AI zrekonstruovat klíčový vlastnický software do otevřených alternativ.",
+        "Ukazuje to nový trend, kdy AI agenti dokáží zrychlit vývoj složitých uživatelských aplikací z měsíců na dny."
+      ],
+      "why_matters": "Demonstruje sílu AI při rychlém vývoji komplexního softwaru a tvorbě open-source alternativ.",
+      "url": "https://latent.space/p/artcraft/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Simulace robotického uchopování objektů pomocí SimReady dat",
+      "title_orig": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "category": "labs",
+      "summary_cs": [
+        "Nové výukové materiály ukazují stavbu fyzikálních simulací pro trénink robotických paží za použití standardu SimReady.",
+        "Tento přístup umožňuje trénovat AI modely pro manipulaci s předměty ve virtuálním prostředí před nasazením do praxe.",
+        "Zjednodušuje se tím vývoj pokročilé robotiky pro logistiku a průmyslovou výrobu."
+      ],
+      "why_matters": "Praktické pro české průmyslové a logistické firmy plánující nasazení AI v robotice.",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face Blog"
+    }
+  ]
+}
