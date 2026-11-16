@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-16",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "OpenAI představila vědecký blog a využití GPT-6 Astra v teoretické fyzice",
+      "title_orig": "A step toward defining the Standard Model on a lattice",
+      "category": "labs",
+      "summary_cs": [
+        "Společnost OpenAI spustila nový specializovaný blog zaměřený na využití umělé inteligence ve vědeckém výzkumu a vývoji.",
+        "Jako první ukázku publikovala studii využívající model GPT-6 Astra k formulaci nestandardního mřížkového modelu ve fyzice částic.",
+        "Ukazuje to posun AI od psaní kódu a textů k pokročilému teoretickému výzkumu v přírodních vědách."
+      ],
+      "why_matters": "Ukazuje přímé využití nejnovějších generací AI modelů při řešení složitých vědeckých a teoretických problémů.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Apple spouští rozsáhlou studii o využití konverzační AI v péči o zdraví",
+      "title_orig": "Apple launches new app to study how people use AI for health",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Apple představila novou aplikaci určenou k výzkumu toho, jak lidé používají konverzační AI pro zdravotní dotazy.",
+        "Studie probíhá ve spolupráci s klinickou platformou OpenEvidence, kterou využívají zdravotničtí profesionálové.",
+        "Cílem je vyhodnotit přesnost a užitečnost odpovědí AI před jejím hlubším začleněním do spotřebitelských zařízení."
+      ],
+      "why_matters": "Zásadní krok k bezpečnému nasazení AI asistenta pro osobní diagnostiku a zdravotní poradenství v mobilních zařízeních.",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Kongres USA zpřísňuje exportní pravidla pro AI čipy kvůli bezpečnostnímu skandálu",
+      "title_orig": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "category": "business",
+      "summary_cs": [
+        "Američtí zákonodárci navrhují další omezení vývozu pokročilých AI čipů do zahraničí v reakci na nedávný skandál vedení Nvidie.",
+        "Demokraté i Republikáni žádají vyšetření úniků technologií a prověření obchodních vazeb na čínské subjekty.",
+        "Nová legislativa může výrazně ovlivnit globální dodavatelský řetězec a dostupnost výpočetního výkonu."
+      ],
+      "why_matters": "Regulace dodávek hardwaru může zvýšit ceny cloudového AI výkonu i pro evropské a české firmy.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Google DeepMind zpřístupnil klíčová data pro trénování AI modelů počasí",
+      "title_orig": "Opening the datasets behind our AI weather models",
+      "category": "labs",
+      "summary_cs": [
+        "Google DeepMind otevřel veřejnosti své rozsáhlé datové sady srážek a satelitních snímků z geostacionárních družic.",
+        "Tato data tvoří základ pro pokročilé meteorologické AI modely předpovídající extrémní výkyvy počasí.",
+        "Krok má pomoci nezávislým výzkumníkům a vývojářům ve stavbě přesnějších lokálních předpovědních systémů."
+      ],
+      "why_matters": "Otevřená data umožní vývoj přesnějších předpovědí počasí a klimatických modelů s přímým využitím v zemědělství.",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Příběhy týdne: Český vývojář ovládl sociální sítě s generováním rodokmenů pomocí AI",
+      "title_orig": "Příběhy týdne: Vývojář dobyl sítě AI rodokmeny, Jančura chce deset dětí a nejdražší seriál je zpět",
+      "category": "wildcard",
+      "summary_cs": [
+        "Týdenní přehled českého technologického světa upozorňuje na úspěch domácího vývojáře s vizualizací rodinných historií.",
+        "Projekt dokázal pomocí generativních nástrojů přeměnit archivní data v atraktivní interaktivní vizuály.",
+        "Ukazuje se vysoký potenciál uživatelsky přívětivých mikroaplikací stavěných na AI rozhraních."
+      ],
+      "why_matters": "Inspirativní ukázka toho, jak český vývojář dokázal vytvořit globálně virální produkt s využitím AI.",
+      "url": "https://cc.cz/pribehy-tydne-vyvojar-dobyl-site-ai-rodokmeny-jancura-chce-deset-deti-a-nejdrazsi-serial-je-zpet/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Indický startup Bharat Semi získal 24 milionů dolarů na vývoj AI senzorů",
+      "title_orig": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "category": "business",
+      "summary_cs": [
+        "Semikonduktorový startup Bharat Semi dokončil první investiční kolo na podporu výroby specializovaných čipů.",
+        "Firma již získala zakázky u významných průmyslových zákazníků včetně společnosti General Atomics.",
+        "Investice potvrzuje trend decentralizace výroby čipů pro AI přímo na hraně sítě a v senzorech."
+      ],
+      "why_matters": "Rostoucí trh s AI čipy mimo USA a Čínu rozšiřuje možnosti nákupu hardwaru pro IoT zařízení.",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Google představil AlphaGenome 2 pro čtení struktury DNA a výzkum nemocí",
+      "title_orig": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "category": "labs",
+      "summary_cs": [
+        "Laboratoř Google DeepMind uvedla druhou generaci modelu AlphaGenome určeného pro genomiku.",
+        "Model dokáže přesně předpovídat, jak změny v sekvencích DNA ovlivňují fungování konkrétních lidských buněk.",
+        "Technologie urychlí identifikaci genetických prsou a vývoj personalizovaných léků."
+      ],
+      "why_matters": "Přelomový pokrok v biomedicíně, který zásadně zrychlí výzkum vzácných onemocnění a personalizovanou léčbu.",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Benchmark Unfinished-Bench měří dodržování pravidel u dlouhodobých AI agentů",
+      "title_orig": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+      "category": "research",
+      "summary_cs": [
+        "Nová studie představuje metodiku pro hodnocení chování AI agentů běžících autonomně po dlouhé časové úseky.",
+        "Testy zkoumají, zda mají agenti v reálném firemním prostředí tendenci obcházet interní předpisy pro splnění úkolu.",
+        "Výsledky ukazují na potřebu nových bezpečnostních mechanizmů při delegování pravomocí na AI."
+      ],
+      "why_matters": "Důležité varování pro firmy nasazující autonomní agenty do interních procesů a správy dat.",
+      "url": "https://arxiv.org/abs/2611.17460",
+      "source": "ArXiv cs.LG"
+    },
+    {
+      "rank": 9,
+      "title_cs": "LoRAWeaver přináší efektivní směrování adaptérů v reprezentačním prostoru",
+      "title_orig": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "category": "open-source",
+      "summary_cs": [
+        "Výzkumníci navrhli metodu LoRAWeaver, která řeší správy velkého množství specializovaných LoRA adaptérů.",
+        "Systém dynamicky vybírá a kombinuje správné adaptéry v průběhu inference bez nutnosti celkového přetrénování.",
+        "Tento přístup výrazně snižuje výpočetní nároky při provozu velkého množství zákaznických mikro-modelů."
+      ],
+      "why_matters": "Umožňuje levnější a přesnější provoz personalizovaných AI modelů pro specifické firemní úkoly.",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Datasette přidává podpora pro živé streamování datových exportů",
+      "title_orig": "datasette 1.0a43",
+      "category": "tools",
+      "summary_cs": [
+        "Populární open-source databázový nástroj Datasette vydal verzi 1.0a43 s vestavěným streamováním pro velké datové sady.",
+        "Vývoj byl z více než poloviny realizován s přímou pomocí AI modelu Claude Fable 5.2.",
+        "Exporty do formátů CSV a TSV jsou nyní podstatně rychlejší a méně náročné na operační paměť."
+      ],
+      "why_matters": "Praktické vylepšení populárního analytického nástroje zrychlí práci s rozsáhlými databázemi.",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Model Annealing zvyšuje datovou efektivitu učení přes konsolidaci znalostí",
+      "title_orig": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+      "category": "research",
+      "summary_cs": [
+        "Nová tréninková metoda zamezuje předčasnému zapamatování malých datových sad během učení neuronových sítí.",
+        "Zbývající výpočetní rozpočet využívá k opakovanému procházení a upevňování vlastních vnitřních znalostí modelu.",
+        "Dosahuje vyšší přesnosti na malých vzorcích dat bez rizika překmitnutí a ztráty generalizace."
+      ],
+      "why_matters": "Klíčová metoda pro trénování přesných firemních modelů v situacích, kdy chybí dostatek dat.",
+      "url": "https://arxiv.org/abs/2611.17524",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "AI-Voyager zapojuje veřejnost do tvorby a připomínkování pravidel pro AI",
+      "title_orig": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+      "category": "tools",
+      "summary_cs": [
+        "Výzkumníci představili platformu AI-Voyager určenou pro občanské posuzování vlivu AI regulací.",
+        "Systém pomáhá laické veřejnosti srozumitelně analyzovat navrhované zákony a identifikovat rizika.",
+        "Cílem je vyrovnat asymetrii mezi technologickými giganty a občanem při tvorbě pravomocí."
+      ],
+      "why_matters": "Nástroj dává veřejnosti i menším subjektům možnost efektivně připomínkovat vznikající AI legislativu.",
+      "url": "https://arxiv.org/abs/2611.17564",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Výzkum odhaluje rizika selektivního mazání paměti u autonomních AI agentů",
+      "title_orig": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "category": "research",
+      "summary_cs": [
+        "Studie zkoumá chování paměťových modulů u LLM agentů při odstraňování zdánlivě zastaralých informací.",
+        "Ukázalo se, že striktní odstraňování dat často vede ke ztrátě klíčových kontextových faktů nutných pro správné rozhodování.",
+        "Autoři navrhují jemnější přístup k filtraci paměti pro zachování celkové přesnosti agenta."
+      ],
+      "why_matters": "Důležitý poznatek pro vývojáře stavějící AI agenty s dlouhodobou kontextovou pamětí.",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Audit odhalil limity detektorů halucinací u malých on-device LLM modelů",
+      "title_orig": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "category": "research",
+      "summary_cs": [
+        "Výzkum prověřil spolehlivost detektorů chyb na kvantovaných modelech jako Llama-3.2-3B spouštěných na telefonech.",
+        "Metody vyvinuté pro obří cloudové modely selhávají při aplikaci na úsporné lokální architektury.",
+        "Pro spolehlivý provoz AI přímo v zařízeních bez připojení k internetu je nutné vyvinout nové kontrolní algoritmy."
+      ],
+      "why_matters": "Upozorňuje na rizika neprověřeného nasazování malých AI modelů přímo do mobilních aplikací.",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Datasette Apps přináší izolované prostředí pro AI aplikace nad vlastními daty",
+      "title_orig": "datasette-apps 0.4a0",
+      "category": "tools",
+      "summary_cs": [
+        "Nová verze rozšíření Datasette Apps umožňuje spouštět bezpečné HTML a JavaScript aplikace přímo nad databází.",
+        "Funkcionalita připomíná Claude Artifacts, ale podporuje přímé dotaazování pomocí SQL dotazů.",
+        "Aktualizace 0.4a0 přidává podporu pro hluboké odkazování na konkrétní zobrazení a tabulky."
+      ],
+      "why_matters": "Umožňuje snadnou tvorbu interních datových dashboards a mikronástrojů bez nutnosti komplexního vývoje.",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+      "source": "Simon Willison's Weblog"
+    }
+  ]
+}
