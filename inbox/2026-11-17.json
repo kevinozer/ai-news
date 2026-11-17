@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T05:02:33.769966+00:00",
+  "generated_at": "2026-11-17T13:25:48.474357+00:00",
   "date": "2026-11-17",
-  "article_count_unique": 150,
-  "article_count_raw": 150,
+  "article_count_unique": 145,
+  "article_count_raw": 145,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 25,
-      "raw_count": 25
+      "count": 22,
+      "raw_count": 22
     },
     {
       "source_id": "anthropic_news",
@@ -55,8 +55,8 @@
     {
       "source_id": "deepmind_blog",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "microsoft_ai",
@@ -103,8 +103,8 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "latent_space",
@@ -127,8 +127,8 @@
     {
       "source_id": "zvi_vase",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "interconnects",
@@ -164,16 +164,124 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 4,
-      "raw_count": 9
+      "raw_count": 11
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "831355fb5940ed2f",
+      "title": "Artist brings old Space Shuttle tank back to life",
+      "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
+      "published_at": "2026-11-17T12:15:54+00:00",
+      "author": "Robert Pearlman",
+      "summary_raw": "\"It's definitely the largest art project I've ever worked on.\"",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111326aa-lg-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "ce2f07ebc70959e4",
+      "title": "Evropa má vlastní AI čip bez drahých pamětí a vodního chlazení. Chytře se má vyrovnat Nvidii",
+      "url": "https://www.lupa.cz/aktuality/evropa-ma-vlastni-ai-cip-bez-drahych-pameti-a-vodniho-chlazeni-chytre-se-ma-vyrovnat-nvidii/",
+      "published_at": "2026-11-17T11:45:10+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Také Evropa má slu&#353;ný čip pro umělou inteligenci. Nizozemská společnost Axelera AI představila třetí generaci své architektury. Čip dostal název Titania a určený je primárně pro inferenci, tedy chod samotné AI. Vyrábět se bude 4nm procesem u TSMC.",
+      "hero_image": "https://i.iinfo.cz/images/301/axelera-ai-titania.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "c817aaac6faaf305",
+      "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+      "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+      "published_at": "2026-11-17T11:00:00+00:00",
+      "author": "Julian Chokkattu",
+      "summary_raw": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+      "hero_image": "https://media.wired.com/photos/6af73f064e708cb7030f047d/master/pass/DSC_0242.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "bc8ab832d1c773dd",
+      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "published_at": "2026-11-17T11:00:00+00:00",
+      "author": "Will Knight",
+      "summary_raw": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+      "hero_image": "https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "10dc4de5ea0bf9e2",
+      "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+      "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+      "published_at": "2026-11-17T10:47:45+00:00",
+      "author": "Isabella Ward",
+      "summary_raw": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+      "hero_image": "https://media.wired.com/photos/6afb9fde88d847b7d226d42b/master/pass/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "efd81a58e7053940",
+      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+      "published_at": "2026-11-17T09:24:56+00:00",
+      "author": "swyx .ai",
+      "summary_raw": "November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches.",
+      "hero_image": null,
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "92073af68e089408",
+      "title": "Nejžádanější profese ve světě umělé inteligence? Experti na kontrašpionáž, kteří si vydělají miliony ročně",
+      "url": "https://cc.cz/nejzadanejsi-profese-ve-svete-umele-inteligence-experti-na-kontraspionaz-kteri-si-vydelaji-miliony-rocne/",
+      "published_at": "2026-11-17T06:47:11+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Anthropic letos najal na kontrašpionážní pozice 33 lidí, třikrát víc než před dvěma lety. Bývalé agenty shánějí také OpenAI, Nvidia či ASML. Článek Nejžádanější profese ve světě umělé inteligence? Experti na kontrašpionáž, kteří si vydělají miliony ročně se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/dario-sam-x-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "484ee07a56de3875",
+      "title": "Quoting Go Proverbs",
+      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "published_at": "2026-11-17T06:16:26+00:00",
+      "author": "",
+      "summary_raw": "A little copying is better than a little dependency. &mdash; Go Proverbs , via Tags: go , programming",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
+      "id": "13a973654488a5ee",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
     {
       "id": "e0cb1d777cff42bc",
       "title": "llm 0.37.3",
@@ -823,6 +931,18 @@
       "category": "news"
     },
     {
+      "id": "85ccdf939462cdad",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "published_at": "2026-11-16T09:30:00+00:00",
+      "author": "",
+      "summary_raw": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
       "id": "a51e75babb8e907a",
       "title": "Hon na čarodějnice v knižním světě. Stačí podezření z AI a autor přijde o smlouvu za miliony",
       "url": "https://cc.cz/hon-na-carodejnice-v-kniznim-svete-staci-podezreni-z-ai-a-autor-prijde-o-smlouvu-za-miliony/",
@@ -859,24 +979,24 @@
       "category": "labs"
     },
     {
-      "id": "021236736da4a7c6",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "published_at": "2026-11-16T06:00:00+00:00",
-      "author": "",
-      "summary_raw": "",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
       "id": "1a246795205b3b43",
       "title": "More ways to move care forward with ChatGPT for Healthcare",
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "published_at": "2026-11-16T06:00:00+00:00",
       "author": "",
       "summary_raw": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
+    },
+    {
+      "id": "021236736da4a7c6",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "published_at": "2026-11-16T06:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
       "hero_image": null,
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
@@ -892,30 +1012,6 @@
       "hero_image": "https://i.iinfo.cz/images/650/router-mikrotik.png",
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "62a7ab9ff8840e0c",
-      "title": "Jeho firma za 50 miliard zkrachovala, tak založil další. Teď ji kupuje OpenAI, aby změnila svět cestování",
-      "url": "https://cc.cz/jeho-firma-za-50-miliard-zkrachovala-tak-zalozil-dalsi-ted-ji-kupuje-openai-aby-zmenila-svet-cestovani/",
-      "published_at": "2026-11-16T05:27:20+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Začínal pronájmem studentského bytu, později vedl firmu za miliardy dolarů. Po jejím pádu vsadil na AI, která pomáhá lidem naplánovat dovolenou. Článek Jeho firma za 50 miliard zkrachovala, tak založil další. Teď ji kupuje OpenAI, aby změnila svět cestování se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/francis-davidson-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "3656e0684e852155",
-      "title": "Boty nemá rád nikdo, v call centru máme 200 lidí, říká šéf Notina. AI nemá nahrazovat lidi, ale dělat lepší věci",
-      "url": "https://cc.cz/boty-nema-rad-nikdo-v-call-centru-mame-200-lidi-rika-sef-notina-ai-nema-nahrazovat-lidi-ale-delat-lepsi-veci/",
-      "published_at": "2026-11-16T05:25:49+00:00",
-      "author": "Peter Brejčák",
-      "summary_raw": "Notino není na prodej, hledáme jen minoritního partnera, říká Lukáš Havlásek, jeden ze tří šéfů e-shopu. Mluví i o expanzi, prodejnách a AI. Článek Boty nemá rád nikdo, v call centru máme 200 lidí, říká šéf Notina. AI nemá nahrazovat lidi, ale dělat lepší věci se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/havlasek-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
       "category": "cz"
     },
     {
@@ -1094,54 +1190,6 @@
       "author": "redakce@lupa.cz (Lupa.cz: Michal Křelina)",
       "summary_raw": "Pravidelný přehled novinek z rozsáhlého a rozvíjejícího se oboru kvantových počítačů, který vydáváme ve spolupráci s blogem Qubits.cz.",
       "hero_image": "https://i.iinfo.cz/images/574/ibm-quantum.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "ffebe5db56f0bd34",
-      "title": "How the world’s fires changed while humanity hit pause",
-      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
-      "published_at": "2026-11-15T12:07:34+00:00",
-      "author": "Yook Ji Hun",
-      "summary_raw": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-1024x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "a5880068869f2e5d",
-      "title": "AI DJs Completely Kill My Groove",
-      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-      "published_at": "2026-11-15T12:00:00+00:00",
-      "author": "Reece Rogers",
-      "summary_raw": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
-      "hero_image": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/pass/Untitled-1.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "cf18efed12448daa",
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "published_at": "2026-11-15T11:00:00+00:00",
-      "author": "Julian Chokkattu",
-      "summary_raw": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "hero_image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/master/pass/Screenshot%202026-11-11%20at%2014.47.44.png",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "c3f66858730547d5",
-      "title": "Kdo je muž, kvůli kterému zdražuje elektronika? V češtině vychází zákulisní biografie Sama Altmana",
-      "url": "https://www.lupa.cz/aktuality/kdo-je-muz-kvuli-kteremu-zdrazuje-elektronika-v-cestine-vychazi-zakulisni-biografie-sama-altmana/",
-      "published_at": "2026-11-15T10:30:45+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Sam Altman se v posledních týdnech stal terčem mnoha memů a vtipů kvůli jeho názoru, že operační paměť RAM v osobních počítačích běžných lidí jen zahálí a že by bylo lep&#353;í tyto kapacity mít v datových centrech pro umělou inteligenci. Řekl to z pozice člověka, jehož firma OpenAI je jedním z hlavních důvodů, proč lidé dnes mají drahé paměti, počítače, elektroniku a dal&#353;í hardware. Co je ale vlastně Altman ve skutečnosti zač a kde se vzal?",
-      "hero_image": "https://i.iinfo.cz/images/123/kniha-sam-altman-optimista.png",
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
       "category": "cz"
@@ -1648,114 +1696,6 @@
       "hero_image": "https://substackcdn.com/image/fetch/$s_!vYnC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fnews_img%2F2120131203344826368%2FeI2agzh_%3Fformat%3Djpg%26name%3Dorig",
       "source_id": "marcus_on_ai",
       "source_name": "Marcus on AI",
-      "category": "commentary"
-    },
-    {
-      "id": "e3b764ce374c79b0",
-      "title": "Nvidia CEO Jensen Huang Had an Affair With a Chinese Spy",
-      "url": "https://thezvi.substack.com/p/nvidia-ceo-jensen-huang-had-an-affair",
-      "published_at": "2026-11-10T13:01:11+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "Well, sure, it sounds bad when you put it like that.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!s5X4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb544ad1b-f18c-4114-b5b5-10f0158d7c93_1200x800.jpeg",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
-      "category": "commentary"
-    },
-    {
-      "id": "a5ff95e4fa479f14",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "published_at": "2026-11-10T12:02:28+00:00",
-      "author": "",
-      "summary_raw": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "hero_image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
-      "source_id": "deepmind_blog",
-      "source_name": "Google DeepMind Blog",
-      "category": "labs"
-    },
-    {
-      "id": "e8888513f4c6a5e4",
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "published_at": "2026-11-10T12:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "313117f4b9a18d1a",
-      "title": "Opening the datasets behind our AI weather models",
-      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-      "published_at": "2026-11-10T11:13:04+00:00",
-      "author": "",
-      "summary_raw": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "hero_image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo",
-      "source_id": "deepmind_blog",
-      "source_name": "Google DeepMind Blog",
-      "category": "labs"
-    },
-    {
-      "id": "cf8ee21c96f7b896",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "published_at": "2026-11-10T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "f3e6b208db641e3e",
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "published_at": "2026-11-10T09:00:00+00:00",
-      "author": "",
-      "summary_raw": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "71317f68c754df52",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "published_at": "2026-11-10T08:00:00+00:00",
-      "author": "",
-      "summary_raw": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "02b15f54f0724058",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "published_at": "2026-11-10T07:00:00+00:00",
-      "author": "",
-      "summary_raw": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "8fca8ee5e142ea6e",
-      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
-      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
-      "published_at": "2026-11-10T06:34:44+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?",
-      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/1431029c-65fe-48ed-8eb2-798c3c5c22f4/image.png?t=1794292162",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
       "category": "commentary"
     },
     {
