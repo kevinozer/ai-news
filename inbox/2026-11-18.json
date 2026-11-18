@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:02:16.565914+00:00",
+  "generated_at": "2026-11-18T13:03:22.437095+00:00",
   "date": "2026-11-18",
   "article_count_unique": 172,
   "article_count_raw": 172,
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "venturebeat_ai",
@@ -163,7 +163,7 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "raw_count": 9
     },
     {
@@ -174,6 +174,162 @@
     }
   ],
   "articles": [
+    {
+      "id": "2ab226fe9f894367",
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "published_at": "2026-11-18T13:01:05+00:00",
+      "author": "Jess Weatherbed",
+      "summary_raw": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "c10546bcd8f9338c",
+      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "published_at": "2026-11-18T13:00:00+00:00",
+      "author": "Julie Bort",
+      "summary_raw": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "ce8bcb92961e38be",
+      "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+      "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
+      "published_at": "2026-11-18T12:15:44+00:00",
+      "author": "Robert Pearlman",
+      "summary_raw": "\"They are pretty confident that it's going to last a long, long, long time...\"",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111826a-lg-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "0e5b0a94dd36ede4",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "published_at": "2026-11-18T12:00:00+00:00",
+      "author": "Jagmeet Singh",
+      "summary_raw": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "c62372be3903aa99",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "published_at": "2026-11-18T11:30:00+00:00",
+      "author": "Jagmeet Singh",
+      "summary_raw": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "c88cefcd1ee0bceb",
+      "title": "Suno now lets you make AI videos for your AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "published_at": "2026-11-18T11:16:53+00:00",
+      "author": "Jess Weatherbed",
+      "summary_raw": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "4951df0a8652b8ca",
+      "title": "Grand Theft Auto VI: The Ars Technica review",
+      "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
+      "published_at": "2026-11-18T11:00:27+00:00",
+      "author": "Kyle Orland",
+      "summary_raw": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "a5da5d613666ca13",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "published_at": "2026-11-18T10:20:30+00:00",
+      "author": "Amit Katwala",
+      "summary_raw": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "857726d12e260c3f",
+      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+      "published_at": "2026-11-18T10:19:04+00:00",
+      "author": "swyx .ai",
+      "summary_raw": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
+      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/38ecd72a-69fc-402f-ab81-15ac4b07bf8c/image.png?t=1794996495",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "c9caaf58d52214e9",
+      "title": "Lovable Wants You to Vibe Code Your Dream Job",
+      "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
+      "published_at": "2026-11-18T10:00:00+00:00",
+      "author": "Reece Rogers",
+      "summary_raw": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
+      "hero_image": "https://media.wired.com/photos/6afcd191c00d87e3fd8ba0d4/master/pass/GettyImages-2303907996.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "20976d512f415d41",
+      "title": "Prodej firmy se stává prací pro AI. Český startup ji chce pustit na transakce, které se dosud nevyplatily",
+      "url": "https://www.lupa.cz/aktuality/prodej-firmy-se-stava-praci-pro-ai-cesky-startup-ji-chce-pustit-na-transakce-ktere-se-dosud-nevyplatily/",
+      "published_at": "2026-11-18T09:10:50+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Umělá inteligence by v očích mladého českého projektu mohla výrazně změnit a zrychlit proces prodeje firem. Tým Plomo vyvíjí AI platformu, která má převzít část práce finančních a M&amp;A poradců. Podle zakladatelů by se tím mohla otevřít cesta i k prodejům men&#353;ích podniků, u nichž se dnes náklady na poradenské služby nemusí vyplatit.",
+      "hero_image": "https://i.iinfo.cz/images/614/zakladatele-startupu-plomo.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "00728e1ee0cbca50",
+      "title": "Proti Googlu nemáte šanci, slyšel od investorů. Dnes mu chce přebrat zákazníky s firmou za tři biliony",
+      "url": "https://cc.cz/proti-googlu-nemate-sanci-slysel-od-investoru-dnes-mu-chce-prebrat-zakazniky-s-firmou-za-tri-biliony/",
+      "published_at": "2026-11-18T05:29:41+00:00",
+      "author": "David Zlomek",
+      "summary_raw": "Když vám hru na mobilu přeruší reklama, možná za ní stojí AppLovin. Pomocí AI vybírá, co vám nabídne, a na propojování hráčů s inzerenty vydělává. Článek Proti Googlu nemáte šanci, slyšel od investorů. Dnes mu chce přebrat zákazníky s firmou za tři biliony se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/adam-foroughi-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "1e61e8edbf10d030",
+      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+      "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+      "published_at": "2026-11-18T05:01:00+00:00",
+      "author": "Jason Parham",
+      "summary_raw": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+      "hero_image": "https://media.wired.com/photos/6afcfa9cd76c36e8270ca841/master/pass/GenZ-AI-Friendship-Culture.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
     {
       "id": "abe8a3455be66d1f",
       "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
@@ -569,6 +725,18 @@
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
       "category": "news"
+    },
+    {
+      "id": "0d3fc0ee8d023f21",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
     },
     {
       "id": "142174ba5490099f",
@@ -1051,18 +1219,6 @@
       "category": "news"
     },
     {
-      "id": "11dacd8751e369d9",
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-      "published_at": "2026-11-17T15:00:00+00:00",
-      "author": "Russell Brandom",
-      "summary_raw": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "eca2710fe0a8fe5c",
       "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
       "url": "https://latent.space/p/cloudflare/",
@@ -1075,18 +1231,6 @@
       "category": "commentary"
     },
     {
-      "id": "4ddcfbcfae1502da",
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "published_at": "2026-11-17T14:50:58+00:00",
-      "author": "Ram Iyer",
-      "summary_raw": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "d50d52935d47238e",
       "title": "Research Reports",
       "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
@@ -1096,18 +1240,6 @@
       "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-3.15.07-PM-edited.png",
       "source_id": "mit_tech_review",
       "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "3cefa0fb728a7552",
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-      "published_at": "2026-11-17T14:26:46+00:00",
-      "author": "Tim Fernholz",
-      "summary_raw": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
       "category": "news"
     },
     {
@@ -1229,18 +1361,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "92073af68e089408",
-      "title": "Nejžádanější profese ve světě umělé inteligence? Experti na kontrašpionáž, kteří si vydělají miliony ročně",
-      "url": "https://cc.cz/nejzadanejsi-profese-ve-svete-umele-inteligence-experti-na-kontraspionaz-kteri-si-vydelaji-miliony-rocne/",
-      "published_at": "2026-11-17T06:47:11+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Anthropic letos najal na kontrašpionážní pozice 33 lidí, třikrát víc než před dvěma lety. Bývalé agenty shánějí také OpenAI, Nvidia či ASML. Článek Nejžádanější profese ve světě umělé inteligence? Experti na kontrašpionáž, kteří si vydělají miliony ročně se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/dario-sam-x-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "484ee07a56de3875",
@@ -1387,18 +1507,6 @@
       "category": "news"
     },
     {
-      "id": "58ef6bc165aee5d2",
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "published_at": "2026-11-16T20:41:28+00:00",
-      "author": "Stevie Bonifield",
-      "summary_raw": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
       "id": "716b91e85692db39",
       "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
       "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
@@ -1406,42 +1514,6 @@
       "author": "Scharon Harding",
       "summary_raw": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "66f07eb8c5c744a7",
-      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-      "published_at": "2026-11-16T20:29:37+00:00",
-      "author": "Ellen Thomas",
-      "summary_raw": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "216ddea2cd578862",
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "published_at": "2026-11-16T20:27:58+00:00",
-      "author": "Jon Brodkin",
-      "summary_raw": "AT&#038;T demands Comcast give AT&#038;T profits it made from advertising cable as fiber.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "7ddcaa75ad08909a",
-      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
-      "published_at": "2026-11-16T19:54:21+00:00",
-      "author": "John Timmer",
-      "summary_raw": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568-1024x648.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
       "category": "news"
@@ -1531,18 +1603,6 @@
       "category": "news"
     },
     {
-      "id": "b5d44da34ce6841c",
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "published_at": "2026-11-16T13:00:00+00:00",
-      "author": "MIT Technology Review Insights",
-      "summary_raw": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "5bae39aa56a196f8",
       "title": "Science at the Frontier: How scientists use ChatGPT",
       "url": "https://openai.com/index/science-at-the-frontier",
@@ -1553,30 +1613,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "dd2de34176b41c0d",
-      "title": "Jan Romportl vede AI ve firmě, která z Česka vyvíjí software pro světové banky i automobilky",
-      "url": "https://www.lupa.cz/aktuality/jan-romportl-vede-ai-ve-firme-ktera-z-ceska-vyviji-software-pro-svetove-banky-i-automobilky/",
-      "published_at": "2026-11-16T11:56:06+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Odborník na umělou inteligenci a dlouhodobý aktér zdej&#353;ího AI a startupového světa Jan Romportl nastupuje do technologické společnosti Trask jako AI &amp; Data Director. Povede její směřování v oblasti dat a umělé inteligence i interní AI Board. Ve funkci střídá Martina Tomise, který v Trasku vybudoval tým data science a nově povede &#353;výcarskou pobočku firmy.",
-      "hero_image": "https://i.iinfo.cz/images/440/jan-romportl.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "b811ccd433bb2316",
-      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "published_at": "2026-11-16T11:00:00+00:00",
-      "author": "Will Knight",
-      "summary_raw": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-      "hero_image": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/master/pass/111226-Nvidia%20In%20Trouble.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
     },
     {
       "id": "85ccdf939462cdad",
@@ -1615,18 +1651,6 @@
       "category": "labs"
     },
     {
-      "id": "1a246795205b3b43",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "published_at": "2026-11-16T06:00:00+00:00",
-      "author": "",
-      "summary_raw": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
       "id": "021236736da4a7c6",
       "title": "Advancing computer-use agents for healthcare teams",
       "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
@@ -1639,16 +1663,16 @@
       "category": "labs"
     },
     {
-      "id": "3d3a489a86a0a863",
-      "title": "Nvidia jim stopla vývoj a způsobila bolehlav. Podívejte se na „vykuchaný“ router, kterým se MikroTik vrací do hry",
-      "url": "https://www.lupa.cz/clanky/nvidia-jim-stopla-vyvoj-a-zpusobila-bolehlav-podivejte-se-na-vykuchany-router-kterym-se-mikrotik-vraci-do-hry/",
-      "published_at": "2026-11-16T05:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Populární lotyšský dodavatel routerů musel řešit problémy se zastaveným vývojem čipů. Zvolil technologii zatím netradičního dodavatele. Uvnitř: GALERIE.",
-      "hero_image": "https://i.iinfo.cz/images/650/router-mikrotik.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
+      "id": "1a246795205b3b43",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "published_at": "2026-11-16T06:00:00+00:00",
+      "author": "",
+      "summary_raw": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "hero_image": null,
+      "source_id": "openai_blog",
+      "source_name": "OpenAI Blog",
+      "category": "labs"
     },
     {
       "id": "90d00fb309fbe72f",
@@ -1997,30 +2021,6 @@
       "source_id": "last_week_ai",
       "source_name": "Last Week in AI",
       "category": "newsletter"
-    },
-    {
-      "id": "fab18ec502a8939b",
-      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
-      "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
-      "published_at": "2026-11-11T09:34:28+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
-      "hero_image": null,
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "aead7b5b2e11eeb2",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "published_at": "2026-11-11T08:00:00+00:00",
-      "author": "",
-      "summary_raw": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
     },
     {
       "id": "816446490bf062e1",
