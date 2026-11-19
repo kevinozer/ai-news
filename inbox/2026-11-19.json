@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T05:02:14.183938+00:00",
+  "generated_at": "2026-11-19T13:03:54.158321+00:00",
   "date": "2026-11-19",
   "article_count_unique": 184,
   "article_count_raw": 184,
@@ -13,8 +13,8 @@
     {
       "source_id": "verge_ai",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 10,
+      "raw_count": 10
     },
     {
       "source_id": "arstechnica",
@@ -25,8 +25,8 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "wired_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 29,
-      "raw_count": 29
+      "count": 27,
+      "raw_count": 27
     },
     {
       "source_id": "anthropic_news",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,7 +164,7 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 3,
-      "raw_count": 12
+      "raw_count": 13
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,126 @@
     }
   ],
   "articles": [
+    {
+      "id": "a3556ebcb14d9e83",
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "published_at": "2026-11-19T13:00:00+00:00",
+      "author": "Victoria Song",
+      "summary_raw": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "a3da508d72c05140",
+      "title": "Canva adds an AI ‘off’ button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "published_at": "2026-11-19T12:30:00+00:00",
+      "author": "Emma Roth",
+      "summary_raw": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "cd864867644fa713",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "published_at": "2026-11-19T12:00:00+00:00",
+      "author": "Antonio Regalado",
+      "summary_raw": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "1ec0d64fde3610f5",
+      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "published_at": "2026-11-19T12:00:00+00:00",
+      "author": "Paresh Dave",
+      "summary_raw": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+      "hero_image": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/master/pass/Anthropic-IPO-Business-2297744238.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "1e02b7daecdc84af",
+      "title": "How to tell a cyberattack from a plain old outage",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "published_at": "2026-11-19T11:13:01+00:00",
+      "author": "Andy Greenberg, wired.com",
+      "summary_raw": "When everything goes down, don’t assume it’s a cyberattack.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "07ebf155c1973f67",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "published_at": "2026-11-19T11:00:00+00:00",
+      "author": "Casey Crownhart",
+      "summary_raw": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "3b990add874f1526",
+      "title": "Dochází AI boomu dech? Ani náhodou, pochyby rozehnal Anthropic, o jeho akcie je obří zájem",
+      "url": "https://cc.cz/zdalo-se-ze-ai-boomu-dochazi-dech-anthropic-ale-pochyby-rozehnal-o-jeho-akcie-je-obri-zajem/",
+      "published_at": "2026-11-19T07:33:09+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Emise byla sedmkrát přeupsaná. Spolu se soukromým úpisem pro Amazon, Google a Nvidii získá Anthropic 107 miliard dolarů. Článek Dochází AI boomu dech? Ani náhodou, pochyby rozehnal Anthropic, o jeho akcie je obří zájem se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/amodeis-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "c08a4926e9758806",
+      "title": "Nová cesta k zákazníkům vede přes ChatGPT, ukazuje český projekt. Během roku fungování přesvědčil i ty největší značky",
+      "url": "https://www.lupa.cz/aktuality/nova-cesta-k-zakaznikum-vede-pres-chatgpt-ukazuje-cesky-projekt-behem-roku-fungovani-presvedcil-i-ty-nejvetsi-znacky/",
+      "published_at": "2026-11-19T07:15:27+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Čím víc se lidí se ptá chytrých chatbotů na nákupní doporučení, tím výrazněji se může rozvíjet český startup, který vznikl teprve loni, ale právě ohlásil svou už druhou investici. Firma Ranketta radí společnostem, jak se dostat do odpovědí nástrojů jako ChatGPT, Gemini nebo Perplexity. Za rok si na&#353;la přes 150 platících zákazníků a mezi nimi T-Mobile, &#352;kodu Auto, Notino, Makro nebo J&amp;T Banku.",
+      "hero_image": "https://i.iinfo.cz/images/138/pavel-pinkas-a-vojtech-oravec-ranketta.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "3de82327d498fe30",
+      "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+      "published_at": "2026-11-19T07:07:43+00:00",
+      "author": "swyx .ai",
+      "summary_raw": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/6ba7e411-386b-45b6-b64e-592072c52abf/image.png?t=1795071522",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "c0f2d7fd8f692595",
+      "title": "Malůvky jeho dětí odstartovaly vzpouru proti umělé inteligenci. Dojemný příběh zasáhl už miliony lidí",
+      "url": "https://cc.cz/dojemna-vzpoura-proti-ai-zasahla-miliony-lidi-z-detske-kresby-je-viralni-hit-co-vam-pripomene-odlozene-sny/",
+      "published_at": "2026-11-19T05:33:16+00:00",
+      "author": "Michal Mančař",
+      "summary_raw": "Začalo to tím, že jeho děti kreslily a vystřihovaly rybičky. A on se jimi nechal inspirovat k vytvoření hravého a docela dojemného díla Drawquarium. Článek Malůvky jeho dětí odstartovaly vzpouru proti umělé inteligenci. Dojemný příběh zasáhl už miliony lidí se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/kaleb-drawquarium-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
     {
       "id": "abe8a3455be66d1f",
       "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
@@ -547,6 +667,18 @@
       "category": "news"
     },
     {
+      "id": "96e54b91208de3c6",
+      "title": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "published_at": "2026-11-18T23:59:20+00:00",
+      "author": "",
+      "summary_raw": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price , and Hydrogen was 3/4 of that price now but will be 1/4 of that price when the other two double an 1st December once their initial discount pricing expires. The Neon announcement pretends that Argon doesn't exist. Here's their new image explaining the model line-up: So the lineup now, from most to least expensive, is Carbon, Neon, Hydrogen. Except Carbon is currently half price, so right now Neon ($3/million input, $15/million output) is the most expensive of the three - then Carbon ($2/$10), then Hydrogen ($1.50/$7.50). I guess this will make more sense when Carbon doubles to $4/$20 on December 1st. I ran some pelicans through the three reasoning levels for Neon - low, medium, high. I dropped Argon from my Gemini 4 comparison grid - here's the new Gemini 4 lineup, where the Neon pelicans do look better than Hydrogen and worse than Carbon: As I've done with several recent models , I also fired the following prompt against Gemini 4 Neon on \"extra\" effort level in Google Antigravity: Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data Here's the result . Tags: yonkers-rising , gemini , llm , pelican-riding-a-bicycle , ai , llms , llm-release , google , generative-ai",
+      "hero_image": "https://static.simonwillison.net/static/2026/gemini-4-neon__comparison-graphi.width-2000.webp",
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
+    {
       "id": "3e8af15aee09d0c1",
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
       "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
@@ -580,6 +712,18 @@
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-1152x648-1738093202.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "a5fd48a6ad514dca",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "published_at": "2026-11-18T23:18:35+00:00",
+      "author": "Terrence O’Brien",
+      "summary_raw": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
       "category": "news"
     },
     {
@@ -787,6 +931,18 @@
       "category": "labs"
     },
     {
+      "id": "cf517087a8ed07d0",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "published_at": "2026-11-18T19:40:36+00:00",
+      "author": "Justine Calma",
+      "summary_raw": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
       "id": "d18cc36d19f8fc5e",
       "title": "Best Buy sells Blu-rays online and in-store again",
       "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
@@ -799,6 +955,18 @@
       "category": "news"
     },
     {
+      "id": "9d0f37ed9dc8b5d9",
+      "title": "Nvidia’s rise, visualized",
+      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "published_at": "2026-11-18T19:30:00+00:00",
+      "author": "Sean Hollister",
+      "summary_raw": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002526/acastro_STK083_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
       "id": "0785e9d7094a055d",
       "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
       "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
@@ -808,6 +976,18 @@
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "634b413510a1f8cb",
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "published_at": "2026-11-18T19:07:29+00:00",
+      "author": "Lauren Feiner",
+      "summary_raw": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling for the end of forced arbitration for online [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
       "category": "news"
     },
     {
@@ -844,6 +1024,18 @@
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-1152x648-1795023886.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "d35b1b47e93a4f2b",
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "published_at": "2026-11-18T18:34:15+00:00",
+      "author": "Elizabeth Lopatto",
+      "summary_raw": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huang (the former CEO [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
       "category": "news"
     },
     {
@@ -904,6 +1096,18 @@
       "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PXL_20261114_225616002-1152x648.jpg",
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "6314a77a72b3c398",
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "published_at": "2026-11-18T17:50:57+00:00",
+      "author": "Andrew Liszewski",
+      "summary_raw": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&#38;D has revealed three new Audio-Animatronic prototypes that rely on Amazon's [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
       "category": "news"
     },
     {
@@ -1015,16 +1219,16 @@
       "category": "commentary"
     },
     {
-      "id": "a7f9ef8ca975a39e",
-      "title": "Anthropic musí dokázat, že byznysově funguje. Valuace 1,4 bilionu dolarů je ale fér, píše Anna Píchová",
-      "url": "https://cc.cz/anthropic-musi-dokazat-ze-byznysove-funguje-valuace-14-bilionu-dolaru-je-ale-fer-pise-anna-pichova/",
-      "published_at": "2026-11-18T15:15:35+00:00",
-      "author": "Anna Píchová",
-      "summary_raw": "Anna Píchová ze skupiny Emun, která drží podíl v Anthropicu, popisuje, co vstup AI lídra na burzu znamená a na co se při analýze zaměřit. Článek Anthropic musí dokázat, že byznysově funguje. Valuace 1,4 bilionu dolarů je ale fér, píše Anna Píchová se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/pichova-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
+      "id": "edd1a76ef7a8fa48",
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "published_at": "2026-11-18T15:44:02+00:00",
+      "author": "Rani Molla",
+      "summary_raw": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
     },
     {
       "id": "a75a26ce5f21521e",
@@ -1123,18 +1327,6 @@
       "category": "news"
     },
     {
-      "id": "2ab226fe9f894367",
-      "title": "Nvidia isn’t selling any more AI chips to China",
-      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "published_at": "2026-11-18T13:01:05+00:00",
-      "author": "Jess Weatherbed",
-      "summary_raw": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
       "id": "bfe215d504217350",
       "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
       "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
@@ -1180,18 +1372,6 @@
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "c88cefcd1ee0bceb",
-      "title": "Suno now lets you make AI videos for your AI music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-      "published_at": "2026-11-18T11:16:53+00:00",
-      "author": "Jess Weatherbed",
-      "summary_raw": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
       "category": "news"
     },
     {
@@ -1315,18 +1495,6 @@
       "category": "labs"
     },
     {
-      "id": "00728e1ee0cbca50",
-      "title": "Proti Googlu nemáte šanci, slyšel od investorů. Dnes mu chce přebrat zákazníky s firmou za tři biliony",
-      "url": "https://cc.cz/proti-googlu-nemate-sanci-slysel-od-investoru-dnes-mu-chce-prebrat-zakazniky-s-firmou-za-tri-biliony/",
-      "published_at": "2026-11-18T05:29:41+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Když vám hru na mobilu přeruší reklama, možná za ní stojí AppLovin. Pomocí AI vybírá, co vám nabídne, a na propojování hráčů s inzerenty vydělává. Článek Proti Googlu nemáte šanci, slyšel od investorů. Dnes mu chce přebrat zákazníky s firmou za tři biliony se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/adam-foroughi-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "1e61e8edbf10d030",
       "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
       "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
@@ -1435,18 +1603,6 @@
       "category": "newsletter"
     },
     {
-      "id": "142174ba5490099f",
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "published_at": "2026-11-17T23:41:18+00:00",
-      "author": "Nilay Patel",
-      "summary_raw": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
       "id": "9fff8bb33827ab7f",
       "title": "San Diego dumps both Flock cameras and smart streetlights",
       "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
@@ -1495,18 +1651,6 @@
       "category": "commentary"
     },
     {
-      "id": "cd4b3086be166775",
-      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-      "published_at": "2026-11-17T22:32:16+00:00",
-      "author": "Dan Goodin",
-      "summary_raw": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
       "id": "db6fc7b1de4019c5",
       "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
       "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
@@ -1516,42 +1660,6 @@
       "hero_image": "https://media.wired.com/photos/6afce5159891667de5f2b6bb/master/pass/Nvidia-Board-Has-No-Plans-to-Bring-Back-Jensen-Business-2299990450.jpg",
       "source_id": "wired_ai",
       "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "f49707b38c51fae3",
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "published_at": "2026-11-17T21:40:59+00:00",
-      "author": "Jay Peters",
-      "summary_raw": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "76b36ef5bc2afb65",
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "published_at": "2026-11-17T21:00:55+00:00",
-      "author": "Mia Sato",
-      "summary_raw": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "6d3df611cd119afc",
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "published_at": "2026-11-17T18:58:01+00:00",
-      "author": "Emma Roth",
-      "summary_raw": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
       "category": "news"
     },
     {
@@ -1603,30 +1711,6 @@
       "category": "commentary"
     },
     {
-      "id": "1b3fa909fe505ad2",
-      "title": "The DOJ says it’s investigating Megaspeed",
-      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "published_at": "2026-11-17T16:19:03+00:00",
-      "author": "Stevie Bonifield",
-      "summary_raw": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "c1168badbfa7563f",
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "published_at": "2026-11-17T16:09:57+00:00",
-      "author": "Jay Peters",
-      "summary_raw": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
       "id": "eca2710fe0a8fe5c",
       "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
       "url": "https://latent.space/p/cloudflare/",
@@ -1675,30 +1759,6 @@
       "category": "news"
     },
     {
-      "id": "ce2f07ebc70959e4",
-      "title": "Evropa má vlastní AI čip bez drahých pamětí a vodního chlazení. Chytře se má vyrovnat Nvidii",
-      "url": "https://www.lupa.cz/aktuality/evropa-ma-vlastni-ai-cip-bez-drahych-pameti-a-vodniho-chlazeni-chytre-se-ma-vyrovnat-nvidii/",
-      "published_at": "2026-11-17T11:45:10+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Také Evropa má slu&#353;ný čip pro umělou inteligenci. Nizozemská společnost Axelera AI představila třetí generaci své architektury. Čip dostal název Titania a určený je primárně pro inferenci, tedy chod samotné AI. Vyrábět se bude 4nm procesem u TSMC.",
-      "hero_image": "https://i.iinfo.cz/images/301/axelera-ai-titania.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "bc8ab832d1c773dd",
-      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-      "published_at": "2026-11-17T11:00:00+00:00",
-      "author": "Will Knight",
-      "summary_raw": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-      "hero_image": "https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "efd81a58e7053940",
       "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
       "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
@@ -1721,18 +1781,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "484ee07a56de3875",
-      "title": "Quoting Go Proverbs",
-      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
-      "published_at": "2026-11-17T06:16:26+00:00",
-      "author": "",
-      "summary_raw": "A little copying is better than a little dependency. &mdash; Go Proverbs , via Tags: go , programming",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
     },
     {
       "id": "13a973654488a5ee",
@@ -2117,54 +2165,6 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
-    },
-    {
-      "id": "3d3fce9204b53f8a",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "published_at": "2026-11-12T12:00:00+00:00",
-      "author": "",
-      "summary_raw": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "91db2e2b3bc15423",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "published_at": "2026-11-12T09:30:00+00:00",
-      "author": "",
-      "summary_raw": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "d3b2178f832c5e71",
-      "title": "[AINews] D-Day (Decision Models Day)",
-      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
-      "published_at": "2026-11-12T05:26:54+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
-      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/b8ccf47f-9414-4c90-bbb5-0fcb2b0ac850/image.png?t=1794461003",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "ba56f0a94e48a42f",
-      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
-      "url": "https://latent.space/p/jev-revolution/",
-      "published_at": "2026-11-12T05:08:20+00:00",
-      "author": "Richard MacManus",
-      "summary_raw": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
-      "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b4181d5a-0460-4828-b350-07feca728023/jevalution-feature.jpg?t=1794458692",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "816446490bf062e1",
