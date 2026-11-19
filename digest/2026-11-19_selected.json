@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-19",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Gemini 4 Neon: Google uvádí novou generaci svého AI modelu",
+      "title_orig": "Introducing Gemini 4 Neon",
+      "category": "labs",
+      "summary_cs": [
+        "Google DeepMind oficiálně představil nejnovější model z řady Gemini pod označením Gemini 4 Neon.",
+        "Nový model přináší zásadní posun v rychlosti inferencí a optimalizaci výpočetních nákladů pro rozsáhlé nasazení.",
+        "Současně nabízí pokročilé schopnosti při zpracování multimodálních dat a komplexním uvažování."
+      ],
+      "why_matters": "Nová generace vlajkového modelu od Google přímo ovlivní výkon AI aplikací a dostupnost pokročilého uvažování.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic vstoupil na burzu s valuací 1,5 bilionu dolarů",
+      "title_orig": "Anthropic prices IPO at $83 a share, above projected range",
+      "category": "business",
+      "summary_cs": [
+        "AI startup Anthropic stanovil cenu svých akcií při vstupu na burzu na 83 dolarů za kus, což překonalo původní odhady.",
+        "Tato úroveň oceňuje celou společnost na rekordních 1,5 bilionu dolarů na plně zředěné bázi.",
+        "Jde o jeden z největších technologických vstupů na burzu v historii, který podtrhuje obrovský finanční zájem o AI výzkum."
+      ],
+      "why_matters": "Historické IPO Anthropicu nastavuje laťku finančního oceňování předních vývojářů generativní AI.",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Google představuje model Genie 4 pro generování interaktivního prostředí",
+      "title_orig": "Genie 4 is now available",
+      "category": "labs",
+      "summary_cs": [
+        "Google DeepMind zpřístupnil čtvrtou generaci generativního modelu Genie určeného pro tvorbu interaktivních světských prostředí.",
+        "Nástroj umožňuje vytvářet hratelné 2D i 3D světy ze vstupních textových nebo obrazových zadání.",
+        "Model vykazuje výrazně vyšší konzistenci fyzikálního chování a vyšší rozlišení vytvořených scén."
+      ],
+      "why_matters": "Genie 4 posouvá hranice vývoje her a simulací prostřednictvím okamžitého generování plně interaktivních prostředí.",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Satya Nadella varuje před zranitelností kritické infrastruktury vůči AI kyberútokům",
+      "title_orig": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "category": "news",
+      "summary_cs": [
+        "Šéf Microsoftu Satya Nadella upozornil, že velká část světové kritické infrastruktury běží na systémech, které nelze snadno zabezpečit.",
+        "S nástupem AI-poháněných útoků se dramaticky zvyšuje riziko napadení zastaralého softwaru i hardwaru.",
+        "Microsoft zdůrazňuje nutnost přechodu na autonomní kybernetickou obranu pro zmírnění nastupujících hrozeb."
+      ],
+      "why_matters": "Varování upozorňuje na bezprostřední riziko AI útoků na infrastrukturu, kterou nelze klasicky zaplátovat.",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "DaisyRose-27B posouvá efektivitu post-tréninku otevřených modelů",
+      "title_orig": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "category": "open-source",
+      "summary_cs": [
+        "Na platformě Hugging Face byl publikován nový model DaisyRose s 27 miliardami parametrů.",
+        "Projekt přináší inovativní postupy v po-tréninkové fázi, které dramaticky snižují výpočetní nároky na ladění.",
+        "Dosahuje srovnatelných výsledků s výrazně většími modely při zachování nízkých nároků na paměť."
+      ],
+      "why_matters": "Ukazuje, jak pokročilý post-training umožňuje dosáhnout špičkového výkonu u dostupnějších open-source modelů.",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Český startup E2B pro infrastrukturu AI agentů hlásí exponenciální růst",
+      "title_orig": "První miliardy jim trvala tři roky, ta poslední jen měsíc. Česká AI firma začíná růst exponenciálním tempem",
+      "category": "news",
+      "summary_cs": [
+        "Český startup E2B, který vyvíjí bezpečné pískoviště pro běh AI agentů, zaznamenává masivní nárůst využití své platformy.",
+        "Zatímco dosažení první miliardy spuštěných prostředí trvalo tři roky, poslední miliarda zabrala pouhý měsíc.",
+        "Firma se stává jedním z klíčových světových hráčů v poskytování výpočetního prostředí pro autonomní kódování."
+      ],
+      "why_matters": "Úspěch české firmy E2B potvrzuje globální význam domácího technologického ekosystému v oblasti AI agentů.",
+      "url": "https://www.lupa.cz/aktuality/prvni-miliarda-jim-trvala-tri-roky-ta-posledni-jen-mesic-ceska-ai-firma-zacina-rust-exponencialnim-tempem/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Sam Altman varuje před ztrátou lidské kontroly nad autonomní inteligencí",
+      "title_orig": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "category": "news",
+      "summary_cs": [
+        "Představitelé OpenAI Sam Altman a Greg Brockman promluvili o rizicích spojených s odevzdáváním rozhodovacích pravomocí strojům.",
+        "Zdůraznili, že je nutné zachovat lidi v řídicím řetězci i u vysoce pokročilých autonomních systémů.",
+        "Reagují tak na sílící debatu v Silicon Valley ohledně tempo vývoje obecné umělé inteligence."
+      ],
+      "why_matters": "Vyjadřuje klíčové obavy lídrů AI výzkumu ohledně zachování lidské kontroly nad autonomními modely.",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Google Search zavádí anonymní režim pro konverzace s AI",
+      "title_orig": "Google’s AI feature in Search gets its own incognito mode",
+      "category": "tools",
+      "summary_cs": [
+        "Vyhledávač Google spouští funkci dočasných vláken pro svůj konverzační modul AI Mode.",
+        "Dotazy položené v tomto režimu se neukládají do historie vyhledávání ani neovlivňují budoucí personalizaci.",
+        "Uživatelé tak získávají větší kontrolu nad svými soukromými daty při využívání generativní AI."
+      ],
+      "why_matters": "Prvek zvyšuje ochranu soukromí uživatelů při každodenním používání vyhledávacích AI nástrojů.",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "AI nástroj Artex umožňuje nováčkům provádět sofistikované kyberútoky",
+      "title_orig": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+      "category": "news",
+      "summary_cs": [
+        "Bezpečnostní experti varují před šířením volně dostupného AI nástroje Artex pro automatizovaný penetrační test.",
+        "Softwarový nástroj dovoluje i nezkušeným útočníkům skenovat sítě a provádět průniky pouhým zadáváním promptů.",
+        "Incidenty s využitím tohoto nástroje podle bezpečnostních složek prudce narůstají."
+      ],
+      "why_matters": "Demokratizace útočných kybernetických nástrojů pomocí AI výrazně zvyšuje bezpečnostní rizika pro organizace.",
+      "url": "https://www.wired.com/story/artex-ai-hacking-tools/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Snapchat propojil tvorbu AR efektů s asistenty Claude Code a Cursor",
+      "title_orig": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "category": "tools",
+      "summary_cs": [
+        "Platforma Snapchat integrovala podpůrné AI asistenty přímo do vývojářského prostředí pro rozšířenou realitu.",
+        "Tvůrci mohou popsat požadovaný AR filtr běžným jazykem a AI asistent vygeneruje potřebný kód a logika prvků.",
+        "To výrazně zkracuje čas potřebný k prodeji a vytvoření komplexních interaktivních 3D čoček."
+      ],
+      "why_matters": "Umožňuje vývojářům bez znalosti pokročilého programování tvořit složité AR zážitky pomocí textových zadání.",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Banka Citi ruší podporu pro osobní AI finance agenty z bezpečnostních důvodů",
+      "title_orig": "More banks say customers using AI agents are on their own - even if they get hacked",
+      "category": "business",
+      "summary_cs": [
+        "Další významné finanční instituce v čele s Citi omezují přístup autonomních AI agentů k účtům klientů.",
+        "Banky varují, že v případě zneužití nebo úniku dat přes třetí AI strany nebudou krýt vzniklé škody.",
+        "Tento krok výrazně ztěžuje rozvoj automatizovaných správců osobních financí."
+      ],
+      "why_matters": "Zásadní rozhodnutí bankovního sektoru staví překážku rozmachu autonomních platebních a finančních agentů.",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Suno přidává generování synchronizovaného AI videa k hudebním skladbám",
+      "title_orig": "Suno now lets you make AI videos for your AI music",
+      "category": "tools",
+      "summary_cs": [
+        "Populární platforma pro tvorbu AI hudby Suno představila novou funkci s názvem Visuals.",
+        "Uživatelé mohou ze svých skladeb automaticky generovat videoklipy, které synchronizují pohyb rtů s textem.",
+        "Suno se tím posouvá od čistě audiální tvorby směrem k kompletnímu multimodálnímu obsahu."
+      ],
+      "why_matters": "Zjednodušuje tvorbu kompletních videoklipů pro autory obsahu bez nutnosti externího video editoru.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Tvorba hlubokých neurčitostí přináší problém škodlivého přemýšlení u uvažujících modelů",
+      "title_orig": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumný paper zkoumá fenomén, kdy uvažující modely po nalezení správné odpovědi pokračují v přemýšlení a výsledek pokazí.",
+        "Studie definuje metody, jak rozpoznat bod, kdy další uvažování přestává být přínosné a vede k chybným závěrům.",
+        "Navržený rámec pomáhá efektivněji zastavovat výpočetní řetězce (Chain-of-Thought) u uvažujících AI modelů."
+      ],
+      "why_matters": "Řeší klíčový problém efektivity a přesnosti u pokročilých uvažujících modelů využívajících rezonování.",
+      "url": "https://arxiv.org/abs/2611.21946",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Česká platforma Plomo chce automatizovat prodej menších firem pomocí AI",
+      "title_orig": "Prodej firmy se stává prací pro AI. Český startup ji chce pustit na transakce, které se dosud nevyplatily",
+      "category": "news",
+      "summary_cs": [
+        "Český projekt Plomo vyvíjí specializovanou AI platformu pro automatizaci analytických prací při M&A transakcích.",
+        "Cílem je zlevnit a zrychlit přípravu prodeje podniku, což zpřístupní poradenské služby i malým firmám.",
+        "Nástroj přebírá vytváření finančních analýz, prověřování podkladů i přípravu prezentací pro investory."
+      ],
+      "why_matters": "Ukazuje konkrétní využití AI pro zefektivnění finančního poradenství a zpřístupnění prodeje malých podniků.",
+      "url": "https://www.lupa.cz/aktuality/prodej-firmy-se-stava-praci-pro-ai-cesky-startup-ji-chce-pustit-na-transakce-ktere-se-dosud-nevyplatily/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Startup Osmo vyvíjí umělý čich s přesností srovnatelnou s lidským nosem",
+      "title_orig": "This smell startup says its AI nose is as good as a human’s",
+      "category": "wildcard",
+      "summary_cs": [
+        "AI startup Osmo trénuje své modely na rozsáhlých databázích chemických sloučenin a lidských hodnocení vůní.",
+        "Vytvořený digitální čich dokáže identifikovat a klasifikovat pachy se stejnou přesností jako profesionální senzorici.",
+        "Technologie směřuje k využití v potravinářství, parfumerii i zdravotní diagnostice."
+      ],
+      "why_matters": "Netradiční aplikace AI v oblasti digitalizace čichu otevírá nové možnosti pro diagnostiku a průmysl.",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Technology Review"
+    }
+  ]
+}
