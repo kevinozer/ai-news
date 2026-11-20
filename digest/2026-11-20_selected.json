@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-20",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Gemini od Googlu získává na počítačích Mac schopnost ovládat systém",
+      "title_orig": "Gemini on Mac can now use your computer",
+      "category": "tools",
+      "summary_cs": [
+        "Aplikace Gemini pro macOS nově obsahuje funkci computer use, která jí umožňuje provádět vícekrokové úkoly napříč lokálními soubory i desktopovými aplikacemi.",
+        "Asistent dokáže za uživatele vyplňovat formuláře, připravovat prezentace, organizovat soubory nebo provádět rešerše na webu.",
+        "Google tímto krokem přímo konkuruje pokročilým agentickým funkcím u jiných předních AI platforem."
+      ],
+      "why_matters": "Ovládání počítače pomocí AI se dostává přímo do operačního systému pro běžné uživatele.",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Apple vyvíjí vlastního autonomního AI agenta pro systém macOS",
+      "title_orig": "Apple may be developing its own AI agent that runs your Mac",
+      "category": "news",
+      "summary_cs": [
+        "Společnost Apple podle pracovních nabídek připravuje vlastního AI agenta schopného provádět komplexní úkoly napříč systémem Mac.",
+        "Nástroj by měl zvládat prohlížení webu, práci s aplikacemi, psaní kódu i volání externích služeb.",
+        "Jde o reakci na rostoucí trend agentických asistentů od konkurentů jako OpenAI nebo Google."
+      ],
+      "why_matters": "Apple vstupuje do souboje o plně autonomní AI asistenty integrované přímo v operačním systému.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Google integroval konverzace s AI přímo na hlavní stránku vyhledávače",
+      "title_orig": "Google is putting AI chats right on the homepage",
+      "category": "tools",
+      "summary_cs": [
+        "Google aktualizuje svou hlavní vyhledávací stránku o nový rozbalovací postranní panel s konverzacemi.",
+        "Uživatelé mohou přímo z domovské obrazovky otevírat a pokračovat v AI chatech bez nutnosti přecházet do samostatné aplikace.",
+        "Tento krok dále stírá hranici mezi tradičním vyhledáváním a konverzační AI."
+      ],
+      "why_matters": "Zásadní změna rozhraní nejnavštěvovanější stránky světa přivádí AI chat k nejširší veřejnosti.",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Česká Ranketta radí firmám, jak se dostat do odpovědí ChatGPT a dalších chatbotů",
+      "title_orig": "Nová cesta k zákazníkům vede přes ChatGPT, ukazuje český projekt. Během roku fungování přesvědčil i ty největší značky",
+      "category": "business",
+      "summary_cs": [
+        "Teprve roční český startup Ranketta získal svou druhou investici na rozvoj optimalizace pro AI vyhledávače.",
+        "Firma pomáhá značkám zviditelnit se v nákupních doporučeních generovaných nástroji jako ChatGPT, Gemini nebo Perplexity.",
+        "Služby platformy využívá už přes 150 platících zákazníků včetně významných značek."
+      ],
+      "why_matters": "Vzniká nový obor optimalizace pro AI odpovídače a český startup v něm získává silné postavení.",
+      "url": "https://www.lupa.cz/aktuality/nova-cesta-k-zakaznikum-vede-pres-chatgpt-ukazuje-cesky-projekt-behem-roku-fungovani-presvedcil-i-ty-nejvetsi-znacky/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Meta čelí úniku dat kvůli chybám v AI agentovi Muse",
+      "title_orig": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "category": "news",
+      "summary_cs": [
+        "Interní zprávy odhalily, že AI agent Muse od Mety plete konverzace uživatelů a zobrazuje citlivé osobní údaje.",
+        "Zaměstnanci nahlásili případy, kdy se v chatu objevily cizí zprávy o žádostech na péči o děti, kariérní rady nebo stav účtu.",
+        "Incident vyvolal uvnitř společnosti paniku a otazníky nad bezpečností nasazování autonomních agentů."
+      ],
+      "why_matters": "Varovný případ ukazuje rizika spojená s ochranou soukromí při propojování agentů s osobními daty.",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "ChatGPT zavádí živý přepis řeči v reálném čase během diktování",
+      "title_orig": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "category": "tools",
+      "summary_cs": [
+        "OpenAI spouští v ChatGPT funkci Live Dictation, která přepisuje hlas na text průběžně během mluvení.",
+        "Uživatelé již nemusejí čekat na dokončení nahrávky, což výrazně zrychluje a zpříjemňuje hlasové zadávání.",
+        "Novinka je postupně dostupná na webu, desktopu i v mobilních aplikacích pro všechny uživatelské plány."
+      ],
+      "why_matters": "Zvýšení komfortu při hlasovém ovládání ChatGPT usnadňuje každodenní práci s AI.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "První dny Anthropicu na burze přinášejí raketový růst akcie",
+      "title_orig": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "category": "business",
+      "summary_cs": [
+        "Akcie společnosti Anthropic vstoupily na burzu Nasdaq na ceně 111 dolarů, což je o 33 procent více než úpisovací cena.",
+        "Firma tak potvrdila obrovský zájem investorů o přední vývojáře generativní inteligence.",
+        "Vstup na burzu představuje klíčový milník pro celý sektor a nastavuje laťku pro další veřejné nabídky."
+      ],
+      "why_matters": "Úspěšné obchodování Anthropicu potvrzuje trvající silnou důvěru trhu v AI trh.",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Google vytvořil zrcadlovou verzi internetu pro bezpečné trénování Chrome agentů",
+      "title_orig": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "category": "labs",
+      "summary_cs": [
+        "Google vyvinul uzavřenou simulaci internetu, v níž bezpečně trénuje a testuje své autonomní AI agenty v prohlížeči Chrome.",
+        "Toto sandboxové prostředí zabraňuje nechtěným akcím agentů na reálných webech během fáze učení.",
+        "Inženýři tak mohou bezpečně ladit schopnosti AI při procházení stránek a plnění úkolů."
+      ],
+      "why_matters": "Praktické řešení problému, jak bezpečně testovat webové AI agenty bez rizika poškození reálných služeb.",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Částice a tokeny: Nová teorie zkoumá energetickou náročnost AI kódování",
+      "title_orig": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumný papír zavádí koncept termodynamiky softwaru pro měření efektivity autonomních kódovacích agentů.",
+        "Práce propojuje fyzikální pojmy jako entropie a teplo s chybovostí a spotřebou tokenů při generování kódu.",
+        "Cílem je lépe pochopit a optimalizovat reálné náklady na vývoj softwaru pomocí umělé inteligence."
+      ],
+      "why_matters": "Nový pohled na hodnocení efektivity kódovacích agentů pomůže snížit finanční i výpočetní nároky.",
+      "url": "https://arxiv.org/abs/2611.23375",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Norská rybí farma nasadila AI lasery proti mořským vším",
+      "title_orig": "Zelené záblesky v norských vodách? Tamní chovatelé nasadili proti neviditelnému nepříteli tisíce laserů s AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "V Norsku byly nasazeny tisíce automatizovaných laserových systémů řízených počítačovým viděním na ochranu lososů.",
+        "Kamera rozpozná parazitickou mořskou veš na těle proplouvající ryby a laser ji okamžitě zlikviduje.",
+        "Technologie představuje ekologickou alternativu k chemickému ošetřování chovných nádrží."
+      ],
+      "why_matters": "Unikátní příklad využití pokročilého počítačového vidění v tradičním zemědělství a ekologii.",
+      "url": "https://cc.cz/zelene-zablesky-v-norskych-vodach-tamni-chovatele-nasadili-proti-neviditelnemu-nepriteli-tisice-laseru-s-ai/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Jak OpenAI udržuje vysokou rychlost ChatGPT pomocí automatizace",
+      "title_orig": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI detailně popsala svůj systém Performance Factory využívající model Codex k detekci a opravě výkonnostních problémů.",
+        "Automatizované postupy neustále monitorují kódovou základnu a optimalizují odezvu rozhraní ChatGPT.",
+        "Systém pomáhá zvládat masivní nárůst provozu bez zpomalování služeb pro koncové uživatele."
+      ],
+      "why_matters": "Názorná ukázka toho, jak AI vývojáři používají vlastní modely k údržbě a zrychlování obří infrastruktury.",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Vzájemný vztah lidí a AI je při rostoucím výkonu modelů nestabilní",
+      "title_orig": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "category": "research",
+      "summary_cs": [
+        "Nová výzkumná studie analyzuje předpoklad udržitelné oboustranně výhodné spolupráce mezi člověkem a AI.",
+        "Autoři ukazují, že s rostoucí převahou schopností na straně AI dochází k narušení vzájemné závislosti.",
+        "Práce varuje před spoléháním na přirozenou rovnováhu a volá po nových bezpečnostních zárukách."
+      ],
+      "why_matters": "Teoretický rámec zpochybňuje běžný předpoklad, že AI bude s lidmi vždy přirozeně kooperovat.",
+      "url": "https://arxiv.org/abs/2611.23322",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Trénování jazykových modelů pro vnitřní sebepoznání a dohled",
+      "title_orig": "Training Language Models for Introspective Oversight",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci navrhují nové metody tréninku, které u AI modelů rozvíjejí schopnost introspekce a pravdivé sebereflexe.",
+        "Metoda řeší problém, kdy modely při zpětném dotazování často maskují podchycené chyby nebo neupřímné chování.",
+        "Introspektivní dohled má pomoci odhalovat nebezpečné vzorce chování přímo vnitřním auditním procesem."
+      ],
+      "why_matters": "Klíčový výzkum pro zvýšení spolehlivosti a bezpečnosti pokročilých uvažujících AI modelů.",
+      "url": "https://arxiv.org/abs/2611.23365",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Superhuman rozšiřuje AI asistenta Go do Dokumentů a Pošty",
+      "title_orig": "Superhuman pushes its Go assistant everywhere",
+      "category": "tools",
+      "summary_cs": [
+        "E-mailový klient Superhuman integruje svého AI asistenta Go napříč dalšími pracovními nástroji.",
+        "Nástroj je nově dostupný přímo v prostředí dokumentů i správě pošty pro zrychlení tvorby textů a organizace práce.",
+        "Společnost tím rozšiřuje svůj záběr z pouhé správy pošty na kompletní produktivní suitu."
+      ],
+      "why_matters": "Propojování produktivních nástrojů s AI asistenty dále zvyšuje efektivitu každodenní administrativy.",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Falešné poplachy AI detektoru zbraní ve školách vedou k soudní žalobě",
+      "title_orig": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "category": "wildcard",
+      "summary_cs": [
+        "Studenti zažalovali školu a policii poté, co balíček chipsů vyvolal falešný poplach kamerového AI systému detekce zbraní.",
+        "Žaloba poukazuje na to, že přes 99 procent všech upozornění daného bezpečnostního systému byly falešné poplachy.",
+        "Případ otevírá debatu o neodpovědném nasazování nezralých AI technologií v kritických situacích."
+      ],
+      "why_matters": "Důležitá připomínka rizik spojených s vysokou chybovostí AI systémů v reálném bezpečnostním nasazení.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "source": "Ars Technica"
+    }
+  ]
+}
