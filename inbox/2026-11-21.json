@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T05:01:07.065070+00:00",
+  "generated_at": "2026-11-21T12:38:06.089880+00:00",
   "date": "2026-11-21",
-  "article_count_unique": 156,
-  "article_count_raw": 156,
+  "article_count_unique": 143,
+  "article_count_raw": 143,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "venturebeat_ai",
@@ -72,9 +72,9 @@
     },
     {
       "source_id": "import_ai",
-      "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
     },
     {
       "source_id": "tldr_ai",
@@ -91,8 +91,8 @@
     {
       "source_id": "last_week_ai",
       "status": "ok",
-      "count": 0,
-      "raw_count": 0
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "one_useful_thing",
@@ -114,9 +114,9 @@
     },
     {
       "source_id": "marcus_on_ai",
-      "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
     },
     {
       "source_id": "dwarkesh",
@@ -126,15 +126,15 @@
     },
     {
       "source_id": "zvi_vase",
-      "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "status": "error",
+      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
+      "count": 0
     },
     {
       "source_id": "interconnects",
       "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "count": 0,
+      "raw_count": 0
     },
     {
       "source_id": "arxiv_cs_ai",
@@ -164,16 +164,76 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 2,
-      "raw_count": 13
+      "raw_count": 11
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 3,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "443d9e53547af473",
+      "title": "Geniální matematik to udělal znovu. On a AI nejspíš vyřešili 167 let starý problém s pravidelností čísel",
+      "url": "https://cc.cz/genialni-matematik-to-udelal-znovu-on-a-ai-nejspis-vyresili-167-let-stary-problem-s-pravidelnosti-cisel/",
+      "published_at": "2026-11-21T12:14:15+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Levent Alpöge z Anthropicu letos vyvrátil Jacobiho domněnku a ohlásil řešení Hopfova problému. Teď prý s Claudem dokázal Riemannovu hypotézu. Článek Geniální matematik to udělal znovu. On a AI nejspíš vyřešili 167 let starý problém s pravidelností čísel se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/levent-alpoge-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "c83f2f38f9d43ff6",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "published_at": "2026-11-21T12:01:13+00:00",
+      "author": "Jonathan R. Goodman and Rebecca Sear, The Conversation",
+      "summary_raw": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "f699b4e877e1a5d5",
+      "title": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
+      "url": "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction",
+      "published_at": "2026-11-21T08:41:43+00:00",
+      "author": "",
+      "summary_raw": "Anthropic's $81B IPO, AI stocks enter a correction, Huang resigns from Nvidia, Trump and Xi agree on military AI",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!RcOW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe937cf00-17ca-41fb-866c-fd971727d6c6_3366x1906.png",
+      "source_id": "last_week_ai",
+      "source_name": "Last Week in AI",
+      "category": "newsletter"
+    },
+    {
+      "id": "2fc3b267531f68b2",
+      "title": "Hladová AI se chystá na proud z hlubin země aneb Po leteckých motorech přichází obří mikrovlnka",
+      "url": "https://cc.cz/hladova-ai-se-chysta-na-proud-z-hlubin-zeme-aneb-po-leteckych-motorech-prichazi-obri-mikrovlnka/",
+      "published_at": "2026-11-21T08:20:56+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Startup Quaise chce gyrotronem provrtat žulu do pěti kilometrů. Google od něj odebere 50 megawattů za víc než deset miliard korun. Článek Hladová AI se chystá na proud z hlubin země aneb Po leteckých motorech přichází obří mikrovlnka se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/quaise-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "adba4b8acef69b2d",
+      "title": "[AINews] Riemann Hypothesis proved...twice independently",
+      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "published_at": "2026-11-21T05:02:13+00:00",
+      "author": "swyx .ai",
+      "summary_raw": "November 20 2026 —",
+      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/46cbd562-7369-4863-b0a8-00306043d65a/image.png?t=1795236179",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "category": "commentary"
+    },
     {
       "id": "4b8b5da50faffb5b",
       "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
@@ -439,18 +499,6 @@
       "category": "cz"
     },
     {
-      "id": "95c90ccb174efb7c",
-      "title": "On Dwarkesh Patel’s November 2026 Podcast With Paul Christiano",
-      "url": "https://thezvi.substack.com/p/on-dwarkesh-patels-november-2026",
-      "published_at": "2026-11-20T15:24:40+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "Paul Christiano has a message for us: There is meaningful risk of AI taking over within even the next 6-12 months.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!dXMZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8200e57f-67d7-451b-b454-74924eb09c26_1469x629.png",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
-      "category": "commentary"
-    },
-    {
       "id": "d90413140e8f9eb4",
       "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
       "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
@@ -473,18 +521,6 @@
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
       "category": "news"
-    },
-    {
-      "id": "28f474a294c35f14",
-      "title": "Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.",
-      "url": "https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing",
-      "published_at": "2026-11-20T14:20:06+00:00",
-      "author": "Gary Marcus",
-      "summary_raw": "Anthropic, which dropped steadily after its opening yesterday, is set to drop nearly 10% more at the opening bell.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!E_uA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34e0bf-d490-4c62-aaa8-ec292cec8041_1757x988.png",
-      "source_id": "marcus_on_ai",
-      "source_name": "Marcus on AI",
-      "category": "commentary"
     },
     {
       "id": "9e126db5b24451a7",
@@ -883,18 +919,6 @@
       "category": "commentary"
     },
     {
-      "id": "2e8ede6a8f2996a2",
-      "title": "Breaking: It doesn’t look Anthropic’s IPO is going to save the tech industry",
-      "url": "https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics",
-      "published_at": "2026-11-19T20:36:26+00:00",
-      "author": "Gary Marcus",
-      "summary_raw": "Another rough day on Wall Street",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!hx38!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0d7f544-a458-480f-8b13-4fc6acaaf2f3_698x1279.png",
-      "source_id": "marcus_on_ai",
-      "source_name": "Marcus on AI",
-      "category": "commentary"
-    },
-    {
       "id": "ab6c5c0c392b6880",
       "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
       "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
@@ -928,18 +952,6 @@
       "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source_id": "verge_ai",
       "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "aa9b03c1ed508b59",
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "published_at": "2026-11-19T20:19:28+00:00",
-      "author": "Ashley Belanger",
-      "summary_raw": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
       "category": "news"
     },
     {
@@ -1123,54 +1135,6 @@
       "category": "news"
     },
     {
-      "id": "cd864867644fa713",
-      "title": "A human liver has been kept alive outside the body for a record seven weeks",
-      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-      "published_at": "2026-11-19T12:00:00+00:00",
-      "author": "Antonio Regalado",
-      "summary_raw": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "1ec0d64fde3610f5",
-      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-      "published_at": "2026-11-19T12:00:00+00:00",
-      "author": "Paresh Dave",
-      "summary_raw": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-      "hero_image": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/master/pass/Anthropic-IPO-Business-2297744238.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "0c2f0257424e78af",
-      "title": "AI #195: Opening Bell",
-      "url": "https://thezvi.substack.com/p/ai-195-opening-bell",
-      "published_at": "2026-11-19T11:56:26+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "Happy Zvi finally takes a real vacation day.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!f9Wm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F347d8230-d727-43c3-8bba-d37d95d6a873_1199x800.jpeg",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
-      "category": "commentary"
-    },
-    {
-      "id": "07ebf155c1973f67",
-      "title": "What a billion-dollar deal says about the US battery market",
-      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-      "published_at": "2026-11-19T11:00:00+00:00",
-      "author": "Casey Crownhart",
-      "summary_raw": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "9f7187c668df59f7",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
@@ -1243,18 +1207,6 @@
       "category": "labs"
     },
     {
-      "id": "d93ac74e9f8f351d",
-      "title": "Is Anthropic’s IPO a bad bet, both for investors and society?",
-      "url": "https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both",
-      "published_at": "2026-11-18T21:45:04+00:00",
-      "author": "Gary Marcus",
-      "summary_raw": "What the bull case leaves out",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!COtC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHXU6qwJaEAAS76o.jpg",
-      "source_id": "marcus_on_ai",
-      "source_name": "Marcus on AI",
-      "category": "commentary"
-    },
-    {
       "id": "f1f89a0ea127b591",
       "title": "Introducing Gemini 4 Neon",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
@@ -1301,18 +1253,6 @@
       "source_id": "deepmind_blog",
       "source_name": "Google DeepMind Blog",
       "category": "labs"
-    },
-    {
-      "id": "7eab75d495c05c60",
-      "title": "Quickly, There’s No Time",
-      "url": "https://thezvi.substack.com/p/quickly-theres-no-time",
-      "published_at": "2026-11-18T15:18:23+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "In response to the METR report, many people have been reevaluating their timelines.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!E_qv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6fbff52b-8257-4e01-8480-6deda6f36ade_1272x668.webp",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
-      "category": "commentary"
     },
     {
       "id": "b048b80fb0070e92",
@@ -1471,30 +1411,6 @@
       "category": "commentary"
     },
     {
-      "id": "dd13054cc1080c69",
-      "title": "Jensen Huang Really Liked Selling China Advanced AI Chips",
-      "url": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling",
-      "published_at": "2026-11-17T14:41:58+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "This scandal is a really big deal.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!GERv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a8abd7c-015e-4144-ba05-9604beb68750_832x900.jpeg",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
-      "category": "commentary"
-    },
-    {
-      "id": "87ce9fedf7cb17dc",
-      "title": "Wake up! America’s infrastructure is melting. And AI appears to be partly responsible.",
-      "url": "https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is",
-      "published_at": "2026-11-17T14:21:39+00:00",
-      "author": "Gary Marcus",
-      "summary_raw": "Hundreds of companies have been hit. Shit is getting very real.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!c77-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24f78575-fc16-4f41-9e7a-db44a736978e_1394x1809.png",
-      "source_id": "marcus_on_ai",
-      "source_name": "Marcus on AI",
-      "category": "commentary"
-    },
-    {
       "id": "b0cacfd0377a202d",
       "title": "Productiv-icky",
       "url": "https://www.bensbites.com/p/productiv-icky",
@@ -1579,30 +1495,6 @@
       "category": "commentary"
     },
     {
-      "id": "b7ce051150f09faa",
-      "title": "Fable 5.2 is the New Bazooka",
-      "url": "https://thezvi.substack.com/p/fable-52-is-the-new-bazooka",
-      "published_at": "2026-11-16T20:27:14+00:00",
-      "author": "Zvi Mowshowitz",
-      "summary_raw": "You do not always want a bazooka.",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!ROoP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d4d19d4-701c-49c0-aa03-9d03c12b49b5_1672x941.png",
-      "source_id": "zvi_vase",
-      "source_name": "Don't Worry About the Vase (Zvi)",
-      "category": "commentary"
-    },
-    {
-      "id": "ca8989f6581b1ca2",
-      "title": "Is there a case for impeaching Trump over Jensengate?",
-      "url": "https://garymarcus.substack.com/p/is-there-a-case-for-impeaching-trump",
-      "published_at": "2026-11-16T19:34:40+00:00",
-      "author": "Gary Marcus",
-      "summary_raw": "We need to know more, but there&#8217;s definitely enough smoke now to warrant an investigation",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!e5RV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHXPuoqhWgAEfYOD.jpg",
-      "source_id": "marcus_on_ai",
-      "source_name": "Marcus on AI",
-      "category": "commentary"
-    },
-    {
       "id": "f68f99b4252d7c01",
       "title": "Paul Christiano – We could be 12 months away from AIs that can overthrow the government",
       "url": "https://www.dwarkesh.com/p/paul-christiano-2",
@@ -1637,30 +1529,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "ebc9f974240cab74",
-      "title": "Game over, man?",
-      "url": "https://garymarcus.substack.com/p/game-over-man",
-      "published_at": "2026-11-16T16:29:36+00:00",
-      "author": "Gary Marcus",
-      "summary_raw": "Looks like the bubble has finally popped",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!XMyH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69774c20-1e39-468a-82ae-773bfcde35e1_2393x948.jpeg",
-      "source_id": "marcus_on_ai",
-      "source_name": "Marcus on AI",
-      "category": "commentary"
-    },
-    {
-      "id": "a8e089f7d4c65019",
-      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-      "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
-      "published_at": "2026-11-16T14:01:15+00:00",
-      "author": "Jack Clark",
-      "summary_raw": "Plus: CucumberVision!",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
-      "source_id": "import_ai",
-      "source_name": "Import AI (Jack Clark)",
-      "category": "newsletter"
     },
     {
       "id": "5bae39aa56a196f8",
@@ -1793,30 +1661,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "0f87ae49def0800d",
-      "title": "Open-source AI without Jensen",
-      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-      "published_at": "2026-11-14T12:23:15+00:00",
-      "author": "Nathan Lambert",
-      "summary_raw": "A decapitation. It&#8217;s time to rebuild.",
-      "hero_image": "https://substack-post-media.s3.amazonaws.com/public/images/ecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
-      "source_id": "interconnects",
-      "source_name": "Interconnects (Nathan Lambert)",
-      "category": "commentary"
-    },
-    {
-      "id": "b5a21ae22f113aab",
-      "title": "[AINews] The No AI Slop Manifesto",
-      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
-      "published_at": "2026-11-14T08:31:02+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "November 13, 2026 — AIE speakers unite to lay out how to fight slop.",
-      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/2f3fa101-2d0b-426b-9e3f-12181ec8d947/image.png?t=1794644828",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "816446490bf062e1",
