@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-21",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Vědci s pomocí AI a matematické komunity ohlásili vyřešení Riemannovy hypotézy",
+      "title_orig": "AI claimed a solution to the 167-year-old Riemann hypothesis - and a human did, too",
+      "category": "labs",
+      "summary_cs": [
+        "Matematici z Anthropicu využili model Claude k vytvoření důkazu Riemannovy hypotézy, jednoho z nejdůležitějších problémů matematiky.",
+        "Paralelně s tím lidský matematik Alessandro Masullo předložil vlastní čistě lidské řešení, které v současnosti prochází odborným recenzním řízením.",
+        "Pokud se výsledky potvrdí, půjde o historický milník v využití generativní AI pro řešení základních vědeckých otázek."
+      ],
+      "why_matters": "Průlomový milník ukazuje schopnost AI řešit nejtěžší teoretické problémy lidstva.",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI představila techniky obrany proti neoprávněné destilaci modelů",
+      "title_orig": "Combatting adversarial distillation",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI publikovala detailní rozbor svých víceúrovňových bezpečnostních systémů zaměřených na ochranu před destilací schopností modelů.",
+        "Obranná strategie kombinuje speciální trénink, detekci podezřelých dotazů i aktivní blokování pokusů o vytahování parametrů.",
+        "Ochrana duševního vlastnictví se stává klíčovým tématem pro udržitelný vývoj nejschopnějších AI systémů."
+      ],
+      "why_matters": "Významný krok k ochraně pokročilých modelů před neoprávněným kopírováním konkurencí.",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Skandál kolem šéfa Nvidie pokračuje a vyvolává obavy v technickém sektoru",
+      "title_orig": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "category": "business",
+      "summary_cs": [
+        "Dopady rezignace Jensena Huanga dál otřásají trhem, přestože Nvidia vykazuje silné finanční výsledky a pokračující růst.",
+        "Společnost oficiálně zastavila prodej čipů H200 do Číny a snaží se uklidnit investory i obchodní partnery.",
+        "Události kolem lídra čipového giganta vyvolávají otázky ohledně stability dodavatelského řetězce pro AI infrastrukturu."
+      ],
+      "why_matters": "Nejistota ve vedení Nvidie může ovlivnit globální dostupnost klíčového AI hardwaru.",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Formální verifikace kódu se stává novou zbraní v boji proti nekvalitnímu AI kódu",
+      "title_orig": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "category": "research",
+      "summary_cs": [
+        "Matematické dokazování správnosti softwaru bylo vyhrazeno specialistům, ale AI nyní pomáhá tento proces automatizovat.",
+        "Zapojení jazyka Lean a pokročilých modelů umožňuje rychlejší ověřování bezpečnosti kritických systémů.",
+        "Tento přístup řeší problém generování velkého množství nekvalitního nebo zranitelného kódu ze strany AI asistentů."
+      ],
+      "why_matters": "Automatizovaná verifikace výrazně zvýší bezpečnost softwaru vyvíjeného s pomocí AI.",
+      "url": "https://latent.space/p/formal-verification/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Čeští výzkumníci vycvičili AI na hry Counter-Strike pro krizové rozhodování",
+      "title_orig": "Češi vycvičili AI na Counter-Striku. V testu chování v krizových situacích porazila GPT i Gemini",
+      "category": "wildcard",
+      "summary_cs": [
+        "Český tým vyvinul model trénovaný v prostředí akční hry Counter-Strike zaměřený na bleskové instinktivní reakce.",
+        "V testech rychlého chování v krizových situacích překonal tento specializovaný model běžné velké systémy jako GPT či Gemini.",
+        "Výzkum ukazuje, že simulační herní prostředí jsou ideální pro trénování rychlého agentního rozhodování."
+      ],
+      "why_matters": "Český úspěch ukazuje inovativní cestu k trénování agentů pro reakce v reálném čase.",
+      "url": "https://www.lupa.cz/aktuality/cesi-vycvicili-ai-na-counter-striku-v-testu-chovani-v-krizovych-situacich-porazila-gpt-i-gemini/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Hugging Face uvádí Inkling 2 Mini pro vysoce výkonné lokální použití",
+      "title_orig": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "category": "open-source",
+      "summary_cs": [
+        "Platforma Hugging Face představila nový kompaktní model Inkling 2 Mini určený pro běh na běžném uživatelském hardwaru.",
+        "Model přináší špičkový výkon v poměru k velikosti a umožňuje zpracování dat bez nutnosti odesílání do cloudu.",
+        "Jedná se o významný posun pro vývojáře vyžadující soukromí a nízkou latenci při lokální inferenci."
+      ],
+      "why_matters": "Umožňuje firmám i jednotlivcům provozovat pokročilou AI lokálně bez sdílení dat.",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Výzkum odhalil rozsáhlý únik soukromých dat v dodavatelském řetězci AI",
+      "title_orig": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "category": "research",
+      "summary_cs": [
+        "Bezpečnostní expert nasadil miliony sledovacích řetězců do datových sad pro trénování AI modelů.",
+        "Experiment prokázal, že důvěrná data a prompty nezůstávají soukromé a unikají napříč dodavatelským řetězcem.",
+        "Zjištění zdůrazňuje nutnost přísnější regulace a auditů zacházení s trénovacími daty."
+      ],
+      "why_matters": "Varující zjištění pro všechny firmy, které do AI nástrojů vkládají citlivá data.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Donald Trump hrozí obří daní firmám stavějícím AI datacentra mimo USA",
+      "title_orig": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "category": "business",
+      "summary_cs": [
+        "Americká administrativa chce zabránit přesunu infrastruktury AI do zahraničí pomocí vysokých zdanění.",
+        "Reakce přichází v době, kdy některá americká města zavádějí omezení pro výstavbu nových energeticky náročných center.",
+        "Opatření může zkomplikovat globální plány velkých technologických firem na rozšiřování kapacity."
+      ],
+      "why_matters": "Politické zásahy do výstavby datacenter mohou ovlivnit cenotvorbu a dostupnost cloudových služeb.",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Meta přehodnocuje svoje ekologické cíle kvůli spotřebě AI datacenter",
+      "title_orig": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "category": "business",
+      "summary_cs": [
+        "Meta oficiálně přehodnocuje svůj závazek dosáhnout nulových čistých emisí do roku 2030 z důvodu vysoké spotřeby AI.",
+        "Rekordní růst emisí způsobený provozem masivních výpočetních center naráží na dosavadní udržitelné strategie.",
+        "Odborníci očekávají, že podobný krok budou nuceni učinit i další giganti v oboru."
+      ],
+      "why_matters": "Ukazuje obrovskou energetickou náročnost rozvoje AI a její dopady na udržitelnost.",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Organizace METR aktualizovala graf vývoje schopností AI a jejího úsudku",
+      "title_orig": "The most misunderstood graph in AI just got a major update",
+      "category": "research",
+      "summary_cs": [
+        "Nová zpráva METR ukazuje, že některé schopnosti AI nadále rostou exponenciálním tempem, zejména v oblasti kódování.",
+        "U komplexních úkolů vyžadujících lidský úsudek a kritické myšlení však modely stále naráží na limity.",
+        "Aktualizovaný model časového horizontu poskytuje přesnější pohled na reálné praktické využití AI."
+      ],
+      "why_matters": "Pomáhá realisticky zhodnotit, v čem je AI efektivní a kde stále vyžaduje lidský dohled.",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Signal blokuje asistenty Gemini a Siri před čtením obrazovky uživatelů",
+      "title_orig": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "category": "tools",
+      "summary_cs": [
+        "Šifrovaná platforma Signal zavádí opatření zabraňující AI agentům v operačních systémech přistupovat k obsahu správ.",
+        "Reaguje tak na nové funkce systémů Android a iOS, které analyzují obrazovku pro sběr kontextu o uživateli.",
+        "Tento krok otevírá širší debatu o konfliktu mezi soukromím komunikace a inteligentními asistenty."
+      ],
+      "why_matters": "Zásadní informace pro uživatele dbající na ochranu soukromí v éře operačních systémů s AI.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Hugging Face představuje Adaptéry pro optimalizaci testovacích rámců",
+      "title_orig": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "category": "open-source",
+      "summary_cs": [
+        "Nový nástroj od Hugging Face umožňuje snadné přizpůsobení libovolných modelů pro vyhodnocovací rámce.",
+        "Adaptéry pomáhají snížit finanční náklady na benchmarkování a zároveň zvyšují přesnost výsledků.",
+        "Vývojáři tak získávají efektivní způsob, jak srovnávat a ladit modely pro konkrétní případy užití."
+      ],
+      "why_matters": "Usnadňuje vývojářům testování a optimalizaci vlastních AI modelů za nižší náklady.",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "OpenAI rozšiřuje testování finančního výzkumu s modelem GPT-6 Astra",
+      "title_orig": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "category": "labs",
+      "summary_cs": [
+        "Platforma Hebbia otestovala model GPT-6 Astra při zpracování složitých finančních analýz a podkladů.",
+        "Předběžné výsledky ukazují výrazné zlepšení v pokrytí zdrojů, přesnosti citací a kvalitě výstupů.",
+        "Testy potvrzují postupnou specializaci pokročilých modelů pro náročné firemní segmenty."
+      ],
+      "why_matters": "Demonstruje praktické nasazení nejnovějších modelů v analyticky náročném finančním sektoru.",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Vývojáři řeší přetížení paměti při inferenci velkých směsí expertů",
+      "title_orig": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "category": "open-source",
+      "summary_cs": [
+        "Nový technický návod ukazuje metody, jak spouštět masivní 180B MoE modely na běžném hardwaru s 32 GB RAM.",
+        "Optimalizace využívá pokročilé kvantování a efektivní správu paměti v knihovně Transformers.",
+        "Postup značně snižuje hardwarové bariéry pro lokální spouštění extrémně velkých modelů."
+      ],
+      "why_matters": "Otevírá možnost provozovat obří open-source modely na dostupnějším hardwaru.",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Šest AI gadgetů pro chytřejší a efektivnější domácí kancelář",
+      "title_orig": "Six AI-powered gadgets that could make your home office smarter",
+      "category": "tools",
+      "summary_cs": [
+        "Přehled představuje nová hardwarová zařízení s integrovanou AI určená pro práci z domova.",
+        "Mezi produkty patří inteligentní zápisníky jednání, pokročilé webkamery a hardwaroví asistenti.",
+        "Zařízení ukazují posun od pouhých softwarových aplikací k dedikovanému AI hardwaru."
+      ],
+      "why_matters": "Inspirativní přehled praktických nástrojů pro zvýšení produktivity při práci na dálku.",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch AI"
+    }
+  ]
+}
