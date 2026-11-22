@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-22",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Inkling 2 Mini: Nový lokální model od Thinking Machines běží přímo v notebooku",
+      "title_orig": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
+      "category": "open-source",
+      "summary_cs": [
+        "Startup Thinking Machines pod vedením Miri Murati představil otevřený multimediální model Inkling 2 Mini.",
+        "Model využívá architekturu looped transformer a je navržen pro kompletně offline provoz na zařízeních jako MacBook s 32 GB RAM.",
+        "Tento krok představuje výraznou výzvu pro dominantní model cloudových AI služeb a posiluje vývoj lokálních AI řešení."
+      ],
+      "why_matters": "Ukazuje posun k výkonným AI modelům běžíním lokálně bez závislosti na cloudu a připojení.",
+      "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OSN se nedohodla na pravidlech pro regulaci autonomních zbraní",
+      "title_orig": "The UN fails to agree on rules regulating ‘killer robots’",
+      "category": "news",
+      "summary_cs": [
+        "Diplomaté na jednání OSN v Ženevě nedokázali schválit závazná pravidla pro autonomní zbraňové systémy.",
+        "Po týdnu vyjednávání se zástupci států shodli pouze na tom, že budou v rozhovorech o možnostech regulace pokračovat.",
+        "Neschopnost najít konsenzus prohlubuje obavy z nekontrolovaného nasazování vojenské AI v konfliktů po celém světě."
+      ],
+      "why_matters": "Absence globálních pravidel zvyšuje rizika nekontrolovaného vývoje a nasazení autonomních vojenských technologií.",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Útočníci zneužili AI k odhalení a expozici zero-day zranitelnosti během 11 minut",
+      "title_orig": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available",
+      "category": "news",
+      "summary_cs": [
+        "Amazon upozornil na případ, kdy autonomní AI agenti autonomně odhalili a zneužili bezpečnostní chybu v open-source aplikaci MONAI Label.",
+        "Celý proces od odhalení po zápis souborů mimo povolený adresář trval útočným agentům pouhých 11 minut.",
+        "Přestože byla oprava začleněna do zdrojového kódu, oficiální aktualizovaná verze zatím nebyla vydána."
+      ],
+      "why_matters": "Demonstruje extrémní rychlost, s jakou mohou autonomní AI agenti objevovat a zneužívat bezpečnostní trhliny.",
+      "url": "https://venturebeat.com/security/amazon-says-attackers-ai-agents-found-and-exploited-a-zero-day-in-11-minutes-but-no-patched-release-is-available",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Otazníky nad udržitelností strategie Anthropicu zaměřené na bezpečnost",
+      "title_orig": "Can Anthropic afford to put safety first?",
+      "category": "business",
+      "summary_cs": [
+        "Po vstupu společnosti Anthropic na burzu se analytici zaměřují na to, jak firma vyváží finanční tlaky s výzkumem bezpečnosti.",
+        "Vysoká tržní hodnota přináší očekávání investorů na rychlý růst tržeb a vývoj nových funkcí.",
+        "Debata poukazuje na možné napětí mezi komerčními cíli a původním posláním vývoje bezpečné AI."
+      ],
+      "why_matters": "Vstup na burzu prověří, zda lze udržet přísné bezpečnostní standardy pod tlakem akcionářů.",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Dvě tváře Nvidie: Rekordní výsledky versus výzvy ke návratu Jensena Huanga",
+      "title_orig": "A tale of two Nvidias",
+      "category": "business",
+      "summary_cs": [
+        "Finanční zpráva Nvidie ukazuje pokračující rekordní příjmy ze sektoru AI hardwaru.",
+        "Současně však v odvětví sílí hlasy technologických lídrů, kteří požadují návrat bývalého šéfa Jensena Huanga.",
+        "Situace ukazuje na vnitřní i vnější nejistotu ohledně budoucího strategického směřování klíčového dodavatele čipů."
+      ],
+      "why_matters": "Uspořádání ve vedení Nvidie má přímý dopad na stabilitu dodavatelského řetězce AI hardwaru.",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Hladová AI míří na energii z hlubin země: Google objednává 50 MW geotermální elektřiny",
+      "title_orig": "Hladová AI se chystá na proud z hlubin země aneb Po leteckých motorech přichází obří mikrovlnka",
+      "category": "wildcard",
+      "summary_cs": [
+        "Startup Quaise vyvíjí technologii vrtání pomocí gyrotronu do hloubky až pěti kilometrů pro získání horké páry.",
+        "Google uzavřel dohodu o odběru 50 megawattů takto získané energie v hodnotě přesahující deset miliard korun.",
+        "Projekt má zajistit stabilní a ekologický zdroj energie pro energeticky náročná datacentra AI."
+      ],
+      "why_matters": "Ukazuje inovativní způsoby, jakými technologičtí obři řeší obrovskou spotřebu energie AI infrastruktury.",
+      "url": "https://cc.cz/hladova-ai-se-chysta-na-proud-z-hlubin-zeme-aneb-po-leteckych-motorech-prichazi-obri-mikrovlnka/",
+      "source": "CzechCrunch"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Propojení AI výzkumu a fúzní energie: Zakladatel Spotify investuje do Europa Fusion",
+      "title_orig": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "category": "wildcard",
+      "summary_cs": [
+        "Zakladatel Spotify Daniel Ek finančně podpořil startup Europa Fusion, který založil výzkumník v oblasti AI.",
+        "Firma se zaměřuje na využití pokročilých modelů pro urychlení vývoje a řízení fúzních reaktorů.",
+        "Propojení AI a fyzikálního výzkumu představuje slibnou cestu k dosažení čisté a nevyčerpatelné energie."
+      ],
+      "why_matters": "Potvrzuje trend využití AI pro řešení nejnáročnějších fyzikálních a energetických výzev.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Signal zpřísňuje ochranu soukromí blokováním snímků obrazovky",
+      "title_orig": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "category": "news",
+      "summary_cs": [
+        "Šifrovaná aplikace Signal zavádí nová omezení pro pořizování snímků obrazovky na Androidu i iOS.",
+        "Krok je reakcí na roste hrozbu AI asistentů a systémových agentů, kteří mohou analyzovat obsah obrazovky.",
+        "Vývojáři považují nekontrolovaný AI dohled nad zařízeními za zásadní riziko pro soukromí uživatelů."
+      ],
+      "why_matters": "Ukazuje rostoucí konflikt mezi pokročilými AI asistenty v systémech a aplikacemi zaměřenými na soukromí.",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Rostoucí riziko výpadků: Rychlé záplatování kvůi AI zranitelnostem přetěžuje systémy",
+      "title_orig": "The Outages Are Just Getting Started",
+      "category": "news",
+      "summary_cs": [
+        "Nasazení AI nástrojů útočníky zkracuje čas mezi objevením chyby a jejím zneužitím na minimum.",
+        "Firmy jsou nuceny aplikovat bezpečnostní záplaty v nereálném tempu, což vede k častým kolapsům služeb.",
+        "Zvýšená frekvence neprověřených aktualizací vytváří nový typ nestability napříč internetovou infrastrukturou."
+      ],
+      "why_matters": "Upozorňuje na sekundární dopady zrychleného vývoje AI na stabilitu běžných IT služeb.",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Muru: Nový AI-asistovaný Rust server pro Python aplikace",
+      "title_orig": "Muru",
+      "category": "tools",
+      "summary_cs": [
+        "Autor projektu mod_wsgi představil Muru, nový webový server napsaný v jazyce Rust s pomocí AI.",
+        "Nástroj je navržen pro optimalizovaný provoz Python aplikací rozhraní WSGI a ASGI v produkčním prostředí.",
+        "Cílem je poskytnout vývojářům moderní infrastrukturu kombinující bezpečnost Rustu s flexibilitou Pythonu."
+      ],
+      "why_matters": "Praktická ukázka využití AI při stavbě vysoce výkonných systémových nástrojů pro vývojáře.",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Příliš mnoho kontextu zhoršilo odpovědi AI zákaznického servisu T-Mobile",
+      "title_orig": "Giving its AI more to read made T-Mobile's answers worse",
+      "category": "tools",
+      "summary_cs": [
+        "T-Mobile narazil na problémy při zavedení rozsáhlé dokumentace do kontextu svých AI agentů.",
+        "Agenti s přístupem k velkému množství instrukcí často nacházeli protichůdné informace a dávali špatné odpovědi.",
+        "Zkušenost ukazuje, že pouhé zvětšování kontextového okna bez čištění dat nezaručuje lepší výsledky."
+      ],
+      "why_matters": "Varovný příklad pro firmy implementující RAG a velké kontexty do zákaznických AI systémů.",
+      "url": "https://venturebeat.com/orchestration/giving-its-ai-more-to-read-made-t-mobiles-answers-worse",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Uber musel omezit kontext a uvažování u svých AI kódovacích nástrojů kvůli rozpočtu",
+      "title_orig": "Uber blew through its AI budget, then dialed back context and reasoning in its AI coding tools",
+      "category": "business",
+      "summary_cs": [
+        "Uber vyčerpal rozpočet na AI vývoj a byl nucen zavést přísné limity pro své inženýry.",
+        "Při použití Claude Code se automaticky zkracuje kontext na 400 tisíc tokenů a uvažování se nastavuje na střední úroveň.",
+        "Firma tím reaguje na vysoké provozní náklady nejvýkonnějších modelů při každodenní práci vývojářů."
+      ],
+      "why_matters": "Ilustruje ekonomickou realitu a vysoké náklady spojené s masivním nasazením vývojářských AI agentů.",
+      "url": "https://venturebeat.com/infrastructure/uber-blew-through-its-ai-budget-then-dialed-back-context-and-reasoning-in-its-ai-coding-tools",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Přehled nejzajímavějších AI agentů integrovaných do SMS a zpráv",
+      "title_orig": "Here are the top AI agents that can live in your text messages",
+      "category": "tools",
+      "summary_cs": [
+        "Přehled představitelných AI agentů, které lze používat přímo v prostředí běžných textových zpráv.",
+        "Služby pokrývají šrokou škálu využití od osobních asistentů po specializované nástroje pro rodinu a cestování.",
+        "Tento přístup umožňuje využívat pokročilou AI bez nutnosti instalovat další samostatné aplikace."
+      ],
+      "why_matters": "Přibližuje pokročilé AI funkce běžným uživatelům přes rozhraní, které denně používají.",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Licencování tváře pro mikro-dramata: Nový trend z Číny přichází do Hollywoodu",
+      "title_orig": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "category": "wildcard",
+      "summary_cs": [
+        "Hercové začínají licencovat své obličeje startupům pro automatické generování rolí v krátkých digitálních sériích.",
+        "Model je již velmi populární v Číně a postupně nachází uplatnění i v západním filmovém průmyslu.",
+        "Odborníci upozorňují na dlouhodobé právní a etické dopady tohoto přístupu na igratelství a autenticitu tvorby."
+      ],
+      "why_matters": "Ukazuje etické a praktické proměny zábavního průmyslu v důsledku nasazení generativních modelů obličejů.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Bezpečnostní týmy často nedokážou detekovat neoprávněné AI agenty v síti",
+      "title_orig": "Most security teams can't spot a rogue AI agent, says former FBI cyber investigator",
+      "category": "news",
+      "summary_cs": [
+        "Bývalý vyšetřovatel FBI upozornil na neschopnost firemních týmů identifikovat neschválené AI agenty.",
+        "Autonomní agenti často komunikují nestandardními způsoby a splývají s běžným šifrovaným provozem.",
+        "Absence monitorovacích nástrojů vytváří v podnikových sítích nové slepé úhly pro kybernetickou bezpečnost."
+      ],
+      "why_matters": "Poukázání na nové bezpečnostní riziko spojené s nekontrolovaným používáním AI agentů ve firmách.",
+      "url": "https://venturebeat.com/security/most-security-teams-cant-spot-a-rogue-ai-agent-says-former-fbi-cyber-investigator",
+      "source": "VentureBeat AI"
+    }
+  ]
+}
