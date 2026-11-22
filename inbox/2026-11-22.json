@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T05:00:54.952623+00:00",
+  "generated_at": "2026-11-22T12:34:49.360003+00:00",
   "date": "2026-11-22",
-  "article_count_unique": 131,
-  "article_count_raw": 131,
+  "article_count_unique": 124,
+  "article_count_raw": 124,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -13,14 +13,14 @@
     {
       "source_id": "verge_ai",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 18,
-      "raw_count": 18
+      "count": 16,
+      "raw_count": 16
     },
     {
       "source_id": "mit_tech_review",
@@ -31,8 +31,8 @@
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "venturebeat_ai",
@@ -163,17 +163,41 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 10
+      "count": 1,
+      "raw_count": 6
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "82be9f181b7a5361",
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "published_at": "2026-11-22T12:07:41+00:00",
+      "author": "Roslyn Henry and Peter Alexander, The Conversation",
+      "summary_raw": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/agriculture-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "c4a957b1f482f5a5",
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "published_at": "2026-11-22T11:00:00+00:00",
+      "author": "Reece Rogers",
+      "summary_raw": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "hero_image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
     {
       "id": "04649ba620a73b97",
       "title": "Muru",
@@ -655,18 +679,6 @@
       "category": "news"
     },
     {
-      "id": "43b57a23e46ccdcb",
-      "title": "Miliony dolarů pro zaměstnance, jackpot pro investory. Z burzovního debutu Anthropicu těží (zatím) všichni",
-      "url": "https://cc.cz/miliony-dolaru-pro-zamestnance-jackpot-pro-investory-z-burzovniho-debutu-anthropicu-tezi-zatim-vsichni/",
-      "published_at": "2026-11-20T15:26:50+00:00",
-      "author": "David Zlomek",
-      "summary_raw": "Na úspěchu tvůrce umělé inteligence Claude pohádkově zbohatli i herec Ashton Kutcher, dubajský developer nebo zakladatel Skypu. Článek Miliony dolarů pro zaměstnance, jackpot pro investory. Z burzovního debutu Anthropicu těží (zatím) všichni se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/dario-and-daniela-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
       "id": "d90413140e8f9eb4",
       "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
       "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
@@ -763,78 +775,6 @@
       "category": "news"
     },
     {
-      "id": "c059bdc969ffaec6",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "published_at": "2026-11-20T12:30:47+00:00",
-      "author": "Jess Weatherbed",
-      "summary_raw": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "c822e70b884eba1e",
-      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
-      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
-      "published_at": "2026-11-20T12:30:29+00:00",
-      "author": "Cyrus Farivar",
-      "summary_raw": "Gambling? We're just swapping contracts!",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-186821059-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "721c50c903c9c8c6",
-      "title": "Science has a home here at Ars—please help keep it that way",
-      "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
-      "published_at": "2026-11-20T12:15:36+00:00",
-      "author": "John Timmer",
-      "summary_raw": "Your support for Ars matters more now than ever.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-petri-dish-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "9aec8f0f0fc927dd",
-      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
-      "published_at": "2026-11-20T12:00:43+00:00",
-      "author": "Jon Brodkin",
-      "summary_raw": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-1152x648-1795123696.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "341928c6cec10d15",
-      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
-      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-      "published_at": "2026-11-20T12:00:00+00:00",
-      "author": "Jason Parham",
-      "summary_raw": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-      "hero_image": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "5a2f14a6997a3302",
-      "title": "Regular Tech Bros Are Worried About Honeypots",
-      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
-      "published_at": "2026-11-20T11:00:00+00:00",
-      "author": "Kate Taylor, Caroline Haskins",
-      "summary_raw": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
-      "hero_image": "https://media.wired.com/photos/6afbae0afa103e595fff7d74/master/pass/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "d459c02576475334",
       "title": "Combatting adversarial distillation",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
@@ -857,30 +797,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "f9e6b9ddd72f6613",
-      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "published_at": "2026-11-20T07:00:00+00:00",
-      "author": "Joel Khalili",
-      "summary_raw": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-      "hero_image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "fb749fab57386fcc",
-      "title": "Češi postaví velké AI datacentrum ve Finsku, Jensen Huang chce zpět do Nvidie, Anthropic úspěšně vstoupil na burzu",
-      "url": "https://www.lupa.cz/clanky/cesi-postavi-velke-ai-datacentrum-ve-finsku-jensen-huang-chce-zpet-do-nvidie-anthropic-uspesne-vstoupil-na-burzu/",
-      "published_at": "2026-11-20T05:30:00+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "Nvidia dál láme rekordy. Nový AI model Gemini 4 Hydrogen. Demis Hassabis získal pět miliard dolarů na AI vývoj léků. Zprávy z technologií, každý pátek na Lupě.",
-      "hero_image": "https://i.iinfo.cz/images/479/damir-spoljaric-vshosting-contabo-gi21-2.png",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
     },
     {
       "id": "7bd00d6f5031a8a9",
