@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-23",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Banky zakazují přístup AI agentům třetích stran k zákaznickým účtům",
+      "title_orig": "Banks Have Had It Up to Here With Your AI Agent",
+      "category": "business",
+      "summary_cs": [
+        "Velké americké finanční instituce začaly aktivně blokovat přihlašování autonomních AI agentů třetích stran do bankovních účtů klientů.",
+        "Banky varují uživatele, že jakékoliv finanční škody nebo chybné transakce způsobené automatizovanými boty nebudou kryty garancemi a padají plně na odpovědnost majitele účtu.",
+        "Tento krok reaguje na masový nárůst používání autonomních nákupních a správy financí zaměřených AI asistentů."
+      ],
+      "why_matters": "Ukazuje jasné právní a bezpečnostní hranice při nasazování autonomních AI agentů ve finančním sektoru.",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Seznam chystá generování obecního zpravodajství pomocí AI z úředních desek",
+      "title_orig": "Seznam chce skládat obecní zprávy pomocí AI. Ustupuje od širšího zpoplatnění zpravodajství",
+      "category": "news",
+      "summary_cs": [
+        "Česká internetová jednička Seznam vyvíjí automatizovaný systém pro analýzu veřejných dokumentů a zápisů z jednání obcí.",
+        "AI model bude z úředních desek a dokumentů samospráv vytvářet přehledné regionální zprávy určené přímo na domovskou stránku Seznamu.",
+        "Firma tímto krokem zároveň posiluje lokální zpravodajství a ustupuje od dříve zvažovaného širšího zpoplatnění svého obsahu."
+      ],
+      "why_matters": "Zásadní český use-case ukazuje využití AI pro automatizaci hyperlokálního zpravodajství a veřejných dat.",
+      "url": "https://www.lupa.cz/clanky/matej-husek-seznam-zpravodajstvi-ai-umela-inteligence/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 3,
+      "title_cs": "OpenAI vysvětluje metriku Perplexity pro měření pokroku a schopností modelů",
+      "title_orig": "Perplexity and Intelligence",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI ve svém novém článku popisuje, jak matice perplexity pomáhá přesně vyhodnocovat pokrok a vnitřní schopnosti pokročilých AI modelů.",
+        "Společnost navrhuje standardizovaný přístup k měření přirozené inteligence modelů, který má nahradit dosavadní zjednodušené benchmarky.",
+        "Článek podrobně rozebírá vztah mezi snížením perplexity a reálným zlepšením uvažování u nových generací LLM."
+      ],
+      "why_matters": "Nová metodika OpenAI nastavuje standard pro objektivní hodnocení pokroku a inteligence budoucích frontier modelů.",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Vzniká koncept řízení rizik pro AI agenty přistupující k firemním nástrojům",
+      "title_orig": "Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents",
+      "category": "research",
+      "summary_cs": [
+        "Nová výzkumná práce navrhuje architekturu, která odděluje generativní návrhy AI agentů od samotného schvalování a provádění akcí ve firemních systémech.",
+        "Systém vytváří striktní bezpečnostní hranici pro autorizaci API volání a přístup k databázi přímo za chodu agenta.",
+        "Cílem je zamezit neoprávněným nebo škodlivým operacím v případech, kdy AI agent samostatně ovládá podnikové nástroje."
+      ],
+      "why_matters": "Řeší kritický bezpečnostní požadavek firem pro bezpečné zapojení autonomních AI agentů do reálných procesů.",
+      "url": "https://arxiv.org/abs/2611.26966",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Vybraní investoři vysvětlují miliardové sázky na Anthropic před vstoupením na burzu",
+      "title_orig": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "category": "business",
+      "summary_cs": [
+        "Klíčoví investiční partneři z Notable Capital a GIC odhalili pozadí svých masivních investic do společnosti Anthropic.",
+        "Rozbor popisuje hlavní důvody důvěry v bezpečnostně orientovanou strategii Anthropicu a jeho ekosystém kolem modelu Claude.",
+        "Článek analyzuje finanční metriky a valuační očekávání před dokončením historicky největšího vstupu AI firmy na veřejnou burzu."
+      ],
+      "why_matters": "Odkrývá investiční logiku a ocenění jednoho z nejvýznamnějších AI vývojářů současnosti.",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenAI odhalila zákulisí vývoje vlastních čipů a optimalizace RISC-V obvodů",
+      "title_orig": "Advancing chip design with OpenAI models",
+      "category": "labs",
+      "summary_cs": [
+        "OpenAI zveřejnila podrobnosti o nasazení modelů GPT-6 Astra při vývoji a optimalizaci hardwarových čipů Jalapeño.",
+        "Pokročilé modely dokázaly zefektivnit návrhy elektronických obvodů a výrazně vylepšit architekturu RISC-V jader.",
+        "Případová studie potvrzuje nastupující trend, kdy samotná AI zrychluje vývoj další generace specializovaného křemíkového hardwaru."
+      ],
+      "why_matters": "Ukazuje využití frontier modelů k přímé akceleraci vývoje nového hardwaru a AI akcelerátorů.",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "ToumaII přináší rozsáhlý open-source dataset pro trénování volání nástrojů u AI agentů",
+      "title_orig": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+      "category": "open-source",
+      "summary_cs": [
+        "Výzkumníci zveřejnili dataset ToumaII obsahující 4,5 milionu preferenčních párů zaměřených na přesnost volání API a nástrojů.",
+        "Součástí projektu je také generátor nezávislý na zdroji dat, který pomáhá modelům lépe zvládat komplexní vícekrokové úlohy.",
+        "Tento zdroj řeší častý problém, kdy běžné fine-tuning metody nedokážou AI naučit správně reagovat na chybové stavy rozhraní."
+      ],
+      "why_matters": "Volně dostupný dataset výrazně pomůže vývojářům open-source modelů při stavbě spolehlivých AI agentů.",
+      "url": "https://arxiv.org/abs/2611.26722",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Větší počet AI agentů v týmu nemusí automaticky zvýšit produktivitu brainstormingu",
+      "title_orig": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+      "category": "research",
+      "summary_cs": [
+        "Nová studie zkoumala efektivitu lidsko-strojových týmů při zapojení jednoho nebo více různorodých AI agentů.",
+        "Výsledky ukazují, že samotné přidání dalších AI partnerů bez úpravy jejich chování nevede k lepší kvalitě nápadů ani k rozmanitosti řešení.",
+        "Klíčem k úspěchu se ukázala být personalizace a správně nastavená kooperace mezi člověkem a jednotlivými AI agenty."
+      ],
+      "why_matters": "Přináší empirická data o tom, jak správně sestavovat týmy lidí a AI pro kreativní procesy.",
+      "url": "https://arxiv.org/abs/2611.26663",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Pětina odpovědí AI finančních analytiků obsahuje smyšlenou argumentaci i při správných číslech",
+      "title_orig": "Right Numbers, Wrong Story: When LLMs Narrate Financial Changes Beyond Their Inputs",
+      "category": "research",
+      "summary_cs": [
+        "Výzkum odhalil fenomén nevhodného rámcování, kdy LLM při psaní finančních zpráv uvede přesná čísla, ale vymyslí si jejich příčiny.",
+        "Jazykové modely mají tendenci doplňovat vlastní hodnotící úsudky a zdůvodnění, která z původních podkladových dat vůbec nevyplývají.",
+        "Tento problém se objevuje u AI generovaných zpráv nesrovnatelně častěji než u textů psaných lidskými analytiky."
+      ],
+      "why_matters": "Varuje před skrytým rizikem halucinací u AI modelů při automatické tvorbě korporátních výkazů a analýz.",
+      "url": "https://arxiv.org/abs/2611.26968",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Kritická infrastruktura čelí výpadkům kvůli zrychlenému vydávání AI aktualizací",
+      "title_orig": "Even the fastest AI clusters can be held back by their release pipelines",
+      "category": "news",
+      "summary_cs": [
+        "Provozovatelé velkých AI výpočetních clusterů narážejí na limity svých automatizovaných systémů pro nasazování aktualizací.",
+        "Rychlé záplatování a změny v kódové základně způsobují neplánované restarty a přetížení infrastruktury na produkčních zónách.",
+        "Článek ukazuje, že i ten nejrychlejší AI hardware selhává, pokud selžou bezpečnostní limity v průběžné integraci softwaru."
+      ],
+      "why_matters": "Praktický pohled na skryté technické dluhy a rizika spojená s provozem masivních AI datacentrových clusterů.",
+      "url": "https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Astra pro právo dosáhla prvního místa v hodnocení právní inteligence AI",
+      "title_orig": "Astra for Law leads in legal intelligence",
+      "category": "tools",
+      "summary_cs": [
+        "Specializovaný model Astra pro právní odvětví zvítězil ve srovnávacím testování napříč 24 různými právními obory.",
+        "OpenAI v návaznosti na to zpřístupnila tuto funkcionalitu všem firemním zákazníkům s licencí ChatGPT Enterprise.",
+        "Nástroj pomáhá právním týmům s komplexní rešerší judikatury, analýzou kontraktů i přípravou podkladů pro jednání."
+      ],
+      "why_matters": "Demonstruje posun AI modelů směrem ke specializovaným vertikálním nástrojům pro vysoce regulované obory.",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Vývojáři hry Binding of Isaac odstranili AI hudbu po kritice a protestech hráčů",
+      "title_orig": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "category": "wildcard",
+      "summary_cs": [
+        "Datadisk pro populární hru The Binding of Isaac čelil vlně negativních hodnocení poté, co hráči odhalili přítomnost AI vygenerované hudby.",
+        "V souborech hry byly nalezeny stopy generátoru Suno využitá pro specifické podbarvení jedné z herních sekcí.",
+        "Vývojáři reagovali okamžitým odstraněním dotčených skladeb a nahrazením za autorskou hudbu od lidských skladatelů."
+      ],
+      "why_matters": "Ilustruje silný odpor herní komunity k neoznačenému využívání generativní AI v komerčních titulech.",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Rumble-2-Flash představuje otevřený řečový model pro více než 40 jazyků",
+      "title_orig": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "category": "open-source",
+      "summary_cs": [
+        "Na platformě Hugging Face vyšel nový kompaktní model Rumble-2-Flash s polovičním počtem miliard parametrů.",
+        "Model je navržený pro extrémně rychlý přepis a zpracování mluveného slova v reálném čase pro více než 40 světových jazyků.",
+        "Díky nízkým hardwarovým nárokům je ideální pro nasazení přímo na lokálních zařízeních bez nutnosti cloudového rozhraní."
+      ],
+      "why_matters": "Poskytuje vývojářům efektivní open-source alternativu pro lokální zpracování hlasových příkazů a přepisu řeči.",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Echokardiografie a patologie získávají nový interpretovatelný multimodální model",
+      "title_orig": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
+      "category": "research",
+      "summary_cs": [
+        "Vědci představili multimodální LLM určený pro analýzu imunitního mikroprostředí nádorů ze snímků tkání.",
+        "Model neposkytuje pouze finální diagnózu, ale nabízí krok za krokem vysvětlitelné odůvodnění buněčných struktur.",
+        "Propojení tkáňové architektury s fenotypy buněk pomáhá patologům přesněji určovat stanovení léčby onkologických pacientů."
+      ],
+      "why_matters": "Ukazuje pokrok ve využití interpretovatelné AI pro kritické medicínské diagnózy v onkologii.",
+      "url": "https://arxiv.org/abs/2611.26794",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Revolut zrychlil vývoj kódování o třetinu díky integraci rozhraní Codex",
+      "title_orig": "How Revolut raises ambition without lowering the bar",
+      "category": "tools",
+      "summary_cs": [
+        "Fintechový gigant Revolut publikoval výsledky rozsáhlého nasazení modelů OpenAI a asistenta Codex napříč vývojovými týmy.",
+        "Vývojářům se podařilo zkrátit čas potřebný k psaní a revizi kódu o 30 až 60 procent při zachování přísných bezpečnostních standardů.",
+        "AI nástroje zároveň pomáhají zrychlit vyšetřování finanční kriminality a analýzu neobvyklých transakcí."
+      ],
+      "why_matters": "Jasný důkaz reálného zrychlení vývoje a zvýšení efektivity ve velké finanční instituci.",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "source": "OpenAI Blog"
+    }
+  ]
+}
