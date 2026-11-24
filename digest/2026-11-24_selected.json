@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-24",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Jensen Huang se nečekaně vrací do čela Nvidie s podporou Donalda Trumpa",
+      "title_orig": "NVIDIA brings back Jensen Huang as CEO just six days after ruling out his return",
+      "category": "business",
+      "summary_cs": [
+        "Představenstvo společnosti Nvidia znovujmenovalo Jensena Huanga do funkce výkonného ředitele pouhých šest dní poté, co jeho návrat veřejně vyloučilo.",
+        "Rozhodnutí následovalo po zásahu prezidentské administrativy USA a potvrzení, že návrat nepředstavuje bezpečnostní riziko.",
+        "Akcie společnosti na zprávu reagovaly okamžitým růstem a zklidněním tržní nejistoty."
+      ],
+      "why_matters": "Návrat klíčové osobnosti AI průmyslu stabilizuje trh s hardwarovou infrastrukturou.",
+      "url": "https://venturebeat.com/technology/nvidia-brings-back-jensen-huang-as-ceo-just-six-days-after-ruling-out-his-return",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Z.ai uvádí model GLM-5.4 využívající novou architekturu Loop Transformer",
+      "title_orig": "Z.ai's GLM-5.4 aims to match models up to four times its size by running 28 layers twice",
+      "category": "labs",
+      "summary_cs": [
+        "Čínské výzkumné studio Z.ai představilo vlajkový model GLM-5.4 zaměřený na pokročilé kódování.",
+        "Model využívá architekturu Loop Transformer, která opakovaně prochází stejné vrstvy sítě namísto přidávání nových parametrů.",
+        "Díky tomuto přístupu dosahuje výkonu srovnatelného s až čtyřnásobně většími modely při zachování nižších nároků."
+      ],
+      "why_matters": "Ukazuje nový směr zefektivnění výpočetního výkonu bez nutnosti neustálého zvětšování modelů.",
+      "url": "https://venturebeat.com/technology/z-ais-glm-5-4-aims-to-match-models-up-to-four-times-its-size-by-running-28-layers-twice",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Anthropic spouští Claude Ship pro automatické schvalování a opravy kódu",
+      "title_orig": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "category": "tools",
+      "summary_cs": [
+        "Nová sada nástrojů Claude Ship umožňuje AI agentům autonomně kontrolovat, opravovat a schvalovat změny v kódové základně.",
+        "Cílem vývojářů je odstranit úzké hrdlo při revizi kódu vznikajícího masivním nasazením AI kódovacích asistentů.",
+        "Agenti dokáží samostatně řešit rutinní pull requesty a zrychlit vývojový cyklus softwaru."
+      ],
+      "why_matters": "Zásadně zrychluje vývoj softwaru automatizací finální kontroly a schvalování kódu.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Amazon kupuje technologii pro optimalizaci AI od startupu Decart za 7,5 miliardy dolarů",
+      "title_orig": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "category": "business",
+      "summary_cs": [
+        "Amazon získal výzkumný tým a technologie startupu Decart specializovaného na optimalizaci modelů.",
+        "Akvizice má posílit vlastní hardwarovou infrastrukturu Amazonu a přípravu na prodej čipů Trainium.",
+        "Obchod v hodnotě 7,5 miliardy dolarů podtrhuje snahu velkých hráčů o nezávislost na dodávkách Nvidie."
+      ],
+      "why_matters": "Posiluje konkurenci na poli výpočetního hardwaru pro trénování i inferenci AI.",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI a Cisco představují open-source nástroj Shirudo pro zabezpečení Linuxu",
+      "title_orig": "OpenAI and Cisco introduce Shirudo",
+      "category": "open-source",
+      "summary_cs": [
+        "Společnosti OpenAI a Cisco společně vydaly otevřené bezpečnostní prostředí s názvem Shirudo.",
+        "Nástroj je určen pro operační systém Linux a pomáhá chránit běžící systémy během nasazování aktualizací a záplat.",
+        "Řešení reaguje na rostoucí potřebu zabezpečení infrastruktury obsluhované autonomními agenti."
+      ],
+      "why_matters": "Přináší otevřený standard pro bezpečné nasazování oprav v produkčních systémech.",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Google DeepMind využívá agentní týmy k hledání rychlejších kvantových algoritmů",
+      "title_orig": "Finding faster quantum algorithms with agents and formal verification",
+      "category": "labs",
+      "summary_cs": [
+        "Výzkumníci z Google DeepMind nasadili kooperující AI agenty pro návrh kvantových algoritmů.",
+        "Proces využívá formální verifikaci k ověření správnosti navržených matematických postupů.",
+        "Nové algoritmy mají najít využití při simulacích jaderné fúze a pokročilém chemickém výzkumu."
+      ],
+      "why_matters": "Demonstruje praktické využití AI agentů k řešení složitých vědeckých a fyzikálních problémů.",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Google rozšiřuje AI Mode vyhledávání o integraci s Peněženkou a Diskem",
+      "title_orig": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "category": "tools",
+      "summary_cs": [
+        "AI režim ve vyhledávači Google získává přístup k osobním datům z aplikací Disk, Peněženka a Gemini.",
+        "Uživatelé mohou pokládat dotazy vyžadující přímo kontext jejich vlastních dokumentů a uložených transakcí.",
+        "Krok představuje další posun směrem k plně personalizovaným virtuálním asistentům."
+      ],
+      "why_matters": "Umožňuje běžným uživatelům prohledávat vlastní soukromá data přímo přes rozhraní vyhledávače.",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Sierra získává miliardovou investici a zvyšuje hodnotu na 30 miliard dolarů",
+      "title_orig": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "category": "business",
+      "summary_cs": [
+        "Enterprise startup Sierra zaměřený na zákaznickou péči získal v novém investičním kole 1,75 miliardy dolarů.",
+        "Společnost během šesti měsíců zdvojnásobila svou validaci na současných 30 miliard dolarů.",
+        "Růst potvrzuje masivní poptávku firem po autonomních systémech pro komunikaci se zákazníky."
+      ],
+      "why_matters": "Ukazuje komerční úspěch specializovaných AI agentů pro podnikový sektor.",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Srovnání modelů Anthropic ukazuje vysoké nároky Fable 5.2 při podobném výkonu",
+      "title_orig": "Claude Fable 5.2 cost three times as much as Opus 5.5 for nearly the same results in a VentureBeat bug-fixing test",
+      "category": "news",
+      "summary_cs": [
+        "Nezávislý test redakce VentureBeat srovnával schopnosti modelů Claude Fable 5.2 a Opus 5.5 při opravování chyb v kódu.",
+        "Model Fable vyřešil 10 z 15 úkolů při nákladech 89 dolarů, zatímco Opus zvládl 9 úkolů za 29 dolarů.",
+        "Výsledek ukazuje na výrazný rozdíl v cenové efektivitě bez odpovídajícího nárůstu úspěšnosti."
+      ],
+      "why_matters": "Upozorňuje na důležitost hlídání finančních nákladů při výběru LLM pro vývoj.",
+      "url": "https://venturebeat.com/orchestration/claude-fable-5-2-cost-three-times-as-much-as-opus-5-5-for-nearly-the-same-results-in-a-venturebeat-bug-fixing-test",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Značka Nothing předvedla sluchátka Ear Note s AI přepisovačem rozhovorů",
+      "title_orig": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost Nothing připravuje nová bezdrátová sluchátka Ear Note vybavená mikrofonem pro záznam zvuku.",
+        "Zařízení dokáže nahrávat konverzace a pomocí AI generovat jejich přepis i strukturovaný sumarizovaný přehled.",
+        "Záznamy a výstupy bude možné spravovat v navázané mobilní aplikaci."
+      ],
+      "why_matters": "Přináší pokročilé AI funkce pro záznam jednání přímo do běžného nositelného hardwaru.",
+      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "RoboTrack představuje nový přístup k sledování bodů pro robotickou manipulaci",
+      "title_orig": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "category": "open-source",
+      "summary_cs": [
+        "Na platformě Hugging Face se objevil nový projekt RoboTrack zaměřený na vizuální navigaci robotů.",
+        "Systém přesně sleduje kotevní body na předmětech v reálném čase, což usnadňuje manipulaci s objekty.",
+        "Nástroj pomáhá zpřesnit pohyb robotických ramen v neznámém nebo proměnlivém prostředí."
+      ],
+      "why_matters": "Posouvá možnosti praktické robotiky a fyzické automatizace v reálném světě.",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Nvidia vstupuje do oblasti rozhraní mezi mozkem a počítačem",
+      "title_orig": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "category": "wildcard",
+      "summary_cs": [
+        "Společnost Paradromics začala využívat hardwarové a softwarové řešení od Nvidie k zpracování mozkových signálů.",
+        "Výpočetní výkon Nvidie umožňuje v reálném čase analyzovat masivní objemy dat z neuronových rozhraní.",
+        "Spolupráce zrychluje vývoj technologií pro přímé propojení lidského mozku s počítačem."
+      ],
+      "why_matters": "Propojení AI hardwaru a neurotechnologií otevírá nové možnosti v medicíně i řízení počítačů.",
+      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Klimatická konference COP31 narazila na energetické nároky AI datacenter",
+      "title_orig": "AI data centers throw another wrench into chaotic UN climate talks",
+      "category": "news",
+      "summary_cs": [
+        "Klimatický summit OSN COP31 skončil bez jasné dohody mimo jiné kvůli debatám o spotřebě datových center.",
+        "Rostoucí energetické nároky AI infrastruktury naráží na cíle zrychlení přechodu k obnovitelným zdrojům.",
+        "Delegáti řešili výzvu, jak zajistit čistou energii pro digitální ekonomiku i tradiční průmysl."
+      ],
+      "why_matters": "Zobrazuje rostoucí globální napětí mezi rozvojem AI a cíli udržitelnosti.",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Americké státy žalují SpaceX kvůli generování CSAM a deepfakes modelem Grok",
+      "title_orig": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "category": "news",
+      "summary_cs": [
+        "Generální prokurátoři států Oregon a Virginia podali žalobu na společnost SpaceX kvůi funkci generátoru v AI Grok.",
+        "Žaloba tvrdí, že systém nedisponuje dostatečnými bezpečnostními pojistkami proti tvorbě škodlivého obsahu.",
+        "Společnost se hájí tím, že veškeré výstupy procházejí filtrem, což úřady považují za nedostatečné."
+      ],
+      "why_matters": "Zesiluje právní tlak na tvůrce AI modelů ohledně odpovědnosti za generovaný obsah.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Průvodce vytvořením a údržbou evaluací pro AI agenty",
+      "title_orig": "How to build and maintain an agentic evaluation",
+      "category": "open-source",
+      "summary_cs": [
+        "Hugging Face zveřejnil metodický návod zaměřený na měření úspěšnosti a spolehlivosti autonomních agentů.",
+        "Text popisuje způsoby stavby vyhodnocovacích prostředí a testovacích sad pro více-krokové úlohy.",
+        "Důraz je kladen na dlouhodobou údržbu benchmarků, které reagují na postupný vývoj schopností modelů."
+      ],
+      "why_matters": "Poskytuje praktické postupy pro vývojáře při testování komplexního chování AI agentů.",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face Blog"
+    }
+  ]
+}
