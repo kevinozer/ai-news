@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T05:01:21.129356+00:00",
+  "generated_at": "2026-11-24T14:52:24.841122+00:00",
   "date": "2026-11-24",
-  "article_count_unique": 126,
-  "article_count_raw": 126,
+  "article_count_unique": 147,
+  "article_count_raw": 147,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -19,20 +19,20 @@
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 13,
-      "raw_count": 13
+      "count": 15,
+      "raw_count": 15
     },
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 3,
-      "raw_count": 3
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 21,
-      "raw_count": 21
+      "count": 20,
+      "raw_count": 20
     },
     {
       "source_id": "anthropic_news",
@@ -72,15 +72,15 @@
     },
     {
       "source_id": "import_ai",
-      "status": "error",
-      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
-      "count": 0
+      "status": "ok",
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "tldr_ai",
       "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "count": 2,
+      "raw_count": 2
     },
     {
       "source_id": "bens_bites",
@@ -103,20 +103,20 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 4,
-      "raw_count": 4
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 9,
-      "raw_count": 9
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "marcus_on_ai",
-      "status": "error",
-      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
-      "count": 0
+      "status": "ok",
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "dwarkesh",
@@ -126,9 +126,9 @@
     },
     {
       "source_id": "zvi_vase",
-      "status": "error",
-      "error": "RuntimeError: Feed parse error: <unknown>:2:1326: not well-formed (invalid token)",
-      "count": 0
+      "status": "ok",
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "interconnects",
@@ -163,17 +163,185 @@
     {
       "source_id": "lupa_cz",
       "status": "ok",
-      "count": 2,
-      "raw_count": 5
+      "count": 5,
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "5a4db88da5e4fc1b",
+      "title": "Stát dohání pravidla na používání AI ve zdravotnictví, ta se v nemocnicích aktivně využívá",
+      "url": "https://www.lupa.cz/aktuality/stat-dohani-pravidla-na-pouzivani-ai-ve-zdravotnictvi-ta-se-v-nemocnicich-aktivne-vyuziva/",
+      "published_at": "2026-11-24T14:11:50+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Ministerstvo zdravotnictví představilo první resortní strategii, která má sjednotit pravidla pro ověřování a zavádění technologií AI do zdravotní péče. Chce ře&#353;it mimo jiné ochranu dat nebo pravidla toho, jak se inovace budou hradit z veřejného zdravotního poji&#353;tění. Umělá inteligence se mezitím v českých zdravotnických zařízeních roz&#353;ířila, podle průzkumu resortu už ji využívají nebo alespoň testovaly dvě třetiny těchto institucí.",
+      "hero_image": "https://i.iinfo.cz/images/146/zdarvotnictvi-lekar-vysetreni-1.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "44b748cc360357b2",
+      "title": "Commitment issues (app edition)",
+      "url": "https://www.bensbites.com/p/commitment-issues-app-edition",
+      "published_at": "2026-11-24T14:04:45+00:00",
+      "author": "Ben Tossell",
+      "summary_raw": "It&#8217;s not me, it&#8217;s you",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!DPzK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe6021f14-f83a-451e-b6b1-de721dad5135_1100x603.gif",
+      "source_id": "bens_bites",
+      "source_name": "Ben's Bites",
+      "category": "newsletter"
+    },
+    {
+      "id": "4982f5653e614533",
+      "title": "Mladí bez ní nedají ránu a přidávají se i senioři. Češi začali ve velkém používat AI",
+      "url": "https://www.lupa.cz/aktuality/mladi-bez-ni-nedaji-ranu-a-pridavaji-se-i-seniori-cesi-zacali-ve-velkem-pouzivat-ai/",
+      "published_at": "2026-11-24T13:13:04+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Če&#353;i stále více používají nástroje takzvané umělé inteligence, mezi něž patří ChatGPT, Claude, Gemini a dal&#353;í. Český statistický úřad (ČSÚ) publikoval data, podle nichž AI používá více než polovina dospělé či dospívající populace. AI nasazují pro vyhledávání informací, konverzaci, tvorbě textu nebo programování.",
+      "hero_image": "https://i.iinfo.cz/images/140/ai-umela-inteligence.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "0c17fb11588e794b",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "published_at": "2026-11-24T13:10:00+00:00",
+      "author": "Thomas Macaulay",
+      "summary_raw": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a wait that&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2024/06/MIT_Gamification_Badges-thumb.png?w=840",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "39fc387fb424733b",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "published_at": "2026-11-24T12:30:05+00:00",
+      "author": "Dan Goodin",
+      "summary_raw": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "35ff33e61af7b654",
+      "title": "One terminal command gave my forgotten Android device a desk job",
+      "url": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+      "published_at": "2026-11-24T12:15:38+00:00",
+      "author": "Nick Indge",
+      "summary_raw": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PhoneBox_Tablet_Home_Screen_TYS-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "7d187c1e02bbc92b",
+      "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+      "published_at": "2026-11-24T12:00:57+00:00",
+      "author": "Jeremy Hsu",
+      "summary_raw": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/merkury-fire_benghazi-libya_20261122_054739_ssc4_rgb_flat_50cm_1920px_logo_geo-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "7564cf4f0514ec0e",
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "published_at": "2026-11-24T11:00:00+00:00",
+      "author": "Casey Crownhart",
+      "summary_raw": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.&#160;&#160; xAI’s&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "e8a7b412475be322",
+      "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+      "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+      "published_at": "2026-11-24T10:45:00+00:00",
+      "author": "Elana Klein",
+      "summary_raw": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+      "hero_image": "https://media.wired.com/photos/6b04ca840ad1d7b44d47c2ed/master/pass/Dont-Bring-Up-AI-if-You-Want-to-Enjoy-Thanksgiving-Business.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "54f7d44092575cb4",
+      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "published_at": "2026-11-24T10:15:00+00:00",
+      "author": "Isabella Ward",
+      "summary_raw": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+      "hero_image": "https://media.wired.com/photos/6b04a99395eb5d98cc1eb23a/master/pass/112326-Riemann-hypothesis-ai.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "f646f4bc404104e7",
+      "title": "České 3D tiskárny Průša lze nyní ovládat přes ChatGPT, Claude či Gemini. Služba je zdarma",
+      "url": "https://www.lupa.cz/aktuality/ceske-3d-tiskarny-prusa-lze-nyni-ovladat-pres-chatgpt-claude-ci-gemini-sluzba-je-zdarma/",
+      "published_at": "2026-11-24T08:24:03+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "České 3D tiskárny od společnosti Prusa Research je nyní možné ovládat i pomocí umělé inteligence typu ChatGPT, Claude, Gemini a podobně. Firma spustila službu Prusa MCP, tedy oficiálně podporuje protokol MCP, pomocí něhož se lze s tiskárnami spojit. MCP komunikuje s Prusa Connect či PrusaLink. Služba je k dispozici zdarma.",
+      "hero_image": "https://i.iinfo.cz/images/103/tiskarny-prusa-research-v-kunsthalle.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "1295512737855445",
+      "title": "Krize v manželství je přivedla k vlastní aplikaci. Dnes jejich AI hra pro páry vydělává desítky tisíc měsíčně",
+      "url": "https://cc.cz/krize-v-manzelstvi-je-privedla-k-vlastni-aplikaci-dnes-jejich-ai-hra-pro-pary-vydelava-desitky-tisic-mesicne/",
+      "published_at": "2026-11-24T05:37:08+00:00",
+      "author": "Michaela Prešinská",
+      "summary_raw": "Když Jakub Sobotka nevěděl, jak své ženě pomoct s úzkostmi, rozhodl se pro ni vytvořit aplikaci. Z původně osobního projektu je dnes slušný byznys. Článek Krize v manželství je přivedla k vlastní aplikaci. Dnes jejich AI hra pro páry vydělává desítky tisíc měsíčně se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/i-choose-you-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "c32ba59b586753e4",
+      "title": "Dlouhé roky upozorňuje, že AI zničí lidstvo. Teď na ní vydělal stovky miliard. Je to paradox, přiznává",
+      "url": "https://cc.cz/dlouhe-roky-upozornuje-ze-ai-znici-lidstvo-ted-na-ni-vydelal-stovky-miliard-je-to-paradox-priznava/",
+      "published_at": "2026-11-24T05:34:26+00:00",
+      "author": "Luboš Kreč",
+      "summary_raw": "Estonec Jaan Tallinn vložil do Anthropicu zhruba miliardu korun. Po vstupu firmy na burzu má jeho podíl hodnotu kolem 340 miliard korun. Článek Dlouhé roky upozorňuje, že AI zničí lidstvo. Teď na ní vydělal stovky miliard. Je to paradox, přiznává se nejdříve objevil na CzechCrunch .",
+      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/tallinn-815x509.jpg",
+      "source_id": "czechcrunch",
+      "source_name": "CzechCrunch",
+      "category": "cz"
+    },
+    {
+      "id": "8d0b289734c6d900",
+      "title": "datasette-charts 0.2a0",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "published_at": "2026-11-24T04:24:29+00:00",
+      "author": "",
+      "summary_raw": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself: Download the video (MP4) I prompt Datasette Agent to \"Use #stats to show sqlite-utils downloads over time as a chart\" - where typing \"#stats\" opens a table search box. It shows me a chart inline in the chat, and when I click \"Open in the chart builder\" it opens the chart in a panel along with the table page. I use the table page to switch to a chart of \"datasette\", then when I ask the agent \"what does the chart show?\" it notices that I changed the content in the panel and describes the new Datasette chart to me. Here's a Markdown export of the chat from the video. Tags: datasette-agent , datasette , visualization",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
+      "category": "commentary"
+    },
     {
       "id": "0e42cd8293cd7f8c",
       "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
@@ -181,9 +349,21 @@
       "published_at": "2026-11-24T04:14:16+00:00",
       "author": "swyx .ai",
       "summary_raw": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
-      "hero_image": null,
+      "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2d949515-988e-46e3-83cb-c3a9118cb699/Screenshot_2026-11-24_at_12.54.41b.png?t=1795525308",
       "source_id": "latent_space",
       "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "87e92b9355500179",
+      "title": "datasette-agent 0.7a1",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "published_at": "2026-11-24T03:45:57+00:00",
+      "author": "",
+      "summary_raw": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to fix some bugs with the much more exciting datasette-charts 0.2a0 release . Tags: datasette-agent , datasette",
+      "hero_image": null,
+      "source_id": "simonw",
+      "source_name": "Simon Willison's Weblog",
       "category": "commentary"
     },
     {
@@ -197,6 +377,18 @@
       "source_id": "venturebeat_ai",
       "source_name": "VentureBeat AI",
       "category": "news"
+    },
+    {
+      "id": "b79102dacd698ea4",
+      "title": "GLM-5.4 loops 🔁, Claude Ship 🚢, OpenAI secures Linux 🔒",
+      "url": "https://tldr.tech/ai/2026-11-24",
+      "published_at": "2026-11-24T00:00:00+00:00",
+      "author": "TLDR",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "tldr_ai",
+      "source_name": "TLDR AI",
+      "category": "newsletter"
     },
     {
       "id": "22cc7c2b037ea193",
@@ -475,6 +667,18 @@
       "category": "news"
     },
     {
+      "id": "527338901ae5d013",
+      "title": "Could Jensengate take down the President?",
+      "url": "https://garymarcus.substack.com/p/could-jensengate-take-down-the-president",
+      "published_at": "2026-11-23T18:46:14+00:00",
+      "author": "Gary Marcus",
+      "summary_raw": "Some cynical speculations have already been confirmed, and you can bet your last dollar the incoming Congress is going to take an interest",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!twoK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2124898979632795648.jpg",
+      "source_id": "marcus_on_ai",
+      "source_name": "Marcus on AI",
+      "category": "commentary"
+    },
+    {
       "id": "2c9774870ab8a6d7",
       "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
@@ -595,6 +799,18 @@
       "category": "news"
     },
     {
+      "id": "79b084f6ff791be1",
+      "title": "Breaking: Jensen is back. And the market is way up. But things will never be the same.",
+      "url": "https://garymarcus.substack.com/p/breaking-jensen-is-back-and-the-market",
+      "published_at": "2026-11-23T16:38:04+00:00",
+      "author": "Gary Marcus",
+      "summary_raw": "In lieu of writing about the stunning news, here&#8217;s a 5 minute guest appearance that I just did on CNN International.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!a6lM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa943f98c-0ff6-473f-b2e7-ecb32640b160_1622x1023.png",
+      "source_id": "marcus_on_ai",
+      "source_name": "Marcus on AI",
+      "category": "commentary"
+    },
+    {
       "id": "00c91753130a247f",
       "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
       "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
@@ -704,11 +920,11 @@
     },
     {
       "id": "7701e5e53b9bbd2c",
-      "title": "NVIDIA znovu zvolila Jensena Huanga výkonným ředitelem. Podle představenstva nepředstavuje riziko",
+      "title": "Nvidia znovu zvolila Jensena Huanga výkonným ředitelem. Podle představenstva nepředstavuje riziko",
       "url": "https://www.lupa.cz/aktuality/nvidia-znovu-zvolila-jensena-huanga-vykonnym-reditelem-podle-predstavenstva-nepredstavuje-riziko/",
       "published_at": "2026-11-23T14:25:23+00:00",
       "author": "redakce@lupa.cz (Lupa.cz: David Slížek)",
-      "summary_raw": "Je to zvrat o 180 stupňů. Představenstvo firmy NVIDIA znovuzvolilo do čela společnosti Jensena Huanga. Z funkce ho přitom stejné představenstvo odvolalo 12. listopadu.",
+      "summary_raw": "Je to zvrat o 180 stupňů. Představenstvo firmy Nvidia znovuzvolilo do čela společnosti Jensena Huanga. Z funkce ho přitom stejné představenstvo odvolalo 12. listopadu.",
       "hero_image": "https://i.iinfo.cz/images/323/jensen-huang-nvidia.jpg",
       "source_id": "lupa_cz",
       "source_name": "Lupa.cz",
@@ -737,6 +953,18 @@
       "source_id": "venturebeat_ai",
       "source_name": "VentureBeat AI",
       "category": "news"
+    },
+    {
+      "id": "8905212f40ec99c0",
+      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+      "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+      "published_at": "2026-11-23T14:11:17+00:00",
+      "author": "Jack Clark",
+      "summary_raw": "Could the scientific method be emergent?",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "source_id": "import_ai",
+      "source_name": "Import AI (Jack Clark)",
+      "category": "newsletter"
     },
     {
       "id": "74db178741d24f44",
@@ -785,18 +1013,6 @@
       "source_id": "arstechnica",
       "source_name": "Ars Technica",
       "category": "news"
-    },
-    {
-      "id": "e9b15b20f31371c0",
-      "title": "Atomová bomba je proti tomu domácí úkol. Matematický průlom AI ukázal, jak blízko je superinteligence",
-      "url": "https://cc.cz/atomova-bomba-je-proti-tomu-domaci-ukol-matematicky-prulom-ai-ukazal-jak-blizko-je-superinteligence/",
-      "published_at": "2026-11-23T12:10:53+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Matematik z Anthropicu s pomocí Clauda nejspíš dokázal Riemannovu hypotézu. Podle Alexandra Wanga z Mety jde o začátek zásadní změny. Článek Atomová bomba je proti tomu domácí úkol. Matematický průlom AI ukázal, jak blízko je superinteligence se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/wang-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "7cab2c5567d07a7e",
@@ -967,6 +1183,18 @@
       "category": "commentary"
     },
     {
+      "id": "920659866373ef7a",
+      "title": "Levent Alpöge has solved the Riemann Hypothesis with help of Claude! What does it mean?",
+      "url": "https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann",
+      "published_at": "2026-11-22T18:37:02+00:00",
+      "author": "Gary Marcus",
+      "summary_raw": "And why isn&#8216;t it immediately rescuing the market?",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!-jYB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51fdd6f6-b68f-4d5b-82a3-377334dbad28_1473x646.png",
+      "source_id": "marcus_on_ai",
+      "source_name": "Marcus on AI",
+      "category": "commentary"
+    },
+    {
       "id": "1aa5654ec1b607ae",
       "title": "Why data centers are at the center of the Big Tech backlash",
       "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
@@ -976,30 +1204,6 @@
       "hero_image": null,
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "82be9f181b7a5361",
-      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
-      "published_at": "2026-11-22T12:07:41+00:00",
-      "author": "Roslyn Henry and Peter Alexander, The Conversation",
-      "summary_raw": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/agriculture-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "c4a957b1f482f5a5",
-      "title": "Banks Have Had It Up to Here With Your AI Agent",
-      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "published_at": "2026-11-22T11:00:00+00:00",
-      "author": "Reece Rogers",
-      "summary_raw": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
-      "hero_image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
       "category": "news"
     },
     {
@@ -1013,6 +1217,18 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
+    },
+    {
+      "id": "cd66877a1542e790",
+      "title": "GPT-6.2 Astra and Sol: The System Card",
+      "url": "https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card",
+      "published_at": "2026-11-21T15:11:35+00:00",
+      "author": "Zvi Mowshowitz",
+      "summary_raw": "We have to stop meeting like this.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!Kyt2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9868b326-8a08-48cd-8bda-33a2c253275a_1672x941.png",
+      "source_id": "zvi_vase",
+      "source_name": "Don't Worry About the Vase (Zvi)",
+      "category": "commentary"
     },
     {
       "id": "f699b4e877e1a5d5",
@@ -1048,6 +1264,30 @@
       "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b6f560cd-a37a-4d62-8d6b-da5b59cf4790/formal-verification-feature.png?t=1795207886",
       "source_id": "latent_space",
       "source_name": "Latent Space",
+      "category": "commentary"
+    },
+    {
+      "id": "95c90ccb174efb7c",
+      "title": "On Dwarkesh Patel’s November 2026 Podcast With Paul Christiano",
+      "url": "https://thezvi.substack.com/p/on-dwarkesh-patels-november-2026",
+      "published_at": "2026-11-20T15:24:40+00:00",
+      "author": "Zvi Mowshowitz",
+      "summary_raw": "Paul Christiano has a message for us: There is meaningful risk of AI taking over within even the next 6-12 months.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!dXMZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8200e57f-67d7-451b-b454-74924eb09c26_1469x629.png",
+      "source_id": "zvi_vase",
+      "source_name": "Don't Worry About the Vase (Zvi)",
+      "category": "commentary"
+    },
+    {
+      "id": "28f474a294c35f14",
+      "title": "Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.",
+      "url": "https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing",
+      "published_at": "2026-11-20T14:20:06+00:00",
+      "author": "Gary Marcus",
+      "summary_raw": "Anthropic, which dropped steadily after its opening yesterday, is set to drop nearly 10% more at the opening bell.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!E_uA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34e0bf-d490-4c62-aaa8-ec292cec8041_1757x988.png",
+      "source_id": "marcus_on_ai",
+      "source_name": "Marcus on AI",
       "category": "commentary"
     },
     {
@@ -1135,6 +1375,18 @@
       "category": "commentary"
     },
     {
+      "id": "2e8ede6a8f2996a2",
+      "title": "Breaking: It doesn’t look Anthropic’s IPO is going to save the tech industry",
+      "url": "https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics",
+      "published_at": "2026-11-19T20:36:26+00:00",
+      "author": "Gary Marcus",
+      "summary_raw": "Another rough day on Wall Street",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!hx38!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0d7f544-a458-480f-8b13-4fc6acaaf2f3_698x1279.png",
+      "source_id": "marcus_on_ai",
+      "source_name": "Marcus on AI",
+      "category": "commentary"
+    },
+    {
       "id": "bb75f1280faccd9c",
       "title": "My wife thinks AI is a person",
       "url": "https://www.bensbites.com/p/my-wife-thinks-ai-is-a-person",
@@ -1145,6 +1397,18 @@
       "source_id": "bens_bites",
       "source_name": "Ben's Bites",
       "category": "newsletter"
+    },
+    {
+      "id": "0c2f0257424e78af",
+      "title": "AI #195: Opening Bell",
+      "url": "https://thezvi.substack.com/p/ai-195-opening-bell",
+      "published_at": "2026-11-19T11:56:26+00:00",
+      "author": "Zvi Mowshowitz",
+      "summary_raw": "Happy Zvi finally takes a real vacation day.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!f9Wm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F347d8230-d727-43c3-8bba-d37d95d6a873_1199x800.jpeg",
+      "source_id": "zvi_vase",
+      "source_name": "Don't Worry About the Vase (Zvi)",
+      "category": "commentary"
     },
     {
       "id": "9f7187c668df59f7",
@@ -1219,6 +1483,18 @@
       "category": "labs"
     },
     {
+      "id": "d93ac74e9f8f351d",
+      "title": "Is Anthropic’s IPO a bad bet, both for investors and society?",
+      "url": "https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both",
+      "published_at": "2026-11-18T21:45:04+00:00",
+      "author": "Gary Marcus",
+      "summary_raw": "What the bull case leaves out",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!COtC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHXU6qwJaEAAS76o.jpg",
+      "source_id": "marcus_on_ai",
+      "source_name": "Marcus on AI",
+      "category": "commentary"
+    },
+    {
       "id": "f1f89a0ea127b591",
       "title": "Introducing Gemini 4 Neon",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
@@ -1265,6 +1541,18 @@
       "source_id": "deepmind_blog",
       "source_name": "Google DeepMind Blog",
       "category": "labs"
+    },
+    {
+      "id": "7eab75d495c05c60",
+      "title": "Quickly, There’s No Time",
+      "url": "https://thezvi.substack.com/p/quickly-theres-no-time",
+      "published_at": "2026-11-18T15:18:23+00:00",
+      "author": "Zvi Mowshowitz",
+      "summary_raw": "In response to the METR report, many people have been reevaluating their timelines.",
+      "hero_image": "https://substackcdn.com/image/fetch/$s_!E_qv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6fbff52b-8257-4e01-8480-6deda6f36ade_1272x668.webp",
+      "source_id": "zvi_vase",
+      "source_name": "Don't Worry About the Vase (Zvi)",
+      "category": "commentary"
     },
     {
       "id": "b048b80fb0070e92",
@@ -1421,42 +1709,6 @@
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
-    },
-    {
-      "id": "b0cacfd0377a202d",
-      "title": "Productiv-icky",
-      "url": "https://www.bensbites.com/p/productiv-icky",
-      "published_at": "2026-11-17T14:14:18+00:00",
-      "author": "Ben Tossell",
-      "summary_raw": "Digging holes on the beach",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!1gPk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09d649a8-ce78-4942-8987-e610f220531a_1100x1156.gif",
-      "source_id": "bens_bites",
-      "source_name": "Ben's Bites",
-      "category": "newsletter"
-    },
-    {
-      "id": "efd81a58e7053940",
-      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
-      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
-      "published_at": "2026-11-17T09:24:56+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches.",
-      "hero_image": null,
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "9b4cae6746933a88",
-      "title": "Introducing ChatGPT for Sales",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "published_at": "2026-11-17T08:00:00+00:00",
-      "author": "",
-      "summary_raw": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
     },
     {
       "id": "816446490bf062e1",
