@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T05:01:27.334024+00:00",
+  "generated_at": "2026-11-25T14:20:09.203291+00:00",
   "date": "2026-11-25",
-  "article_count_unique": 149,
-  "article_count_raw": 149,
+  "article_count_unique": 138,
+  "article_count_raw": 138,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -25,14 +25,14 @@
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "venturebeat_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 22,
-      "raw_count": 22
+      "count": 17,
+      "raw_count": 17
     },
     {
       "source_id": "anthropic_news",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,16 +164,136 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 4,
-      "raw_count": 13
+      "raw_count": 14
     },
     {
       "source_id": "czechcrunch",
       "status": "ok",
-      "count": 2,
+      "count": 0,
       "raw_count": 10
     }
   ],
   "articles": [
+    {
+      "id": "7d9bc64b4a288718",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "published_at": "2026-11-25T14:10:18+00:00",
+      "author": "Lauren Forristal",
+      "summary_raw": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "4942a52244278a40",
+      "title": "Evropská unie chystá protiofenzívu v umělé inteligenci a kvantech, má pomoct v přepočtu přes bilion korun",
+      "url": "https://www.lupa.cz/aktuality/evropska-unie-chysta-protiofenzivu-v-umele-inteligenci-a-kvantech-ma-pomoct-v-prepoctu-pres-bilion-korun/",
+      "published_at": "2026-11-25T13:46:39+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Evropská komise chce zásadně finančně podpořit rozvoj umělé inteligence a kvantových technologií. Komise představila &#8222;Quantum Act&#8220; a také nový investiční nástroj Sovereign Tech Equity Fund (STEF), přes který mají proudit investice do umělé inteligence a kvanatové výpočetní techniky. Podle listu Financial Times má jeho objem dosáhnout 50 miliard eur, tedy v přepočtu přes 1,2 bilionu Kč.",
+      "hero_image": "https://i.iinfo.cz/images/440/henna-virkkunen-eurokomisarka.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "71b8d839b17b22d7",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "published_at": "2026-11-25T13:10:00+00:00",
+      "author": "Thomas Macaulay",
+      "summary_raw": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?w=840",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "687491ad1037a821",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "published_at": "2026-11-25T13:00:00+00:00",
+      "author": "Tim Fernholz",
+      "summary_raw": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "hero_image": null,
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "category": "news"
+    },
+    {
+      "id": "bb86c27e2cbb658e",
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "published_at": "2026-11-25T13:00:00+00:00",
+      "author": "Terrence O’Brien",
+      "summary_raw": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no [&#8230;]",
+      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "category": "news"
+    },
+    {
+      "id": "a04cbe3c470051e7",
+      "title": "Čeští investoři rozšiřují záběr v Německu. Sází na AI agenty i čipy pro radary",
+      "url": "https://www.lupa.cz/aktuality/cesti-investori-rozsiruji-zaber-v-nemecku-sazi-na-ai-agenty-i-cipy-pro-radary/",
+      "published_at": "2026-11-25T12:30:21+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
+      "summary_raw": "Fond United Founders VC, který založili Vít Horký a Jakub Havrlant, jehož partnerem je mimo jiné Rockaway Capital, chce posílit své působení v Německu. Zapojil se do investičního kola dvou tamních společností a v zemi má také nového partnera fondu.",
+      "hero_image": "https://i.iinfo.cz/images/67/united-founders.jpg",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
+    {
+      "id": "641bb401c6efaa9a",
+      "title": "AI may soon change what it means to be a theoretical physicist",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "published_at": "2026-11-25T12:00:28+00:00",
+      "author": "Dan Kagan-Kans, Understanding AI",
+      "summary_raw": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "6926306e0de47345",
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "published_at": "2026-11-25T11:30:00+00:00",
+      "author": "Aarian Marshall",
+      "summary_raw": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "hero_image": "https://media.wired.com/photos/6b0548d39ef0144d4a117a16/master/pass/GettyImages-1291069581.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "8ae9fb4576827991",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "published_at": "2026-11-25T10:22:09+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
+    },
+    {
+      "id": "3a91ef75401c24a5",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "published_at": "2026-11-25T10:00:00+00:00",
+      "author": "Matthew King",
+      "summary_raw": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
     {
       "id": "38bef7dcc49b6e5c",
       "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
@@ -679,18 +799,6 @@
       "category": "news"
     },
     {
-      "id": "10d0405c045cccdb",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "published_at": "2026-11-24T15:15:16+00:00",
-      "author": "MIT Technology Review Insights",
-      "summary_raw": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Tata-report-cover.jpg?w=840",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
       "id": "60f678216bfa1eff",
       "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
       "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
@@ -845,42 +953,6 @@
       "source_id": "wired_ai",
       "source_name": "Wired AI",
       "category": "news"
-    },
-    {
-      "id": "f646f4bc404104e7",
-      "title": "České 3D tiskárny Průša lze nyní ovládat přes ChatGPT, Claude či Gemini. Služba je zdarma",
-      "url": "https://www.lupa.cz/aktuality/ceske-3d-tiskarny-prusa-lze-nyni-ovladat-pres-chatgpt-claude-ci-gemini-sluzba-je-zdarma/",
-      "published_at": "2026-11-24T08:24:03+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
-      "summary_raw": "České 3D tiskárny od společnosti Prusa Research je nyní možné ovládat i pomocí umělé inteligence typu ChatGPT, Claude, Gemini a podobně. Firma spustila službu Prusa MCP, tedy oficiálně podporuje protokol MCP, pomocí něhož se lze s tiskárnami spojit. MCP komunikuje s Prusa Connect či PrusaLink. Služba je k dispozici zdarma.",
-      "hero_image": "https://i.iinfo.cz/images/103/tiskarny-prusa-research-v-kunsthalle.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "1295512737855445",
-      "title": "Krize v manželství je přivedla k vlastní aplikaci. Dnes jejich AI hra pro páry vydělává desítky tisíc měsíčně",
-      "url": "https://cc.cz/krize-v-manzelstvi-je-privedla-k-vlastni-aplikaci-dnes-jejich-ai-hra-pro-pary-vydelava-desitky-tisic-mesicne/",
-      "published_at": "2026-11-24T05:37:08+00:00",
-      "author": "Michaela Prešinská",
-      "summary_raw": "Když Jakub Sobotka nevěděl, jak své ženě pomoct s úzkostmi, rozhodl se pro ni vytvořit aplikaci. Z původně osobního projektu je dnes slušný byznys. Článek Krize v manželství je přivedla k vlastní aplikaci. Dnes jejich AI hra pro páry vydělává desítky tisíc měsíčně se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/i-choose-you-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
-    },
-    {
-      "id": "c32ba59b586753e4",
-      "title": "Dlouhé roky upozorňuje, že AI zničí lidstvo. Teď na ní vydělal stovky miliard. Je to paradox, přiznává",
-      "url": "https://cc.cz/dlouhe-roky-upozornuje-ze-ai-znici-lidstvo-ted-na-ni-vydelal-stovky-miliard-je-to-paradox-priznava/",
-      "published_at": "2026-11-24T05:34:26+00:00",
-      "author": "Luboš Kreč",
-      "summary_raw": "Estonec Jaan Tallinn vložil do Anthropicu zhruba miliardu korun. Po vstupu firmy na burzu má jeho podíl hodnotu kolem 340 miliard korun. Článek Dlouhé roky upozorňuje, že AI zničí lidstvo. Teď na ní vydělal stovky miliard. Je to paradox, přiznává se nejdříve objevil na CzechCrunch .",
-      "hero_image": "https://cc.cz/wp-content/uploads/2026/11/tallinn-815x509.jpg",
-      "source_id": "czechcrunch",
-      "source_name": "CzechCrunch",
-      "category": "cz"
     },
     {
       "id": "8d0b289734c6d900",
@@ -1159,54 +1231,6 @@
       "category": "news"
     },
     {
-      "id": "a1a99099af8a91f7",
-      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
-      "published_at": "2026-11-23T20:34:51+00:00",
-      "author": "Eric Berger",
-      "summary_raw": "\"I would ask you to please reach out to Roscosmos directly.\"",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "11fbf03bb7c6a2be",
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "published_at": "2026-11-23T20:00:00+00:00",
-      "author": "Jay Peters",
-      "summary_raw": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "db1d263175e9de3a",
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "published_at": "2026-11-23T19:14:46+00:00",
-      "author": "Aisha Malik",
-      "summary_raw": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "d17748b760892936",
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "published_at": "2026-11-23T18:12:22+00:00",
-      "author": "Aisha Malik",
-      "summary_raw": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
       "id": "4b2f2673d869ca1f",
       "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
       "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
@@ -1274,78 +1298,6 @@
       "author": "Caroline Haskins",
       "summary_raw": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
       "hero_image": "https://media.wired.com/photos/6b04495d307e146147156b9d/master/pass/GettyImages-2266718431.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "7701e5e53b9bbd2c",
-      "title": "Nvidia znovu zvolila Jensena Huanga výkonným ředitelem. Podle představenstva nepředstavuje riziko",
-      "url": "https://www.lupa.cz/aktuality/nvidia-znovu-zvolila-jensena-huanga-vykonnym-reditelem-podle-predstavenstva-nepredstavuje-riziko/",
-      "published_at": "2026-11-23T14:25:23+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: David Slížek)",
-      "summary_raw": "Je to zvrat o 180 stupňů. Představenstvo firmy Nvidia znovuzvolilo do čela společnosti Jensena Huanga. Z funkce ho přitom stejné představenstvo odvolalo 12. listopadu.",
-      "hero_image": "https://i.iinfo.cz/images/323/jensen-huang-nvidia.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "c13439a26af662aa",
-      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-      "published_at": "2026-11-23T13:11:00+00:00",
-      "author": "Emily Mullin",
-      "summary_raw": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-      "hero_image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "4683b092d585a3ad",
-      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-      "published_at": "2026-11-23T13:10:00+00:00",
-      "author": "Thomas Macaulay",
-      "summary_raw": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/starlink-grid-gradient.jpg?fit=1920,1280",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "3f632bfab04fd84d",
-      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-      "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
-      "published_at": "2026-11-23T12:00:00+00:00",
-      "author": "Sandra Upson, Steven Levy, Lauren Goode",
-      "summary_raw": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
-      "hero_image": "https://media.wired.com/photos/6b00ca934909d8ae8eb24f03/master/pass/livestream_ama_ai_safety.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "086873d4042bee4d",
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "published_at": "2026-11-23T11:00:00+00:00",
-      "author": "James Temple",
-      "summary_raw": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "d223bd20b53097c4",
-      "title": "States Sue SpaceX Over Grok Deepfakes",
-      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
-      "published_at": "2026-11-23T11:00:00+00:00",
-      "author": "Maddy Varner",
-      "summary_raw": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
-      "hero_image": "https://media.wired.com/photos/6b00c213fb286bb31d23bec0/master/pass/Security_Virginia%20and%20Oregon%20Sue%20Grok%20Over%20Nonconsensual%20Intimate%20Imagery_v1.jpg",
       "source_id": "wired_ai",
       "source_name": "Wired AI",
       "category": "news"
@@ -1648,90 +1600,6 @@
       "hero_image": null,
       "source_id": "deepmind_blog",
       "source_name": "Google DeepMind Blog",
-      "category": "labs"
-    },
-    {
-      "id": "b048b80fb0070e92",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "published_at": "2026-11-18T15:00:23+00:00",
-      "author": "",
-      "summary_raw": "",
-      "hero_image": null,
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "category": "labs"
-    },
-    {
-      "id": "857726d12e260c3f",
-      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
-      "published_at": "2026-11-18T10:19:04+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
-      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/38ecd72a-69fc-402f-ab81-15ac4b07bf8c/image.png?t=1794996495",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "b722aa67237bb877",
-      "title": "The Silent Consensus",
-      "url": "https://openai.com/index/the-silent-consensus",
-      "published_at": "2026-11-18T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "6648e4ecf703f35c",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "author": "",
-      "summary_raw": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "be8a0bfb5f012cd6",
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "a6a5190ec0b11d9e",
-      "title": "Inside the Codex sandbox",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "author": "",
-      "summary_raw": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "42595fdb7cfdc972",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "published_at": "2026-11-18T06:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
       "category": "labs"
     },
     {
