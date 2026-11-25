@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-25",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Gemini 4 Neon označuje návrat Google DeepMind mezi absolutní špičku",
+      "title_orig": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+      "category": "labs",
+      "summary_cs": [
+        "Google DeepMind představil nový model Gemini 4 Neon, který překonává v benchmarku LiveBench konkurenční modely Astra i Fable.",
+        "Model dosahuje výrazného zrychlení běhového prostředí pro vývojáře a zkracuje například testy v Rustu téměř o polovinu.",
+        "Tento krok potvrzuje plný návrat výzkumné laboratoře Google na špičku ve vývoji pokročilých frontier modelů."
+      ],
+      "why_matters": "Ukazuje nový standard rychlosti a výkonu vývojářských AI modelů od Googlu.",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 2,
+      "title_cs": "OpenAI předvádí schopnosti modelů GPT-6 při návrhu nových proteinů",
+      "title_orig": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "category": "labs",
+      "summary_cs": [
+        "Nové modely řady GPT-6 prokázaly schopnost autonomně navrhovat struktury a sekvence proteinů za použití pokročilého uvažování.",
+        "Laboratoře OpenAI ověřily v praxi schopnost vazby navržených proteinů u pěti různých biologických cílů.",
+        "Objev ukazuje zásadní posun v tom, jak generativní modely urychlují biotechnologický a farmaceutický výzkum."
+      ],
+      "why_matters": "Dokazuje, že AI modely začínají autonomně objevovat nové léky a biologické struktury.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 3,
+      "title_cs": "CrowdStrike kupuje Zscaler za 44 miliard dolarů a zavádí síťový vypínač pro AI agenty",
+      "title_orig": "CrowdStrike’s Zscaler deal aims to give security teams a single kill switch for rogue AI agents",
+      "category": "business",
+      "summary_cs": [
+        "Bezpečnostní gigant CrowdStrike se dohodl na akvizici společnosti Zscaler v celkové hodnotě zhruba 43,9 miliardy dolarů.",
+        "Cílem spojení je vytvořit jednotný síťový vypínač schopný odříznout nebezpečné nebo neschválené AI agenty přímo v provozu.",
+        "Systém bude sledovat komunikaci agentů mezi koncovými zařízeními a cloudovou infrastrukturou v reálném čase."
+      ],
+      "why_matters": "První masivní bezpečnostní akvizice zaměřená čistě na kontrolu neřízených AI agentů.",
+      "url": "https://venturebeat.com/security/crowdstrikes-zscaler-deal-aims-to-give-security-teams-a-single-kill-switch-for-rogue-ai-agents",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "České 3D tiskárny Průša lze nyní ovládat přímo přes ChatGPT, Claude či Gemini",
+      "title_orig": "České 3D tiskárny Průša lze nyní ovládat přes ChatGPT, Claude či Gemini. Služba je zdarma",
+      "category": "tools",
+      "summary_cs": [
+        "Česká společnost Prusa Research spustila oficiální podporu protokolu MCP pro propojování svých tiskáren s AI asistenčními nástroji.",
+        "Uživatelé mohou nově ovládat 3D tisk i správu tiskárny zadáváním přirozených textových příkazů v běžných chatbotech.",
+        "Propojení funguje přes stávající platformy Prusa Connect i PrusaLink a je pro zákazníky k dispozici zcela zdarma."
+      ],
+      "why_matters": "Tuzemský hardwarový gigant integruje AI rozhraní přímo do každodenní práce s 3D tiskem.",
+      "url": "https://www.lupa.cz/aktuality/ceske-3d-tiskarny-prusa-lze-nyni-ovladat-pres-chatgpt-claude-ci-gemini-sluzba-je-zdarma/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Ministerstvo zdravotnictví připravuje první českou strategii pro zavádění AI v nemocnicích",
+      "title_orig": "Stát dohání pravidla na používání AI ve zdravotnictví, ta se v nemocnicích aktivně využívá",
+      "category": "news",
+      "summary_cs": [
+        "Ministerstvo zdravotnictví dokončuje strategii, která má sjednotit pravidla pro testování a nákup AI systémů v nemocnicích.",
+        "Dokument se zaměřuje na standardizaci ochrany dat pacientů i na budoucí úhrady AI diagnostiky z veřejného pojištění.",
+        "Reaguje tak na praxi, kdy české nemocnice již pokročilé nástroje umělé inteligence běžně využívají."
+      ],
+      "why_matters": "České zdravotnictví dostane jasná pravidla pro nasazování AI diagnostiky a její úhrady.",
+      "url": "https://www.lupa.cz/aktuality/stat-dohani-pravidla-na-pouzivani-ai-ve-zdravotnictvi-ta-se-v-nemocnicich-aktivne-vyuziva/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Tidal zakazuje AI hudbu a vymaže ze své platformy 27 milionů syntetických skladeb",
+      "title_orig": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "category": "news",
+      "summary_cs": [
+        "Hudební streamovací služba Tidal oznámila úplný zákaz čistě AI generované hudby s platností od příštího měsíce.",
+        "Ze svého katalogu odstraní zhruba 27 milionů skladeb a denně bude odmítat desítky tisíc nových plně syntetických nahrávek.",
+        "Opatření se netýká autorů využívajících AI pouze jako pomocný nástroj při skládání a produkci."
+      ],
+      "why_matters": "První velká streamovací služba radikálně čistí katalog od plně generované AI hudby.",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Anthropic vytvořil bezpečnostní past pro testování neposlušných AI agentů",
+      "title_orig": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "category": "labs",
+      "summary_cs": [
+        "Výzkumníci z laboratoře Anthropic představili speciální prostředí simulující bezpečnostní chybějící kontrolu.",
+        "Test zkoumá, zda autonomous AI agenti podlehne pokušení obcházet nastavená pravidla a instrukce vývojářů.",
+        "Metoda pomáhá odhalovat nepředvídatelné vzorce chování ještě před nasazením agentů do reálných firemních systémů."
+      ],
+      "why_matters": "Nový přístup ke kontrole rizikového chování autonomních AI agentů před jejich nasazením.",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Útočníci zneužívají AI agenty k vyhledávání nahlášených zranitelností",
+      "title_orig": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "category": "news",
+      "summary_cs": [
+        "Amazon varoval před zvýšenou aktivitou automatizovaných AI agentů, kteří dokáží autonomně vyhledávat chybějící záplaty.",
+        "Útočníci k nalezení a zneužití zranitelností bez zásahu člověka využívají volně dostupné frameworky.",
+        "Podle bezpečnostních týmů se zásadně zkracuje čas mezi objevením chyby a jejím zneužitím v síti."
+      ],
+      "why_matters": "AI agenti zkracují čas potřebný k provedení kybernetického útoku na minimum.",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Téměř polovina vývojářů nechává AI agenty psát i kontrolovat zdrojový kód",
+      "title_orig": "Nearly half of surveyed engineers and leaders say the AI agents that write their code also review it",
+      "category": "research",
+      "summary_cs": [
+        "Nový průzkum ukázal, že téměř polovina softwarových týmů spoléhá na AI agenty jak při generování, tak při revizi kódu.",
+        "Pouze čtvrtina inženýrů si je však jistá, že změnám provedeným generativními nástroji rozumí stejně jako lidskému kódu.",
+        "Vzniká tak riziko nekontrolovaného hromadění skrytých chybných architektonických rozhodnutí."
+      ],
+      "why_matters": "Varovný trend ukazuje na klesající přehled inženýrů nad automaticky generovaným kódem.",
+      "url": "https://venturebeat.com/technology/nearly-half-of-surveyed-engineers-and-leaders-say-the-ai-agents-that-write-their-code-also-review-it",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Akcie Anthropicu klesly pod úroveň IPO, což vyvolává tlak na hodnocení startupů",
+      "title_orig": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "category": "business",
+      "summary_cs": [
+        "Cena akcií společnosti Anthropic po vstupu na veřejnou burzu poklesla pod svou původní nabídkovou hodnotu.",
+        "Tento vývoj vyvolává obavy investorů ohledně přenesení vysokých soukromých evaluací AI firem do veřejného obchodování.",
+        "Analytici očekávají přehodnocení finančních očekávání u dalších připravovaných vstupů technologických firem na burzu."
+      ],
+      "why_matters": "Propad po IPO Anthropicu značí vystřízlivění Wall Street z ocenění AI startupů.",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "New York Times varuje fotology před aktualizací Photoshopu kvůli AI prvkům",
+      "title_orig": "The New York Times warns photographers not to update Photoshop over AI features",
+      "category": "news",
+      "summary_cs": [
+        "Vedení fotografické sekce The New York Times zakázalo externím fotografům instalovat nejnovější verzi Photoshopu.",
+        "Důvodem jsou integrované generativní funkce, které upravují snímky bez jasného upozornění pro uživatele.",
+        "Redakce chce zamezit nechtěným zásahům do autenticity dokumentárních a zpravodajských fotografií."
+      ],
+      "why_matters": "Prestižní deník zpřísňuje pravidla ověřování neupravených fotografií kvůli skrytým AI funkcím.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Meta integruje svého AI asistenta Muse přímo do soukromých zpráv na Instagramu",
+      "title_orig": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "category": "tools",
+      "summary_cs": [
+        "Společnost Meta začala propojovat asistenta Muse přímo do konverzací v aplikaci Instagram.",
+        "Uživatelé již nemusí přepínat mezi samostatnou aplikací a sociální sítí při generování obsahu či vyhledávání.",
+        "Tento krok navazuje na širší strategii zprostředkovat AI funkce přímo v místě běžné komunikace."
+      ],
+      "why_matters": "AI asistent se stává přímou součástí každodenní komunikace stovek milionů uživatelů.",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Příprava sítě na AI agenty extrémně zvyšuje nároky na firemní infrastrukturu",
+      "title_orig": "Raising the stakes for enterprise networks with AI modernization",
+      "category": "news",
+      "summary_cs": [
+        "Masivní nasazování autonomních AI agentů způsobuje dramatický nárůst datového provozu ve firemních sítích.",
+        "Agentní úlohy generují podle odhadů až o 450 procent více síťových požadavků než běžné dotazy uživatelů.",
+        "Sítě firem čelí přetížení a vyžadují rychlou modernizaci infrastruktury pro udržení stabilního chodu."
+      ],
+      "why_matters": "Nasazení agentů vyžaduje radikální přestavbu a posílení firemní síťové infrastruktury.",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Model GPT 6.2 Astra autonomně vyřešil historickou záhadu autorství skicáře",
+      "title_orig": "GPT 6.2 Astra Solves a Historical Mystery",
+      "category": "wildcard",
+      "summary_cs": [
+        "Historik Mark Humphries využil model GPT 6.2 Astra k analýze anonymního skicáře z roku 1808 z knihovny na Yale.",
+        "Model dokázal na základě minimálních instrukcí ztotožnit původně neznámého autora historického dokumentu.",
+        "Případová studie ukazuje rostoucí potenciál pokročilých LLM při zpracování a propojování historických archivů."
+      ],
+      "why_matters": "Ukázka využití pokročilého uvažování AI modelů pro akademický a historický výzkum.",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Část vědců pochybuje o tom, že AI dokázala plně vyřešit Riemannovu hypotézu",
+      "title_orig": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumník z Anthropicu vygeneroval pomocí AI 17 milionů řádků dlouhý důkaz Riemannovy hypotézy.",
+        "Matematická komunita nyní čelí výzvě ověřit správnost takto rozsáhlého a lidsky obtížně čitelného zápisu.",
+        "Analýza kompletního řešení a jeho konečné potvrzení ze strany expertů si vyžádá ještě řadu měsíců práce."
+      ],
+      "why_matters": "Ilustruje problém lidské schopnosti ověřovat extrémně složité AI důkazy.",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "source": "Wired AI"
+    }
+  ]
+}
