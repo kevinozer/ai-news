@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-26",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "FCC schválila plán SpaceX vyslat do vesmíru 1 milion satelitů pro AI datacentra",
+      "title_orig": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "category": "news",
+      "summary_cs": [
+        "Americký úřad FCC udělil společnosti SpaceX povolení k vypuštění až jednoho milionu satelitů vybavených AI čipy v rámci projektu Starmind.",
+        "Tento krok by mohl zvětšit celkový počet satelitů na oběžné dráze přibližně padesátinásobně a zahájit éru vesmírných výpočetních center.",
+        "O přesun výpočetní kapacity pro AI do vesmíru se snaží i další giganti jako Google nebo Blue Origin."
+      ],
+      "why_matters": "Propojení vesmírné infrastruktury s AI výpočty řeší energetické limity pozemních datacenter.",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Anthropic přidává podporu pro Skills v protokolu MCP u modelů Claude",
+      "title_orig": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one",
+      "category": "tools",
+      "summary_cs": [
+        "Anthropic v rámci veřejné bety spouští podporu pro Skills přes protokol Model Context Protocol (MCP) v prostředí Claude a Claude Code.",
+        "Nástroj mění způsob, jakým firmy schvalují oprávnění při připojování externích MCP serverů.",
+        "AI agenti tak získávají modulární schopnosti přímo přes standardizované rozhraní bez nutnosti psát speciální integrace."
+      ],
+      "why_matters": "Výrazně to zjednodušuje a bezpečněji rozšiřuje schopnosti AI agentů v nástrojích firem.",
+      "url": "https://venturebeat.com/technology/mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when-they-connect-one",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Dario Amodei odmítá obvinění, že Anthropic vzdává lidskou kontrolu nad AI",
+      "title_orig": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "category": "labs",
+      "summary_cs": [
+        "Ředitel Anthropicu Dario Amodei označil tvrzení konkurentů o odevzdávání kontroly nad vývojem AI za zcela nesmyslné.",
+        "Reagoval tak na kritiku ohledně rostoucí míry automatizace výzkumu a vývoje nových modelů uvnitř předních AI laboratoří.",
+        "Zdůraznil, že výzkumníci mají nad procesem neustálý dohled i při zapojení agentů."
+      ],
+      "why_matters": "Otvírá klíčovou debatu o bezpečnosti a míře autonomie při vývoji generace modelů.",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Amazon a Meta jednají o ukončení blokády nákupního AI agenta Muse",
+      "title_orig": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "category": "business",
+      "summary_cs": [
+        "Amazon vede jednání se společností Meta o umožnění přístupu agenta Muse na své e-commerce tržiště.",
+        "Jednání mají ukončit dvouměsíční blokádu a zaměřují se na typ doporučovaných produktů i dopad na reklamní příjmy.",
+        "Dohoda by mohla nastavit nový standard pro fungování autonomních nákupních agentů na velkých platformách."
+      ],
+      "why_matters": "Ukazuje, jak budou velcí e-commerce hráči řešit přístup autonomních nákupních agentů.",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Evropská unie chystá Quantum Act a miliardové investice do AI a kvantových technologií",
+      "title_orig": null,
+      "category": "business",
+      "summary_cs": [
+        "Evropská komise představila Quantum Act a nový investiční nástroj Sovereign Tech Equity Fund (STEF).",
+        "V přepočtu přes bilion korun má pomoci evropskému sektoru AI a kvantových výpočtů držet krok se světem.",
+        "Cílem je posílit technologickou suverenitu EU a podpořit vznik nových evropských deeptech startupů."
+      ],
+      "why_matters": "Zásadní evropská iniciativa přinese nové granty a investice i pro české AI projekty.",
+      "url": "https://www.lupa.cz/aktuality/evropska-unie-chysta-protiofenzivu-v-umele-inteligenci-a-kvantech-ma-pomoct-v-prepoctu-pres-bilion-korun/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 6,
+      "title_cs": "OpenAI sjednocuje rozhraní Chat a Work a zavádí společný limit využití",
+      "title_orig": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "category": "news",
+      "summary_cs": [
+        "Společnost OpenAI začala propojovat prostředí ChatGPT pro běžné konverzace a pracovní úkoly.",
+        "V rámci této změny zavádí jeden společný ukazatel limitu využití pro oba režimy.",
+        "Nároční uživatelé tak mohou dosáhnout svých limitů zpráv dříve než v předchozím odděleném systému."
+      ],
+      "why_matters": "Pravidelní uživatelé ChatGPT Pro a Team musí počítat s novou změnou limitů zpráv.",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Státní zástupci napadli plán Character.AI dražit soukromé chaty uživatelů",
+      "title_orig": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "category": "news",
+      "summary_cs": [
+        "Generální prokurátoři několika amerických států napadli bankruptcy prodej majetku platformy Character.AI.",
+        "Součástí prodeje mají být i citlivé osobní konverzace více než 21 milionů účtů včetně nezletilých.",
+        "Případ nastavuje precedens v oblasti ochrany osobních dat v konverzaci s AI při úpadku firmy."
+      ],
+      "why_matters": "Varovný případ upozorňuje na rizika soukromí a nakládání s daty u AI chatbotů.",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Český fond United Founders VC investuje v Německu do AI agentů a čipů",
+      "title_orig": null,
+      "category": "business",
+      "summary_cs": [
+        "Fond Vítka Horkého a Jakuba Havrlanta posiluje svou přítomnost na německém trhu zapojením do nových investičních kol.",
+        "Kapitál míří do společností vyvíjejících AI agenty a specializované čipy pro radarové systémy.",
+        "Německý trh se tak stává pro české investory klíčovou destinací pro expanzi v oblastech B2B AI."
+      ],
+      "why_matters": "Dokládá aktivitu tuzemského kapitálu při financování evropských AI technologií.",
+      "url": "https://www.lupa.cz/aktuality/cesti-investori-rozsiruji-zaber-v-nemecku-sazi-na-ai-agenty-i-cipy-pro-radary/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 9,
+      "title_cs": "S&P zvažuje snížení ratingu Nvidie kvůli řízení a závislosti na Huangovi",
+      "title_orig": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "category": "news",
+      "summary_cs": [
+        "Ratingová agentura S&P uvádí, že zvažuje snížení úvěrového ratingu společnosti Nvidia na stupeň AA-.",
+        "Důvodem jsou obavy o korporátní řízení firmy a rizika spojená se závislostí na jediném lídrovi.",
+        "Dění navazuje na nedávné zmatky kolem odchodu a rychlého návratu Jensena Huanga do čela podniku."
+      ],
+      "why_matters": "Unáhlené změny ve vedení Nvidie mohou ovlivnit stabilizaci celého trhu s AI hardwarem.",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "New York zakázal na pět let prodej AI hraček pro děti kvůli rizikům",
+      "title_orig": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "category": "news",
+      "summary_cs": [
+        "Stát New York schválil pětileté moratorium na prodej hraček vybavených AI chatboty.",
+        "Reagoval tak na studie ukazující selhání v bezpečnosti a nevhodný obsah generovaný pro děti.",
+        "Zákaz má poskytnout čas na vytvoření přísnějších normativních pravidel ohledně vývoje dětí."
+      ],
+      "why_matters": "První vlnový zákaz tohoto typu předznamenává novou regulaci AI spotřební elektroniky.",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Nothing detailně představuje sluchátka Ear Note s nahrávacím pouzdrem",
+      "title_orig": "Nothing offers a full look at its AI earbuds and charging case",
+      "category": "tools",
+      "summary_cs": [
+        "Značka Nothing odhalila podrobnosti o bezdrátových sluchátkách Ear Note a jejich chytrém pouzdru.",
+        "Pouzdro sluchátek obsahuje samostatné tlačítko pro záznam, přepis a sumarizaci konverzací.",
+        "Zařízení míří do prodeje v prosinci a představuje další krok v integraci AI do nositelné elektroniky."
+      ],
+      "why_matters": "Praktické využití AI pro okamžitý přepis jednání přímo v pouzdru sluchátek.",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Výzkum odhaluje příčiny desynchronizace AI agentů při práci s rozhraními",
+      "title_orig": "One Step, Four Clocks: How GUI Agents Fall Out of Step",
+      "category": "research",
+      "summary_cs": [
+        "Studie zkoumá selhávání grafických AI agentů způsobené měnícím se vizuálním prostorem během jejich rozhodování.",
+        "Autoři definují čtyři časové události mezi změnou prostředí a samotným provedením akce agenta.",
+        "Ukazuje se, že pouhé zrychlení odezvy nestačí k zabránění chybám v dynamických aplikacích."
+      ],
+      "why_matters": "Vysvětluje technické důvody selhávání agentů při automatizaci běžných desktopových úloh.",
+      "url": "https://arxiv.org/abs/2611.31522",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Nástroj Taxi nabízí systém pro ladění a monitorování AI agentů ve velkém měřítku",
+      "title_orig": "Taxi: Analyzing Agents at (Real) Scale",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili platformu Taxi určenou k shlukování, monitorování a debuginu agentů.",
+        "Systém dokáže efektivně zpracovávat miliony prováděných kroků bez ztráty přehlednosti.",
+        "Nástroj pomáhá odhalovat opakující se chyby v chování agentních systémů v reálném provozu."
+      ],
+      "why_matters": "Umožní vývojářům efektivně spravovat a ladit rozsáhlé flotily AI agentů.",
+      "url": "https://arxiv.org/abs/2611.31457",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Datacentra pro AI vyvolávají nečekaný rozmach spotřeby zemního plynu v USA",
+      "title_orig": "How data centers are driving a US natural-gas boom",
+      "category": "news",
+      "summary_cs": [
+        "Zvýšené nároky výpočetních center vedou investory k budování vlastních plynových elektráren.",
+        "Nezávislé zdroje energie pomáhají obcházet dlouhé čekací lhůty na připojení ke klasické rozvodné síti.",
+        "Tento trend však výrazně ztěžuje plnění stanovených emisních a klimatických cílů."
+      ],
+      "why_matters": "Enormní energetické nároky AI infrastruktury mění plány na přechod k čisté energii.",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Trendy v kódování pomocí AI mění prácí v hudebním průmyslu i tvorbu nástrojů",
+      "title_orig": "Has vibe coding made open source the new normal for synths?",
+      "category": "wildcard",
+      "summary_cs": [
+        "Nástroje pro automatické generování kódu a reverzní inženýrství způsobují zmatek u výrobců syntetizérů.",
+        "Lidé začínají masově upravovat a klonovat proprietární kód i firmware audio zařízení.",
+        "Část tradičních značek na tento vývoj reaguje postupným otevíráním svého softwaru komunitě."
+      ],
+      "why_matters": "Ukázka toho, jak AI nástroje pro kódování narušují uzavřené hardwarové ekosystémy.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge AI"
+    }
+  ]
+}
