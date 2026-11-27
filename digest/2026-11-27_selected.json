@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-27",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Nvidia pozastavuje dodávky AI čipů do jihovýchodní Asie kvůli zpřísněným regulacím USA",
+      "title_orig": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Nvidia pokynula výrobním partnerům, aby okamžitě zastavili dodávky serverů do Malajsie, Singapuru, Thajska a Indonésie.",
+        "Kroku předchází intenzivní tlak Spojených států na zamezení obcházení sankcí a přístupu Číny k pokročilým technologiím.",
+        "Omezení výrazně zasáhne výstavbu nových datových center v regionu a může způsobit další globální nedostatek výpočetního výkonu."
+      ],
+      "why_matters": "Globální výpadky v dodavatelském řetězci AI čipů mohou zpomalit dostupnost výpočetního výkonu i pro evropské firmy.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch AI"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Příliš rychlá delegace: Výzkumníci navrhují dynamické řízení zdrojů pro agentní systémy",
+      "title_orig": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+      "category": "research",
+      "summary_cs": [
+        "Nová výzkumná práce představuje metodu partial routing pro efektivní předávání podúkolů mezi různě drahými AI modely.",
+        "Namísto odeslání celého komplexního zadání jednomu drahému modelu systém rozděluje krok za krokem jednodušší části levnějším variantám.",
+        "Tento přístup výrazně snižuje provozní náklady na agentní pracovní postupy při zachování vysoké přesnosti výstupů."
+      ],
+      "why_matters": "Umožňuje vývojářům výrazně snížit náklady na provoz autonomních AI agentů bez ztráty kvality.",
+      "url": "https://arxiv.org/abs/2611.33402",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Britský finanční úřad kritizuje Meta za odmítnutí sdílení agenta Muse k testování",
+      "title_orig": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "category": "news",
+      "summary_cs": [
+        "Britský orgán pro dohled nad finančním trhem FCA vyjádřil znepokojení nad přístupem společnosti Meta k bezpečnostním prověrkám.",
+        "Meta odmítla poskytnout svého AI asistenta Muse ke společnému testování před jeho plánovaným spuštěním v Velké Británii.",
+        "Regulátoři varují před riziky autonomních agentů ve finančním sektoru a chybějící transparentností velkých technologických firem."
+      ],
+      "why_matters": "Ukazuje zpřísňující se přístup evropských regulátorů k zavádění autonomních AI agentů do praxe.",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Jak reálný čas mění rozhodování AI: Učení se logickému uvažování pod časovým tlakem",
+      "title_orig": "Learning to Reason in Real-Time",
+      "category": "research",
+      "summary_cs": [
+        "Současné AI modely předpokládají plně synchronní prostředí, kde okolní svět čeká na dokončení jejich výpočetního kroku.",
+        "Představený výzkum zavádí koncept uvažování v reálném čase, kdy se model musí přizpůsobovat měnícímu se prostředí a dynamickým lhůtám.",
+        "Metoda představuje klíčový posun pro nasazení AI v robotice, autonomním řízení a systémech okamžité reakce."
+      ],
+      "why_matters": "Klíčový krok k bezpečnému nasazení AI v reálném světě a robotice, kde záleží na každé milisekundě.",
+      "url": "https://arxiv.org/abs/2611.33513",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "OpenAI využívá model Astra k objevování exoplanet v archivech NASA",
+      "title_orig": "Searching for distant planets with Astra",
+      "category": "labs",
+      "summary_cs": [
+        "Amatérští astronomové s využitím nástrojů Codex a OpenAI Astra identifikovali nové potenciální exoplanety ve veřejných datech.",
+        "Analýza čerpala ze snídků vesmírných teleskopů Kepler a TESS, jejichž manuální zpracování by trvalo roky.",
+        "Projekt ukazuje, jak pokročilé modely zpřístupňují komplexní vědecký výzkum širší veřejnosti."
+      ],
+      "why_matters": "Demonstruje praktické využití AI při zpracování obrovských vědeckých datasetů běžnými uživateli.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Hugging Face spouští srovnávací panel llama.cpp pro procesory a grafiky AMD",
+      "title_orig": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "category": "open-source",
+      "summary_cs": [
+        "Platforma Hugging Face představila oficiální nástroj pro měření výkonu open-source knihovny llama.cpp na čipech AMD.",
+        "Dashboard pokrývá širokou škálu spotřebitelských procesorů Ryzen i profesionálních grafických karet Radeon.",
+        "Iniciativa pomůže vývojářům optimalizovat lokální běh jazykových modelů na alternativním hardwaru mimo ekosystém Nvidia."
+      ],
+      "why_matters": "Usnadňuje komunitě výběr a optimalizaci cenově dostupného hardwaru pro lokální provoz AI.",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Stavebnice multi-agentních systémů: Praktický průvodce architekturami od Hugging Face",
+      "title_orig": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "category": "tools",
+      "summary_cs": [
+        "Hugging Face zveřejnil detailní přehled metodik pro návrh, trénování a vyhodnocování komplexních agentních sítí.",
+        "Materiál rozebírá rozdíly mezi pokročilými strukturami orchestrace agentů a popisuje jejich koordinaci v praxi.",
+        "Součástí jsou doporučené postupy pro evaluaci spolehlivosti a prevenci zacyklení při komunikaci mezi modely."
+      ],
+      "why_matters": "Poskytuje vývojářům praktický návod na stavbu spolehlivých aplikací složených z více specializovaných AI agentů.",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Platónská hypotéza reprezentace: Jazykové a vizuální modely sdílejí stejný prostor",
+      "title_orig": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+      "category": "research",
+      "summary_cs": [
+        "Nová studie přináší důkazy pro hypotézu, že různé AI modely konvergují ke stejnému vnitřnímu chápání okolního světa.",
+        "Výzkumníci ukázali, že reprezentace v jazykových a vizuálních modelech se v rozhraní Jacobiho prostoru shodují až na prostou rotaci.",
+        "Zjištění naznačuje existenci univerzální struktury znalostí, kterou AI systémy objevují nezávisle na typu dat."
+      ],
+      "why_matters": "Teoretický průlom ukazuje, že různé typy AI směřují ke společnému univerzálnímu vnímání reality.",
+      "url": "https://arxiv.org/abs/2611.33304",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Architektura pro rozpoznávání strukturovaných dokumentů Nemotron 3.5 Parse",
+      "title_orig": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "category": "labs",
+      "summary_cs": [
+        "Hugging Face představuje pokroky v využití open-source modelu Nemotron 3.5 Parse pro extrakci dat z dokumentů.",
+        "Článek popisuje metodiku jemného dolaďování a zrychlení inferenční fáze pro zpracování složitých formulářů a tabulek.",
+        "Komunita získává k dispozici otevřené datové sady zaměřené na převod vizuálních dokumentů do strukturovaného textu."
+      ],
+      "why_matters": "Zvýší efektivitu automatizace zpracování faktur a dokumentů ve firemních procesech.",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Jak společnost Clay staví AI agenty pro obchodní týmy s využitím GPT-6",
+      "title_orig": "How Clay Builds GTM Agents - Jeff Barg, Head of AI",
+      "category": "wildcard",
+      "summary_cs": [
+        "Head of AI ve společnosti Clay popisuje vývoj infrastrukturních agentů zaměřených na automatizaci prodeje a výzkumu trhu.",
+        "Rozhovor vysvětluje, proč uživatelé preferují automatické směrování dotazů před ručním výběrem konkrétních LLM modelů.",
+        "Případová studie ukazuje, jak lze výrazně snížit náklady na kvalifikaci potenciálních zákazníků pomocí inteligentních workflows."
+      ],
+      "why_matters": "Ukazuje reálný návod, jak propojovat pokročilé jazykové modely do funkčního obchodního produktu.",
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Kontextové škálování jako nová hranice pro rozvoj schopností umělé inteligence",
+      "title_orig": "Context Scaling: A New Frontier of AI Scaling",
+      "category": "research",
+      "summary_cs": [
+        "Studie poukazuje na to, že selhání AI často nezpůsobuje slabá schopnost úsudku, ale chybějící nebo nepřesný kontext.",
+        "Autoři navrhují paradigma Context Scaling, které se zaměřuje na dynamické zásobování modelu správnými stavy prostředí.",
+        "Přístup nabízí alternativu ke klasickému zvětšování velikosti parametrů a přináší vyšší spolehlivost v praxi."
+      ],
+      "why_matters": "Poskytuje nový pohled na zvyšování přesnosti AI bez nutnosti neustálého zvětšování samotných modelů.",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Mass Spec Skills: Google DeepMind pomáhá chemikům identifikovat molekuly",
+      "title_orig": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "category": "labs",
+      "summary_cs": [
+        "Google DeepMind představil rozšíření Mass Spec Skills pro výzkumnou platformu Google Antigravity.",
+        "Nástroj pomáhá vědcům automaticky interpretovat hmotnostní spektra a určovat chemické struktury neznámých sloučenin.",
+        "Integrace výrazně urychluje výzkum v oblastech farmacie, biochemie a materiálového inženýrství."
+      ],
+      "why_matters": "Příklad využití specializovaných AI agentů k urychlení vědeckého výzkumu a vývoje nových léčiv.",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Detekce textů z recenzních řízení: Nástroj PeerReveal odhaluje skryté použití AI",
+      "title_orig": "PeerReveal: Learning to Generalize in AI Peer Review Detection",
+      "category": "research",
+      "summary_cs": [
+        "Výzkumníci představili systém PeerReveal schopný rozlišit zcela vygenerované posudky od textů pouze upravených AI.",
+        "Nástroj dosahuje vysoké spolehlivosti napříč různými vědními obory a akademickými styly psaní.",
+        "Metoda reaguje na rostoucí problém generativního obsahu v recenzních řízeních vědeckých časopisů."
+      ],
+      "why_matters": "Důležitý krok pro udržení integrity akademického výzkumu a hodnocení vědeckých prací.",
+      "url": "https://arxiv.org/abs/2611.33555",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Detekce hrozeb a kybernetická bezpečnost pod palbou autonomních AI agentů",
+      "title_orig": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
+      "category": "research",
+      "summary_cs": [
+        "Empirická studie hodnotí nasazení LLM agentů v bezpečnostních operačních centrech při vyhodnocování bezpečnostních poplachů.",
+        "Práce analyzuje zranitelnost automatizovaných systémů vůči pokusům o oklamání ze strany sofistikovaných útočníků.",
+        "Výsledky definují limity autonomního rozhodování v kyberbezpečnosti a zdůrazňují roli lidského dohledu."
+      ],
+      "why_matters": "Upozorňuje na rizika a limity plné automatizace kybernetické obrany pomocí AI modelů.",
+      "url": "https://arxiv.org/abs/2611.33470",
+      "source": "ArXiv cs.AI"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Audit 1 000 B2B značek ukazuje mezery v paměti a kategorizaci velkých jazykových modelů",
+      "title_orig": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+      "category": "research",
+      "summary_cs": [
+        "Rozsáhlý audit zkoumal, jak přesně dokáží jazykové modely vybavit a správně zařadit známé B2B SaaS firmy.",
+        "Výsledky ukázaly, že model může názvy značek často vygenerovat, ale selhává v jejich správné kategorizaci bez RAG.",
+        "Zjištění má zásadní dopady pro optimalizaci značek pro AI vyhledávače a správné budování povědomí."
+      ],
+      "why_matters": "Klíčové poznatky pro marketingové týmy řešící viditelnost značek v odpovědích AI modelů.",
+      "url": "https://arxiv.org/abs/2611.33322",
+      "source": "ArXiv cs.AI"
+    }
+  ]
+}
