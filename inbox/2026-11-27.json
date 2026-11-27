@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T05:01:14.081891+00:00",
+  "generated_at": "2026-11-27T13:51:03.081153+00:00",
   "date": "2026-11-27",
   "article_count_unique": 116,
   "article_count_raw": 116,
@@ -7,26 +7,26 @@
     {
       "source_id": "techcrunch_ai",
       "status": "ok",
-      "count": 11,
-      "raw_count": 11
+      "count": 10,
+      "raw_count": 10
     },
     {
       "source_id": "verge_ai",
       "status": "ok",
-      "count": 6,
-      "raw_count": 6
+      "count": 5,
+      "raw_count": 5
     },
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 14,
-      "raw_count": 14
+      "count": 16,
+      "raw_count": 16
     },
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "wired_ai",
@@ -43,8 +43,8 @@
     {
       "source_id": "openai_blog",
       "status": "ok",
-      "count": 10,
-      "raw_count": 10
+      "count": 9,
+      "raw_count": 9
     },
     {
       "source_id": "anthropic_news",
@@ -67,8 +67,8 @@
     {
       "source_id": "huggingface_blog",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 8,
+      "raw_count": 8
     },
     {
       "source_id": "import_ai",
@@ -109,8 +109,8 @@
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,7 +164,7 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 1,
-      "raw_count": 12
+      "raw_count": 10
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,102 @@
     }
   ],
   "articles": [
+    {
+      "id": "4e452c8148992297",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "published_at": "2026-11-27T13:00:00+00:00",
+      "author": "Thomas Macaulay",
+      "summary_raw": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world&#8217;s brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list.&#8230;",
+      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MITcarscams.jpg?w=840",
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "bbadb29a3e2430c8",
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "published_at": "2026-11-27T12:05:01+00:00",
+      "author": "Noah Shachtman, wired.com",
+      "summary_raw": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/intel-card-1536x864-1-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "ed356d0d5e9697cb",
+      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+      "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+      "published_at": "2026-11-27T11:30:04+00:00",
+      "author": "Ars Staff",
+      "summary_raw": "We polled the Ars staff about their favorite pickups this year; here's the list.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-gifts-2026-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "f08824d1110274ce",
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "published_at": "2026-11-27T10:48:47+00:00",
+      "author": "Amy Nordrum",
+      "summary_raw": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations.&#160; We’re on the hunt for researchers and founders who are engineering solutions to some of&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "64184f8144c85b96",
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "published_at": "2026-11-27T10:00:00+00:00",
+      "author": "Jessica Hamzelou",
+      "summary_raw": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s also taking&#8230;",
+      "hero_image": null,
+      "source_id": "mit_tech_review",
+      "source_name": "MIT Technology Review",
+      "category": "news"
+    },
+    {
+      "id": "a1dcec0ca9cb157f",
+      "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+      "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+      "published_at": "2026-11-27T08:00:53+00:00",
+      "author": "Jonathan M. Gitlin",
+      "summary_raw": "There’s just one thing we still don’t know: How much will they cost?",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/volvo-xc60-xc90-combo-1152x648.jpg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
+    {
+      "id": "8fb66b566f4cee4c",
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "published_at": "2026-11-27T07:00:00+00:00",
+      "author": "Joel Khalili",
+      "summary_raw": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+      "hero_image": "https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg",
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "category": "news"
+    },
+    {
+      "id": "f6e581c76558b261",
+      "title": "Musk dá všem dětem v USA akcie SpaceX, Huawei kradla a podváděla, čekání na evropský procesor z Brna",
+      "url": "https://www.lupa.cz/clanky/musk-da-vsem-detem-v-usa-akcie-spacex-huawei-kradla-a-podvadela-cekani-na-evropsky-procesor-z-brna/",
+      "published_at": "2026-11-27T05:30:00+00:00",
+      "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+      "summary_raw": "Evropské AI gigafactory brzdí papírování. Obří prodeje GTA 6. Akcie Anthropicu spadly pod hodnotu při úpisu. Zprávy z technologií, každý pátek na Lupě.",
+      "hero_image": "https://i.iinfo.cz/images/328/elon-musk.png",
+      "source_id": "lupa_cz",
+      "source_name": "Lupa.cz",
+      "category": "cz"
+    },
     {
       "id": "6070a673cbf83af0",
       "title": "Context Scaling: A New Frontier of AI Scaling",
@@ -353,6 +449,18 @@
       "source_id": "arxiv_cs_ai",
       "source_name": "ArXiv cs.AI",
       "category": "research"
+    },
+    {
+      "id": "b370e60eddb979d7",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "published_at": "2026-11-27T00:00:00+00:00",
+      "author": "",
+      "summary_raw": "",
+      "hero_image": null,
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "category": "labs"
     },
     {
       "id": "046839972f16c7cb",
@@ -919,78 +1027,6 @@
       "category": "news"
     },
     {
-      "id": "4942a52244278a40",
-      "title": "Evropská unie chystá protiofenzívu v umělé inteligenci a kvantech, má pomoct v přepočtu přes bilion korun",
-      "url": "https://www.lupa.cz/aktuality/evropska-unie-chysta-protiofenzivu-v-umele-inteligenci-a-kvantech-ma-pomoct-v-prepoctu-pres-bilion-korun/",
-      "published_at": "2026-11-25T13:46:39+00:00",
-      "author": "redakce@lupa.cz (Lupa.cz: Iva Brejlová)",
-      "summary_raw": "Evropská komise chce zásadně finančně podpořit rozvoj umělé inteligence a kvantových technologií. Komise představila &#8222;Quantum Act&#8220; a také nový investiční nástroj Sovereign Tech Equity Fund (STEF), přes který mají proudit investice do umělé inteligence a kvanatové výpočetní techniky. Podle listu Financial Times má jeho objem dosáhnout 50 miliard eur, tedy v přepočtu přes 1,2 bilionu Kč.",
-      "hero_image": "https://i.iinfo.cz/images/440/henna-virkkunen-eurokomisarka.jpg",
-      "source_id": "lupa_cz",
-      "source_name": "Lupa.cz",
-      "category": "cz"
-    },
-    {
-      "id": "71b8d839b17b22d7",
-      "title": "The Download: AI swamping open records, and firefighting for permafrost",
-      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-      "published_at": "2026-11-25T13:10:00+00:00",
-      "author": "Thomas Macaulay",
-      "summary_raw": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?w=840",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "687491ad1037a821",
-      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-      "published_at": "2026-11-25T13:00:00+00:00",
-      "author": "Tim Fernholz",
-      "summary_raw": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
-      "hero_image": null,
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "category": "news"
-    },
-    {
-      "id": "bb86c27e2cbb658e",
-      "title": "Has vibe coding made open source the new normal for synths?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-      "published_at": "2026-11-25T13:00:00+00:00",
-      "author": "Terrence O’Brien",
-      "summary_raw": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "641bb401c6efaa9a",
-      "title": "AI may soon change what it means to be a theoretical physicist",
-      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-      "published_at": "2026-11-25T12:00:28+00:00",
-      "author": "Dan Kagan-Kans, Understanding AI",
-      "summary_raw": "Frontier AI is already solving problems that once took top physicists a full day.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "6926306e0de47345",
-      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
-      "published_at": "2026-11-25T11:30:00+00:00",
-      "author": "Aarian Marshall",
-      "summary_raw": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
-      "hero_image": "https://media.wired.com/photos/6b0548d39ef0144d4a117a16/master/pass/GettyImages-1291069581.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
       "id": "8ae9fb4576827991",
       "title": "An Indic Voice Agent with CUGA",
       "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
@@ -1001,18 +1037,6 @@
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
       "category": "labs"
-    },
-    {
-      "id": "3a91ef75401c24a5",
-      "title": "AI is straining America’s open records systems",
-      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "published_at": "2026-11-25T10:00:00+00:00",
-      "author": "Matthew King",
-      "summary_raw": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&#8230;",
-      "hero_image": null,
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
     },
     {
       "id": "38bef7dcc49b6e5c",
@@ -1310,30 +1334,6 @@
       "author": "Richard MacManus",
       "summary_raw": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
       "hero_image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b6f560cd-a37a-4d62-8d6b-da5b59cf4790/formal-verification-feature.png?t=1795207886",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
-    },
-    {
-      "id": "d459c02576475334",
-      "title": "Combatting adversarial distillation",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "published_at": "2026-11-20T10:00:00+00:00",
-      "author": "",
-      "summary_raw": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "hero_image": null,
-      "source_id": "openai_blog",
-      "source_name": "OpenAI Blog",
-      "category": "labs"
-    },
-    {
-      "id": "2986e6c5a7dfbcf4",
-      "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
-      "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
-      "published_at": "2026-11-20T07:12:24+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
-      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/fa96cf86-1eeb-4a71-b823-1f70fc69815f/image.png?t=1795158325",
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "category": "commentary"
