@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-28T05:01:07.531649+00:00",
+  "generated_at": "2026-11-28T12:58:49.987373+00:00",
   "date": "2026-11-28",
-  "article_count_unique": 83,
-  "article_count_raw": 83,
+  "article_count_unique": 75,
+  "article_count_raw": 75,
   "source_stats": [
     {
       "source_id": "techcrunch_ai",
@@ -13,26 +13,26 @@
     {
       "source_id": "verge_ai",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "arstechnica",
       "status": "ok",
-      "count": 7,
-      "raw_count": 7
+      "count": 6,
+      "raw_count": 6
     },
     {
       "source_id": "mit_tech_review",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 4,
+      "raw_count": 4
     },
     {
       "source_id": "wired_ai",
       "status": "ok",
-      "count": 2,
-      "raw_count": 2
+      "count": 1,
+      "raw_count": 1
     },
     {
       "source_id": "venturebeat_ai",
@@ -91,8 +91,8 @@
     {
       "source_id": "last_week_ai",
       "status": "ok",
-      "count": 1,
-      "raw_count": 1
+      "count": 0,
+      "raw_count": 0
     },
     {
       "source_id": "one_useful_thing",
@@ -103,14 +103,14 @@
     {
       "source_id": "simonw",
       "status": "ok",
-      "count": 5,
-      "raw_count": 5
+      "count": 3,
+      "raw_count": 3
     },
     {
       "source_id": "latent_space",
       "status": "ok",
-      "count": 8,
-      "raw_count": 8
+      "count": 7,
+      "raw_count": 7
     },
     {
       "source_id": "marcus_on_ai",
@@ -164,7 +164,7 @@
       "source_id": "lupa_cz",
       "status": "ok",
       "count": 1,
-      "raw_count": 5
+      "raw_count": 4
     },
     {
       "source_id": "czechcrunch",
@@ -174,6 +174,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "4439ec39ffaedef9",
+      "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+      "url": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+      "published_at": "2026-11-28T12:00:20+00:00",
+      "author": "Andrew Cunningham",
+      "summary_raw": "Kindles are getting costlier faster than they're getting better.",
+      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9931-1152x648-1795408102.jpeg",
+      "source_id": "arstechnica",
+      "source_name": "Ars Technica",
+      "category": "news"
+    },
     {
       "id": "f807ae3cd5ff55a3",
       "title": "[AINews] Inside the exploding Coding Data Market",
@@ -475,30 +487,6 @@
       "category": "news"
     },
     {
-      "id": "cdb590872e907b2b",
-      "title": "Draining peatlands is responsible for a few percent of our global warming",
-      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
-      "published_at": "2026-11-26T12:15:42+00:00",
-      "author": "Scott K. Johnson",
-      "summary_raw": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1296653735-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
-      "id": "1d6691ab5518c223",
-      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
-      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
-      "published_at": "2026-11-26T12:00:14+00:00",
-      "author": "Ars Staff",
-      "summary_raw": "Our home offices range from tasteful to \"please explain yourself.\"",
-      "hero_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-office-collage-2026-1152x648.jpg",
-      "source_id": "arstechnica",
-      "source_name": "Ars Technica",
-      "category": "news"
-    },
-    {
       "id": "bfd27a2c43cf85ac",
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
@@ -509,66 +497,6 @@
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
       "category": "labs"
-    },
-    {
-      "id": "bc3781320675df1e",
-      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
-      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
-      "published_at": "2026-11-26T10:51:27+00:00",
-      "author": "Isabella Ward",
-      "summary_raw": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
-      "hero_image": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/master/pass/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg",
-      "source_id": "wired_ai",
-      "source_name": "Wired AI",
-      "category": "news"
-    },
-    {
-      "id": "2b5b1a6d259425b0",
-      "title": "The next generation of bionic hands is here—and they can feel",
-      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
-      "published_at": "2026-11-26T09:59:00+00:00",
-      "author": "Jessica Hamzelou",
-      "summary_raw": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects&#8230;",
-      "hero_image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/261124_ProsetheticHand_Embed1.jpg?w=840",
-      "source_id": "mit_tech_review",
-      "source_name": "MIT Technology Review",
-      "category": "news"
-    },
-    {
-      "id": "0f8d3a75d6176e43",
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "published_at": "2026-11-26T09:54:40+00:00",
-      "author": "Terrence O’Brien",
-      "summary_raw": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - [&#8230;]",
-      "hero_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source_id": "verge_ai",
-      "source_name": "The Verge AI",
-      "category": "news"
-    },
-    {
-      "id": "af37b84f339800f0",
-      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
-      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
-      "published_at": "2026-11-26T06:08:25+00:00",
-      "author": "",
-      "summary_raw": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive characteristics. Normally, if you want to grab a snapshot copy of a SQLite database, you need to use either the backup API or VACUUM INTO . In both cases you need enough disk space to create a duplicate copy of your database, so if you're on a small instance and you already use more than half of the available disk you are plain out of luck. sqlite3_rsync can copy a snapshot of your database over an SSH connection to another machine, without first needing to create a full local copy! It's also good for synchronizing an existing copy of a database without re-transmitting the entire thing over the network. It works in a similar way to regular rsync: The core idea behind the protocol is that the replica sends cryptographic hashes for pages or groups of pages over to the origin side. The origin sends back page content that differs, or requests finer-grain hashes if a multi-page hash does not match. If the origin and replica start out being vastly different, the total network bandwidth can exceed the size of the entire database, due to the overhead of exchanging hashes, but the excess bandwidth is not great - a few percent at most. Update : Hah! Turns out I wrote about this application of sqlite_rsync back in October 2024 when the tool was first released. Tags: backups , sqlite",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
-    },
-    {
-      "id": "6d4de6a190bef309",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
-      "published_at": "2026-11-26T05:08:46+00:00",
-      "author": "",
-      "summary_raw": "My comment on The New York Times warns photographers not to update Photoshop over AI features &mdash; Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and balancing applied but no edits beyond that. He did spend a bunch of time trying to find the best possible natural lighting for the shots he wanted. The photo at the top of https://www.nytimes.com/2026/02/02/technology/moltbook-ai-so... is my laptop, taken in my garden, after hunting around for the best spot that didn't have too much glare on the screen. You can see how dirty my screen is, too! Photography for a newspaper is photo journalism, and they take it seriously. (Thankfully I did not have a visible stain on my shirt.) Tags: photography , new-york-times , hacker-news , journalism",
-      "hero_image": null,
-      "source_id": "simonw",
-      "source_name": "Simon Willison's Weblog",
-      "category": "commentary"
     },
     {
       "id": "01ffff0cc8be704d",
@@ -917,30 +845,6 @@
       "source_id": "openai_blog",
       "source_name": "OpenAI Blog",
       "category": "labs"
-    },
-    {
-      "id": "f699b4e877e1a5d5",
-      "title": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
-      "url": "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction",
-      "published_at": "2026-11-21T08:41:43+00:00",
-      "author": "",
-      "summary_raw": "Anthropic's $81B IPO, AI stocks enter a correction, Huang resigns from Nvidia, Trump and Xi agree on military AI",
-      "hero_image": "https://substackcdn.com/image/fetch/$s_!RcOW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe937cf00-17ca-41fb-866c-fd971727d6c6_3366x1906.png",
-      "source_id": "last_week_ai",
-      "source_name": "Last Week in AI",
-      "category": "newsletter"
-    },
-    {
-      "id": "adba4b8acef69b2d",
-      "title": "[AINews] Riemann Hypothesis proved...twice independently",
-      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
-      "published_at": "2026-11-21T05:02:13+00:00",
-      "author": "swyx .ai",
-      "summary_raw": "November 20 2026 —",
-      "hero_image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/46cbd562-7369-4863-b0a8-00306043d65a/image.png?t=1795236179",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "category": "commentary"
     },
     {
       "id": "816446490bf062e1",
