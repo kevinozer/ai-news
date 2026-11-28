@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-28",
+  "articles": [
+    {
+      "rank": 1,
+      "title_cs": "Trh s trénovacími daty pro AI zažívá obrovský boom",
+      "title_orig": "[AINews] Inside the exploding Coding Data Market",
+      "category": "business",
+      "summary_cs": [
+        "Přední AI vývojové laboratoře masivně investují do nákupu exkluzivních sad kódovacích a trénovacích dat.",
+        "Laboratoře si vybírají mezi připlacením za plnou exkluzivitu nebo slevou za sdílená data s konkurencí.",
+        "Z malých pilotních objednávek dat se stávají víceleté kontrakty za desítky milionů dolarů."
+      ],
+      "why_matters": "Ukazuje, jak se data pro kódování stávají jednou z nejcennějších komodit dnešního AI průmyslu.",
+      "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+      "source": "Latent Space"
+    },
+    {
+      "rank": 2,
+      "title_cs": "Čipy Q.ANT využívají k výpočtům AI světelné vlny",
+      "title_orig": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "category": "labs",
+      "summary_cs": [
+        "Německý startup Q.ANT vyvíjí fotonické čipy určené k efektivnímu zpracování AI modelů.",
+        "Technologie využívá světlo místo elektřiny k provádění energeticky nejnáročnějších maticových výpočtů.",
+        "Nový přístup slibuje výrazné snížení spotřeby elektrické energie v datových centrech."
+      ],
+      "why_matters": "Fotonické čipy představují klíčovou evropskou naději na řešení energetické krize AI datacentrem.",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "source": "Wired AI"
+    },
+    {
+      "rank": 3,
+      "title_cs": "Akcelerátory Trainium3 nasazeny na generování videa přes LTX-2.5",
+      "title_orig": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "category": "labs",
+      "summary_cs": [
+        "Hugging Face otestoval novou generaci čipů Trainium3 při náročném úkolu generování videa.",
+        "Generativní model LTX-2.5 prokazuje vysokou efektivitu a zrychlení výpočtů na novém hardwaru.",
+        "Nasazení ukazuje rostoucí konkurenci pro dominantní grafické čipy od společnosti Nvidia."
+      ],
+      "why_matters": "Průlom v alternativním hardwaru pro generování videa zlevní provoz pokročilých AI modelů.",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 4,
+      "title_cs": "Generální návladní 42 států brání prodeji dat uživatelů Character.AI",
+      "title_orig": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "category": "business",
+      "summary_cs": [
+        "Široká koalice amerických státních zástupců blokuje snahu Character.AI vydražit uživatelská data.",
+        "Firma v rámci insolvenčního řízení plánovala prodat soukromou historii konverzací více než 21 milionů lidí.",
+        "Právníci upozorňují na masivní narušení soukromí a rizikové nakládání s citlivými osobními údaji."
+      ],
+      "why_matters": "Důležitý precedens pro ochranu soukromí a osobních konverzací při krachu AI startupů.",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 5,
+      "title_cs": "Generování vlastních widgetů pro Android pomocí AI kódování",
+      "title_orig": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "category": "tools",
+      "summary_cs": [
+        "Nové nástroje umožňují uživatelům vytvářet vlastní Android widgety pouhým popisem v přirozeném jazyce.",
+        "Uživatelé si tak mohou bez znalosti kódování vytvořit např. živý přehled odjezdů autobusů ze své zastávky.",
+        "Přístup ukazuje praktický dopad koncepce vibe-codingu na každodenní používání chytrých telefonů."
+      ],
+      "why_matters": "Ukazuje, jak AI umožňuje běžným uživatelům vytvářet si aplikace na míru bez znalosti programování.",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge AI"
+    },
+    {
+      "rank": 6,
+      "title_cs": "Prototypy bionických rukou nové generace vracejí uživatelům hmat",
+      "title_orig": "The next generation of bionic hands is here-and they can feel",
+      "category": "research",
+      "summary_cs": [
+        "Pokročilé bionické protézy propojují elektronické snímače přímo s nervovou soustavou pacienta.",
+        "Uživatelé díky zpětné vazbě dokáží vnímat tlak a bezpečně manipulovat s křehkými předměty.",
+        "Technologie představuje zásadní posun v neuroinženýrství a propojení lidského těla s technologií."
+      ],
+      "why_matters": "Přímé propojení AI a nervové soustavy otevírá nové možnosti v léčení tělesných postižení.",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "source": "MIT Technology Review"
+    },
+    {
+      "rank": 7,
+      "title_cs": "Týdenní přehled: Musk rozdává akcie SpaceX a problémy evropských gigafactories",
+      "title_orig": "Musk dá všem dětem v USA akcie SpaceX, Huawei kradla a podváděla, čekání na evropský procesor z Brna",
+      "category": "wildcard",
+      "summary_cs": [
+        "Stavba evropských AI gigafactories se potýká s pomalým vyřizováním potřebné byrokracie.",
+        "Akcie společnosti Anthropic po vstupu na burzu klesly pod svou původní úpisovou hodnotu.",
+        "Česká technologická scéna dál čeká na dokončení vývoje evropského procesoru z Brna."
+      ],
+      "why_matters": "Souhrn klíčových událostí týdne s přímým dopadem na český i evropský technologický trh.",
+      "url": "https://www.lupa.cz/clanky/musk-da-vsem-detem-v-usa-akcie-spacex-huawei-kradla-a-podvadela-cekani-na-evropsky-procesor-z-brna/",
+      "source": "Lupa.cz"
+    },
+    {
+      "rank": 8,
+      "title_cs": "Kde vědci určují hranice pro autonomní AI agenty",
+      "title_orig": "Where scientists draw the line on AI agents",
+      "category": "labs",
+      "summary_cs": [
+        "Výzkumníci na platformě Hugging Face analyzují hranice bezpečného nasazení autonomních agentů.",
+        "Studie definuje protokoly a mantinely pro agenty spravující kritické systémy a citlivá data.",
+        "Upozorňuje na rizika nekontrolovaného řetězení autonomních kroků bez lidského dohledu."
+      ],
+      "why_matters": "Klíčový výzkum pro bezpečné zavádění autonomních AI agentů ve firmách a institucích.",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 9,
+      "title_cs": "Snowflake analyzuje zaměstnance, kteří překračují limity pro využití AI",
+      "title_orig": "After token leaderboards and spending caps, Snowflake has a third idea: Keep the cap, then learn from whoever breaks it",
+      "category": "business",
+      "summary_cs": [
+        "Společnost Snowflake stanovila rozpočtové limity pro využívání AI modelů svými zaměstnanci.",
+        "Místo trestání lidi překračující limity zkoumá a hledá vysoce efektivní pracovní postupy.",
+        "Zjištěné pokročilé workflows následně škáluje jako osvědčené postupy napříč celou firmou."
+      ],
+      "why_matters": "Inspirativní manažerský přístup k objevování nových AI use-casů uvnitř firemních týmů.",
+      "url": "https://venturebeat.com/orchestration/after-token-leaderboards-and-spending-caps-snowflake-has-a-third-idea-keep-the-cap-then-learn-from-whoever-breaks-it",
+      "source": "VentureBeat AI"
+    },
+    {
+      "rank": 10,
+      "title_cs": "Indický hlasový asistent postavený na architektuře CUGA",
+      "title_orig": "An Indic Voice Agent with CUGA",
+      "category": "open-source",
+      "summary_cs": [
+        "Komunita představila nového hlasového agenta optimalizovaného pro indické jazykové dialekty.",
+        "Model využívá otevřenou architekturu CUGA k dosažení velmi nízké latence při zpracování řeči.",
+        "Projekt ukazuje rostoucí význam lokálních open-source modelů pro specifické jazykové trhy."
+      ],
+      "why_matters": "Ukazuje trend vývoje specializovaných národních hlasových agentů na open-source základech.",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 11,
+      "title_cs": "Nástroj sqlite3_rsync přináší efektivní vzdálenou kopii SQLite databází",
+      "title_orig": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "category": "open-source",
+      "summary_cs": [
+        "Specializovaný nástroj sqlite3_rsync umožňuje bezpečné a rychlé replikování databází SQLite.",
+        "Nástroj dokáže přenášet pouze změněné stránky bez nutnosti zamykat celou databázi.",
+        "Usnadňuje vývojářům práci s lokálními datovými úložišti u moderních AI aplikací a agentů."
+      ],
+      "why_matters": "Zásadní nástroj pro vývojáře stavějící lehkou infrastrukturu pro AI agenty a lokální data.",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 12,
+      "title_cs": "Pětistupňové ladění modelu Inkling 2 Mini na jediné grafické kartě",
+      "title_orig": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "category": "open-source",
+      "summary_cs": [
+        "Komunita předvedla úspěšné spuštění a ladění inferenčního modelu Inkling 2 Mini na jediné GPU.",
+        "Díky technice hill-climbing dosahuje model vysokého výkonu i na dostupném profesionálním hardwaru.",
+        "Postup výrazně snižuje finanční bariéru pro provoz vlastních pokročilých modelů."
+      ],
+      "why_matters": "Demonstruje, že pokročilá inference AI modelů je dostupná i na jediném lokálním akcelerátoru.",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "rank": 13,
+      "title_cs": "Společnost iFood škáluje kódovací AI agenty na 15 000 repozitářů",
+      "title_orig": "How iFood scales coding agents across 15,000 repositories",
+      "category": "tools",
+      "summary_cs": [
+        "Donáškový gigant iFood úspěšně nasadil autonomní kódovací agenty napříč celou svou architekturou.",
+        "Systematické zapojení agentů pomáhá udrzovat konzistenci kódu a zrychluje opravy chyb.",
+        "Případová studie popisuje praktická úskalí a architekturu správy tisíců repozitářů."
+      ],
+      "why_matters": "Praktická ukázka masivního nasazení AI programátorů ve velké enterprise společnosti.",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI Blog"
+    },
+    {
+      "rank": 14,
+      "title_cs": "Rostoucí závislost na AI vedla ke ztrátě individuálního hlasu v obsahu",
+      "title_orig": "Quoting Jack Despain Zhou",
+      "category": "wildcard",
+      "summary_cs": [
+        "Komentář upozorňuje na postupnou deindividualizaci obsahu na internetu a v prezentacích.",
+        "Zvýšené používání modelů Claude a GPT vede k jednotnému stylistickému tónu napříč obory.",
+        "Autor varuje před ztrátou osobitosti v e-mailech, článcích i akademických přednáškách."
+      ],
+      "why_matters": "Reflektuje důležitý společenský fenomén uniformity textů generovaných umělou inteligencí.",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "source": "Simon Willison's Weblog"
+    },
+    {
+      "rank": 15,
+      "title_cs": "Debata o dalším kroku ve vývoji AI a rizicích nekontrolovaného pokroku",
+      "title_orig": "AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil",
+      "category": "research",
+      "summary_cs": [
+        "Přední výzkumníci v podcastu diskutují o tom, zda by měl být další vývoj AI modelů pozastaven.",
+        "Debata řeší míru porozumění veřejnosti i politiků ohledně rizik spojených s lidskou kontrolou.",
+        "Analýza rozebírá různé scénáře vývoje autonomních systémů a jejich dopad na společnost."
+      ],
+      "why_matters": "Poskytuje hluboký vhled do názorových rozporů mezi předními bezpečnostními výzkumníky AI.",
+      "url": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+      "source": "Dwarkesh Patel"
+    }
+  ]
+}
